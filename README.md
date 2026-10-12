@@ -105,3 +105,13 @@ Hikâye ve kutu bölümünü ürünün `editorial` listesinde ilgili `type` içi
 Ürün anahtarları güncel `code` ve ürün adından oluşturulmuştur; örneğin Son Aşk: `500-0304-son-ask`. Aynı anahtar fiyat dosyasında, tüm dil içeriklerinde ve route/şablon kayıtlarında eşleştirilmiştir. Eski URL'ler korunur; önceki anahtar `legacyKeys` içinde tutulur. SKU alanları değiştirilmemiştir.
 
 Mağaza/platform sipariş alanının altındaki “Size en yakın mağazamız” butonu, mevcut mağaza bulucuyu modal içinde açar. Ülke ve mağaza adı filtreleri, telefon ve detay bağlantıları aynı kaynak şablonunu kullanır. Gerçek mesafe sıralaması için mağaza koordinatları ve konum verisi ayrıca gerekir; mevcut yapıda mağazalar ülke/ad ile bulunur.
+
+## JSON metinlerinde biçimlendirme
+
+Ürün içerikleri, hikâye/kutu paragrafları, ürün/varyant adları ve UI şablon metinlerinde şu satır içi etiketler desteklenir: `<strong>`, `<b>`, `<br>`, `<em>`, `<i>`, `<u>`, `<s>`, `<small>`, `<mark>`, `<sup>`, `<sub>`. Örnek:
+
+```json
+"ingredients": "<strong>İçindekiler:</strong> Pandispanya, pasta kreması.<br><b>Alerjen bilgisi</b> ayrı alanda gösterilir."
+```
+
+Aynı biçimlendirme diğer dil dosyalarındaki metinlerde de kullanılabilir. Hikâye bölümünde ayrı paragraflar için `paragraphs` listesini, aynı paragraf içindeki satır geçişi için `<br>` kullanın. Ek HTML özellikleri (`class`, `style`, `onclick` vb.) aktarılmaz. Script, iframe, görsel veya form eklemek için bu metin alanları kullanılmaz; görseller ürünün ilgili görsel alanından yönetilir. İçerik, izin verilen etiketlerle React öğelerine dönüştürülür; kaynak HTML doğrudan sayfaya eklenmez.

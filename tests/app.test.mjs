@@ -6,6 +6,7 @@ import {validate,choice,cardPrice,money,match,resolve,menuCategories,menuSubcate
 import {validateRegions,validateRegionalCatalog,normalizePreferences,regionalCatalog,countryDefaults} from '../src/market.js';
 import {validateContent,translate,formatText,templateText} from '../src/i18n.js';
 import {loadAuthoringData,localizedEditorial} from '../src/data-loader.js';
+import {parseFormattedText,plainText} from '../src/formatted-text.js';
 const authored=await loadAuthoringData(async file=>JSON.parse(await fs.readFile('public/assets/data/'+file,'utf8')));
 const data=authored.catalog;
 const rawRegions=authored.regions;
@@ -52,7 +53,7 @@ test('returning visitor retains the selection without another first-visit dialog
 });
 test('built React application: navigation, variant update, dialogs, menu and slider',async()=>{
  const window=new Window({url:'http://localhost/index.html',settings:{enableJavaScriptEvaluation:true}});
- const edited=structuredClone(data);const p=edited.products.find(p=>p.code==='100-01-02');p.variants[0].price=111;p.variants[1].price=222;p.variants[1].pricesByCurrency={USD:9.99};p.variants[1].weight='500 g';p.variants[0].images=['pastalar/test-xs.png','pastalar/test-xs-2.png'];p.variants[1].images=['pastalar/test-s.png','pastalar/test-s-2.png'];
+ const edited=structuredClone(data);const p=edited.products.find(p=>p.code==='100-01-02');p.variants[0].price=111;p.variants[1].price=222;p.variants[1].pricesByCurrency={USD:9.99};p.variants[1].description='<strong onclick="window.bad=1">Deneme</strong><br><b>Kalın</b><script>window.bad=1</script>';p.variants[1].weight='500 g';p.variants[0].images=['pastalar/test-xs.png','pastalar/test-xs-2.png'];p.variants[1].images=['pastalar/test-s.png','pastalar/test-s-2.png'];
  edited.products.find(x=>x.name==='Lotus Kulesi').editorial[0].enabled=false;
  edited.products[0].markets=['TR'];
  const hidden=edited.categories.find(c=>c.name==='Kahvaltılıklar');hidden.megaMenuOnline=false;
@@ -109,6 +110,11 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  window.document.querySelectorAll('.gallery-thumb')[1].click();await wait();
  assert.match(window.document.querySelector('.product-main-image img').src,/test-xs-2\.png$/);
  const option=window.document.querySelector('input[value="S"]');option.click();await wait();assert.match(window.document.querySelector('.detail-price').textContent,/222/);assert.match(window.document.querySelector('.product-variants').textContent,/500 g/);
+ assert.equal(window.document.querySelector('.product-info .product-text strong').textContent,'Deneme');
+ assert.equal(window.document.querySelector('.product-info .product-text strong').getAttribute('onclick'),null);
+ assert.equal(window.document.querySelector('.product-info .product-text br')!==null,true);
+ assert.equal(window.document.querySelector('.product-info .product-text script'),null);
+ assert.equal(window.bad,undefined);
  assert.match(window.document.querySelector('.product-main-image img').src,/test-s\.png$/);
  assert.equal(window.document.querySelectorAll('.gallery-thumb').length,2);
  window.document.querySelector('.product-main-image').click();await wait();
@@ -215,4 +221,14 @@ test('current product codes and variant image fallback',()=>{
  const cake=data.products.find(p=>p.name==='Son Aşk');assert.equal(cake.key,'500-0304-son-ask');assert.ok(cake.legacyKeys.includes('500-01-17-son-ask'));
  const p={...data.products[0],images:['general.png'],variants:[{code:'a',images:['a.png','a-2.png']},{code:'b',images:[]}]};
  assert.deepEqual(variantImages(p,'a'),['a.png','a-2.png']);assert.deepEqual(variantImages(p,'b'),['general.png']);assert.equal(choice(p,'a').image,'a.png');
+});
+
+test('formatting supports nested inline tags and removes active HTML',()=>{
+ const w=new Window();const doc=w.document;
+ assert.deepEqual(parseFormattedText('<strong>A <b>B</b></strong><br>C',doc),[{tag:'strong',children:[{text:'A '},{tag:'b',children:[{text:'B'}]}]},{tag:'br',children:[]},{text:'C'}]);
+ assert.equal(plainText('<b>A&amp;B</b><br/>C',doc),'A&B\nC');
+ const result=parseFormattedText('<img src=x onerror=alert(1)><script>alert(1)</script><svg onload=alert(1)>bad</svg><b onclick=alert(1) style="color:red">Safe</b><a href="javascript:alert(1)">Text</a>',doc);
+ assert.deepEqual(result,[{tag:'b',children:[{text:'Safe'}]},{text:'Text'}]);
+ assert.equal(plainText('2 < 3',doc),'2 < 3');
+ w.happyDOM.abort();
 });
