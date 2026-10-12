@@ -115,3 +115,34 @@ Mağaza/platform sipariş alanının altındaki “Size en yakın mağazamız”
 ```
 
 Aynı biçimlendirme diğer dil dosyalarındaki metinlerde de kullanılabilir. Hikâye bölümünde ayrı paragraflar için `paragraphs` listesini, aynı paragraf içindeki satır geçişi için `<br>` kullanın. Ek HTML özellikleri (`class`, `style`, `onclick` vb.) aktarılmaz. Script, iframe, görsel veya form eklemek için bu metin alanları kullanılmaz; görseller ürünün ilgili görsel alanından yönetilir. İçerik, izin verilen etiketlerle React öğelerine dönüştürülür; kaynak HTML doğrudan sayfaya eklenmez.
+
+## Sayfa ve bileşen düzenleme rehberi
+
+`src/main.jsx` yalnızca React uygulamasını başlatır. `src/App.jsx` ortak yerleşimi ve uygulama durumunu bağlar. Görünüm değişikliklerini aşağıdaki dosyalarda yapın:
+
+| Düzenlenecek alan | Dosya |
+| --- | --- |
+| Ürün detay sayfası | `src/pages/ProductPage.jsx` |
+| Kategori ve alt kategori sayfası | `src/pages/CategoryPage.jsx` |
+| Tüm ürün kategorileri | `src/pages/ProductsPage.jsx` |
+| Anasayfa | `src/pages/HomePage.jsx`, `src/templates/home.json` |
+| Mağazalar sayfası | `src/pages/StoresPage.jsx` |
+| Site haritası | `src/pages/SitemapPage.jsx` |
+| Boş / bulunamadı / erişilemeyen sayfalar | `src/pages/PlaceholderPage.jsx` |
+| Header ve mega menü | `src/components/layout/Header.jsx` |
+| Footer | `src/components/layout/Footer.jsx`, `src/templates/footer.json` |
+| Ürün görsel galerisi | `src/components/products/ProductGallery.jsx` |
+| Ürün kartı | `src/components/products/ProductCard.jsx` |
+| Ürün hikâyesi ve kutunun ikinci hayatı | `src/components/products/EditorialSections.jsx` |
+| Mağaza/platform sipariş alanı | `src/components/products/OrderAvailability.jsx` |
+| Mağaza bulucu ve mağaza şablonları | `src/components/stores/StoreLocator.jsx`, `src/templates/stores.json` |
+| Popup çerçevesi ve açılıp kapanması | `src/components/dialogs/Dialogs.jsx` |
+| Popup içerikleri | `src/components/dialogs/SearchContent.jsx`, `ProfileContent.jsx`, `MobileMenuContent.jsx`, `CartContent.jsx`, `RegionForm.jsx` |
+| Anasayfa slider'ı | `src/components/home/HeroSlider.jsx` |
+| Sayfa türüne göre şablon seçimi | `src/routing/PageRouter.jsx` |
+
+İşlevler `src/hooks/` altında ayrılmıştır: `useCatalog` veri yükleme ve bölgesel katalog; `useNavigation` sayfa geçişleri; `useResolvedRoute` adres ve sayfa başlığı; `useDocumentLocale` dil ve yazı yönü; `useText` çeviri; `usePrice` para birimi; `useProductDetails` varyant, galeri, miktar ve ilgili ürünler; `useDialogState` popup form durumları.
+
+Ortak uygulama bağlamı `src/context/AppContext.jsx`, yerel kayıt ve URL/şablon yardımcıları `src/utils/` altındadır. JSON sayfa ağaçlarını React bileşenlerine dönüştüren kod `src/components/templates/TemplateRenderer.jsx` dosyasındadır; akordiyon ayrı `Disclosure.jsx` bileşenidir. `src/templates/header.json` eski kaynak şablonudur; aktif header düzenlemeleri `Header.jsx` üzerinde yapılır.
+
+Ürün, fiyat, varyant ve çok dilli içerik girişleri mevcut `public/assets/data/` dosyalarından yapılmaya devam eder. Şablon dosyaları görünümü, JSON içerik dosyaları metinleri yönetir. Genel CSS `src/style.css` dosyasındadır.

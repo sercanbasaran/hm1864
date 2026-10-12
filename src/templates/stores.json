@@ -1,0 +1,752 @@
+{
+  "tag": "main",
+  "attrs": {
+    "id": "main"
+  },
+  "children": [
+    {
+      "tag": "nav",
+      "attrs": {
+        "class": "breadcrumb",
+        "aria-label": "@text:template.0164"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attrs": {
+            "class": "",
+            "href": "../index.html"
+          },
+          "children": [
+            "@text:template.0165"
+          ]
+        },
+        {
+          "tag": "span",
+          "attrs": {},
+          "children": [
+            "@text:template.0166"
+          ]
+        },
+        {
+          "tag": "span",
+          "attrs": {
+            "aria-current": "page"
+          },
+          "children": [
+            "@text:ui.stores"
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "section",
+      "attrs": {
+        "class": "store-locator"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "map-panel"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "map-placeholder"
+              },
+              "children": [
+                {
+                  "tag": "svg",
+                  "attrs": {
+                    "class": "icon",
+                    "viewbox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "1.5",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    {
+                      "tag": "path",
+                      "attrs": {
+                        "d": "M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"
+                      },
+                      "children": []
+                    },
+                    {
+                      "tag": "circle",
+                      "attrs": {
+                        "cx": "12",
+                        "cy": "10",
+                        "r": "2.5"
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "h2",
+                  "attrs": {},
+                  "children": [
+                    "@text:template.0167"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "@text:template.0168"
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attrs": {},
+                  "children": [
+                    "@text:template.0169"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "store-list"
+          },
+          "children": [
+            {
+              "tag": "h1",
+              "attrs": {},
+              "children": [
+                "@text:template.0170"
+              ]
+            },
+            {
+              "tag": "p",
+              "attrs": {},
+              "children": [
+                "@text:template.0171"
+              ]
+            },
+            {
+              "tag": "form",
+              "attrs": {
+                "id": "store-search"
+              },
+              "children": [
+                {
+                  "tag": "label",
+                  "attrs": {},
+                  "children": [
+                    "@text:template.0172",
+                    {
+                      "tag": "select",
+                      "attrs": {
+                        "name": "country"
+                      },
+                      "children": [
+                        {
+                          "tag": "option",
+                          "attrs": {
+                            "value": "@text:template.0173"
+                          },
+                          "children": [
+                            "@text:template.0174"
+                          ]
+                        },
+                        {
+                          "tag": "option",
+                          "attrs": {
+                            "value": "@text:template.0175"
+                          },
+                          "children": [
+                            "@text:template.0176"
+                          ]
+                        },
+                        {
+                          "tag": "option",
+                          "attrs": {
+                            "value": "@text:template.0177"
+                          },
+                          "children": [
+                            "@text:template.0178"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "label",
+                  "attrs": {},
+                  "children": [
+                    "@text:template.0179",
+                    {
+                      "tag": "input",
+                      "attrs": {
+                        "name": "query",
+                        "type": "search"
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "button",
+                  "attrs": {
+                    "class": "button",
+                    "type": "submit"
+                  },
+                  "children": [
+                    "@text:template.0180"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "id": "store-result-count",
+                "role": "status"
+              },
+              "children": []
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "store-results"
+              },
+              "children": [
+                {
+                  "tag": "article",
+                  "attrs": {
+                    "class": "store-card",
+                    "data-store-name": "Porta Vadi",
+                    "data-country": "TR"
+                  },
+                  "children": [
+                    {
+                      "tag": "h2",
+                      "attrs": {},
+                      "children": [
+                        "@text:template.0181"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "class": "icon",
+                            "viewbox": "0 0 24 24",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.5",
+                            "stroke-linecap": "round",
+                            "stroke-linejoin": "round",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "path",
+                              "attrs": {
+                                "d": "M6 2 3 5c0 9 7 16 16 16l3-3-6-4-2 2c-3-1-5-3-6-6l2-2-4-6Z"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "href": "tel:+902128925151"
+                          },
+                          "children": [
+                            "@text:template.0182"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "class": "icon",
+                            "viewbox": "0 0 24 24",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.5",
+                            "stroke-linecap": "round",
+                            "stroke-linejoin": "round",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "path",
+                              "attrs": {
+                                "d": "M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "circle",
+                              "attrs": {
+                                "cx": "12",
+                                "cy": "10",
+                                "r": "2.5"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        "@text:template.0183"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "class": "",
+                        "href": "../magazalar/porta-vadi/index.html"
+                      },
+                      "children": [
+                        "@text:template.0184"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "article",
+                  "attrs": {
+                    "class": "store-card",
+                    "data-store-name": "Nişantaşı",
+                    "data-country": "TR"
+                  },
+                  "children": [
+                    {
+                      "tag": "h2",
+                      "attrs": {},
+                      "children": [
+                        "@text:template.0185"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "class": "icon",
+                            "viewbox": "0 0 24 24",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.5",
+                            "stroke-linecap": "round",
+                            "stroke-linejoin": "round",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "path",
+                              "attrs": {
+                                "d": "M6 2 3 5c0 9 7 16 16 16l3-3-6-4-2 2c-3-1-5-3-6-6l2-2-4-6Z"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "href": "tel:+902122191736"
+                          },
+                          "children": [
+                            "@text:template.0186"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "class": "icon",
+                            "viewbox": "0 0 24 24",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.5",
+                            "stroke-linecap": "round",
+                            "stroke-linejoin": "round",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "path",
+                              "attrs": {
+                                "d": "M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "circle",
+                              "attrs": {
+                                "cx": "12",
+                                "cy": "10",
+                                "r": "2.5"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        "@text:template.0187"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "class": "",
+                        "href": "../magazalar/nisantasi/index.html"
+                      },
+                      "children": [
+                        "@text:template.0184"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "article",
+                  "attrs": {
+                    "class": "store-card",
+                    "data-store-name": "Bahçekapı",
+                    "data-country": "TR"
+                  },
+                  "children": [
+                    {
+                      "tag": "h2",
+                      "attrs": {},
+                      "children": [
+                        "@text:template.0188"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "class": "icon",
+                            "viewbox": "0 0 24 24",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.5",
+                            "stroke-linecap": "round",
+                            "stroke-linejoin": "round",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "path",
+                              "attrs": {
+                                "d": "M6 2 3 5c0 9 7 16 16 16l3-3-6-4-2 2c-3-1-5-3-6-6l2-2-4-6Z"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "href": "tel:+902125133610"
+                          },
+                          "children": [
+                            "@text:template.0189"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "class": "icon",
+                            "viewbox": "0 0 24 24",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.5",
+                            "stroke-linecap": "round",
+                            "stroke-linejoin": "round",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "path",
+                              "attrs": {
+                                "d": "M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "circle",
+                              "attrs": {
+                                "cx": "12",
+                                "cy": "10",
+                                "r": "2.5"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        "@text:template.0190"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "class": "",
+                        "href": "../magazalar/bahcekapi/index.html"
+                      },
+                      "children": [
+                        "@text:template.0184"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "article",
+                  "attrs": {
+                    "class": "store-card",
+                    "data-store-name": "Sirkeci",
+                    "data-country": "TR"
+                  },
+                  "children": [
+                    {
+                      "tag": "h2",
+                      "attrs": {},
+                      "children": [
+                        "@text:template.0191"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "class": "icon",
+                            "viewbox": "0 0 24 24",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.5",
+                            "stroke-linecap": "round",
+                            "stroke-linejoin": "round",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "path",
+                              "attrs": {
+                                "d": "M6 2 3 5c0 9 7 16 16 16l3-3-6-4-2 2c-3-1-5-3-6-6l2-2-4-6Z"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "href": "tel:+902125276654"
+                          },
+                          "children": [
+                            "@text:template.0192"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "class": "icon",
+                            "viewbox": "0 0 24 24",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.5",
+                            "stroke-linecap": "round",
+                            "stroke-linejoin": "round",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "path",
+                              "attrs": {
+                                "d": "M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "circle",
+                              "attrs": {
+                                "cx": "12",
+                                "cy": "10",
+                                "r": "2.5"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        "@text:template.0193"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "class": "",
+                        "href": "../magazalar/sirkeci/index.html"
+                      },
+                      "children": [
+                        "@text:template.0184"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "article",
+                  "attrs": {
+                    "class": "store-card",
+                    "data-store-name": "Edebiyat Kıraathanesi",
+                    "data-country": "TR"
+                  },
+                  "children": [
+                    {
+                      "tag": "h2",
+                      "attrs": {},
+                      "children": [
+                        "@text:template.0194"
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "class": "icon",
+                            "viewbox": "0 0 24 24",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.5",
+                            "stroke-linecap": "round",
+                            "stroke-linejoin": "round",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "path",
+                              "attrs": {
+                                "d": "M6 2 3 5c0 9 7 16 16 16l3-3-6-4-2 2c-3-1-5-3-6-6l2-2-4-6Z"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "a",
+                          "attrs": {
+                            "href": "tel:+902125149068"
+                          },
+                          "children": [
+                            "@text:template.0195"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attrs": {},
+                      "children": [
+                        {
+                          "tag": "svg",
+                          "attrs": {
+                            "class": "icon",
+                            "viewbox": "0 0 24 24",
+                            "fill": "none",
+                            "stroke": "currentColor",
+                            "stroke-width": "1.5",
+                            "stroke-linecap": "round",
+                            "stroke-linejoin": "round",
+                            "aria-hidden": "true"
+                          },
+                          "children": [
+                            {
+                              "tag": "path",
+                              "attrs": {
+                                "d": "M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "circle",
+                              "attrs": {
+                                "cx": "12",
+                                "cy": "10",
+                                "r": "2.5"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        "@text:template.0196"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "class": "",
+                        "href": "../magazalar/edebiyat-kiraathanesi/index.html"
+                      },
+                      "children": [
+                        "@text:template.0184"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attrs": {
+                "id": "store-empty",
+                "hidden": null
+              },
+              "children": [
+                "@text:template.0197"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

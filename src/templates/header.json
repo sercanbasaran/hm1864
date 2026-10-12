@@ -1,0 +1,576 @@
+{
+  "tag": "header",
+  "attrs": {
+    "class": "site-header header-gold"
+  },
+  "children": [
+    "\n ",
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "header-service"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "header-safe"
+          },
+          "children": [
+            {
+              "tag": "button",
+              "attrs": {
+                "data-open": "region-dialog"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "class": "region-intro"
+                  },
+                  "children": [
+                    "@text:ui.regionLabel "
+                  ]
+                },
+                {
+                  "tag": "span",
+                  "attrs": {
+                    "data-region-label": null
+                  },
+                  "children": [
+                    "@text:template.0001"
+                  ]
+                },
+                {
+                  "tag": "svg",
+                  "attrs": {
+                    "class": "icon",
+                    "viewbox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "1.5",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    {
+                      "tag": "path",
+                      "attrs": {
+                        "d": "m7 10 5 5 5-5"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "service-links"
+              },
+              "children": [
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "class": "",
+                    "href": "magazalar/index.html"
+                  },
+                  "children": [
+                    "@text:ui.stores"
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attrs": {
+                    "class": "service-contact",
+                    "href": "iletisim/index.html"
+                  },
+                  "children": [
+                    "@text:ui.contact"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "\n ",
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "header-brandbar"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "header-safe"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "header-left"
+              },
+              "children": [
+                {
+                  "tag": "button",
+                  "attrs": {
+                    "class": "mobile-toggle icon-button",
+                    "data-open": "mobile-dialog",
+                    "aria-label": "@text:template.0002"
+                  },
+                  "children": [
+                    {
+                      "tag": "svg",
+                      "attrs": {
+                        "class": "icon",
+                        "viewbox": "0 0 24 24",
+                        "fill": "none",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.5",
+                        "stroke-linecap": "round",
+                        "stroke-linejoin": "round",
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        {
+                          "tag": "path",
+                          "attrs": {
+                            "d": "M3 6h18M3 12h18M3 18h18"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "button",
+                  "attrs": {
+                    "class": "icon-button",
+                    "data-open": "search-dialog",
+                    "aria-label": "@text:template.0003"
+                  },
+                  "children": [
+                    {
+                      "tag": "svg",
+                      "attrs": {
+                        "class": "icon",
+                        "viewbox": "0 0 24 24",
+                        "fill": "none",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.5",
+                        "stroke-linecap": "round",
+                        "stroke-linejoin": "round",
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        {
+                          "tag": "circle",
+                          "attrs": {
+                            "cx": "10.5",
+                            "cy": "10.5",
+                            "r": "6.5"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attrs": {
+                            "d": "m16 16 5 5"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attrs": {
+                "class": "header-logo",
+                "href": "index.html",
+                "aria-label": "@text:template.0004"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attrs": {
+                    "src": "assets/images/medya/header-logo.png",
+                    "width": "176",
+                    "height": "100",
+                    "alt": "@text:template.0005"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attrs": {
+                "class": "header-right"
+              },
+              "children": [
+                {
+                  "tag": "button",
+                  "attrs": {
+                    "class": "icon-button",
+                    "data-open": "profile-dialog",
+                    "aria-label": "@text:template.0006"
+                  },
+                  "children": [
+                    {
+                      "tag": "svg",
+                      "attrs": {
+                        "class": "icon",
+                        "viewbox": "0 0 24 24",
+                        "fill": "none",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.5",
+                        "stroke-linecap": "round",
+                        "stroke-linejoin": "round",
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        {
+                          "tag": "circle",
+                          "attrs": {
+                            "cx": "12",
+                            "cy": "7",
+                            "r": "4"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attrs": {
+                            "d": "M4 22v-3a8 8 0 0 1 16 0v3"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "button",
+                  "attrs": {
+                    "class": "icon-button cart-open",
+                    "data-open": "cart-dialog",
+                    "aria-label": "@text:template.0007"
+                  },
+                  "children": [
+                    {
+                      "tag": "svg",
+                      "attrs": {
+                        "class": "icon",
+                        "viewbox": "0 0 24 24",
+                        "fill": "none",
+                        "stroke": "currentColor",
+                        "stroke-width": "1.5",
+                        "stroke-linecap": "round",
+                        "stroke-linejoin": "round",
+                        "aria-hidden": "true"
+                      },
+                      "children": [
+                        {
+                          "tag": "path",
+                          "attrs": {
+                            "d": "M5 7h14l1 15H4L5 7Z"
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "path",
+                          "attrs": {
+                            "d": "M8 8V5a4 4 0 0 1 8 0v3"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "data-cart-count": null,
+                        "hidden": null
+                      },
+                      "children": [
+                        "@text:template.0008"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "\n ",
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "header-categories"
+      },
+      "children": [
+        {
+          "tag": "nav",
+          "attrs": {
+            "class": "header-safe",
+            "aria-label": "@text:template.0009"
+          },
+          "children": [
+            {
+              "tag": "button",
+              "attrs": {
+                "class": "nav-button all-menu",
+                "data-menu": "all",
+                "aria-expanded": "false",
+                "aria-controls": "mega-menu"
+              },
+              "children": [
+                "@text:ui.allMenu",
+                {
+                  "tag": "svg",
+                  "attrs": {
+                    "class": "icon",
+                    "viewbox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "1.5",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    {
+                      "tag": "path",
+                      "attrs": {
+                        "d": "m7 10 5 5 5-5"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "class": "nav-button",
+                "data-menu": "baklavalar",
+                "aria-expanded": "false",
+                "aria-controls": "mega-menu"
+              },
+              "children": [
+                "@text:template.0010",
+                {
+                  "tag": "svg",
+                  "attrs": {
+                    "class": "icon",
+                    "viewbox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "1.5",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    {
+                      "tag": "path",
+                      "attrs": {
+                        "d": "m7 10 5 5 5-5"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "class": "nav-button",
+                "data-menu": "lokumlar",
+                "aria-expanded": "false",
+                "aria-controls": "mega-menu"
+              },
+              "children": [
+                "@text:template.0011",
+                {
+                  "tag": "svg",
+                  "attrs": {
+                    "class": "icon",
+                    "viewbox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "1.5",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    {
+                      "tag": "path",
+                      "attrs": {
+                        "d": "m7 10 5 5 5-5"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "class": "nav-button",
+                "data-menu": "kadayiflar",
+                "aria-expanded": "false",
+                "aria-controls": "mega-menu"
+              },
+              "children": [
+                "@text:template.0012",
+                {
+                  "tag": "svg",
+                  "attrs": {
+                    "class": "icon",
+                    "viewbox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "1.5",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    {
+                      "tag": "path",
+                      "attrs": {
+                        "d": "m7 10 5 5 5-5"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "class": "nav-button",
+                "data-menu": "kahveler",
+                "aria-expanded": "false",
+                "aria-controls": "mega-menu"
+              },
+              "children": [
+                "@text:template.0013",
+                {
+                  "tag": "svg",
+                  "attrs": {
+                    "class": "icon",
+                    "viewbox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "1.5",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    {
+                      "tag": "path",
+                      "attrs": {
+                        "d": "m7 10 5 5 5-5"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "button",
+              "attrs": {
+                "class": "nav-button",
+                "data-menu": "caylar",
+                "aria-expanded": "false",
+                "aria-controls": "mega-menu"
+              },
+              "children": [
+                "@text:template.0014",
+                {
+                  "tag": "svg",
+                  "attrs": {
+                    "class": "icon",
+                    "viewbox": "0 0 24 24",
+                    "fill": "none",
+                    "stroke": "currentColor",
+                    "stroke-width": "1.5",
+                    "stroke-linecap": "round",
+                    "stroke-linejoin": "round",
+                    "aria-hidden": "true"
+                  },
+                  "children": [
+                    {
+                      "tag": "path",
+                      "attrs": {
+                        "d": "m7 10 5 5 5-5"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "\n ",
+    {
+      "tag": "div",
+      "attrs": {
+        "class": "header-collection"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attrs": {
+            "class": "header-safe"
+          },
+          "children": [
+            {
+              "tag": "a",
+              "attrs": {
+                "class": "",
+                "href": "koleksiyonlar/hm-1864-serisi/index.html"
+              },
+              "children": [
+                "@text:template.0015"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "section",
+      "attrs": {
+        "id": "mega-menu",
+        "class": "mega-menu",
+        "aria-label": "@text:template.0016",
+        "hidden": null
+      },
+      "children": []
+    }
+  ]
+}
