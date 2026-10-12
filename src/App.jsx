@@ -1,3 +1,6 @@
+import Breadcrumb from "./components/Breadcrumb.jsx";
+import { buildBreadcrumbs } from "./routing/breadcrumbs.js";
+import routes from "./routes.json";
 import React, { useState, useEffect } from "react";
 import { AppContext } from "./context/AppContext.jsx";
 import { useCatalog } from "./hooks/useCatalog.js";
@@ -36,6 +39,15 @@ export default function App() {
     preferences,
     regions,
     t,
+  });
+  const breadcrumbs = buildBreadcrumbs({
+    path,
+    route,
+    data,
+    rawData,
+    routes,
+    t,
+    language: preferences?.language || regions?.defaultLanguage || "tr",
   });
   useDocumentLocale(preferences);
   useEffect(() => {
@@ -79,6 +91,7 @@ export default function App() {
       <div onClick={navigate}>
         <Header />
         <main id="main" key={path}>
+          <Breadcrumb items={breadcrumbs} />
           <Page route={route} />
         </main>
         <Footer />

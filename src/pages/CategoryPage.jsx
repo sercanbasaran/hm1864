@@ -5,7 +5,6 @@ import { local } from "../utils/urls.js";
 import RichText from "../RichText.jsx";
 import { plainText } from "../formatted-text.js";
 import Card from "../components/products/ProductCard.jsx";
-import Breadcrumb from "../components/Breadcrumb.jsx";
 import { match } from "../model.js";
 
 export default function CategoryPage({ category: c }) {
@@ -27,7 +26,6 @@ export default function CategoryPage({ category: c }) {
     );
   return (
     <>
-      <Breadcrumb title={c.name} />
       <section className="catalog-hero">
         <h1>
           <RichText value={c.name} />

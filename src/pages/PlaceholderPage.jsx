@@ -2,13 +2,11 @@ import React from "react";
 import { useText } from "../hooks/useText.js";
 import { local } from "../utils/urls.js";
 import RichText from "../RichText.jsx";
-import Breadcrumb from "../components/Breadcrumb.jsx";
 
 export default function PlaceholderPage({ route }) {
   const t = useText();
   return (
     <>
-      <Breadcrumb title={route.title || t("ui.copy.051")} />
       <section className="placeholder-content">
         <p className="eyebrow">
           <RichText value={t("template.0137")} />

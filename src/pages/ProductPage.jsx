@@ -4,7 +4,6 @@ import React from "react";
 import RichText from "../RichText.jsx";
 import { plainText } from "../formatted-text.js";
 import Card from "../components/products/ProductCard.jsx";
-import Breadcrumb from "../components/Breadcrumb.jsx";
 import Text from "../components/products/ProductText.jsx";
 import OrderAvailability from "../components/products/OrderAvailability.jsx";
 import EditorialSections from "../components/products/EditorialSections.jsx";
@@ -30,8 +29,6 @@ export default function ProductPage({ product: p }) {
 
   return (
     <>
-      <Breadcrumb title={p.name} />
-
       <section className="product-detail catalog-detail">
         <ProductGallery
           product={p}

@@ -1,3 +1,4 @@
+import {buildBreadcrumbs} from '../src/routing/breadcrumbs.js';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
@@ -101,6 +102,8 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  const beforeSlide=Number(window.document.querySelector('.hero-track').style.transform.match(/-(\d+)%/)[1])/100;window.document.querySelector('[aria-label="Sonraki slayt"]').click();await wait();assert.equal(Number(window.document.querySelector('.hero-track').style.transform.match(/-(\d+)%/)[1])/100,(beforeSlide+1)%4);
  window.document.getElementById('year-1888').click();await wait();assert.match(window.document.getElementById('heritage-content').textContent,/1888/);
  const link=window.document.createElement('a');link.href='/'+p.url;window.document.querySelector('#main').appendChild(link);link.click();await wait();
+ assert.equal(window.document.querySelectorAll('.breadcrumb').length,1);
+ assert.deepEqual([...window.document.querySelector('.breadcrumb').querySelectorAll('a,[aria-current="page"]')].map(el=>el.textContent),[translate(content,'tr','template.0165'),p.category,p.subcategory,p.name]);
  assert.equal(window.document.querySelector('h1').textContent,p.name);assert.match(window.document.querySelector('.detail-price').textContent,/111/);
  for(const href of ['/index.html','/urunler/index.html','/'+p.url,'/index.html','/'+p.url]){
    const nav=window.document.createElement('a');nav.href=href;window.document.querySelector('#main').appendChild(nav);nav.click();await wait();
@@ -231,4 +234,38 @@ test('formatting supports nested inline tags and removes active HTML',()=>{
  assert.deepEqual(result,[{tag:'b',children:[{text:'Safe'}]},{text:'Text'}]);
  assert.equal(plainText('2 < 3',doc),'2 < 3');
  w.happyDOM.abort();
+});
+
+ test('breadcrumb hierarchy follows product taxonomy and sitemap for every route',()=>{
+ const t=key=>translate(content,'tr',key);
+ const make=(path,route=resolve(path,data,routes),catalog=data)=>buildBreadcrumbs({path,route,data:catalog,rawData:data,routes,t});
+ const product=data.products.find(p=>p.code==='100-01-02');
+ const cat=data.categories.find(c=>c.id===product.categoryId);
+ const sub=data.subcategories.find(c=>c.id===product.subcategoryId);
+ assert.deepEqual(make('/'+product.url).map(c=>c.label),[t('template.0165'),cat.name,sub.name,product.name]);
+ assert.deepEqual(make('/'+product.url).slice(0,-1).map(c=>c.url),['index.html',cat.url,sub.url]);
+ assert.deepEqual(make('/'+cat.url).map(c=>c.label),[t('template.0165'),cat.name]);
+ assert.deepEqual(make('/'+sub.url).map(c=>c.label),[t('template.0165'),cat.name,sub.name]);
+ assert.equal(make('/urunler/index.html').length,2);
+ assert.deepEqual(make('/kurumsal/kariyer/').map(c=>c.label),[t('template.0165'),t('page.0021'),t('page.0026')]);
+ assert.deepEqual(make('/hesabim/adreslerim.html').slice(0,-1).map(c=>c.url),['index.html','hesabim/index.html']);
+ assert.equal(make('/iletisim/index.html').length,2);
+ assert.deepEqual(make('/index.html'),[]);
+ assert.equal(make('/unknown.html').at(-1).current,true);
+ const unavailable=make('/'+product.url,{kind:'unavailable',title:product.name},{...data,products:[]});
+ assert.deepEqual(unavailable.map(c=>c.label),[t('template.0165'),cat.name,sub.name,product.name]);
+ const english=regionalCatalog(data,{country:'TR',language:'en'},regions);
+ const enProduct=english.products.find(p=>p.key===product.key);
+ const enTrail=buildBreadcrumbs({path:'/'+enProduct.url,route:resolve('/'+enProduct.url,english,routes),data:english,routes,t:key=>translate(content,'en',key),language:'en'});
+ assert.equal(enTrail.at(-1).label,enProduct.name);
+ for(const url of Object.keys(routes)) {
+  const trail=make('/'+url);
+  if(!trail.length)continue;
+  assert.equal(trail.filter(c=>c.current).length,1,url);
+  assert.equal(trail.at(-1).current,true,url);
+  assert.ok(trail.every(c=>typeof c.label==='string'&&c.label.length),url);
+  const links=trail.filter(c=>c.url).map(c=>c.url);
+  assert.equal(new Set(links).size,links.length,url);
+  for(const link of links)assert.notEqual(resolve('/'+link,data,routes).kind,'404',link);
+ }
 });

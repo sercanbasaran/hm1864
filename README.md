@@ -146,3 +146,7 @@ Aynı biçimlendirme diğer dil dosyalarındaki metinlerde de kullanılabilir. H
 Ortak uygulama bağlamı `src/context/AppContext.jsx`, yerel kayıt ve URL/şablon yardımcıları `src/utils/` altındadır. JSON sayfa ağaçlarını React bileşenlerine dönüştüren kod `src/components/templates/TemplateRenderer.jsx` dosyasındadır; akordiyon ayrı `Disclosure.jsx` bileşenidir. `src/templates/header.json` eski kaynak şablonudur; aktif header düzenlemeleri `Header.jsx` üzerinde yapılır.
 
 Ürün, fiyat, varyant ve çok dilli içerik girişleri mevcut `public/assets/data/` dosyalarından yapılmaya devam eder. Şablon dosyaları görünümü, JSON içerik dosyaları metinleri yönetir. Genel CSS `src/style.css` dosyasındadır.
+
+## Breadcrumb hiyerarşisi
+
+Breadcrumb tüm sayfalarda `src/App.jsx` içinde bir kez gösterilir. Hiyerarşi `src/routing/breadcrumbs.js`, görünüm `src/components/Breadcrumb.jsx` dosyasından düzenlenir. Ürünler için kategori/alt kategori kimlikleri kullanılır: Anasayfa > Ürün grubu > Ürün alt grubu > Ürün. Kategori sayfasında yol kategoriye, alt kategori sayfasında alt kategoriye kadar gösterilir. Diğer sayfaların üst seviyeleri `src/routes.json` site haritasındaki mevcut üst sayfalardan alınır. Anasayfada breadcrumb gösterilmez. Etiketler seçilen dile göre gösterilir; son öğe bağlantısızdır ve `aria-current="page"` ile belirtilir.

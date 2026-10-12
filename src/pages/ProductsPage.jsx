@@ -3,14 +3,12 @@ import { useApp } from "../context/AppContext.jsx";
 import { useText } from "../hooks/useText.js";
 import { local } from "../utils/urls.js";
 import RichText from "../RichText.jsx";
-import Breadcrumb from "../components/Breadcrumb.jsx";
 
 export default function ProductsPage() {
   const { data } = useApp();
   const t = useText();
   return (
     <>
-      <Breadcrumb title={t("page.0013")} />
       <section className="catalog-hero">
         <p className="eyebrow">
           <RichText value={t("template.0137")} />
