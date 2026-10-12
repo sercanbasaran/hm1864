@@ -4,14 +4,18 @@ import fs from 'node:fs/promises';
 import {Window} from 'happy-dom';
 import {validate,choice,match,resolve,menuCategories,menuSubcategories} from '../src/model.js';
 import {validateRegions,validateRegionalCatalog,normalizePreferences,regionalCatalog} from '../src/market.js';
+import {validateContent,translate,formatText,templateText} from '../src/i18n.js';
 const data=JSON.parse(await fs.readFile('public/assets/data/products.json','utf8'));
-const regions=JSON.parse(await fs.readFile('public/assets/data/regions.json','utf8'));
+const rawRegions=JSON.parse(await fs.readFile('public/assets/data/regions.json','utf8'));
+const content=validateContent(JSON.parse(await fs.readFile('public/assets/data/content.json','utf8')));
+const regions=validateRegions(rawRegions,content.languages);
 const routes=JSON.parse(await fs.readFile('src/routes.json','utf8'));
+const templateJSON=await fs.readFile('src/templates.json','utf8');
 test('catalogue, all 376 routes, and variant data are retained',()=>{validate(data);assert.equal(data.products.length,163);assert.equal(data.products.filter(p=>p.variants.length).length,79);for(const url of Object.keys(routes))assert.ok(resolve('/'+url,data,routes));for(const p of data.products){assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);assert.equal(resolve('/'+p.url.replace(/\.html$/,''),data,routes).product.key,p.key);}assert.equal(resolve('/unknown.html',data,routes).kind,'404');assert.ok(match(data.products.find(p=>p.code==='100-01-02'),'FISTIKLI'));const p={...data.products[0],price:100,stock:5,variants:[{code:'S',price:0,stock:0}]};assert.equal(choice(p,'S').price,0);assert.equal(choice(p,'S').stock,0);});
 test('region preferences, localized names and explicit product availability',()=>{
- validateRegions(regions);
- assert.deepEqual(normalizePreferences({country:'Türkiye',language:'Türkçe'},regions),{country:'TR',language:'tr'});
- assert.equal(normalizePreferences({country:'XX',language:'en'},regions),null);
+ validateRegions(rawRegions,content.languages);
+ assert.deepEqual(normalizePreferences({country:'Türkiye',language:'Türkçe'},regions,content),{country:'TR',language:'tr'});
+ assert.equal(normalizePreferences({country:'XX',language:'en'},regions,content),null);
  const sample=structuredClone(data),product=sample.products[0];
  product.markets=['TR'];product.translations={en:{name:'Water Börek'}};
  sample.categories[0].translations={en:{name:'Breakfast'}};
@@ -31,10 +35,10 @@ const wait=()=>new Promise(r=>setTimeout(r,50));
 test('returning visitor retains the selection without another first-visit dialog',async()=>{
  const window=new Window({url:'http://localhost/index.html',settings:{enableJavaScriptEvaluation:true}});
  window.localStorage.setItem('hm1864.react.preferences',JSON.stringify({country:'Birleşik Arap Emirlikleri',language:'English'}));
- window.fetch=async url=>({ok:true,json:async()=>url.includes('regions.json')?regions:data});
+ window.fetch=async url=>({ok:true,json:async()=>url.includes('regions.json')?rawRegions:url.includes('content.json')?content:data});
  window.scrollTo=()=>{};window.document.body.innerHTML='<div id="root"></div>';
  const files=await fs.readdir('dist/assets');const js=await fs.readFile('dist/assets/'+files.find(f=>f.endsWith('.js')),'utf8');
- try{window.eval(js);await wait();await wait();assert.equal(window.document.documentElement.lang,'en');assert.equal(window.document.querySelector('dialog.region-dialog'),null);assert.match(window.document.querySelector('.header-service').textContent,/Birleşik Arap Emirlikleri/)}finally{window.happyDOM.abort()}
+ try{window.eval(js);await wait();await wait();assert.equal(window.document.documentElement.lang,'en');assert.equal(window.document.querySelector('dialog.region-dialog'),null);assert.match(window.document.querySelector('.header-service').textContent,/United Arab Emirates/)}finally{window.happyDOM.abort()}
 });
 test('built React application: navigation, variant update, dialogs, menu and slider',async()=>{
  const window=new Window({url:'http://localhost/index.html',settings:{enableJavaScriptEvaluation:true}});
@@ -46,7 +50,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.equal(menuCategories(edited).length,13);
  assert.equal(menuCategories(edited,'store').length,14);
  assert.equal(menuSubcategories(edited,'Baklavalar').length,1);
- window.console=console;window.fetch=async url=>({ok:true,json:async()=>url.includes('regions.json')?regions:edited});window.scrollTo=()=>{};
+ window.console=console;window.fetch=async url=>({ok:true,json:async()=>url.includes('regions.json')?rawRegions:url.includes('content.json')?content:edited});window.scrollTo=()=>{};
  window.document.body.innerHTML='<div id="root"></div>';
  const files=await fs.readdir('dist/assets');const js=await fs.readFile('dist/assets/'+files.find(f=>f.endsWith('.js')),'utf8');
  try{
@@ -89,4 +93,17 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  window.document.querySelector('[aria-label="Kapat"]').click();await wait();assert.equal(window.document.querySelector('dialog'),null);
 
  }finally{window.happyDOM.abort();}
+});
+
+test('centralized static text keys and language fallback',()=>{
+ assert.equal(translate(content,'en','ui.allMenu'),'ALL MENU');
+ assert.equal(translate(content,'en','ui.copy.001'),content.texts['ui.copy.001'].tr);
+ assert.equal(formatText(content,'en','ui.countProducts',{count:12}),'12 products');
+ assert.equal(templateText(content,'en','@text:ui.allMenu'),'ALL MENU');
+ const templates=JSON.parse(templateJSON);
+ const used=new Set();const scan=v=>{if(typeof v==='string'){const m=v.match(/^\s*@text:([\w.]+)\s*$/);if(m)used.add(m[1])}else if(Array.isArray(v))v.forEach(scan);else if(v&&typeof v==='object')Object.values(v).forEach(scan)};scan(templates);
+ for(const r of Object.values(routes))if(r.titleKey)used.add(r.titleKey);
+ for(const key of used)assert.ok(content.texts[key],`Missing static text: ${key}`);
+ assert.ok(used.size>200);
+ assert.equal(Object.keys(content.texts).length>400,true);
 });

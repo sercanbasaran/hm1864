@@ -2,17 +2,30 @@
   "schemaVersion": 1,
   "defaultCountry": "TR",
   "defaultLanguage": "tr",
-  "languages": [
-    { "code": "tr", "name": "Türkçe" },
-    { "code": "en", "name": "English" },
-    { "code": "ar", "name": "العربية" }
-  ],
   "countries": [
-    { "code": "TR", "name": "Türkiye", "defaultLanguage": "tr" },
-    { "code": "AE", "name": "Birleşik Arap Emirlikleri", "defaultLanguage": "ar" },
-    { "code": "GB", "name": "Birleşik Krallık", "defaultLanguage": "en" },
-    { "code": "DE", "name": "Almanya", "defaultLanguage": "en" },
-    { "code": "FR", "name": "Fransa", "defaultLanguage": "en" },
-    { "code": "US", "name": "Amerika Birleşik Devletleri", "defaultLanguage": "en" }
+    {
+      "code": "TR",
+      "defaultLanguage": "tr"
+    },
+    {
+      "code": "AE",
+      "defaultLanguage": "ar"
+    },
+    {
+      "code": "GB",
+      "defaultLanguage": "en"
+    },
+    {
+      "code": "DE",
+      "defaultLanguage": "en"
+    },
+    {
+      "code": "FR",
+      "defaultLanguage": "en"
+    },
+    {
+      "code": "US",
+      "defaultLanguage": "en"
+    }
   ]
 }

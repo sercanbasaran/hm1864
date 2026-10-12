@@ -1,14 +1,14 @@
-export function validateRegions(config){
-  if(config?.schemaVersion!==1||!Array.isArray(config.countries)||!Array.isArray(config.languages))throw Error('Bölge dosyasının yapısı geçersiz.');
+export function validateRegions(config,languages){
+  if(config?.schemaVersion!==1||!Array.isArray(config.countries)||!Array.isArray(languages))throw Error('Bölge dosyasının yapısı geçersiz.');
   const countries=new Set(config.countries.map(c=>c.code));
-  const languages=new Set(config.languages.map(l=>l.code));
-  if(countries.size!==config.countries.length||languages.size!==config.languages.length||!countries.has(config.defaultCountry)||!languages.has(config.defaultLanguage)||config.countries.some(c=>!c.name||!languages.has(c.defaultLanguage)))throw Error('Bölge veya dil tanımları geçersiz.');
-  return config;
+  const languageCodes=new Set(languages.map(l=>l.code));
+  if(countries.size!==config.countries.length||languageCodes.size!==languages.length||!countries.has(config.defaultCountry)||!languageCodes.has(config.defaultLanguage)||config.countries.some(c=>!languageCodes.has(c.defaultLanguage)))throw Error('Bölge veya dil tanımları geçersiz.');
+  return {...config,languages};
 }
 
-export function normalizePreferences(value,config){
+export function normalizePreferences(value,config,content){
   if(!value||!config)return null;
-  const country=config.countries.find(c=>c.code===value.country||c.name===value.country);
+  const country=config.countries.find(c=>c.code===value.country||content?.texts?.['region.country.'+c.code]?.tr===value.country);
   const language=config.languages.find(l=>l.code===value.language||l.name===value.language);
   return country&&language?{country:country.code,language:language.code}:null;
 }
