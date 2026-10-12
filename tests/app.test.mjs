@@ -137,6 +137,8 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  const cake=data.products.find(p=>p.name==='Lotus Kulesi');
  const cakeLink=window.document.createElement('a');cakeLink.href='/'+cake.url;window.document.querySelector('#main').appendChild(cakeLink);cakeLink.click();await wait();
  assert.equal(window.document.querySelector('.purchase-row'),null);
+ assert.equal(window.document.querySelectorAll('.nutrition-table tr').length,8);
+ assert.match(window.document.querySelector('.nutrition-table').textContent,/407,5 kcal \/ 1705 kJ/);
  assert.ok(window.document.querySelector('.order-availability'));
  assert.equal(window.document.querySelectorAll('.order-platforms img').length,2);
  assert.equal(window.document.querySelectorAll('.editorial-section').length,1);
@@ -202,9 +204,9 @@ test('the market matrix covers every example country with valid defaults and ove
 
 test('cake variants, sales channels and blank translations preserve source fields',()=>{
  const cakes=data.products.filter(p=>p.category==='Pastalar');assert.equal(cakes.length,18);assert.equal(cakes.flatMap(p=>p.variants).length,36);assert.equal(data.subcategories.filter(s=>s.category==='Pastalar').length,8);
- for(const cake of cakes){assert.equal(cake.images.length,1);assert.equal(cake.description,'');assert.equal(cake.nutrition.values.length,0);assert.equal(cake.stock,null);assert.equal(cake.variants.length,2);for(const v of cake.variants){assert.equal(storeOnly(cake,v.code),true);assert.ok(v.sku.startsWith('500.'));assert.ok(v.ingredients);assert.ok(v.allergenInfo);assert.equal(Object.keys(v.pricesByCurrency).length,8);assert.equal(Object.keys(v.translations).length,13);}}
+ for(const cake of cakes){assert.equal(cake.images.length,1);assert.ok(cake.description);assert.equal(cake.nutrition.values.length,cake.name==='İstanbul Hikayesi'?0:8);assert.equal(cake.stock,null);assert.equal(cake.variants.length,2);for(const v of cake.variants){assert.equal(storeOnly(cake,v.code),true);assert.ok(v.sku.startsWith('500.'));assert.ok(v.ingredients);assert.ok(v.allergenInfo);assert.equal(Object.keys(v.pricesByCurrency).length,8);assert.equal(Object.keys(v.translations).length,13);}}
  const cake=cakes.find(p=>p.name==='Lotus Kulesi');assert.equal(resolve('/urunler/pastalar/pasta/lotus-kulesi.html',data,routes).product.key,cake.key);
- assert.equal(choice(cake,'dilim','AED').price,35);assert.equal(choice(cake,'baton').portion,'6-8 Kişilik');
+ assert.equal(choice(cake,'dilim','AED').price,34);assert.equal(choice(cake,'baton').portion,'6 Kişilik');assert.equal(choice(cake,'baton').price,2750);
  const translated=structuredClone(data);const example=translated.products.find(p=>p.key===cake.key);example.variants[0].translations.en={label:'Slice',portion:'One person',ingredients:'Approved short ingredients',allergenInfo:'Approved allergen statement'};
  const catalog=regionalCatalog(translated,{country:'TR',language:'en'},regions);const localized=catalog.products.find(p=>p.key===cake.key);assert.equal(localized.name,cake.name);assert.equal(choice(localized,'dilim').label,'Slice');assert.equal(choice(localized,'dilim').allergenInfo,'Approved allergen statement');
  assert.equal(storeOnly({...cake,onlineSale:true,variants:[]}),false);

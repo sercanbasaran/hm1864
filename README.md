@@ -150,3 +150,7 @@ Ortak uygulama bağlamı `src/context/AppContext.jsx`, yerel kayıt ve URL/şabl
 ## Breadcrumb hiyerarşisi
 
 Breadcrumb tüm sayfalarda `src/App.jsx` içinde bir kez gösterilir. Hiyerarşi `src/routing/breadcrumbs.js`, görünüm `src/components/Breadcrumb.jsx` dosyasından düzenlenir. Ürünler için kategori/alt kategori kimlikleri kullanılır: Anasayfa > Ürün grubu > Ürün alt grubu > Ürün. Kategori sayfasında yol kategoriye, alt kategori sayfasında alt kategoriye kadar gösterilir. Diğer sayfaların üst seviyeleri `src/routes.json` site haritasındaki mevcut üst sayfalardan alınır. Anasayfada breadcrumb gösterilmez. Etiketler seçilen dile göre gösterilir; son öğe bağlantısızdır ve `aria-current="page"` ile belirtilir.
+
+## Pasta içerik güncellemesi — 13 Ekim 2026
+
+Son pasta listesiyle 18 ürün / 36 SKU eşleştirilmiştir. Türkçe açıklamalar, kısa içerikler, alerjen, saklama, servis, uzun muhafaza, porsiyon/gramaj bilgileri ve dokuz para birimindeki varyant fiyatları güncellenmiştir. Kaynakta mevcut 17 ürünün 100 g besin/enerji bilgisi tabloya aktarılmıştır; İstanbul Hikayesi'nin iki varyantında kaynak alan boş olduğundan değer eklenmemiştir. Uzun içerik alanı kullanılmamıştır. Ürün/varyant görselleri, SKU'lar, anahtarlar, sayfa yolları ve kategori yapısı korunmuştur.

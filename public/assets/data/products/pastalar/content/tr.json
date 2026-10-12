@@ -4,17 +4,59 @@
   "products": {
     "500-0101-lotus-kulesi": {
       "name": "Lotus Kulesi",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Bağımlılık yapan Lotus bisküvisiyle her lokmada eşsiz lezzet.",
+      "ingredients": "Pandispanya keki, portakal şurubu, pasta kreması, Lotus kreması, Lotus bisküvisi.",
+      "allergenInfo": "Gluten, yumurta, süt ürünleri ve soya içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "407,5 kcal / 1705 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "26,4",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "38,4",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "14,4",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 407,5 kcal / 1705 kJ; Yağ 26,4 g; Doymuş yağ 12,7 g; Karbonhidrat 38,4 g; Şeker 14,4 g; Lif 0,7 g; Protein 4,1 g; Tuz 0,3 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -22,9 +64,9 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Bağımlılık yapan Lotus bisküvisiyle her lokmada eşsiz lezzet.",
           "ingredients": "Pandispanya keki, portakal şurubu, pasta kreması, Lotus kreması, Lotus bisküvisi.",
-          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nGluten, yumurta, süt ürünleri ve soya içerir.\n<small>Aynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.</small>",
+          "allergenInfo": "Gluten, yumurta, süt ürünleri ve soya içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
           "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
@@ -35,7 +77,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Bağımlılık yapan Lotus bisküvisiyle her lokmada eşsiz lezzet.",
           "ingredients": "Pandispanya keki, portakal şurubu, pasta kreması, Lotus kreması, Lotus bisküvisi.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve soya içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -43,7 +85,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3900 gram"
         }
       },
@@ -70,17 +112,59 @@
     },
     "500-0201-diplomat": {
       "name": "Diplomat",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Çikolatalı kekin, çıtır karamelize krokanın enfes çıtırtısı.",
+      "ingredients": "Kakaolu pandispanya keki, kahve şurubu, çikolatalı ganaj krema, fındıklı çikolatalı sos, kuruyemiş krokanı (fıstık, badem, fındık), sütlü çikolata parçaları.",
+      "allergenInfo": "Gluten, yumurta, süt ürünleri, fındık, Antep fıstığı ve badem içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "350,9 kcal / 1468,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "24,5",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "13,7",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "28",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "20,4",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 350,9 kcal / 1468,2 kJ; Yağ 24,5 g; Doymuş yağ 13,7 g; Karbonhidrat 28 g; Şeker 20,4 g; Lif 1,7 g; Protein 4,7 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -88,7 +172,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Çikolatalı kekin, çıtır karamelize krokanın enfes çıtırtısı.",
           "ingredients": "Kakaolu pandispanya keki, kahve şurubu, çikolatalı ganaj krema, fındıklı çikolatalı sos, kuruyemiş krokanı (fıstık, badem, fındık), sütlü çikolata parçaları.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri, fındık, Antep fıstığı ve badem içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -101,7 +185,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Çikolatalı kekin, çıtır karamelize krokanın enfes çıtırtısı.",
           "ingredients": "Kakaolu pandispanya keki, kahve şurubu, çikolatalı ganaj krema, fındıklı çikolatalı sos, kuruyemiş krokanı (fıstık, badem, fındık), sütlü çikolata parçaları.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri, fındık, Antep fıstığı ve badem içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -109,7 +193,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3050 gram"
         }
       },
@@ -136,17 +220,59 @@
     },
     "500-0202-kara-sevda": {
       "name": "Kara Sevda",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Her lokmada kadifemsi bir deneyimi.",
+      "ingredients": "Browni kek (cevizli, bitter çikolatalı), kahve şurubu, truf çikolatalı krema, çikolatalı ganaj, sütlü çikolata parçaları.",
+      "allergenInfo": "Gluten, yumurta, süt ürünleri ve ceviz içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "393,4 kcal / 1646 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "25,7",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "10,9",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "31,4",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "5,9",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 393,4 kcal / 1646 kJ; Yağ 25,7 g; Doymuş yağ 10,9 g; Karbonhidrat 34,6 g; Şeker 31,4 g; Lif 1 g; Protein 5,9 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -154,7 +280,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Her lokmada kadifemsi bir deneyimi.",
           "ingredients": "Browni kek (cevizli, bitter çikolatalı), kahve şurubu, truf çikolatalı krema, çikolatalı ganaj, sütlü çikolata parçaları.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve ceviz içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -167,7 +293,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Her lokmada kadifemsi bir deneyimi.",
           "ingredients": "Browni kek (cevizli, bitter çikolatalı), kahve şurubu, truf çikolatalı krema, çikolatalı ganaj, sütlü çikolata parçaları.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve ceviz içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -175,7 +301,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3900 gram"
         }
       },
@@ -202,17 +328,59 @@
     },
     "500-0203-siyah-inci": {
       "name": "Siyah İnci",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Göze ve damak tadına hitap eden özel bir lezzet.",
+      "ingredients": "Kakaolu pandispanya keki, kahve şurubu, çikolatalı ganaj krema, Antep fıstığı, sütlü çikolata parçaları.",
+      "allergenInfo": "Gluten, yumurta, süt ürünleri ve Antep fıstığı içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "426,5 kcal / 1784,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "29,8",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "34,3",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "27,3",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 426,5 kcal / 1784,5 kJ; Yağ 29,8 g; Doymuş yağ 15,2 g; Karbonhidrat 34,3 g; Şeker 27,3 g; Lif 3,4 g; Protein 5,3 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -220,7 +388,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Göze ve damak tadına hitap eden özel bir lezzet.",
           "ingredients": "Kakaolu pandispanya keki, kahve şurubu, çikolatalı ganaj krema, Antep fıstığı, sütlü çikolata parçaları.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve Antep fıstığı içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -233,7 +401,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Göze ve damak tadına hitap eden özel bir lezzet.",
           "ingredients": "Kakaolu pandispanya keki, kahve şurubu, çikolatalı ganaj krema, Antep fıstığı, sütlü çikolata parçaları.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve Antep fıstığı içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -241,7 +409,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3250 gram"
         }
       },
@@ -268,17 +436,59 @@
     },
     "500-0301-cilek-ruyasi": {
       "name": "Çilek Rüyası",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Çilek parçalarının tazeleyici tadı.",
+      "ingredients": "Pandispanya keki, portakal şurubu, beyaz çikolatalı krema, taze çilek, çilek dolgusu, beyaz çikolatalı pasta sosu.",
+      "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "229,8 kcal / 961,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "11",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 229,8 kcal / 961,5 kJ; Yağ 11 g; Doymuş yağ 4,6 g; Karbonhidrat 28,1 g; Şeker 19,2 g; Lif 1,1 g; Protein 4,6 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -286,7 +496,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Çilek parçalarının tazeleyici tadı.",
           "ingredients": "Pandispanya keki, portakal şurubu, beyaz çikolatalı krema, taze çilek, çilek dolgusu, beyaz çikolatalı pasta sosu.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -299,7 +509,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Çilek parçalarının tazeleyici tadı.",
           "ingredients": "Pandispanya keki, portakal şurubu, beyaz çikolatalı krema, taze çilek, çilek dolgusu, beyaz çikolatalı pasta sosu.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -307,7 +517,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3500 gram"
         }
       },
@@ -334,17 +544,59 @@
     },
     "500-0302-ilk-ask": {
       "name": "İlk Aşk",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "En iyi mevsim çileklerinin sergilendiği zarif bir lezzet sunar.",
+      "ingredients": "Pandispanya keki, fındıklı kek, portakal şurubu, beyaz çikolatalı krema, taze çilek, pasta jölesi.",
+      "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "350,3 kcal / 1465,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "21,3",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "12,6",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "26,2",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 350,3 kcal / 1465,7 kJ; Yağ 21,3 g; Doymuş yağ 12,6 g; Karbonhidrat 34,6 g; Şeker 26,2 g; Lif 1,1 g; Protein 5,1 g; Tuz 0,2 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -352,7 +604,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "En iyi mevsim çileklerinin sergilendiği zarif bir lezzet sunar.",
           "ingredients": "Pandispanya keki, fındıklı kek, portakal şurubu, beyaz çikolatalı krema, taze çilek, pasta jölesi.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -365,7 +617,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "En iyi mevsim çileklerinin sergilendiği zarif bir lezzet sunar.",
           "ingredients": "Pandispanya keki, fındıklı kek, portakal şurubu, beyaz çikolatalı krema, taze çilek, pasta jölesi.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -373,7 +625,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3500 gram"
         }
       },
@@ -400,17 +652,59 @@
     },
     "500-0303-pembe-ruya": {
       "name": "Pembe Rüya",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "İki özel lezzeti bir araya getiren karşı konulmaz, lezzet dolu bir deneyim.",
+      "ingredients": "Kakaolu pandispanya keki, kahve şurubu, bitter çikolatalı krema, çilek dolgusu, bitter çikolata sosu.",
+      "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "269,3 kcal / 1126,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "24,3",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 269,3 kcal / 1126,8 kJ; Yağ 17,7 g; Doymuş yağ 12,1 g; Karbonhidrat 24,3 g; Şeker 28,1 g; Lif 1,7 g; Protein 3,4 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -418,7 +712,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "İki özel lezzeti bir araya getiren karşı konulmaz, lezzet dolu bir deneyim.",
           "ingredients": "Kakaolu pandispanya keki, kahve şurubu, bitter çikolatalı krema, çilek dolgusu, bitter çikolata sosu.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -431,7 +725,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "İki özel lezzeti bir araya getiren karşı konulmaz, lezzet dolu bir deneyim.",
           "ingredients": "Kakaolu pandispanya keki, kahve şurubu, bitter çikolatalı krema, çilek dolgusu, bitter çikolata sosu.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -439,7 +733,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3500 gram"
         }
       },
@@ -466,17 +760,59 @@
     },
     "500-0304-son-ask": {
       "name": "Son Aşk",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Çilek lezzetini sütlü çikolatanın zenginliğiyle birleştiren bir lezzet.",
+      "ingredients": "Kakaolu pandispanya keki, kakaolu fındıklı kek, kahve şurubu, beyaz çikolatalı krema, bitter çikolatalı krema, taze çilek, sütlü çikolata parçaları.",
+      "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "268,4 kcal / 1122,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "15,5",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "7,4",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "21,2",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 268,4 kcal / 1122,8 kJ; Yağ 15,5 g; Doymuş yağ 7,4 g; Karbonhidrat 27,5 g; Şeker 21,2 g; Lif 1,8 g; Protein 4,7 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -484,7 +820,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Çilek lezzetini sütlü çikolatanın zenginliğiyle birleştiren bir lezzet.",
           "ingredients": "Kakaolu pandispanya keki, kakaolu fındıklı kek, kahve şurubu, beyaz çikolatalı krema, bitter çikolatalı krema, taze çilek, sütlü çikolata parçaları.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -497,7 +833,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Çilek lezzetini sütlü çikolatanın zenginliğiyle birleştiren bir lezzet.",
           "ingredients": "Kakaolu pandispanya keki, kakaolu fındıklı kek, kahve şurubu, beyaz çikolatalı krema, bitter çikolatalı krema, taze çilek, sütlü çikolata parçaları.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -505,7 +841,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3500 gram"
         }
       },
@@ -532,17 +868,17 @@
     },
     "500-0401-istanbul-hikayesi": {
       "name": "İstanbul Hikayesi",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "İkonik baklavadan ilham alan Antep fıstığının tatlı katmanları.",
+      "ingredients": "Pandispanya keki, fıstıklı baklava, portakal şurubu, beyaz çikolatalı krema, Antep fıstığı kreması, Antep fıstığı.",
+      "allergenInfo": "Gluten, yumurta, süt ürünleri ve Antep fıstığı içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
         "basis": "",
         "values": []
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -550,7 +886,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "İkonik baklavadan ilham alan Antep fıstığının tatlı katmanları.",
           "ingredients": "Pandispanya keki, fıstıklı baklava, portakal şurubu, beyaz çikolatalı krema, Antep fıstığı kreması, Antep fıstığı.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve Antep fıstığı içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -563,7 +899,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "İkonik baklavadan ilham alan Antep fıstığının tatlı katmanları.",
           "ingredients": "Pandispanya keki, fıstıklı baklava, portakal şurubu, beyaz çikolatalı krema, Antep fıstığı kreması, Antep fıstığı.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve Antep fıstığı içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -571,7 +907,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3500 gram"
         }
       },
@@ -598,17 +934,59 @@
     },
     "500-05-01-cikolat-ahu": {
       "name": "Çikolat Ahu",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Ahududuların ve pandispanyanın üstün lezzeti.",
+      "ingredients": "Kakaolu pandispanya keki, kakaolu tartalet, kahve şurubu, çikolatalı ganaj krema, frambuaz dolgusu, taze frambuaz, sütlü çikolata parçaları.",
+      "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "296,5 kcal / 1240,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "19,3",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "26,8",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "19,7",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,9",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,8",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 296,5 kcal / 1240,6 kJ; Yağ 19,3 g; Doymuş yağ 13 g; Karbonhidrat 26,8 g; Şeker 19,7 g; Lif 1,9 g; Protein 3,8 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -616,7 +994,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Ahududuların ve pandispanyanın üstün lezzeti.",
           "ingredients": "Kakaolu pandispanya keki, kakaolu tartalet, kahve şurubu, çikolatalı ganaj krema, frambuaz dolgusu, taze frambuaz, sütlü çikolata parçaları.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -629,7 +1007,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Ahududuların ve pandispanyanın üstün lezzeti.",
           "ingredients": "Kakaolu pandispanya keki, kakaolu tartalet, kahve şurubu, çikolatalı ganaj krema, frambuaz dolgusu, taze frambuaz, sütlü çikolata parçaları.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -637,7 +1015,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3250 gram"
         }
       },
@@ -664,17 +1042,59 @@
     },
     "500-0502-tatli-ahu": {
       "name": "Tatlı Ahu",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Beyaz çikolatanın kremsi, tatlı zenginliğiyle birleştiren mükemmel bir pasta keyfi.",
+      "ingredients": "Pandispanya keki, tartalet, portakal şurubu, beyaz çikolatalı krema, frambuaz dolgusu.",
+      "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "293,1 kcal / 1226,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "19,5",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "18,5",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 293,1 kcal / 1226,3 kJ; Yağ 19,5 g; Doymuş yağ 13,8 g; Karbonhidrat 26 g; Şeker 18,5 g; Lif 1,3 g; Protein 3,4 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -682,7 +1102,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Beyaz çikolatanın kremsi, tatlı zenginliğiyle birleştiren mükemmel bir pasta keyfi.",
           "ingredients": "Pandispanya keki, tartalet, portakal şurubu, beyaz çikolatalı krema, frambuaz dolgusu.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -695,7 +1115,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Beyaz çikolatanın kremsi, tatlı zenginliğiyle birleştiren mükemmel bir pasta keyfi.",
           "ingredients": "Pandispanya keki, tartalet, portakal şurubu, beyaz çikolatalı krema, frambuaz dolgusu.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -703,7 +1123,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3300 gram"
         }
       },
@@ -730,17 +1150,59 @@
     },
     "500-0601-cikolatali-meyve-bahcesi": {
       "name": "Çikolatalı Meyve Bahçesi",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Renkli meyvelerin görsel şöleni.",
+      "ingredients": "Kakaolu pandispanya keki, kahve şurubu, pasta kreması, karışık meyveler (şeftali, kivi, ananas, çilek, siyah üzüm, kocayemiş, nar, portakal, incir, kavun), pasta jölesi.",
+      "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "231,3 kcal / 967,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "8,5",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "2,7",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 231,3 kcal / 967,6 kJ; Yağ 13 g; Doymuş yağ 8,5 g; Karbonhidrat 25,9 g; Şeker 15,2 g; Lif 1,7 g; Protein 2,7 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -748,7 +1210,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Renkli meyvelerin görsel şöleni.",
           "ingredients": "Kakaolu pandispanya keki, kahve şurubu, pasta kreması, karışık meyveler (şeftali, kivi, ananas, çilek, siyah üzüm, kocayemiş, nar, portakal, incir, kavun), pasta jölesi.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -761,7 +1223,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Renkli meyvelerin görsel şöleni.",
           "ingredients": "Kakaolu pandispanya keki, kahve şurubu, pasta kreması, karışık meyveler (şeftali, kivi, ananas, çilek, siyah üzüm, kocayemiş, nar, portakal, incir, kavun), pasta jölesi.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -769,7 +1231,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3900 gram"
         }
       },
@@ -796,17 +1258,59 @@
     },
     "500-0602-meyve-bahcesi": {
       "name": "Meyve Bahçesi",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Pastaya sarılmış meyveler ile tropikal lezzetin keşfi.",
+      "ingredients": "Pandispanya keki, portakal şurubu, pasta kreması, karışık meyveler (şeftali, kivi, ananas, çilek, siyah üzüm, kocayemiş, nar, portakal, incir, kavun), pasta jölesi.",
+      "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "241,9 kcal / 1012,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "15,3",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "10,8",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "23,2",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 241,9 kcal / 1012,1 kJ; Yağ 15,3 g; Doymuş yağ 10,8 g; Karbonhidrat 23,2 g; Şeker 13,8 g; Lif 1,2 g; Protein 2,8 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -814,7 +1318,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Pastaya sarılmış meyveler ile tropikal lezzetin keşfi.",
           "ingredients": "Pandispanya keki, portakal şurubu, pasta kreması, karışık meyveler (şeftali, kivi, ananas, çilek, siyah üzüm, kocayemiş, nar, portakal, incir, kavun), pasta jölesi.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -827,7 +1331,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Pastaya sarılmış meyveler ile tropikal lezzetin keşfi.",
           "ingredients": "Pandispanya keki, portakal şurubu, pasta kreması, karışık meyveler (şeftali, kivi, ananas, çilek, siyah üzüm, kocayemiş, nar, portakal, incir, kavun), pasta jölesi.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -835,7 +1339,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3900 gram"
         }
       },
@@ -862,17 +1366,59 @@
     },
     "500-0701-beyaz-inci": {
       "name": "Beyaz İnci",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Fındığın zenginliği, muzun tazeliği ve karamelin ipeksi dengesiyle birleşiyor.",
+      "ingredients": "Pandispanya keki, portakal şurubu, beyaz çikolatalı krema, muz, fındık, karamel dolgusu, beyaz çikolata sosu.",
+      "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir. \n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "292 kcal / 1221,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "8,7",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "15,1",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,3",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 292 kcal / 1221,7 kJ; Yağ 18 g; Doymuş yağ 8,7 g; Karbonhidrat 27,5 g; Şeker 15,1 g; Lif 1,8 g; Protein 4,3 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -880,7 +1426,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Fındığın zenginliği, muzun tazeliği ve karamelin ipeksi dengesiyle birleşiyor.",
           "ingredients": "Pandispanya keki, portakal şurubu, beyaz çikolatalı krema, muz, fındık, karamel dolgusu, beyaz çikolata sosu.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir. \n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -893,7 +1439,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Fındığın zenginliği, muzun tazeliği ve karamelin ipeksi dengesiyle birleşiyor.",
           "ingredients": "Pandispanya keki, portakal şurubu, beyaz çikolatalı krema, muz, fındık, karamel dolgusu, beyaz çikolata sosu.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir. \n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -901,7 +1447,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3950 gram"
         }
       },
@@ -928,17 +1474,59 @@
     },
     "500-0702-buyuk-ask": {
       "name": "Büyük Aşk",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Muz ve kremanın egzotik ve rahatlatıcı tatlı keşfi.",
+      "ingredients": "Pandispanya keki, fındıklı kek, portakal şurubu, beyaz çikolatalı krema, muz, karamel jölesi.",
+      "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "278 kcal / 1163,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "16,1",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "9,3",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "29,2",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 278 kcal / 1163,1 kJ; Yağ 16,1 g; Doymuş yağ 9,3 g; Karbonhidrat 29,2 g; Şeker 19,2 g; Lif 1,2 g; Protein 4,2 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -946,7 +1534,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Muz ve kremanın egzotik ve rahatlatıcı tatlı keşfi.",
           "ingredients": "Pandispanya keki, fındıklı kek, portakal şurubu, beyaz çikolatalı krema, muz, karamel jölesi.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -959,7 +1547,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Muz ve kremanın egzotik ve rahatlatıcı tatlı keşfi.",
           "ingredients": "Pandispanya keki, fındıklı kek, portakal şurubu, beyaz çikolatalı krema, muz, karamel jölesi.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -967,7 +1555,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3500 gram"
         }
       },
@@ -994,17 +1582,59 @@
     },
     "500-0703-sonsuz-ask": {
       "name": "Sonsuz Aşk",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Zengin çikolata ve muzların enfes bir birleşimi.",
+      "ingredients": "Kakaolu pandispanya keki, kakaolu fındıklı kek, kahve şurubu, beyaz çikolatalı krema, bitter çikolatalı krema, muz, sütlü çikolata parçaları.",
+      "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "275,1 kcal / 1151 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "14,8",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "6,9",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "30,9",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 275,1 kcal / 1151 kJ; Yağ 14,8 g; Doymuş yağ 6,9 g; Karbonhidrat 30,9 g; Şeker 20,5 g; Lif 1,7 g; Protein 4,6 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -1012,7 +1642,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Zengin çikolata ve muzların enfes bir birleşimi.",
           "ingredients": "Kakaolu pandispanya keki, kakaolu fındıklı kek, kahve şurubu, beyaz çikolatalı krema, bitter çikolatalı krema, muz, sütlü çikolata parçaları.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -1025,7 +1655,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Zengin çikolata ve muzların enfes bir birleşimi.",
           "ingredients": "Kakaolu pandispanya keki, kakaolu fındıklı kek, kahve şurubu, beyaz çikolatalı krema, bitter çikolatalı krema, muz, sütlü çikolata parçaları.",
           "allergenInfo": "Gluten, yumurta, süt ürünleri ve fındık içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -1033,7 +1663,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3550 gram"
         }
       },
@@ -1060,17 +1690,59 @@
     },
     "500-0801-amazon-buyusu": {
       "name": "Amazon Büyüsü",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Orman meyvelerini çikolata ile birleştiren zengin ve leziz bir deneyim.",
+      "ingredients": "Kakaolu pandispanya keki, kahve şurubu, beyaz çikolatalı krema, orman meyveleri (yaban mersini, böğürtlen, kocayemiş, siyah üzüm, frambuaz, çilek), orman meyveli dolgu, çikolata sosu.",
+      "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "290,1 kcal / 1213,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "6,2",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "39,5",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 290,1 kcal / 1213,9 kJ; Yağ 12,8 g; Doymuş yağ 6,2 g; Karbonhidrat 39,5 g; Şeker 26 g; Lif 2,4 g; Protein 4,2 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -1078,7 +1750,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Orman meyvelerini çikolata ile birleştiren zengin ve leziz bir deneyim.",
           "ingredients": "Kakaolu pandispanya keki, kahve şurubu, beyaz çikolatalı krema, orman meyveleri (yaban mersini, böğürtlen, kocayemiş, siyah üzüm, frambuaz, çilek), orman meyveli dolgu, çikolata sosu.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -1091,7 +1763,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Orman meyvelerini çikolata ile birleştiren zengin ve leziz bir deneyim.",
           "ingredients": "Kakaolu pandispanya keki, kahve şurubu, beyaz çikolatalı krema, orman meyveleri (yaban mersini, böğürtlen, kocayemiş, siyah üzüm, frambuaz, çilek), orman meyveli dolgu, çikolata sosu.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -1099,7 +1771,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3800 gram"
         }
       },
@@ -1126,17 +1798,59 @@
     },
     "500-0802-amazon-hikayesi": {
       "name": "Amazon Hikayesi",
-      "description": "",
-      "ingredients": "",
-      "allergenInfo": "",
+      "description": "Beyaz çikolatanın orman meyveleriyle buluştuğu an.",
+      "ingredients": "Pandispanya keki, portakal şurubu, beyaz çikolatalı krema, orman meyveleri (yaban mersini, kocayemiş, siyah üzüm, böğürtlen, frambuaz, çilek), orman meyveli dolgu, beyaz çikolata sosu.",
+      "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "269,6 kcal / 1128 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "23,6",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "21,7",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 269,6 kcal / 1128 kJ; Yağ 18 g; Doymuş yağ 12,7 g; Karbonhidrat 23,6 g; Şeker 21,7 g; Lif 1,1 g; Protein 3,2 g; Tuz 0,1 g."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
       "portion": "",
@@ -1144,7 +1858,7 @@
       "variants": {
         "dilim": {
           "label": "Dilim",
-          "description": "",
+          "description": "Beyaz çikolatanın orman meyveleriyle buluştuğu an.",
           "ingredients": "Pandispanya keki, portakal şurubu, beyaz çikolatalı krema, orman meyveleri (yaban mersini, kocayemiş, siyah üzüm, böğürtlen, frambuaz, çilek), orman meyveli dolgu, beyaz çikolata sosu.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -1157,7 +1871,7 @@
         },
         "baton": {
           "label": "Baton",
-          "description": "",
+          "description": "Beyaz çikolatanın orman meyveleriyle buluştuğu an.",
           "ingredients": "Pandispanya keki, portakal şurubu, beyaz çikolatalı krema, orman meyveleri (yaban mersini, kocayemiş, siyah üzüm, böğürtlen, frambuaz, çilek), orman meyveli dolgu, beyaz çikolata sosu.",
           "allergenInfo": "Gluten, yumurta ve süt ürünleri içerir.\n\nAynı üretim hattında işlendiğinden iz miktarda sert kabuklu meyveler (fındık, fıstık, ceviz, badem), soya ve susam içerebilir.",
           "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
@@ -1165,7 +1879,7 @@
           "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 3 gün içinde tüketiniz.",
           "delivery": "",
           "packaging": "",
-          "portion": "6-8 Kişilik",
+          "portion": "6 Kişilik",
           "weight": "3750 gram"
         }
       },
