@@ -25,6 +25,22 @@ Terminalde gösterilen yerel adrese gidin. Yayın dosyalarını üretmek için `
 
 Katalog verisini değiştirdikten sonra `npm run build` çalıştırın. Yeni URL eklediğinizde `src/routes.json` eşlemesini de tamamlayın. Ürün görselleri `public/assets/images/urunler/`, diğer görseller `public/assets/images/medya/` altındadır.
 
+## Bölge ve dil seçimi
+
+İlk ziyarette bölge ve dil penceresi açılır; seçim yapılana kadar kapatılamaz. Tercih tarayıcıda saklanır ve header üzerinden daha sonra değiştirilebilir. Önceden kaydedilmiş ülke/dil adları da kodlara dönüştürülerek korunur. `public/assets/data/regions.json` ülkeleri (`TR`, `AE`, `GB`, `DE`, `FR`, `US`), dilleri (`tr`, `en`, `ar`) ve ülke seçildiğinde önerilen dili tanımlar. Bunlar gerçek teslimat ve ödeme entegrasyonu değildir.
+
+`products.json` içindeki bir ürün, kategori veya alt kategoriye isteğe bağlı `markets` ve `translations` eklenebilir:
+
+```json
+"markets": ["TR", "AE"],
+"translations": {
+  "en": { "name": "Approved English product name", "description": "Approved description" },
+  "ar": { "name": "Approved Arabic product name" }
+}
+```
+
+`markets` yoksa kayıt tüm bölgelerde görünür; varsa yalnızca listelenen kodlarda görünür. Bölge değiştiğinde menü, kategori ve arama sonuçları aynı filtrelenmiş katalogdan üretilir. Çeviri yoksa mevcut Türkçe metin gösterilir. Ürün ve kategori URL'leri dil değişiminde aynı kalır. Ortak menü ve seçim penceresinin kısa arayüz metinleri `src/i18n.js` içindedir; mevcut sayfa şablonlarının ve katalogdaki ürünlerin tam İngilizce/Arapça içerikleri ayrıca sağlanmalıdır. Fiyat/para birimi bölgeye göre otomatik dönüştürülmez.
+
 ## Etkileşimler ve sınırlar
 
 Kategori menüleri, mobil menü, arama, filtreleme/sıralama, ürün varyantları, adet seçimi, akordiyonlar, bilgi pencereleri ve dört slaytlı, beş saniyede ilerleyen ana sayfa slider'ı çalışır. Ödeme/sipariş, kullanıcı hesabı ve canlı stok sunucu bağlantısı gerektirir; bu ön yüzde gerçek işlem yapılmaz. Kaynak görsel, fiyat veya besin verisi sağlanmayan ürünler yer tutucu ile görünür.
