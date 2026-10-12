@@ -10,7 +10,10 @@
       "price": 199900,
       "currency": "TRY",
       "description": "",
-      "images": [],
+      "images": [
+        "https://media.finedinemenu.com/filters:strip_exif()/filters:format(webp)/1184x0/Lak4TyAqK/9080119a-a80c-42ab-895d-a681f5b57bfe.jpg",
+        "https://media.finedinemenu.com/filters:strip_exif()/filters:format(webp)/1184x0/OV8zYPze8/80f904ba-49a2-4b3e-a228-6cecd9c1c8ee.png"
+    ],
       "weight": null,
       "stock": null,
       "onlineSale": null,
