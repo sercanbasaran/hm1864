@@ -4279,3 +4279,21 @@ button,.button,input[type=submit],input[type=button]{border-radius:3px}
 .product-gallery{max-width:100%;overflow-x:auto}
 .product-editorial,.breadcrumb,.catalog-detail{max-width:100%}
 }
+
+/* Header menu restoration and visual subcategory cards */
+.mega-visual-grid{display:block}
+.mega-visual-grid .mega-subcategories{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:20px}
+.mega-subcategory-card{display:block;min-width:0}
+.mega-visual-grid .mega-subcategory-card .media{display:block;width:100%;height:150px;overflow:hidden;background:#f6f3ed;margin-bottom:10px}
+.mega-visual-grid .mega-subcategory-card .media img{width:100%;height:100%;object-fit:cover}
+.mega-visual-grid .mega-subcategory-card strong{display:block;font-size:15px;line-height:1.4}
+.mega-visual-grid .mega-subcategory-card p{font-size:12px;line-height:1.5;color:#666;margin:6px 0 0}
+@media(max-width:767px){
+.header-left .mobile-toggle{display:inline-flex}
+.header-brandbar .header-safe{grid-template-columns:minmax(0,1fr) auto minmax(0,1fr)}
+.header-left{gap:2px}
+.header-gold .header-left .icon-button{width:36px;min-width:36px;padding:7px}
+.header-logo{width:clamp(90px,28vw,135px)}
+.mega-visual-grid .mega-subcategories{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.mega-visual-grid .mega-subcategory-card .media{height:110px}
+}
