@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 1,
+  "language": "pt",
+  "products": {
+    "200-01-01-balli-fistikli-fitil-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-01-02-cevizli-fitil-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-01-03-findikli-fitil-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-01-04-fistikli-sultan-fitil-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-01-05-incirli-cevizli-fitil-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-01-06-kivili-fistikli-fitil-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-01-07-narli-fistikli-fitil-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-01-08-portakalli-findikli-fitil-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-02-01-fistikli-duble-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-02-02-fistikli-sultan-duble-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-02-03-gul-yaprakli-fistikli-duble-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-02-04-kivili-fistikli-duble-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-02-05-narli-fistikli-duble-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-02-06-portakalli-findikli-duble-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-03-01-cifte-kavrulmus-fistikli-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-03-02-cifte-kavrulmus-narli-fistikli-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-03-03-ekstra-cifte-kavrulmus-fistikli-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-04-01-narli-fistikli-krokan-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-04-02-portakalli-findikli-krokan-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-05-01-baharatli-kudret-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-05-02-cevizli-bandirma": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-05-03-cikolatali-sultan-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-05-04-fistikli-sultan-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-06-01-damla-sakizli-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-06-02-gullu-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-06-03-kus-lokumu": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-06-04-limonlu-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-06-05-naneli-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-06-06-narli-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-06-07-portakalli-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-06-08-sade-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "200-06-09-tarcinli-lokum": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    }
+  }
+}

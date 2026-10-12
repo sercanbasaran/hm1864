@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "kahvaltiliklar",
+  "products": [
+    {
+      "code": "1000-01-01",
+      "key": "1000-01-01-su-boregi",
+      "url": "urunler/kahvaltiliklar/borekler/su-boregi.html",
+      "currency": "TRY",
+      "images": [
+        "kahvaltiliklar/su-boregi.jpeg"
+      ],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kahvaltiliklar",
+      "subcategoryId": "kahvaltiliklar/borekler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "1000-01-02",
+      "key": "1000-01-02-balli-su-boregi",
+      "url": "urunler/kahvaltiliklar/borekler/balli-su-boregi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kahvaltiliklar",
+      "subcategoryId": "kahvaltiliklar/borekler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "1000-02-01",
+      "key": "1000-02-01-kahvalti-tabagi",
+      "url": "urunler/kahvaltiliklar/kahvaltilik/kahvalti-tabagi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kahvaltiliklar",
+      "subcategoryId": "kahvaltiliklar/kahvaltilik",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "1000-02-02",
+      "key": "1000-02-02-bal-kaymak",
+      "url": "urunler/kahvaltiliklar/kahvaltilik/bal-kaymak.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kahvaltiliklar",
+      "subcategoryId": "kahvaltiliklar/kahvaltilik",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    }
+  ]
+}

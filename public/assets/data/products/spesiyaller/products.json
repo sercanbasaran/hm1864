@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "spesiyaller",
+  "products": [
+    {
+      "code": "700-01-01",
+      "key": "700-01-01-dubai-gecesi",
+      "url": "urunler/spesiyaller/dubai-serisi/dubai-gecesi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "spesiyaller",
+      "subcategoryId": "spesiyaller/dubai-serisi",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "700-01-02",
+      "key": "700-01-02-dubai-gun-batimi",
+      "url": "urunler/spesiyaller/dubai-serisi/dubai-gun-batimi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "spesiyaller",
+      "subcategoryId": "spesiyaller/dubai-serisi",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "700-01-03",
+      "key": "700-01-03-dubai-hikayesi",
+      "url": "urunler/spesiyaller/dubai-serisi/dubai-hikayesi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "spesiyaller",
+      "subcategoryId": "spesiyaller/dubai-serisi",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "700-01-04",
+      "key": "700-01-04-dubai-zamani",
+      "url": "urunler/spesiyaller/dubai-serisi/dubai-zamani.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "spesiyaller",
+      "subcategoryId": "spesiyaller/dubai-serisi",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "700-02-01",
+      "key": "700-02-01-afet-i-devran",
+      "url": "urunler/spesiyaller/afet-i-devran-serisi/afet-i-devran.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "spesiyaller",
+      "subcategoryId": "spesiyaller/afet-i-devran-serisi",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "700-02-01",
+      "key": "700-02-01-cikolatali-afet-i-devran",
+      "url": "urunler/spesiyaller/afet-i-devran-serisi/cikolatali-afet-i-devran.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "spesiyaller",
+      "subcategoryId": "spesiyaller/afet-i-devran-serisi",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "700-02-02",
+      "key": "700-02-02-afet-i-devran-kadayif",
+      "url": "urunler/spesiyaller/afet-i-devran-serisi/afet-i-devran-kadayif.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "spesiyaller",
+      "subcategoryId": "spesiyaller/afet-i-devran-serisi",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "700-02-03",
+      "key": "700-02-03-afet-i-devran-trilece",
+      "url": "urunler/spesiyaller/afet-i-devran-serisi/afet-i-devran-trilece.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "spesiyaller",
+      "subcategoryId": "spesiyaller/afet-i-devran-serisi",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "700-03-01",
+      "key": "700-03-01-humbara",
+      "url": "urunler/spesiyaller/humbara/humbara.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "spesiyaller",
+      "subcategoryId": "spesiyaller/humbara",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    }
+  ]
+}

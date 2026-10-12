@@ -1,0 +1,1836 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "baklavalar",
+  "products": [
+    {
+      "code": "100-01-01",
+      "key": "100-01-01-fistikli-ankara-baklavasi",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-ankara-baklavasi.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 6,
+        "cell": "F6"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-02",
+      "key": "100-01-02-fistikli-baklava",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-baklava.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 7,
+        "cell": "F7"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-03",
+      "key": "100-01-03-fistikli-cimcik-baklava",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-cimcik-baklava.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 8,
+        "cell": "F8"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-04",
+      "key": "100-01-04-fistikli-cikolatali-baklava",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-cikolatali-baklava.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 9,
+        "cell": "F9"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-05",
+      "key": "100-01-05-fistikli-cikolatali-havuc-dilim",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-cikolatali-havuc-dilim.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 10,
+        "cell": "F10"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-06",
+      "key": "100-01-06-fistikli-dilber-dudagi",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-dilber-dudagi.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 11,
+        "cell": "F11"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-07",
+      "key": "100-01-07-fistikli-durum",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-durum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 12,
+        "cell": "F12"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-08",
+      "key": "100-01-08-fistikli-havuc-dilim",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-havuc-dilim.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 13,
+        "cell": "F13"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-09",
+      "key": "100-01-09-fistikli-kare-baklava",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-kare-baklava.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 14,
+        "cell": "F14"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-10",
+      "key": "100-01-10-fistikli-kivrim-baklava",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-kivrim-baklava.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 15,
+        "cell": "F15"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-11",
+      "key": "100-01-11-fistikli-kuru-baklava",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-kuru-baklava.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 16,
+        "cell": "F16"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-12",
+      "key": "100-01-12-fistikli-ozel-sobiyet",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-ozel-sobiyet.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 17,
+        "cell": "F17"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-13",
+      "key": "100-01-13-fistikli-padisah",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-padisah.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 18,
+        "cell": "F18"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-14",
+      "key": "100-01-14-fistikli-prenses",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-prenses.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 19,
+        "cell": "F19"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-15",
+      "key": "100-01-15-fistikli-saray-sarmasi",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-saray-sarmasi.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 20,
+        "cell": "F20"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-16",
+      "key": "100-01-16-fistikli-sari-burma",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-sari-burma.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 21,
+        "cell": "F21"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-01-17",
+      "key": "100-01-17-fistikli-sobiyet",
+      "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-sobiyet.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 22,
+        "cell": "F22"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/fistikli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-01",
+      "key": "100-02-01-cevizli-ankara-baklavasi",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-ankara-baklavasi.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 23,
+        "cell": "F23"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-02",
+      "key": "100-02-02-cevizli-baklava",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-baklava.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 24,
+        "cell": "F24"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-03",
+      "key": "100-02-03-cevizli-cimcik-baklava",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-cimcik-baklava.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 25,
+        "cell": "F25"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-04",
+      "key": "100-02-04-cevizli-cikolatali-baklava",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-cikolatali-baklava.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 26,
+        "cell": "F26"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-05",
+      "key": "100-02-05-cevizli-durum",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-durum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 27,
+        "cell": "F27"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-06",
+      "key": "100-02-06-cevizli-ev-baklavasi",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-ev-baklavasi.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 28,
+        "cell": "F28"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-07",
+      "key": "100-02-07-cevizli-kare-baklava",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-kare-baklava.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 29,
+        "cell": "F29"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-08",
+      "key": "100-02-08-cevizli-kelebek",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-kelebek.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 30,
+        "cell": "F30"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-09",
+      "key": "100-02-09-cevizli-kivrim",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-kivrim.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 31,
+        "cell": "F31"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-10",
+      "key": "100-02-10-cevizli-padisah",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-padisah.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 32,
+        "cell": "F32"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-11",
+      "key": "100-02-11-cevizli-prenses",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-prenses.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 33,
+        "cell": "F33"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-12",
+      "key": "100-02-12-cevizli-saray-sarma",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-saray-sarma.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 34,
+        "cell": "F34"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "100-02-13",
+      "key": "100-02-13-cevizli-sari-burma",
+      "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-sari-burma.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 35,
+        "cell": "F35"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "baklavalar",
+      "subcategoryId": "baklavalar/cevizli-baklavalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

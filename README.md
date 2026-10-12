@@ -1,117 +1,97 @@
 # Hafız Mustafa 1864 — React mağaza arayüzü
 
-Mevcut mağaza arayüzünün React 19 ve Vite 8 ile hazırlanmış, mobil uyumlu ön yüzüdür. Ürün ve kategori sayfaları tek katalog verisinden oluşturulur. Eski `.html` adresleri de doğrudan açılabilir.
+React 19 / Vite 8 ile hazırlanmış mağaza ön yüzü. 164 ürün, eski bağlantılar dahil 402 doğrudan sayfa adresi ve bölge/ülke/dil/para birimi seçimi içerir. Ürünler ana kategori bazında düzenlenir; alt kategoriler ayrıca dosyalara bölünmez.
 
 ## Yerel çalıştırma
 
-Node.js 20.19+ veya 22.12+ gereklidir.
+Node.js 22 kullanın. Proje kökünde:
 
 ```bash
 npm install
 npm run dev
 ```
 
-Terminalde gösterilen yerel adrese gidin. Yayın dosyalarını üretmek için `npm run build`, sonucu yerel sunucuda görmek için `npm run preview` komutunu kullanın. `dist/` klasörünü sitenin köküne yükleyin; doğrudan `.html` bağlantıları için sunucunun bu dosyaları ve `/assets/` yolunu servis etmesi gerekir. `dist/` paket içinde hazır olarak da bulunur.
+Terminaldeki Local adresini açın. JSON dosyalarını kaydedince yerel sayfa yeniden yüklenir. `npm run build` yayın dosyalarını `dist/` içine üretir. `npm run preview` yayın çıktısını yerelde gösterir. `npm test` veri/yönlendirme/etkileşim kontrollerini çalıştırır.
 
-## Katalog ve sayfalar
+## İçerik girişinde hangi dosya düzenlenecek?
 
-- `public/assets/data/products.json`: ürün adı, kodu, kategori, URL, açıklama, görsel, fiyat, stok, varyant, alerjen ve besin bilgileri için tek kaynak. Eksik alanlarda arayüz “bilgi eklenecek” mesajı gösterir. Doğrulanmamış fiyat, içerik veya besin değeri üretilmemiştir.
-- `categories` listesindeki `megaMenuOnline` alanı kategorinin **Online Menü** ve mobil menüde görünmesini, `highlightOnHeader` alanı üstteki altın kategori barında ayrıca gösterilmesini belirler. `subcategories` listesindeki `megaMenuOnline` alt kategorinin Online Menü ve mobil menüde görünmesini belirler. Her alan JSON `true`/`false` değerini alır; örneğin `"megaMenuOnline": true`. Üst bardaki sıralama `categories` listesinin sırasını izler. `highlightOnHeader: true` için aynı kategoride `megaMenuOnline: true` olmalıdır. **Mağaza Menü** sekmesi tüm kategorileri göstermeye devam eder. Bu alanlar ürün sayfalarını silmez veya gizlemez.
-- `src/model.js`: katalog normalizasyonu, arama ve URL eşlemesi.
-- `src/main.jsx`: React bileşenleri, sayfa şablonları ve etkileşimler.
-- `src/style.css`: tasarım ve responsive stiller.
-- `src/routes.json`: önceki site haritasındaki sayfa adresleri. İçeriği olmayan sayfalarda header/footer ve “İçerik eklenecek” alanı bulunur.
-- `scripts/routes.mjs`: derleme sonrasında eski `.html` adresleri için doğrudan giriş dosyaları üretir.
+Tüm düzenlenebilir veriler `public/assets/data/` altındadır:
 
-Katalog verisini değiştirdikten sonra `npm run build` çalıştırın. Yeni URL eklediğinizde `src/routes.json` eşlemesini de tamamlayın. Ürün görselleri `public/assets/images/urunler/`, diğer görseller `public/assets/images/medya/` altındadır.
+| İşlem | Dosya |
+| --- | --- |
+| Ana/alt kategori, menü görünürlüğü ve sıralama | `catalog/categories.json` |
+| Kategori dosyalarının kaydı | `catalog/manifest.json` |
+| Pastaların kimlikleri, URL'leri, SKU'ları, satış kanalları, görselleri | `products/pastalar/products.json` |
+| Pastaların tüm para birimlerinde fiyatları | `products/pastalar/prices.json` |
+| Pastaların Türkçe ürün/varyant metinleri | `products/pastalar/content/tr.json` |
+| Pastaların İngilizce ürün/varyant metinleri | `products/pastalar/content/en.json` |
+| Diğer ürün grupları | `products/<kategori>/` altında aynı düzen |
+| Header, tüm diller birlikte | `ui/header.json` |
+| Footer, tüm diller birlikte | `ui/footer.json` |
+| Ürün sayfası sabit metinleri, tüm diller birlikte | `ui/product-page.json` |
+| Ana sayfa / mağazalar / pencereler / sayfa başlıkları / ortak metinler | `ui/home.json`, `ui/stores.json`, `ui/dialogs.json`, `ui/pages.json`, `ui/common.json` |
+| Pazar grubu, ülke, varsayılan dil ve para birimi | `settings/regions.json` |
+| Dil kodları ve seçimde görünen dil adları | `settings/languages.json` |
+| Sipariş platformlarının adı, logo yolu ve URL'si | `settings/order-platforms.json` |
 
-## Bölge, ülke, dil ve para birimi matrisi
+Her ana kategori için 1 ürün dosyası, 1 fiyat dosyası ve 14 dil içerik dosyası vardır. Ürün başına dosya oluşturulmaz. UI'da dil klasörü bulunmaz; her metin aynı dosyada `tr`, `en`, `ar` ve diğer dil alanlarını içerir. Boş çeviri Türkçe kaynağı korur. Çeviri dosyasında fiyat, stok, SKU veya kategori ilişkisi kopyalanmaz. Çevirisi henüz girilmemiş dosyalarda ürün/varyant kimlikleri ve boş nesneler hazırdır; alan adlarını Türkçe dosyadaki örnekten ekleyebilirsiniz. Boş metinleri yüzlerce kez kopyalamak gerekmez.
 
-İlk ziyarette pazar grubu → ülke → dil → para birimi seçilir; seçim yapılana kadar pencere kapatılamaz. Header'dan değiştirilebilir ve tarayıcıda saklanır. `public/assets/data/regions.json` (`schemaVersion: 2`) 16 pazar grubunu, 34 ülke seçeneğini, varsayılan dil/para birimini ve pazar için önerilen seçenekleri tanımlar. Ülke seçimi pazar grubunu belirler; grup değişiminde ilk ülke seçilir. Kullanıcı dili ve para birimini dilerse diğer tanımlı seçeneklerden bağımsız değiştirebilir. Önceden kaydedilmiş ülke/dil tercihi korunur; eksik para birimi ülke varsayılanıyla tamamlanır.
+Eski birleşik `products.json`, `content.json` ve `regions.json` artık düzenleme kaynağı değildir. `src/data-loader.js` kategori dosyalarını ürün kimliği ve varyant koduna göre birleştirir; fiyat ve içerik eşleşmelerini doğrular. Vite derlemede `dist/assets/data/runtime.json` üretir. Yerel geliştirmede aynı adres otomatik oluşturulur. Bu dosya **üretilmiş çıktıdır; elle düzenlemeyin**. Ürün listeleri ve kategori üyelikleri otomatik hazırlanır, ikinci bir dosyada aynı ürün listesi elle tutulmaz.
 
-| Pazar grubu | Ülke seçenekleri | Önerilen diller | Para birimleri (ilk: grup varsayılanı) |
-| --- | --- | --- | --- |
-| Kuzey Amerika | ABD, Kanada | İngilizce | USD |
-| İngiltere & Küresel | Birleşik Krallık, Avustralya, İrlanda | İngilizce | GBP, USD |
-| Türkiye | Türkiye | Türkçe | TRY |
-| Körfez Bölgesi (GCC) | BAE, Suudi Arabistan, Katar, Kuveyt | Arapça, İngilizce | AED, USD |
-| Batı & Orta Avrupa | Almanya, Avusturya, İsviçre | Almanca | EUR |
-| Batı Avrupa (Fransa) | Fransa, Belçika | Fransızca | EUR |
-| Güney Avrupa (İtalya) | İtalya | İtalyanca | EUR |
-| İspanya & Latin Amerika | İspanya, Meksika, Arjantin | İspanyolca | EUR, USD |
-| Kuzey Avrupa (İskandinavya) | Danimarka, İsveç, Norveç, Finlandiya | İngilizce | EUR, DKK, SEK |
-| Doğu Avrupa | Rusya, Azerbaycan, Kazakistan | Rusça | USD, EUR |
-| Uzak Doğu (Çin) | Çin Anakarası, Hong Kong | Basitleştirilmiş Çince | CNY, USD |
-| Uzak Doğu (Japonya) | Japonya | Japonca | JPY |
-| Güney Asya | Hindistan, Pakistan | Hintçe, Urduca | USD |
-| Orta Doğu (Farsça) | İran | Farsça | USD |
-| Güney Amerika (Brezilya) | Brezilya | Portekizce | USD |
-| Diğer Dünya Ülkeleri | Diğer ülke (adı girilir) | İngilizce | USD |
+Ürünün `key` değerini ve varyantın `code` değerini çeviri veya isim değiştirirken değiştirmeyin. Gerçek SKU `variants[].sku` alanındadır. Kategori/alt kategori bağları `categoryId` ve `subcategoryId` üzerinden kurulur; görünen isim değişince bağlar bozulmaz. Yeni URL için `src/routes.json` kaydını da ekleyin. Eski ürün bağlantıları mevcut ürün kimliği üzerinden çalışmaya devam eder.
 
-Birden çok para birimi olan gruplarda bazı ülkeler için tabloda verilen seçeneklerden ülke varsayılanı tanımlıdır: Avustralya/İrlanda USD; Suudi Arabistan/Katar/Kuveyt USD; Meksika/Arjantin USD; Danimarka DKK; İsveç SEK; Hong Kong USD. Pakistan varsayılan dili Urduca'dır. Norveç için verilen tabloda NOK bulunmadığı için EUR varsayılandır; iş kararı değişirse `regions.json` güncellenmelidir. Matris teslimat, vergi veya ödeme entegrasyonu anlamına gelmez.
+## Ürün hikâyesi ve kutunun yeniden kullanımı
 
-Dil kodları (`tr`, `en`, `ar`, `de`, `fr`, `it`, `es`, `ru`, `zh-CN`, `ja`, `hi`, `ur`, `fa`, `pt`), ülke/grup adları ve arayüz metinleri `public/assets/data/content.json` içindedir. Yeni dil alanları çeviri girişi için boştur; çeviri tamamlanana kadar mevcut Türkçe metin gösterilir.
+Her üründe iki statik şablon vardır: `story` ve `boxReuse`. Her biri bir görsel, başlık ve birkaç paragraftan oluşur. Buton, akordiyon, popup veya başka etkileşim içermez. Masaüstünde iki sütun; mobilde görsel ve metin alt alta gösterilir. Boş alanlarda içerik/görsel bekleniyor mesajı çıkar; ürün hakkında metin uydurulmaz.
 
-Yeni çeviri eklemek için `content.json` dosyasında ilgili anahtarın boş dil değerini doldurun; örneğin:
+Örneğin Lotus Kulesi'nin `products/pastalar/products.json` içindeki ürün kaydında görselleri düzenleyin:
 
 ```json
-"ui.countProducts": {
-  "tr": "{count} ürün",
-  "en": "{count} products",
-  "ar": "{count} منتجات"
+"editorial": [
+  {"type": "story", "enabled": true, "image": "/assets/images/medya/lotus-hikaye.jpg"},
+  {"type": "boxReuse", "enabled": true, "image": "/assets/images/medya/lotus-kutu-kullanimi.jpg"}
+]
+```
+
+Aynı ürünün `products/pastalar/content/tr.json` dosyasındaki `products["500-01-12-lotus-kulesi"].editorial` alanını doldurun:
+
+```json
+"editorial": {
+  "story": {
+    "title": "Ürüne özel hikâye başlığı",
+    "imageAlt": "Hikâye görselinin açıklaması",
+    "paragraphs": ["Birinci paragraf", "İkinci paragraf", "Üçüncü paragraf"]
+  },
+  "boxReuse": {
+    "title": "Kutunun ikinci hayatı",
+    "imageAlt": "Kutu kullanım görselinin açıklaması",
+    "paragraphs": ["Birinci paragraf", "İkinci paragraf", "Üçüncü paragraf"]
+  }
 }
 ```
 
-Sayfa metinleri `src/templates.json` içinde `@text:...` anahtarlarıyla, sayfa başlıkları `src/routes.json` içinde `titleKey` ile bağlanır. Görünen sabit bir metin eklerken önce `content.json` dosyasına bir anahtar ekleyin. Yeni dil için `languages` listesine kod ve ad ekleyip her `texts` kaydına aynı dil kodu için boş bir alan ekleyin. Boş bırakılan alanlarda Türkçe gösterilir.
+Diğer diller için aynı ürün kimliğini ilgili dil dosyasında düzenleyin. İstediğiniz kadar paragraf ekleyebilirsiniz. Alanı tamamen gizlemek için ürün dosyasında ilgili bölümün `enabled` değerini `false` yapın. Görsel bilgisi ürün dosyasında tek kez tutulur; başlık, görsel açıklaması ve paragraflar dil dosyalarındadır.
 
-Farklı para birimlerinde fiyatlar **kur çevirisiyle hesaplanmaz**. `products.json` içindeki ürünün mevcut `price` ve `currency` alanları temel fiyatı belirler. Başka para birimindeki onaylanmış fiyatı `pricesByCurrency` alanına sayı olarak yazın. Varyantlı üründe her varyantın ilgili para birimi fiyatını ayrıca ekleyin; varyant fiyatı eksikse yanlış tutar göstermek yerine fiyat bekleniyor mesajı görünür. `0` geçerli bir fiyattır; fiyatlar mevcut `price` alanındaki birimle (örneğin 1999.00) girilir. Örnek:
+## Fiyat, satış kanalı ve pasta verileri
 
-```json
-{
-  "price": 1999,
-  "currency": "TRY",
-  "pricesByCurrency": {"AED": 210, "GBP": 49},
-  "variants": [
-    {"code": "S", "price": 1999, "pricesByCurrency": {"AED": 210, "GBP": 49}},
-    {"code": "L", "price": 2999, "pricesByCurrency": {"AED": 310, "GBP": 69}}
-  ]
-}
-```
+`prices.json` içindeki `products[ürünKey].base` temel fiyatları, `variants[varyantCode]` varyant fiyatlarını tutar. Para birimi anahtarları: TRY, USD, EUR, AED, GBP, DKK, SEK, CNY, JPY. Tutarları sayı olarak girin (örneğin `1999` veya `1999.50`); sembol/binlik ayırıcı kullanmayın. Bilinmeyen fiyat `null` kalır, `0` geçerli fiyat olarak korunur. Otomatik kur dönüşümü yoktur. Varyantın yabancı para birimi fiyatı yoksa başka varyantın/ürünün fiyatı kullanılmaz.
 
-`products.json` içindeki bir ürün, kategori veya alt kategoriye isteğe bağlı `markets` ve `translations` eklenebilir:
+Pasta kaynak dosyasından 18 ürün, 36 Dilim/Baton varyantı ve 8 alt kategori aktarılmıştır. Yalnızca İÇİNDEKİLER KISA kullanılır; FULL aktarılmamıştır. Porsiyon, gramaj, alerjen, servis ve muhafaza metinleri dil dosyasının `variants[varyantCode]` alanındadır. Kaynakta olmayan açıklama, görsel, stok, besin değeri, teslimat ve ambalaj bilgileri boş bırakılmıştır. Dilim ve Baton fiyatları kaynakta eşittir; tutarlar değiştirilmemiştir.
 
-```json
-"markets": ["TR", "AE"],
-"translations": {
-  "en": { "name": "Approved English product name", "description": "Approved description" },
-  "ar": { "name": "Approved Arabic product name" }
-}
-```
-
-`markets` yoksa kayıt tüm bölgelerde görünür; varsa yalnızca listelenen ülke kodlarında (`AE`) veya pazar grubu kimliklerinde (`gcc`) görünür. Bölge değiştiğinde menü, kategori ve arama sonuçları aynı filtrelenmiş katalogdan üretilir. Çeviri yoksa mevcut Türkçe metin gösterilir. Ürün ve kategori URL'leri dil değişiminde aynı kalır. Sabit arayüz ve sayfa metinleri `public/assets/data/content.json` dosyasındaki `texts` alanından alınır; `languages` listesi seçilebilir dilleri belirler. Her metin anahtarında `languages` listesindeki 14 dilin alanı bulunur. Boş çeviri alanlarında Türkçe gösterilir. `src/i18n.js` yalnızca okuma ve geri dönüş mantığını içerir. Metinlerde `{count}`, `{name}` gibi yer tutucuları koruyun. Ürün ve kategori adları ile ürün açıklamalarının çevirileri `products.json` içindeki ilgili kaydın `translations.en` veya `translations.ar` alanına eklenir. Seçilen para biriminin fiyatı ürün verisinde yoksa fiyat eklenene kadar tutar gösterilmez.
-
-## Etkileşimler ve sınırlar
-
-Kategori menüleri, mobil menü, arama, filtreleme/sıralama, ürün varyantları, adet seçimi, akordiyonlar, bilgi pencereleri ve dört slaytlı, beş saniyede ilerleyen ana sayfa slider'ı çalışır. Ödeme/sipariş, kullanıcı hesabı ve canlı stok sunucu bağlantısı gerektirir; bu ön yüzde gerçek işlem yapılmaz. Kaynak görsel, fiyat veya besin verisi sağlanmayan ürünler yer tutucu ile görünür.
-
-Doğrulama: `npm test` ve `npm run build`. Ayrıca doğrudan ürün URL'si, varyant seçimi, menü/pencere etkileşimi ve masaüstü/mobil görünüm gerçek tarayıcıda kontrol edilmiştir.
-
-## Netlify'ye yükleme
-
-Hızlı önizleme için ZIP'i açın; Netlify'de **Add new project → Deploy manually** bölümüne `hafiz-mustafa-react/dist` klasörünün kendisini sürükleyin. ZIP dosyasını veya `public` klasörünü yüklemeyin. Değişiklikleri yayınlamak için önce `npm run build` çalıştırıp güncel `dist` klasörünü aynı projenin **Deploys** alanına tekrar yükleyin.
-
-Düzenli güncelleme için kaynak klasörünü bir Git deposuna aktarın ve Netlify'de depoyu bağlayın. Proje kökündeki `netlify.toml` derleme komutunu `npm run build`, yayın klasörünü `dist` ve Node sürümünü 22 olarak ayarlar. Netlify'nin varsayılan Pretty URLs işlemi `.html` adresini uzantısız hale getirirse React yönlendiricisi bu adresleri de eşler.
-
-Bu pakette `noindex,nofollow` meta etiketi bulunur. Netlify adresiyle yalnızca önizleme yapılacaksa uygundur. Arama motorlarında listelenecek gerçek mağaza yayını öncesinde `index.html` içindeki bu etiketi ve sipariş/ödeme entegrasyonunu ayrıca ele alın.
-
-## Pasta kataloğu (12 Ekim 2026)
-
-`ÜRÜN LİSTESİ (500_PASTALAR).xlsx` kaynak dosyasından 18 ürün, 36 Dilim/Baton varyantı ve 8 alt kategori aktarıldı. SKU noktaları aynen korunur. Varyantın `onlineSale`, `commonMarket`, `portion`, `weight`, `price`, `pricesByCurrency`, `ingredients`, `allergenInfo`, `storage`, `servingSuggestion`, `longTermStorage` alanları kaynak satırından gelir. `ingredients` yalnızca İÇİNDEKİLER KISA alanıdır; FULL kullanılmaz. Kaynakta olmayan görsel, açıklama, stok, besin değeri, teslimat ve ambalaj bilgileri boş kalır. Dilim ve Baton fiyatları kaynakta eşittir; değişiklik yapılmamıştır.
-
-`onlineSale: false` ve `commonMarket: true` ürünü katalogda gösterir; seçili varyantta satın alma alanını kaldırır ve mağaza/platform sipariş notunu gösterir. İki bayrak da false ise ürün çevrimiçi katalogdan gizlenir. Tanımsız bayraklar önceki ürünlerin görünürlüğünü değiştirmez.
-
-Ürün ve alt kategori adları `translations.<dil>.name`; varyant metinleri `variants[].translations.<dil>` alanından okunur. Her varyantta `label`, `portion`, `weight`, `ingredients`, `allergenInfo`, `servingSuggestion`, `storage`, `longTermStorage`, `description`, `delivery`, `packaging` alanlarının 13 diğer dilde boş karşılıkları hazırdır. Boş çeviri Türkçe kaynak metni korur. Fiyatlar dil çevirisine girmez. Örnek: `variants[0].translations.en.ingredients`.
-
-Platform adları, logoları ve sipariş bağlantıları `products.json` içindeki `orderPlatforms` listesindedir. Kaynakta bağlantı olmadığı için `url` boş bırakılmıştır; logo bilgi olarak gösterilir. Doğrulanmış mağaza/platform URL'si eklendiğinde logo bağlantıya dönüşür.
+`onlineSale: false` ve `commonMarket: true` seçili varyantı katalogda gösterir, satın alma alanını kaldırır ve mağaza/platform sipariş notunu gösterir. İki bayrak da false ise ürün çevrimiçi katalogda gizlenir. Tanımsız bayraklar önceki ürünlerin görünürlüğünü değiştirmez. Platform `url` alanı boşsa logo bilgi olarak gösterilir; doğrulanmış URL eklendiğinde bağlantıya dönüşür.
 
 Logo kaynakları: Uber Eats: Simple Icons (https://github.com/simple-icons/simple-icons). Yemeksepeti simgesi: Arcticons (https://github.com/Arcticons-Team/Arcticons), CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); kırmızı zemin eklendi.
+
+## Menü, pazar ve diller
+
+Ana kategorilerin `megaMenuOnline` değeri online/mobil menü görünürlüğünü, `highlightOnHeader` değeri altın kategori barındaki görünürlüğünü belirler. Alt kategorilerin `megaMenuOnline` değeri online/mobil menü görünürlüğünü belirler. JSON `true`/`false` kullanılır. Mağaza Menü tüm kategorileri gösterir. Header sırası kategori listesi sırasıdır.
+
+Matris: 16 pazar grubu, 34 ülke seçeneği, 14 dil ve 9 para birimi. Ülke seçimi varsayılan dil ve para birimini getirir; kullanıcı ikisini bağımsız değiştirebilir. Eski tercihler korunur. Matris dışında ülke adı girilebilir. Norveç için kaynak matriste NOK bulunmadığından EUR varsayılandır. Bu yapı teslimat/vergi/ödeme entegrasyonu değildir.
+
+`markets` yoksa kayıt tüm pazarlarda görünür; varsa ülke kodu (`AE`) veya pazar kimliği (`gcc`) ile sınırlanır. Dil kodları: tr, en, ar, de, fr, it, es, ru, zh-CN, ja, hi, ur, fa, pt. Arapça/Farsça/Urduca'da yazı yönü RTL olur. Çeviri yoksa Türkçe kullanılır; yeni diller için onaylı çeviriler ayrıca girilmelidir. URL'ler dil değişiminde sabit kalır.
+
+## Netlify yayını
+
+`npm run build` sonrasında oluşan `dist/` klasörünü Netlify projesinin Deploys alanına yükleyin. Kaynak `public/` klasörünü veya `index.html` dosyasını tek başına yüklemeyin. GitHub bağlantılı Netlify projesinde `netlify.toml` build=`npm run build`, publish=`dist`, Node=22 olarak tanımlıdır.
+
+Ödeme/sipariş, hesap ve canlı stok sunucu bağlantısı gerektirir; ön yüzde gerçek işlem yapılmaz. Önizleme için `noindex,nofollow` etiketi korunur.

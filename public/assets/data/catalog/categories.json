@@ -1,0 +1,871 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "name": "Kahvaltılıklar",
+      "url": "urunler/kahvaltiliklar/index.html",
+      "subcategories": [
+        "Börekler",
+        "Kahvaltılık"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false,
+      "id": "kahvaltiliklar"
+    },
+    {
+      "name": "Baklavalar",
+      "url": "urunler/baklavalar/index.html",
+      "subcategories": [
+        "Fıstıklı Baklavalar",
+        "Cevizli Baklavalar"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": true,
+      "id": "baklavalar"
+    },
+    {
+      "name": "İlaveler",
+      "url": "urunler/ilaveler/index.html",
+      "subcategories": [
+        "Dondurmalar",
+        "Kaymaklar",
+        "Kuruyemişler",
+        "Soslar"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false,
+      "id": "ilaveler"
+    },
+    {
+      "name": "Lokumlar",
+      "url": "urunler/lokumlar/index.html",
+      "subcategories": [
+        "Fitil Lokumlar",
+        "Duble Lokumlar",
+        "Çifte Kavrulmuş Lokumlar",
+        "Krokanlı Lokumlar",
+        "Sultan Lokum",
+        "Aromalı Lokumlar"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": true,
+      "id": "lokumlar"
+    },
+    {
+      "name": "Kadayıflar",
+      "url": "urunler/kadayiflar/index.html",
+      "subcategories": [
+        "Fıstıklı Kadayıflar",
+        "Cevizli Kadayıflar",
+        "Lokumlu Kadayıflar",
+        "Künefeler"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": true,
+      "id": "kadayiflar"
+    },
+    {
+      "name": "Drajeler",
+      "url": "urunler/drajeler/index.html",
+      "subcategories": [
+        "Aromalı & Baharatlı Drajeler",
+        "Çoklu Kaplamalı Drajeler",
+        "Sütlü Çikolatalı Drajeler"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false,
+      "id": "drajeler"
+    },
+    {
+      "name": "Pastalar",
+      "url": "urunler/pastalar/index.html",
+      "subcategories": [
+        "Pasta"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false,
+      "translations": {
+        "en": {
+          "name": ""
+        },
+        "ar": {
+          "name": ""
+        },
+        "de": {
+          "name": ""
+        },
+        "fr": {
+          "name": ""
+        },
+        "it": {
+          "name": ""
+        },
+        "es": {
+          "name": ""
+        },
+        "ru": {
+          "name": ""
+        },
+        "zh-CN": {
+          "name": ""
+        },
+        "ja": {
+          "name": ""
+        },
+        "hi": {
+          "name": ""
+        },
+        "ur": {
+          "name": ""
+        },
+        "fa": {
+          "name": ""
+        },
+        "pt": {
+          "name": ""
+        }
+      },
+      "id": "pastalar"
+    },
+    {
+      "name": "Muhallebiler",
+      "url": "urunler/muhallebiler/index.html",
+      "subcategories": [
+        "Geleneksel Sütlü Tatlılar",
+        "Kazandibiler",
+        "Meyveli & Aromalı Muhallebiler",
+        "Özel Kup & Çikolatalı Tatlılar"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false,
+      "id": "muhallebiler"
+    },
+    {
+      "name": "Sezonluk Tatlılar",
+      "url": "urunler/sezonluk-tatlilar/index.html",
+      "subcategories": [
+        "Geleneksel Meyve Tatlıları",
+        "Güllaçlar",
+        "Özel Dönemsel Sütlüler"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false,
+      "id": "sezonluk-tatlilar"
+    },
+    {
+      "name": "Trileçeler",
+      "url": "urunler/trileceler/index.html",
+      "subcategories": [
+        "Trileçe"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false,
+      "id": "trileceler"
+    },
+    {
+      "name": "Spesiyaller",
+      "url": "urunler/spesiyaller/index.html",
+      "subcategories": [
+        "Dubai Serisi",
+        "Afet-i Devran Serisi",
+        "Humbara"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false,
+      "id": "spesiyaller"
+    },
+    {
+      "name": "Kahveler",
+      "url": "urunler/kahveler/index.html",
+      "subcategories": [
+        "Türk Kahvesi",
+        "Aromalı Kahveler",
+        "Salepler"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": true,
+      "id": "kahveler"
+    },
+    {
+      "name": "Çaylar",
+      "url": "urunler/caylar/index.html",
+      "subcategories": [
+        "Bitki Çayları",
+        "Meyveli Çayları"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": true,
+      "id": "caylar"
+    },
+    {
+      "name": "Miras Lezzetler",
+      "url": "urunler/miras-lezzetler/index.html",
+      "subcategories": [
+        "Helvalar",
+        "Ballar"
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false,
+      "id": "miras-lezzetler"
+    }
+  ],
+  "subcategories": [
+    {
+      "name": "Börekler",
+      "url": "urunler/kahvaltiliklar/borekler/index.html",
+      "megaMenuOnline": true,
+      "id": "kahvaltiliklar/borekler",
+      "categoryId": "kahvaltiliklar"
+    },
+    {
+      "name": "Kahvaltılık",
+      "url": "urunler/kahvaltiliklar/kahvaltilik/index.html",
+      "megaMenuOnline": true,
+      "id": "kahvaltiliklar/kahvaltilik",
+      "categoryId": "kahvaltiliklar"
+    },
+    {
+      "name": "Fıstıklı Baklavalar",
+      "url": "urunler/baklavalar/fistikli-baklavalar/index.html",
+      "megaMenuOnline": true,
+      "id": "baklavalar/fistikli-baklavalar",
+      "categoryId": "baklavalar"
+    },
+    {
+      "name": "Cevizli Baklavalar",
+      "url": "urunler/baklavalar/cevizli-baklavalar/index.html",
+      "megaMenuOnline": true,
+      "id": "baklavalar/cevizli-baklavalar",
+      "categoryId": "baklavalar"
+    },
+    {
+      "name": "Dondurmalar",
+      "url": "urunler/ilaveler/dondurmalar/index.html",
+      "megaMenuOnline": true,
+      "id": "ilaveler/dondurmalar",
+      "categoryId": "ilaveler"
+    },
+    {
+      "name": "Kaymaklar",
+      "url": "urunler/ilaveler/kaymaklar/index.html",
+      "megaMenuOnline": true,
+      "id": "ilaveler/kaymaklar",
+      "categoryId": "ilaveler"
+    },
+    {
+      "name": "Kuruyemişler",
+      "url": "urunler/ilaveler/kuruyemisler/index.html",
+      "megaMenuOnline": true,
+      "id": "ilaveler/kuruyemisler",
+      "categoryId": "ilaveler"
+    },
+    {
+      "name": "Soslar",
+      "url": "urunler/ilaveler/soslar/index.html",
+      "megaMenuOnline": true,
+      "id": "ilaveler/soslar",
+      "categoryId": "ilaveler"
+    },
+    {
+      "name": "Fitil Lokumlar",
+      "url": "urunler/lokumlar/fitil-lokumlar/index.html",
+      "megaMenuOnline": true,
+      "id": "lokumlar/fitil-lokumlar",
+      "categoryId": "lokumlar"
+    },
+    {
+      "name": "Duble Lokumlar",
+      "url": "urunler/lokumlar/duble-lokumlar/index.html",
+      "megaMenuOnline": true,
+      "id": "lokumlar/duble-lokumlar",
+      "categoryId": "lokumlar"
+    },
+    {
+      "name": "Çifte Kavrulmuş Lokumlar",
+      "url": "urunler/lokumlar/cifte-kavrulmus-lokumlar/index.html",
+      "megaMenuOnline": true,
+      "id": "lokumlar/cifte-kavrulmus-lokumlar",
+      "categoryId": "lokumlar"
+    },
+    {
+      "name": "Krokanlı Lokumlar",
+      "url": "urunler/lokumlar/krokanli-lokumlar/index.html",
+      "megaMenuOnline": true,
+      "id": "lokumlar/krokanli-lokumlar",
+      "categoryId": "lokumlar"
+    },
+    {
+      "name": "Sultan Lokum",
+      "url": "urunler/lokumlar/sultan-lokum/index.html",
+      "megaMenuOnline": true,
+      "id": "lokumlar/sultan-lokum",
+      "categoryId": "lokumlar"
+    },
+    {
+      "name": "Aromalı Lokumlar",
+      "url": "urunler/lokumlar/aromali-lokumlar/index.html",
+      "megaMenuOnline": true,
+      "id": "lokumlar/aromali-lokumlar",
+      "categoryId": "lokumlar"
+    },
+    {
+      "name": "Fıstıklı Kadayıflar",
+      "url": "urunler/kadayiflar/fistikli-kadayiflar/index.html",
+      "megaMenuOnline": true,
+      "id": "kadayiflar/fistikli-kadayiflar",
+      "categoryId": "kadayiflar"
+    },
+    {
+      "name": "Cevizli Kadayıflar",
+      "url": "urunler/kadayiflar/cevizli-kadayiflar/index.html",
+      "megaMenuOnline": true,
+      "id": "kadayiflar/cevizli-kadayiflar",
+      "categoryId": "kadayiflar"
+    },
+    {
+      "name": "Lokumlu Kadayıflar",
+      "url": "urunler/kadayiflar/lokumlu-kadayiflar/index.html",
+      "megaMenuOnline": true,
+      "id": "kadayiflar/lokumlu-kadayiflar",
+      "categoryId": "kadayiflar"
+    },
+    {
+      "name": "Künefeler",
+      "url": "urunler/kadayiflar/kunefeler/index.html",
+      "megaMenuOnline": true,
+      "id": "kadayiflar/kunefeler",
+      "categoryId": "kadayiflar"
+    },
+    {
+      "name": "Aromalı & Baharatlı Drajeler",
+      "url": "urunler/drajeler/aromali-baharatli-drajeler/index.html",
+      "megaMenuOnline": true,
+      "id": "drajeler/aromali-baharatli-drajeler",
+      "categoryId": "drajeler"
+    },
+    {
+      "name": "Çoklu Kaplamalı Drajeler",
+      "url": "urunler/drajeler/coklu-kaplamali-drajeler/index.html",
+      "megaMenuOnline": true,
+      "id": "drajeler/coklu-kaplamali-drajeler",
+      "categoryId": "drajeler"
+    },
+    {
+      "name": "Sütlü Çikolatalı Drajeler",
+      "url": "urunler/drajeler/sutlu-cikolatali-drajeler/index.html",
+      "megaMenuOnline": true,
+      "id": "drajeler/sutlu-cikolatali-drajeler",
+      "categoryId": "drajeler"
+    },
+    {
+      "name": "Geleneksel Sütlü Tatlılar",
+      "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/index.html",
+      "megaMenuOnline": true,
+      "id": "muhallebiler/geleneksel-sutlu-tatlilar",
+      "categoryId": "muhallebiler"
+    },
+    {
+      "name": "Kazandibiler",
+      "url": "urunler/muhallebiler/kazandibiler/index.html",
+      "megaMenuOnline": true,
+      "id": "muhallebiler/kazandibiler",
+      "categoryId": "muhallebiler"
+    },
+    {
+      "name": "Meyveli & Aromalı Muhallebiler",
+      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/index.html",
+      "megaMenuOnline": true,
+      "id": "muhallebiler/meyveli-aromali-muhallebiler",
+      "categoryId": "muhallebiler"
+    },
+    {
+      "name": "Özel Kup & Çikolatalı Tatlılar",
+      "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/index.html",
+      "megaMenuOnline": true,
+      "id": "muhallebiler/ozel-kup-cikolatali-tatlilar",
+      "categoryId": "muhallebiler"
+    },
+    {
+      "name": "Geleneksel Meyve Tatlıları",
+      "url": "urunler/sezonluk-tatlilar/geleneksel-meyve-tatlilari/index.html",
+      "megaMenuOnline": true,
+      "id": "sezonluk-tatlilar/geleneksel-meyve-tatlilari",
+      "categoryId": "sezonluk-tatlilar"
+    },
+    {
+      "name": "Güllaçlar",
+      "url": "urunler/sezonluk-tatlilar/gullaclar/index.html",
+      "megaMenuOnline": true,
+      "id": "sezonluk-tatlilar/gullaclar",
+      "categoryId": "sezonluk-tatlilar"
+    },
+    {
+      "name": "Özel Dönemsel Sütlüler",
+      "url": "urunler/sezonluk-tatlilar/ozel-donemsel-sutluler/index.html",
+      "megaMenuOnline": true,
+      "id": "sezonluk-tatlilar/ozel-donemsel-sutluler",
+      "categoryId": "sezonluk-tatlilar"
+    },
+    {
+      "name": "Trileçe",
+      "url": "urunler/trileceler/trilece/index.html",
+      "megaMenuOnline": true,
+      "id": "trileceler/trilece",
+      "categoryId": "trileceler"
+    },
+    {
+      "name": "Dubai Serisi",
+      "url": "urunler/spesiyaller/dubai-serisi/index.html",
+      "megaMenuOnline": true,
+      "id": "spesiyaller/dubai-serisi",
+      "categoryId": "spesiyaller"
+    },
+    {
+      "name": "Afet-i Devran Serisi",
+      "url": "urunler/spesiyaller/afet-i-devran-serisi/index.html",
+      "megaMenuOnline": true,
+      "id": "spesiyaller/afet-i-devran-serisi",
+      "categoryId": "spesiyaller"
+    },
+    {
+      "name": "Humbara",
+      "url": "urunler/spesiyaller/humbara/index.html",
+      "megaMenuOnline": true,
+      "id": "spesiyaller/humbara",
+      "categoryId": "spesiyaller"
+    },
+    {
+      "name": "Türk Kahvesi",
+      "url": "urunler/kahveler/turk-kahvesi/index.html",
+      "megaMenuOnline": true,
+      "id": "kahveler/turk-kahvesi",
+      "categoryId": "kahveler"
+    },
+    {
+      "name": "Aromalı Kahveler",
+      "url": "urunler/kahveler/aromali-kahveler/index.html",
+      "megaMenuOnline": true,
+      "id": "kahveler/aromali-kahveler",
+      "categoryId": "kahveler"
+    },
+    {
+      "name": "Salepler",
+      "url": "urunler/kahveler/salepler/index.html",
+      "megaMenuOnline": true,
+      "id": "kahveler/salepler",
+      "categoryId": "kahveler"
+    },
+    {
+      "name": "Bitki Çayları",
+      "url": "urunler/caylar/bitki-caylari/index.html",
+      "megaMenuOnline": true,
+      "id": "caylar/bitki-caylari",
+      "categoryId": "caylar"
+    },
+    {
+      "name": "Meyveli Çayları",
+      "url": "urunler/caylar/meyveli-caylari/index.html",
+      "megaMenuOnline": true,
+      "id": "caylar/meyveli-caylari",
+      "categoryId": "caylar"
+    },
+    {
+      "name": "Helvalar",
+      "url": "urunler/miras-lezzetler/helvalar/index.html",
+      "megaMenuOnline": true,
+      "id": "miras-lezzetler/helvalar",
+      "categoryId": "miras-lezzetler"
+    },
+    {
+      "name": "Ballar",
+      "url": "urunler/miras-lezzetler/ballar/index.html",
+      "megaMenuOnline": true,
+      "id": "miras-lezzetler/ballar",
+      "categoryId": "miras-lezzetler"
+    },
+    {
+      "name": "Bisküvili Pastalar",
+      "url": "urunler/pastalar/biskuvili-pastalar/index.html",
+      "megaMenuOnline": true,
+      "translations": {
+        "en": {
+          "name": ""
+        },
+        "ar": {
+          "name": ""
+        },
+        "de": {
+          "name": ""
+        },
+        "fr": {
+          "name": ""
+        },
+        "it": {
+          "name": ""
+        },
+        "es": {
+          "name": ""
+        },
+        "ru": {
+          "name": ""
+        },
+        "zh-CN": {
+          "name": ""
+        },
+        "ja": {
+          "name": ""
+        },
+        "hi": {
+          "name": ""
+        },
+        "ur": {
+          "name": ""
+        },
+        "fa": {
+          "name": ""
+        },
+        "pt": {
+          "name": ""
+        }
+      },
+      "id": "pastalar/biskuvili-pastalar",
+      "categoryId": "pastalar"
+    },
+    {
+      "name": "Çikolatalı Pastalar",
+      "url": "urunler/pastalar/cikolatali-pastalar/index.html",
+      "megaMenuOnline": true,
+      "translations": {
+        "en": {
+          "name": ""
+        },
+        "ar": {
+          "name": ""
+        },
+        "de": {
+          "name": ""
+        },
+        "fr": {
+          "name": ""
+        },
+        "it": {
+          "name": ""
+        },
+        "es": {
+          "name": ""
+        },
+        "ru": {
+          "name": ""
+        },
+        "zh-CN": {
+          "name": ""
+        },
+        "ja": {
+          "name": ""
+        },
+        "hi": {
+          "name": ""
+        },
+        "ur": {
+          "name": ""
+        },
+        "fa": {
+          "name": ""
+        },
+        "pt": {
+          "name": ""
+        }
+      },
+      "id": "pastalar/cikolatali-pastalar",
+      "categoryId": "pastalar"
+    },
+    {
+      "name": "Çilekli Pastalar",
+      "url": "urunler/pastalar/cilekli-pastalar/index.html",
+      "megaMenuOnline": true,
+      "translations": {
+        "en": {
+          "name": ""
+        },
+        "ar": {
+          "name": ""
+        },
+        "de": {
+          "name": ""
+        },
+        "fr": {
+          "name": ""
+        },
+        "it": {
+          "name": ""
+        },
+        "es": {
+          "name": ""
+        },
+        "ru": {
+          "name": ""
+        },
+        "zh-CN": {
+          "name": ""
+        },
+        "ja": {
+          "name": ""
+        },
+        "hi": {
+          "name": ""
+        },
+        "ur": {
+          "name": ""
+        },
+        "fa": {
+          "name": ""
+        },
+        "pt": {
+          "name": ""
+        }
+      },
+      "id": "pastalar/cilekli-pastalar",
+      "categoryId": "pastalar"
+    },
+    {
+      "name": "Fıstıklı Pastalar",
+      "url": "urunler/pastalar/fistikli-pastalar/index.html",
+      "megaMenuOnline": true,
+      "translations": {
+        "en": {
+          "name": ""
+        },
+        "ar": {
+          "name": ""
+        },
+        "de": {
+          "name": ""
+        },
+        "fr": {
+          "name": ""
+        },
+        "it": {
+          "name": ""
+        },
+        "es": {
+          "name": ""
+        },
+        "ru": {
+          "name": ""
+        },
+        "zh-CN": {
+          "name": ""
+        },
+        "ja": {
+          "name": ""
+        },
+        "hi": {
+          "name": ""
+        },
+        "ur": {
+          "name": ""
+        },
+        "fa": {
+          "name": ""
+        },
+        "pt": {
+          "name": ""
+        }
+      },
+      "id": "pastalar/fistikli-pastalar",
+      "categoryId": "pastalar"
+    },
+    {
+      "name": "Frambuazlı Pastalar",
+      "url": "urunler/pastalar/frambuazli-pastalar/index.html",
+      "megaMenuOnline": true,
+      "translations": {
+        "en": {
+          "name": ""
+        },
+        "ar": {
+          "name": ""
+        },
+        "de": {
+          "name": ""
+        },
+        "fr": {
+          "name": ""
+        },
+        "it": {
+          "name": ""
+        },
+        "es": {
+          "name": ""
+        },
+        "ru": {
+          "name": ""
+        },
+        "zh-CN": {
+          "name": ""
+        },
+        "ja": {
+          "name": ""
+        },
+        "hi": {
+          "name": ""
+        },
+        "ur": {
+          "name": ""
+        },
+        "fa": {
+          "name": ""
+        },
+        "pt": {
+          "name": ""
+        }
+      },
+      "id": "pastalar/frambuazli-pastalar",
+      "categoryId": "pastalar"
+    },
+    {
+      "name": "Karışık Meyveli Pastalar",
+      "url": "urunler/pastalar/karisik-meyveli-pastalar/index.html",
+      "megaMenuOnline": true,
+      "translations": {
+        "en": {
+          "name": ""
+        },
+        "ar": {
+          "name": ""
+        },
+        "de": {
+          "name": ""
+        },
+        "fr": {
+          "name": ""
+        },
+        "it": {
+          "name": ""
+        },
+        "es": {
+          "name": ""
+        },
+        "ru": {
+          "name": ""
+        },
+        "zh-CN": {
+          "name": ""
+        },
+        "ja": {
+          "name": ""
+        },
+        "hi": {
+          "name": ""
+        },
+        "ur": {
+          "name": ""
+        },
+        "fa": {
+          "name": ""
+        },
+        "pt": {
+          "name": ""
+        }
+      },
+      "id": "pastalar/karisik-meyveli-pastalar",
+      "categoryId": "pastalar"
+    },
+    {
+      "name": "Muzlu Pastalar",
+      "url": "urunler/pastalar/muzlu-pastalar/index.html",
+      "megaMenuOnline": true,
+      "translations": {
+        "en": {
+          "name": ""
+        },
+        "ar": {
+          "name": ""
+        },
+        "de": {
+          "name": ""
+        },
+        "fr": {
+          "name": ""
+        },
+        "it": {
+          "name": ""
+        },
+        "es": {
+          "name": ""
+        },
+        "ru": {
+          "name": ""
+        },
+        "zh-CN": {
+          "name": ""
+        },
+        "ja": {
+          "name": ""
+        },
+        "hi": {
+          "name": ""
+        },
+        "ur": {
+          "name": ""
+        },
+        "fa": {
+          "name": ""
+        },
+        "pt": {
+          "name": ""
+        }
+      },
+      "id": "pastalar/muzlu-pastalar",
+      "categoryId": "pastalar"
+    },
+    {
+      "name": "Orman Meyveli Pastalar",
+      "url": "urunler/pastalar/orman-meyveli-pastalar/index.html",
+      "megaMenuOnline": true,
+      "translations": {
+        "en": {
+          "name": ""
+        },
+        "ar": {
+          "name": ""
+        },
+        "de": {
+          "name": ""
+        },
+        "fr": {
+          "name": ""
+        },
+        "it": {
+          "name": ""
+        },
+        "es": {
+          "name": ""
+        },
+        "ru": {
+          "name": ""
+        },
+        "zh-CN": {
+          "name": ""
+        },
+        "ja": {
+          "name": ""
+        },
+        "hi": {
+          "name": ""
+        },
+        "ur": {
+          "name": ""
+        },
+        "fa": {
+          "name": ""
+        },
+        "pt": {
+          "name": ""
+        }
+      },
+      "id": "pastalar/orman-meyveli-pastalar",
+      "categoryId": "pastalar"
+    }
+  ]
+}

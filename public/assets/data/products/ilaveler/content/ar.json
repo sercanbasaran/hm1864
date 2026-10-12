@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "language": "ar",
+  "products": {
+    "1100-01-01-cikolatali-maras-kesme-dondurma": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "1100-01-02-fistikli-maras-kesme-dondurma": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "1100-01-03-sade-maras-kesme-dondurma": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "1100-02-01-manda-sut-kaymagi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "1100-03-01-antep-fistigi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "1100-04-01-ala-sos": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    }
+  }
+}

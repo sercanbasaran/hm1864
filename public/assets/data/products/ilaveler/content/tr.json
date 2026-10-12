@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "language": "tr",
+  "products": {
+    "1100-01-01-cikolatali-maras-kesme-dondurma": {
+      "name": "Çikolatalı Maraş Kesme Dondurma",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "1100-01-02-fistikli-maras-kesme-dondurma": {
+      "name": "Fıstıklı Maraş Kesme Dondurma",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "1100-01-03-sade-maras-kesme-dondurma": {
+      "name": "Sade Maraş Kesme Dondurma",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "1100-02-01-manda-sut-kaymagi": {
+      "name": "Manda Süt Kaymağı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "1100-03-01-antep-fistigi": {
+      "name": "Antep Fıstığı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "1100-04-01-ala-sos": {
+      "name": "Ala Sos",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    }
+  }
+}

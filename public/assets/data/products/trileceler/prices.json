@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "trileceler",
+  "products": {
+    "600-03-01-ahududulu-trilece": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-03-02-fistikli-ala-trilece": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-03-03-kahveli-trilece": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-03-04-karamelli-trilece": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-03-05-safranli-trilece": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    }
+  }
+}

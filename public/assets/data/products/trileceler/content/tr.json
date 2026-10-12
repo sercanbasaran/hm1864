@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "language": "tr",
+  "products": {
+    "600-03-01-ahududulu-trilece": {
+      "name": "Ahududulu Trileçe",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "600-03-02-fistikli-ala-trilece": {
+      "name": "Fıstıklı Ala Trileçe",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "600-03-03-kahveli-trilece": {
+      "name": "Kahveli Trileçe",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "600-03-04-karamelli-trilece": {
+      "name": "Karamelli Trileçe",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "600-03-05-safranli-trilece": {
+      "name": "Safranlı Trileçe",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    }
+  }
+}

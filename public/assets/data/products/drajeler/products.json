@@ -1,0 +1,372 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "drajeler",
+  "products": [
+    {
+      "code": "400-01-01",
+      "key": "400-01-01-damla-sakizli-badem-cikolata-draje",
+      "url": "urunler/drajeler/aromali-baharatli-drajeler/damla-sakizli-badem-cikolata-draje.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 85,
+        "cell": "F85"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "drajeler",
+      "subcategoryId": "drajeler/aromali-baharatli-drajeler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "400-01-02",
+      "key": "400-01-02-tarcinli-findik-cikolata-draje",
+      "url": "urunler/drajeler/aromali-baharatli-drajeler/tarcinli-findik-cikolata-draje.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 86,
+        "cell": "F86"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "drajeler",
+      "subcategoryId": "drajeler/aromali-baharatli-drajeler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "400-01-03",
+      "key": "400-01-03-tarcinli-badem-cikolata-draje",
+      "url": "urunler/drajeler/aromali-baharatli-drajeler/tarcinli-badem-cikolata-draje.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 87,
+        "cell": "F87"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "drajeler",
+      "subcategoryId": "drajeler/aromali-baharatli-drajeler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "400-02-01",
+      "key": "400-02-01-beyaz-sutlu-bitter-cikolata-kaplamali-badem-draje",
+      "url": "urunler/drajeler/coklu-kaplamali-drajeler/beyaz-sutlu-bitter-cikolata-kaplamali-badem-draje.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 88,
+        "cell": "F88"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "drajeler",
+      "subcategoryId": "drajeler/coklu-kaplamali-drajeler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "400-03-01",
+      "key": "400-03-01-badem-sutlu-cikolata-draje",
+      "url": "urunler/drajeler/sutlu-cikolatali-drajeler/badem-sutlu-cikolata-draje.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 89,
+        "cell": "F89"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "drajeler",
+      "subcategoryId": "drajeler/sutlu-cikolatali-drajeler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "400-03-02",
+      "key": "400-03-02-kahve-cekirdekli-sutlu-cikolatali-draje",
+      "url": "urunler/drajeler/sutlu-cikolatali-drajeler/kahve-cekirdekli-sutlu-cikolatali-draje.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 90,
+        "cell": "F90"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "drajeler",
+      "subcategoryId": "drajeler/sutlu-cikolatali-drajeler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

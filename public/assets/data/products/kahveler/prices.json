@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "kahveler",
+  "products": {
+    "800-01-01-turk-kahvesi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "800-02-01-damla-sakizli-turk-kahvesi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "800-02-02-anadolu-kahvesi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "800-02-03-altin-kahve": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "800-02-04-alaturka-kahve": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "800-03-01-salep": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    }
+  }
+}

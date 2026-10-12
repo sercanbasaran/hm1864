@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-CN",
+  "products": {
+    "700-01-01-dubai-gecesi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "700-01-02-dubai-gun-batimi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "700-01-03-dubai-hikayesi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "700-01-04-dubai-zamani": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "700-02-01-afet-i-devran": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "700-02-01-cikolatali-afet-i-devran": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "700-02-02-afet-i-devran-kadayif": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "700-02-03-afet-i-devran-trilece": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "700-03-01-humbara": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    }
+  }
+}

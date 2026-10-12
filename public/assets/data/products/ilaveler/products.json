@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "ilaveler",
+  "products": [
+    {
+      "code": "1100-01-01",
+      "key": "1100-01-01-cikolatali-maras-kesme-dondurma",
+      "url": "urunler/ilaveler/dondurmalar/cikolatali-maras-kesme-dondurma.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "ilaveler",
+      "subcategoryId": "ilaveler/dondurmalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "1100-01-02",
+      "key": "1100-01-02-fistikli-maras-kesme-dondurma",
+      "url": "urunler/ilaveler/dondurmalar/fistikli-maras-kesme-dondurma.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "ilaveler",
+      "subcategoryId": "ilaveler/dondurmalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "1100-01-03",
+      "key": "1100-01-03-sade-maras-kesme-dondurma",
+      "url": "urunler/ilaveler/dondurmalar/sade-maras-kesme-dondurma.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "ilaveler",
+      "subcategoryId": "ilaveler/dondurmalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "1100-02-01",
+      "key": "1100-02-01-manda-sut-kaymagi",
+      "url": "urunler/ilaveler/kaymaklar/manda-sut-kaymagi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "ilaveler",
+      "subcategoryId": "ilaveler/kaymaklar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "1100-03-01",
+      "key": "1100-03-01-antep-fistigi",
+      "url": "urunler/ilaveler/kuruyemisler/antep-fistigi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "ilaveler",
+      "subcategoryId": "ilaveler/kuruyemisler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "1100-04-01",
+      "key": "1100-04-01-ala-sos",
+      "url": "urunler/ilaveler/soslar/ala-sos.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "ilaveler",
+      "subcategoryId": "ilaveler/soslar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    }
+  ]
+}

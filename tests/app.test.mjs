@@ -5,9 +5,11 @@ import {Window} from 'happy-dom';
 import {validate,choice,cardPrice,money,match,resolve,menuCategories,menuSubcategories,storeOnly} from '../src/model.js';
 import {validateRegions,validateRegionalCatalog,normalizePreferences,regionalCatalog,countryDefaults} from '../src/market.js';
 import {validateContent,translate,formatText,templateText} from '../src/i18n.js';
-const data=JSON.parse(await fs.readFile('public/assets/data/products.json','utf8'));
-const rawRegions=JSON.parse(await fs.readFile('public/assets/data/regions.json','utf8'));
-const content=validateContent(JSON.parse(await fs.readFile('public/assets/data/content.json','utf8')));
+import {loadAuthoringData,localizedEditorial} from '../src/data-loader.js';
+const authored=await loadAuthoringData(async file=>JSON.parse(await fs.readFile('public/assets/data/'+file,'utf8')));
+const data=authored.catalog;
+const rawRegions=authored.regions;
+const content=validateContent(authored.content);
 const regions=validateRegions(rawRegions,content.languages);
 const routes=JSON.parse(await fs.readFile('src/routes.json','utf8'));
 const templateJSON=await fs.readFile('src/templates.json','utf8');
@@ -43,7 +45,7 @@ const waitFor=async predicate=>{for(let i=0;i<80;i++){if(predicate())return;awai
 test('returning visitor retains the selection without another first-visit dialog',async()=>{
  const window=new Window({url:'http://localhost/index.html',settings:{enableJavaScriptEvaluation:true}});
  window.localStorage.setItem('hm1864.react.preferences',JSON.stringify({country:'Birleşik Arap Emirlikleri',language:'English'}));
- window.fetch=async url=>({ok:true,json:async()=>url.includes('regions.json')?rawRegions:url.includes('content.json')?content:data});
+ window.fetch=async url=>({ok:true,json:async()=>({catalog:data,regions:rawRegions,content})});
  window.scrollTo=()=>{};window.document.body.innerHTML='<div id="root"></div>';
  const files=await fs.readdir('dist/assets');const js=await fs.readFile('dist/assets/'+files.find(f=>f.endsWith('.js')),'utf8');
  try{window.eval(js);await waitFor(()=>window.document.querySelector('header.site-header'));await wait();assert.equal(window.document.documentElement.lang,'en');assert.equal(window.document.querySelector('dialog.region-dialog'),null);assert.match(window.document.querySelector('.header-service').textContent,/AED/);assert.match(window.document.querySelector('.header-service').textContent,/United Arab Emirates/)}finally{window.happyDOM.abort()}
@@ -58,7 +60,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.equal(menuCategories(edited).length,13);
  assert.equal(menuCategories(edited,'store').length,14);
  assert.equal(menuSubcategories(edited,'Baklavalar').length,1);
- window.console=console;window.fetch=async url=>({ok:true,json:async()=>url.includes('regions.json')?rawRegions:url.includes('content.json')?content:edited});window.scrollTo=()=>{};
+ window.console=console;window.fetch=async url=>({ok:true,json:async()=>({catalog:edited,regions:rawRegions,content})});window.scrollTo=()=>{};
  window.document.body.innerHTML='<div id="root"></div>';
  const files=await fs.readdir('dist/assets');const js=await fs.readFile('dist/assets/'+files.find(f=>f.endsWith('.js')),'utf8');
  try{
@@ -94,7 +96,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.ok(!window.document.querySelector('.mega-columns').textContent.includes('Cevizli Baklavalar'));
  window.document.querySelectorAll('.mega-tabs button')[1].click();await wait();assert.equal(window.document.querySelectorAll('.mega-columns h3').length,14);
  window.document.querySelector('.menu-scrim').click();await wait();
- window.document.querySelector('[aria-label="Sonraki slayt"]').click();await wait();assert.match(window.document.querySelector('.hero-track').getAttribute('style'),/-100%/);
+ const beforeSlide=Number(window.document.querySelector('.hero-track').style.transform.match(/-(\d+)%/)[1])/100;window.document.querySelector('[aria-label="Sonraki slayt"]').click();await wait();assert.equal(Number(window.document.querySelector('.hero-track').style.transform.match(/-(\d+)%/)[1])/100,(beforeSlide+1)%4);
  window.document.getElementById('year-1888').click();await wait();assert.match(window.document.getElementById('heritage-content').textContent,/1888/);
  const link=window.document.createElement('a');link.href='/'+p.url;window.document.querySelector('#main').appendChild(link);link.click();await wait();
  assert.equal(window.document.querySelector('h1').textContent,p.name);assert.match(window.document.querySelector('.detail-price').textContent,/111/);
@@ -119,6 +121,9 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.equal(window.document.querySelector('.purchase-row'),null);
  assert.ok(window.document.querySelector('.order-availability'));
  assert.equal(window.document.querySelectorAll('.order-platforms img').length,2);
+ assert.equal(window.document.querySelectorAll('.editorial-section').length,2);
+ assert.equal(window.document.querySelectorAll('.editorial-section button,.editorial-section details').length,0);
+ assert.equal(window.document.querySelectorAll('.editorial-section img').length,2);
  window.document.querySelector('input[value="baton"]').click();await wait();
  assert.match(window.document.querySelector('.product-variants').textContent,/3900 gram/);
  assert.match(window.document.querySelector('.product-info>small').textContent,/500\.0101\.02/);
@@ -176,4 +181,13 @@ test('cake variants, sales channels and blank translations preserve source field
  const translated=structuredClone(data);const example=translated.products.find(p=>p.key===cake.key);example.variants[0].translations.en={label:'Slice',portion:'One person',ingredients:'Approved short ingredients',allergenInfo:'Approved allergen statement'};
  const catalog=regionalCatalog(translated,{country:'TR',language:'en'},regions);const localized=catalog.products.find(p=>p.key===cake.key);assert.equal(localized.name,cake.name);assert.equal(choice(localized,'dilim').label,'Slice');assert.equal(choice(localized,'dilim').allergenInfo,'Approved allergen statement');
  assert.equal(storeOnly({...cake,onlineSale:true,variants:[]}),false);
+});
+
+test('modular data sources and static editorial content',async()=>{
+ const product=data.products.find(p=>p.name==='Lotus Kulesi');assert.equal(product.editorial.length,2);
+ const editorial=structuredClone(product.editorial);editorial[0].title='Türkçe hikâye';editorial[0].paragraphs=['Birinci paragraf','İkinci paragraf'];editorial[0].translations.en={title:'Product story',paragraphs:['First paragraph','Second paragraph'],imageAlt:'Approved image alt'};
+ assert.equal(localizedEditorial(editorial,'en')[0].title,'Product story');assert.equal(localizedEditorial(editorial,'de')[0].title,'Türkçe hikâye');
+ const manifest=JSON.parse(await fs.readFile('public/assets/data/catalog/manifest.json','utf8'));assert.equal(manifest.categories.length,14);
+ for(const category of manifest.categories){const source=JSON.parse(await fs.readFile('public/assets/data/'+category.products,'utf8'));const prices=JSON.parse(await fs.readFile('public/assets/data/'+category.prices,'utf8'));assert.equal(source.categoryId,category.id);assert.equal(Object.keys(prices.products).length,source.products.length);assert.equal(Object.keys(category.content).length,14);}
+ await assert.rejects(()=>loadAuthoringData(async file=>{const value=JSON.parse(await fs.readFile('public/assets/data/'+file,'utf8'));if(file==='products/pastalar/prices.json')value.products['missing-product']={base:{TRY:50},variants:{}};return value}),/anahtarı/);
 });

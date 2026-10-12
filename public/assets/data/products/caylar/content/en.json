@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "products": {
+    "900-01-01-siyah-cay": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "900-01-02-yesil-cay": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "900-01-03-ihlamur": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "900-01-04-kis-cayi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "900-01-05-nane-cayi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "900-02-01-elma-cayi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "900-02-02-nar-cayi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    }
+  }
+}

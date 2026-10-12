@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "sezonluk-tatlilar",
+  "products": [
+    {
+      "code": "600-02-01",
+      "key": "600-02-01-ayva-tatlisi",
+      "url": "urunler/sezonluk-tatlilar/geleneksel-meyve-tatlilari/ayva-tatlisi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "sezonluk-tatlilar",
+      "subcategoryId": "sezonluk-tatlilar/geleneksel-meyve-tatlilari",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "600-02-02",
+      "key": "600-02-02-kabak-tatlisi",
+      "url": "urunler/sezonluk-tatlilar/geleneksel-meyve-tatlilari/kabak-tatlisi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "sezonluk-tatlilar",
+      "subcategoryId": "sezonluk-tatlilar/geleneksel-meyve-tatlilari",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "600-02-03",
+      "key": "600-02-03-fistikli-gullac",
+      "url": "urunler/sezonluk-tatlilar/gullaclar/fistikli-gullac.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "sezonluk-tatlilar",
+      "subcategoryId": "sezonluk-tatlilar/gullaclar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "600-02-04",
+      "key": "600-02-04-gullac",
+      "url": "urunler/sezonluk-tatlilar/gullaclar/gullac.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "sezonluk-tatlilar",
+      "subcategoryId": "sezonluk-tatlilar/gullaclar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "600-02-05",
+      "key": "600-02-05-safranli-gullac",
+      "url": "urunler/sezonluk-tatlilar/gullaclar/safranli-gullac.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "sezonluk-tatlilar",
+      "subcategoryId": "sezonluk-tatlilar/gullaclar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "600-02-06",
+      "key": "600-02-06-ayvali-sut-muhallebisi",
+      "url": "urunler/sezonluk-tatlilar/ozel-donemsel-sutluler/ayvali-sut-muhallebisi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "sezonluk-tatlilar",
+      "subcategoryId": "sezonluk-tatlilar/ozel-donemsel-sutluler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "600-02-07",
+      "key": "600-02-07-kabakli-sut-muhallebisi",
+      "url": "urunler/sezonluk-tatlilar/ozel-donemsel-sutluler/kabakli-sut-muhallebisi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "sezonluk-tatlilar",
+      "subcategoryId": "sezonluk-tatlilar/ozel-donemsel-sutluler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    }
+  ]
+}

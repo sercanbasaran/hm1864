@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "language": "fa",
+  "products": {
+    "500-01-12-lotus-kulesi": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-04-diplomat": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-05-kara-sevda": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-06-siyah-inci": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-08-cilek-ruyasi": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-14-ilk-ask": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-09-pembe-ruya": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-17-son-ask": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-13-istanbul-hikayesi": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-01-cikolat-ahu": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-02-tatli-ahu": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-10-cikolatali-meyve-bahcesi": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-11-meyve-bahcesi": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-07-beyaz-inci": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-16-buyuk-ask": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-15-sonsuz-ask": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-01-03-amazon-buyusu": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    },
+    "500-0802-amazon-hikayesi": {
+      "name": "",
+      "variants": {
+        "dilim": {},
+        "baton": {}
+      },
+      "editorial": {}
+    }
+  }
+}

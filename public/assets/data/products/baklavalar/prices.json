@@ -1,0 +1,666 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "baklavalar",
+  "products": {
+    "100-01-01-fistikli-ankara-baklavasi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-02-fistikli-baklava": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-03-fistikli-cimcik-baklava": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-04-fistikli-cikolatali-baklava": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-05-fistikli-cikolatali-havuc-dilim": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-06-fistikli-dilber-dudagi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-07-fistikli-durum": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-08-fistikli-havuc-dilim": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-09-fistikli-kare-baklava": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-10-fistikli-kivrim-baklava": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-11-fistikli-kuru-baklava": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-12-fistikli-ozel-sobiyet": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-13-fistikli-padisah": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-14-fistikli-prenses": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-15-fistikli-saray-sarmasi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-16-fistikli-sari-burma": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-01-17-fistikli-sobiyet": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-01-cevizli-ankara-baklavasi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-02-cevizli-baklava": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-03-cevizli-cimcik-baklava": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-04-cevizli-cikolatali-baklava": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-05-cevizli-durum": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-06-cevizli-ev-baklavasi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-07-cevizli-kare-baklava": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-08-cevizli-kelebek": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-09-cevizli-kivrim": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-10-cevizli-padisah": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-11-cevizli-prenses": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-12-cevizli-saray-sarma": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "100-02-13-cevizli-sari-burma": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    }
+  }
+}

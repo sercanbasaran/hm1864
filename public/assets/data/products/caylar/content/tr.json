@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "language": "tr",
+  "products": {
+    "900-01-01-siyah-cay": {
+      "name": "Siyah Çay",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "900-01-02-yesil-cay": {
+      "name": "Yeşil Çay",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "900-01-03-ihlamur": {
+      "name": "Ihlamur",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "900-01-04-kis-cayi": {
+      "name": "Kış Çayı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "900-01-05-nane-cayi": {
+      "name": "Nane Çayı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "900-02-01-elma-cayi": {
+      "name": "Elma Çayı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "900-02-02-nar-cayi": {
+      "name": "Nar Çayı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "muhallebiler",
+  "products": {
+    "600-01-01-asure": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-02-firin-sutlac": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-03-tavukgogsu": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-04-zerde": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-05-fistikli-kazandibi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-06-safranli-kazandibi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-07-sakizli-kazandibi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-08-tavukgogsu-kazandibi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-09-ahududulu-sut-muhallebisi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-10-cilekli-cikolatali-muhallebi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-11-cilekli-sut-muhallebisi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-12-damla-sakizli-sut-muhallebisi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-13-fistikli-sut-muhallebisi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-14-incirli-sut-muhallebisi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-15-karamelli-findikli-sut-muhallebisi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-16-keskul-u-fukara": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-17-orman-meyveli-sut-muhallebisi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-18-lotuslu-kasik-pasta": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-19-profiterol": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-20-supangle": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-01-21-sah-mat": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    }
+  }
+}

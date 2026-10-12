@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "miras-lezzetler",
+  "products": [
+    {
+      "code": "1300-01-01",
+      "key": "1300-01-01-fistikli-helva",
+      "url": "urunler/miras-lezzetler/helvalar/fistikli-helva.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "miras-lezzetler",
+      "subcategoryId": "miras-lezzetler/helvalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "1300-01-02",
+      "key": "1300-01-02-kakaolu-helva",
+      "url": "urunler/miras-lezzetler/helvalar/kakaolu-helva.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "miras-lezzetler",
+      "subcategoryId": "miras-lezzetler/helvalar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    }
+  ]
+}

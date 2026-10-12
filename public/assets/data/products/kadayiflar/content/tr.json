@@ -1,0 +1,699 @@
+{
+  "schemaVersion": 1,
+  "language": "tr",
+  "products": {
+    "300-01-01-fistikli-kadayif": {
+      "name": "Fıstıklı Kadayıf",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "300-01-02-fistikli-sultaniye-kadayif": {
+      "name": "Fıstıklı Sultaniye Kadayıf",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "300-01-03-fistikli-halep-burma": {
+      "name": "Fıstıklı Halep Burma",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "300-01-04-fistikli-burma-kadayif": {
+      "name": "Fıstıklı Burma Kadayıf",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "300-01-05-fistikli-osmanli-saray-kadayifi": {
+      "name": "Fıstıklı Osmanlı Saray Kadayıfı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "300-02-01-cevizli-osmanli-saray-kadayifi": {
+      "name": "Cevizli Osmanlı Saray Kadayıfı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "300-03-01-narli-lokumlu-osmanli-saray-kadayifi": {
+      "name": "Narlı Lokumlu Osmanlı Saray Kadayıfı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "300-03-02-sultan-lokumlu-osmanli-saray-kadayifi": {
+      "name": "Sultan Lokumlu Osmanlı Saray Kadayıfı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "300-04-01-kunefe": {
+      "name": "Künefe",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "300-04-02-cikolatali-kunefe": {
+      "name": "Çikolatalı Künefe",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "300-04-03-balli-kunefe": {
+      "name": "Ballı Künefe",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    }
+  }
+}

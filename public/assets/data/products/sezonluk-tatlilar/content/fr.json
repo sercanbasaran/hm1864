@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "language": "fr",
+  "products": {
+    "600-02-01-ayva-tatlisi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "600-02-02-kabak-tatlisi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "600-02-03-fistikli-gullac": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "600-02-04-gullac": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "600-02-05-safranli-gullac": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "600-02-06-ayvali-sut-muhallebisi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "600-02-07-kabakli-sut-muhallebisi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    }
+  }
+}

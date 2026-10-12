@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "language": "tr",
+  "products": {
+    "600-02-01-ayva-tatlisi": {
+      "name": "Ayva Tatlısı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "600-02-02-kabak-tatlisi": {
+      "name": "Kabak Tatlısı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "600-02-03-fistikli-gullac": {
+      "name": "Fıstıklı Güllaç",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "600-02-04-gullac": {
+      "name": "Güllaç",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "600-02-05-safranli-gullac": {
+      "name": "Safranlı Güllaç",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "600-02-06-ayvali-sut-muhallebisi": {
+      "name": "Ayvalı Süt Muhallebisi",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "600-02-07-kabakli-sut-muhallebisi": {
+      "name": "Kabaklı Süt Muhallebisi",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {},
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    }
+  }
+}

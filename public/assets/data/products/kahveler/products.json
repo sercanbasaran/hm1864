@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "kahveler",
+  "products": [
+    {
+      "code": "800-01-01",
+      "key": "800-01-01-turk-kahvesi",
+      "url": "urunler/kahveler/turk-kahvesi/turk-kahvesi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kahveler",
+      "subcategoryId": "kahveler/turk-kahvesi",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "800-02-01",
+      "key": "800-02-01-damla-sakizli-turk-kahvesi",
+      "url": "urunler/kahveler/aromali-kahveler/damla-sakizli-turk-kahvesi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kahveler",
+      "subcategoryId": "kahveler/aromali-kahveler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "800-02-02",
+      "key": "800-02-02-anadolu-kahvesi",
+      "url": "urunler/kahveler/aromali-kahveler/anadolu-kahvesi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kahveler",
+      "subcategoryId": "kahveler/aromali-kahveler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "800-02-03",
+      "key": "800-02-03-altin-kahve",
+      "url": "urunler/kahveler/aromali-kahveler/altin-kahve.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kahveler",
+      "subcategoryId": "kahveler/aromali-kahveler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "800-02-04",
+      "key": "800-02-04-alaturka-kahve",
+      "url": "urunler/kahveler/aromali-kahveler/alaturka-kahve.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kahveler",
+      "subcategoryId": "kahveler/aromali-kahveler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "800-03-01",
+      "key": "800-03-01-salep",
+      "url": "urunler/kahveler/salepler/salep.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kahveler",
+      "subcategoryId": "kahveler/salepler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    }
+  ]
+}

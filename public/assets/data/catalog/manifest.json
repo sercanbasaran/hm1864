@@ -1,0 +1,337 @@
+{
+  "schemaVersion": 1,
+  "catalog": "catalog/categories.json",
+  "settings": {
+    "languages": "settings/languages.json",
+    "regions": "settings/regions.json",
+    "platforms": "settings/order-platforms.json"
+  },
+  "categories": [
+    {
+      "id": "kahvaltiliklar",
+      "products": "products/kahvaltiliklar/products.json",
+      "prices": "products/kahvaltiliklar/prices.json",
+      "content": {
+        "tr": "products/kahvaltiliklar/content/tr.json",
+        "en": "products/kahvaltiliklar/content/en.json",
+        "ar": "products/kahvaltiliklar/content/ar.json",
+        "de": "products/kahvaltiliklar/content/de.json",
+        "fr": "products/kahvaltiliklar/content/fr.json",
+        "it": "products/kahvaltiliklar/content/it.json",
+        "es": "products/kahvaltiliklar/content/es.json",
+        "ru": "products/kahvaltiliklar/content/ru.json",
+        "zh-CN": "products/kahvaltiliklar/content/zh-CN.json",
+        "ja": "products/kahvaltiliklar/content/ja.json",
+        "hi": "products/kahvaltiliklar/content/hi.json",
+        "ur": "products/kahvaltiliklar/content/ur.json",
+        "fa": "products/kahvaltiliklar/content/fa.json",
+        "pt": "products/kahvaltiliklar/content/pt.json"
+      }
+    },
+    {
+      "id": "baklavalar",
+      "products": "products/baklavalar/products.json",
+      "prices": "products/baklavalar/prices.json",
+      "content": {
+        "tr": "products/baklavalar/content/tr.json",
+        "en": "products/baklavalar/content/en.json",
+        "ar": "products/baklavalar/content/ar.json",
+        "de": "products/baklavalar/content/de.json",
+        "fr": "products/baklavalar/content/fr.json",
+        "it": "products/baklavalar/content/it.json",
+        "es": "products/baklavalar/content/es.json",
+        "ru": "products/baklavalar/content/ru.json",
+        "zh-CN": "products/baklavalar/content/zh-CN.json",
+        "ja": "products/baklavalar/content/ja.json",
+        "hi": "products/baklavalar/content/hi.json",
+        "ur": "products/baklavalar/content/ur.json",
+        "fa": "products/baklavalar/content/fa.json",
+        "pt": "products/baklavalar/content/pt.json"
+      }
+    },
+    {
+      "id": "ilaveler",
+      "products": "products/ilaveler/products.json",
+      "prices": "products/ilaveler/prices.json",
+      "content": {
+        "tr": "products/ilaveler/content/tr.json",
+        "en": "products/ilaveler/content/en.json",
+        "ar": "products/ilaveler/content/ar.json",
+        "de": "products/ilaveler/content/de.json",
+        "fr": "products/ilaveler/content/fr.json",
+        "it": "products/ilaveler/content/it.json",
+        "es": "products/ilaveler/content/es.json",
+        "ru": "products/ilaveler/content/ru.json",
+        "zh-CN": "products/ilaveler/content/zh-CN.json",
+        "ja": "products/ilaveler/content/ja.json",
+        "hi": "products/ilaveler/content/hi.json",
+        "ur": "products/ilaveler/content/ur.json",
+        "fa": "products/ilaveler/content/fa.json",
+        "pt": "products/ilaveler/content/pt.json"
+      }
+    },
+    {
+      "id": "lokumlar",
+      "products": "products/lokumlar/products.json",
+      "prices": "products/lokumlar/prices.json",
+      "content": {
+        "tr": "products/lokumlar/content/tr.json",
+        "en": "products/lokumlar/content/en.json",
+        "ar": "products/lokumlar/content/ar.json",
+        "de": "products/lokumlar/content/de.json",
+        "fr": "products/lokumlar/content/fr.json",
+        "it": "products/lokumlar/content/it.json",
+        "es": "products/lokumlar/content/es.json",
+        "ru": "products/lokumlar/content/ru.json",
+        "zh-CN": "products/lokumlar/content/zh-CN.json",
+        "ja": "products/lokumlar/content/ja.json",
+        "hi": "products/lokumlar/content/hi.json",
+        "ur": "products/lokumlar/content/ur.json",
+        "fa": "products/lokumlar/content/fa.json",
+        "pt": "products/lokumlar/content/pt.json"
+      }
+    },
+    {
+      "id": "kadayiflar",
+      "products": "products/kadayiflar/products.json",
+      "prices": "products/kadayiflar/prices.json",
+      "content": {
+        "tr": "products/kadayiflar/content/tr.json",
+        "en": "products/kadayiflar/content/en.json",
+        "ar": "products/kadayiflar/content/ar.json",
+        "de": "products/kadayiflar/content/de.json",
+        "fr": "products/kadayiflar/content/fr.json",
+        "it": "products/kadayiflar/content/it.json",
+        "es": "products/kadayiflar/content/es.json",
+        "ru": "products/kadayiflar/content/ru.json",
+        "zh-CN": "products/kadayiflar/content/zh-CN.json",
+        "ja": "products/kadayiflar/content/ja.json",
+        "hi": "products/kadayiflar/content/hi.json",
+        "ur": "products/kadayiflar/content/ur.json",
+        "fa": "products/kadayiflar/content/fa.json",
+        "pt": "products/kadayiflar/content/pt.json"
+      }
+    },
+    {
+      "id": "drajeler",
+      "products": "products/drajeler/products.json",
+      "prices": "products/drajeler/prices.json",
+      "content": {
+        "tr": "products/drajeler/content/tr.json",
+        "en": "products/drajeler/content/en.json",
+        "ar": "products/drajeler/content/ar.json",
+        "de": "products/drajeler/content/de.json",
+        "fr": "products/drajeler/content/fr.json",
+        "it": "products/drajeler/content/it.json",
+        "es": "products/drajeler/content/es.json",
+        "ru": "products/drajeler/content/ru.json",
+        "zh-CN": "products/drajeler/content/zh-CN.json",
+        "ja": "products/drajeler/content/ja.json",
+        "hi": "products/drajeler/content/hi.json",
+        "ur": "products/drajeler/content/ur.json",
+        "fa": "products/drajeler/content/fa.json",
+        "pt": "products/drajeler/content/pt.json"
+      }
+    },
+    {
+      "id": "pastalar",
+      "products": "products/pastalar/products.json",
+      "prices": "products/pastalar/prices.json",
+      "content": {
+        "tr": "products/pastalar/content/tr.json",
+        "en": "products/pastalar/content/en.json",
+        "ar": "products/pastalar/content/ar.json",
+        "de": "products/pastalar/content/de.json",
+        "fr": "products/pastalar/content/fr.json",
+        "it": "products/pastalar/content/it.json",
+        "es": "products/pastalar/content/es.json",
+        "ru": "products/pastalar/content/ru.json",
+        "zh-CN": "products/pastalar/content/zh-CN.json",
+        "ja": "products/pastalar/content/ja.json",
+        "hi": "products/pastalar/content/hi.json",
+        "ur": "products/pastalar/content/ur.json",
+        "fa": "products/pastalar/content/fa.json",
+        "pt": "products/pastalar/content/pt.json"
+      }
+    },
+    {
+      "id": "muhallebiler",
+      "products": "products/muhallebiler/products.json",
+      "prices": "products/muhallebiler/prices.json",
+      "content": {
+        "tr": "products/muhallebiler/content/tr.json",
+        "en": "products/muhallebiler/content/en.json",
+        "ar": "products/muhallebiler/content/ar.json",
+        "de": "products/muhallebiler/content/de.json",
+        "fr": "products/muhallebiler/content/fr.json",
+        "it": "products/muhallebiler/content/it.json",
+        "es": "products/muhallebiler/content/es.json",
+        "ru": "products/muhallebiler/content/ru.json",
+        "zh-CN": "products/muhallebiler/content/zh-CN.json",
+        "ja": "products/muhallebiler/content/ja.json",
+        "hi": "products/muhallebiler/content/hi.json",
+        "ur": "products/muhallebiler/content/ur.json",
+        "fa": "products/muhallebiler/content/fa.json",
+        "pt": "products/muhallebiler/content/pt.json"
+      }
+    },
+    {
+      "id": "sezonluk-tatlilar",
+      "products": "products/sezonluk-tatlilar/products.json",
+      "prices": "products/sezonluk-tatlilar/prices.json",
+      "content": {
+        "tr": "products/sezonluk-tatlilar/content/tr.json",
+        "en": "products/sezonluk-tatlilar/content/en.json",
+        "ar": "products/sezonluk-tatlilar/content/ar.json",
+        "de": "products/sezonluk-tatlilar/content/de.json",
+        "fr": "products/sezonluk-tatlilar/content/fr.json",
+        "it": "products/sezonluk-tatlilar/content/it.json",
+        "es": "products/sezonluk-tatlilar/content/es.json",
+        "ru": "products/sezonluk-tatlilar/content/ru.json",
+        "zh-CN": "products/sezonluk-tatlilar/content/zh-CN.json",
+        "ja": "products/sezonluk-tatlilar/content/ja.json",
+        "hi": "products/sezonluk-tatlilar/content/hi.json",
+        "ur": "products/sezonluk-tatlilar/content/ur.json",
+        "fa": "products/sezonluk-tatlilar/content/fa.json",
+        "pt": "products/sezonluk-tatlilar/content/pt.json"
+      }
+    },
+    {
+      "id": "trileceler",
+      "products": "products/trileceler/products.json",
+      "prices": "products/trileceler/prices.json",
+      "content": {
+        "tr": "products/trileceler/content/tr.json",
+        "en": "products/trileceler/content/en.json",
+        "ar": "products/trileceler/content/ar.json",
+        "de": "products/trileceler/content/de.json",
+        "fr": "products/trileceler/content/fr.json",
+        "it": "products/trileceler/content/it.json",
+        "es": "products/trileceler/content/es.json",
+        "ru": "products/trileceler/content/ru.json",
+        "zh-CN": "products/trileceler/content/zh-CN.json",
+        "ja": "products/trileceler/content/ja.json",
+        "hi": "products/trileceler/content/hi.json",
+        "ur": "products/trileceler/content/ur.json",
+        "fa": "products/trileceler/content/fa.json",
+        "pt": "products/trileceler/content/pt.json"
+      }
+    },
+    {
+      "id": "spesiyaller",
+      "products": "products/spesiyaller/products.json",
+      "prices": "products/spesiyaller/prices.json",
+      "content": {
+        "tr": "products/spesiyaller/content/tr.json",
+        "en": "products/spesiyaller/content/en.json",
+        "ar": "products/spesiyaller/content/ar.json",
+        "de": "products/spesiyaller/content/de.json",
+        "fr": "products/spesiyaller/content/fr.json",
+        "it": "products/spesiyaller/content/it.json",
+        "es": "products/spesiyaller/content/es.json",
+        "ru": "products/spesiyaller/content/ru.json",
+        "zh-CN": "products/spesiyaller/content/zh-CN.json",
+        "ja": "products/spesiyaller/content/ja.json",
+        "hi": "products/spesiyaller/content/hi.json",
+        "ur": "products/spesiyaller/content/ur.json",
+        "fa": "products/spesiyaller/content/fa.json",
+        "pt": "products/spesiyaller/content/pt.json"
+      }
+    },
+    {
+      "id": "kahveler",
+      "products": "products/kahveler/products.json",
+      "prices": "products/kahveler/prices.json",
+      "content": {
+        "tr": "products/kahveler/content/tr.json",
+        "en": "products/kahveler/content/en.json",
+        "ar": "products/kahveler/content/ar.json",
+        "de": "products/kahveler/content/de.json",
+        "fr": "products/kahveler/content/fr.json",
+        "it": "products/kahveler/content/it.json",
+        "es": "products/kahveler/content/es.json",
+        "ru": "products/kahveler/content/ru.json",
+        "zh-CN": "products/kahveler/content/zh-CN.json",
+        "ja": "products/kahveler/content/ja.json",
+        "hi": "products/kahveler/content/hi.json",
+        "ur": "products/kahveler/content/ur.json",
+        "fa": "products/kahveler/content/fa.json",
+        "pt": "products/kahveler/content/pt.json"
+      }
+    },
+    {
+      "id": "caylar",
+      "products": "products/caylar/products.json",
+      "prices": "products/caylar/prices.json",
+      "content": {
+        "tr": "products/caylar/content/tr.json",
+        "en": "products/caylar/content/en.json",
+        "ar": "products/caylar/content/ar.json",
+        "de": "products/caylar/content/de.json",
+        "fr": "products/caylar/content/fr.json",
+        "it": "products/caylar/content/it.json",
+        "es": "products/caylar/content/es.json",
+        "ru": "products/caylar/content/ru.json",
+        "zh-CN": "products/caylar/content/zh-CN.json",
+        "ja": "products/caylar/content/ja.json",
+        "hi": "products/caylar/content/hi.json",
+        "ur": "products/caylar/content/ur.json",
+        "fa": "products/caylar/content/fa.json",
+        "pt": "products/caylar/content/pt.json"
+      }
+    },
+    {
+      "id": "miras-lezzetler",
+      "products": "products/miras-lezzetler/products.json",
+      "prices": "products/miras-lezzetler/prices.json",
+      "content": {
+        "tr": "products/miras-lezzetler/content/tr.json",
+        "en": "products/miras-lezzetler/content/en.json",
+        "ar": "products/miras-lezzetler/content/ar.json",
+        "de": "products/miras-lezzetler/content/de.json",
+        "fr": "products/miras-lezzetler/content/fr.json",
+        "it": "products/miras-lezzetler/content/it.json",
+        "es": "products/miras-lezzetler/content/es.json",
+        "ru": "products/miras-lezzetler/content/ru.json",
+        "zh-CN": "products/miras-lezzetler/content/zh-CN.json",
+        "ja": "products/miras-lezzetler/content/ja.json",
+        "hi": "products/miras-lezzetler/content/hi.json",
+        "ur": "products/miras-lezzetler/content/ur.json",
+        "fa": "products/miras-lezzetler/content/fa.json",
+        "pt": "products/miras-lezzetler/content/pt.json"
+      }
+    }
+  ],
+  "ui": [
+    "ui/header.json",
+    "ui/footer.json",
+    "ui/home.json",
+    "ui/stores.json",
+    "ui/product-page.json",
+    "ui/dialogs.json",
+    "ui/pages.json",
+    "ui/common.json"
+  ],
+  "catalogMeta": {
+    "currency": "TRY",
+    "warnings": {
+      "duplicate_codes": {
+        "700-02-01": [
+          "Afet-i Devran",
+          "Çikolatalı Afet-i Devran"
+        ]
+      },
+      "empty_category": "Miras Lezzetler / Ballar: ürün adı ve kodu verilmedi.",
+      "classification": "Siyah Çay, kullanıcı listesindeki gibi Bitki Çayları altında tutuldu.",
+      "missing_fields": [
+        "Fiyat",
+        "Görsel",
+        "Gramaj / porsiyon",
+        "Ürün açıklaması",
+        "İçindekiler ve alerjenler",
+        "Besin değerleri",
+        "Saklama ve teslimat bilgileri"
+      ]
+    }
+  }
+}

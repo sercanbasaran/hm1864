@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "kahvaltiliklar",
+  "products": {
+    "1000-01-01-su-boregi": {
+      "base": {
+        "TRY": 199900
+      },
+      "variants": {}
+    },
+    "1000-01-02-balli-su-boregi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "1000-02-01-kahvalti-tabagi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "1000-02-02-bal-kaymak": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    }
+  }
+}

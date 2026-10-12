@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "sezonluk-tatlilar",
+  "products": {
+    "600-02-01-ayva-tatlisi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-02-02-kabak-tatlisi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-02-03-fistikli-gullac": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-02-04-gullac": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-02-05-safranli-gullac": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-02-06-ayvali-sut-muhallebisi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "600-02-07-kabakli-sut-muhallebisi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    }
+  }
+}

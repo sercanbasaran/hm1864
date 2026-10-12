@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "language": "fr",
+  "products": {
+    "800-01-01-turk-kahvesi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "800-02-01-damla-sakizli-turk-kahvesi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "800-02-02-anadolu-kahvesi": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "800-02-03-altin-kahve": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "800-02-04-alaturka-kahve": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "800-03-01-salep": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    }
+  }
+}

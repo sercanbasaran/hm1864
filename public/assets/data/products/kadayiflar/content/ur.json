@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "language": "ur",
+  "products": {
+    "300-01-01-fistikli-kadayif": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "300-01-02-fistikli-sultaniye-kadayif": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "300-01-03-fistikli-halep-burma": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "300-01-04-fistikli-burma-kadayif": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "300-01-05-fistikli-osmanli-saray-kadayifi": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "300-02-01-cevizli-osmanli-saray-kadayifi": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "300-03-01-narli-lokumlu-osmanli-saray-kadayifi": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "300-03-02-sultan-lokumlu-osmanli-saray-kadayifi": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "300-04-01-kunefe": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "300-04-02-cikolatali-kunefe": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "300-04-03-balli-kunefe": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    }
+  }
+}

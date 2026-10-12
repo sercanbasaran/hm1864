@@ -1,0 +1,1896 @@
+{
+  "schemaVersion": 1,
+  "language": "tr",
+  "products": {
+    "100-01-01-fistikli-ankara-baklavasi": {
+      "name": "Fıstıklı Ankara Baklavası",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-02-fistikli-baklava": {
+      "name": "Fıstıklı Baklava",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-03-fistikli-cimcik-baklava": {
+      "name": "Fıstıklı Cimcik Baklava",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-04-fistikli-cikolatali-baklava": {
+      "name": "Fıstıklı Çikolatalı Baklava",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-05-fistikli-cikolatali-havuc-dilim": {
+      "name": "Fıstıklı Çikolatalı Havuç Dilim",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-06-fistikli-dilber-dudagi": {
+      "name": "Fıstıklı Dilber Dudağı",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-07-fistikli-durum": {
+      "name": "Fıstıklı Dürüm",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-08-fistikli-havuc-dilim": {
+      "name": "Fıstıklı Havuç Dilim",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-09-fistikli-kare-baklava": {
+      "name": "Fıstıklı Kare Baklava",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-10-fistikli-kivrim-baklava": {
+      "name": "Fıstıklı Kıvrım Baklava",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-11-fistikli-kuru-baklava": {
+      "name": "Fıstıklı Kuru Baklava",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-12-fistikli-ozel-sobiyet": {
+      "name": "Fıstıklı Özel Şöbiyet",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-13-fistikli-padisah": {
+      "name": "Fıstıklı Padişah",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-14-fistikli-prenses": {
+      "name": "Fıstıklı Prenses",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-15-fistikli-saray-sarmasi": {
+      "name": "Fıstıklı Saray Sarması",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-16-fistikli-sari-burma": {
+      "name": "Fıstıklı Sarı Burma",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-01-17-fistikli-sobiyet": {
+      "name": "Fıstıklı Şöbiyet",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-01-cevizli-ankara-baklavasi": {
+      "name": "Cevizli Ankara Baklavası",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-02-cevizli-baklava": {
+      "name": "Cevizli Baklava",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-03-cevizli-cimcik-baklava": {
+      "name": "Cevizli Cimcik Baklava",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-04-cevizli-cikolatali-baklava": {
+      "name": "Cevizli Çikolatalı Baklava",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-05-cevizli-durum": {
+      "name": "Cevizli Dürüm",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-06-cevizli-ev-baklavasi": {
+      "name": "Cevizli Ev Baklavası",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-07-cevizli-kare-baklava": {
+      "name": "Cevizli Kare Baklava",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-08-cevizli-kelebek": {
+      "name": "Cevizli Kelebek",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-09-cevizli-kivrim": {
+      "name": "Cevizli Kıvrım",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-10-cevizli-padisah": {
+      "name": "Cevizli Padişah",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-11-cevizli-prenses": {
+      "name": "Cevizli Prenses",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-12-cevizli-saray-sarma": {
+      "name": "Cevizli Saray Sarma",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "100-02-13-cevizli-sari-burma": {
+      "name": "Cevizli Sarı Burma",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    }
+  }
+}

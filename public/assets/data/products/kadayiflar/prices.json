@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "kadayiflar",
+  "products": {
+    "300-01-01-fistikli-kadayif": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "300-01-02-fistikli-sultaniye-kadayif": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "300-01-03-fistikli-halep-burma": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "300-01-04-fistikli-burma-kadayif": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "300-01-05-fistikli-osmanli-saray-kadayifi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "300-02-01-cevizli-osmanli-saray-kadayifi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "300-03-01-narli-lokumlu-osmanli-saray-kadayifi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "300-03-02-sultan-lokumlu-osmanli-saray-kadayifi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "300-04-01-kunefe": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "300-04-02-cikolatali-kunefe": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    },
+    "300-04-03-balli-kunefe": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {
+        "XS": {
+          "TRY": null
+        },
+        "S": {
+          "TRY": null
+        },
+        "M": {
+          "TRY": null
+        },
+        "L": {
+          "TRY": null
+        },
+        "XL": {
+          "TRY": null
+        }
+      }
+    }
+  }
+}

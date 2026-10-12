@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "language": "ja",
+  "products": {
+    "400-01-01-damla-sakizli-badem-cikolata-draje": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "400-01-02-tarcinli-findik-cikolata-draje": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "400-01-03-tarcinli-badem-cikolata-draje": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "400-02-01-beyaz-sutlu-bitter-cikolata-kaplamali-badem-draje": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "400-03-01-badem-sutlu-cikolata-draje": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    },
+    "400-03-02-kahve-cekirdekli-sutlu-cikolatali-draje": {
+      "name": "",
+      "variants": {
+        "XS": {},
+        "S": {},
+        "M": {},
+        "L": {},
+        "XL": {}
+      },
+      "editorial": {}
+    }
+  }
+}

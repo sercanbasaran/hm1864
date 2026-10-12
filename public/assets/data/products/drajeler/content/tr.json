@@ -1,0 +1,384 @@
+{
+  "schemaVersion": 1,
+  "language": "tr",
+  "products": {
+    "400-01-01-damla-sakizli-badem-cikolata-draje": {
+      "name": "Damla Sakızlı Badem Çikolata Draje",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "400-01-02-tarcinli-findik-cikolata-draje": {
+      "name": "Tarçınlı Fındık Çikolata Draje",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "400-01-03-tarcinli-badem-cikolata-draje": {
+      "name": "Tarçınlı Badem Çikolata Draje",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "400-02-01-beyaz-sutlu-bitter-cikolata-kaplamali-badem-draje": {
+      "name": "Beyaz Sütlü Bitter Çikolata Kaplamalı Badem Draje",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "400-03-01-badem-sutlu-cikolata-draje": {
+      "name": "Badem Sütlü Çikolata Draje",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "400-03-02-kahve-cekirdekli-sutlu-cikolatali-draje": {
+      "name": "Kahve Çekirdekli Sütlü Çikolatalı Draje",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "caylar",
+  "products": {
+    "900-01-01-siyah-cay": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "900-01-02-yesil-cay": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "900-01-03-ihlamur": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "900-01-04-kis-cayi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "900-01-05-nane-cayi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "900-02-01-elma-cayi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "900-02-02-nar-cayi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    }
+  }
+}

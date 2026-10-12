@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "spesiyaller",
+  "products": {
+    "700-01-01-dubai-gecesi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "700-01-02-dubai-gun-batimi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "700-01-03-dubai-hikayesi": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "700-01-04-dubai-zamani": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "700-02-01-afet-i-devran": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "700-02-01-cikolatali-afet-i-devran": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "700-02-02-afet-i-devran-kadayif": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "700-02-03-afet-i-devran-trilece": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    },
+    "700-03-01-humbara": {
+      "base": {
+        "TRY": null
+      },
+      "variants": {}
+    }
+  }
+}

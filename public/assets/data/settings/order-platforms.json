@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "platforms": [
+    {
+      "id": "yemeksepeti",
+      "name": "Yemeksepeti",
+      "logo": "/assets/images/medya/platformlar/yemeksepeti.svg",
+      "url": ""
+    },
+    {
+      "id": "ubereats",
+      "name": "Uber Eats",
+      "logo": "/assets/images/medya/platformlar/ubereats.svg",
+      "url": ""
+    }
+  ]
+}

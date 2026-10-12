@@ -1,0 +1,2022 @@
+{
+  "schemaVersion": 1,
+  "language": "tr",
+  "products": {
+    "200-01-01-balli-fistikli-fitil-lokum": {
+      "name": "Ballı Fıstıklı Fitil Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-01-02-cevizli-fitil-lokum": {
+      "name": "Cevizli Fitil Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-01-03-findikli-fitil-lokum": {
+      "name": "Fındıklı Fitil Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-01-04-fistikli-sultan-fitil-lokum": {
+      "name": "Fıstıklı Sultan Fitil Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-01-05-incirli-cevizli-fitil-lokum": {
+      "name": "İncirli Cevizli Fitil Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-01-06-kivili-fistikli-fitil-lokum": {
+      "name": "Kivili Fıstıklı Fitil Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-01-07-narli-fistikli-fitil-lokum": {
+      "name": "Narlı Fıstıklı Fitil Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-01-08-portakalli-findikli-fitil-lokum": {
+      "name": "Portakallı Fındıklı Fitil Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-02-01-fistikli-duble-lokum": {
+      "name": "Fıstıklı Duble Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-02-02-fistikli-sultan-duble-lokum": {
+      "name": "Fıstıklı Sultan Duble Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-02-03-gul-yaprakli-fistikli-duble-lokum": {
+      "name": "Gül Yapraklı Fıstıklı Duble Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-02-04-kivili-fistikli-duble-lokum": {
+      "name": "Kivili Fıstıklı Duble Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-02-05-narli-fistikli-duble-lokum": {
+      "name": "Narlı Fıstıklı Duble Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-02-06-portakalli-findikli-duble-lokum": {
+      "name": "Portakallı Fındıklı Duble Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-03-01-cifte-kavrulmus-fistikli-lokum": {
+      "name": "Çifte Kavrulmuş Fıstıklı Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-03-02-cifte-kavrulmus-narli-fistikli-lokum": {
+      "name": "Çifte Kavrulmuş Narlı Fıstıklı Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-03-03-ekstra-cifte-kavrulmus-fistikli-lokum": {
+      "name": "Ekstra Çifte Kavrulmuş Fıstıklı Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-04-01-narli-fistikli-krokan-lokum": {
+      "name": "Narlı Fıstıklı Krokan Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-04-02-portakalli-findikli-krokan-lokum": {
+      "name": "Portakallı Fındıklı Krokan Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-05-01-baharatli-kudret-lokum": {
+      "name": "Baharatlı Kudret Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-05-02-cevizli-bandirma": {
+      "name": "Cevizli Bandırma",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-05-03-cikolatali-sultan-lokum": {
+      "name": "Çikolatalı Sultan Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-05-04-fistikli-sultan-lokum": {
+      "name": "Fıstıklı Sultan Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-06-01-damla-sakizli-lokum": {
+      "name": "Damla Sakızlı Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-06-02-gullu-lokum": {
+      "name": "Güllü Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-06-03-kus-lokumu": {
+      "name": "Kuş Lokumu",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-06-04-limonlu-lokum": {
+      "name": "Limonlu Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-06-05-naneli-lokum": {
+      "name": "Naneli Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-06-06-narli-lokum": {
+      "name": "Narlı Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-06-07-portakalli-lokum": {
+      "name": "Portakallı Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-06-08-sade-lokum": {
+      "name": "Sade Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    },
+    "200-06-09-tarcinli-lokum": {
+      "name": "Tarçınlı Lokum",
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": []
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": null,
+      "variants": {
+        "XS": {
+          "label": "XS",
+          "description": "",
+          "weight": null
+        },
+        "S": {
+          "label": "S",
+          "description": "",
+          "weight": null
+        },
+        "M": {
+          "label": "M",
+          "description": "",
+          "weight": null
+        },
+        "L": {
+          "label": "L",
+          "description": "",
+          "weight": null
+        },
+        "XL": {
+          "label": "XL",
+          "description": "",
+          "weight": null
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
+    }
+  }
+}

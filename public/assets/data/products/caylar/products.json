@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "caylar",
+  "products": [
+    {
+      "code": "900-01-01",
+      "key": "900-01-01-siyah-cay",
+      "url": "urunler/caylar/bitki-caylari/siyah-cay.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "caylar",
+      "subcategoryId": "caylar/bitki-caylari",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "900-01-02",
+      "key": "900-01-02-yesil-cay",
+      "url": "urunler/caylar/bitki-caylari/yesil-cay.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "caylar",
+      "subcategoryId": "caylar/bitki-caylari",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "900-01-03",
+      "key": "900-01-03-ihlamur",
+      "url": "urunler/caylar/bitki-caylari/ihlamur.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "caylar",
+      "subcategoryId": "caylar/bitki-caylari",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "900-01-04",
+      "key": "900-01-04-kis-cayi",
+      "url": "urunler/caylar/bitki-caylari/kis-cayi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "caylar",
+      "subcategoryId": "caylar/bitki-caylari",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "900-01-05",
+      "key": "900-01-05-nane-cayi",
+      "url": "urunler/caylar/bitki-caylari/nane-cayi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "caylar",
+      "subcategoryId": "caylar/bitki-caylari",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "900-02-01",
+      "key": "900-02-01-elma-cayi",
+      "url": "urunler/caylar/meyveli-caylari/elma-cayi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "caylar",
+      "subcategoryId": "caylar/meyveli-caylari",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    },
+    {
+      "code": "900-02-02",
+      "key": "900-02-02-nar-cayi",
+      "url": "urunler/caylar/meyveli-caylari/nar-cayi.html",
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "caylar",
+      "subcategoryId": "caylar/meyveli-caylari",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": []
+    }
+  ]
+}

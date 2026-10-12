@@ -1,0 +1,1958 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "lokumlar",
+  "products": [
+    {
+      "code": "200-01-01",
+      "key": "200-01-01-balli-fistikli-fitil-lokum",
+      "url": "urunler/lokumlar/fitil-lokumlar/balli-fistikli-fitil-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 42,
+        "cell": "F42"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/fitil-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-01-02",
+      "key": "200-01-02-cevizli-fitil-lokum",
+      "url": "urunler/lokumlar/fitil-lokumlar/cevizli-fitil-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 43,
+        "cell": "F43"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/fitil-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-01-03",
+      "key": "200-01-03-findikli-fitil-lokum",
+      "url": "urunler/lokumlar/fitil-lokumlar/findikli-fitil-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 44,
+        "cell": "F44"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/fitil-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-01-04",
+      "key": "200-01-04-fistikli-sultan-fitil-lokum",
+      "url": "urunler/lokumlar/fitil-lokumlar/fistikli-sultan-fitil-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 45,
+        "cell": "F45"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/fitil-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-01-05",
+      "key": "200-01-05-incirli-cevizli-fitil-lokum",
+      "url": "urunler/lokumlar/fitil-lokumlar/incirli-cevizli-fitil-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 46,
+        "cell": "F46"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/fitil-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-01-06",
+      "key": "200-01-06-kivili-fistikli-fitil-lokum",
+      "url": "urunler/lokumlar/fitil-lokumlar/kivili-fistikli-fitil-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 47,
+        "cell": "F47"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/fitil-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-01-07",
+      "key": "200-01-07-narli-fistikli-fitil-lokum",
+      "url": "urunler/lokumlar/fitil-lokumlar/narli-fistikli-fitil-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 48,
+        "cell": "F48"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/fitil-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-01-08",
+      "key": "200-01-08-portakalli-findikli-fitil-lokum",
+      "url": "urunler/lokumlar/fitil-lokumlar/portakalli-findikli-fitil-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 49,
+        "cell": "F49"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/fitil-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-02-01",
+      "key": "200-02-01-fistikli-duble-lokum",
+      "url": "urunler/lokumlar/duble-lokumlar/fistikli-duble-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 50,
+        "cell": "F50"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/duble-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-02-02",
+      "key": "200-02-02-fistikli-sultan-duble-lokum",
+      "url": "urunler/lokumlar/duble-lokumlar/fistikli-sultan-duble-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 51,
+        "cell": "F51"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/duble-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-02-03",
+      "key": "200-02-03-gul-yaprakli-fistikli-duble-lokum",
+      "url": "urunler/lokumlar/duble-lokumlar/gul-yaprakli-fistikli-duble-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 52,
+        "cell": "F52"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/duble-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-02-04",
+      "key": "200-02-04-kivili-fistikli-duble-lokum",
+      "url": "urunler/lokumlar/duble-lokumlar/kivili-fistikli-duble-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 53,
+        "cell": "F53"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/duble-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-02-05",
+      "key": "200-02-05-narli-fistikli-duble-lokum",
+      "url": "urunler/lokumlar/duble-lokumlar/narli-fistikli-duble-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 54,
+        "cell": "F54"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/duble-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-02-06",
+      "key": "200-02-06-portakalli-findikli-duble-lokum",
+      "url": "urunler/lokumlar/duble-lokumlar/portakalli-findikli-duble-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 55,
+        "cell": "F55"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/duble-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-03-01",
+      "key": "200-03-01-cifte-kavrulmus-fistikli-lokum",
+      "url": "urunler/lokumlar/cifte-kavrulmus-lokumlar/cifte-kavrulmus-fistikli-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 56,
+        "cell": "F56"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/cifte-kavrulmus-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-03-02",
+      "key": "200-03-02-cifte-kavrulmus-narli-fistikli-lokum",
+      "url": "urunler/lokumlar/cifte-kavrulmus-lokumlar/cifte-kavrulmus-narli-fistikli-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 57,
+        "cell": "F57"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/cifte-kavrulmus-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-03-03",
+      "key": "200-03-03-ekstra-cifte-kavrulmus-fistikli-lokum",
+      "url": "urunler/lokumlar/cifte-kavrulmus-lokumlar/ekstra-cifte-kavrulmus-fistikli-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 58,
+        "cell": "F58"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/cifte-kavrulmus-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-04-01",
+      "key": "200-04-01-narli-fistikli-krokan-lokum",
+      "url": "urunler/lokumlar/krokanli-lokumlar/narli-fistikli-krokan-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 59,
+        "cell": "F59"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/krokanli-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-04-02",
+      "key": "200-04-02-portakalli-findikli-krokan-lokum",
+      "url": "urunler/lokumlar/krokanli-lokumlar/portakalli-findikli-krokan-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 60,
+        "cell": "F60"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/krokanli-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-05-01",
+      "key": "200-05-01-baharatli-kudret-lokum",
+      "url": "urunler/lokumlar/sultan-lokum/baharatli-kudret-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 61,
+        "cell": "F61"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/sultan-lokum",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-05-02",
+      "key": "200-05-02-cevizli-bandirma",
+      "url": "urunler/lokumlar/sultan-lokum/cevizli-bandirma.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 62,
+        "cell": "F62"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/sultan-lokum",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-05-03",
+      "key": "200-05-03-cikolatali-sultan-lokum",
+      "url": "urunler/lokumlar/sultan-lokum/cikolatali-sultan-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 63,
+        "cell": "F63"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/sultan-lokum",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-05-04",
+      "key": "200-05-04-fistikli-sultan-lokum",
+      "url": "urunler/lokumlar/sultan-lokum/fistikli-sultan-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 64,
+        "cell": "F64"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/sultan-lokum",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-06-01",
+      "key": "200-06-01-damla-sakizli-lokum",
+      "url": "urunler/lokumlar/aromali-lokumlar/damla-sakizli-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 65,
+        "cell": "F65"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/aromali-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-06-02",
+      "key": "200-06-02-gullu-lokum",
+      "url": "urunler/lokumlar/aromali-lokumlar/gullu-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 66,
+        "cell": "F66"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/aromali-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-06-03",
+      "key": "200-06-03-kus-lokumu",
+      "url": "urunler/lokumlar/aromali-lokumlar/kus-lokumu.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 67,
+        "cell": "F67"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/aromali-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-06-04",
+      "key": "200-06-04-limonlu-lokum",
+      "url": "urunler/lokumlar/aromali-lokumlar/limonlu-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 68,
+        "cell": "F68"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/aromali-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-06-05",
+      "key": "200-06-05-naneli-lokum",
+      "url": "urunler/lokumlar/aromali-lokumlar/naneli-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 69,
+        "cell": "F69"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/aromali-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-06-06",
+      "key": "200-06-06-narli-lokum",
+      "url": "urunler/lokumlar/aromali-lokumlar/narli-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 70,
+        "cell": "F70"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/aromali-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-06-07",
+      "key": "200-06-07-portakalli-lokum",
+      "url": "urunler/lokumlar/aromali-lokumlar/portakalli-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 71,
+        "cell": "F71"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/aromali-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-06-08",
+      "key": "200-06-08-sade-lokum",
+      "url": "urunler/lokumlar/aromali-lokumlar/sade-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 72,
+        "cell": "F72"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/aromali-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "200-06-09",
+      "key": "200-06-09-tarcinli-lokum",
+      "url": "urunler/lokumlar/aromali-lokumlar/tarcinli-lokum.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 73,
+        "cell": "F73"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "lokumlar",
+      "subcategoryId": "lokumlar/aromali-lokumlar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}

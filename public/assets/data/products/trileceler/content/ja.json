@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "language": "ja",
+  "products": {
+    "600-03-01-ahududulu-trilece": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "600-03-02-fistikli-ala-trilece": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "600-03-03-kahveli-trilece": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "600-03-04-karamelli-trilece": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    },
+    "600-03-05-safranli-trilece": {
+      "name": "",
+      "variants": {},
+      "editorial": {}
+    }
+  }
+}

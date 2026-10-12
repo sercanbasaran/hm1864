@@ -1,0 +1,677 @@
+{
+  "schemaVersion": 1,
+  "categoryId": "kadayiflar",
+  "products": [
+    {
+      "code": "300-01-01",
+      "key": "300-01-01-fistikli-kadayif",
+      "url": "urunler/kadayiflar/fistikli-kadayiflar/fistikli-kadayif.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 74,
+        "cell": "F74"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kadayiflar",
+      "subcategoryId": "kadayiflar/fistikli-kadayiflar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "300-01-02",
+      "key": "300-01-02-fistikli-sultaniye-kadayif",
+      "url": "urunler/kadayiflar/fistikli-kadayiflar/fistikli-sultaniye-kadayif.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 75,
+        "cell": "F75"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kadayiflar",
+      "subcategoryId": "kadayiflar/fistikli-kadayiflar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "300-01-03",
+      "key": "300-01-03-fistikli-halep-burma",
+      "url": "urunler/kadayiflar/fistikli-kadayiflar/fistikli-halep-burma.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 76,
+        "cell": "F76"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kadayiflar",
+      "subcategoryId": "kadayiflar/fistikli-kadayiflar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "300-01-04",
+      "key": "300-01-04-fistikli-burma-kadayif",
+      "url": "urunler/kadayiflar/fistikli-kadayiflar/fistikli-burma-kadayif.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 77,
+        "cell": "F77"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kadayiflar",
+      "subcategoryId": "kadayiflar/fistikli-kadayiflar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "300-01-05",
+      "key": "300-01-05-fistikli-osmanli-saray-kadayifi",
+      "url": "urunler/kadayiflar/fistikli-kadayiflar/fistikli-osmanli-saray-kadayifi.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 78,
+        "cell": "F78"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kadayiflar",
+      "subcategoryId": "kadayiflar/fistikli-kadayiflar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "300-02-01",
+      "key": "300-02-01-cevizli-osmanli-saray-kadayifi",
+      "url": "urunler/kadayiflar/cevizli-kadayiflar/cevizli-osmanli-saray-kadayifi.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 79,
+        "cell": "F79"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kadayiflar",
+      "subcategoryId": "kadayiflar/cevizli-kadayiflar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "300-03-01",
+      "key": "300-03-01-narli-lokumlu-osmanli-saray-kadayifi",
+      "url": "urunler/kadayiflar/lokumlu-kadayiflar/narli-lokumlu-osmanli-saray-kadayifi.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 80,
+        "cell": "F80"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kadayiflar",
+      "subcategoryId": "kadayiflar/lokumlu-kadayiflar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "300-03-02",
+      "key": "300-03-02-sultan-lokumlu-osmanli-saray-kadayifi",
+      "url": "urunler/kadayiflar/lokumlu-kadayiflar/sultan-lokumlu-osmanli-saray-kadayifi.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 81,
+        "cell": "F81"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kadayiflar",
+      "subcategoryId": "kadayiflar/lokumlu-kadayiflar",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "300-04-01",
+      "key": "300-04-01-kunefe",
+      "url": "urunler/kadayiflar/kunefeler/kunefe.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 82,
+        "cell": "F82"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kadayiflar",
+      "subcategoryId": "kadayiflar/kunefeler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "300-04-02",
+      "key": "300-04-02-cikolatali-kunefe",
+      "url": "urunler/kadayiflar/kunefeler/cikolatali-kunefe.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 83,
+        "cell": "F83"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kadayiflar",
+      "subcategoryId": "kadayiflar/kunefeler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "code": "300-04-03",
+      "key": "300-04-03-balli-kunefe",
+      "url": "urunler/kadayiflar/kunefeler/balli-kunefe.html",
+      "variant_source": {
+        "file": "Ürünler Tam Liste.xlsx",
+        "sheet": "ÜRÜNLER TAM LİSTE",
+        "row": 84,
+        "cell": "F84"
+      },
+      "currency": "TRY",
+      "images": [],
+      "stock": null,
+      "onlineSale": null,
+      "categoryId": "kadayiflar",
+      "subcategoryId": "kadayiflar/kunefeler",
+      "editorial": [
+        {
+          "type": "story",
+          "enabled": true,
+          "image": ""
+        },
+        {
+          "type": "boxReuse",
+          "enabled": true,
+          "image": ""
+        }
+      ],
+      "variants": [
+        {
+          "code": "XS",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "S",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "M",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "L",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        },
+        {
+          "code": "XL",
+          "stock": null,
+          "sku": "",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}
