@@ -12,8 +12,7 @@
       "description": "",
       "images": [
         "kahvaltiliklar/su-boregi.jpeg"
-        
-    ],
+      ],
       "weight": null,
       "stock": null,
       "onlineSale": null,
@@ -6934,7 +6933,24 @@
       "longTermStorage": "",
       "delivery": "",
       "packaging": "",
-      "variants": []
+      "variants": [
+        {
+          "code": "Dilim",
+          "price": 1999,
+          "pricesByCurrency": {
+            "AED": 210,
+            "USD": 58
+          }
+        },
+        {
+          "code": "Baton",
+          "price": 2999,
+          "pricesByCurrency": {
+            "AED": 310,
+            "USD": 85
+          }
+        }
+      ]
     },
     {
       "code": "500-01-02",
