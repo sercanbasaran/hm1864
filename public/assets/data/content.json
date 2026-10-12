@@ -1,0 +1,2294 @@
+{
+  "schemaVersion": 1,
+  "languages": [
+    {
+      "code": "tr",
+      "name": "Türkçe"
+    },
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "ar",
+      "name": "العربية"
+    }
+  ],
+  "texts": {
+    "ui.allMenu": {
+      "tr": "TÜM MENÜ",
+      "en": "ALL MENU",
+      "ar": "القائمة الكاملة"
+    },
+    "ui.onlineMenu": {
+      "tr": "ONLINE MENÜ",
+      "en": "ONLINE MENU",
+      "ar": "القائمة الإلكترونية"
+    },
+    "ui.storeMenu": {
+      "tr": "MAĞAZA MENÜ",
+      "en": "STORE MENU",
+      "ar": "قائمة المتاجر"
+    },
+    "ui.regionTitle": {
+      "tr": "Bölge ve dil seçin",
+      "en": "Choose your region and language",
+      "ar": "اختر المنطقة واللغة"
+    },
+    "ui.regionLabel": {
+      "tr": "Bölge / Dil Seçiniz:",
+      "en": "Region / Language:",
+      "ar": "المنطقة / اللغة:"
+    },
+    "ui.country": {
+      "tr": "Teslimat ülkesi",
+      "en": "Delivery country",
+      "ar": "بلد التوصيل"
+    },
+    "ui.language": {
+      "tr": "Dil",
+      "en": "Language",
+      "ar": "اللغة"
+    },
+    "ui.save": {
+      "tr": "KAYDET VE DEVAM ET",
+      "en": "SAVE AND CONTINUE",
+      "ar": "احفظ وتابع"
+    },
+    "ui.translationNote": {
+      "tr": "Çevrilmemiş içerikler Türkçe gösterilir.",
+      "en": "Content without a translation is displayed in Turkish.",
+      "ar": "يظهر المحتوى غير المترجم باللغة التركية."
+    },
+    "ui.stores": {
+      "tr": "Mağazalarımız",
+      "en": "Our Stores",
+      "ar": "متاجرنا"
+    },
+    "ui.contact": {
+      "tr": "İletişim",
+      "en": "Contact",
+      "ar": "اتصل بنا"
+    },
+    "template.0001": {
+      "tr": "Türkiye / Türkçe",
+      "en": "",
+      "ar": ""
+    },
+    "template.0002": {
+      "tr": "Menüyü aç",
+      "en": "",
+      "ar": ""
+    },
+    "template.0003": {
+      "tr": "Arama",
+      "en": "",
+      "ar": ""
+    },
+    "template.0004": {
+      "tr": "Hafız Mustafa 1864 ana sayfa",
+      "en": "",
+      "ar": ""
+    },
+    "template.0005": {
+      "tr": "Hafız Mustafa 1864 İstanbul",
+      "en": "",
+      "ar": ""
+    },
+    "template.0006": {
+      "tr": "Hesabım",
+      "en": "",
+      "ar": ""
+    },
+    "template.0007": {
+      "tr": "Sepetim",
+      "en": "",
+      "ar": ""
+    },
+    "template.0008": {
+      "tr": "0",
+      "en": "",
+      "ar": ""
+    },
+    "template.0009": {
+      "tr": "Ana menü",
+      "en": "",
+      "ar": ""
+    },
+    "template.0010": {
+      "tr": "Baklavalar",
+      "en": "",
+      "ar": ""
+    },
+    "template.0011": {
+      "tr": "Lokumlar",
+      "en": "",
+      "ar": ""
+    },
+    "template.0012": {
+      "tr": "Kadayıflar",
+      "en": "",
+      "ar": ""
+    },
+    "template.0013": {
+      "tr": "Kahveler",
+      "en": "",
+      "ar": ""
+    },
+    "template.0014": {
+      "tr": "Çaylar",
+      "en": "",
+      "ar": ""
+    },
+    "template.0015": {
+      "tr": "1864 SEÇKİSİ →",
+      "en": "",
+      "ar": ""
+    },
+    "template.0016": {
+      "tr": "Kategori menüsü",
+      "en": "",
+      "ar": ""
+    },
+    "template.0017": {
+      "tr": "Kurumsal",
+      "en": "",
+      "ar": ""
+    },
+    "template.0018": {
+      "tr": "İlke ve Değerlerimiz",
+      "en": "",
+      "ar": ""
+    },
+    "template.0019": {
+      "tr": "Politikalarımız",
+      "en": "",
+      "ar": ""
+    },
+    "template.0020": {
+      "tr": "Yönetim Kurulu",
+      "en": "",
+      "ar": ""
+    },
+    "template.0021": {
+      "tr": "Etik İlkeler ve Uyum Politikaları",
+      "en": "",
+      "ar": ""
+    },
+    "template.0022": {
+      "tr": "Kariyer",
+      "en": "",
+      "ar": ""
+    },
+    "template.0023": {
+      "tr": "Sertifikalarımız",
+      "en": "",
+      "ar": ""
+    },
+    "template.0024": {
+      "tr": "Medya Merkezi",
+      "en": "",
+      "ar": ""
+    },
+    "template.0025": {
+      "tr": "Asırlık Miras",
+      "en": "",
+      "ar": ""
+    },
+    "template.0026": {
+      "tr": "Başkanın Mesajı",
+      "en": "",
+      "ar": ""
+    },
+    "template.0027": {
+      "tr": "Eşsiz Hikâyemiz",
+      "en": "",
+      "ar": ""
+    },
+    "template.0028": {
+      "tr": "Dönüm Noktaları",
+      "en": "",
+      "ar": ""
+    },
+    "template.0029": {
+      "tr": "Başarı ve Ödüllerimiz",
+      "en": "",
+      "ar": ""
+    },
+    "template.0030": {
+      "tr": "Madalyalarımız",
+      "en": "",
+      "ar": ""
+    },
+    "template.0031": {
+      "tr": "Lezzetler",
+      "en": "",
+      "ar": ""
+    },
+    "template.0032": {
+      "tr": "Kahvaltılıklar",
+      "en": "",
+      "ar": ""
+    },
+    "template.0033": {
+      "tr": "İlaveler",
+      "en": "",
+      "ar": ""
+    },
+    "template.0034": {
+      "tr": "Tüm Lezzetler",
+      "en": "",
+      "ar": ""
+    },
+    "template.0035": {
+      "tr": "Özel Koleksiyonlar",
+      "en": "",
+      "ar": ""
+    },
+    "template.0036": {
+      "tr": "HM 1864 Serisi",
+      "en": "",
+      "ar": ""
+    },
+    "template.0037": {
+      "tr": "Özel Seri 1",
+      "en": "",
+      "ar": ""
+    },
+    "template.0038": {
+      "tr": "Özel Seri 2",
+      "en": "",
+      "ar": ""
+    },
+    "template.0039": {
+      "tr": "Özel Seri 3",
+      "en": "",
+      "ar": ""
+    },
+    "template.0040": {
+      "tr": "Deneyim Alanları",
+      "en": "",
+      "ar": ""
+    },
+    "template.0041": {
+      "tr": "Destek",
+      "en": "",
+      "ar": ""
+    },
+    "template.0042": {
+      "tr": "Müşteri Hizmetleri",
+      "en": "",
+      "ar": ""
+    },
+    "template.0043": {
+      "tr": "Çözüm Merkezi",
+      "en": "",
+      "ar": ""
+    },
+    "template.0044": {
+      "tr": "İşlem Rehberi",
+      "en": "",
+      "ar": ""
+    },
+    "template.0045": {
+      "tr": "Güvenli Alışveriş Kılavuzu",
+      "en": "",
+      "ar": ""
+    },
+    "template.0046": {
+      "tr": "Sıkça Sorulan Sorular",
+      "en": "",
+      "ar": ""
+    },
+    "template.0047": {
+      "tr": "İptal & İade Koşulları",
+      "en": "",
+      "ar": ""
+    },
+    "template.0048": {
+      "tr": "Teslimat Koşulları",
+      "en": "",
+      "ar": ""
+    },
+    "template.0049": {
+      "tr": "Sözleşme ve Politikalar",
+      "en": "",
+      "ar": ""
+    },
+    "template.0050": {
+      "tr": "Kişisel Verilerin Korunması",
+      "en": "",
+      "ar": ""
+    },
+    "template.0051": {
+      "tr": "Bilgi Güvenliği Politikası",
+      "en": "",
+      "ar": ""
+    },
+    "template.0052": {
+      "tr": "Gizlilik Bildirgesi",
+      "en": "",
+      "ar": ""
+    },
+    "template.0053": {
+      "tr": "Satış Sözleşmesi",
+      "en": "",
+      "ar": ""
+    },
+    "template.0054": {
+      "tr": "GÖNDERİ TÜRLERİ",
+      "en": "",
+      "ar": ""
+    },
+    "template.0055": {
+      "tr": "DHL   UPS   KURYE",
+      "en": "",
+      "ar": ""
+    },
+    "template.0056": {
+      "tr": "ÖDEME TÜRLERİ",
+      "en": "",
+      "ar": ""
+    },
+    "template.0057": {
+      "tr": "VISA   Mastercard   AMEX",
+      "en": "",
+      "ar": ""
+    },
+    "template.0058": {
+      "tr": "Discover   Apple Pay",
+      "en": "",
+      "ar": ""
+    },
+    "template.0059": {
+      "tr": "İLETİŞİM",
+      "en": "",
+      "ar": ""
+    },
+    "template.0060": {
+      "tr": "WhatsApp’dan yazın",
+      "en": "",
+      "ar": ""
+    },
+    "template.0061": {
+      "tr": "Site Haritası",
+      "en": "",
+      "ar": ""
+    },
+    "template.0062": {
+      "tr": "BİZİ TAKİP EDİN",
+      "en": "",
+      "ar": ""
+    },
+    "template.0063": {
+      "tr": "Instagram · TikTok",
+      "en": "",
+      "ar": ""
+    },
+    "template.0064": {
+      "tr": "Facebook · YouTube",
+      "en": "",
+      "ar": ""
+    },
+    "template.0065": {
+      "tr": "LinkedIn",
+      "en": "",
+      "ar": ""
+    },
+    "template.0066": {
+      "tr": "Hafız Mustafa 1864",
+      "en": "",
+      "ar": ""
+    },
+    "template.0067": {
+      "tr": "Görsel eklenecek",
+      "en": "",
+      "ar": ""
+    },
+    "template.0068": {
+      "tr": "Gönderi adresi:",
+      "en": "",
+      "ar": ""
+    },
+    "template.0069": {
+      "tr": "›",
+      "en": "",
+      "ar": ""
+    },
+    "template.0070": {
+      "tr": "Copyright © 2026 Hakkızade Hafız Mustafa. Tüm hakları saklıdır.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0071": {
+      "tr": "Hafız Mustafa 1864 seçkileri",
+      "en": "",
+      "ar": ""
+    },
+    "template.0072": {
+      "tr": "1 / 4",
+      "en": "",
+      "ar": ""
+    },
+    "template.0073": {
+      "tr": "Kırmızı doku",
+      "en": "",
+      "ar": ""
+    },
+    "template.0074": {
+      "tr": "1864’DEN BERİ",
+      "en": "",
+      "ar": ""
+    },
+    "template.0075": {
+      "tr": "HER KUTUDA",
+      "en": "",
+      "ar": ""
+    },
+    "template.0076": {
+      "tr": "İSTANBUL’UN TATLI MİRASI",
+      "en": "",
+      "ar": ""
+    },
+    "template.0077": {
+      "tr": "1864’ten bu yana İstanbul tatlıcılık sanatını yaşatıyoruz.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0078": {
+      "tr": "Saf zanaatkârlığı ve eşsiz lezzeti keşfedin.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0079": {
+      "tr": "HEMEN SİPARİŞ VERİN",
+      "en": "",
+      "ar": ""
+    },
+    "template.0080": {
+      "tr": "İkonik kırmızı metal kutu",
+      "en": "",
+      "ar": ""
+    },
+    "template.0081": {
+      "tr": "2 / 4",
+      "en": "",
+      "ar": ""
+    },
+    "template.0082": {
+      "tr": "HM 1864 KOLEKSİYONU",
+      "en": "",
+      "ar": ""
+    },
+    "template.0083": {
+      "tr": "ASIRLIK USTALIK",
+      "en": "",
+      "ar": ""
+    },
+    "template.0084": {
+      "tr": "TEK KUTUDA",
+      "en": "",
+      "ar": ""
+    },
+    "template.0085": {
+      "tr": "İstanbul’un lezzet mirası, özenle hazırlanmış",
+      "en": "",
+      "ar": ""
+    },
+    "template.0086": {
+      "tr": "özel kutularda bir araya geliyor.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0087": {
+      "tr": "KOLEKSİYONU İNCELE",
+      "en": "",
+      "ar": ""
+    },
+    "template.0088": {
+      "tr": "HM 1864 koleksiyon kutusu",
+      "en": "",
+      "ar": ""
+    },
+    "template.0089": {
+      "tr": "3 / 4",
+      "en": "",
+      "ar": ""
+    },
+    "template.0090": {
+      "tr": "ZANAATIN VE",
+      "en": "",
+      "ar": ""
+    },
+    "template.0091": {
+      "tr": "LEZZETİN İNCELİKLERİ",
+      "en": "",
+      "ar": ""
+    },
+    "template.0092": {
+      "tr": "İncecik yufkalar, seçkin Antep fıstığı",
+      "en": "",
+      "ar": ""
+    },
+    "template.0093": {
+      "tr": "ve nesiller boyu aktarılan ustalık.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0094": {
+      "tr": "FISTIKLI BAKLAVALARI KEŞFET",
+      "en": "",
+      "ar": ""
+    },
+    "template.0095": {
+      "tr": "Fıstıklı baklavalar",
+      "en": "",
+      "ar": ""
+    },
+    "template.0096": {
+      "tr": "4 / 4",
+      "en": "",
+      "ar": ""
+    },
+    "template.0097": {
+      "tr": "KURUMSAL HEDİYELER",
+      "en": "",
+      "ar": ""
+    },
+    "template.0098": {
+      "tr": "HER ANI",
+      "en": "",
+      "ar": ""
+    },
+    "template.0099": {
+      "tr": "DEĞERLİ KILAN LEZZETLER",
+      "en": "",
+      "ar": ""
+    },
+    "template.0100": {
+      "tr": "Özel kutlamalar ve anlamlı teşekkürler için",
+      "en": "",
+      "ar": ""
+    },
+    "template.0101": {
+      "tr": "Hafız Mustafa 1864 hediye seçkileri.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0102": {
+      "tr": "KURUMSAL ÇÖZÜMLERİ KEŞFET",
+      "en": "",
+      "ar": ""
+    },
+    "template.0103": {
+      "tr": "Kurumsal hediye kutuları",
+      "en": "",
+      "ar": ""
+    },
+    "template.0104": {
+      "tr": "Önceki slayt",
+      "en": "",
+      "ar": ""
+    },
+    "template.0105": {
+      "tr": "‹",
+      "en": "",
+      "ar": ""
+    },
+    "template.0106": {
+      "tr": "Slayt seçimi",
+      "en": "",
+      "ar": ""
+    },
+    "template.0107": {
+      "tr": "1. slayta git",
+      "en": "",
+      "ar": ""
+    },
+    "template.0108": {
+      "tr": "2. slayta git",
+      "en": "",
+      "ar": ""
+    },
+    "template.0109": {
+      "tr": "3. slayta git",
+      "en": "",
+      "ar": ""
+    },
+    "template.0110": {
+      "tr": "4. slayta git",
+      "en": "",
+      "ar": ""
+    },
+    "template.0111": {
+      "tr": "Sonraki slayt",
+      "en": "",
+      "ar": ""
+    },
+    "template.0112": {
+      "tr": "Otomatik geçişi duraklat",
+      "en": "",
+      "ar": ""
+    },
+    "template.0113": {
+      "tr": "Duraklat",
+      "en": "",
+      "ar": ""
+    },
+    "template.0114": {
+      "tr": "1",
+      "en": "",
+      "ar": ""
+    },
+    "template.0115": {
+      "tr": "/ 4",
+      "en": "",
+      "ar": ""
+    },
+    "template.0116": {
+      "tr": "Slayt 1 / 4",
+      "en": "",
+      "ar": ""
+    },
+    "template.0117": {
+      "tr": "HM 1864 Collections",
+      "en": "",
+      "ar": ""
+    },
+    "template.0118": {
+      "tr": "Asırlık ustalık tek kutuda buluştu.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0119": {
+      "tr": "HM 1864 Serisi, İstanbul lezzet mirasını modern ve şık bir sunumla sofralarınıza taşıyor.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0120": {
+      "tr": "Çıtır baklava çeşitlerimizi ve yumuşacık lokum seçkilerimizi, zengin içerikli kutularda bir araya getirdik. Farklı damak tatlarına hitap eden bu özel seride, her kutu ayrı bir lezzet şöleni sunuyor.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0121": {
+      "tr": "Hem özel günlerde sevdiklerinize sunabileceğiniz prestijli bir hediye hem de kendinizi şımartabileceğiniz eksiksiz bir tatlı deneyimi.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0122": {
+      "tr": "EN ÇOK TERCİH EDİLEN LEZZETLER",
+      "en": "",
+      "ar": ""
+    },
+    "template.0123": {
+      "tr": "1864’ten bu yana ustalıkla korunan reçetelerimiz, doğanın en katıksız mahsulleriyle buluşuyor. İstanbul’un kalbinden dünya sofralarına uzanan ikonik tatlarımızı keşfedin.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0124": {
+      "tr": "Fıstıklı Dürüm",
+      "en": "",
+      "ar": ""
+    },
+    "template.0125": {
+      "tr": "Ürün kodu: 100-01-07",
+      "en": "",
+      "ar": ""
+    },
+    "template.0126": {
+      "tr": "Fiyat bilgisi eklenecek.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0127": {
+      "tr": "ÜRÜNÜ İNCELE",
+      "en": "",
+      "ar": ""
+    },
+    "template.0128": {
+      "tr": "Cevizli Padişah",
+      "en": "",
+      "ar": ""
+    },
+    "template.0129": {
+      "tr": "Ürün kodu: 100-02-10",
+      "en": "",
+      "ar": ""
+    },
+    "template.0130": {
+      "tr": "Gül Yapraklı Fıstıklı Duble Lokum",
+      "en": "",
+      "ar": ""
+    },
+    "template.0131": {
+      "tr": "Ürün kodu: 200-02-03",
+      "en": "",
+      "ar": ""
+    },
+    "template.0132": {
+      "tr": "Türk Kahvesi",
+      "en": "",
+      "ar": ""
+    },
+    "template.0133": {
+      "tr": "Ürün kodu: 800-01-01",
+      "en": "",
+      "ar": ""
+    },
+    "template.0134": {
+      "tr": "Önceki ürünler",
+      "en": "",
+      "ar": ""
+    },
+    "template.0135": {
+      "tr": "Sonraki ürünler",
+      "en": "",
+      "ar": ""
+    },
+    "template.0136": {
+      "tr": "KURUMSAL SAYGINLIĞIN ZİRVESİ",
+      "en": "",
+      "ar": ""
+    },
+    "template.0137": {
+      "tr": "HAFIZ MUSTAFA 1864",
+      "en": "",
+      "ar": ""
+    },
+    "template.0138": {
+      "tr": "İş dünyasında kurulan güçlü bağları, incelikle düşünülmüş ve anlam dolu teşekkür jestleriyle pekiştirin.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0139": {
+      "tr": "ZAMANSIZ PRESTİJ",
+      "en": "",
+      "ar": ""
+    },
+    "template.0140": {
+      "tr": "İstanbul’un tatlı mirasını, markanızın ağırlığı ve zarafetiyle harmanlıyoruz.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0141": {
+      "tr": "HER ANI DEĞERLİ KILAN SEÇENEKLER",
+      "en": "",
+      "ar": ""
+    },
+    "template.0142": {
+      "tr": "Özel kutlamalar, yeni yıl tebrikleri ve kurumsal etkinlikler için baklava, lokum ve kahve koleksiyonlarımız.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0143": {
+      "tr": "EŞSİZ LEZZET GARANTİSİ",
+      "en": "",
+      "ar": ""
+    },
+    "template.0144": {
+      "tr": "1864’ten bu yana değişmeyen özgün reçetelerimizle, hafızalarda iz bırakacak bir lezzet deneyimi.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0145": {
+      "tr": "KURUMSAL ÇÖZÜMLER İÇİN İLETİŞİME GEÇİN",
+      "en": "",
+      "ar": ""
+    },
+    "template.0146": {
+      "tr": "Bahçekapı Mağazası — 1864",
+      "en": "",
+      "ar": ""
+    },
+    "template.0147": {
+      "tr": "BAHÇEKAPI MAĞAZASI — 1864",
+      "en": "",
+      "ar": ""
+    },
+    "template.0148": {
+      "tr": "İSTANBUL TATLI MİRASI,",
+      "en": "",
+      "ar": ""
+    },
+    "template.0149": {
+      "tr": "ŞİMDİ TÜM DÜNYADA",
+      "en": "",
+      "ar": ""
+    },
+    "template.0150": {
+      "tr": "1864 yılında İstanbul’un tarihi kalbi Bahçekapı’da başlayan serüvenimiz, bugün geleneksel ustalık ve köklü lezzet anlayışımızla sınırları aşarak devam ediyor.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0151": {
+      "tr": "İstanbul’un eşsiz tatlı mirasını; İstanbul, Dubai ve Londra mağazalarımızla tatlı severlerle buluşturuyoruz.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0152": {
+      "tr": "MAĞAZALARIMIZI KEŞFEDİN",
+      "en": "",
+      "ar": ""
+    },
+    "template.0153": {
+      "tr": "1864’TEN GÜNÜMÜZE",
+      "en": "",
+      "ar": ""
+    },
+    "template.0154": {
+      "tr": "İstanbul Bahçekapı’da başlayan lezzet yolculuğumuz, asırlık tarifleri ve geleneksel tatlıcılık ustalığını yaşatıyor.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0155": {
+      "tr": "Hafız Mustafa arşiv fotoğrafı",
+      "en": "",
+      "ar": ""
+    },
+    "template.0156": {
+      "tr": "Tarihçe",
+      "en": "",
+      "ar": ""
+    },
+    "template.0157": {
+      "tr": "1864",
+      "en": "",
+      "ar": ""
+    },
+    "template.0158": {
+      "tr": "1888",
+      "en": "",
+      "ar": ""
+    },
+    "template.0159": {
+      "tr": "1923",
+      "en": "",
+      "ar": ""
+    },
+    "template.0160": {
+      "tr": "1925",
+      "en": "",
+      "ar": ""
+    },
+    "template.0161": {
+      "tr": "1926",
+      "en": "",
+      "ar": ""
+    },
+    "template.0162": {
+      "tr": "HACI İSMAİL HAKKIZADE HAFIZ MUSTAFA",
+      "en": "",
+      "ar": ""
+    },
+    "template.0163": {
+      "tr": "Şekerci Hafız Mustafa, Sultan Abdülaziz Han döneminde Hacı İsmail Hakkı Bey tarafından 1864 yılında İstanbul Bahçekapı’da kurulmuş ve daha sonra oğlu Hafız Mustafa tarafından devralınmıştır. Akide şekerinin ilk üreticilerinden olan Hacı İsmail Hakkı Bey, şeker yapımına dükkânın bodrum katındaki dibek taşında başlamıştır.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0164": {
+      "tr": "Sayfa konumu",
+      "en": "",
+      "ar": ""
+    },
+    "template.0165": {
+      "tr": "Anasayfa",
+      "en": "",
+      "ar": ""
+    },
+    "template.0166": {
+      "tr": "/",
+      "en": "",
+      "ar": ""
+    },
+    "template.0167": {
+      "tr": "Mağazalarımızı keşfedin",
+      "en": "",
+      "ar": ""
+    },
+    "template.0168": {
+      "tr": "Harita görseli eklenecek.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0169": {
+      "tr": "Mağaza listesinden arama yapabilirsiniz.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0170": {
+      "tr": "Size en yakın mağazamızı bulun",
+      "en": "",
+      "ar": ""
+    },
+    "template.0171": {
+      "tr": "İstanbul’un lezzet mirasını, geleneksel tariflerimizi ve unutulmaz anları paylaştığımız mağazalarımızda sizi ağırlamaktan mutluluk duyuyoruz.",
+      "en": "",
+      "ar": ""
+    },
+    "template.0172": {
+      "tr": "Ülke seçin",
+      "en": "",
+      "ar": ""
+    },
+    "template.0173": {
+      "tr": "TR",
+      "en": "",
+      "ar": ""
+    },
+    "template.0174": {
+      "tr": "Türkiye",
+      "en": "",
+      "ar": ""
+    },
+    "template.0175": {
+      "tr": "AE",
+      "en": "",
+      "ar": ""
+    },
+    "template.0176": {
+      "tr": "Birleşik Arap Emirlikleri",
+      "en": "",
+      "ar": ""
+    },
+    "template.0177": {
+      "tr": "GB",
+      "en": "",
+      "ar": ""
+    },
+    "template.0178": {
+      "tr": "Birleşik Krallık",
+      "en": "",
+      "ar": ""
+    },
+    "template.0179": {
+      "tr": "Mağaza adı ile arayın",
+      "en": "",
+      "ar": ""
+    },
+    "template.0180": {
+      "tr": "MAĞAZA ARA",
+      "en": "",
+      "ar": ""
+    },
+    "template.0181": {
+      "tr": "HAFIZ MUSTAFA 1864 PORTA VADI",
+      "en": "",
+      "ar": ""
+    },
+    "template.0182": {
+      "tr": "+90 212 892 51 51",
+      "en": "",
+      "ar": ""
+    },
+    "template.0183": {
+      "tr": "Hamidiye, Cendere Cad. No:103/2, Kağıthane / İstanbul",
+      "en": "",
+      "ar": ""
+    },
+    "template.0184": {
+      "tr": "Mağaza Detaylarını Görün",
+      "en": "",
+      "ar": ""
+    },
+    "template.0185": {
+      "tr": "HAFIZ MUSTAFA 1864 NIŞANTAŞI",
+      "en": "",
+      "ar": ""
+    },
+    "template.0186": {
+      "tr": "+90 212 219 17 36",
+      "en": "",
+      "ar": ""
+    },
+    "template.0187": {
+      "tr": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli / İstanbul",
+      "en": "",
+      "ar": ""
+    },
+    "template.0188": {
+      "tr": "HAFIZ MUSTAFA 1864 BAHÇEKAPI",
+      "en": "",
+      "ar": ""
+    },
+    "template.0189": {
+      "tr": "+90 212 513 36 10",
+      "en": "",
+      "ar": ""
+    },
+    "template.0190": {
+      "tr": "Hobyar, Hamidiye Cd. No:84, Fatih / İstanbul",
+      "en": "",
+      "ar": ""
+    },
+    "template.0191": {
+      "tr": "HAFIZ MUSTAFA 1864 SIRKECI",
+      "en": "",
+      "ar": ""
+    },
+    "template.0192": {
+      "tr": "+90 212 527 66 54",
+      "en": "",
+      "ar": ""
+    },
+    "template.0193": {
+      "tr": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih / İstanbul",
+      "en": "",
+      "ar": ""
+    },
+    "template.0194": {
+      "tr": "HAFIZ MUSTAFA 1864 EDEBIYAT KIRAATHANESI",
+      "en": "",
+      "ar": ""
+    },
+    "template.0195": {
+      "tr": "+90 212 514 90 68",
+      "en": "",
+      "ar": ""
+    },
+    "template.0196": {
+      "tr": "Divan Yolu Cd. No:14, Sultanahmet, Fatih / İstanbul",
+      "en": "",
+      "ar": ""
+    },
+    "template.0197": {
+      "tr": "Bu arama için mağaza bilgisi bulunamadı.",
+      "en": "",
+      "ar": ""
+    },
+    "page.0001": {
+      "tr": "Ana Sayfa",
+      "en": "",
+      "ar": ""
+    },
+    "page.0002": {
+      "tr": "Sultan Lokumlar",
+      "en": "",
+      "ar": ""
+    },
+    "page.0003": {
+      "tr": "Türk Kahveleri",
+      "en": "",
+      "ar": ""
+    },
+    "page.0004": {
+      "tr": "Aromalı Türk Kahveleri",
+      "en": "",
+      "ar": ""
+    },
+    "page.0005": {
+      "tr": "Salep",
+      "en": "",
+      "ar": ""
+    },
+    "page.0006": {
+      "tr": "Siyah Çaylar",
+      "en": "",
+      "ar": ""
+    },
+    "page.0007": {
+      "tr": "Meyve Çayları",
+      "en": "",
+      "ar": ""
+    },
+    "page.0008": {
+      "tr": "Kuruyemişler",
+      "en": "",
+      "ar": ""
+    },
+    "page.0009": {
+      "tr": "Kestane Şekerleri",
+      "en": "",
+      "ar": ""
+    },
+    "page.0010": {
+      "tr": "Sunum & Hediye Koleksiyonu",
+      "en": "",
+      "ar": ""
+    },
+    "page.0011": {
+      "tr": "Türk Kahvesi Servis Takımları",
+      "en": "",
+      "ar": ""
+    },
+    "page.0012": {
+      "tr": "Çay Saati Servis Takımları",
+      "en": "",
+      "ar": ""
+    },
+    "page.0013": {
+      "tr": "Tüm Ürünler",
+      "en": "",
+      "ar": ""
+    },
+    "page.0014": {
+      "tr": "Özel Koleksiyonlar",
+      "en": "",
+      "ar": ""
+    },
+    "page.0015": {
+      "tr": "HM 1864 Serisi",
+      "en": "",
+      "ar": ""
+    },
+    "page.0016": {
+      "tr": "Özel Seri 1",
+      "en": "",
+      "ar": ""
+    },
+    "page.0017": {
+      "tr": "Özel Seri 2",
+      "en": "",
+      "ar": ""
+    },
+    "page.0018": {
+      "tr": "Özel Seri 3",
+      "en": "",
+      "ar": ""
+    },
+    "page.0019": {
+      "tr": "HM1864 Baklava Serisi",
+      "en": "",
+      "ar": ""
+    },
+    "page.0020": {
+      "tr": "Kurumsal Hediyeler",
+      "en": "",
+      "ar": ""
+    },
+    "page.0021": {
+      "tr": "Kurumsal",
+      "en": "",
+      "ar": ""
+    },
+    "page.0022": {
+      "tr": "İlke ve Değerlerimiz",
+      "en": "",
+      "ar": ""
+    },
+    "page.0023": {
+      "tr": "Politikalarımız",
+      "en": "",
+      "ar": ""
+    },
+    "page.0024": {
+      "tr": "Yönetim Kurulu",
+      "en": "",
+      "ar": ""
+    },
+    "page.0025": {
+      "tr": "Etik İlkeler ve Uyum Politikaları",
+      "en": "",
+      "ar": ""
+    },
+    "page.0026": {
+      "tr": "Kariyer",
+      "en": "",
+      "ar": ""
+    },
+    "page.0027": {
+      "tr": "Sertifikalarımız",
+      "en": "",
+      "ar": ""
+    },
+    "page.0028": {
+      "tr": "Medya Merkezi",
+      "en": "",
+      "ar": ""
+    },
+    "page.0029": {
+      "tr": "Asirlik Miras",
+      "en": "",
+      "ar": ""
+    },
+    "page.0030": {
+      "tr": "Başkanın Mesajı",
+      "en": "",
+      "ar": ""
+    },
+    "page.0031": {
+      "tr": "Eşsiz Hikâyemiz",
+      "en": "",
+      "ar": ""
+    },
+    "page.0032": {
+      "tr": "Dönüm Noktaları",
+      "en": "",
+      "ar": ""
+    },
+    "page.0033": {
+      "tr": "Başarı ve Ödüllerimiz",
+      "en": "",
+      "ar": ""
+    },
+    "page.0034": {
+      "tr": "Madalyalarımız",
+      "en": "",
+      "ar": ""
+    },
+    "page.0035": {
+      "tr": "Destek",
+      "en": "",
+      "ar": ""
+    },
+    "page.0036": {
+      "tr": "Müşteri Hizmetleri",
+      "en": "",
+      "ar": ""
+    },
+    "page.0037": {
+      "tr": "Çözüm Merkezi",
+      "en": "",
+      "ar": ""
+    },
+    "page.0038": {
+      "tr": "İşlem Rehberi",
+      "en": "",
+      "ar": ""
+    },
+    "page.0039": {
+      "tr": "Güvenli Alışveriş Kılavuzu",
+      "en": "",
+      "ar": ""
+    },
+    "page.0040": {
+      "tr": "Sıkça Sorulan Sorular",
+      "en": "",
+      "ar": ""
+    },
+    "page.0041": {
+      "tr": "İptal & İade Koşulları",
+      "en": "",
+      "ar": ""
+    },
+    "page.0042": {
+      "tr": "Teslimat Koşulları",
+      "en": "",
+      "ar": ""
+    },
+    "page.0043": {
+      "tr": "Sozlesmeler",
+      "en": "",
+      "ar": ""
+    },
+    "page.0044": {
+      "tr": "Kişisel Verilerin Korunması",
+      "en": "",
+      "ar": ""
+    },
+    "page.0045": {
+      "tr": "Bilgi Güvenliği Politikası",
+      "en": "",
+      "ar": ""
+    },
+    "page.0046": {
+      "tr": "Gizlilik Bildirgesi",
+      "en": "",
+      "ar": ""
+    },
+    "page.0047": {
+      "tr": "Satış Sözleşmesi",
+      "en": "",
+      "ar": ""
+    },
+    "page.0048": {
+      "tr": "Üyelik Koşulları",
+      "en": "",
+      "ar": ""
+    },
+    "page.0049": {
+      "tr": "Çerez Politikası",
+      "en": "",
+      "ar": ""
+    },
+    "page.0050": {
+      "tr": "İletişim",
+      "en": "",
+      "ar": ""
+    },
+    "page.0051": {
+      "tr": "Deneyim Alanları",
+      "en": "",
+      "ar": ""
+    },
+    "page.0052": {
+      "tr": "Sepetim",
+      "en": "",
+      "ar": ""
+    },
+    "page.0053": {
+      "tr": "Siparişi Tamamla",
+      "en": "",
+      "ar": ""
+    },
+    "page.0054": {
+      "tr": "Sipariş Sonucu",
+      "en": "",
+      "ar": ""
+    },
+    "page.0055": {
+      "tr": "Sipariş Takibi",
+      "en": "",
+      "ar": ""
+    },
+    "page.0056": {
+      "tr": "Hesabım",
+      "en": "",
+      "ar": ""
+    },
+    "page.0057": {
+      "tr": "Hesap Oluştur",
+      "en": "",
+      "ar": ""
+    },
+    "page.0058": {
+      "tr": "Şifremi Unuttum",
+      "en": "",
+      "ar": ""
+    },
+    "page.0059": {
+      "tr": "Adreslerim",
+      "en": "",
+      "ar": ""
+    },
+    "page.0060": {
+      "tr": "Siparişlerim",
+      "en": "",
+      "ar": ""
+    },
+    "page.0061": {
+      "tr": "Kişisel Bilgilerim",
+      "en": "",
+      "ar": ""
+    },
+    "page.0062": {
+      "tr": "İletişim Tercihlerim",
+      "en": "",
+      "ar": ""
+    },
+    "page.0063": {
+      "tr": "Arama Sonuçları",
+      "en": "",
+      "ar": ""
+    },
+    "page.0064": {
+      "tr": "Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0065": {
+      "tr": "Baklavalar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0066": {
+      "tr": "Fıstıklı Baklavalar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0067": {
+      "tr": "Cevizli Baklavalar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0068": {
+      "tr": "Lokumlar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0069": {
+      "tr": "Fitil Lokumlar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0070": {
+      "tr": "Duble Lokumlar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0071": {
+      "tr": "Çifte Kavrulmuş Lokumlar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0072": {
+      "tr": "Sultan Lokumlar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0073": {
+      "tr": "Aromalı Lokumlar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0074": {
+      "tr": "Kadayıflar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0075": {
+      "tr": "Fıstıklı Kadayıflar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0076": {
+      "tr": "Cevizli Kadayıflar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0077": {
+      "tr": "Lokumlu Kadayıflar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0078": {
+      "tr": "Kahveler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0079": {
+      "tr": "Türk Kahveleri — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0080": {
+      "tr": "Aromalı Türk Kahveleri — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0081": {
+      "tr": "Salep — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0082": {
+      "tr": "Çaylar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0083": {
+      "tr": "Siyah Çaylar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0084": {
+      "tr": "Bitki Çayları — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0085": {
+      "tr": "Meyve Çayları — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0086": {
+      "tr": "Drajeler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0087": {
+      "tr": "Aromalı & Baharatlı Drajeler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0088": {
+      "tr": "Çoklu Kaplamalı Drajeler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0089": {
+      "tr": "Sütlü Çikolatalı Drajeler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0090": {
+      "tr": "Miras Lezzetler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0091": {
+      "tr": "Helvalar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0092": {
+      "tr": "Ballar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0093": {
+      "tr": "Kuruyemişler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0094": {
+      "tr": "Kestane Şekerleri — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0095": {
+      "tr": "Sunum & Hediye Koleksiyonu — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0096": {
+      "tr": "Türk Kahvesi Servis Takımları — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0097": {
+      "tr": "Çay Saati Servis Takımları — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0098": {
+      "tr": "Pastalar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0099": {
+      "tr": "Çikolatalı Pastalar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0100": {
+      "tr": "Meyveli Pastalar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0101": {
+      "tr": "Çikolata & Meyveli Pastalar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0102": {
+      "tr": "Muhallebiler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0103": {
+      "tr": "Geleneksel Sütlü Tatlılar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0104": {
+      "tr": "Kazandibiler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0105": {
+      "tr": "Meyveli & Aromalı Muhallebiler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0106": {
+      "tr": "Özel Kup & Çikolatalı Tatlılar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0107": {
+      "tr": "Sezonluk Tatlılar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0108": {
+      "tr": "Geleneksel Meyve Tatlıları — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0109": {
+      "tr": "Güllaçlar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0110": {
+      "tr": "Özel Dönemsel Sütlüler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0111": {
+      "tr": "Trileçeler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0112": {
+      "tr": "Spesiyaller — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0113": {
+      "tr": "Dubai Serisi — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0114": {
+      "tr": "Afet-i Devran Serisi — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0115": {
+      "tr": "Humbara — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0116": {
+      "tr": "Kahvaltılıklar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0117": {
+      "tr": "Börekler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0118": {
+      "tr": "Kahvaltılar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0119": {
+      "tr": "Mağazalarımız",
+      "en": "",
+      "ar": ""
+    },
+    "page.0120": {
+      "tr": "Porta Vadi Mağazası",
+      "en": "",
+      "ar": ""
+    },
+    "page.0121": {
+      "tr": "Nişantaşı Mağazası",
+      "en": "",
+      "ar": ""
+    },
+    "page.0122": {
+      "tr": "Bahçekapı Mağazası",
+      "en": "",
+      "ar": ""
+    },
+    "page.0123": {
+      "tr": "Sirkeci Mağazası",
+      "en": "",
+      "ar": ""
+    },
+    "page.0124": {
+      "tr": "Edebiyat Kıraathanesi Mağazası",
+      "en": "",
+      "ar": ""
+    },
+    "page.0125": {
+      "tr": "Fıstıklı Dürüm",
+      "en": "",
+      "ar": ""
+    },
+    "page.0126": {
+      "tr": "Fıstıklı Baklava",
+      "en": "",
+      "ar": ""
+    },
+    "page.0127": {
+      "tr": "Fıstıklı Havuç Dilim",
+      "en": "",
+      "ar": ""
+    },
+    "page.0128": {
+      "tr": "Fıstıklı Padişah",
+      "en": "",
+      "ar": ""
+    },
+    "page.0129": {
+      "tr": "Fıstıklı Saray Sarması",
+      "en": "",
+      "ar": ""
+    },
+    "page.0130": {
+      "tr": "Fıstıklı Dilber Dudağı",
+      "en": "",
+      "ar": ""
+    },
+    "page.0131": {
+      "tr": "Fıstıklı Sarı Burma",
+      "en": "",
+      "ar": ""
+    },
+    "page.0132": {
+      "tr": "Fıstıklı Prenses",
+      "en": "",
+      "ar": ""
+    },
+    "page.0133": {
+      "tr": "Cevizli Saray Sarma",
+      "en": "",
+      "ar": ""
+    },
+    "page.0134": {
+      "tr": "Cevizli Padişah",
+      "en": "",
+      "ar": ""
+    },
+    "page.0135": {
+      "tr": "Cevizli Sarı Burma",
+      "en": "",
+      "ar": ""
+    },
+    "page.0136": {
+      "tr": "Cevizli Kıvrım",
+      "en": "",
+      "ar": ""
+    },
+    "page.0137": {
+      "tr": "Gül Yapraklı Fıstıklı Duble Lokum",
+      "en": "",
+      "ar": ""
+    },
+    "page.0138": {
+      "tr": "Türk Kahvesi",
+      "en": "",
+      "ar": ""
+    },
+    "page.0139": {
+      "tr": "Altın Kahve",
+      "en": "",
+      "ar": ""
+    },
+    "page.0140": {
+      "tr": "Alaturka Kahve",
+      "en": "",
+      "ar": ""
+    },
+    "page.0141": {
+      "tr": "Damla Sakızlı Türk Kahvesi",
+      "en": "",
+      "ar": ""
+    },
+    "page.0142": {
+      "tr": "Site Haritası",
+      "en": "",
+      "ar": ""
+    },
+    "page.0143": {
+      "tr": "Sayfa Bulunamadı",
+      "en": "",
+      "ar": ""
+    },
+    "page.0144": {
+      "tr": "Krokanlı Lokumlar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0145": {
+      "tr": "Sultan Lokum — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0146": {
+      "tr": "Künefeler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0147": {
+      "tr": "Türk Kahvesi — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0148": {
+      "tr": "Aromalı Kahveler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0149": {
+      "tr": "Salepler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0150": {
+      "tr": "Meyveli Çayları — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0151": {
+      "tr": "Kahvaltılık — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0152": {
+      "tr": "İlaveler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0153": {
+      "tr": "Dondurmalar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0154": {
+      "tr": "Kaymaklar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0155": {
+      "tr": "Kuruyemişler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0156": {
+      "tr": "Soslar — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0157": {
+      "tr": "Pasta — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0158": {
+      "tr": "Trileçeler — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "page.0159": {
+      "tr": "Trileçe — Mağaza Menü",
+      "en": "",
+      "ar": ""
+    },
+    "region.country.TR": {
+      "tr": "Türkiye",
+      "en": "Turkey",
+      "ar": "تركيا"
+    },
+    "region.country.AE": {
+      "tr": "Birleşik Arap Emirlikleri",
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "region.country.GB": {
+      "tr": "Birleşik Krallık",
+      "en": "United Kingdom",
+      "ar": "المملكة المتحدة"
+    },
+    "region.country.DE": {
+      "tr": "Almanya",
+      "en": "Germany",
+      "ar": "ألمانيا"
+    },
+    "region.country.FR": {
+      "tr": "Fransa",
+      "en": "France",
+      "ar": "فرنسا"
+    },
+    "region.country.US": {
+      "tr": "Amerika Birleşik Devletleri",
+      "en": "United States",
+      "ar": "الولايات المتحدة"
+    },
+    "ui.copy.001": {
+      "tr": "İçeriğe geç",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.002": {
+      "tr": "Bu dönemin içeriği gelecek.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.003": {
+      "tr": "AYNI KATEGORİDEKİ ÜRÜNLER",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.004": {
+      "tr": "Boyut seçin",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.005": {
+      "tr": "SEPETE EKLE",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.006": {
+      "tr": "Bu önizlemede sipariş ve ödeme servisi bağlı değildir.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.007": {
+      "tr": "İçindekiler ve alerjenler",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.008": {
+      "tr": "Besin değerleri",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.009": {
+      "tr": "Ülke",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.010": {
+      "tr": "Mağaza adı",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.011": {
+      "tr": "İNCELE",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.012": {
+      "tr": "İstanbul’un asırlık lezzet mirasına hoş geldiniz.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.013": {
+      "tr": "E-posta",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.014": {
+      "tr": "Parola",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.015": {
+      "tr": "GİRİŞ YAPIN",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.016": {
+      "tr": "HESAP OLUŞTUR",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.017": {
+      "tr": "Şifremi unuttum",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.018": {
+      "tr": "Sepetiniz henüz boş.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.019": {
+      "tr": "Sipariş ve ödeme servisi bağlı değildir.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.020": {
+      "tr": "LEZZETLERİ KEŞFET",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.021": {
+      "tr": "Katalog yüklenemedi",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.022": {
+      "tr": "YENİDEN DENE",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.023": {
+      "tr": "Hafız Mustafa 1864 · Yükleniyor…",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.024": {
+      "tr": "Bu listede ürün bulunamadı.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.025": {
+      "tr": "İsim: A–Z",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.026": {
+      "tr": "İsim: Z–A",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.027": {
+      "tr": "Liste sırası",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.028": {
+      "tr": "Menüyü kapat",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.029": {
+      "tr": "Ürün görselini büyüt",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.030": {
+      "tr": "Adedi azalt",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.031": {
+      "tr": "Adedi artır",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.032": {
+      "tr": "Adet",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.033": {
+      "tr": "Ürünleri sırala",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.034": {
+      "tr": "Bu kategoride ara",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.035": {
+      "tr": "Kapat",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.036": {
+      "tr": "Ürün ara",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.037": {
+      "tr": "Ürün adı veya kodu",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.038": {
+      "tr": "Hafız Mustafa seçkileri",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.039": {
+      "tr": "Bilgi eklenecek.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.040": {
+      "tr": "Gramaj bilgisi eklenecek.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.041": {
+      "tr": "Stok bilgisi eklenecek.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.042": {
+      "tr": "Stokta yok.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.043": {
+      "tr": "Alerjen bilgisi eklenecek.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.044": {
+      "tr": "Tanımlanmış alerjen bulunmuyor.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.045": {
+      "tr": "Servis önerisi",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.046": {
+      "tr": "Saklama koşulları",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.047": {
+      "tr": "Uzun süreli muhafaza",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.048": {
+      "tr": "Teslimat",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.049": {
+      "tr": "Ambalaj",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.050": {
+      "tr": "Üyelik servisi henüz bağlı değil.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.051": {
+      "tr": "Sayfa bulunamadı",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.052": {
+      "tr": "Aradığınız sayfa bulunamadı.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.053": {
+      "tr": "Bu ürün veya kategori seçtiğiniz bölgede sunulmuyor.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.054": {
+      "tr": "İçerik gelecek.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.055": {
+      "tr": "ÜRÜN SAYFASINA GİT",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.056": {
+      "tr": "ANA SAYFAYA DÖN",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.057": {
+      "tr": "Hesabınıza giriş yapın",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.058": {
+      "tr": "Menü",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.059": {
+      "tr": "Ürün görseli",
+      "en": "",
+      "ar": ""
+    },
+    "ui.copy.060": {
+      "tr": "Veri dosyaları yüklenemedi.",
+      "en": "",
+      "ar": ""
+    },
+    "ui.productCode": {
+      "tr": "Ürün kodu:",
+      "en": "Product code:",
+      "ar": "رمز المنتج:"
+    },
+    "ui.from": {
+      "tr": " itibaren",
+      "en": " and up",
+      "ar": " وما فوق"
+    },
+    "ui.pricePending": {
+      "tr": "Fiyat bilgisi eklenecek.",
+      "en": "Price to be added.",
+      "ar": "سيتم إضافة السعر."
+    },
+    "ui.countProducts": {
+      "tr": "{count} ürün",
+      "en": "{count} products",
+      "ar": "{count} منتجات"
+    },
+    "ui.countCategoriesProducts": {
+      "tr": "{categories} kategori · {products} ürün",
+      "en": "{categories} categories · {products} products",
+      "ar": "{categories} فئات · {products} منتجات"
+    },
+    "ui.columns": {
+      "tr": "{count} sütun",
+      "en": "{count} columns",
+      "ar": "{count} أعمدة"
+    },
+    "ui.imageNumber": {
+      "tr": "{count}. görsel",
+      "en": "Image {count}",
+      "ar": "الصورة {count}"
+    },
+    "ui.slideNumber": {
+      "tr": "{count}. slayta git",
+      "en": "Go to slide {count}",
+      "ar": "انتقل إلى الشريحة {count}"
+    },
+    "ui.pause": {
+      "tr": "Duraklat",
+      "en": "Pause",
+      "ar": "إيقاف مؤقت"
+    },
+    "ui.resume": {
+      "tr": "Devam",
+      "en": "Resume",
+      "ar": "متابعة"
+    },
+    "ui.stockCount": {
+      "tr": "Stok: {count}",
+      "en": "Stock: {count}",
+      "ar": "المخزون: {count}"
+    },
+    "ui.allergens": {
+      "tr": "Alerjenler: {items}",
+      "en": "Allergens: {items}",
+      "ar": "مسببات الحساسية: {items}"
+    },
+    "ui.infoPending": {
+      "tr": "Bilgi eklenecek",
+      "en": "Information to be added",
+      "ar": "سيتم إضافة المعلومات"
+    },
+    "ui.countStores": {
+      "tr": "{count} mağaza bulundu.",
+      "en": "{count} stores found.",
+      "ar": "تم العثور على {count} متاجر."
+    },
+    "ui.countFound": {
+      "tr": "{count} ürün bulundu",
+      "en": "{count} products found",
+      "ar": "تم العثور على {count} منتجات"
+    },
+    "ui.show": {
+      "tr": "Göster",
+      "en": "Show",
+      "ar": "إظهار"
+    },
+    "ui.hide": {
+      "tr": "Gizle",
+      "en": "Hide",
+      "ar": "إخفاء"
+    },
+    "ui.allCategory": {
+      "tr": "Tüm {name}",
+      "en": "All {name}",
+      "ar": "كل {name}"
+    },
+    "ui.cart": {
+      "tr": "Sepetim",
+      "en": "My cart",
+      "ar": "سلتي"
+    },
+    "ui.homeTitle": {
+      "tr": "Ana Sayfa",
+      "en": "Home",
+      "ar": "الرئيسية"
+    },
+    "ui.sku": {
+      "tr": " · SKU: ",
+      "en": " · SKU: ",
+      "ar": " · SKU: "
+    },
+    "ui.brandSuffix": {
+      "tr": " | Hafız Mustafa 1864",
+      "en": " | Hafız Mustafa 1864",
+      "ar": " | حافظ مصطفى 1864"
+    }
+  }
+}
