@@ -8918,7 +8918,9 @@
         "1000-01-02-balli-su-boregi",
         "1000-02-01-kahvalti-tabagi",
         "1000-02-02-bal-kaymak"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false
     },
     {
       "name": "Baklavalar",
@@ -8958,7 +8960,9 @@
         "100-02-11-cevizli-prenses",
         "100-02-12-cevizli-saray-sarma",
         "100-02-13-cevizli-sari-burma"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": true
     },
     {
       "name": "İlaveler",
@@ -8976,7 +8980,9 @@
         "1100-02-01-manda-sut-kaymagi",
         "1100-03-01-antep-fistigi",
         "1100-04-01-ala-sos"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false
     },
     {
       "name": "Lokumlar",
@@ -9022,7 +9028,9 @@
         "200-06-07-portakalli-lokum",
         "200-06-08-sade-lokum",
         "200-06-09-tarcinli-lokum"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": true
     },
     {
       "name": "Kadayıflar",
@@ -9045,7 +9053,9 @@
         "300-04-01-kunefe",
         "300-04-02-cikolatali-kunefe",
         "300-04-03-balli-kunefe"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": true
     },
     {
       "name": "Drajeler",
@@ -9062,7 +9072,9 @@
         "400-02-01-beyaz-sutlu-bitter-cikolata-kaplamali-badem-draje",
         "400-03-01-badem-sutlu-cikolata-draje",
         "400-03-02-kahve-cekirdekli-sutlu-cikolatali-draje"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false
     },
     {
       "name": "Pastalar",
@@ -9088,7 +9100,9 @@
         "500-01-15-sonsuz-ask",
         "500-01-16-buyuk-ask",
         "500-01-17-son-ask"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false
     },
     {
       "name": "Muhallebiler",
@@ -9121,7 +9135,9 @@
         "600-01-19-profiterol",
         "600-01-20-supangle",
         "600-01-21-sah-mat"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false
     },
     {
       "name": "Sezonluk Tatlılar",
@@ -9139,7 +9155,9 @@
         "600-02-05-safranli-gullac",
         "600-02-06-ayvali-sut-muhallebisi",
         "600-02-07-kabakli-sut-muhallebisi"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false
     },
     {
       "name": "Trileçeler",
@@ -9153,7 +9171,9 @@
         "600-03-03-kahveli-trilece",
         "600-03-04-karamelli-trilece",
         "600-03-05-safranli-trilece"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false
     },
     {
       "name": "Spesiyaller",
@@ -9173,7 +9193,9 @@
         "700-02-02-afet-i-devran-kadayif",
         "700-02-03-afet-i-devran-trilece",
         "700-03-01-humbara"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false
     },
     {
       "name": "Kahveler",
@@ -9190,7 +9212,9 @@
         "800-02-03-altin-kahve",
         "800-02-04-alaturka-kahve",
         "800-03-01-salep"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": true
     },
     {
       "name": "Çaylar",
@@ -9207,7 +9231,9 @@
         "900-01-05-nane-cayi",
         "900-02-01-elma-cayi",
         "900-02-02-nar-cayi"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": true
     },
     {
       "name": "Miras Lezzetler",
@@ -9219,7 +9245,9 @@
       "products": [
         "1300-01-01-fistikli-helva",
         "1300-01-02-kakaolu-helva"
-      ]
+      ],
+      "megaMenuOnline": true,
+      "highlightOnHeader": false
     }
   ],
   "subcategories": [
@@ -9230,7 +9258,8 @@
       "products": [
         "1000-01-01-su-boregi",
         "1000-01-02-balli-su-boregi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Kahvaltılıklar",
@@ -9239,7 +9268,8 @@
       "products": [
         "1000-02-01-kahvalti-tabagi",
         "1000-02-02-bal-kaymak"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Baklavalar",
@@ -9263,7 +9293,8 @@
         "100-01-15-fistikli-saray-sarmasi",
         "100-01-16-fistikli-sari-burma",
         "100-01-17-fistikli-sobiyet"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Baklavalar",
@@ -9283,7 +9314,8 @@
         "100-02-11-cevizli-prenses",
         "100-02-12-cevizli-saray-sarma",
         "100-02-13-cevizli-sari-burma"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "İlaveler",
@@ -9293,7 +9325,8 @@
         "1100-01-01-cikolatali-maras-kesme-dondurma",
         "1100-01-02-fistikli-maras-kesme-dondurma",
         "1100-01-03-sade-maras-kesme-dondurma"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "İlaveler",
@@ -9301,7 +9334,8 @@
       "url": "urunler/ilaveler/kaymaklar/index.html",
       "products": [
         "1100-02-01-manda-sut-kaymagi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "İlaveler",
@@ -9309,7 +9343,8 @@
       "url": "urunler/ilaveler/kuruyemisler/index.html",
       "products": [
         "1100-03-01-antep-fistigi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "İlaveler",
@@ -9317,7 +9352,8 @@
       "url": "urunler/ilaveler/soslar/index.html",
       "products": [
         "1100-04-01-ala-sos"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Lokumlar",
@@ -9332,7 +9368,8 @@
         "200-01-06-kivili-fistikli-fitil-lokum",
         "200-01-07-narli-fistikli-fitil-lokum",
         "200-01-08-portakalli-findikli-fitil-lokum"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Lokumlar",
@@ -9345,7 +9382,8 @@
         "200-02-04-kivili-fistikli-duble-lokum",
         "200-02-05-narli-fistikli-duble-lokum",
         "200-02-06-portakalli-findikli-duble-lokum"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Lokumlar",
@@ -9355,7 +9393,8 @@
         "200-03-01-cifte-kavrulmus-fistikli-lokum",
         "200-03-02-cifte-kavrulmus-narli-fistikli-lokum",
         "200-03-03-ekstra-cifte-kavrulmus-fistikli-lokum"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Lokumlar",
@@ -9364,7 +9403,8 @@
       "products": [
         "200-04-01-narli-fistikli-krokan-lokum",
         "200-04-02-portakalli-findikli-krokan-lokum"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Lokumlar",
@@ -9375,7 +9415,8 @@
         "200-05-02-cevizli-bandirma",
         "200-05-03-cikolatali-sultan-lokum",
         "200-05-04-fistikli-sultan-lokum"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Lokumlar",
@@ -9391,7 +9432,8 @@
         "200-06-07-portakalli-lokum",
         "200-06-08-sade-lokum",
         "200-06-09-tarcinli-lokum"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Kadayıflar",
@@ -9403,7 +9445,8 @@
         "300-01-03-fistikli-halep-burma",
         "300-01-04-fistikli-burma-kadayif",
         "300-01-05-fistikli-osmanli-saray-kadayifi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Kadayıflar",
@@ -9411,7 +9454,8 @@
       "url": "urunler/kadayiflar/cevizli-kadayiflar/index.html",
       "products": [
         "300-02-01-cevizli-osmanli-saray-kadayifi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Kadayıflar",
@@ -9420,7 +9464,8 @@
       "products": [
         "300-03-01-narli-lokumlu-osmanli-saray-kadayifi",
         "300-03-02-sultan-lokumlu-osmanli-saray-kadayifi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Kadayıflar",
@@ -9430,7 +9475,8 @@
         "300-04-01-kunefe",
         "300-04-02-cikolatali-kunefe",
         "300-04-03-balli-kunefe"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Drajeler",
@@ -9440,7 +9486,8 @@
         "400-01-01-damla-sakizli-badem-cikolata-draje",
         "400-01-02-tarcinli-findik-cikolata-draje",
         "400-01-03-tarcinli-badem-cikolata-draje"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Drajeler",
@@ -9448,7 +9495,8 @@
       "url": "urunler/drajeler/coklu-kaplamali-drajeler/index.html",
       "products": [
         "400-02-01-beyaz-sutlu-bitter-cikolata-kaplamali-badem-draje"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Drajeler",
@@ -9457,7 +9505,8 @@
       "products": [
         "400-03-01-badem-sutlu-cikolata-draje",
         "400-03-02-kahve-cekirdekli-sutlu-cikolatali-draje"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Pastalar",
@@ -9481,7 +9530,8 @@
         "500-01-15-sonsuz-ask",
         "500-01-16-buyuk-ask",
         "500-01-17-son-ask"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Muhallebiler",
@@ -9492,7 +9542,8 @@
         "600-01-02-firin-sutlac",
         "600-01-03-tavukgogsu",
         "600-01-04-zerde"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Muhallebiler",
@@ -9503,7 +9554,8 @@
         "600-01-06-safranli-kazandibi",
         "600-01-07-sakizli-kazandibi",
         "600-01-08-tavukgogsu-kazandibi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Muhallebiler",
@@ -9519,7 +9571,8 @@
         "600-01-15-karamelli-findikli-sut-muhallebisi",
         "600-01-16-keskul-u-fukara",
         "600-01-17-orman-meyveli-sut-muhallebisi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Muhallebiler",
@@ -9530,7 +9583,8 @@
         "600-01-19-profiterol",
         "600-01-20-supangle",
         "600-01-21-sah-mat"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Sezonluk Tatlılar",
@@ -9539,7 +9593,8 @@
       "products": [
         "600-02-01-ayva-tatlisi",
         "600-02-02-kabak-tatlisi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Sezonluk Tatlılar",
@@ -9549,7 +9604,8 @@
         "600-02-03-fistikli-gullac",
         "600-02-04-gullac",
         "600-02-05-safranli-gullac"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Sezonluk Tatlılar",
@@ -9558,7 +9614,8 @@
       "products": [
         "600-02-06-ayvali-sut-muhallebisi",
         "600-02-07-kabakli-sut-muhallebisi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Trileçeler",
@@ -9570,7 +9627,8 @@
         "600-03-03-kahveli-trilece",
         "600-03-04-karamelli-trilece",
         "600-03-05-safranli-trilece"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Spesiyaller",
@@ -9581,7 +9639,8 @@
         "700-01-02-dubai-gun-batimi",
         "700-01-03-dubai-hikayesi",
         "700-01-04-dubai-zamani"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Spesiyaller",
@@ -9592,7 +9651,8 @@
         "700-02-01-cikolatali-afet-i-devran",
         "700-02-02-afet-i-devran-kadayif",
         "700-02-03-afet-i-devran-trilece"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Spesiyaller",
@@ -9600,7 +9660,8 @@
       "url": "urunler/spesiyaller/humbara/index.html",
       "products": [
         "700-03-01-humbara"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Kahveler",
@@ -9608,7 +9669,8 @@
       "url": "urunler/kahveler/turk-kahvesi/index.html",
       "products": [
         "800-01-01-turk-kahvesi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Kahveler",
@@ -9619,7 +9681,8 @@
         "800-02-02-anadolu-kahvesi",
         "800-02-03-altin-kahve",
         "800-02-04-alaturka-kahve"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Kahveler",
@@ -9627,7 +9690,8 @@
       "url": "urunler/kahveler/salepler/index.html",
       "products": [
         "800-03-01-salep"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Çaylar",
@@ -9639,7 +9703,8 @@
         "900-01-03-ihlamur",
         "900-01-04-kis-cayi",
         "900-01-05-nane-cayi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Çaylar",
@@ -9648,7 +9713,8 @@
       "products": [
         "900-02-01-elma-cayi",
         "900-02-02-nar-cayi"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Miras Lezzetler",
@@ -9657,13 +9723,15 @@
       "products": [
         "1300-01-01-fistikli-helva",
         "1300-01-02-kakaolu-helva"
-      ]
+      ],
+      "megaMenuOnline": true
     },
     {
       "category": "Miras Lezzetler",
       "name": "Ballar",
       "url": "urunler/miras-lezzetler/ballar/index.html",
-      "products": []
+      "products": [],
+      "megaMenuOnline": true
     }
   ],
   "warnings": {

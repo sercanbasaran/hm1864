@@ -16,6 +16,7 @@ Terminalde gösterilen yerel adrese gidin. Yayın dosyalarını üretmek için `
 ## Katalog ve sayfalar
 
 - `public/assets/data/products.json`: ürün adı, kodu, kategori, URL, açıklama, görsel, fiyat, stok, varyant, alerjen ve besin bilgileri için tek kaynak. Eksik alanlarda arayüz “bilgi eklenecek” mesajı gösterir. Doğrulanmamış fiyat, içerik veya besin değeri üretilmemiştir.
+- `categories` listesindeki `megaMenuOnline` alanı kategorinin **Online Menü** ve mobil menüde görünmesini, `highlightOnHeader` alanı üstteki altın kategori barında ayrıca gösterilmesini belirler. `subcategories` listesindeki `megaMenuOnline` alt kategorinin Online Menü ve mobil menüde görünmesini belirler. Her alan JSON `true`/`false` değerini alır; örneğin `"megaMenuOnline": true`. Üst bardaki sıralama `categories` listesinin sırasını izler. `highlightOnHeader: true` için aynı kategoride `megaMenuOnline: true` olmalıdır. **Mağaza Menü** sekmesi tüm kategorileri göstermeye devam eder. Bu alanlar ürün sayfalarını silmez veya gizlemez.
 - `src/model.js`: katalog normalizasyonu, arama ve URL eşlemesi.
 - `src/main.jsx`: React bileşenleri, sayfa şablonları ve etkileşimler.
 - `src/style.css`: tasarım ve responsive stiller.
