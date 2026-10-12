@@ -1,8 +1,7 @@
 {
   "schemaVersion": 1,
   "categoryId": "pastalar",
-  "products": [
-    {
+  "products": [{
       "code": "500.0101",
       "key": "500-0101-lotus-kulesi",
       "url": "urunler/pastalar/biskuvili-pastalar/lotus-kulesi.html",
@@ -15,8 +14,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/biskuvili-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -27,15 +25,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0101.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0101_01.png"
+            "pastalar/500_0101_01.png",
+            "pastalar/500_0101_02.png"
           ]
         },
         {
@@ -64,8 +62,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cikolatali-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -76,15 +73,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0201.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0201_01.png"
+            "pastalar/500_0201_01.png",
+            "pastalar/500_0201_02.png"
           ]
         },
         {
@@ -113,8 +110,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cikolatali-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -125,15 +121,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0202.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0202_01.png"
+            "pastalar/500_0202_01.png",
+            "pastalar/500_0202_02.png"
           ]
         },
         {
@@ -162,8 +158,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cikolatali-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -174,15 +169,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0203.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0203_01.png"
+            "pastalar/500_0203_01.png",
+            "pastalar/500_0203_02.png"
           ]
         },
         {
@@ -211,8 +206,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cilekli-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -223,15 +217,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0301.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0301_01.png"
+            "pastalar/500_0301_01.png",
+            "pastalar/500_00301_02.png"
           ]
         },
         {
@@ -260,8 +254,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cilekli-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -272,15 +265,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0302.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0302_01.png"
+            "pastalar/500_0302_01.png",
+            "pastalar/500_0302_02.png"
           ]
         },
         {
@@ -309,8 +302,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cilekli-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -321,15 +313,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0303.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0303_01.png"
+            "pastalar/500_0303_01.png",
+            "pastalar/500_0303_02.png"
           ]
         },
         {
@@ -358,8 +350,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cilekli-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -370,15 +361,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0304.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0304_01.png"
+            "pastalar/500_0304_01.png",
+            "pastalar/500_0304_02.png"
           ]
         },
         {
@@ -407,8 +398,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/fistikli-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -419,15 +409,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0401.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0401_01.png"
+            "pastalar/500_0401_01.png",
+            "pastalar/500_0401_02.png"
           ]
         },
         {
@@ -456,8 +446,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/frambuazli-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -468,15 +457,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.05.01.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0501_01.png"
+            "pastalar/500_0501_01.png",
+            "pastalar/500_0501_02.png"
           ]
         },
         {
@@ -505,8 +494,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/frambuazli-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -517,15 +505,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0502.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0502_01.png"
+            "pastalar/500_0502_01.png",
+            "pastalar/500_0502_02.png"
           ]
         },
         {
@@ -554,8 +542,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/karisik-meyveli-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -566,15 +553,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0601.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0601_01.png"
+            "pastalar/500_0601_01.png",
+            "pastalar/500_0601_02.png"
           ]
         },
         {
@@ -603,8 +590,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/karisik-meyveli-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -615,15 +601,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0602.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0602_01.png"
+            "pastalar/500_0602_01.png",
+            "pastalar/500_0602_02.png"
           ]
         },
         {
@@ -652,8 +638,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/muzlu-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -664,15 +649,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0701.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0701_01.png"
+            "pastalar/500_0701_01.png",
+            "pastalar/500_0701_02.png"
           ]
         },
         {
@@ -701,8 +686,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/muzlu-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -713,15 +697,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0702.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0702_01.png"
+            "pastalar/500_0702_01.png",
+            "pastalar/500_0702_02.png"
           ]
         },
         {
@@ -750,8 +734,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/muzlu-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -762,15 +745,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0703.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0703_01.png"
+            "pastalar/500_0703_01.png",
+            "pastalar/500_0703_02.png"
           ]
         },
         {
@@ -799,8 +782,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/orman-meyveli-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -811,15 +793,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0801.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0801_01.png"
+            "pastalar/500_0801_01.png",
+            "pastalar/500_0801_02.png"
           ]
         },
         {
@@ -848,8 +830,7 @@
       "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/orman-meyveli-pastalar",
-      "editorial": [
-        {
+      "editorial": [{
           "type": "story",
           "enabled": true,
           "image": ""
@@ -860,15 +841,15 @@
           "image": ""
         }
       ],
-      "variants": [
-        {
+      "variants": [{
           "code": "dilim",
           "sku": "500.0802.01",
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0802_01.png"
+            "pastalar/500_0802_01.png",
+            "pastalar/500_0802_02.png"
           ]
         },
         {
