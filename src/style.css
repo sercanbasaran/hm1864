@@ -4256,3 +4256,26 @@ dialog[open] {
 }
 
 .nearest-store-button{margin-top:18px}.store-locator-dialog{width:min(1100px,calc(100vw - 32px));max-width:1100px;max-height:calc(100dvh - 32px);overflow-y:auto;padding:52px 24px 24px}.store-locator-dialog .store-locator{padding:0;max-width:100%;margin:0}.store-locator-dialog .store-results{max-height:55vh;overflow-y:auto}.store-locator-dialog .store-list h2{font-size:24px}.store-locator-dialog .map-panel{min-height:280px}@media(max-width:767px){.store-locator-dialog{padding:50px 16px 20px;width:calc(100vw - 24px)}.store-locator-dialog .store-locator{grid-template-columns:1fr}.store-locator-dialog .map-panel{min-height:160px}.store-locator-dialog .store-results{max-height:none}}
+
+/* Mobile layout corrections */
+button,.button,input[type=submit],input[type=button]{border-radius:3px}
+.product-detail,.product-detail>div,.product-info,.product-main-image,.product-gallery{min-width:0;max-width:100%}
+.product-detail{grid-template-columns:minmax(0,58fr) minmax(0,42fr)}
+.product-main-image .media,.product-main-image .media.asset-loaded img{width:100%;max-width:100%}
+.product-main-image .media.asset-loaded img{height:100%;object-fit:contain;position:static}
+.product-info{overflow-wrap:anywhere}
+@media(max-width:767px){
+.header-brandbar .header-safe{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:4px}
+.header-left,.header-right{min-width:0;gap:4px}
+.header-left .mobile-toggle{display:none}
+.header-logo{width:clamp(100px,32vw,141px);max-width:100%}
+.header-gold .icon-button{width:40px;min-width:40px;padding:8px}
+.header-categories{max-width:100%}
+.header-categories .header-safe{width:100%;max-width:100%;padding-inline:16px;justify-content:flex-start;overflow-x:auto;overscroll-behavior-x:contain;white-space:nowrap}
+.header-gold .nav-button{white-space:nowrap;flex:0 0 auto}
+.product-detail{display:grid;grid-template-columns:minmax(0,1fr);width:100%;padding:20px 16px 48px}
+.product-info{padding:20px 0 0}
+.product-main-image{width:100%;max-width:100%}
+.product-gallery{max-width:100%;overflow-x:auto}
+.product-editorial,.breadcrumb,.catalog-detail{max-width:100%}
+}
