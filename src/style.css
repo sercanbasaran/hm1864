@@ -4139,7 +4139,8 @@ dialog[open] {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 16px
+  gap: 16px;
+  width: 100%;
 }
 
 .order-platforms>a,
