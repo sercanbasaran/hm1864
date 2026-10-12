@@ -32,8 +32,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0101_01.png",
-            "pastalar/500_0101_02.png"
+            "pastalar/500_0101_01.png"
           ]
         },
         {
@@ -42,7 +41,7 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": ["pastalar/500_0101_02.png"]
         }
       ],
       "legacyKeys": [
@@ -80,8 +79,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0201_01.png",
-            "pastalar/500_0201_02.png"
+            "pastalar/500_0201_01.png"
           ]
         },
         {
@@ -90,7 +88,7 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": ["pastalar/500_0201_02.png"]
         }
       ],
       "legacyKeys": [
@@ -128,8 +126,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0202_01.png",
-            "pastalar/500_0202_02.png"
+            "pastalar/500_0202_01.png"
           ]
         },
         {
@@ -138,7 +135,9 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": [
+            "pastalar/500_0202_02.png"
+          ]
         }
       ],
       "legacyKeys": [
@@ -176,8 +175,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0203_01.png",
-            "pastalar/500_0203_02.png"
+            "pastalar/500_0203_01.png"
           ]
         },
         {
@@ -186,7 +184,9 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": [
+            "pastalar/500_0203_02.png"
+          ]
         }
       ],
       "legacyKeys": [
@@ -224,8 +224,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0301_01.png",
-            "pastalar/500_00301_02.png"
+            "pastalar/500_0301_01.png"
           ]
         },
         {
@@ -234,7 +233,9 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": [
+            "pastalar/500_0301_02.png"
+          ]
         }
       ],
       "legacyKeys": [
@@ -272,8 +273,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0302_01.png",
-            "pastalar/500_0302_02.png"
+            "pastalar/500_0302_01.png"
           ]
         },
         {
@@ -282,7 +282,9 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": [
+            "pastalar/500_0302_02.png"
+          ]
         }
       ],
       "legacyKeys": [
@@ -320,8 +322,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0303_01.png",
-            "pastalar/500_0303_02.png"
+            "pastalar/500_0303_01.png"
           ]
         },
         {
@@ -330,7 +331,9 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": [
+            "pastalar/500_0303_02.png"
+          ]
         }
       ],
       "legacyKeys": [
@@ -368,8 +371,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0304_01.png",
-            "pastalar/500_0304_02.png"
+            "pastalar/500_0304_01.png"
           ]
         },
         {
@@ -378,7 +380,9 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": [
+            "pastalar/500_0304_02.png"
+          ]
         }
       ],
       "legacyKeys": [
@@ -416,8 +420,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0401_01.png",
-            "pastalar/500_0401_02.png"
+            "pastalar/500_0401_01.png"
           ]
         },
         {
@@ -426,7 +429,9 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": [
+            "pastalar/500_0401_02.png"
+          ]
         }
       ],
       "legacyKeys": [
@@ -464,8 +469,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0501_01.png",
-            "pastalar/500_0501_02.png"
+            "pastalar/500_0501_01.png"
           ]
         },
         {
@@ -474,7 +478,9 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": [
+            "pastalar/500_0501_01.png"
+          ]
         }
       ],
       "legacyKeys": [
@@ -512,8 +518,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0502_01.png",
-            "pastalar/500_0502_02.png"
+            "pastalar/500_0502_01.png"
           ]
         },
         {
@@ -522,7 +527,9 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": [
+            "pastalar/500_0502_02.png"
+          ]
         }
       ],
       "legacyKeys": [
@@ -560,8 +567,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0601_01.png",
-            "pastalar/500_0601_02.png"
+            "pastalar/500_0601_01.png"
           ]
         },
         {
@@ -570,7 +576,9 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": [
+            "pastalar/500_0601_02.png"
+          ]
         }
       ],
       "legacyKeys": [
@@ -608,8 +616,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0602_01.png",
-            "pastalar/500_0602_02.png"
+            "pastalar/500_0602_01.png"
           ]
         },
         {
@@ -618,7 +625,7 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": ["pastalar/500_0602_02.png"]
         }
       ],
       "legacyKeys": [
@@ -656,8 +663,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0701_01.png",
-            "pastalar/500_0701_02.png"
+            "pastalar/500_0701_01.png"
           ]
         },
         {
@@ -666,7 +672,9 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": [
+            "pastalar/500_0701_02.png"
+          ]
         }
       ],
       "legacyKeys": [
@@ -704,8 +712,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0702_01.png",
-            "pastalar/500_0702_02.png"
+            "pastalar/500_0702_01.png"
           ]
         },
         {
@@ -714,7 +721,7 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": ["pastalar/500_0702_02.png"]
         }
       ],
       "legacyKeys": [
@@ -752,8 +759,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0703_01.png",
-            "pastalar/500_0703_02.png"
+            "pastalar/500_0703_01.png"
           ]
         },
         {
@@ -762,7 +768,9 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": [
+            "pastalar/500_0703_02.png"
+          ]
         }
       ],
       "legacyKeys": [
@@ -800,8 +808,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0801_01.png",
-            "pastalar/500_0801_02.png"
+            "pastalar/500_0801_01.png"
           ]
         },
         {
@@ -810,7 +817,7 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": ["pastalar/500_0801_02.png"]
         }
       ],
       "legacyKeys": [
@@ -848,8 +855,7 @@
           "onlineSale": false,
           "commonMarket": true,
           "images": [
-            "pastalar/500_0802_01.png",
-            "pastalar/500_0802_02.png"
+            "pastalar/500_0802_01.png"
           ]
         },
         {
@@ -858,7 +864,7 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": ["pastalar/500_0802_02.png"]
         }
       ]
     }
