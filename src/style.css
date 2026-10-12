@@ -4151,8 +4151,8 @@ dialog[open] {
   width: 160px;
   height: 70px;
   padding: 12px;
-  background: white;
-  border: 1px solid #e5e5e5
+  /* background: white; */
+ /*  border: 1px solid #e5e5e5 */
 }
 
 .order-platforms img {

@@ -4,14 +4,14 @@
     {
       "id": "yemeksepeti",
       "name": "Yemeksepeti",
-      "logo": "/assets/images/medya/platformlar/yemeksepeti.svg",
-      "url": ""
+      "logo": "/assets/images/medya/platformlar/yemeksepeti.png",
+      "url": "https://www.yemeksepeti.com/restaurant/xvqf/hafiz-mustafa-1864"
     },
     {
       "id": "ubereats",
       "name": "Uber Eats",
       "logo": "/assets/images/medya/platformlar/ubereats.svg",
-      "url": ""
+      "url": "https://www.ubereats.com/gb/store/hafiz-mustafa-1864/lpK8LcK6UKakDpewU7eKww?srsltid=AU7gw4WHjfcEmXCzdp1i17Drtu4D4zkbyxq_Ps0vnanNvdena515-b_k"
     }
   ]
 }

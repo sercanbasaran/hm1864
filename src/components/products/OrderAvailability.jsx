@@ -12,9 +12,9 @@ export default function OrderAvailability() {
       className="order-availability"
       aria-label={plainText(t("ui.storeOnlyTitle"))}
     >
-      <h3>
+     {/*  <h3>
         <RichText value={t("ui.storeOnlyTitle")} />
-      </h3>
+      </h3> */}
       <p>
         <RichText value={t("ui.storeOnlyNote")} />
       </p>
@@ -23,7 +23,7 @@ export default function OrderAvailability() {
           const logo = (
             <>
               <img src={platform.logo} alt={platform.name} />
-              <span>{platform.name}</span>
+              {/* <span>{platform.name}</span> */}
             </>
           );
           return platform.url ? (

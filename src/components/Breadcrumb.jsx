@@ -11,7 +11,7 @@ export default function Breadcrumb({ items = [] }) {
     <nav className="breadcrumb" aria-label={plainText(t("template.0164"))}>
       {items.map((item, index) => (
         <React.Fragment key={item.url || "current"}>
-          {index > 0 && <span aria-hidden="true">&gt;</span>}
+          {index > 0 && <span aria-hidden="true">-</span>}
           {item.current ? (
             <span aria-current="page">
               <RichText value={item.label} />
