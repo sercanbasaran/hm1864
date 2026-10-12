@@ -108,3 +108,7 @@ dialog{border:0;padding:35px;background:#fff;color:var(--text);max-width:calc(10
   #main>.catalog-hero{padding-inline:max(30px,calc((100% - 1280px)/2 + 30px))}
   .footer-main>.footer-grid,.footer-bottom{width:100%;max-width:1280px;margin-inline:auto}
 }
+
+/* Market selector remains usable with long country and region names. */
+.header-service .header-safe{min-width:0;gap:12px}.header-service button{min-width:0;max-width:100%}.header-service .region-summary{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.header-service .service-links{flex:none}
+.region-dialog{max-height:calc(100dvh - 24px);overflow-y:auto}.region-dialog form{display:grid;gap:10px;text-align:left}.region-dialog form label{display:block}.region-dialog form label>select,.region-dialog form label>input{display:block;width:100%;min-height:42px;margin-top:6px}.region-dialog form .form-note{margin:0}.region-dialog form>.button{margin-top:8px}

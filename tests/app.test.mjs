@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import {Window} from 'happy-dom';
 import {validate,choice,cardPrice,money,match,resolve,menuCategories,menuSubcategories} from '../src/model.js';
-import {validateRegions,validateRegionalCatalog,normalizePreferences,regionalCatalog} from '../src/market.js';
+import {validateRegions,validateRegionalCatalog,normalizePreferences,regionalCatalog,countryDefaults} from '../src/market.js';
 import {validateContent,translate,formatText,templateText} from '../src/i18n.js';
 const data=JSON.parse(await fs.readFile('public/assets/data/products.json','utf8'));
 const rawRegions=JSON.parse(await fs.readFile('public/assets/data/regions.json','utf8'));
@@ -11,14 +11,14 @@ const content=validateContent(JSON.parse(await fs.readFile('public/assets/data/c
 const regions=validateRegions(rawRegions,content.languages);
 const routes=JSON.parse(await fs.readFile('src/routes.json','utf8'));
 const templateJSON=await fs.readFile('src/templates.json','utf8');
-test('catalogue, all 376 routes, and variant data are retained',()=>{validate(data);assert.equal(data.products.length,163);assert.equal(data.products.filter(p=>p.variants.length).length,79);for(const url of Object.keys(routes))assert.ok(resolve('/'+url,data,routes));for(const p of data.products){assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);assert.equal(resolve('/'+p.url.replace(/\.html$/,''),data,routes).product.key,p.key);}assert.equal(resolve('/unknown.html',data,routes).kind,'404');assert.ok(match(data.products.find(p=>p.code==='100-01-02'),'FISTIKLI'));const p={...data.products[0],price:100,stock:5,variants:[{code:'S',price:0,stock:0}]};assert.equal(choice(p,'S').price,0);assert.equal(choice(p,'S').stock,0);});
+test('catalogue, all 376 routes, and variant data are retained',()=>{validate(data);assert.equal(data.products.length,163);assert.equal(data.products.filter(p=>p.variants.length).length,80);for(const url of Object.keys(routes))assert.ok(resolve('/'+url,data,routes));for(const p of data.products){assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);assert.equal(resolve('/'+p.url.replace(/\.html$/,''),data,routes).product.key,p.key);}assert.equal(resolve('/unknown.html',data,routes).kind,'404');assert.ok(match(data.products.find(p=>p.code==='100-01-02'),'FISTIKLI'));const p={...data.products[0],price:100,stock:5,variants:[{code:'S',price:0,stock:0}]};assert.equal(choice(p,'S').price,0);assert.equal(choice(p,'S').stock,0);});
 test('region preferences, localized names and explicit product availability',()=>{
  validateRegions(rawRegions,content.languages);
- assert.deepEqual(normalizePreferences({country:'Türkiye',language:'Türkçe'},regions,content),{country:'TR',language:'tr',currency:'TRY'});
+ assert.deepEqual(normalizePreferences({country:'Türkiye',language:'Türkçe'},regions,content),{group:'turkey',country:'TR',language:'tr',currency:'TRY'});
  assert.equal(normalizePreferences({country:'XX',language:'en'},regions,content),null);
- assert.deepEqual(normalizePreferences({country:'AE',language:'tr',currency:'GBP'},regions,content),{country:'AE',language:'tr',currency:'GBP'});
+ assert.deepEqual(normalizePreferences({country:'AE',language:'tr',currency:'GBP'},regions,content),{group:'gcc',country:'AE',language:'tr',currency:'GBP'});
  assert.equal(normalizePreferences({country:'AE',language:'en',currency:'XXX'},regions,content),null);
- assert.equal(regions.countries.find(c=>c.code==='AE').defaultCurrency,'AED');
+ assert.equal(countryDefaults(regions,'AE').currency,'AED');
  const sample=structuredClone(data),product=sample.products[0];
  product.markets=['TR'];product.translations={en:{name:'Water Börek'}};
  sample.categories[0].translations={en:{name:'Breakfast'}};
@@ -33,6 +33,9 @@ test('region preferences, localized names and explicit product availability',()=
  assert.ok(!ae.products.some(p=>p.key===product.key));
  assert.equal(ae.products.length,sample.products.length-1);
  assert.equal(sample.products[0].name,'Su Böreği');
+ product.markets=['gcc'];validateRegionalCatalog(sample,regions);
+ assert.ok(regionalCatalog(sample,{country:'AE',language:'en'},regions).products.some(p=>p.key===product.key));
+ assert.ok(!regionalCatalog(sample,{country:'TR',language:'en'},regions).products.some(p=>p.key===product.key));
  assert.throws(()=>validateRegionalCatalog({...sample,products:[{...product,pricesByCurrency:{USD:-1}}]},regions));
 });
 const wait=()=>new Promise(r=>setTimeout(r,50));
@@ -61,17 +64,21 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  window.eval(js);await wait();await wait();
  assert.ok(window.document.querySelector('dialog.region-dialog[open]'));
  assert.equal(window.document.querySelector('.region-dialog .dialog-close'),null);
+ window.document.querySelector('.region-dialog select[name="group"]').value='gcc';
+ window.document.querySelector('.region-dialog select[name="group"]').dispatchEvent(new window.Event('change',{bubbles:true}));await wait();
  window.document.querySelector('.region-dialog select[name="country"]').value='AE';
  window.document.querySelector('.region-dialog select[name="country"]').dispatchEvent(new window.Event('change',{bubbles:true}));await wait();
  assert.equal(window.document.querySelector('.region-dialog select[name="currency"]').value,'AED');
  window.document.querySelector('.region-dialog select[name="language"]').value='en';
  window.document.querySelector('.region-dialog select[name="language"]').dispatchEvent(new window.Event('change',{bubbles:true}));await wait();
  window.document.querySelector('.region-dialog form button[type="submit"]').click();await wait();
- assert.deepEqual(JSON.parse(window.localStorage.getItem('hm1864.react.preferences')),{country:'AE',language:'en',currency:'AED'});
+ assert.deepEqual(JSON.parse(window.localStorage.getItem('hm1864.react.preferences')),{group:'gcc',country:'AE',language:'en',currency:'AED'});
  assert.equal(window.document.documentElement.lang,'en');
  window.document.querySelector('[aria-label="Arama"]').click();await wait();assert.equal(window.document.querySelectorAll('.search-result').length,162);
  window.document.querySelector('[aria-label="Kapat"]').click();await wait();
  window.document.querySelector('.header-service button').click();await wait();
+ window.document.querySelector('.region-dialog select[name="group"]').value='turkey';
+ window.document.querySelector('.region-dialog select[name="group"]').dispatchEvent(new window.Event('change',{bubbles:true}));await wait();
  window.document.querySelector('.region-dialog select[name="country"]').value='TR';
  window.document.querySelector('.region-dialog select[name="country"]').dispatchEvent(new window.Event('change',{bubbles:true}));await wait();
  window.document.querySelector('.region-dialog form button[type="submit"]').click();await wait();
@@ -100,7 +107,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  window.document.querySelector('.region-dialog select[name="currency"]').value='USD';
  window.document.querySelector('.region-dialog select[name="currency"]').dispatchEvent(new window.Event('change',{bubbles:true}));await wait();
  window.document.querySelector('.region-dialog form button[type="submit"]').click();await wait();
- assert.deepEqual(JSON.parse(window.localStorage.getItem('hm1864.react.preferences')),{country:'TR',language:'tr',currency:'USD'});
+ assert.deepEqual(JSON.parse(window.localStorage.getItem('hm1864.react.preferences')),{group:'turkey',country:'TR',language:'tr',currency:'USD'});
  assert.match(window.document.querySelector('.detail-price').textContent,/9[,.]99/);
  assert.match(window.document.querySelector('.header-service button').textContent,/USD/);
 
@@ -133,4 +140,19 @@ test('currency selection uses explicit prices, never invents exchange rates',()=
  assert.equal(cardPrice(p,'No AED price','','AED','en'),'No AED price');
  assert.match(money(6,'USD','','en'),/\$/);
  assert.equal(choice({...p,variants:[]},'','USD').price,5);
+});
+
+test('the market matrix covers every example country with valid defaults and overrides',()=>{
+ assert.equal(regions.groups.length,16);assert.equal(regions.countries.length,34);
+ assert.equal(regions.languages.length,14);
+ const expected={US:['north-america','en','USD'],CA:['north-america','en','USD'],GB:['uk-global','en','GBP'],AU:['uk-global','en','USD'],TR:['turkey','tr','TRY'],AE:['gcc','ar','AED'],DE:['central-europe','de','EUR'],FR:['france','fr','EUR'],IT:['italy','it','EUR'],MX:['spanish-latin','es','USD'],DK:['nordics','en','DKK'],SE:['nordics','en','SEK'],RU:['eastern-europe','ru','USD'],CN:['china','zh-CN','CNY'],JP:['japan','ja','JPY'],IN:['south-asia','hi','USD'],PK:['south-asia','ur','USD'],IR:['persian-middle-east','fa','USD'],BR:['brazil','pt','USD'],OTHER:['rest-world','en','USD']};
+ for(const [code,values] of Object.entries(expected))assert.deepEqual(Object.values(countryDefaults(regions,code)),values,code);
+ for(const group of regions.groups){
+   assert.ok(group.countries.length);
+   for(const country of group.countries)assert.equal(countryDefaults(regions,country).group,group.id);
+   assert.ok(group.currencies.includes(group.defaultCurrency));
+   assert.ok(group.supportedLanguages.includes(group.defaultLanguage));
+ }
+ assert.deepEqual(normalizePreferences({country:'GB',language:'fr',currency:'JPY'},regions,content),{group:'uk-global',country:'GB',language:'fr',currency:'JPY'});
+ assert.deepEqual(normalizePreferences({country:'OTHER',countryName:'  Yeni Zelanda  ',language:'en'},regions,content),{group:'rest-world',country:'OTHER',countryName:'Yeni Zelanda',language:'en',currency:'USD'});
 });

@@ -25,9 +25,32 @@ Terminalde gösterilen yerel adrese gidin. Yayın dosyalarını üretmek için `
 
 Katalog verisini değiştirdikten sonra `npm run build` çalıştırın. Yeni URL eklediğinizde `src/routes.json` eşlemesini de tamamlayın. Ürün görselleri `public/assets/images/urunler/`, diğer görseller `public/assets/images/medya/` altındadır.
 
-## Bölge ve dil seçimi
+## Bölge, ülke, dil ve para birimi matrisi
 
-İlk ziyarette bölge ve dil penceresi açılır; seçim yapılana kadar kapatılamaz. Tercih tarayıcıda saklanır ve header üzerinden daha sonra değiştirilebilir. Önceden kaydedilmiş ülke/dil adları da kodlara dönüştürülerek korunur. `public/assets/data/regions.json` ülkeleri (`TR`, `AE`, `GB`, `DE`, `FR`, `US`) ve ülke seçildiğinde önerilen dili tanımlar. `regions.json` aynı zamanda izin verilen para birimlerini ve ülke varsayılanlarını (`TRY`, `AED`, `GBP`, `EUR`, `USD`) tanımlar. Dil seçenekleri, ülke adları ve seçim penceresi metinleri `public/assets/data/content.json` içindedir. Kullanıcı ülkeyi değiştirdiğinde varsayılan dil ve para birimi seçilir; iki alanı daha sonra bağımsız değiştirebilir. Eski kaydedilmiş tercihlerde para birimi yoksa seçili ülkenin varsayılanı kullanılır. Bunlar gerçek teslimat ve ödeme entegrasyonu değildir.
+İlk ziyarette pazar grubu → ülke → dil → para birimi seçilir; seçim yapılana kadar pencere kapatılamaz. Header'dan değiştirilebilir ve tarayıcıda saklanır. `public/assets/data/regions.json` (`schemaVersion: 2`) 16 pazar grubunu, 34 ülke seçeneğini, varsayılan dil/para birimini ve pazar için önerilen seçenekleri tanımlar. Ülke seçimi pazar grubunu belirler; grup değişiminde ilk ülke seçilir. Kullanıcı dili ve para birimini dilerse diğer tanımlı seçeneklerden bağımsız değiştirebilir. Önceden kaydedilmiş ülke/dil tercihi korunur; eksik para birimi ülke varsayılanıyla tamamlanır.
+
+| Pazar grubu | Ülke seçenekleri | Önerilen diller | Para birimleri (ilk: grup varsayılanı) |
+| --- | --- | --- | --- |
+| Kuzey Amerika | ABD, Kanada | İngilizce | USD |
+| İngiltere & Küresel | Birleşik Krallık, Avustralya, İrlanda | İngilizce | GBP, USD |
+| Türkiye | Türkiye | Türkçe | TRY |
+| Körfez Bölgesi (GCC) | BAE, Suudi Arabistan, Katar, Kuveyt | Arapça, İngilizce | AED, USD |
+| Batı & Orta Avrupa | Almanya, Avusturya, İsviçre | Almanca | EUR |
+| Batı Avrupa (Fransa) | Fransa, Belçika | Fransızca | EUR |
+| Güney Avrupa (İtalya) | İtalya | İtalyanca | EUR |
+| İspanya & Latin Amerika | İspanya, Meksika, Arjantin | İspanyolca | EUR, USD |
+| Kuzey Avrupa (İskandinavya) | Danimarka, İsveç, Norveç, Finlandiya | İngilizce | EUR, DKK, SEK |
+| Doğu Avrupa | Rusya, Azerbaycan, Kazakistan | Rusça | USD, EUR |
+| Uzak Doğu (Çin) | Çin Anakarası, Hong Kong | Basitleştirilmiş Çince | CNY, USD |
+| Uzak Doğu (Japonya) | Japonya | Japonca | JPY |
+| Güney Asya | Hindistan, Pakistan | Hintçe, Urduca | USD |
+| Orta Doğu (Farsça) | İran | Farsça | USD |
+| Güney Amerika (Brezilya) | Brezilya | Portekizce | USD |
+| Diğer Dünya Ülkeleri | Diğer ülke (adı girilir) | İngilizce | USD |
+
+Birden çok para birimi olan gruplarda bazı ülkeler için tabloda verilen seçeneklerden ülke varsayılanı tanımlıdır: Avustralya/İrlanda USD; Suudi Arabistan/Katar/Kuveyt USD; Meksika/Arjantin USD; Danimarka DKK; İsveç SEK; Hong Kong USD. Pakistan varsayılan dili Urduca'dır. Norveç için verilen tabloda NOK bulunmadığı için EUR varsayılandır; iş kararı değişirse `regions.json` güncellenmelidir. Matris teslimat, vergi veya ödeme entegrasyonu anlamına gelmez.
+
+Dil kodları (`tr`, `en`, `ar`, `de`, `fr`, `it`, `es`, `ru`, `zh-CN`, `ja`, `hi`, `ur`, `fa`, `pt`), ülke/grup adları ve arayüz metinleri `public/assets/data/content.json` içindedir. Yeni dil alanları çeviri girişi için boştur; çeviri tamamlanana kadar mevcut Türkçe metin gösterilir.
 
 Yeni çeviri eklemek için `content.json` dosyasında ilgili anahtarın boş dil değerini doldurun; örneğin:
 
@@ -65,7 +88,7 @@ Farklı para birimlerinde fiyatlar **kur çevirisiyle hesaplanmaz**. `products.j
 }
 ```
 
-`markets` yoksa kayıt tüm bölgelerde görünür; varsa yalnızca listelenen kodlarda görünür. Bölge değiştiğinde menü, kategori ve arama sonuçları aynı filtrelenmiş katalogdan üretilir. Çeviri yoksa mevcut Türkçe metin gösterilir. Ürün ve kategori URL'leri dil değişiminde aynı kalır. Sabit arayüz ve sayfa metinleri `public/assets/data/content.json` dosyasındaki `texts` alanından alınır; `languages` listesi seçilebilir dilleri belirler. Her metin anahtarında `tr`, `en`, `ar` alanı bulunur. Boş çeviri alanlarında Türkçe gösterilir. `src/i18n.js` yalnızca okuma ve geri dönüş mantığını içerir. Metinlerde `{count}`, `{name}` gibi yer tutucuları koruyun. Ürün ve kategori adları ile ürün açıklamalarının çevirileri `products.json` içindeki ilgili kaydın `translations.en` veya `translations.ar` alanına eklenir. Seçilen para biriminin fiyatı ürün verisinde yoksa fiyat eklenene kadar tutar gösterilmez.
+`markets` yoksa kayıt tüm bölgelerde görünür; varsa yalnızca listelenen ülke kodlarında (`AE`) veya pazar grubu kimliklerinde (`gcc`) görünür. Bölge değiştiğinde menü, kategori ve arama sonuçları aynı filtrelenmiş katalogdan üretilir. Çeviri yoksa mevcut Türkçe metin gösterilir. Ürün ve kategori URL'leri dil değişiminde aynı kalır. Sabit arayüz ve sayfa metinleri `public/assets/data/content.json` dosyasındaki `texts` alanından alınır; `languages` listesi seçilebilir dilleri belirler. Her metin anahtarında `languages` listesindeki 14 dilin alanı bulunur. Boş çeviri alanlarında Türkçe gösterilir. `src/i18n.js` yalnızca okuma ve geri dönüş mantığını içerir. Metinlerde `{count}`, `{name}` gibi yer tutucuları koruyun. Ürün ve kategori adları ile ürün açıklamalarının çevirileri `products.json` içindeki ilgili kaydın `translations.en` veya `translations.ar` alanına eklenir. Seçilen para biriminin fiyatı ürün verisinde yoksa fiyat eklenene kadar tutar gösterilmez.
 
 ## Etkileşimler ve sınırlar
 

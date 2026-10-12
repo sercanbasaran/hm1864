@@ -1,39 +1,430 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "defaultCountry": "TR",
-  "defaultLanguage": "tr",
-  "defaultCurrency": "TRY",
-  "currencies": ["TRY", "AED", "GBP", "EUR", "USD"],
-  "countries": [
+  "groups": [
     {
-      "code": "TR",
-      "defaultLanguage": "tr",
-      "defaultCurrency": "TRY"
-    },
-    {
-      "code": "AE",
-      "defaultLanguage": "ar",
-      "defaultCurrency": "AED"
-    },
-    {
-      "code": "GB",
+      "id": "north-america",
+      "countries": [
+        "US",
+        "CA"
+      ],
+      "supportedLanguages": [
+        "en"
+      ],
       "defaultLanguage": "en",
+      "currencies": [
+        "USD"
+      ],
+      "defaultCurrency": "USD"
+    },
+    {
+      "id": "uk-global",
+      "countries": [
+        "GB",
+        "AU",
+        "IE"
+      ],
+      "supportedLanguages": [
+        "en"
+      ],
+      "defaultLanguage": "en",
+      "currencies": [
+        "GBP",
+        "USD"
+      ],
       "defaultCurrency": "GBP"
     },
     {
-      "code": "DE",
-      "defaultLanguage": "en",
+      "id": "turkey",
+      "countries": [
+        "TR"
+      ],
+      "supportedLanguages": [
+        "tr"
+      ],
+      "defaultLanguage": "tr",
+      "currencies": [
+        "TRY"
+      ],
+      "defaultCurrency": "TRY"
+    },
+    {
+      "id": "gcc",
+      "countries": [
+        "AE",
+        "SA",
+        "QA",
+        "KW"
+      ],
+      "supportedLanguages": [
+        "ar",
+        "en"
+      ],
+      "defaultLanguage": "ar",
+      "currencies": [
+        "AED",
+        "USD"
+      ],
+      "defaultCurrency": "AED"
+    },
+    {
+      "id": "central-europe",
+      "countries": [
+        "DE",
+        "AT",
+        "CH"
+      ],
+      "supportedLanguages": [
+        "de"
+      ],
+      "defaultLanguage": "de",
+      "currencies": [
+        "EUR"
+      ],
       "defaultCurrency": "EUR"
+    },
+    {
+      "id": "france",
+      "countries": [
+        "FR",
+        "BE"
+      ],
+      "supportedLanguages": [
+        "fr"
+      ],
+      "defaultLanguage": "fr",
+      "currencies": [
+        "EUR"
+      ],
+      "defaultCurrency": "EUR"
+    },
+    {
+      "id": "italy",
+      "countries": [
+        "IT"
+      ],
+      "supportedLanguages": [
+        "it"
+      ],
+      "defaultLanguage": "it",
+      "currencies": [
+        "EUR"
+      ],
+      "defaultCurrency": "EUR"
+    },
+    {
+      "id": "spanish-latin",
+      "countries": [
+        "ES",
+        "MX",
+        "AR"
+      ],
+      "supportedLanguages": [
+        "es"
+      ],
+      "defaultLanguage": "es",
+      "currencies": [
+        "EUR",
+        "USD"
+      ],
+      "defaultCurrency": "EUR"
+    },
+    {
+      "id": "nordics",
+      "countries": [
+        "DK",
+        "SE",
+        "NO",
+        "FI"
+      ],
+      "supportedLanguages": [
+        "en"
+      ],
+      "defaultLanguage": "en",
+      "currencies": [
+        "EUR",
+        "DKK",
+        "SEK"
+      ],
+      "defaultCurrency": "EUR"
+    },
+    {
+      "id": "eastern-europe",
+      "countries": [
+        "RU",
+        "AZ",
+        "KZ"
+      ],
+      "supportedLanguages": [
+        "ru"
+      ],
+      "defaultLanguage": "ru",
+      "currencies": [
+        "USD",
+        "EUR"
+      ],
+      "defaultCurrency": "USD"
+    },
+    {
+      "id": "china",
+      "countries": [
+        "CN",
+        "HK"
+      ],
+      "supportedLanguages": [
+        "zh-CN"
+      ],
+      "defaultLanguage": "zh-CN",
+      "currencies": [
+        "CNY",
+        "USD"
+      ],
+      "defaultCurrency": "CNY"
+    },
+    {
+      "id": "japan",
+      "countries": [
+        "JP"
+      ],
+      "supportedLanguages": [
+        "ja"
+      ],
+      "defaultLanguage": "ja",
+      "currencies": [
+        "JPY"
+      ],
+      "defaultCurrency": "JPY"
+    },
+    {
+      "id": "south-asia",
+      "countries": [
+        "IN",
+        "PK"
+      ],
+      "supportedLanguages": [
+        "hi",
+        "ur"
+      ],
+      "defaultLanguage": "hi",
+      "currencies": [
+        "USD"
+      ],
+      "defaultCurrency": "USD"
+    },
+    {
+      "id": "persian-middle-east",
+      "countries": [
+        "IR"
+      ],
+      "supportedLanguages": [
+        "fa"
+      ],
+      "defaultLanguage": "fa",
+      "currencies": [
+        "USD"
+      ],
+      "defaultCurrency": "USD"
+    },
+    {
+      "id": "brazil",
+      "countries": [
+        "BR"
+      ],
+      "supportedLanguages": [
+        "pt"
+      ],
+      "defaultLanguage": "pt",
+      "currencies": [
+        "USD"
+      ],
+      "defaultCurrency": "USD"
+    },
+    {
+      "id": "rest-world",
+      "countries": [
+        "OTHER"
+      ],
+      "supportedLanguages": [
+        "en"
+      ],
+      "defaultLanguage": "en",
+      "currencies": [
+        "USD"
+      ],
+      "defaultCurrency": "USD"
+    }
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "group": "north-america"
+    },
+    {
+      "code": "CA",
+      "group": "north-america"
+    },
+    {
+      "code": "GB",
+      "group": "uk-global"
+    },
+    {
+      "code": "AU",
+      "group": "uk-global",
+      "defaultLanguage": "en",
+      "defaultCurrency": "USD"
+    },
+    {
+      "code": "IE",
+      "group": "uk-global",
+      "defaultLanguage": "en",
+      "defaultCurrency": "USD"
+    },
+    {
+      "code": "TR",
+      "group": "turkey"
+    },
+    {
+      "code": "AE",
+      "group": "gcc"
+    },
+    {
+      "code": "SA",
+      "group": "gcc",
+      "defaultLanguage": "ar",
+      "defaultCurrency": "USD"
+    },
+    {
+      "code": "QA",
+      "group": "gcc",
+      "defaultLanguage": "ar",
+      "defaultCurrency": "USD"
+    },
+    {
+      "code": "KW",
+      "group": "gcc",
+      "defaultLanguage": "ar",
+      "defaultCurrency": "USD"
+    },
+    {
+      "code": "DE",
+      "group": "central-europe"
+    },
+    {
+      "code": "AT",
+      "group": "central-europe"
+    },
+    {
+      "code": "CH",
+      "group": "central-europe"
     },
     {
       "code": "FR",
-      "defaultLanguage": "en",
-      "defaultCurrency": "EUR"
+      "group": "france"
     },
     {
-      "code": "US",
-      "defaultLanguage": "en",
+      "code": "BE",
+      "group": "france"
+    },
+    {
+      "code": "IT",
+      "group": "italy"
+    },
+    {
+      "code": "ES",
+      "group": "spanish-latin"
+    },
+    {
+      "code": "MX",
+      "group": "spanish-latin",
+      "defaultLanguage": "es",
       "defaultCurrency": "USD"
+    },
+    {
+      "code": "AR",
+      "group": "spanish-latin",
+      "defaultLanguage": "es",
+      "defaultCurrency": "USD"
+    },
+    {
+      "code": "DK",
+      "group": "nordics",
+      "defaultLanguage": "en",
+      "defaultCurrency": "DKK"
+    },
+    {
+      "code": "SE",
+      "group": "nordics",
+      "defaultLanguage": "en",
+      "defaultCurrency": "SEK"
+    },
+    {
+      "code": "NO",
+      "group": "nordics"
+    },
+    {
+      "code": "FI",
+      "group": "nordics"
+    },
+    {
+      "code": "RU",
+      "group": "eastern-europe"
+    },
+    {
+      "code": "AZ",
+      "group": "eastern-europe"
+    },
+    {
+      "code": "KZ",
+      "group": "eastern-europe"
+    },
+    {
+      "code": "CN",
+      "group": "china"
+    },
+    {
+      "code": "HK",
+      "group": "china",
+      "defaultLanguage": "zh-CN",
+      "defaultCurrency": "USD"
+    },
+    {
+      "code": "JP",
+      "group": "japan"
+    },
+    {
+      "code": "IN",
+      "group": "south-asia"
+    },
+    {
+      "code": "PK",
+      "group": "south-asia",
+      "defaultLanguage": "ur",
+      "defaultCurrency": "USD"
+    },
+    {
+      "code": "IR",
+      "group": "persian-middle-east"
+    },
+    {
+      "code": "BR",
+      "group": "brazil"
+    },
+    {
+      "code": "OTHER",
+      "group": "rest-world"
     }
-  ]
+  ],
+  "currencies": [
+    "USD",
+    "GBP",
+    "TRY",
+    "AED",
+    "EUR",
+    "DKK",
+    "SEK",
+    "CNY",
+    "JPY"
+  ],
+  "defaultLanguage": "tr",
+  "defaultCurrency": "TRY"
 }
