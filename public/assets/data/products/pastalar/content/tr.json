@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "language": "tr",
   "products": {
-    "500-01-12-lotus-kulesi": {
+    "500-0101-lotus-kulesi": {
       "name": "Lotus Kulesi",
       "description": "",
       "ingredients": "",
@@ -68,7 +68,7 @@
         }
       }
     },
-    "500-01-04-diplomat": {
+    "500-0201-diplomat": {
       "name": "Diplomat",
       "description": "",
       "ingredients": "",
@@ -134,7 +134,7 @@
         }
       }
     },
-    "500-01-05-kara-sevda": {
+    "500-0202-kara-sevda": {
       "name": "Kara Sevda",
       "description": "",
       "ingredients": "",
@@ -200,7 +200,7 @@
         }
       }
     },
-    "500-01-06-siyah-inci": {
+    "500-0203-siyah-inci": {
       "name": "Siyah İnci",
       "description": "",
       "ingredients": "",
@@ -266,7 +266,7 @@
         }
       }
     },
-    "500-01-08-cilek-ruyasi": {
+    "500-0301-cilek-ruyasi": {
       "name": "Çilek Rüyası",
       "description": "",
       "ingredients": "",
@@ -332,7 +332,7 @@
         }
       }
     },
-    "500-01-14-ilk-ask": {
+    "500-0302-ilk-ask": {
       "name": "İlk Aşk",
       "description": "",
       "ingredients": "",
@@ -398,7 +398,7 @@
         }
       }
     },
-    "500-01-09-pembe-ruya": {
+    "500-0303-pembe-ruya": {
       "name": "Pembe Rüya",
       "description": "",
       "ingredients": "",
@@ -464,7 +464,7 @@
         }
       }
     },
-    "500-01-17-son-ask": {
+    "500-0304-son-ask": {
       "name": "Son Aşk",
       "description": "",
       "ingredients": "",
@@ -530,7 +530,7 @@
         }
       }
     },
-    "500-01-13-istanbul-hikayesi": {
+    "500-0401-istanbul-hikayesi": {
       "name": "İstanbul Hikayesi",
       "description": "",
       "ingredients": "",
@@ -596,7 +596,7 @@
         }
       }
     },
-    "500-01-01-cikolat-ahu": {
+    "500-05-01-cikolat-ahu": {
       "name": "Çikolat Ahu",
       "description": "",
       "ingredients": "",
@@ -662,7 +662,7 @@
         }
       }
     },
-    "500-01-02-tatli-ahu": {
+    "500-0502-tatli-ahu": {
       "name": "Tatlı Ahu",
       "description": "",
       "ingredients": "",
@@ -728,7 +728,7 @@
         }
       }
     },
-    "500-01-10-cikolatali-meyve-bahcesi": {
+    "500-0601-cikolatali-meyve-bahcesi": {
       "name": "Çikolatalı Meyve Bahçesi",
       "description": "",
       "ingredients": "",
@@ -794,7 +794,7 @@
         }
       }
     },
-    "500-01-11-meyve-bahcesi": {
+    "500-0602-meyve-bahcesi": {
       "name": "Meyve Bahçesi",
       "description": "",
       "ingredients": "",
@@ -860,7 +860,7 @@
         }
       }
     },
-    "500-01-07-beyaz-inci": {
+    "500-0701-beyaz-inci": {
       "name": "Beyaz İnci",
       "description": "",
       "ingredients": "",
@@ -926,7 +926,7 @@
         }
       }
     },
-    "500-01-16-buyuk-ask": {
+    "500-0702-buyuk-ask": {
       "name": "Büyük Aşk",
       "description": "",
       "ingredients": "",
@@ -992,7 +992,7 @@
         }
       }
     },
-    "500-01-15-sonsuz-ask": {
+    "500-0703-sonsuz-ask": {
       "name": "Sonsuz Aşk",
       "description": "",
       "ingredients": "",
@@ -1058,7 +1058,7 @@
         }
       }
     },
-    "500-01-03-amazon-buyusu": {
+    "500-0801-amazon-buyusu": {
       "name": "Amazon Büyüsü",
       "description": "",
       "ingredients": "",

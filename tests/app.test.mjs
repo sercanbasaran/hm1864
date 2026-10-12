@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import {Window} from 'happy-dom';
-import {validate,choice,cardPrice,money,match,resolve,menuCategories,menuSubcategories,storeOnly} from '../src/model.js';
+import {validate,choice,cardPrice,money,match,resolve,menuCategories,menuSubcategories,storeOnly,variantImages,slug} from '../src/model.js';
 import {validateRegions,validateRegionalCatalog,normalizePreferences,regionalCatalog,countryDefaults} from '../src/market.js';
 import {validateContent,translate,formatText,templateText} from '../src/i18n.js';
 import {loadAuthoringData,localizedEditorial} from '../src/data-loader.js';
@@ -52,7 +52,8 @@ test('returning visitor retains the selection without another first-visit dialog
 });
 test('built React application: navigation, variant update, dialogs, menu and slider',async()=>{
  const window=new Window({url:'http://localhost/index.html',settings:{enableJavaScriptEvaluation:true}});
- const edited=structuredClone(data);const p=edited.products.find(p=>p.code==='100-01-02');p.variants[0].price=111;p.variants[1].price=222;p.variants[1].pricesByCurrency={USD:9.99};p.variants[1].weight='500 g';
+ const edited=structuredClone(data);const p=edited.products.find(p=>p.code==='100-01-02');p.variants[0].price=111;p.variants[1].price=222;p.variants[1].pricesByCurrency={USD:9.99};p.variants[1].weight='500 g';p.variants[0].images=['pastalar/test-xs.png','pastalar/test-xs-2.png'];p.variants[1].images=['pastalar/test-s.png','pastalar/test-s-2.png'];
+ edited.products.find(x=>x.name==='Lotus Kulesi').editorial[0].enabled=false;
  edited.products[0].markets=['TR'];
  const hidden=edited.categories.find(c=>c.name==='Kahvaltılıklar');hidden.megaMenuOnline=false;
  edited.subcategories.find(s=>s.name==='Cevizli Baklavalar').megaMenuOnline=false;
@@ -104,7 +105,15 @@ test('built React application: navigation, variant update, dialogs, menu and sli
    const nav=window.document.createElement('a');nav.href=href;window.document.querySelector('#main').appendChild(nav);nav.click();await wait();
    assert.equal(window.document.querySelectorAll('header.site-header').length,1,`Header repeated at ${href}`);
  }
+ assert.match(window.document.querySelector('.product-main-image img').src,/test-xs\.png$/);
+ window.document.querySelectorAll('.gallery-thumb')[1].click();await wait();
+ assert.match(window.document.querySelector('.product-main-image img').src,/test-xs-2\.png$/);
  const option=window.document.querySelector('input[value="S"]');option.click();await wait();assert.match(window.document.querySelector('.detail-price').textContent,/222/);assert.match(window.document.querySelector('.product-variants').textContent,/500 g/);
+ assert.match(window.document.querySelector('.product-main-image img').src,/test-s\.png$/);
+ assert.equal(window.document.querySelectorAll('.gallery-thumb').length,2);
+ window.document.querySelector('.product-main-image').click();await wait();
+ assert.match(window.document.querySelector('.lightbox-dialog img').src,/test-s\.png$/);
+ window.document.querySelector('.dialog-close').click();await wait();
  window.document.querySelector('.header-service button').click();await wait();
  assert.equal(window.document.querySelector('.region-dialog select[name="currency"]').value,'TRY');
  window.document.querySelector('.region-dialog select[name="currency"]').value='USD';
@@ -121,13 +130,22 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.equal(window.document.querySelector('.purchase-row'),null);
  assert.ok(window.document.querySelector('.order-availability'));
  assert.equal(window.document.querySelectorAll('.order-platforms img').length,2);
- assert.equal(window.document.querySelectorAll('.editorial-section').length,2);
+ assert.equal(window.document.querySelectorAll('.editorial-section').length,1);
  assert.equal(window.document.querySelectorAll('.editorial-section button,.editorial-section details').length,0);
- assert.equal(window.document.querySelectorAll('.editorial-section img').length,2);
+ assert.equal(window.document.querySelectorAll('.editorial-section img').length,1);
  window.document.querySelector('input[value="baton"]').click();await wait();
  assert.match(window.document.querySelector('.product-variants').textContent,/3900 gram/);
  assert.match(window.document.querySelector('.product-info>small').textContent,/500\.0101\.02/);
  assert.match(window.document.querySelector('.accordions').textContent,/Pandispanya/);
+ window.document.querySelector('.nearest-store-button').click();await wait();
+ assert.ok(window.document.querySelector('dialog.store-locator-dialog[open]'));
+ assert.ok(window.document.querySelector('.store-locator-dialog .store-card'));
+ const storeSearch=window.document.querySelector('input[name="store-query"]');Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype,'value').set.call(storeSearch,'Porta');storeSearch.dispatchEvent(new window.Event('input',{bubbles:true}));await wait();
+ assert.equal(window.document.querySelectorAll('.store-locator-dialog .store-card').length,1);
+ const storeCountry=window.document.querySelector('select[name="store-country"]');assert.equal(storeCountry.options.length,1);storeCountry.value='TR';storeCountry.dispatchEvent(new window.Event('change',{bubbles:true}));await wait();
+ assert.equal(window.document.querySelectorAll('.store-locator-dialog .store-card').length,5);
+ window.document.querySelector('.dialog-close').click();await wait();assert.equal(window.document.querySelector('dialog'),null);
+
 
 
  }finally{window.happyDOM.abort();}
@@ -175,7 +193,7 @@ test('the market matrix covers every example country with valid defaults and ove
 
 test('cake variants, sales channels and blank translations preserve source fields',()=>{
  const cakes=data.products.filter(p=>p.category==='Pastalar');assert.equal(cakes.length,18);assert.equal(cakes.flatMap(p=>p.variants).length,36);assert.equal(data.subcategories.filter(s=>s.category==='Pastalar').length,8);
- for(const cake of cakes){assert.equal(cake.images.length,0);assert.equal(cake.description,'');assert.equal(cake.nutrition.values.length,0);assert.equal(cake.stock,null);assert.equal(cake.variants.length,2);for(const v of cake.variants){assert.equal(storeOnly(cake,v.code),true);assert.ok(v.sku.startsWith('500.'));assert.ok(v.ingredients);assert.ok(v.allergenInfo);assert.equal(Object.keys(v.pricesByCurrency).length,8);assert.equal(Object.keys(v.translations).length,13);}}
+ for(const cake of cakes){assert.equal(cake.images.length,1);assert.equal(cake.description,'');assert.equal(cake.nutrition.values.length,0);assert.equal(cake.stock,null);assert.equal(cake.variants.length,2);for(const v of cake.variants){assert.equal(storeOnly(cake,v.code),true);assert.ok(v.sku.startsWith('500.'));assert.ok(v.ingredients);assert.ok(v.allergenInfo);assert.equal(Object.keys(v.pricesByCurrency).length,8);assert.equal(Object.keys(v.translations).length,13);}}
  const cake=cakes.find(p=>p.name==='Lotus Kulesi');assert.equal(resolve('/urunler/pastalar/pasta/lotus-kulesi.html',data,routes).product.key,cake.key);
  assert.equal(choice(cake,'dilim','AED').price,35);assert.equal(choice(cake,'baton').portion,'6-8 Kişilik');
  const translated=structuredClone(data);const example=translated.products.find(p=>p.key===cake.key);example.variants[0].translations.en={label:'Slice',portion:'One person',ingredients:'Approved short ingredients',allergenInfo:'Approved allergen statement'};
@@ -190,4 +208,11 @@ test('modular data sources and static editorial content',async()=>{
  const manifest=JSON.parse(await fs.readFile('public/assets/data/catalog/manifest.json','utf8'));assert.equal(manifest.categories.length,14);
  for(const category of manifest.categories){const source=JSON.parse(await fs.readFile('public/assets/data/'+category.products,'utf8'));const prices=JSON.parse(await fs.readFile('public/assets/data/'+category.prices,'utf8'));assert.equal(source.categoryId,category.id);assert.equal(Object.keys(prices.products).length,source.products.length);assert.equal(Object.keys(category.content).length,14);}
  await assert.rejects(()=>loadAuthoringData(async file=>{const value=JSON.parse(await fs.readFile('public/assets/data/'+file,'utf8'));if(file==='products/pastalar/prices.json')value.products['missing-product']={base:{TRY:50},variants:{}};return value}),/anahtarı/);
+});
+
+test('current product codes and variant image fallback',()=>{
+ for(const p of data.products){assert.ok(p.key.startsWith(slug(p.code)+'-'),p.key);for(const old of p.legacyKeys||[])assert.notEqual(old,p.key)}
+ const cake=data.products.find(p=>p.name==='Son Aşk');assert.equal(cake.key,'500-0304-son-ask');assert.ok(cake.legacyKeys.includes('500-01-17-son-ask'));
+ const p={...data.products[0],images:['general.png'],variants:[{code:'a',images:['a.png','a-2.png']},{code:'b',images:[]}]};
+ assert.deepEqual(variantImages(p,'a'),['a.png','a-2.png']);assert.deepEqual(variantImages(p,'b'),['general.png']);assert.equal(choice(p,'a').image,'a.png');
 });

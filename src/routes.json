@@ -956,23 +956,23 @@
   "urunler/pastalar/index.html": {
     "kind": "catalog",
     "selected": [
-      "500-01-12-lotus-kulesi",
-      "500-01-04-diplomat",
-      "500-01-05-kara-sevda",
-      "500-01-06-siyah-inci",
-      "500-01-08-cilek-ruyasi",
-      "500-01-14-ilk-ask",
-      "500-01-09-pembe-ruya",
-      "500-01-17-son-ask",
-      "500-01-13-istanbul-hikayesi",
-      "500-01-01-cikolat-ahu",
-      "500-01-02-tatli-ahu",
-      "500-01-10-cikolatali-meyve-bahcesi",
-      "500-01-11-meyve-bahcesi",
-      "500-01-07-beyaz-inci",
-      "500-01-16-buyuk-ask",
-      "500-01-15-sonsuz-ask",
-      "500-01-03-amazon-buyusu",
+      "500-0101-lotus-kulesi",
+      "500-0201-diplomat",
+      "500-0202-kara-sevda",
+      "500-0203-siyah-inci",
+      "500-0301-cilek-ruyasi",
+      "500-0302-ilk-ask",
+      "500-0303-pembe-ruya",
+      "500-0304-son-ask",
+      "500-0401-istanbul-hikayesi",
+      "500-05-01-cikolat-ahu",
+      "500-0502-tatli-ahu",
+      "500-0601-cikolatali-meyve-bahcesi",
+      "500-0602-meyve-bahcesi",
+      "500-0701-beyaz-inci",
+      "500-0702-buyuk-ask",
+      "500-0703-sonsuz-ask",
+      "500-0801-amazon-buyusu",
       "500-0802-amazon-hikayesi"
     ],
     "parent": "Pastalar"
@@ -1690,71 +1690,71 @@
   },
   "urunler/pastalar/pasta/cikolat-ahu.html": {
     "kind": "catalog-product",
-    "product": "500-01-01-cikolat-ahu"
+    "product": "500-05-01-cikolat-ahu"
   },
   "urunler/pastalar/pasta/tatli-ahu.html": {
     "kind": "catalog-product",
-    "product": "500-01-02-tatli-ahu"
+    "product": "500-0502-tatli-ahu"
   },
   "urunler/pastalar/pasta/amazon-buyusu.html": {
     "kind": "catalog-product",
-    "product": "500-01-03-amazon-buyusu"
+    "product": "500-0801-amazon-buyusu"
   },
   "urunler/pastalar/pasta/diplomat.html": {
     "kind": "catalog-product",
-    "product": "500-01-04-diplomat"
+    "product": "500-0201-diplomat"
   },
   "urunler/pastalar/pasta/kara-sevda.html": {
     "kind": "catalog-product",
-    "product": "500-01-05-kara-sevda"
+    "product": "500-0202-kara-sevda"
   },
   "urunler/pastalar/pasta/siyah-inci.html": {
     "kind": "catalog-product",
-    "product": "500-01-06-siyah-inci"
+    "product": "500-0203-siyah-inci"
   },
   "urunler/pastalar/pasta/beyaz-inci.html": {
     "kind": "catalog-product",
-    "product": "500-01-07-beyaz-inci"
+    "product": "500-0701-beyaz-inci"
   },
   "urunler/pastalar/pasta/cilek-ruyasi.html": {
     "kind": "catalog-product",
-    "product": "500-01-08-cilek-ruyasi"
+    "product": "500-0301-cilek-ruyasi"
   },
   "urunler/pastalar/pasta/pembe-ruya.html": {
     "kind": "catalog-product",
-    "product": "500-01-09-pembe-ruya"
+    "product": "500-0303-pembe-ruya"
   },
   "urunler/pastalar/pasta/cikolatali-meyve-bahcesi.html": {
     "kind": "catalog-product",
-    "product": "500-01-10-cikolatali-meyve-bahcesi"
+    "product": "500-0601-cikolatali-meyve-bahcesi"
   },
   "urunler/pastalar/pasta/meyve-bahcesi.html": {
     "kind": "catalog-product",
-    "product": "500-01-11-meyve-bahcesi"
+    "product": "500-0602-meyve-bahcesi"
   },
   "urunler/pastalar/pasta/lotus-kulesi.html": {
     "kind": "catalog-product",
-    "product": "500-01-12-lotus-kulesi"
+    "product": "500-0101-lotus-kulesi"
   },
   "urunler/pastalar/pasta/istanbul-hikayesi.html": {
     "kind": "catalog-product",
-    "product": "500-01-13-istanbul-hikayesi"
+    "product": "500-0401-istanbul-hikayesi"
   },
   "urunler/pastalar/pasta/ilk-ask.html": {
     "kind": "catalog-product",
-    "product": "500-01-14-ilk-ask"
+    "product": "500-0302-ilk-ask"
   },
   "urunler/pastalar/pasta/sonsuz-ask.html": {
     "kind": "catalog-product",
-    "product": "500-01-15-sonsuz-ask"
+    "product": "500-0703-sonsuz-ask"
   },
   "urunler/pastalar/pasta/buyuk-ask.html": {
     "kind": "catalog-product",
-    "product": "500-01-16-buyuk-ask"
+    "product": "500-0702-buyuk-ask"
   },
   "urunler/pastalar/pasta/son-ask.html": {
     "kind": "catalog-product",
-    "product": "500-01-17-son-ask"
+    "product": "500-0304-son-ask"
   },
   "urunler/muhallebiler/geleneksel-sutlu-tatlilar/asure.html": {
     "kind": "catalog-product",
@@ -1987,7 +1987,7 @@
   "urunler/pastalar/biskuvili-pastalar/index.html": {
     "kind": "catalog",
     "selected": [
-      "500-01-12-lotus-kulesi"
+      "500-0101-lotus-kulesi"
     ],
     "parent": "Pastalar",
     "subcategory": "Bisküvili Pastalar"
@@ -1995,9 +1995,9 @@
   "urunler/pastalar/cikolatali-pastalar/index.html": {
     "kind": "catalog",
     "selected": [
-      "500-01-04-diplomat",
-      "500-01-05-kara-sevda",
-      "500-01-06-siyah-inci"
+      "500-0201-diplomat",
+      "500-0202-kara-sevda",
+      "500-0203-siyah-inci"
     ],
     "parent": "Pastalar",
     "subcategory": "Çikolatalı Pastalar"
@@ -2005,10 +2005,10 @@
   "urunler/pastalar/cilekli-pastalar/index.html": {
     "kind": "catalog",
     "selected": [
-      "500-01-08-cilek-ruyasi",
-      "500-01-14-ilk-ask",
-      "500-01-09-pembe-ruya",
-      "500-01-17-son-ask"
+      "500-0301-cilek-ruyasi",
+      "500-0302-ilk-ask",
+      "500-0303-pembe-ruya",
+      "500-0304-son-ask"
     ],
     "parent": "Pastalar",
     "subcategory": "Çilekli Pastalar"
@@ -2016,7 +2016,7 @@
   "urunler/pastalar/fistikli-pastalar/index.html": {
     "kind": "catalog",
     "selected": [
-      "500-01-13-istanbul-hikayesi"
+      "500-0401-istanbul-hikayesi"
     ],
     "parent": "Pastalar",
     "subcategory": "Fıstıklı Pastalar"
@@ -2024,8 +2024,8 @@
   "urunler/pastalar/frambuazli-pastalar/index.html": {
     "kind": "catalog",
     "selected": [
-      "500-01-01-cikolat-ahu",
-      "500-01-02-tatli-ahu"
+      "500-05-01-cikolat-ahu",
+      "500-0502-tatli-ahu"
     ],
     "parent": "Pastalar",
     "subcategory": "Frambuazlı Pastalar"
@@ -2033,8 +2033,8 @@
   "urunler/pastalar/karisik-meyveli-pastalar/index.html": {
     "kind": "catalog",
     "selected": [
-      "500-01-10-cikolatali-meyve-bahcesi",
-      "500-01-11-meyve-bahcesi"
+      "500-0601-cikolatali-meyve-bahcesi",
+      "500-0602-meyve-bahcesi"
     ],
     "parent": "Pastalar",
     "subcategory": "Karışık Meyveli Pastalar"
@@ -2042,9 +2042,9 @@
   "urunler/pastalar/muzlu-pastalar/index.html": {
     "kind": "catalog",
     "selected": [
-      "500-01-07-beyaz-inci",
-      "500-01-16-buyuk-ask",
-      "500-01-15-sonsuz-ask"
+      "500-0701-beyaz-inci",
+      "500-0702-buyuk-ask",
+      "500-0703-sonsuz-ask"
     ],
     "parent": "Pastalar",
     "subcategory": "Muzlu Pastalar"
@@ -2052,7 +2052,7 @@
   "urunler/pastalar/orman-meyveli-pastalar/index.html": {
     "kind": "catalog",
     "selected": [
-      "500-01-03-amazon-buyusu",
+      "500-0801-amazon-buyusu",
       "500-0802-amazon-hikayesi"
     ],
     "parent": "Pastalar",
@@ -2060,71 +2060,71 @@
   },
   "urunler/pastalar/biskuvili-pastalar/lotus-kulesi.html": {
     "kind": "catalog-product",
-    "product": "500-01-12-lotus-kulesi"
+    "product": "500-0101-lotus-kulesi"
   },
   "urunler/pastalar/cikolatali-pastalar/diplomat.html": {
     "kind": "catalog-product",
-    "product": "500-01-04-diplomat"
+    "product": "500-0201-diplomat"
   },
   "urunler/pastalar/cikolatali-pastalar/kara-sevda.html": {
     "kind": "catalog-product",
-    "product": "500-01-05-kara-sevda"
+    "product": "500-0202-kara-sevda"
   },
   "urunler/pastalar/cikolatali-pastalar/siyah-inci.html": {
     "kind": "catalog-product",
-    "product": "500-01-06-siyah-inci"
+    "product": "500-0203-siyah-inci"
   },
   "urunler/pastalar/cilekli-pastalar/cilek-ruyasi.html": {
     "kind": "catalog-product",
-    "product": "500-01-08-cilek-ruyasi"
+    "product": "500-0301-cilek-ruyasi"
   },
   "urunler/pastalar/cilekli-pastalar/ilk-ask.html": {
     "kind": "catalog-product",
-    "product": "500-01-14-ilk-ask"
+    "product": "500-0302-ilk-ask"
   },
   "urunler/pastalar/cilekli-pastalar/pembe-ruya.html": {
     "kind": "catalog-product",
-    "product": "500-01-09-pembe-ruya"
+    "product": "500-0303-pembe-ruya"
   },
   "urunler/pastalar/cilekli-pastalar/son-ask.html": {
     "kind": "catalog-product",
-    "product": "500-01-17-son-ask"
+    "product": "500-0304-son-ask"
   },
   "urunler/pastalar/fistikli-pastalar/istanbul-hikayesi.html": {
     "kind": "catalog-product",
-    "product": "500-01-13-istanbul-hikayesi"
+    "product": "500-0401-istanbul-hikayesi"
   },
   "urunler/pastalar/frambuazli-pastalar/cikolat-ahu.html": {
     "kind": "catalog-product",
-    "product": "500-01-01-cikolat-ahu"
+    "product": "500-05-01-cikolat-ahu"
   },
   "urunler/pastalar/frambuazli-pastalar/tatli-ahu.html": {
     "kind": "catalog-product",
-    "product": "500-01-02-tatli-ahu"
+    "product": "500-0502-tatli-ahu"
   },
   "urunler/pastalar/karisik-meyveli-pastalar/cikolatali-meyve-bahcesi.html": {
     "kind": "catalog-product",
-    "product": "500-01-10-cikolatali-meyve-bahcesi"
+    "product": "500-0601-cikolatali-meyve-bahcesi"
   },
   "urunler/pastalar/karisik-meyveli-pastalar/meyve-bahcesi.html": {
     "kind": "catalog-product",
-    "product": "500-01-11-meyve-bahcesi"
+    "product": "500-0602-meyve-bahcesi"
   },
   "urunler/pastalar/muzlu-pastalar/beyaz-inci.html": {
     "kind": "catalog-product",
-    "product": "500-01-07-beyaz-inci"
+    "product": "500-0701-beyaz-inci"
   },
   "urunler/pastalar/muzlu-pastalar/buyuk-ask.html": {
     "kind": "catalog-product",
-    "product": "500-01-16-buyuk-ask"
+    "product": "500-0702-buyuk-ask"
   },
   "urunler/pastalar/muzlu-pastalar/sonsuz-ask.html": {
     "kind": "catalog-product",
-    "product": "500-01-15-sonsuz-ask"
+    "product": "500-0703-sonsuz-ask"
   },
   "urunler/pastalar/orman-meyveli-pastalar/amazon-buyusu.html": {
     "kind": "catalog-product",
-    "product": "500-01-03-amazon-buyusu"
+    "product": "500-0801-amazon-buyusu"
   },
   "urunler/pastalar/orman-meyveli-pastalar/amazon-hikayesi.html": {
     "kind": "catalog-product",

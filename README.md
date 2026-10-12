@@ -53,7 +53,7 @@ Her üründe iki statik şablon vardır: `story` ve `boxReuse`. Her biri bir gö
 ]
 ```
 
-Aynı ürünün `products/pastalar/content/tr.json` dosyasındaki `products["500-01-12-lotus-kulesi"].editorial` alanını doldurun:
+Aynı ürünün `products/pastalar/content/tr.json` dosyasındaki `products["500-0101-lotus-kulesi"].editorial` alanını doldurun:
 
 ```json
 "editorial": {
@@ -95,3 +95,13 @@ Matris: 16 pazar grubu, 34 ülke seçeneği, 14 dil ve 9 para birimi. Ülke seç
 `npm run build` sonrasında oluşan `dist/` klasörünü Netlify projesinin Deploys alanına yükleyin. Kaynak `public/` klasörünü veya `index.html` dosyasını tek başına yüklemeyin. GitHub bağlantılı Netlify projesinde `netlify.toml` build=`npm run build`, publish=`dist`, Node=22 olarak tanımlıdır.
 
 Ödeme/sipariş, hesap ve canlı stok sunucu bağlantısı gerektirir; ön yüzde gerçek işlem yapılmaz. Önizleme için `noindex,nofollow` etiketi korunur.
+
+## Varyant görselleri, içerik görünürlüğü ve mağaza popup'ı
+
+Kategori `products.json` dosyasında her varyantın `images` alanı bir görsel listesi alır. Örneğin `"images": ["pastalar/500_0101_01.png", "pastalar/lotus-dilim-2.png"]`. Dosyalar `public/assets/images/urunler/` altında bulunmalıdır. Varyant değişince ana görsel, galeri ve büyütme görseli aynı varyantı izler. Liste boşsa ürünün genel `images` listesi kullanılır. Dilim için yüklenen mevcut pasta görselleri ilk varyantlara bağlanmıştır; Baton görselleri henüz girilmediği için genel görsele döner.
+
+Hikâye ve kutu bölümünü ürünün `editorial` listesinde ilgili `type` için `enabled: true` veya `enabled: false` ile açıp kapatın. Bu ayar kategori ürün dosyasında tek kez tutulur; dile göre içerik dosyalarına kopyalanmaz.
+
+Ürün anahtarları güncel `code` ve ürün adından oluşturulmuştur; örneğin Son Aşk: `500-0304-son-ask`. Aynı anahtar fiyat dosyasında, tüm dil içeriklerinde ve route/şablon kayıtlarında eşleştirilmiştir. Eski URL'ler korunur; önceki anahtar `legacyKeys` içinde tutulur. SKU alanları değiştirilmemiştir.
+
+Mağaza/platform sipariş alanının altındaki “Size en yakın mağazamız” butonu, mevcut mağaza bulucuyu modal içinde açar. Ülke ve mağaza adı filtreleri, telefon ve detay bağlantıları aynı kaynak şablonunu kullanır. Gerçek mesafe sıralaması için mağaza koordinatları ve konum verisi ayrıca gerekir; mevcut yapıda mağazalar ülke/ad ile bulunur.

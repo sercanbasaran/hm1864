@@ -4,10 +4,12 @@
   "products": [
     {
       "code": "500.0101",
-      "key": "500-01-12-lotus-kulesi",
+      "key": "500-0101-lotus-kulesi",
       "url": "urunler/pastalar/biskuvili-pastalar/lotus-kulesi.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0101_01.png"],
+      "images": [
+        "pastalar/500_0101_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -30,26 +32,33 @@
           "code": "dilim",
           "sku": "500.0101.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0101_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0101.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-12-lotus-kulesi"
       ]
     },
     {
       "code": "500.0201",
-      "key": "500-01-04-diplomat",
+      "key": "500-0201-diplomat",
       "url": "urunler/pastalar/cikolatali-pastalar/diplomat.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0201_01.png"],
+      "images": [
+        "pastalar/500_0201_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -72,26 +81,33 @@
           "code": "dilim",
           "sku": "500.0201.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0201_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0201.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-04-diplomat"
       ]
     },
     {
       "code": "500.0202",
-      "key": "500-01-05-kara-sevda",
+      "key": "500-0202-kara-sevda",
       "url": "urunler/pastalar/cikolatali-pastalar/kara-sevda.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0202_01.png"],
+      "images": [
+        "pastalar/500_0202_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -114,26 +130,33 @@
           "code": "dilim",
           "sku": "500.0202.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0202_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0202.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-05-kara-sevda"
       ]
     },
     {
       "code": "500.0203",
-      "key": "500-01-06-siyah-inci",
+      "key": "500-0203-siyah-inci",
       "url": "urunler/pastalar/cikolatali-pastalar/siyah-inci.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0203_01.png"],
+      "images": [
+        "pastalar/500_0203_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -156,26 +179,33 @@
           "code": "dilim",
           "sku": "500.0203.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0203_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0203.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-06-siyah-inci"
       ]
     },
     {
       "code": "500.0301",
-      "key": "500-01-08-cilek-ruyasi",
+      "key": "500-0301-cilek-ruyasi",
       "url": "urunler/pastalar/cilekli-pastalar/cilek-ruyasi.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0301_01.png"],
+      "images": [
+        "pastalar/500_0301_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -198,26 +228,33 @@
           "code": "dilim",
           "sku": "500.0301.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0301_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0301.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-08-cilek-ruyasi"
       ]
     },
     {
       "code": "500.0302",
-      "key": "500-01-14-ilk-ask",
+      "key": "500-0302-ilk-ask",
       "url": "urunler/pastalar/cilekli-pastalar/ilk-ask.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0302_01.png"],
+      "images": [
+        "pastalar/500_0302_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -240,26 +277,33 @@
           "code": "dilim",
           "sku": "500.0302.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0302_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0302.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-14-ilk-ask"
       ]
     },
     {
       "code": "500.0303",
-      "key": "500-01-09-pembe-ruya",
+      "key": "500-0303-pembe-ruya",
       "url": "urunler/pastalar/cilekli-pastalar/pembe-ruya.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0303_01.png"],
+      "images": [
+        "pastalar/500_0303_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -282,26 +326,33 @@
           "code": "dilim",
           "sku": "500.0303.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0303_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0303.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-09-pembe-ruya"
       ]
     },
     {
       "code": "500.0304",
-      "key": "500-01-17-son-ask",
+      "key": "500-0304-son-ask",
       "url": "urunler/pastalar/cilekli-pastalar/son-ask.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0304_01.png"],
+      "images": [
+        "pastalar/500_0304_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -324,26 +375,33 @@
           "code": "dilim",
           "sku": "500.0304.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0304_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0304.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-17-son-ask"
       ]
     },
     {
       "code": "500.0401",
-      "key": "500-01-13-istanbul-hikayesi",
+      "key": "500-0401-istanbul-hikayesi",
       "url": "urunler/pastalar/fistikli-pastalar/istanbul-hikayesi.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0401_01.png"],
+      "images": [
+        "pastalar/500_0401_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -366,26 +424,33 @@
           "code": "dilim",
           "sku": "500.0401.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0401_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0401.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-13-istanbul-hikayesi"
       ]
     },
     {
       "code": "500.05.01",
-      "key": "500-01-01-cikolat-ahu",
+      "key": "500-05-01-cikolat-ahu",
       "url": "urunler/pastalar/frambuazli-pastalar/cikolat-ahu.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0501_01.png"],
+      "images": [
+        "pastalar/500_0501_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -408,26 +473,33 @@
           "code": "dilim",
           "sku": "500.05.01.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0501_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.05.01.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-01-cikolat-ahu"
       ]
     },
     {
       "code": "500.0502",
-      "key": "500-01-02-tatli-ahu",
+      "key": "500-0502-tatli-ahu",
       "url": "urunler/pastalar/frambuazli-pastalar/tatli-ahu.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0502_01.png"],
+      "images": [
+        "pastalar/500_0502_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -450,26 +522,33 @@
           "code": "dilim",
           "sku": "500.0502.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0502_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0502.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-02-tatli-ahu"
       ]
     },
     {
       "code": "500.0601",
-      "key": "500-01-10-cikolatali-meyve-bahcesi",
+      "key": "500-0601-cikolatali-meyve-bahcesi",
       "url": "urunler/pastalar/karisik-meyveli-pastalar/cikolatali-meyve-bahcesi.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0601_01.png"],
+      "images": [
+        "pastalar/500_0601_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -492,26 +571,33 @@
           "code": "dilim",
           "sku": "500.0601.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0601_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0601.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-10-cikolatali-meyve-bahcesi"
       ]
     },
     {
       "code": "500.0602",
-      "key": "500-01-11-meyve-bahcesi",
+      "key": "500-0602-meyve-bahcesi",
       "url": "urunler/pastalar/karisik-meyveli-pastalar/meyve-bahcesi.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0602_01.png"],
+      "images": [
+        "pastalar/500_0602_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -534,26 +620,33 @@
           "code": "dilim",
           "sku": "500.0602.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0602_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0602.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-11-meyve-bahcesi"
       ]
     },
     {
       "code": "500.0701",
-      "key": "500-01-07-beyaz-inci",
+      "key": "500-0701-beyaz-inci",
       "url": "urunler/pastalar/muzlu-pastalar/beyaz-inci.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0701_01.png"],
+      "images": [
+        "pastalar/500_0701_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -576,26 +669,33 @@
           "code": "dilim",
           "sku": "500.0701.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0701_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0701.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-07-beyaz-inci"
       ]
     },
     {
       "code": "500.0702",
-      "key": "500-01-16-buyuk-ask",
+      "key": "500-0702-buyuk-ask",
       "url": "urunler/pastalar/muzlu-pastalar/buyuk-ask.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0702_01.png"],
+      "images": [
+        "pastalar/500_0702_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -618,26 +718,33 @@
           "code": "dilim",
           "sku": "500.0702.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0702_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0702.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-16-buyuk-ask"
       ]
     },
     {
       "code": "500.0703",
-      "key": "500-01-15-sonsuz-ask",
+      "key": "500-0703-sonsuz-ask",
       "url": "urunler/pastalar/muzlu-pastalar/sonsuz-ask.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0703_01.png"],
+      "images": [
+        "pastalar/500_0703_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -660,26 +767,33 @@
           "code": "dilim",
           "sku": "500.0703.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0703_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0703.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-15-sonsuz-ask"
       ]
     },
     {
       "code": "500.0801",
-      "key": "500-01-03-amazon-buyusu",
+      "key": "500-0801-amazon-buyusu",
       "url": "urunler/pastalar/orman-meyveli-pastalar/amazon-buyusu.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0801_01.png"],
+      "images": [
+        "pastalar/500_0801_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -702,18 +816,23 @@
           "code": "dilim",
           "sku": "500.0801.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0801_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0801.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
+      ],
+      "legacyKeys": [
+        "500-01-03-amazon-buyusu"
       ]
     },
     {
@@ -721,7 +840,9 @@
       "key": "500-0802-amazon-hikayesi",
       "url": "urunler/pastalar/orman-meyveli-pastalar/amazon-hikayesi.html",
       "currency": "TRY",
-      "images": ["pastalar/500_0802_01.png"],
+      "images": [
+        "pastalar/500_0802_01.png"
+      ],
       "stock": null,
       "onlineSale": false,
       "commonMarket": true,
@@ -744,17 +865,19 @@
           "code": "dilim",
           "sku": "500.0802.01",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": [
+            "pastalar/500_0802_01.png"
+          ]
         },
         {
           "code": "baton",
           "sku": "500.0802.02",
           "stock": null,
-          "image": "",
           "onlineSale": false,
-          "commonMarket": true
+          "commonMarket": true,
+          "images": []
         }
       ]
     }
