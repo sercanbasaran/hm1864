@@ -1,8 +1,9 @@
 export function validateRegions(config,languages){
-  if(config?.schemaVersion!==1||!Array.isArray(config.countries)||!Array.isArray(languages))throw Error('Bölge dosyasının yapısı geçersiz.');
+  if(config?.schemaVersion!==1||!Array.isArray(config.countries)||!Array.isArray(config.currencies)||!Array.isArray(languages))throw Error('Bölge dosyasının yapısı geçersiz.');
   const countries=new Set(config.countries.map(c=>c.code));
   const languageCodes=new Set(languages.map(l=>l.code));
-  if(countries.size!==config.countries.length||languageCodes.size!==languages.length||!countries.has(config.defaultCountry)||!languageCodes.has(config.defaultLanguage)||config.countries.some(c=>!languageCodes.has(c.defaultLanguage)))throw Error('Bölge veya dil tanımları geçersiz.');
+  const currencies=new Set(config.currencies);
+  if(countries.size!==config.countries.length||languageCodes.size!==languages.length||currencies.size!==config.currencies.length||!countries.has(config.defaultCountry)||!languageCodes.has(config.defaultLanguage)||!currencies.has(config.defaultCurrency)||config.currencies.some(c=>!/^[A-Z]{3}$/.test(c))||config.countries.some(c=>!languageCodes.has(c.defaultLanguage)||!currencies.has(c.defaultCurrency)))throw Error('Bölge, dil veya para birimi tanımları geçersiz.');
   return {...config,languages};
 }
 
@@ -10,15 +11,24 @@ export function normalizePreferences(value,config,content){
   if(!value||!config)return null;
   const country=config.countries.find(c=>c.code===value.country||content?.texts?.['region.country.'+c.code]?.tr===value.country);
   const language=config.languages.find(l=>l.code===value.language||l.name===value.language);
-  return country&&language?{country:country.code,language:language.code}:null;
+  const currency=value.currency===undefined?country?.defaultCurrency:value.currency;
+  return country&&language&&config.currencies.includes(currency)?{country:country.code,language:language.code,currency}:null;
 }
 
 export function validateRegionalCatalog(data,config){
   const countries=new Set(config.countries.map(c=>c.code));
   const languages=new Set(config.languages.map(l=>l.code));
+  const currencies=new Set(config.currencies);
   for(const item of [...data.categories,...data.subcategories,...data.products]){
     if(item.markets!==undefined&&(!Array.isArray(item.markets)||!item.markets.length||item.markets.some(code=>!countries.has(code))))throw Error('Ürün veya kategori bölge kodu geçersiz.');
     if(item.translations!==undefined&&(typeof item.translations!=='object'||item.translations===null||Array.isArray(item.translations)||Object.entries(item.translations).some(([code,text])=>!languages.has(code)||!text||typeof text!=='object'||Array.isArray(text)||Object.entries(text).some(([key,value])=>!['name','description','ingredients','servingSuggestion','storage','longTermStorage','delivery','packaging'].includes(key)||typeof value!=='string'))))throw Error('Ürün veya kategori çevirisi geçersiz.');
+    if(item.pricesByCurrency!==undefined&&(!item.pricesByCurrency||typeof item.pricesByCurrency!=='object'||Array.isArray(item.pricesByCurrency)||Object.entries(item.pricesByCurrency).some(([code,price])=>!currencies.has(code)||typeof price!=='number'||!Number.isFinite(price)||price<0)))throw Error('Para birimine göre fiyat geçersiz.');
+  }
+  for(const product of data.products){
+    if(!currencies.has(product.currency))throw Error('Ürün para birimi geçersiz.');
+    for(const variant of product.variants){
+      if(variant.pricesByCurrency!==undefined&&(!variant.pricesByCurrency||typeof variant.pricesByCurrency!=='object'||Array.isArray(variant.pricesByCurrency)||Object.entries(variant.pricesByCurrency).some(([code,price])=>!currencies.has(code)||typeof price!=='number'||!Number.isFinite(price)||price<0)))throw Error('Varyant para birimi fiyatı geçersiz.');
+    }
   }
   return data;
 }

@@ -2,30 +2,38 @@
   "schemaVersion": 1,
   "defaultCountry": "TR",
   "defaultLanguage": "tr",
+  "defaultCurrency": "TRY",
+  "currencies": ["TRY", "AED", "GBP", "EUR", "USD"],
   "countries": [
     {
       "code": "TR",
-      "defaultLanguage": "tr"
+      "defaultLanguage": "tr",
+      "defaultCurrency": "TRY"
     },
     {
       "code": "AE",
-      "defaultLanguage": "ar"
+      "defaultLanguage": "ar",
+      "defaultCurrency": "AED"
     },
     {
       "code": "GB",
-      "defaultLanguage": "en"
+      "defaultLanguage": "en",
+      "defaultCurrency": "GBP"
     },
     {
       "code": "DE",
-      "defaultLanguage": "en"
+      "defaultLanguage": "en",
+      "defaultCurrency": "EUR"
     },
     {
       "code": "FR",
-      "defaultLanguage": "en"
+      "defaultLanguage": "en",
+      "defaultCurrency": "EUR"
     },
     {
       "code": "US",
-      "defaultLanguage": "en"
+      "defaultLanguage": "en",
+      "defaultCurrency": "USD"
     }
   ]
 }

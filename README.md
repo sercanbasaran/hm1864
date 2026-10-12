@@ -27,7 +27,7 @@ Katalog verisini değiştirdikten sonra `npm run build` çalıştırın. Yeni UR
 
 ## Bölge ve dil seçimi
 
-İlk ziyarette bölge ve dil penceresi açılır; seçim yapılana kadar kapatılamaz. Tercih tarayıcıda saklanır ve header üzerinden daha sonra değiştirilebilir. Önceden kaydedilmiş ülke/dil adları da kodlara dönüştürülerek korunur. `public/assets/data/regions.json` ülkeleri (`TR`, `AE`, `GB`, `DE`, `FR`, `US`) ve ülke seçildiğinde önerilen dili tanımlar. Dil seçenekleri ve ülke adları `public/assets/data/content.json` içindedir. Bunlar gerçek teslimat ve ödeme entegrasyonu değildir.
+İlk ziyarette bölge ve dil penceresi açılır; seçim yapılana kadar kapatılamaz. Tercih tarayıcıda saklanır ve header üzerinden daha sonra değiştirilebilir. Önceden kaydedilmiş ülke/dil adları da kodlara dönüştürülerek korunur. `public/assets/data/regions.json` ülkeleri (`TR`, `AE`, `GB`, `DE`, `FR`, `US`) ve ülke seçildiğinde önerilen dili tanımlar. `regions.json` aynı zamanda izin verilen para birimlerini ve ülke varsayılanlarını (`TRY`, `AED`, `GBP`, `EUR`, `USD`) tanımlar. Dil seçenekleri, ülke adları ve seçim penceresi metinleri `public/assets/data/content.json` içindedir. Kullanıcı ülkeyi değiştirdiğinde varsayılan dil ve para birimi seçilir; iki alanı daha sonra bağımsız değiştirebilir. Eski kaydedilmiş tercihlerde para birimi yoksa seçili ülkenin varsayılanı kullanılır. Bunlar gerçek teslimat ve ödeme entegrasyonu değildir.
 
 Yeni çeviri eklemek için `content.json` dosyasında ilgili anahtarın boş dil değerini doldurun; örneğin:
 
@@ -41,6 +41,20 @@ Yeni çeviri eklemek için `content.json` dosyasında ilgili anahtarın boş dil
 
 Sayfa metinleri `src/templates.json` içinde `@text:...` anahtarlarıyla, sayfa başlıkları `src/routes.json` içinde `titleKey` ile bağlanır. Görünen sabit bir metin eklerken önce `content.json` dosyasına bir anahtar ekleyin. Yeni dil için `languages` listesine kod ve ad ekleyip her `texts` kaydına aynı dil kodu için boş bir alan ekleyin. Boş bırakılan alanlarda Türkçe gösterilir.
 
+Farklı para birimlerinde fiyatlar **kur çevirisiyle hesaplanmaz**. `products.json` içindeki ürünün mevcut `price` ve `currency` alanları temel fiyatı belirler. Başka para birimindeki onaylanmış fiyatı `pricesByCurrency` alanına sayı olarak yazın. Varyantlı üründe her varyantın ilgili para birimi fiyatını ayrıca ekleyin; varyant fiyatı eksikse yanlış tutar göstermek yerine fiyat bekleniyor mesajı görünür. `0` geçerli bir fiyattır; fiyatlar mevcut `price` alanındaki birimle (örneğin 1999.00) girilir. Örnek:
+
+```json
+{
+  "price": 1999,
+  "currency": "TRY",
+  "pricesByCurrency": {"AED": 210, "GBP": 49},
+  "variants": [
+    {"code": "S", "price": 1999, "pricesByCurrency": {"AED": 210, "GBP": 49}},
+    {"code": "L", "price": 2999, "pricesByCurrency": {"AED": 310, "GBP": 69}}
+  ]
+}
+```
+
 `products.json` içindeki bir ürün, kategori veya alt kategoriye isteğe bağlı `markets` ve `translations` eklenebilir:
 
 ```json
@@ -51,7 +65,7 @@ Sayfa metinleri `src/templates.json` içinde `@text:...` anahtarlarıyla, sayfa 
 }
 ```
 
-`markets` yoksa kayıt tüm bölgelerde görünür; varsa yalnızca listelenen kodlarda görünür. Bölge değiştiğinde menü, kategori ve arama sonuçları aynı filtrelenmiş katalogdan üretilir. Çeviri yoksa mevcut Türkçe metin gösterilir. Ürün ve kategori URL'leri dil değişiminde aynı kalır. Sabit arayüz ve sayfa metinleri `public/assets/data/content.json` dosyasındaki `texts` alanından alınır; `languages` listesi seçilebilir dilleri belirler. Her metin anahtarında `tr`, `en`, `ar` alanı bulunur. Boş çeviri alanlarında Türkçe gösterilir. `src/i18n.js` yalnızca okuma ve geri dönüş mantığını içerir. Metinlerde `{count}`, `{name}` gibi yer tutucuları koruyun. Ürün ve kategori adları ile ürün açıklamalarının çevirileri `products.json` içindeki ilgili kaydın `translations.en` veya `translations.ar` alanına eklenir. Fiyat/para birimi bölgeye göre otomatik dönüştürülmez.
+`markets` yoksa kayıt tüm bölgelerde görünür; varsa yalnızca listelenen kodlarda görünür. Bölge değiştiğinde menü, kategori ve arama sonuçları aynı filtrelenmiş katalogdan üretilir. Çeviri yoksa mevcut Türkçe metin gösterilir. Ürün ve kategori URL'leri dil değişiminde aynı kalır. Sabit arayüz ve sayfa metinleri `public/assets/data/content.json` dosyasındaki `texts` alanından alınır; `languages` listesi seçilebilir dilleri belirler. Her metin anahtarında `tr`, `en`, `ar` alanı bulunur. Boş çeviri alanlarında Türkçe gösterilir. `src/i18n.js` yalnızca okuma ve geri dönüş mantığını içerir. Metinlerde `{count}`, `{name}` gibi yer tutucuları koruyun. Ürün ve kategori adları ile ürün açıklamalarının çevirileri `products.json` içindeki ilgili kaydın `translations.en` veya `translations.ar` alanına eklenir. Seçilen para biriminin fiyatı ürün verisinde yoksa fiyat eklenene kadar tutar gösterilmez.
 
 ## Etkileşimler ve sınırlar
 

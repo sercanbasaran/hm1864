@@ -2289,6 +2289,21 @@
       "tr": " | Hafız Mustafa 1864",
       "en": " | Hafız Mustafa 1864",
       "ar": " | حافظ مصطفى 1864"
+    },
+    "ui.currency": {
+      "tr": "Para birimi",
+      "en": "Currency",
+      "ar": "العملة"
+    },
+    "ui.priceUnavailableCurrency": {
+      "tr": "{currency} fiyatı henüz eklenmedi.",
+      "en": "{currency} price is not yet available.",
+      "ar": "سعر {currency} غير متوفر بعد."
+    },
+    "ui.currencyNote": {
+      "tr": "Fiyatlar yalnızca ürün verisinde tanımlı para birimlerinde gösterilir; otomatik kur dönüşümü yapılmaz.",
+      "en": "Prices are shown only for currencies provided in the product data; no automatic conversion is applied.",
+      "ar": "تُعرض الأسعار فقط للعملات المحددة في بيانات المنتج؛ لا يتم التحويل تلقائياً."
     }
   }
 }
