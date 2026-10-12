@@ -103,3 +103,15 @@ Hızlı önizleme için ZIP'i açın; Netlify'de **Add new project → Deploy ma
 Düzenli güncelleme için kaynak klasörünü bir Git deposuna aktarın ve Netlify'de depoyu bağlayın. Proje kökündeki `netlify.toml` derleme komutunu `npm run build`, yayın klasörünü `dist` ve Node sürümünü 22 olarak ayarlar. Netlify'nin varsayılan Pretty URLs işlemi `.html` adresini uzantısız hale getirirse React yönlendiricisi bu adresleri de eşler.
 
 Bu pakette `noindex,nofollow` meta etiketi bulunur. Netlify adresiyle yalnızca önizleme yapılacaksa uygundur. Arama motorlarında listelenecek gerçek mağaza yayını öncesinde `index.html` içindeki bu etiketi ve sipariş/ödeme entegrasyonunu ayrıca ele alın.
+
+## Pasta kataloğu (12 Ekim 2026)
+
+`ÜRÜN LİSTESİ (500_PASTALAR).xlsx` kaynak dosyasından 18 ürün, 36 Dilim/Baton varyantı ve 8 alt kategori aktarıldı. SKU noktaları aynen korunur. Varyantın `onlineSale`, `commonMarket`, `portion`, `weight`, `price`, `pricesByCurrency`, `ingredients`, `allergenInfo`, `storage`, `servingSuggestion`, `longTermStorage` alanları kaynak satırından gelir. `ingredients` yalnızca İÇİNDEKİLER KISA alanıdır; FULL kullanılmaz. Kaynakta olmayan görsel, açıklama, stok, besin değeri, teslimat ve ambalaj bilgileri boş kalır. Dilim ve Baton fiyatları kaynakta eşittir; değişiklik yapılmamıştır.
+
+`onlineSale: false` ve `commonMarket: true` ürünü katalogda gösterir; seçili varyantta satın alma alanını kaldırır ve mağaza/platform sipariş notunu gösterir. İki bayrak da false ise ürün çevrimiçi katalogdan gizlenir. Tanımsız bayraklar önceki ürünlerin görünürlüğünü değiştirmez.
+
+Ürün ve alt kategori adları `translations.<dil>.name`; varyant metinleri `variants[].translations.<dil>` alanından okunur. Her varyantta `label`, `portion`, `weight`, `ingredients`, `allergenInfo`, `servingSuggestion`, `storage`, `longTermStorage`, `description`, `delivery`, `packaging` alanlarının 13 diğer dilde boş karşılıkları hazırdır. Boş çeviri Türkçe kaynak metni korur. Fiyatlar dil çevirisine girmez. Örnek: `variants[0].translations.en.ingredients`.
+
+Platform adları, logoları ve sipariş bağlantıları `products.json` içindeki `orderPlatforms` listesindedir. Kaynakta bağlantı olmadığı için `url` boş bırakılmıştır; logo bilgi olarak gösterilir. Doğrulanmış mağaza/platform URL'si eklendiğinde logo bağlantıya dönüşür.
+
+Logo kaynakları: Uber Eats: Simple Icons (https://github.com/simple-icons/simple-icons). Yemeksepeti simgesi: Arcticons (https://github.com/Arcticons-Team/Arcticons), CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/); kırmızı zemin eklendi.

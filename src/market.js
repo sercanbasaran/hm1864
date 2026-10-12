@@ -1,3 +1,4 @@
+const translatedFields=['name','label','description','ingredients','allergenInfo','servingSuggestion','storage','longTermStorage','delivery','packaging','portion','weight'];
 export function validateRegions(config,languages){
   if(config?.schemaVersion!==2||!Array.isArray(config.groups)||!Array.isArray(config.countries)||!Array.isArray(config.currencies)||!Array.isArray(languages))throw Error('Bölge dosyasının yapısı geçersiz.');
   const countries=new Set(config.countries.map(c=>c.code));
@@ -40,11 +41,12 @@ export function validateRegionalCatalog(data,config){
   const currencies=new Set(config.currencies);
   for(const item of [...data.categories,...data.subcategories,...data.products]){
     if(item.markets!==undefined&&(!Array.isArray(item.markets)||!item.markets.length||item.markets.some(code=>!countries.has(code)&&!groups.has(code))))throw Error('Ürün veya kategori bölge kodu geçersiz.');
-    if(item.translations!==undefined&&(typeof item.translations!=='object'||item.translations===null||Array.isArray(item.translations)||Object.entries(item.translations).some(([code,text])=>!languages.has(code)||!text||typeof text!=='object'||Array.isArray(text)||Object.entries(text).some(([key,value])=>!['name','description','ingredients','servingSuggestion','storage','longTermStorage','delivery','packaging'].includes(key)||typeof value!=='string'))))throw Error('Ürün veya kategori çevirisi geçersiz.');
+    if(item.translations!==undefined&&(typeof item.translations!=='object'||item.translations===null||Array.isArray(item.translations)||Object.entries(item.translations).some(([code,text])=>!languages.has(code)||!text||typeof text!=='object'||Array.isArray(text)||Object.entries(text).some(([key,value])=>!translatedFields.includes(key)||typeof value!=='string'))))throw Error('Ürün veya kategori çevirisi geçersiz.');
     if(item.pricesByCurrency!==undefined&&(!item.pricesByCurrency||typeof item.pricesByCurrency!=='object'||Array.isArray(item.pricesByCurrency)||Object.entries(item.pricesByCurrency).some(([code,price])=>!currencies.has(code)||typeof price!=='number'||!Number.isFinite(price)||price<0)))throw Error('Para birimine göre fiyat geçersiz.');
   }
   for(const product of data.products){
     if(!currencies.has(product.currency))throw Error('Ürün para birimi geçersiz.');
+    for(const item of [product,...product.variants]){for(const key of ['onlineSale','commonMarket'])if(item[key]!=null&&typeof item[key]!=='boolean')throw Error('Satış kanalı değeri geçersiz.');if(item.translations&&Object.entries(item.translations).some(([lang,fields])=>!languages.has(lang)||!fields||Object.entries(fields).some(([key,value])=>!translatedFields.includes(key)||typeof value!=='string')))throw Error('Varyant çevirisi geçersiz.');}
     for(const variant of product.variants){
       if(variant.pricesByCurrency!==undefined&&(!variant.pricesByCurrency||typeof variant.pricesByCurrency!=='object'||Array.isArray(variant.pricesByCurrency)||Object.entries(variant.pricesByCurrency).some(([code,price])=>!currencies.has(code)||typeof price!=='number'||!Number.isFinite(price)||price<0)))throw Error('Varyant para birimi fiyatı geçersiz.');
     }
@@ -56,10 +58,10 @@ export function regionalCatalog(data,preferences,config){
   const country=preferences?.country||config.defaultCountry;
   const group=countryDefaults(config,country).group;
   const language=preferences?.language||config.defaultLanguage;
-  const visible=item=>!Array.isArray(item.markets)||item.markets.includes(country)||item.markets.includes(group);
+  const visible=item=>(item.onlineSale!==false||item.commonMarket!==false)&&(!Array.isArray(item.markets)||item.markets.includes(country)||item.markets.includes(group));
   const translated=item=>{
     const text=item.translations?.[language]||{};
-    return {...item,...Object.fromEntries(['name','description','ingredients','servingSuggestion','storage','longTermStorage','delivery','packaging'].filter(key=>typeof text[key]==='string').map(key=>[key,text[key]]))};
+    return {...item,...Object.fromEntries(translatedFields.filter(key=>typeof text[key]==='string'&&text[key].trim()).map(key=>[key,text[key]]))};
   };
   const visibleCategories=data.categories.filter(visible);
   const categories=visibleCategories.map(translated);
@@ -71,7 +73,7 @@ export function regionalCatalog(data,preferences,config){
   const products=data.products.filter(p=>visible(p)&&visibleCategories.some(c=>c.name===p.category)&&visibleSubcategories.some(s=>s.category===p.category&&s.name===p.subcategory)).map(p=>{
     const parent=data.categories.find(c=>c.name===p.category);
     const sub=data.subcategories.find(s=>s.category===p.category&&s.name===p.subcategory);
-    return {...translated(p),category:parent?.translations?.[language]?.name||p.category,subcategory:sub?.translations?.[language]?.name||p.subcategory};
+    return {...translated(p),variants:p.variants.map(translated),category:parent?.translations?.[language]?.name||p.category,subcategory:sub?.translations?.[language]?.name||p.subcategory};
   });
   return {...data,categories,subcategories,products};
 }

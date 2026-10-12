@@ -8170,6 +8170,38 @@
       "ur": "",
       "fa": "",
       "pt": ""
+    },
+    "ui.storeOnlyTitle": {
+      "tr": "Mağaza ve platform siparişi",
+      "en": "In-store and platform orders",
+      "ar": "الطلبات من المتاجر والمنصات",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "ui.storeOnlyNote": {
+      "tr": "Bu ürünler yalnızca mağazalarımızda ve aşağıdaki platformlardan sipariş edilebilir.",
+      "en": "These products can only be ordered in our stores and through the platforms below.",
+      "ar": "يمكن طلب هذه المنتجات فقط من متاجرنا وعبر المنصات التالية.",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
     }
   }
 }
