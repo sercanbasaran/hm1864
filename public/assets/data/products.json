@@ -11,7 +11,7 @@
       "currency": "TRY",
       "description": "",
       "images": [
-        "../images/urunler/kahvalti/su-boregi.jpeg"
+        "kahvalti/su-boregi.jpeg"
         
     ],
       "weight": null,
