@@ -302,3 +302,10 @@ Soru-cevap bölümlerindeki `searchable: true` yerel aramayı açar. `contacts` 
 Kurumsal, Asırlık Miras, Destek ve Sözleşme & Politikalar içerik tasarımları ortak beyaz/siyah/kırmızı/gri palette çalışır; marka hero görselleri gri tonla sunulur. Mevcut global header tasarımı korunur. Desktop içerik alanı 1280px ile sınırlıdır.
 
 Siparişe özel sözleşme, ödeme ve hesap hizmetleri bu içerik sayfaları tarafından oluşturulmaz. Satıcı/veri sorumlusu doğrulaması ve işlem bazlı hukuki alanlar için `docs/support-policy-authoring.md` içindeki düzenleme notlarını kullanın.
+
+
+## Ürün listeleme kartlarında açıklama ve varyantlar
+
+Ortak kart şablonu `src/components/products/ProductCard.jsx` içinde; kategori listeleri ve anasayfa ürün kartları aynı şablonu kullanır. Kategori bazındaki `public/assets/data/products/<kategori>/content/<dil>.json` dosyasında ürünün `description` alanı kısa açıklamayı, `variants.<kod>.label`, `portion`, `weight` ve `description` alanları varyant bilgilerini yönetir. Varyantların yapısı aynı kategorinin `products.json` dosyasından gelir.
+
+Ürün açıklaması kartta en fazla üç, farklı varyant açıklaması iki satır görünür; tam metin JSON’da ve ürün detayında korunur. Ürünle aynı açıklama her varyantta tekrarlanmaz. Boş ve dummy açıklamalar gizlenir; gerçek veri uydurulmaz. Bölge/dil seçimi mevcut katalog çeviri mekanizmasıyla uygulanır. Varyantlar bilgi olarak listelenir; satın alınacak seçenek ürün detayında seçilir.

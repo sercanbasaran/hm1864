@@ -225,6 +225,17 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.ok(window.document.querySelector('a[href="tel:+905527735508"]'));
  assert.equal(window.document.querySelectorAll('header.site-header').length,1);
 
+ const listingLink=window.document.createElement('a');listingLink.href='/'+edited.categories.find(c=>c.id==='baklavalar').url;window.document.querySelector('#main').appendChild(listingLink);listingLink.click();await wait();
+ const listedCard=[...window.document.querySelectorAll('.product-card')].find(card=>card.querySelector('.product-picture').getAttribute('href')==='/'+p.url);
+ assert.ok(listedCard);assert.equal(listedCard.querySelectorAll('.card-variants li').length,p.variants.length);
+ assert.equal(listedCard.querySelector('.card-description'),null);
+ assert.equal(listedCard.querySelector('.card-variant-description strong').textContent,'Deneme');
+ assert.equal(listedCard.querySelector('.card-variant-description script'),null);assert.equal(window.bad,undefined);
+ const cakeListingLink=window.document.createElement('a');cakeListingLink.href='/'+edited.categories.find(c=>c.id==='pastalar').url;window.document.querySelector('#main').appendChild(cakeListingLink);cakeListingLink.click();await wait();
+ const cakeCard=[...window.document.querySelectorAll('.product-card')].find(card=>card.querySelector('.product-picture').getAttribute('href')==='/'+cake.url);
+ assert.equal(cakeCard.querySelector('.card-description').textContent,cake.description);
+ assert.equal(cakeCard.querySelectorAll('.card-variants li').length,cake.variants.length);
+
  }finally{window.happyDOM.abort();}
 });
 

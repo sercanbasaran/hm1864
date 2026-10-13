@@ -512,6 +512,22 @@
       "ur": "اپنے قریب ترین اسٹور کو تلاش کریں",
       "fa": "یافتن نزدیک‌ترین فروشگاه",
       "pt": "Encontre a loja mais próxima"
+    },
+    "ui.availableVariants": {
+      "tr": "Mevcut varyantlar",
+      "en": "Available variants",
+      "ar": "الخيارات المتاحة",
+      "de": "Verfügbare Varianten",
+      "fr": "Variantes disponibles",
+      "it": "Varianti disponibili",
+      "es": "Variantes disponibles",
+      "ru": "Доступные варианты",
+      "zh-CN": "可选规格",
+      "ja": "選択できるバリエーション",
+      "hi": "उपलब्ध विकल्प",
+      "ur": "دستیاب اختیارات",
+      "fa": "گزینه‌های موجود",
+      "pt": "Variantes disponíveis"
     }
   }
 }
