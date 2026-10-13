@@ -3,109 +3,2020 @@
   "language": "de",
   "products": {
     "600-01-01-asure": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Aşure",
+      "description": "Ein traditioneller Genuss für die Tafel, als Symbol für Fülle und Teilen.",
+      "ingredients": "Wasser, Zucker, Weizen für Aşure, Kartoffelstärke, Maisstärke, gekochte Kichererbsen, Aprikose, Feige, Weintrauben, Haselnuss, Walnuss, Korinthen, Reis, Reissuspension (Reis, Wasser), Rosenaroma, Salz, Vanillinaroma, Farbstoff (Curcumin).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "130,7 kcal / 547,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "1,68",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "26,54",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "11,24",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "2,2",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "1,34",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "Pro 100 g: Energie 130,7 kcal / 547,0 kJ; Fett 1,68 g; Gesättigte Fettsäuren 0,1 g; Kohlenhydrate 26,54 g; Zucker 11,24 g; Ballaststoffe 2,2 g; Eiweiß 1,34 g; Salz nicht angegeben.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "410 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Ein traditioneller Genuss für die Tafel, als Symbol für Fülle und Teilen.",
+          "ingredients": "Wasser, Zucker, Weizen für Aşure, Kartoffelstärke, Maisstärke, gekochte Kichererbsen, Aprikose, Feige, Weintrauben, Haselnuss, Walnuss, Korinthen, Reis, Reissuspension (Reis, Wasser), Rosenaroma, Salz, Vanillinaroma, Farbstoff (Curcumin).",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Weizengluten, Haselnuss, Walnuss.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "410 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Weizengluten, Haselnuss, Walnuss.",
+      "portion": "Für eine Person"
     },
     "600-01-02-firin-sutlac": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Ofen-Milchreis",
+      "description": "Ein nostalgischer Genuss, im Ofen goldbraun gebacken.",
+      "ingredients": "Kuhmilch, Büffelmilch, Zucker, Reis, Reissuspension (Reis, Wasser), Salz.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "146,8 kcal / 614,211 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "22,9",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 146,8 kcal / 614,211 kJ; Fett 4,7 g; Gesättigte Fettsäuren 3,3 g; Kohlenhydrate 22,9 g; Zucker 13,2 g; Ballaststoffe 0,2 g; Eiweiß 3,3 g; Salz 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Ein nostalgischer Genuss, im Ofen goldbraun gebacken.",
+          "ingredients": "Kuhmilch, Büffelmilch, Zucker, Reis, Reissuspension (Reis, Wasser), Salz.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Milchprodukte.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "400 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Milchprodukte.",
+      "portion": "Für eine Person"
     },
     "600-01-03-tavukgogsu": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Tavukgöğsü",
+      "description": "Der samtige Geschmack der Geschichte, meisterlich zubereitet von Hafız Mustafa.",
+      "ingredients": "Büffelmilch, Kuhmilch, Hähnchenbrust, Zucker, Reissuspension (Reis, Wasser), ungesüßte Schlagsahne, Zimt, Salz.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "164,2 kcal / 687,013 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 164,2 kcal / 687,013 kJ; Fett 4,2 g; Gesättigte Fettsäuren 2,9 g; Kohlenhydrate 28,1 g; Zucker 17,4 g; Ballaststoffe 0,3 g; Eiweiß 3,6 g; Salz 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Der samtige Geschmack der Geschichte, meisterlich zubereitet von Hafız Mustafa.",
+          "ingredients": "Büffelmilch, Kuhmilch, Hähnchenbrust, Zucker, Reissuspension (Reis, Wasser), ungesüßte Schlagsahne, Zimt, Salz.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Milchprodukte, Soja.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "270 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Milchprodukte, Soja.",
+      "portion": "Für eine Person"
     },
     "600-01-04-zerde": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Zerde",
+      "description": "Kostbarer Safran aus der osmanischen Palastküche, bis heute bewahrt.",
+      "ingredients": "Wasser, Reis, Reissuspension (Reis, Wasser), Safran, Haselnuss, Antep-Pistazien, Korinthen, Salz, Zucker, Zimt, Maisstärke, Kartoffelstärke, Gewürznelke, Aromen (Vanillin, Kokosnuss, Rose), Farbstoff (Curcumin).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "119 kcal / ungefähr 497,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": null,
+            "unit": ""
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "29",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "Pro 100 g: Energie 119 kcal / ungefähr 497,9 kJ; Fett 0,1 g; Gesättigte Fettsäuren nicht angegeben; Kohlenhydrate 29 g; Zucker 15,7 g; Ballaststoffe 0,2 g; Eiweiß 0,5 g; Salz nicht angegeben.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Kostbarer Safran aus der osmanischen Palastküche, bis heute bewahrt.",
+          "ingredients": "Wasser, Reis, Reissuspension (Reis, Wasser), Safran, Haselnuss, Antep-Pistazien, Korinthen, Salz, Zucker, Zimt, Maisstärke, Kartoffelstärke, Gewürznelke, Aromen (Vanillin, Kokosnuss, Rose), Farbstoff (Curcumin).",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Haselnuss, Antep-Pistazien.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "395 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Haselnuss, Antep-Pistazien.",
+      "portion": "Für eine Person"
     },
-    "600-01-05-fistikli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-01-fistikli-kazandibi": {
+      "name": "Pistazien-Kazandibi",
+      "description": "Traditioneller Kazandibi mit dem reichen Geschmack von Antep-Pistazien.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "195 kcal / 815,88 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "7,3",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "28,2",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "17,1",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 195 kcal / 815,88 kJ; Fett 7,3 g; Gesättigte Fettsäuren 2,9 g; Kohlenhydrate 28,2 g; Zucker 17,1 g; Ballaststoffe 1,1 g; Eiweiß 4,1 g; Salz 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Traditioneller Kazandibi mit dem reichen Geschmack von Antep-Pistazien.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "270 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Für eine Person"
     },
-    "600-01-06-safranli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-02-safranli-kazandibi": {
+      "name": "Safran-Kazandibi",
+      "description": "Besonderer Kazandibi mit dem kostbaren Safran der Palastküche.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "169,1 kcal / 707,514 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 169,1 kcal / 707,514 kJ; Fett 5,1 g; Gesättigte Fettsäuren 4 g; Kohlenhydrate 28,1 g; Zucker 17,5 g; Ballaststoffe 0,2 g; Eiweiß 2,8 g; Salz 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "275 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Besonderer Kazandibi mit dem kostbaren Safran der Palastküche.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "275 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Für eine Person"
     },
-    "600-01-07-sakizli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-03-damla-sakizli-kazandibi": {
+      "name": "Mastix-Kazandibi",
+      "description": "Karamellisierter Kazandibi, verfeinert mit traditionellem Mastix.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "171,1 kcal / 715,882 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 171,1 kcal / 715,882 kJ; Fett 5,1 g; Gesättigte Fettsäuren 4 g; Kohlenhydrate 28,5 g; Zucker 17,7 g; Ballaststoffe 0,2 g; Eiweiß 2,9 g; Salz 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Karamellisierter Kazandibi, verfeinert mit traditionellem Mastix.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "270 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Für eine Person"
     },
-    "600-01-08-tavukgogsu-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-04-tavukgogsu-kazandibi": {
+      "name": "Tavukgöğsü-Kazandibi",
+      "description": "Der karamellisierte, samtige Geschmack der Geschichte, meisterlich zubereitet von Hafız Mustafa.",
+      "ingredients": "Büffelmilch, Kuhmilch, Hähnchenbrust, Zucker, Reissuspension (Reis, Wasser), ungesüßte Schlagsahne, Salz.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "176 kcal / 736,384 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "28,3",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "3,7",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 176 kcal / 736,384 kJ; Fett 5,4 g; Gesättigte Fettsäuren 4,1 g; Kohlenhydrate 28,3 g; Zucker 17,4 g; Ballaststoffe 0,2 g; Eiweiß 3,7 g; Salz 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "260 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Der karamellisierte, samtige Geschmack der Geschichte, meisterlich zubereitet von Hafız Mustafa.",
+          "ingredients": "Büffelmilch, Kuhmilch, Hähnchenbrust, Zucker, Reissuspension (Reis, Wasser), ungesüßte Schlagsahne, Salz.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Milchprodukte, Soja.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "260 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Milchprodukte, Soja.",
+      "portion": "Für eine Person"
     },
-    "600-01-09-ahududulu-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-01-ahududulu-sut-muhallebisi": {
+      "name": "Himbeer-Milchpudding",
+      "description": "Die Harmonie erfrischender Himbeeren und Milchpudding.",
+      "ingredients": "Milchpudding (Vollmilch, Zucker, Milchsahne, Weizenmehl, Maisstärke, Ei, weiße Schokolade, gesüßte Schlagsahne, Vanillinaroma, Salz), Himbeerfüllung (Himbeere, Geliermittel, Heißgelee, Himbeergelee, Kaltgelee).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "297,5 kcal / 1.244,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "61,8",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 297,5 kcal / 1.244,7 kJ; Fett 4,2 g; Gesättigte Fettsäuren 1,7 g; Kohlenhydrate 61,8 g; Zucker 12,8 g; Ballaststoffe 0,5 g; Eiweiß 2,8 g; Salz 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Die Harmonie erfrischender Himbeeren und Milchpudding.",
+          "ingredients": "Milchpudding (Vollmilch, Zucker, Milchsahne, Weizenmehl, Maisstärke, Ei, weiße Schokolade, gesüßte Schlagsahne, Vanillinaroma, Salz), Himbeerfüllung (Himbeere, Geliermittel, Heißgelee, Himbeergelee, Kaltgelee).",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Milchprodukte, Gluten, Soja, Ei, Sulfite.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "390 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Milchprodukte, Gluten, Soja, Ei, Sulfite.",
+      "portion": "Für eine Person"
     },
-    "600-01-10-cilekli-cikolatali-muhallebi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-02-cilekli-cikolatali-muhallebi": {
+      "name": "Erdbeer-Schokoladenpudding",
+      "description": "Eine Mischung aus frischen Erdbeeren und Schokolade.",
+      "ingredients": "Schokoladenpudding (Vollmilch, Zucker, Weizenmehl, Zartbitterschokolade, Milchschokolade, Kakaopulver, Schokoladen-Haselnusspraliné), Erdbeerfüllung (Heißgelee, Zucker, Geliermittel, Himbeergelee, Erdbeere).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "174,6 kcal / 730,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "27,6",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 174,6 kcal / 730,5 kJ; Fett 5,4 g; Gesättigte Fettsäuren 2,9 g; Kohlenhydrate 27,6 g; Zucker 28,5 g; Ballaststoffe 1,3 g; Eiweiß 3,3 g; Salz 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Eine Mischung aus frischen Erdbeeren und Schokolade.",
+          "ingredients": "Schokoladenpudding (Vollmilch, Zucker, Weizenmehl, Zartbitterschokolade, Milchschokolade, Kakaopulver, Schokoladen-Haselnusspraliné), Erdbeerfüllung (Heißgelee, Zucker, Geliermittel, Himbeergelee, Erdbeere).",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Milchprodukte, Gluten, Soja, Ei, Sulfite.\n<small>Kann Spuren enthalten von: Antep-Pistazien, Mandel, Erdnüsse, Sesam, Walnuss.</small>",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "390 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Milchprodukte, Gluten, Soja, Ei, Sulfite.\n<small>Kann Spuren enthalten von: Antep-Pistazien, Mandel, Erdnüsse, Sesam, Walnuss.</small>",
+      "portion": "Für eine Person"
     },
-    "600-01-11-cilekli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-03-cilekli-sut-muhallebisi": {
+      "name": "Erdbeer-Milchpudding",
+      "description": "Milch und Erdbeeren in harmonischer Verbindung.",
+      "ingredients": "Milchpudding (Vollmilch, Zucker, Milchsahne, Weizenmehl, Maisstärke, Ei, weiße Schokolade, gesüßte Schlagsahne, Vanillinaroma, Salz), Erdbeerfüllung (Heißgelee, Zucker, Geliermittel, Himbeergelee, Erdbeere).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "270,0 kcal / 1.129,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "20,1",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "18,0",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "20,3",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 270,0 kcal / 1.129,7 kJ; Fett 20,1 g; Gesättigte Fettsäuren 12,1 g; Kohlenhydrate 18,0 g; Zucker 20,3 g; Ballaststoffe 0,3 g; Eiweiß 3,6 g; Salz 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Milch und Erdbeeren in harmonischer Verbindung.",
+          "ingredients": "Milchpudding (Vollmilch, Zucker, Milchsahne, Weizenmehl, Maisstärke, Ei, weiße Schokolade, gesüßte Schlagsahne, Vanillinaroma, Salz), Erdbeerfüllung (Heißgelee, Zucker, Geliermittel, Himbeergelee, Erdbeere).",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Milchprodukte, Gluten, Soja, Ei, Sulfite.\n<small>Kann Spuren enthalten von: Antep-Pistazien, Mandel, Erdnüsse, Sesam, Walnuss.</small>",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "395 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Milchprodukte, Gluten, Soja, Ei, Sulfite.\n<small>Kann Spuren enthalten von: Antep-Pistazien, Mandel, Erdnüsse, Sesam, Walnuss.</small>",
+      "portion": "Für eine Person"
     },
-    "600-01-12-damla-sakizli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-04-damla-sakizli-sut-muhallebisi": {
+      "name": "Mastix-Milchpudding",
+      "description": "Eine elegante Einladung der traditionellen türkischen Küche mit Mastix.",
+      "ingredients": "Kuhmilch, Büffelmilch, Zucker, Reissuspension (Reis, Wasser), Salz, Haselnuss, Mastix.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "141,1 kcal / 590,4 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "5,0",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "3,5",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "20,9",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 141,1 kcal / 590,4 kJ; Fett 5,0 g; Gesättigte Fettsäuren 3,5 g; Kohlenhydrate 20,9 g; Zucker 13,0 g; Ballaststoffe 0,1 g; Eiweiß 3,2 g; Salz 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Eine elegante Einladung der traditionellen türkischen Küche mit Mastix.",
+          "ingredients": "Kuhmilch, Büffelmilch, Zucker, Reissuspension (Reis, Wasser), Salz, Haselnuss, Mastix.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Haselnuss, Milchprodukte.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "400 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Haselnuss, Milchprodukte.",
+      "portion": "Für eine Person"
     },
-    "600-01-13-fistikli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-05-fistikli-sut-muhallebisi": {
+      "name": "Pistazien-Milchpudding",
+      "description": "Eine einzigartige Mischung aus Pistazien und cremiger Milch.",
+      "ingredients": "Kuhmilch, Büffelmilch, Zucker, Reissuspension (Reis, Wasser), Salz, Antep-Pistazien, Antep-Pistazienkonzentrat.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "169,0 kcal / 707,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "8,1",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "3,0",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "11,2",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,9",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 169,0 kcal / 707,1 kJ; Fett 8,1 g; Gesättigte Fettsäuren 3,0 g; Kohlenhydrate 18,9 g; Zucker 11,2 g; Ballaststoffe 0,9 g; Eiweiß 5,3 g; Salz 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Eine einzigartige Mischung aus Pistazien und cremiger Milch.",
+          "ingredients": "Kuhmilch, Büffelmilch, Zucker, Reissuspension (Reis, Wasser), Salz, Antep-Pistazien, Antep-Pistazienkonzentrat.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Antep-Pistazien, Soja, Milchprodukte.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "400 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Antep-Pistazien, Soja, Milchprodukte.",
+      "portion": "Für eine Person"
     },
-    "600-01-14-incirli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-06-incirli-sut-muhallebisi": {
+      "name": "Feigen-Milchpudding",
+      "description": "Ein wunderbarer Geschmack aus der Verbindung von Feigen und Milch.",
+      "ingredients": "Kuhmilch, Büffelmilch, Zucker, Reissuspension (Reis, Wasser), Salz, Mandel, Feige, Aromen (Kokosnuss, Vanillin, Bittermandel).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "148,0 kcal / 619,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "5,2",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 148,0 kcal / 619,2 kJ; Fett 5,2 g; Gesättigte Fettsäuren 3,3 g; Kohlenhydrate 22,1 g; Zucker 13,0 g; Ballaststoffe 0,5 g; Eiweiß 3,4 g; Salz 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Ein wunderbarer Geschmack aus der Verbindung von Feigen und Milch.",
+          "ingredients": "Kuhmilch, Büffelmilch, Zucker, Reissuspension (Reis, Wasser), Salz, Mandel, Feige, Aromen (Kokosnuss, Vanillin, Bittermandel).",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Mandel, Milchprodukte.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "400 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Mandel, Milchprodukte.",
+      "portion": "Für eine Person"
     },
-    "600-01-15-karamelli-findikli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-07-karamelli-findikli-sut-muhallebisi": {
+      "name": "Karamell-Haselnuss-Milchpudding",
+      "description": "Kräftig geröstete Karamellsauce trifft auf Milchpudding und Haselnüsse.",
+      "ingredients": "Milchpudding (Vollmilch, Zucker, Milchsahne, Weizenmehl, Maisstärke, Ei, weiße Schokolade, gesüßte Schlagsahne, Vanillinaroma, Salz), heller Biskuitkuchen (Weizenmehl, Zucker, Maisstärke, Ei, Wasser, Backpulver, pflanzlicher Emulgator, pflanzlicher Stabilisator), Karamellsauce, Haselnuss.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "314,0 kcal / 1.313,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "10,5",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "31,2",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,0",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "5,6",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 314,0 kcal / 1.313,8 kJ; Fett 18,4 g; Gesättigte Fettsäuren 10,5 g; Kohlenhydrate 31,2 g; Zucker 12,2 g; Ballaststoffe 0,0 g; Eiweiß 5,6 g; Salz 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "360 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Kräftig geröstete Karamellsauce trifft auf Milchpudding und Haselnüsse.",
+          "ingredients": "Milchpudding (Vollmilch, Zucker, Milchsahne, Weizenmehl, Maisstärke, Ei, weiße Schokolade, gesüßte Schlagsahne, Vanillinaroma, Salz), heller Biskuitkuchen (Weizenmehl, Zucker, Maisstärke, Ei, Wasser, Backpulver, pflanzlicher Emulgator, pflanzlicher Stabilisator), Karamellsauce, Haselnuss.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Weizengluten, Haselnuss, Soja, Ei, Milchprodukte.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "360 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Weizengluten, Haselnuss, Soja, Ei, Milchprodukte.",
+      "portion": "Für eine Person"
     },
-    "600-01-16-keskul-u-fukara": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-08-keskul-u-fukara": {
+      "name": "Keşkül-ü Fukara",
+      "description": "Ein Gourmetgenuss aus osmanischer Zeit bis heute.",
+      "ingredients": "Kuhmilch, Büffelmilch, Zucker, Reissuspension (Reis, Wasser), Salz, Ei, Mandel, Aromen (Vanillin, Bittermandel, Kokosnuss), Farbstoff (Curcumin).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "142,0 kcal / 594,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "19,1",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 142,0 kcal / 594,1 kJ; Fett 5,4 g; Gesättigte Fettsäuren 2,9 g; Kohlenhydrate 19,1 g; Zucker 11,7 g; Ballaststoffe 0,1 g; Eiweiß 4,5 g; Salz 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Ein Gourmetgenuss aus osmanischer Zeit bis heute.",
+          "ingredients": "Kuhmilch, Büffelmilch, Zucker, Reissuspension (Reis, Wasser), Salz, Ei, Mandel, Aromen (Vanillin, Bittermandel, Kokosnuss), Farbstoff (Curcumin).",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Mandel, Ei, Milchprodukte.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "400 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Mandel, Ei, Milchprodukte.",
+      "portion": "Für eine Person"
     },
-    "600-01-17-orman-meyveli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-09-orman-meyveli-sut-muhallebisi": {
+      "name": "Waldfrucht-Milchpudding",
+      "description": "Das einzigartige Aroma der Natur in jedem Löffel.",
+      "ingredients": "Kuhmilch, Büffelmilch, Zucker, Reissuspension (Reis, Wasser), Kartoffelstärke, Maisstärke, Geliermittel, Vanillinaroma, Brombeere, Heidelbeere, Himbeere, Antep-Pistazien, Salz.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "136,0 kcal / 569,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "23,7",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "14,6",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 136,0 kcal / 569,0 kJ; Fett 3,6 g; Gesättigte Fettsäuren 2,5 g; Kohlenhydrate 23,7 g; Zucker 14,6 g; Ballaststoffe 0,7 g; Eiweiß 2,4 g; Salz 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Das einzigartige Aroma der Natur in jedem Löffel.",
+          "ingredients": "Kuhmilch, Büffelmilch, Zucker, Reissuspension (Reis, Wasser), Kartoffelstärke, Maisstärke, Geliermittel, Vanillinaroma, Brombeere, Heidelbeere, Himbeere, Antep-Pistazien, Salz.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Antep-Pistazien, Sulfite, Milchprodukte.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "395 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Antep-Pistazien, Sulfite, Milchprodukte.",
+      "portion": "Für eine Person"
     },
-    "600-01-18-lotuslu-kasik-pasta": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-01-lotuslu-kasik-pasta": {
+      "name": "Lotus-Löffelkuchen",
+      "description": "Ein unwiderstehlicher Lotus-Löffelkuchen mit einzigartigem Geschmack.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "420,8 kcal / 1.760,63 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "29,4",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "15,9",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "36,5",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 420,8 kcal / 1.760,63 kJ; Fett 29,4 g; Gesättigte Fettsäuren 15,9 g; Kohlenhydrate 36,5 g; Zucker 18,9 g; Ballaststoffe 0,4 g; Eiweiß 2,5 g; Salz 0,3 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Ein unwiderstehlicher Lotus-Löffelkuchen mit einzigartigem Geschmack.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "390 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Für eine Person"
     },
-    "600-01-19-profiterol": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-02-profiterol": {
+      "name": "Profiteroles",
+      "description": "Schokolade und besondere Creme in runden Teighüllen.",
+      "ingredients": "Supangle-Sauce (Milch, Weizenmehl, Kristallzucker, Milchschokolade, Zartbitterschokolade, Kakaopulver, Milchpraliné), Profiterole-Teig (Weizenmehl, Wasser, Ei, Sonnenblumenöl), Sahne (Weizenmehl, Kristallzucker, Ei, Schlagsahne, Milch, gehärtetes Pflanzenöl), Mat-Pistazienschokolade, Antep-Pistazien, Milchschokolade.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "342,6 kcal / 1.433,44 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "24,9",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "24,7",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "19,6",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "5",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 342,6 kcal / 1.433,44 kJ; Fett 24,9 g; Gesättigte Fettsäuren 13,2 g; Kohlenhydrate 24,7 g; Zucker 19,6 g; Ballaststoffe 1 g; Eiweiß 5 g; Salz 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "380 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Schokolade und besondere Creme in runden Teighüllen.",
+          "ingredients": "Supangle-Sauce (Milch, Weizenmehl, Kristallzucker, Milchschokolade, Zartbitterschokolade, Kakaopulver, Milchpraliné), Profiterole-Teig (Weizenmehl, Wasser, Ei, Sonnenblumenöl), Sahne (Weizenmehl, Kristallzucker, Ei, Schlagsahne, Milch, gehärtetes Pflanzenöl), Mat-Pistazienschokolade, Antep-Pistazien, Milchschokolade.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Weizengluten, Haselnuss, Antep-Pistazien, Ei, Milch, Soja.\n<small>Kann Spuren enthalten von: Mandel, Erdnüsse, Sesam, Walnuss.</small>",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "380 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Weizengluten, Haselnuss, Antep-Pistazien, Ei, Milch, Soja.\n<small>Kann Spuren enthalten von: Mandel, Erdnüsse, Sesam, Walnuss.</small>",
+      "portion": "Für eine Person"
     },
-    "600-01-20-supangle": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-03-supangle": {
+      "name": "Supangle",
+      "description": "Eine seidige Textur, die Sie in die Vergangenheit zurückführt.",
+      "ingredients": "Supangle-Sauce (Milch, Weizenmehl, Kristallzucker, Milchschokolade, Zartbitterschokolade, Kakaopulver, Milchpraliné), Biskuitkuchen (Weizenmehl, Wasser, Kakaopulver, Kristallzucker, Ei, Backpulver, pflanzlicher Stabilisator, pflanzlicher Emulgator), Sahne (Weizenmehl, Kristallzucker, Ei, Schlagsahne, Milch, gehärtetes Pflanzenöl), Mat-Pistazienschokolade, Antep-Pistazien.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "348 kcal / 1.456,03 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "24,8",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "12,9",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 348 kcal / 1.456,03 kJ; Fett 24,8 g; Gesättigte Fettsäuren 12,9 g; Kohlenhydrate 25,9 g; Zucker 20,5 g; Ballaststoffe 1,2 g; Eiweiß 5,3 g; Salz 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Eine seidige Textur, die Sie in die Vergangenheit zurückführt.",
+          "ingredients": "Supangle-Sauce (Milch, Weizenmehl, Kristallzucker, Milchschokolade, Zartbitterschokolade, Kakaopulver, Milchpraliné), Biskuitkuchen (Weizenmehl, Wasser, Kakaopulver, Kristallzucker, Ei, Backpulver, pflanzlicher Stabilisator, pflanzlicher Emulgator), Sahne (Weizenmehl, Kristallzucker, Ei, Schlagsahne, Milch, gehärtetes Pflanzenöl), Mat-Pistazienschokolade, Antep-Pistazien.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Weizengluten, Antep-Pistazien, Ei, Soja, Milchprodukte.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "400 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Weizengluten, Antep-Pistazien, Ei, Soja, Milchprodukte.",
+      "portion": "Für eine Person"
     },
-    "600-01-21-sah-mat": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-04-sah-mat": {
+      "name": "Şah Mat",
+      "description": "Ein Festmahl aus dem Kontrast von Milch und Schokolade.",
+      "ingredients": "Milchpudding (Vollmilch, Zucker, Milchsahne, Weizenmehl, Maisstärke, Ei, weiße Schokolade, gesüßte Schlagsahne, Vanillinaroma, Salz), Milchschokoladen-Haselnusspraliné, Kakaopulver, Zartbitterschokolade, Maisstärke.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "379,0 kcal / 1.585,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "63,5",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "17,2",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,4",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 379,0 kcal / 1.585,7 kJ; Fett 11,7 g; Gesättigte Fettsäuren 1,7 g; Kohlenhydrate 63,5 g; Zucker 17,2 g; Ballaststoffe 1,4 g; Eiweiß 4,5 g; Salz 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 Gramm",
+      "variants": {
+        "porsiyon": {
+          "description": "Ein Festmahl aus dem Kontrast von Milch und Schokolade.",
+          "ingredients": "Milchpudding (Vollmilch, Zucker, Milchsahne, Weizenmehl, Maisstärke, Ei, weiße Schokolade, gesüßte Schlagsahne, Vanillinaroma, Salz), Milchschokoladen-Haselnusspraliné, Kakaopulver, Zartbitterschokolade, Maisstärke.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Weizengluten, Haselnuss, Ei, Soja, Milchprodukte.",
+          "storage": "Im Kühlschrank bei +4° bis +6° aufbewahren. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10-15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "<strong>Aufbewahrung</strong>\nIm Tiefkühler bei -18° aufbewahren.\n\n<strong>Vorbereitung</strong>\nVor dem Verzehr 8-12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\n<strong>Hinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Nach dem Auftauen im Kühlschrank aufbewahren und innerhalb von 2 Tagen verzehren.",
+          "portion": "Für eine Person",
+          "weight": "400 Gramm",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Weizengluten, Haselnuss, Ei, Soja, Milchprodukte.",
+      "portion": "Für eine Person"
     }
   }
 }

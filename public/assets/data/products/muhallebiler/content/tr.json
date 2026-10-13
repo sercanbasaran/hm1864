@@ -4,20 +4,77 @@
   "products": {
     "600-01-01-asure": {
       "name": "Aşure",
-      "description": "",
-      "ingredients": "",
+      "description": "Bereket ve paylaşmanın simgesi, sofraları süsleyen geleneksel lezzet.",
+      "ingredients": "Su, şeker, aşurelik buğday, patates nişastası, mısır nişastası, haşlanmış nohut, kayısı, incir, üzüm, fındık, ceviz, kuşüzümü, pirinç, pirinç sübyesi (pirinç, su), gül aroması, tuz, vanilin aroması, renklendirici (kurkumin).",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "130,7 kcal / 547,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "1,68",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "26,54",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "11,24",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "2,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "1,34",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "100 g için: Enerji 130,7 kcal / 547,0 kJ; Yağ 1,68 g; Doymuş yağ 0,1 g; Karbonhidrat 26,54 g; Şeker 11,24 g; Lif 2,2 g; Protein 1,34 g; Tuz belirtilmemiş.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "410 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Bereket ve paylaşmanın simgesi, sofraları süsleyen geleneksel lezzet.",
+          "ingredients": "Su, şeker, aşurelik buğday, patates nişastası, mısır nişastası, haşlanmış nohut, kayısı, incir, üzüm, fındık, ceviz, kuşüzümü, pirinç, pirinç sübyesi (pirinç, su), gül aroması, tuz, vanilin aroması, renklendirici (kurkumin).",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBuğday gluteni, fındık, ceviz.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "410 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -37,24 +94,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBuğday gluteni, fındık, ceviz.",
+      "portion": "Tek Kişilik"
     },
     "600-01-02-firin-sutlac": {
       "name": "Fırın Sütlaç",
-      "description": "",
-      "ingredients": "",
+      "description": "Fırında nar gibi kızarmış nostaljik lezzet",
+      "ingredients": "İnek sütü, manda sütü, şeker, pirinç, pirinç sübyesi (pirinç, su), tuz.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "146,8 kcal / 614,211 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "22,9",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 146,8 kcal / 614,211 kJ; Yağ 4,7 g; Doymuş yağ 3,3 g; Karbonhidrat 22,9 g; Şeker 13,2 g; Lif 0,2 g; Protein 3,3 g; Tuz 0 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "400 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Fırında nar gibi kızarmış nostaljik lezzet",
+          "ingredients": "İnek sütü, manda sütü, şeker, pirinç, pirinç sübyesi (pirinç, su), tuz.",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "400 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -74,24 +190,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri içerir.",
+      "portion": "Tek Kişilik"
     },
     "600-01-03-tavukgogsu": {
       "name": "Tavukgöğsü",
-      "description": "",
-      "ingredients": "",
+      "description": "Hafız Mustafa ustalığında tarihin kadifemsi lezzeti",
+      "ingredients": "Manda sütü, inek sütü, tavukgöğsü, şeker, pirinç sübyesi (pirinç, su), şekersiz krem şanti, tarçın, tuz.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "164,2 kcal / 687,013 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 164,2 kcal / 687,013 kJ; Yağ 4,2 g; Doymuş yağ 2,9 g; Karbonhidrat 28,1 g; Şeker 17,4 g; Lif 0,3 g; Protein 3,6 g; Tuz 0 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "270 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Hafız Mustafa ustalığında tarihin kadifemsi lezzeti",
+          "ingredients": "Manda sütü, inek sütü, tavukgöğsü, şeker, pirinç sübyesi (pirinç, su), şekersiz krem şanti, tarçın, tuz.",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri ve soya içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "270 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -111,24 +286,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri ve soya içerir.",
+      "portion": "Tek Kişilik"
     },
     "600-01-04-zerde": {
       "name": "Zerde",
-      "description": "",
-      "ingredients": "",
+      "description": "Osmanlı saray mutfağından günümüze ulaşan nadide safran",
+      "ingredients": "Su, pirinç, pirinç sübyesi (pirinç, su), safran, fındık, Antep fıstığı, kuşüzümü, tuz, şeker, tarçın, mısır nişastası, patates nişastası, karanfil, aromalar (vanilin, Hindistan cevizi, gül), renklendirici (kurkumin).",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "119 kcal / yaklaşık 497,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": null,
+            "unit": ""
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "29",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "100 g için: Enerji 119 kcal / yaklaşık 497,9 kJ; Yağ 0,1 g; Doymuş yağ belirtilmemiş; Karbonhidrat 29 g; Şeker 15,7 g; Lif 0,2 g; Protein 0,5 g; Tuz belirtilmemiş.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "395 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Osmanlı saray mutfağından günümüze ulaşan nadide safran",
+          "ingredients": "Su, pirinç, pirinç sübyesi (pirinç, su), safran, fındık, Antep fıstığı, kuşüzümü, tuz, şeker, tarçın, mısır nişastası, patates nişastası, karanfil, aromalar (vanilin, Hindistan cevizi, gül), renklendirici (kurkumin).",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nFındık ve Antep fıstığı içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "395 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -148,24 +382,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nFındık ve Antep fıstığı içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-01-05-fistikli-kazandibi": {
+    "600-02-01-fistikli-kazandibi": {
       "name": "Fıstıklı Kazandibi",
-      "description": "",
+      "description": "Antep fıstığının zengin dokunuşuyla zenginleştirilmiş geleneksel kazandibi",
       "ingredients": "",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "195 kcal / 815,88 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "7,3",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "28,2",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "17,1",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 195 kcal / 815,88 kJ; Yağ 7,3 g; Doymuş yağ 2,9 g; Karbonhidrat 28,2 g; Şeker 17,1 g; Lif 1,1 g; Protein 4,1 g; Tuz 0 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "270 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Antep fıstığının zengin dokunuşuyla zenginleştirilmiş geleneksel kazandibi",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "270 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -185,24 +478,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "",
+      "portion": "Tek Kişilik"
     },
-    "600-01-06-safranli-kazandibi": {
+    "600-02-02-safranli-kazandibi": {
       "name": "Safranlı Kazandibi",
-      "description": "",
+      "description": "Saray mutfağının değerli safranıyla harmanlanmış özel kazandibi",
       "ingredients": "",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "169,1 kcal / 707,514 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 169,1 kcal / 707,514 kJ; Yağ 5,1 g; Doymuş yağ 4 g; Karbonhidrat 28,1 g; Şeker 17,5 g; Lif 0,2 g; Protein 2,8 g; Tuz 0 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "275 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Saray mutfağının değerli safranıyla harmanlanmış özel kazandibi",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "275 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -222,24 +574,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "",
+      "portion": "Tek Kişilik"
     },
-    "600-01-07-sakizli-kazandibi": {
-      "name": "Sakızlı Kazandibi",
-      "description": "",
+    "600-02-03-damla-sakizli-kazandibi": {
+      "name": "Damla Sakızlı Kazandibi",
+      "description": "Geleneksel damla sakızı aromasıyla tatlandırılmış karamelize kazandibi",
       "ingredients": "",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "171,1 kcal / 715,882 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 171,1 kcal / 715,882 kJ; Yağ 5,1 g; Doymuş yağ 4 g; Karbonhidrat 28,5 g; Şeker 17,7 g; Lif 0,2 g; Protein 2,9 g; Tuz 0 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "270 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Geleneksel damla sakızı aromasıyla tatlandırılmış karamelize kazandibi",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "270 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -259,24 +670,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "",
+      "portion": "Tek Kişilik"
     },
-    "600-01-08-tavukgogsu-kazandibi": {
+    "600-02-04-tavukgogsu-kazandibi": {
       "name": "Tavukgöğsü Kazandibi",
-      "description": "",
-      "ingredients": "",
+      "description": "Hafız Mustafa ustalığında tarihin karamelize kadifemsi lezzeti",
+      "ingredients": "Manda sütü, inek sütü, tavukgöğsü, şeker, pirinç sübyesi (pirinç, su), şekersiz krem şanti, tuz.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "176 kcal / 736,384 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "28,3",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,7",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 176 kcal / 736,384 kJ; Yağ 5,4 g; Doymuş yağ 4,1 g; Karbonhidrat 28,3 g; Şeker 17,4 g; Lif 0,2 g; Protein 3,7 g; Tuz 0 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "260 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Hafız Mustafa ustalığında tarihin karamelize kadifemsi lezzeti",
+          "ingredients": "Manda sütü, inek sütü, tavukgöğsü, şeker, pirinç sübyesi (pirinç, su), şekersiz krem şanti, tuz.",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri ve soya içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "260 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -296,24 +766,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri ve soya içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-01-09-ahududulu-sut-muhallebisi": {
+    "600-03-01-ahududulu-sut-muhallebisi": {
       "name": "Ahududulu Süt Muhallebisi",
-      "description": "",
-      "ingredients": "",
+      "description": "Ahududunun ferahlığı ve sütlü muhallebinin ahengi",
+      "ingredients": "Muhallebi (tam yağlı süt, şeker, süt kreması, buğday unu, mısır nişastası, yumurta, beyaz çikolata, şekerli krem şanti, vanilin aroması, tuz), frambuaz dolgusu (frambuaz, pelteleştirici, sıcak jöle, frambuaz jöle, soğuk jöle).",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "297,5 kcal / 1.244,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "61,8",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 297,5 kcal / 1.244,7 kJ; Yağ 4,2 g; Doymuş yağ 1,7 g; Karbonhidrat 61,8 g; Şeker 12,8 g; Lif 0,5 g; Protein 2,8 g; Tuz 0,1 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "390 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Ahududunun ferahlığı ve sütlü muhallebinin ahengi",
+          "ingredients": "Muhallebi (tam yağlı süt, şeker, süt kreması, buğday unu, mısır nişastası, yumurta, beyaz çikolata, şekerli krem şanti, vanilin aroması, tuz), frambuaz dolgusu (frambuaz, pelteleştirici, sıcak jöle, frambuaz jöle, soğuk jöle).",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri, gluten, soya, yumurta ve sülfit içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "390 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -333,24 +862,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri, gluten, soya, yumurta ve sülfit içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-01-10-cilekli-cikolatali-muhallebi": {
+    "600-03-02-cilekli-cikolatali-muhallebi": {
       "name": "Çilekli Çikolatalı Muhallebi",
-      "description": "",
-      "ingredients": "",
+      "description": "Çileğin tazeliği ve çikolata ile oluşan karışım",
+      "ingredients": "Çikolatalı muhallebi (tam yağlı süt, şeker, buğday unu, bitter çikolata, sütlü çikolata, toz kakao, çikolatalı fındık pralin), çilek dolgusu (sıcak jöle, şeker, pelteleştirici, frambuaz jöle, çilek).",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "174,6 kcal / 730,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "27,6",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 174,6 kcal / 730,5 kJ; Yağ 5,4 g; Doymuş yağ 2,9 g; Karbonhidrat 27,6 g; Şeker 28,5 g; Lif 1,3 g; Protein 3,3 g; Tuz 0,1 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "390 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Çileğin tazeliği ve çikolata ile oluşan karışım",
+          "ingredients": "Çikolatalı muhallebi (tam yağlı süt, şeker, buğday unu, bitter çikolata, sütlü çikolata, toz kakao, çikolatalı fındık pralin), çilek dolgusu (sıcak jöle, şeker, pelteleştirici, frambuaz jöle, çilek).",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri, gluten, soya, yumurta ve sülfit içerir.\n<small>İz miktarda Antep fıstığı, badem, yer fıstığı, susam ve ceviz içerebilir.</small>",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "390 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -370,24 +958,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri, gluten, soya, yumurta ve sülfit içerir.\n<small>İz miktarda Antep fıstığı, badem, yer fıstığı, susam ve ceviz içerebilir.</small>",
+      "portion": "Tek Kişilik"
     },
-    "600-01-11-cilekli-sut-muhallebisi": {
+    "600-03-03-cilekli-sut-muhallebisi": {
       "name": "Çilekli Süt Muhallebisi",
-      "description": "",
-      "ingredients": "",
+      "description": "Süt ve çileğin bütünleşmiş hali",
+      "ingredients": "Muhallebi (tam yağlı süt, şeker, süt kreması, buğday unu, mısır nişastası, yumurta, beyaz çikolata, şekerli krem şanti, vanilin aroması, tuz), çilek dolgusu (sıcak jöle, şeker, pelteleştirici, frambuaz jöle, çilek).",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "270,0 kcal / 1.129,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "20,1",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "18,0",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "20,3",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 270,0 kcal / 1.129,7 kJ; Yağ 20,1 g; Doymuş yağ 12,1 g; Karbonhidrat 18,0 g; Şeker 20,3 g; Lif 0,3 g; Protein 3,6 g; Tuz 0,1 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "395 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Süt ve çileğin bütünleşmiş hali",
+          "ingredients": "Muhallebi (tam yağlı süt, şeker, süt kreması, buğday unu, mısır nişastası, yumurta, beyaz çikolata, şekerli krem şanti, vanilin aroması, tuz), çilek dolgusu (sıcak jöle, şeker, pelteleştirici, frambuaz jöle, çilek).",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri, gluten, soya, yumurta ve sülfit içerir.\n<small>İz miktarda Antep fıstığı, badem, yer fıstığı, susam ve ceviz içerebilir.</small>",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "395 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -407,24 +1054,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri, gluten, soya, yumurta ve sülfit içerir.\n<small>İz miktarda Antep fıstığı, badem, yer fıstığı, susam ve ceviz içerebilir.</small>",
+      "portion": "Tek Kişilik"
     },
-    "600-01-12-damla-sakizli-sut-muhallebisi": {
+    "600-03-04-damla-sakizli-sut-muhallebisi": {
       "name": "Damla Sakızlı Süt Muhallebisi",
-      "description": "",
-      "ingredients": "",
+      "description": "Geleneksel Türk mutfağının damla sakızlı zarif daveti",
+      "ingredients": "İnek sütü, manda sütü, şeker, pirinç sübyesi (pirinç, su), tuz, fındık, damla sakızı.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "141,1 kcal / 590,4 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "5,0",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "3,5",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "20,9",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 141,1 kcal / 590,4 kJ; Yağ 5,0 g; Doymuş yağ 3,5 g; Karbonhidrat 20,9 g; Şeker 13,0 g; Lif 0,1 g; Protein 3,2 g; Tuz 0,0 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "400 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Geleneksel Türk mutfağının damla sakızlı zarif daveti",
+          "ingredients": "İnek sütü, manda sütü, şeker, pirinç sübyesi (pirinç, su), tuz, fındık, damla sakızı.",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nFındık ve süt ürünleri içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "400 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -444,24 +1150,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nFındık ve süt ürünleri içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-01-13-fistikli-sut-muhallebisi": {
+    "600-03-05-fistikli-sut-muhallebisi": {
       "name": "Fıstıklı Süt Muhallebisi",
-      "description": "",
-      "ingredients": "",
+      "description": "Fıstığın, kremsi sütle buluştuğu emsalsiz karışım",
+      "ingredients": "İnek sütü, manda sütü, şeker, pirinç sübyesi (pirinç, su), tuz, Antep fıstığı, Antep fıstığı konsantresi.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "169,0 kcal / 707,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "8,1",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "3,0",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "11,2",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,9",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 169,0 kcal / 707,1 kJ; Yağ 8,1 g; Doymuş yağ 3,0 g; Karbonhidrat 18,9 g; Şeker 11,2 g; Lif 0,9 g; Protein 5,3 g; Tuz 0,0 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "400 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Fıstığın, kremsi sütle buluştuğu emsalsiz karışım",
+          "ingredients": "İnek sütü, manda sütü, şeker, pirinç sübyesi (pirinç, su), tuz, Antep fıstığı, Antep fıstığı konsantresi.",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nAntep fıstığı, soya ve süt ürünleri içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "400 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -481,24 +1246,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nAntep fıstığı, soya ve süt ürünleri içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-01-14-incirli-sut-muhallebisi": {
+    "600-03-06-incirli-sut-muhallebisi": {
       "name": "İncirli Süt Muhallebisi",
-      "description": "",
-      "ingredients": "",
+      "description": "İncir ve sütün birleşiminden doğan muhteşem lezzet",
+      "ingredients": "İnek sütü, manda sütü, şeker, pirinç sübyesi (pirinç, su), tuz, badem, incir, aromalar (Hindistan cevizi, vanilin, acıbadem).",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "148,0 kcal / 619,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "5,2",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 148,0 kcal / 619,2 kJ; Yağ 5,2 g; Doymuş yağ 3,3 g; Karbonhidrat 22,1 g; Şeker 13,0 g; Lif 0,5 g; Protein 3,4 g; Tuz 0,0 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "400 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "İncir ve sütün birleşiminden doğan muhteşem lezzet",
+          "ingredients": "İnek sütü, manda sütü, şeker, pirinç sübyesi (pirinç, su), tuz, badem, incir, aromalar (Hindistan cevizi, vanilin, acıbadem).",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBadem ve süt ürünleri içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "400 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -518,24 +1342,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBadem ve süt ürünleri içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-01-15-karamelli-findikli-sut-muhallebisi": {
+    "600-03-07-karamelli-findikli-sut-muhallebisi": {
       "name": "Karamelli Fındıklı Süt Muhallebisi",
-      "description": "",
-      "ingredients": "",
+      "description": "Kavruk karamel sosun muhallebi ve fındıkla buluşması",
+      "ingredients": "Muhallebi (tam yağlı süt, şeker, süt kreması, buğday unu, mısır nişastası, yumurta, beyaz çikolata, şekerli krem şanti, vanilin aroması, tuz), beyaz pandispanya keki (buğday unu, şeker, mısır nişastası, yumurta, su, kabartma tozu, bitkisel emülgatör, bitkisel stabilizatör), karamel sos, fındık.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "314,0 kcal / 1.313,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "10,5",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "31,2",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,0",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "5,6",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 314,0 kcal / 1.313,8 kJ; Yağ 18,4 g; Doymuş yağ 10,5 g; Karbonhidrat 31,2 g; Şeker 12,2 g; Lif 0,0 g; Protein 5,6 g; Tuz 0,1 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "360 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Kavruk karamel sosun muhallebi ve fındıkla buluşması",
+          "ingredients": "Muhallebi (tam yağlı süt, şeker, süt kreması, buğday unu, mısır nişastası, yumurta, beyaz çikolata, şekerli krem şanti, vanilin aroması, tuz), beyaz pandispanya keki (buğday unu, şeker, mısır nişastası, yumurta, su, kabartma tozu, bitkisel emülgatör, bitkisel stabilizatör), karamel sos, fındık.",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBuğday gluteni, fındık, soya, yumurta ve süt ürünleri içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "360 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -555,24 +1438,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBuğday gluteni, fındık, soya, yumurta ve süt ürünleri içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-01-16-keskul-u-fukara": {
+    "600-03-08-keskul-u-fukara": {
       "name": "Keşkül-ü Fukara",
-      "description": "",
-      "ingredients": "",
+      "description": "Osmanlı'dan günümüze taşınan gurme lezzet",
+      "ingredients": "İnek sütü, manda sütü, şeker, pirinç sübyesi (pirinç, su), tuz, yumurta, badem, aromalar (vanilin, acıbadem, Hindistan cevizi), renklendirici (kurkumin).",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "142,0 kcal / 594,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "19,1",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 142,0 kcal / 594,1 kJ; Yağ 5,4 g; Doymuş yağ 2,9 g; Karbonhidrat 19,1 g; Şeker 11,7 g; Lif 0,1 g; Protein 4,5 g; Tuz 0,0 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "400 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Osmanlı'dan günümüze taşınan gurme lezzet",
+          "ingredients": "İnek sütü, manda sütü, şeker, pirinç sübyesi (pirinç, su), tuz, yumurta, badem, aromalar (vanilin, acıbadem, Hindistan cevizi), renklendirici (kurkumin).",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBadem, yumurta ve süt ürünleri içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "400 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -592,24 +1534,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBadem, yumurta ve süt ürünleri içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-01-17-orman-meyveli-sut-muhallebisi": {
+    "600-03-09-orman-meyveli-sut-muhallebisi": {
       "name": "Orman Meyveli Süt Muhallebisi",
-      "description": "",
-      "ingredients": "",
+      "description": "Her kaşıkta hissedilen doğanın eşsiz aroması",
+      "ingredients": "İnek sütü, manda sütü, şeker, pirinç sübyesi (pirinç, su), patates nişastası, mısır nişastası, pelteleştirici, vanilin aroması, böğürtlen, yaban mersini, frambuaz, Antep fıstığı, tuz.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "136,0 kcal / 569,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "23,7",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "14,6",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 136,0 kcal / 569,0 kJ; Yağ 3,6 g; Doymuş yağ 2,5 g; Karbonhidrat 23,7 g; Şeker 14,6 g; Lif 0,7 g; Protein 2,4 g; Tuz 0,0 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "395 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Her kaşıkta hissedilen doğanın eşsiz aroması",
+          "ingredients": "İnek sütü, manda sütü, şeker, pirinç sübyesi (pirinç, su), patates nişastası, mısır nişastası, pelteleştirici, vanilin aroması, böğürtlen, yaban mersini, frambuaz, Antep fıstığı, tuz.",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nAntep fıstığı, sülfit ve süt ürünleri içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "395 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -629,24 +1630,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nAntep fıstığı, sülfit ve süt ürünleri içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-01-18-lotuslu-kasik-pasta": {
+    "600-04-01-lotuslu-kasik-pasta": {
       "name": "Lotuslu Kaşık Pasta",
-      "description": "",
+      "description": "Benzersiz lezzetiyle bağımlılık yapan lotuslu kaşık pasta",
       "ingredients": "",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "420,8 kcal / 1.760,63 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "29,4",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "15,9",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "36,5",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 420,8 kcal / 1.760,63 kJ; Yağ 29,4 g; Doymuş yağ 15,9 g; Karbonhidrat 36,5 g; Şeker 18,9 g; Lif 0,4 g; Protein 2,5 g; Tuz 0,3 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "390 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Benzersiz lezzetiyle bağımlılık yapan lotuslu kaşık pasta",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "390 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -666,24 +1726,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "",
+      "portion": "Tek Kişilik"
     },
-    "600-01-19-profiterol": {
+    "600-04-02-profiterol": {
       "name": "Profiterol",
-      "description": "",
-      "ingredients": "",
+      "description": "Çikolata, top hamur içinde özel kremalı lezzeti",
+      "ingredients": "Supangle sos (süt, buğday unu, toz şeker, sütlü çikolata, bitter çikolata, toz kakao, sütlü pralin), profiterol hamuru (buğday unu, su, yumurta, ayçiçek yağı), krema (buğday unu, toz şeker, yumurta, krem şanti, süt, hidrojenize bitkisel yağ), mat fıstık çikolata, Antep fıstığı, sütlü çikolata.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "342,6 kcal / 1.433,44 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "24,9",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "24,7",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "19,6",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "5",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 342,6 kcal / 1.433,44 kJ; Yağ 24,9 g; Doymuş yağ 13,2 g; Karbonhidrat 24,7 g; Şeker 19,6 g; Lif 1 g; Protein 5 g; Tuz 0,1 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "380 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Çikolata, top hamur içinde özel kremalı lezzeti",
+          "ingredients": "Supangle sos (süt, buğday unu, toz şeker, sütlü çikolata, bitter çikolata, toz kakao, sütlü pralin), profiterol hamuru (buğday unu, su, yumurta, ayçiçek yağı), krema (buğday unu, toz şeker, yumurta, krem şanti, süt, hidrojenize bitkisel yağ), mat fıstık çikolata, Antep fıstığı, sütlü çikolata.",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBuğday gluteni, fındık, Antep fıstığı, yumurta, süt ve soya içerir.\n<small>İz miktarda badem, yer fıstığı, susam ve ceviz içerebilir.</small>",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "380 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -703,24 +1822,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBuğday gluteni, fındık, Antep fıstığı, yumurta, süt ve soya içerir.\n<small>İz miktarda badem, yer fıstığı, susam ve ceviz içerebilir.</small>",
+      "portion": "Tek Kişilik"
     },
-    "600-01-20-supangle": {
+    "600-04-03-supangle": {
       "name": "Supangle",
-      "description": "",
-      "ingredients": "",
+      "description": "İpeksi dokusuyla sizi geçmişe götürecek",
+      "ingredients": "Supangle sos (süt, buğday unu, toz şeker, sütlü çikolata, bitter çikolata, toz kakao, sütlü pralin), pandispanya kek (buğday unu, su, toz kakao, toz şeker, yumurta, kabartma tozu, bitkisel stabilizatör, bitkisel emülgatör), krema (buğday unu, toz şeker, yumurta, krem şanti, süt, hidrojenize bitkisel yağ), mat fıstık çikolata, Antep fıstığı.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "348 kcal / 1.456,03 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "24,8",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "12,9",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 348 kcal / 1.456,03 kJ; Yağ 24,8 g; Doymuş yağ 12,9 g; Karbonhidrat 25,9 g; Şeker 20,5 g; Lif 1,2 g; Protein 5,3 g; Tuz 0,1 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "400 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "İpeksi dokusuyla sizi geçmişe götürecek",
+          "ingredients": "Supangle sos (süt, buğday unu, toz şeker, sütlü çikolata, bitter çikolata, toz kakao, sütlü pralin), pandispanya kek (buğday unu, su, toz kakao, toz şeker, yumurta, kabartma tozu, bitkisel stabilizatör, bitkisel emülgatör), krema (buğday unu, toz şeker, yumurta, krem şanti, süt, hidrojenize bitkisel yağ), mat fıstık çikolata, Antep fıstığı.",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBuğday gluteni, Antep fıstığı, yumurta, soya ve süt ürünleri içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "400 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -740,24 +1918,83 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBuğday gluteni, Antep fıstığı, yumurta, soya ve süt ürünleri içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-01-21-sah-mat": {
+    "600-04-04-sah-mat": {
       "name": "Şah Mat",
-      "description": "",
-      "ingredients": "",
+      "description": "Süt ve çikolatanın zıtlığından doğan ziyafet",
+      "ingredients": "Muhallebi (tam yağlı süt, şeker, süt kreması, buğday unu, mısır nişastası, yumurta, beyaz çikolata, şekerli krem şanti, vanilin aroması, tuz), sütlü çikolata fındık pralin, toz kakao, bitter çikolata, mısır nişastası.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "<strong>100 g için</strong>",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "379,0 kcal / 1.585,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "63,5",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "17,2",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,4",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "Tuz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 379,0 kcal / 1.585,7 kJ; Yağ 11,7 g; Doymuş yağ 1,7 g; Karbonhidrat 63,5 g; Şeker 17,2 g; Lif 1,4 g; Protein 4,5 g; Tuz 0,1 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "400 gram",
+      "variants": {
+        "porsiyon": {
+          "description": "Süt ve çikolatanın zıtlığından doğan ziyafet",
+          "ingredients": "Muhallebi (tam yağlı süt, şeker, süt kreması, buğday unu, mısır nişastası, yumurta, beyaz çikolata, şekerli krem şanti, vanilin aroması, tuz), sütlü çikolata fındık pralin, toz kakao, bitter çikolata, mısır nişastası.",
+          "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBuğday gluteni, fındık, yumurta, soya ve süt ürünleri içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "<strong>Muhafaza</strong>\n-18° derin dondurucuda saklayınız.\n\n<strong>Hazırlık</strong>\nTüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\n<strong>Uyarı</strong>\nÇözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "400 gram",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porsiyon"
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -777,7 +2014,9 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nBuğday gluteni, fındık, yumurta, soya ve süt ürünleri içerir.",
+      "portion": "Tek Kişilik"
     }
   }
 }

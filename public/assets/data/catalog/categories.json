@@ -138,7 +138,48 @@
       ],
       "megaMenuOnline": true,
       "highlightOnHeader": false,
-      "id": "muhallebiler"
+      "id": "muhallebiler",
+      "translations": {
+        "en": {
+          "name": "Milk Puddings"
+        },
+        "de": {
+          "name": "Milchpuddings"
+        },
+        "fr": {
+          "name": "Crèmes au lait"
+        },
+        "es": {
+          "name": "Pudines de leche"
+        },
+        "it": {
+          "name": "Budini al latte"
+        },
+        "pt": {
+          "name": "Pudins de leite"
+        },
+        "ru": {
+          "name": "Молочные пудинги"
+        },
+        "ar": {
+          "name": "المهلبية"
+        },
+        "fa": {
+          "name": "محلبی‌ها"
+        },
+        "hi": {
+          "name": "दूध के पुडिंग"
+        },
+        "ur": {
+          "name": "دودھ کے پڈنگ"
+        },
+        "zh-CN": {
+          "name": "牛奶布丁"
+        },
+        "ja": {
+          "name": "ミルクプディング"
+        }
+      }
     },
     {
       "name": "Sezonluk Tatlılar",
@@ -362,28 +403,192 @@
       "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/index.html",
       "megaMenuOnline": true,
       "id": "muhallebiler/geleneksel-sutlu-tatlilar",
-      "categoryId": "muhallebiler"
+      "categoryId": "muhallebiler",
+      "translations": {
+        "en": {
+          "name": "Traditional Milk Desserts"
+        },
+        "de": {
+          "name": "Traditionelle Milchdesserts"
+        },
+        "fr": {
+          "name": "Desserts au lait traditionnels"
+        },
+        "es": {
+          "name": "Postres lácteos tradicionales"
+        },
+        "it": {
+          "name": "Dolci al latte tradizionali"
+        },
+        "pt": {
+          "name": "Sobremesas lácteas tradicionais"
+        },
+        "ru": {
+          "name": "Традиционные молочные десерты"
+        },
+        "ar": {
+          "name": "حلويات الحليب التقليدية"
+        },
+        "fa": {
+          "name": "دسرهای شیری سنتی"
+        },
+        "hi": {
+          "name": "पारंपरिक दूध की मिठाइयाँ"
+        },
+        "ur": {
+          "name": "روایتی دودھ کی مٹھائیاں"
+        },
+        "zh-CN": {
+          "name": "传统奶类甜点"
+        },
+        "ja": {
+          "name": "伝統的な乳製品デザート"
+        }
+      }
     },
     {
       "name": "Kazandibiler",
       "url": "urunler/muhallebiler/kazandibiler/index.html",
       "megaMenuOnline": true,
       "id": "muhallebiler/kazandibiler",
-      "categoryId": "muhallebiler"
+      "categoryId": "muhallebiler",
+      "translations": {
+        "en": {
+          "name": "Kazandibi"
+        },
+        "de": {
+          "name": "Kazandibi"
+        },
+        "fr": {
+          "name": "Kazandibi"
+        },
+        "es": {
+          "name": "Kazandibi"
+        },
+        "it": {
+          "name": "Kazandibi"
+        },
+        "pt": {
+          "name": "Kazandibi"
+        },
+        "ru": {
+          "name": "Казандиби"
+        },
+        "ar": {
+          "name": "كازانديبي"
+        },
+        "fa": {
+          "name": "کازاندیبی"
+        },
+        "hi": {
+          "name": "कज़ानदिबी"
+        },
+        "ur": {
+          "name": "کازان دیبی"
+        },
+        "zh-CN": {
+          "name": "卡赞迪比"
+        },
+        "ja": {
+          "name": "カザンディビ"
+        }
+      }
     },
     {
       "name": "Meyveli & Aromalı Muhallebiler",
       "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/index.html",
       "megaMenuOnline": true,
       "id": "muhallebiler/meyveli-aromali-muhallebiler",
-      "categoryId": "muhallebiler"
+      "categoryId": "muhallebiler",
+      "translations": {
+        "en": {
+          "name": "Fruit & Flavored Milk Puddings"
+        },
+        "de": {
+          "name": "Milchpuddings mit Früchten & Aromen"
+        },
+        "fr": {
+          "name": "Crèmes au lait fruitées & aromatisées"
+        },
+        "es": {
+          "name": "Pudines de leche con frutas & sabores"
+        },
+        "it": {
+          "name": "Budini al latte alla frutta & aromatizzati"
+        },
+        "pt": {
+          "name": "Pudins de leite com frutas & sabores"
+        },
+        "ru": {
+          "name": "Фруктовые и ароматизированные молочные пудинги"
+        },
+        "ar": {
+          "name": "مهلبية بالفواكه والنكهات"
+        },
+        "fa": {
+          "name": "محلبی‌های میوه‌ای و طعم‌دار"
+        },
+        "hi": {
+          "name": "फल और फ्लेवर वाले दूध पुडिंग"
+        },
+        "ur": {
+          "name": "پھلوں اور ذائقوں والے دودھ پڈنگ"
+        },
+        "zh-CN": {
+          "name": "水果与风味牛奶布丁"
+        },
+        "ja": {
+          "name": "フルーツ＆風味付きミルクプディング"
+        }
+      }
     },
     {
       "name": "Özel Kup & Çikolatalı Tatlılar",
       "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/index.html",
       "megaMenuOnline": true,
       "id": "muhallebiler/ozel-kup-cikolatali-tatlilar",
-      "categoryId": "muhallebiler"
+      "categoryId": "muhallebiler",
+      "translations": {
+        "en": {
+          "name": "Special Cups & Chocolate Desserts"
+        },
+        "de": {
+          "name": "Besondere Dessertbecher & Schokoladendesserts"
+        },
+        "fr": {
+          "name": "Coupes spéciales & desserts au chocolat"
+        },
+        "es": {
+          "name": "Copas especiales & postres de chocolate"
+        },
+        "it": {
+          "name": "Coppe speciali & dolci al cioccolato"
+        },
+        "pt": {
+          "name": "Taças especiais & sobremesas de chocolate"
+        },
+        "ru": {
+          "name": "Особые десерты в стаканах и шоколадные десерты"
+        },
+        "ar": {
+          "name": "أكواب خاصة وحلويات الشوكولاتة"
+        },
+        "fa": {
+          "name": "دسرهای لیوانی ویژه و شکلاتی"
+        },
+        "hi": {
+          "name": "विशेष कप और चॉकलेट मिठाइयाँ"
+        },
+        "ur": {
+          "name": "خاص کپ اور چاکلیٹ مٹھائیاں"
+        },
+        "zh-CN": {
+          "name": "特色杯装与巧克力甜点"
+        },
+        "ja": {
+          "name": "特製カップ＆チョコレートデザート"
+        }
+      }
     },
     {
       "name": "Geleneksel Meyve Tatlıları",

@@ -173,3 +173,10 @@ Dil içerik dosyalarında metin alanlarının yanında `nutrition` nesnesi ve `a
 ## Trileçe çevirileri
 
 Güncel `tr.json` referansıyla beş trileçe ürününün içerikleri İngilizce, Arapça, Almanca, Fransızca, İspanyolca, İtalyanca, Portekizce, Rusça, Farsça, Hintçe, Urduca, Çince ve Japoncaya çevrilmiştir. Ürün ve varyant metinleri ayrı ayrı kaynak alanlarıyla eşleştirilir; HTML biçimlendirme etiketleri, besin değerleri/birimleri, ürün anahtarları ve boş alanlar korunur.
+
+
+## Muhallebi ürünleri
+
+Güncel kaynak tablodaki 21 muhallebi ürünü dört alt kategoride, birer `porsiyon` varyantıyla tanımlıdır. SKU, ürün anahtarı ve görsel adı kaynak ürün koduyla eşleşir. Önceki URL’ler korunur; değişen anahtarlar `legacyKeys` ile izlenebilir. Görseller `public/assets/images/urunler/muhallebiler/` altında WebP olarak bulunur.
+
+Ürün metinleri, alerjen/saklama bilgileri, besin tabloları ve kategori adları 14 dilde hazırlanmıştır. Kaynakta boş olan içerik/alerjen alanları boş tutulur (Fıstıklı Kazandibi, Safranlı Kazandibi, Damla Sakızlı Kazandibi ve Lotuslu Kaşık Pasta). Belirtilmemiş besin değerleri `null` olarak saklanır; sıfır kabul edilmez. Online satış kapalı ve ortak pazar açık ürünler mevcut mağaza/platform sipariş alanını kullanır.

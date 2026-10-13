@@ -984,23 +984,23 @@
       "600-01-02-firin-sutlac",
       "600-01-03-tavukgogsu",
       "600-01-04-zerde",
-      "600-01-05-fistikli-kazandibi",
-      "600-01-06-safranli-kazandibi",
-      "600-01-07-sakizli-kazandibi",
-      "600-01-08-tavukgogsu-kazandibi",
-      "600-01-09-ahududulu-sut-muhallebisi",
-      "600-01-10-cilekli-cikolatali-muhallebi",
-      "600-01-11-cilekli-sut-muhallebisi",
-      "600-01-12-damla-sakizli-sut-muhallebisi",
-      "600-01-13-fistikli-sut-muhallebisi",
-      "600-01-14-incirli-sut-muhallebisi",
-      "600-01-15-karamelli-findikli-sut-muhallebisi",
-      "600-01-16-keskul-u-fukara",
-      "600-01-17-orman-meyveli-sut-muhallebisi",
-      "600-01-18-lotuslu-kasik-pasta",
-      "600-01-19-profiterol",
-      "600-01-20-supangle",
-      "600-01-21-sah-mat"
+      "600-02-01-fistikli-kazandibi",
+      "600-02-02-safranli-kazandibi",
+      "600-02-03-damla-sakizli-kazandibi",
+      "600-02-04-tavukgogsu-kazandibi",
+      "600-03-01-ahududulu-sut-muhallebisi",
+      "600-03-02-cilekli-cikolatali-muhallebi",
+      "600-03-03-cilekli-sut-muhallebisi",
+      "600-03-04-damla-sakizli-sut-muhallebisi",
+      "600-03-05-fistikli-sut-muhallebisi",
+      "600-03-06-incirli-sut-muhallebisi",
+      "600-03-07-karamelli-findikli-sut-muhallebisi",
+      "600-03-08-keskul-u-fukara",
+      "600-03-09-orman-meyveli-sut-muhallebisi",
+      "600-04-01-lotuslu-kasik-pasta",
+      "600-04-02-profiterol",
+      "600-04-03-supangle",
+      "600-04-04-sah-mat"
     ],
     "parent": "Muhallebiler"
   },
@@ -1143,10 +1143,10 @@
   "urunler/muhallebiler/kazandibiler/index.html": {
     "kind": "catalog",
     "selected": [
-      "600-01-05-fistikli-kazandibi",
-      "600-01-06-safranli-kazandibi",
-      "600-01-07-sakizli-kazandibi",
-      "600-01-08-tavukgogsu-kazandibi"
+      "600-02-01-fistikli-kazandibi",
+      "600-02-02-safranli-kazandibi",
+      "600-02-03-damla-sakizli-kazandibi",
+      "600-02-04-tavukgogsu-kazandibi"
     ],
     "parent": "Muhallebiler",
     "subcategory": "Kazandibiler"
@@ -1154,15 +1154,15 @@
   "urunler/muhallebiler/meyveli-aromali-muhallebiler/index.html": {
     "kind": "catalog",
     "selected": [
-      "600-01-09-ahududulu-sut-muhallebisi",
-      "600-01-10-cilekli-cikolatali-muhallebi",
-      "600-01-11-cilekli-sut-muhallebisi",
-      "600-01-12-damla-sakizli-sut-muhallebisi",
-      "600-01-13-fistikli-sut-muhallebisi",
-      "600-01-14-incirli-sut-muhallebisi",
-      "600-01-15-karamelli-findikli-sut-muhallebisi",
-      "600-01-16-keskul-u-fukara",
-      "600-01-17-orman-meyveli-sut-muhallebisi"
+      "600-03-01-ahududulu-sut-muhallebisi",
+      "600-03-02-cilekli-cikolatali-muhallebi",
+      "600-03-03-cilekli-sut-muhallebisi",
+      "600-03-04-damla-sakizli-sut-muhallebisi",
+      "600-03-05-fistikli-sut-muhallebisi",
+      "600-03-06-incirli-sut-muhallebisi",
+      "600-03-07-karamelli-findikli-sut-muhallebisi",
+      "600-03-08-keskul-u-fukara",
+      "600-03-09-orman-meyveli-sut-muhallebisi"
     ],
     "parent": "Muhallebiler",
     "subcategory": "Meyveli & Aromalı Muhallebiler"
@@ -1170,10 +1170,10 @@
   "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/index.html": {
     "kind": "catalog",
     "selected": [
-      "600-01-18-lotuslu-kasik-pasta",
-      "600-01-19-profiterol",
-      "600-01-20-supangle",
-      "600-01-21-sah-mat"
+      "600-04-01-lotuslu-kasik-pasta",
+      "600-04-02-profiterol",
+      "600-04-03-supangle",
+      "600-04-04-sah-mat"
     ],
     "parent": "Muhallebiler",
     "subcategory": "Özel Kup & Çikolatalı Tatlılar"
@@ -1774,71 +1774,71 @@
   },
   "urunler/muhallebiler/kazandibiler/fistikli-kazandibi.html": {
     "kind": "catalog-product",
-    "product": "600-01-05-fistikli-kazandibi"
+    "product": "600-02-01-fistikli-kazandibi"
   },
   "urunler/muhallebiler/kazandibiler/safranli-kazandibi.html": {
     "kind": "catalog-product",
-    "product": "600-01-06-safranli-kazandibi"
+    "product": "600-02-02-safranli-kazandibi"
   },
   "urunler/muhallebiler/kazandibiler/sakizli-kazandibi.html": {
     "kind": "catalog-product",
-    "product": "600-01-07-sakizli-kazandibi"
+    "product": "600-02-03-damla-sakizli-kazandibi"
   },
   "urunler/muhallebiler/kazandibiler/tavukgogsu-kazandibi.html": {
     "kind": "catalog-product",
-    "product": "600-01-08-tavukgogsu-kazandibi"
+    "product": "600-02-04-tavukgogsu-kazandibi"
   },
   "urunler/muhallebiler/meyveli-aromali-muhallebiler/ahududulu-sut-muhallebisi.html": {
     "kind": "catalog-product",
-    "product": "600-01-09-ahududulu-sut-muhallebisi"
+    "product": "600-03-01-ahududulu-sut-muhallebisi"
   },
   "urunler/muhallebiler/meyveli-aromali-muhallebiler/cilekli-cikolatali-muhallebi.html": {
     "kind": "catalog-product",
-    "product": "600-01-10-cilekli-cikolatali-muhallebi"
+    "product": "600-03-02-cilekli-cikolatali-muhallebi"
   },
   "urunler/muhallebiler/meyveli-aromali-muhallebiler/cilekli-sut-muhallebisi.html": {
     "kind": "catalog-product",
-    "product": "600-01-11-cilekli-sut-muhallebisi"
+    "product": "600-03-03-cilekli-sut-muhallebisi"
   },
   "urunler/muhallebiler/meyveli-aromali-muhallebiler/damla-sakizli-sut-muhallebisi.html": {
     "kind": "catalog-product",
-    "product": "600-01-12-damla-sakizli-sut-muhallebisi"
+    "product": "600-03-04-damla-sakizli-sut-muhallebisi"
   },
   "urunler/muhallebiler/meyveli-aromali-muhallebiler/fistikli-sut-muhallebisi.html": {
     "kind": "catalog-product",
-    "product": "600-01-13-fistikli-sut-muhallebisi"
+    "product": "600-03-05-fistikli-sut-muhallebisi"
   },
   "urunler/muhallebiler/meyveli-aromali-muhallebiler/incirli-sut-muhallebisi.html": {
     "kind": "catalog-product",
-    "product": "600-01-14-incirli-sut-muhallebisi"
+    "product": "600-03-06-incirli-sut-muhallebisi"
   },
   "urunler/muhallebiler/meyveli-aromali-muhallebiler/karamelli-findikli-sut-muhallebisi.html": {
     "kind": "catalog-product",
-    "product": "600-01-15-karamelli-findikli-sut-muhallebisi"
+    "product": "600-03-07-karamelli-findikli-sut-muhallebisi"
   },
   "urunler/muhallebiler/meyveli-aromali-muhallebiler/keskul-u-fukara.html": {
     "kind": "catalog-product",
-    "product": "600-01-16-keskul-u-fukara"
+    "product": "600-03-08-keskul-u-fukara"
   },
   "urunler/muhallebiler/meyveli-aromali-muhallebiler/orman-meyveli-sut-muhallebisi.html": {
     "kind": "catalog-product",
-    "product": "600-01-17-orman-meyveli-sut-muhallebisi"
+    "product": "600-03-09-orman-meyveli-sut-muhallebisi"
   },
   "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/lotuslu-kasik-pasta.html": {
     "kind": "catalog-product",
-    "product": "600-01-18-lotuslu-kasik-pasta"
+    "product": "600-04-01-lotuslu-kasik-pasta"
   },
   "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/profiterol.html": {
     "kind": "catalog-product",
-    "product": "600-01-19-profiterol"
+    "product": "600-04-02-profiterol"
   },
   "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/supangle.html": {
     "kind": "catalog-product",
-    "product": "600-01-20-supangle"
+    "product": "600-04-03-supangle"
   },
   "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/sah-mat.html": {
     "kind": "catalog-product",
-    "product": "600-01-21-sah-mat"
+    "product": "600-04-04-sah-mat"
   },
   "urunler/sezonluk-tatlilar/geleneksel-meyve-tatlilari/ayva-tatlisi.html": {
     "kind": "catalog-product",

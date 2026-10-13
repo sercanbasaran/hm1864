@@ -3,109 +3,2020 @@
   "language": "es",
   "products": {
     "600-01-01-asure": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Aşure",
+      "description": "Un sabor tradicional que adorna la mesa, símbolo de abundancia y de compartir.",
+      "ingredients": "agua, azúcar, trigo para aşure, fécula de patata, almidón de maíz, garbanzos cocidos, albaricoque, higo, uvas, avellana, nuez, pasas de Corinto, arroz, mezcla de arroz y agua (arroz, agua), aroma de rosa, sal, aroma de vainillina, colorante (curcumina).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "130,7 kcal / 547,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "1,68",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "26,54",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "11,24",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "2,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "1,34",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "Por 100 g: Energía 130,7 kcal / 547,0 kJ; Grasas 1,68 g; Grasas saturadas 0,1 g; Hidratos de carbono 26,54 g; Azúcares 11,24 g; Fibra 2,2 g; Proteínas 1,34 g; Sal no especificado.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "410 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Un sabor tradicional que adorna la mesa, símbolo de abundancia y de compartir.",
+          "ingredients": "agua, azúcar, trigo para aşure, fécula de patata, almidón de maíz, garbanzos cocidos, albaricoque, higo, uvas, avellana, nuez, pasas de Corinto, arroz, mezcla de arroz y agua (arroz, agua), aroma de rosa, sal, aroma de vainillina, colorante (curcumina).",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: gluten de trigo, avellana, nuez.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "410 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: gluten de trigo, avellana, nuez.",
+      "portion": "Para una persona"
     },
     "600-01-02-firin-sutlac": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Arroz con leche al horno",
+      "description": "Un sabor nostálgico, dorado al horno.",
+      "ingredients": "leche de vaca, leche de búfala, azúcar, arroz, mezcla de arroz y agua (arroz, agua), sal.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "146,8 kcal / 614,211 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "22,9",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 146,8 kcal / 614,211 kJ; Grasas 4,7 g; Grasas saturadas 3,3 g; Hidratos de carbono 22,9 g; Azúcares 13,2 g; Fibra 0,2 g; Proteínas 3,3 g; Sal 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Un sabor nostálgico, dorado al horno.",
+          "ingredients": "leche de vaca, leche de búfala, azúcar, arroz, mezcla de arroz y agua (arroz, agua), sal.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "400 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos.",
+      "portion": "Para una persona"
     },
     "600-01-03-tavukgogsu": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Tavukgöğsü",
+      "description": "El sabor aterciopelado de la historia, elaborado con la maestría de Hafız Mustafa.",
+      "ingredients": "leche de búfala, leche de vaca, pechuga de pollo, azúcar, mezcla de arroz y agua (arroz, agua), nata montada sin azúcar, canela, sal.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "164,2 kcal / 687,013 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 164,2 kcal / 687,013 kJ; Grasas 4,2 g; Grasas saturadas 2,9 g; Hidratos de carbono 28,1 g; Azúcares 17,4 g; Fibra 0,3 g; Proteínas 3,6 g; Sal 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "El sabor aterciopelado de la historia, elaborado con la maestría de Hafız Mustafa.",
+          "ingredients": "leche de búfala, leche de vaca, pechuga de pollo, azúcar, mezcla de arroz y agua (arroz, agua), nata montada sin azúcar, canela, sal.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos, soja.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "270 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos, soja.",
+      "portion": "Para una persona"
     },
     "600-01-04-zerde": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Zerde",
+      "description": "El preciado azafrán que llega hasta hoy desde la cocina de los palacios otomanos.",
+      "ingredients": "agua, arroz, mezcla de arroz y agua (arroz, agua), azafrán, avellana, pistachos de Antep, pasas de Corinto, sal, azúcar, canela, almidón de maíz, fécula de patata, clavo, aromas (vainillina, coco, rosa), colorante (curcumina).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "119 kcal / aproximadamente 497,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": null,
+            "unit": ""
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "29",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "Por 100 g: Energía 119 kcal / aproximadamente 497,9 kJ; Grasas 0,1 g; Grasas saturadas no especificado; Hidratos de carbono 29 g; Azúcares 15,7 g; Fibra 0,2 g; Proteínas 0,5 g; Sal no especificado.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "El preciado azafrán que llega hasta hoy desde la cocina de los palacios otomanos.",
+          "ingredients": "agua, arroz, mezcla de arroz y agua (arroz, agua), azafrán, avellana, pistachos de Antep, pasas de Corinto, sal, azúcar, canela, almidón de maíz, fécula de patata, clavo, aromas (vainillina, coco, rosa), colorante (curcumina).",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: avellana, pistachos de Antep.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "395 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: avellana, pistachos de Antep.",
+      "portion": "Para una persona"
     },
-    "600-01-05-fistikli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-01-fistikli-kazandibi": {
+      "name": "Kazandibi de pistacho",
+      "description": "Kazandibi tradicional enriquecido con el intenso toque de los pistachos de Antep.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "195 kcal / 815,88 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "7,3",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "28,2",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "17,1",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 195 kcal / 815,88 kJ; Grasas 7,3 g; Grasas saturadas 2,9 g; Hidratos de carbono 28,2 g; Azúcares 17,1 g; Fibra 1,1 g; Proteínas 4,1 g; Sal 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Kazandibi tradicional enriquecido con el intenso toque de los pistachos de Antep.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "270 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Para una persona"
     },
-    "600-01-06-safranli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-02-safranli-kazandibi": {
+      "name": "Kazandibi de azafrán",
+      "description": "Kazandibi especial combinado con el valioso azafrán de la cocina palaciega.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "169,1 kcal / 707,514 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 169,1 kcal / 707,514 kJ; Grasas 5,1 g; Grasas saturadas 4 g; Hidratos de carbono 28,1 g; Azúcares 17,5 g; Fibra 0,2 g; Proteínas 2,8 g; Sal 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "275 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Kazandibi especial combinado con el valioso azafrán de la cocina palaciega.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "275 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Para una persona"
     },
-    "600-01-07-sakizli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-03-damla-sakizli-kazandibi": {
+      "name": "Kazandibi de almáciga",
+      "description": "Kazandibi caramelizado, aromatizado con almáciga tradicional.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "171,1 kcal / 715,882 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 171,1 kcal / 715,882 kJ; Grasas 5,1 g; Grasas saturadas 4 g; Hidratos de carbono 28,5 g; Azúcares 17,7 g; Fibra 0,2 g; Proteínas 2,9 g; Sal 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Kazandibi caramelizado, aromatizado con almáciga tradicional.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "270 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Para una persona"
     },
-    "600-01-08-tavukgogsu-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-04-tavukgogsu-kazandibi": {
+      "name": "Kazandibi Tavukgöğsü",
+      "description": "El sabor caramelizado y aterciopelado de la historia, elaborado por Hafız Mustafa.",
+      "ingredients": "leche de búfala, leche de vaca, pechuga de pollo, azúcar, mezcla de arroz y agua (arroz, agua), nata montada sin azúcar, sal.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "176 kcal / 736,384 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "28,3",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 176 kcal / 736,384 kJ; Grasas 5,4 g; Grasas saturadas 4,1 g; Hidratos de carbono 28,3 g; Azúcares 17,4 g; Fibra 0,2 g; Proteínas 3,7 g; Sal 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "260 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "El sabor caramelizado y aterciopelado de la historia, elaborado por Hafız Mustafa.",
+          "ingredients": "leche de búfala, leche de vaca, pechuga de pollo, azúcar, mezcla de arroz y agua (arroz, agua), nata montada sin azúcar, sal.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos, soja.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "260 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos, soja.",
+      "portion": "Para una persona"
     },
-    "600-01-09-ahududulu-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-01-ahududulu-sut-muhallebisi": {
+      "name": "Pudin de leche con frambuesa",
+      "description": "La armonía de la refrescante frambuesa y el pudin de leche.",
+      "ingredients": "pudin de leche (leche entera, azúcar, nata de leche, harina de trigo, almidón de maíz, huevo, chocolate blanco, nata montada azucarada, aroma de vainillina, sal), relleno de frambuesa (frambuesa, gelificante, gelatina en caliente, gelatina de frambuesa, gelatina en frío).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "297,5 kcal / 1.244,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "61,8",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 297,5 kcal / 1.244,7 kJ; Grasas 4,2 g; Grasas saturadas 1,7 g; Hidratos de carbono 61,8 g; Azúcares 12,8 g; Fibra 0,5 g; Proteínas 2,8 g; Sal 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "La armonía de la refrescante frambuesa y el pudin de leche.",
+          "ingredients": "pudin de leche (leche entera, azúcar, nata de leche, harina de trigo, almidón de maíz, huevo, chocolate blanco, nata montada azucarada, aroma de vainillina, sal), relleno de frambuesa (frambuesa, gelificante, gelatina en caliente, gelatina de frambuesa, gelatina en frío).",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos, gluten, soja, huevo, sulfitos.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "390 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos, gluten, soja, huevo, sulfitos.",
+      "portion": "Para una persona"
     },
-    "600-01-10-cilekli-cikolatali-muhallebi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-02-cilekli-cikolatali-muhallebi": {
+      "name": "Pudin de chocolate con fresa",
+      "description": "Una mezcla de fresas frescas y chocolate.",
+      "ingredients": "pudin de chocolate (leche entera, azúcar, harina de trigo, chocolate negro, chocolate con leche, cacao en polvo, praliné de avellana y chocolate), relleno de fresa (gelatina en caliente, azúcar, gelificante, gelatina de frambuesa, fresa).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "174,6 kcal / 730,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "27,6",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 174,6 kcal / 730,5 kJ; Grasas 5,4 g; Grasas saturadas 2,9 g; Hidratos de carbono 27,6 g; Azúcares 28,5 g; Fibra 1,3 g; Proteínas 3,3 g; Sal 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Una mezcla de fresas frescas y chocolate.",
+          "ingredients": "pudin de chocolate (leche entera, azúcar, harina de trigo, chocolate negro, chocolate con leche, cacao en polvo, praliné de avellana y chocolate), relleno de fresa (gelatina en caliente, azúcar, gelificante, gelatina de frambuesa, fresa).",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos, gluten, soja, huevo, sulfitos.\n<small>Puede contener trazas de: pistachos de Antep, almendra, cacahuetes, sésamo, nuez.</small>",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "390 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos, gluten, soja, huevo, sulfitos.\n<small>Puede contener trazas de: pistachos de Antep, almendra, cacahuetes, sésamo, nuez.</small>",
+      "portion": "Para una persona"
     },
-    "600-01-11-cilekli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-03-cilekli-sut-muhallebisi": {
+      "name": "Pudin de leche con fresa",
+      "description": "La unión de la leche y la fresa.",
+      "ingredients": "pudin de leche (leche entera, azúcar, nata de leche, harina de trigo, almidón de maíz, huevo, chocolate blanco, nata montada azucarada, aroma de vainillina, sal), relleno de fresa (gelatina en caliente, azúcar, gelificante, gelatina de frambuesa, fresa).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "270,0 kcal / 1.129,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "20,1",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "18,0",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "20,3",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 270,0 kcal / 1.129,7 kJ; Grasas 20,1 g; Grasas saturadas 12,1 g; Hidratos de carbono 18,0 g; Azúcares 20,3 g; Fibra 0,3 g; Proteínas 3,6 g; Sal 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "La unión de la leche y la fresa.",
+          "ingredients": "pudin de leche (leche entera, azúcar, nata de leche, harina de trigo, almidón de maíz, huevo, chocolate blanco, nata montada azucarada, aroma de vainillina, sal), relleno de fresa (gelatina en caliente, azúcar, gelificante, gelatina de frambuesa, fresa).",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos, gluten, soja, huevo, sulfitos.\n<small>Puede contener trazas de: pistachos de Antep, almendra, cacahuetes, sésamo, nuez.</small>",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "395 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos, gluten, soja, huevo, sulfitos.\n<small>Puede contener trazas de: pistachos de Antep, almendra, cacahuetes, sésamo, nuez.</small>",
+      "portion": "Para una persona"
     },
-    "600-01-12-damla-sakizli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-04-damla-sakizli-sut-muhallebisi": {
+      "name": "Pudin de leche con almáciga",
+      "description": "Una elegante invitación de la cocina turca tradicional con almáciga.",
+      "ingredients": "leche de vaca, leche de búfala, azúcar, mezcla de arroz y agua (arroz, agua), sal, avellana, almáciga.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "141,1 kcal / 590,4 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "5,0",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "3,5",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "20,9",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 141,1 kcal / 590,4 kJ; Grasas 5,0 g; Grasas saturadas 3,5 g; Hidratos de carbono 20,9 g; Azúcares 13,0 g; Fibra 0,1 g; Proteínas 3,2 g; Sal 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Una elegante invitación de la cocina turca tradicional con almáciga.",
+          "ingredients": "leche de vaca, leche de búfala, azúcar, mezcla de arroz y agua (arroz, agua), sal, avellana, almáciga.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: avellana, productos lácteos.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "400 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: avellana, productos lácteos.",
+      "portion": "Para una persona"
     },
-    "600-01-13-fistikli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-05-fistikli-sut-muhallebisi": {
+      "name": "Pudin de leche con pistacho",
+      "description": "Una mezcla incomparable de pistachos y leche cremosa.",
+      "ingredients": "leche de vaca, leche de búfala, azúcar, mezcla de arroz y agua (arroz, agua), sal, pistachos de Antep, concentrado de pistacho de Antep.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "169,0 kcal / 707,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "8,1",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "3,0",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "11,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,9",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 169,0 kcal / 707,1 kJ; Grasas 8,1 g; Grasas saturadas 3,0 g; Hidratos de carbono 18,9 g; Azúcares 11,2 g; Fibra 0,9 g; Proteínas 5,3 g; Sal 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Una mezcla incomparable de pistachos y leche cremosa.",
+          "ingredients": "leche de vaca, leche de búfala, azúcar, mezcla de arroz y agua (arroz, agua), sal, pistachos de Antep, concentrado de pistacho de Antep.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: pistachos de Antep, soja, productos lácteos.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "400 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: pistachos de Antep, soja, productos lácteos.",
+      "portion": "Para una persona"
     },
-    "600-01-14-incirli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-06-incirli-sut-muhallebisi": {
+      "name": "Pudin de leche con higo",
+      "description": "Un sabor magnífico nacido de la combinación de higos y leche.",
+      "ingredients": "leche de vaca, leche de búfala, azúcar, mezcla de arroz y agua (arroz, agua), sal, almendra, higo, aromas (coco, vainillina, almendra amarga).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "148,0 kcal / 619,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "5,2",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 148,0 kcal / 619,2 kJ; Grasas 5,2 g; Grasas saturadas 3,3 g; Hidratos de carbono 22,1 g; Azúcares 13,0 g; Fibra 0,5 g; Proteínas 3,4 g; Sal 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Un sabor magnífico nacido de la combinación de higos y leche.",
+          "ingredients": "leche de vaca, leche de búfala, azúcar, mezcla de arroz y agua (arroz, agua), sal, almendra, higo, aromas (coco, vainillina, almendra amarga).",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: almendra, productos lácteos.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "400 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: almendra, productos lácteos.",
+      "portion": "Para una persona"
     },
-    "600-01-15-karamelli-findikli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-07-karamelli-findikli-sut-muhallebisi": {
+      "name": "Pudin de leche con caramelo y avellana",
+      "description": "La salsa de caramelo tostado se une al pudin de leche y las avellanas.",
+      "ingredients": "pudin de leche (leche entera, azúcar, nata de leche, harina de trigo, almidón de maíz, huevo, chocolate blanco, nata montada azucarada, aroma de vainillina, sal), bizcocho blanco (harina de trigo, azúcar, almidón de maíz, huevo, agua, levadura química, emulsionante vegetal, estabilizante vegetal), salsa de caramelo, avellana.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "314,0 kcal / 1.313,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "10,5",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "31,2",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,0",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "5,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 314,0 kcal / 1.313,8 kJ; Grasas 18,4 g; Grasas saturadas 10,5 g; Hidratos de carbono 31,2 g; Azúcares 12,2 g; Fibra 0,0 g; Proteínas 5,6 g; Sal 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "360 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "La salsa de caramelo tostado se une al pudin de leche y las avellanas.",
+          "ingredients": "pudin de leche (leche entera, azúcar, nata de leche, harina de trigo, almidón de maíz, huevo, chocolate blanco, nata montada azucarada, aroma de vainillina, sal), bizcocho blanco (harina de trigo, azúcar, almidón de maíz, huevo, agua, levadura química, emulsionante vegetal, estabilizante vegetal), salsa de caramelo, avellana.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: gluten de trigo, avellana, soja, huevo, productos lácteos.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "360 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: gluten de trigo, avellana, soja, huevo, productos lácteos.",
+      "portion": "Para una persona"
     },
-    "600-01-16-keskul-u-fukara": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-08-keskul-u-fukara": {
+      "name": "Keşkül-ü Fukara",
+      "description": "Un sabor gourmet transmitido desde la época otomana.",
+      "ingredients": "leche de vaca, leche de búfala, azúcar, mezcla de arroz y agua (arroz, agua), sal, huevo, almendra, aromas (vainillina, almendra amarga, coco), colorante (curcumina).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "142,0 kcal / 594,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "19,1",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 142,0 kcal / 594,1 kJ; Grasas 5,4 g; Grasas saturadas 2,9 g; Hidratos de carbono 19,1 g; Azúcares 11,7 g; Fibra 0,1 g; Proteínas 4,5 g; Sal 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Un sabor gourmet transmitido desde la época otomana.",
+          "ingredients": "leche de vaca, leche de búfala, azúcar, mezcla de arroz y agua (arroz, agua), sal, huevo, almendra, aromas (vainillina, almendra amarga, coco), colorante (curcumina).",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: almendra, huevo, productos lácteos.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "400 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: almendra, huevo, productos lácteos.",
+      "portion": "Para una persona"
     },
-    "600-01-17-orman-meyveli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-09-orman-meyveli-sut-muhallebisi": {
+      "name": "Pudin de leche con frutos del bosque",
+      "description": "El aroma único de la naturaleza en cada cucharada.",
+      "ingredients": "leche de vaca, leche de búfala, azúcar, mezcla de arroz y agua (arroz, agua), fécula de patata, almidón de maíz, gelificante, aroma de vainillina, mora, arándano, frambuesa, pistachos de Antep, sal.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "136,0 kcal / 569,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "23,7",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "14,6",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 136,0 kcal / 569,0 kJ; Grasas 3,6 g; Grasas saturadas 2,5 g; Hidratos de carbono 23,7 g; Azúcares 14,6 g; Fibra 0,7 g; Proteínas 2,4 g; Sal 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "El aroma único de la naturaleza en cada cucharada.",
+          "ingredients": "leche de vaca, leche de búfala, azúcar, mezcla de arroz y agua (arroz, agua), fécula de patata, almidón de maíz, gelificante, aroma de vainillina, mora, arándano, frambuesa, pistachos de Antep, sal.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: pistachos de Antep, sulfitos, productos lácteos.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "395 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: pistachos de Antep, sulfitos, productos lácteos.",
+      "portion": "Para una persona"
     },
-    "600-01-18-lotuslu-kasik-pasta": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-01-lotuslu-kasik-pasta": {
+      "name": "Pastel Lotus de cuchara",
+      "description": "Un irresistible pastel Lotus de cuchara de sabor único.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "420,8 kcal / 1.760,63 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "29,4",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "15,9",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "36,5",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 420,8 kcal / 1.760,63 kJ; Grasas 29,4 g; Grasas saturadas 15,9 g; Hidratos de carbono 36,5 g; Azúcares 18,9 g; Fibra 0,4 g; Proteínas 2,5 g; Sal 0,3 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Un irresistible pastel Lotus de cuchara de sabor único.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "390 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Para una persona"
     },
-    "600-01-19-profiterol": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-02-profiterol": {
+      "name": "Profiteroles",
+      "description": "Chocolate y crema especial dentro de pequeñas piezas redondas de masa.",
+      "ingredients": "salsa Supangle (leche, harina de trigo, azúcar granulado, chocolate con leche, chocolate negro, cacao en polvo, praliné con leche), masa de profiteroles (harina de trigo, agua, huevo, aceite de girasol), nata (harina de trigo, azúcar granulado, huevo, nata montada, leche, aceite vegetal hidrogenado), chocolate con pistacho Mat, pistachos de Antep, chocolate con leche.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "342,6 kcal / 1.433,44 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "24,9",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "24,7",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "19,6",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "5",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 342,6 kcal / 1.433,44 kJ; Grasas 24,9 g; Grasas saturadas 13,2 g; Hidratos de carbono 24,7 g; Azúcares 19,6 g; Fibra 1 g; Proteínas 5 g; Sal 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "380 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Chocolate y crema especial dentro de pequeñas piezas redondas de masa.",
+          "ingredients": "salsa Supangle (leche, harina de trigo, azúcar granulado, chocolate con leche, chocolate negro, cacao en polvo, praliné con leche), masa de profiteroles (harina de trigo, agua, huevo, aceite de girasol), nata (harina de trigo, azúcar granulado, huevo, nata montada, leche, aceite vegetal hidrogenado), chocolate con pistacho Mat, pistachos de Antep, chocolate con leche.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: gluten de trigo, avellana, pistachos de Antep, huevo, leche, soja.\n<small>Puede contener trazas de: almendra, cacahuetes, sésamo, nuez.</small>",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "380 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: gluten de trigo, avellana, pistachos de Antep, huevo, leche, soja.\n<small>Puede contener trazas de: almendra, cacahuetes, sésamo, nuez.</small>",
+      "portion": "Para una persona"
     },
-    "600-01-20-supangle": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-03-supangle": {
+      "name": "Supangle",
+      "description": "Una textura sedosa que le transporta al pasado.",
+      "ingredients": "salsa Supangle (leche, harina de trigo, azúcar granulado, chocolate con leche, chocolate negro, cacao en polvo, praliné con leche), bizcocho (harina de trigo, agua, cacao en polvo, azúcar granulado, huevo, levadura química, estabilizante vegetal, emulsionante vegetal), nata (harina de trigo, azúcar granulado, huevo, nata montada, leche, aceite vegetal hidrogenado), chocolate con pistacho Mat, pistachos de Antep.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "348 kcal / 1.456,03 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "24,8",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "12,9",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 348 kcal / 1.456,03 kJ; Grasas 24,8 g; Grasas saturadas 12,9 g; Hidratos de carbono 25,9 g; Azúcares 20,5 g; Fibra 1,2 g; Proteínas 5,3 g; Sal 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Una textura sedosa que le transporta al pasado.",
+          "ingredients": "salsa Supangle (leche, harina de trigo, azúcar granulado, chocolate con leche, chocolate negro, cacao en polvo, praliné con leche), bizcocho (harina de trigo, agua, cacao en polvo, azúcar granulado, huevo, levadura química, estabilizante vegetal, emulsionante vegetal), nata (harina de trigo, azúcar granulado, huevo, nata montada, leche, aceite vegetal hidrogenado), chocolate con pistacho Mat, pistachos de Antep.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: gluten de trigo, pistachos de Antep, huevo, soja, productos lácteos.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "400 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: gluten de trigo, pistachos de Antep, huevo, soja, productos lácteos.",
+      "portion": "Para una persona"
     },
-    "600-01-21-sah-mat": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-04-sah-mat": {
+      "name": "Şah Mat",
+      "description": "Un festín nacido del contraste entre leche y chocolate.",
+      "ingredients": "pudin de leche (leche entera, azúcar, nata de leche, harina de trigo, almidón de maíz, huevo, chocolate blanco, nata montada azucarada, aroma de vainillina, sal), praliné de avellana y chocolate con leche, cacao en polvo, chocolate negro, almidón de maíz.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "379,0 kcal / 1.585,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "63,5",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "17,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,4",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 379,0 kcal / 1.585,7 kJ; Grasas 11,7 g; Grasas saturadas 1,7 g; Hidratos de carbono 63,5 g; Azúcares 17,2 g; Fibra 1,4 g; Proteínas 4,5 g; Sal 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 gramos",
+      "variants": {
+        "porsiyon": {
+          "description": "Un festín nacido del contraste entre leche y chocolate.",
+          "ingredients": "pudin de leche (leche entera, azúcar, nata de leche, harina de trigo, almidón de maíz, huevo, chocolate blanco, nata montada azucarada, aroma de vainillina, sal), praliné de avellana y chocolate con leche, cacao en polvo, chocolate negro, almidón de maíz.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: gluten de trigo, avellana, huevo, soja, productos lácteos.",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "400 gramos",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porción"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: gluten de trigo, avellana, huevo, soja, productos lácteos.",
+      "portion": "Para una persona"
     }
   }
 }

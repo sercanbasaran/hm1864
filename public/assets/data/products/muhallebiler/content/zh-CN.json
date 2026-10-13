@@ -3,109 +3,2020 @@
   "language": "zh-CN",
   "products": {
     "600-01-01-asure": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "阿舒雷",
+      "description": "象征丰盛与分享，为餐桌增添传统风味。",
+      "ingredients": "水, 糖, 阿舒雷用小麦, 马铃薯淀粉, 玉米淀粉, 煮熟的鹰嘴豆, 杏, 无花果, 葡萄, 榛子, 核桃, 小粒葡萄干, 大米, 大米与水的混合浆 (大米, 水), 玫瑰香料, 盐, 香兰素香料, 色素 (姜黄素).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "130,7 kcal / 547,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "1,68",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "26,54",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "11,24",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "2,2",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "1,34",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "每100 g: 能量 130,7 kcal / 547,0 kJ; 脂肪 1,68 g; 饱和脂肪 0,1 g; 碳水化合物 26,54 g; 糖 11,24 g; 膳食纤维 2,2 g; 蛋白质 1,34 g; 盐 未注明.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "410 克",
+      "variants": {
+        "porsiyon": {
+          "description": "象征丰盛与分享，为餐桌增添传统风味。",
+          "ingredients": "水, 糖, 阿舒雷用小麦, 马铃薯淀粉, 玉米淀粉, 煮熟的鹰嘴豆, 杏, 无花果, 葡萄, 榛子, 核桃, 小粒葡萄干, 大米, 大米与水的混合浆 (大米, 水), 玫瑰香料, 盐, 香兰素香料, 色素 (姜黄素).",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 小麦麸质, 榛子, 核桃.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "410 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 小麦麸质, 榛子, 核桃.",
+      "portion": "单人份"
     },
     "600-01-02-firin-sutlac": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "烤米布丁",
+      "description": "烤至金黄的怀旧美味。",
+      "ingredients": "牛奶, 水牛奶, 糖, 大米, 大米与水的混合浆 (大米, 水), 盐.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "146,8 kcal / 614,211 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "22,9",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 146,8 kcal / 614,211 kJ; 脂肪 4,7 g; 饱和脂肪 3,3 g; 碳水化合物 22,9 g; 糖 13,2 g; 膳食纤维 0,2 g; 蛋白质 3,3 g; 盐 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 克",
+      "variants": {
+        "porsiyon": {
+          "description": "烤至金黄的怀旧美味。",
+          "ingredients": "牛奶, 水牛奶, 糖, 大米, 大米与水的混合浆 (大米, 水), 盐.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 乳制品.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "400 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 乳制品.",
+      "portion": "单人份"
     },
     "600-01-03-tavukgogsu": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "塔乌克格苏",
+      "description": "Hafız Mustafa匠心呈现历史的丝绒口感。",
+      "ingredients": "水牛奶, 牛奶, 鸡胸肉, 糖, 大米与水的混合浆 (大米, 水), 无糖打发奶油, 肉桂, 盐.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "164,2 kcal / 687,013 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 164,2 kcal / 687,013 kJ; 脂肪 4,2 g; 饱和脂肪 2,9 g; 碳水化合物 28,1 g; 糖 17,4 g; 膳食纤维 0,3 g; 蛋白质 3,6 g; 盐 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 克",
+      "variants": {
+        "porsiyon": {
+          "description": "Hafız Mustafa匠心呈现历史的丝绒口感。",
+          "ingredients": "水牛奶, 牛奶, 鸡胸肉, 糖, 大米与水的混合浆 (大米, 水), 无糖打发奶油, 肉桂, 盐.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 乳制品, 大豆.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "270 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 乳制品, 大豆.",
+      "portion": "单人份"
     },
     "600-01-04-zerde": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "泽尔德",
+      "description": "从奥斯曼宫廷厨房传承至今的珍贵藏红花风味。",
+      "ingredients": "水, 大米, 大米与水的混合浆 (大米, 水), 藏红花, 榛子, 安泰普开心果, 小粒葡萄干, 盐, 糖, 肉桂, 玉米淀粉, 马铃薯淀粉, 丁香, 香料 (香兰素, 椰子, 玫瑰), 色素 (姜黄素).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "119 kcal / 约 497,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": null,
+            "unit": ""
+          },
+          {
+            "name": "碳水化合物",
+            "value": "29",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "每100 g: 能量 119 kcal / 约 497,9 kJ; 脂肪 0,1 g; 饱和脂肪 未注明; 碳水化合物 29 g; 糖 15,7 g; 膳食纤维 0,2 g; 蛋白质 0,5 g; 盐 未注明.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 克",
+      "variants": {
+        "porsiyon": {
+          "description": "从奥斯曼宫廷厨房传承至今的珍贵藏红花风味。",
+          "ingredients": "水, 大米, 大米与水的混合浆 (大米, 水), 藏红花, 榛子, 安泰普开心果, 小粒葡萄干, 盐, 糖, 肉桂, 玉米淀粉, 马铃薯淀粉, 丁香, 香料 (香兰素, 椰子, 玫瑰), 色素 (姜黄素).",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 榛子, 安泰普开心果.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "395 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 榛子, 安泰普开心果.",
+      "portion": "单人份"
     },
-    "600-01-05-fistikli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-01-fistikli-kazandibi": {
+      "name": "开心果卡赞迪比",
+      "description": "安泰普开心果为传统卡赞迪比增添浓郁风味。",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "195 kcal / 815,88 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "7,3",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "28,2",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "17,1",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 195 kcal / 815,88 kJ; 脂肪 7,3 g; 饱和脂肪 2,9 g; 碳水化合物 28,2 g; 糖 17,1 g; 膳食纤维 1,1 g; 蛋白质 4,1 g; 盐 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 克",
+      "variants": {
+        "porsiyon": {
+          "description": "安泰普开心果为传统卡赞迪比增添浓郁风味。",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "270 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "单人份"
     },
-    "600-01-06-safranli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-02-safranli-kazandibi": {
+      "name": "藏红花卡赞迪比",
+      "description": "以宫廷厨房珍贵藏红花调制的特别卡赞迪比。",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "169,1 kcal / 707,514 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 169,1 kcal / 707,514 kJ; 脂肪 5,1 g; 饱和脂肪 4 g; 碳水化合物 28,1 g; 糖 17,5 g; 膳食纤维 0,2 g; 蛋白质 2,8 g; 盐 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "275 克",
+      "variants": {
+        "porsiyon": {
+          "description": "以宫廷厨房珍贵藏红花调制的特别卡赞迪比。",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "275 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "单人份"
     },
-    "600-01-07-sakizli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-03-damla-sakizli-kazandibi": {
+      "name": "乳香卡赞迪比",
+      "description": "带有传统乳香风味的焦糖化卡赞迪比。",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "171,1 kcal / 715,882 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 171,1 kcal / 715,882 kJ; 脂肪 5,1 g; 饱和脂肪 4 g; 碳水化合物 28,5 g; 糖 17,7 g; 膳食纤维 0,2 g; 蛋白质 2,9 g; 盐 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 克",
+      "variants": {
+        "porsiyon": {
+          "description": "带有传统乳香风味的焦糖化卡赞迪比。",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "270 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "单人份"
     },
-    "600-01-08-tavukgogsu-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-04-tavukgogsu-kazandibi": {
+      "name": "塔乌克格苏卡赞迪比",
+      "description": "Hafız Mustafa匠心呈现历史的焦糖与丝绒口感。",
+      "ingredients": "水牛奶, 牛奶, 鸡胸肉, 糖, 大米与水的混合浆 (大米, 水), 无糖打发奶油, 盐.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "176 kcal / 736,384 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "28,3",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "3,7",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 176 kcal / 736,384 kJ; 脂肪 5,4 g; 饱和脂肪 4,1 g; 碳水化合物 28,3 g; 糖 17,4 g; 膳食纤维 0,2 g; 蛋白质 3,7 g; 盐 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "260 克",
+      "variants": {
+        "porsiyon": {
+          "description": "Hafız Mustafa匠心呈现历史的焦糖与丝绒口感。",
+          "ingredients": "水牛奶, 牛奶, 鸡胸肉, 糖, 大米与水的混合浆 (大米, 水), 无糖打发奶油, 盐.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 乳制品, 大豆.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "260 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 乳制品, 大豆.",
+      "portion": "单人份"
     },
-    "600-01-09-ahududulu-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-01-ahududulu-sut-muhallebisi": {
+      "name": "覆盆子牛奶布丁",
+      "description": "清新覆盆子与牛奶布丁的和谐搭配。",
+      "ingredients": "牛奶布丁 (全脂奶, 糖, 乳脂奶油, 小麦粉, 玉米淀粉, 鸡蛋, 白巧克力, 加糖打发奶油, 香兰素香料, 盐), 覆盆子馅料 (覆盆子, 凝胶剂, 热制果冻, 覆盆子果冻, 冷制果冻).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "297,5 kcal / 1.244,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "61,8",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 297,5 kcal / 1.244,7 kJ; 脂肪 4,2 g; 饱和脂肪 1,7 g; 碳水化合物 61,8 g; 糖 12,8 g; 膳食纤维 0,5 g; 蛋白质 2,8 g; 盐 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 克",
+      "variants": {
+        "porsiyon": {
+          "description": "清新覆盆子与牛奶布丁的和谐搭配。",
+          "ingredients": "牛奶布丁 (全脂奶, 糖, 乳脂奶油, 小麦粉, 玉米淀粉, 鸡蛋, 白巧克力, 加糖打发奶油, 香兰素香料, 盐), 覆盆子馅料 (覆盆子, 凝胶剂, 热制果冻, 覆盆子果冻, 冷制果冻).",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 乳制品, 麸质, 大豆, 鸡蛋, 亚硫酸盐.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "390 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 乳制品, 麸质, 大豆, 鸡蛋, 亚硫酸盐.",
+      "portion": "单人份"
     },
-    "600-01-10-cilekli-cikolatali-muhallebi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-02-cilekli-cikolatali-muhallebi": {
+      "name": "草莓巧克力布丁",
+      "description": "新鲜草莓与巧克力的融合。",
+      "ingredients": "巧克力布丁 (全脂奶, 糖, 小麦粉, 黑巧克力, 牛奶巧克力, 可可粉, 巧克力榛子果仁糖), 草莓馅料 (热制果冻, 糖, 凝胶剂, 覆盆子果冻, 草莓).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "174,6 kcal / 730,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "27,6",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 174,6 kcal / 730,5 kJ; 脂肪 5,4 g; 饱和脂肪 2,9 g; 碳水化合物 27,6 g; 糖 28,5 g; 膳食纤维 1,3 g; 蛋白质 3,3 g; 盐 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 克",
+      "variants": {
+        "porsiyon": {
+          "description": "新鲜草莓与巧克力的融合。",
+          "ingredients": "巧克力布丁 (全脂奶, 糖, 小麦粉, 黑巧克力, 牛奶巧克力, 可可粉, 巧克力榛子果仁糖), 草莓馅料 (热制果冻, 糖, 凝胶剂, 覆盆子果冻, 草莓).",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 乳制品, 麸质, 大豆, 鸡蛋, 亚硫酸盐.\n<small>可能含有微量: 安泰普开心果, 杏仁, 花生, 芝麻, 核桃.</small>",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "390 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 乳制品, 麸质, 大豆, 鸡蛋, 亚硫酸盐.\n<small>可能含有微量: 安泰普开心果, 杏仁, 花生, 芝麻, 核桃.</small>",
+      "portion": "单人份"
     },
-    "600-01-11-cilekli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-03-cilekli-sut-muhallebisi": {
+      "name": "草莓牛奶布丁",
+      "description": "牛奶与草莓的交融。",
+      "ingredients": "牛奶布丁 (全脂奶, 糖, 乳脂奶油, 小麦粉, 玉米淀粉, 鸡蛋, 白巧克力, 加糖打发奶油, 香兰素香料, 盐), 草莓馅料 (热制果冻, 糖, 凝胶剂, 覆盆子果冻, 草莓).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "270,0 kcal / 1.129,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "20,1",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "18,0",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "20,3",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 270,0 kcal / 1.129,7 kJ; 脂肪 20,1 g; 饱和脂肪 12,1 g; 碳水化合物 18,0 g; 糖 20,3 g; 膳食纤维 0,3 g; 蛋白质 3,6 g; 盐 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 克",
+      "variants": {
+        "porsiyon": {
+          "description": "牛奶与草莓的交融。",
+          "ingredients": "牛奶布丁 (全脂奶, 糖, 乳脂奶油, 小麦粉, 玉米淀粉, 鸡蛋, 白巧克力, 加糖打发奶油, 香兰素香料, 盐), 草莓馅料 (热制果冻, 糖, 凝胶剂, 覆盆子果冻, 草莓).",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 乳制品, 麸质, 大豆, 鸡蛋, 亚硫酸盐.\n<small>可能含有微量: 安泰普开心果, 杏仁, 花生, 芝麻, 核桃.</small>",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "395 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 乳制品, 麸质, 大豆, 鸡蛋, 亚硫酸盐.\n<small>可能含有微量: 安泰普开心果, 杏仁, 花生, 芝麻, 核桃.</small>",
+      "portion": "单人份"
     },
-    "600-01-12-damla-sakizli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-04-damla-sakizli-sut-muhallebisi": {
+      "name": "乳香牛奶布丁",
+      "description": "传统土耳其美食以乳香风味发出的优雅邀请。",
+      "ingredients": "牛奶, 水牛奶, 糖, 大米与水的混合浆 (大米, 水), 盐, 榛子, 乳香胶.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "141,1 kcal / 590,4 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "5,0",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "3,5",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "20,9",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 141,1 kcal / 590,4 kJ; 脂肪 5,0 g; 饱和脂肪 3,5 g; 碳水化合物 20,9 g; 糖 13,0 g; 膳食纤维 0,1 g; 蛋白质 3,2 g; 盐 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 克",
+      "variants": {
+        "porsiyon": {
+          "description": "传统土耳其美食以乳香风味发出的优雅邀请。",
+          "ingredients": "牛奶, 水牛奶, 糖, 大米与水的混合浆 (大米, 水), 盐, 榛子, 乳香胶.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 榛子, 乳制品.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "400 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 榛子, 乳制品.",
+      "portion": "单人份"
     },
-    "600-01-13-fistikli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-05-fistikli-sut-muhallebisi": {
+      "name": "开心果牛奶布丁",
+      "description": "开心果与醇厚牛奶的独特融合。",
+      "ingredients": "牛奶, 水牛奶, 糖, 大米与水的混合浆 (大米, 水), 盐, 安泰普开心果, 安泰普开心果浓缩物.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "169,0 kcal / 707,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "8,1",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "3,0",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "11,2",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,9",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 169,0 kcal / 707,1 kJ; 脂肪 8,1 g; 饱和脂肪 3,0 g; 碳水化合物 18,9 g; 糖 11,2 g; 膳食纤维 0,9 g; 蛋白质 5,3 g; 盐 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 克",
+      "variants": {
+        "porsiyon": {
+          "description": "开心果与醇厚牛奶的独特融合。",
+          "ingredients": "牛奶, 水牛奶, 糖, 大米与水的混合浆 (大米, 水), 盐, 安泰普开心果, 安泰普开心果浓缩物.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 安泰普开心果, 大豆, 乳制品.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "400 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 安泰普开心果, 大豆, 乳制品.",
+      "portion": "单人份"
     },
-    "600-01-14-incirli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-06-incirli-sut-muhallebisi": {
+      "name": "无花果牛奶布丁",
+      "description": "无花果与牛奶交融而成的绝妙风味。",
+      "ingredients": "牛奶, 水牛奶, 糖, 大米与水的混合浆 (大米, 水), 盐, 杏仁, 无花果, 香料 (椰子, 香兰素, 苦杏仁).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "148,0 kcal / 619,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "5,2",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 148,0 kcal / 619,2 kJ; 脂肪 5,2 g; 饱和脂肪 3,3 g; 碳水化合物 22,1 g; 糖 13,0 g; 膳食纤维 0,5 g; 蛋白质 3,4 g; 盐 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 克",
+      "variants": {
+        "porsiyon": {
+          "description": "无花果与牛奶交融而成的绝妙风味。",
+          "ingredients": "牛奶, 水牛奶, 糖, 大米与水的混合浆 (大米, 水), 盐, 杏仁, 无花果, 香料 (椰子, 香兰素, 苦杏仁).",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 杏仁, 乳制品.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "400 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 杏仁, 乳制品.",
+      "portion": "单人份"
     },
-    "600-01-15-karamelli-findikli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-07-karamelli-findikli-sut-muhallebisi": {
+      "name": "焦糖榛子牛奶布丁",
+      "description": "浓郁烘烤焦糖酱与牛奶布丁、榛子的相遇。",
+      "ingredients": "牛奶布丁 (全脂奶, 糖, 乳脂奶油, 小麦粉, 玉米淀粉, 鸡蛋, 白巧克力, 加糖打发奶油, 香兰素香料, 盐), 白色海绵蛋糕 (小麦粉, 糖, 玉米淀粉, 鸡蛋, 水, 泡打粉, 植物乳化剂, 植物稳定剂), 焦糖酱, 榛子.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "314,0 kcal / 1.313,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "10,5",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "31,2",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,0",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "5,6",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 314,0 kcal / 1.313,8 kJ; 脂肪 18,4 g; 饱和脂肪 10,5 g; 碳水化合物 31,2 g; 糖 12,2 g; 膳食纤维 0,0 g; 蛋白质 5,6 g; 盐 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "360 克",
+      "variants": {
+        "porsiyon": {
+          "description": "浓郁烘烤焦糖酱与牛奶布丁、榛子的相遇。",
+          "ingredients": "牛奶布丁 (全脂奶, 糖, 乳脂奶油, 小麦粉, 玉米淀粉, 鸡蛋, 白巧克力, 加糖打发奶油, 香兰素香料, 盐), 白色海绵蛋糕 (小麦粉, 糖, 玉米淀粉, 鸡蛋, 水, 泡打粉, 植物乳化剂, 植物稳定剂), 焦糖酱, 榛子.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 小麦麸质, 榛子, 大豆, 鸡蛋, 乳制品.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "360 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 小麦麸质, 榛子, 大豆, 鸡蛋, 乳制品.",
+      "portion": "单人份"
     },
-    "600-01-16-keskul-u-fukara": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-08-keskul-u-fukara": {
+      "name": "Keşkül-ü Fukara",
+      "description": "从奥斯曼时代传承至今的精致风味。",
+      "ingredients": "牛奶, 水牛奶, 糖, 大米与水的混合浆 (大米, 水), 盐, 鸡蛋, 杏仁, 香料 (香兰素, 苦杏仁, 椰子), 色素 (姜黄素).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "142,0 kcal / 594,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "19,1",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 142,0 kcal / 594,1 kJ; 脂肪 5,4 g; 饱和脂肪 2,9 g; 碳水化合物 19,1 g; 糖 11,7 g; 膳食纤维 0,1 g; 蛋白质 4,5 g; 盐 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 克",
+      "variants": {
+        "porsiyon": {
+          "description": "从奥斯曼时代传承至今的精致风味。",
+          "ingredients": "牛奶, 水牛奶, 糖, 大米与水的混合浆 (大米, 水), 盐, 鸡蛋, 杏仁, 香料 (香兰素, 苦杏仁, 椰子), 色素 (姜黄素).",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 杏仁, 鸡蛋, 乳制品.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "400 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 杏仁, 鸡蛋, 乳制品.",
+      "portion": "单人份"
     },
-    "600-01-17-orman-meyveli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-09-orman-meyveli-sut-muhallebisi": {
+      "name": "森林莓果牛奶布丁",
+      "description": "每一勺都散发着大自然的独特芳香。",
+      "ingredients": "牛奶, 水牛奶, 糖, 大米与水的混合浆 (大米, 水), 马铃薯淀粉, 玉米淀粉, 凝胶剂, 香兰素香料, 黑莓, 蓝莓, 覆盆子, 安泰普开心果, 盐.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "136,0 kcal / 569,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "23,7",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "14,6",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 136,0 kcal / 569,0 kJ; 脂肪 3,6 g; 饱和脂肪 2,5 g; 碳水化合物 23,7 g; 糖 14,6 g; 膳食纤维 0,7 g; 蛋白质 2,4 g; 盐 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 克",
+      "variants": {
+        "porsiyon": {
+          "description": "每一勺都散发着大自然的独特芳香。",
+          "ingredients": "牛奶, 水牛奶, 糖, 大米与水的混合浆 (大米, 水), 马铃薯淀粉, 玉米淀粉, 凝胶剂, 香兰素香料, 黑莓, 蓝莓, 覆盆子, 安泰普开心果, 盐.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 安泰普开心果, 亚硫酸盐, 乳制品.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "395 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 安泰普开心果, 亚硫酸盐, 乳制品.",
+      "portion": "单人份"
     },
-    "600-01-18-lotuslu-kasik-pasta": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-01-lotuslu-kasik-pasta": {
+      "name": "Lotus勺食蛋糕",
+      "description": "独特风味、令人难以抗拒的Lotus勺食蛋糕。",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "420,8 kcal / 1.760,63 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "29,4",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "15,9",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "36,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 420,8 kcal / 1.760,63 kJ; 脂肪 29,4 g; 饱和脂肪 15,9 g; 碳水化合物 36,5 g; 糖 18,9 g; 膳食纤维 0,4 g; 蛋白质 2,5 g; 盐 0,3 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 克",
+      "variants": {
+        "porsiyon": {
+          "description": "独特风味、令人难以抗拒的Lotus勺食蛋糕。",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "390 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "单人份"
     },
-    "600-01-19-profiterol": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-02-profiterol": {
+      "name": "泡芙甜点",
+      "description": "圆形泡芙内的巧克力与特别奶油风味。",
+      "ingredients": "Supangle酱 (奶, 小麦粉, 砂糖, 牛奶巧克力, 黑巧克力, 可可粉, 牛奶果仁糖), 泡芙面团 (小麦粉, 水, 鸡蛋, 葵花籽油), 奶油 (小麦粉, 砂糖, 鸡蛋, 打发奶油, 奶, 氢化植物油), Mat开心果巧克力, 安泰普开心果, 牛奶巧克力.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "342,6 kcal / 1.433,44 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "24,9",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "24,7",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "19,6",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "5",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 342,6 kcal / 1.433,44 kJ; 脂肪 24,9 g; 饱和脂肪 13,2 g; 碳水化合物 24,7 g; 糖 19,6 g; 膳食纤维 1 g; 蛋白质 5 g; 盐 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "380 克",
+      "variants": {
+        "porsiyon": {
+          "description": "圆形泡芙内的巧克力与特别奶油风味。",
+          "ingredients": "Supangle酱 (奶, 小麦粉, 砂糖, 牛奶巧克力, 黑巧克力, 可可粉, 牛奶果仁糖), 泡芙面团 (小麦粉, 水, 鸡蛋, 葵花籽油), 奶油 (小麦粉, 砂糖, 鸡蛋, 打发奶油, 奶, 氢化植物油), Mat开心果巧克力, 安泰普开心果, 牛奶巧克力.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 小麦麸质, 榛子, 安泰普开心果, 鸡蛋, 奶, 大豆.\n<small>可能含有微量: 杏仁, 花生, 芝麻, 核桃.</small>",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "380 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 小麦麸质, 榛子, 安泰普开心果, 鸡蛋, 奶, 大豆.\n<small>可能含有微量: 杏仁, 花生, 芝麻, 核桃.</small>",
+      "portion": "单人份"
     },
-    "600-01-20-supangle": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-03-supangle": {
+      "name": "苏潘格勒",
+      "description": "丝滑口感带您重返旧日时光。",
+      "ingredients": "Supangle酱 (奶, 小麦粉, 砂糖, 牛奶巧克力, 黑巧克力, 可可粉, 牛奶果仁糖), 海绵蛋糕 (小麦粉, 水, 可可粉, 砂糖, 鸡蛋, 泡打粉, 植物稳定剂, 植物乳化剂), 奶油 (小麦粉, 砂糖, 鸡蛋, 打发奶油, 奶, 氢化植物油), Mat开心果巧克力, 安泰普开心果.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "348 kcal / 1.456,03 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "24,8",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "12,9",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 348 kcal / 1.456,03 kJ; 脂肪 24,8 g; 饱和脂肪 12,9 g; 碳水化合物 25,9 g; 糖 20,5 g; 膳食纤维 1,2 g; 蛋白质 5,3 g; 盐 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 克",
+      "variants": {
+        "porsiyon": {
+          "description": "丝滑口感带您重返旧日时光。",
+          "ingredients": "Supangle酱 (奶, 小麦粉, 砂糖, 牛奶巧克力, 黑巧克力, 可可粉, 牛奶果仁糖), 海绵蛋糕 (小麦粉, 水, 可可粉, 砂糖, 鸡蛋, 泡打粉, 植物稳定剂, 植物乳化剂), 奶油 (小麦粉, 砂糖, 鸡蛋, 打发奶油, 奶, 氢化植物油), Mat开心果巧克力, 安泰普开心果.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 小麦麸质, 安泰普开心果, 鸡蛋, 大豆, 乳制品.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "400 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 小麦麸质, 安泰普开心果, 鸡蛋, 大豆, 乳制品.",
+      "portion": "单人份"
     },
-    "600-01-21-sah-mat": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-04-sah-mat": {
+      "name": "沙赫玛特",
+      "description": "牛奶与巧克力的对比交织成美味盛宴。",
+      "ingredients": "牛奶布丁 (全脂奶, 糖, 乳脂奶油, 小麦粉, 玉米淀粉, 鸡蛋, 白巧克力, 加糖打发奶油, 香兰素香料, 盐), 牛奶巧克力榛子果仁糖, 可可粉, 黑巧克力, 玉米淀粉.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "379,0 kcal / 1.585,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "63,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "17,2",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,4",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 379,0 kcal / 1.585,7 kJ; 脂肪 11,7 g; 饱和脂肪 1,7 g; 碳水化合物 63,5 g; 糖 17,2 g; 膳食纤维 1,4 g; 蛋白质 4,5 g; 盐 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 克",
+      "variants": {
+        "porsiyon": {
+          "description": "牛奶与巧克力的对比交织成美味盛宴。",
+          "ingredients": "牛奶布丁 (全脂奶, 糖, 乳脂奶油, 小麦粉, 玉米淀粉, 鸡蛋, 白巧克力, 加糖打发奶油, 香兰素香料, 盐), 牛奶巧克力榛子果仁糖, 可可粉, 黑巧克力, 玉米淀粉.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 小麦麸质, 榛子, 鸡蛋, 大豆, 乳制品.",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "400 克",
+          "delivery": "",
+          "packaging": "",
+          "label": "份"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 小麦麸质, 榛子, 鸡蛋, 大豆, 乳制品.",
+      "portion": "单人份"
     }
   }
 }

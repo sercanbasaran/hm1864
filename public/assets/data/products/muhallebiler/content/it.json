@@ -3,109 +3,2020 @@
   "language": "it",
   "products": {
     "600-01-01-asure": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Aşure",
+      "description": "Un sapore tradizionale che impreziosisce la tavola, simbolo di abbondanza e condivisione.",
+      "ingredients": "acqua, zucchero, grano per aşure, fecola di patate, amido di mais, ceci lessati, albicocca, fico, uva, nocciola, noce, uva passa di Corinto, riso, miscela di riso e acqua (riso, acqua), aroma di rosa, sale, aroma di vanillina, colorante (curcumina).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "130,7 kcal / 547,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "1,68",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "26,54",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "11,24",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "2,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "1,34",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "Per 100 g: Energia 130,7 kcal / 547,0 kJ; Grassi 1,68 g; Grassi saturi 0,1 g; Carboidrati 26,54 g; Zuccheri 11,24 g; Fibre 2,2 g; Proteine 1,34 g; Sale non specificato.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "410 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Un sapore tradizionale che impreziosisce la tavola, simbolo di abbondanza e condivisione.",
+          "ingredients": "acqua, zucchero, grano per aşure, fecola di patate, amido di mais, ceci lessati, albicocca, fico, uva, nocciola, noce, uva passa di Corinto, riso, miscela di riso e acqua (riso, acqua), aroma di rosa, sale, aroma di vanillina, colorante (curcumina).",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: glutine di frumento, nocciola, noce.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "410 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: glutine di frumento, nocciola, noce.",
+      "portion": "Per una persona"
     },
     "600-01-02-firin-sutlac": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Budino di riso al forno",
+      "description": "Un sapore nostalgico, dorato al forno.",
+      "ingredients": "latte vaccino, latte di bufala, zucchero, riso, miscela di riso e acqua (riso, acqua), sale.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "146,8 kcal / 614,211 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "22,9",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 146,8 kcal / 614,211 kJ; Grassi 4,7 g; Grassi saturi 3,3 g; Carboidrati 22,9 g; Zuccheri 13,2 g; Fibre 0,2 g; Proteine 3,3 g; Sale 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Un sapore nostalgico, dorato al forno.",
+          "ingredients": "latte vaccino, latte di bufala, zucchero, riso, miscela di riso e acqua (riso, acqua), sale.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "400 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari.",
+      "portion": "Per una persona"
     },
     "600-01-03-tavukgogsu": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Tavukgöğsü",
+      "description": "Il gusto vellutato della storia, realizzato con la maestria di Hafız Mustafa.",
+      "ingredients": "latte di bufala, latte vaccino, petto di pollo, zucchero, miscela di riso e acqua (riso, acqua), panna montata non zuccherata, cannella, sale.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "164,2 kcal / 687,013 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 164,2 kcal / 687,013 kJ; Grassi 4,2 g; Grassi saturi 2,9 g; Carboidrati 28,1 g; Zuccheri 17,4 g; Fibre 0,3 g; Proteine 3,6 g; Sale 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Il gusto vellutato della storia, realizzato con la maestria di Hafız Mustafa.",
+          "ingredients": "latte di bufala, latte vaccino, petto di pollo, zucchero, miscela di riso e acqua (riso, acqua), panna montata non zuccherata, cannella, sale.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari, soia.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "270 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari, soia.",
+      "portion": "Per una persona"
     },
     "600-01-04-zerde": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Zerde",
+      "description": "Il prezioso zafferano della cucina dei palazzi ottomani, giunto fino a oggi.",
+      "ingredients": "acqua, riso, miscela di riso e acqua (riso, acqua), zafferano, nocciola, pistacchi di Antep, uva passa di Corinto, sale, zucchero, cannella, amido di mais, fecola di patate, chiodo di garofano, aromi (vanillina, cocco, rosa), colorante (curcumina).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "119 kcal / circa 497,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": null,
+            "unit": ""
+          },
+          {
+            "name": "Carboidrati",
+            "value": "29",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "Per 100 g: Energia 119 kcal / circa 497,9 kJ; Grassi 0,1 g; Grassi saturi non specificato; Carboidrati 29 g; Zuccheri 15,7 g; Fibre 0,2 g; Proteine 0,5 g; Sale non specificato.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Il prezioso zafferano della cucina dei palazzi ottomani, giunto fino a oggi.",
+          "ingredients": "acqua, riso, miscela di riso e acqua (riso, acqua), zafferano, nocciola, pistacchi di Antep, uva passa di Corinto, sale, zucchero, cannella, amido di mais, fecola di patate, chiodo di garofano, aromi (vanillina, cocco, rosa), colorante (curcumina).",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: nocciola, pistacchi di Antep.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "395 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: nocciola, pistacchi di Antep.",
+      "portion": "Per una persona"
     },
-    "600-01-05-fistikli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-01-fistikli-kazandibi": {
+      "name": "Kazandibi al pistacchio",
+      "description": "Kazandibi tradizionale arricchito dal gusto intenso dei pistacchi di Antep.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "195 kcal / 815,88 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "7,3",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "28,2",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "17,1",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 195 kcal / 815,88 kJ; Grassi 7,3 g; Grassi saturi 2,9 g; Carboidrati 28,2 g; Zuccheri 17,1 g; Fibre 1,1 g; Proteine 4,1 g; Sale 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Kazandibi tradizionale arricchito dal gusto intenso dei pistacchi di Antep.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "270 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Per una persona"
     },
-    "600-01-06-safranli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-02-safranli-kazandibi": {
+      "name": "Kazandibi allo zafferano",
+      "description": "Kazandibi speciale combinato con il prezioso zafferano della cucina di palazzo.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "169,1 kcal / 707,514 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 169,1 kcal / 707,514 kJ; Grassi 5,1 g; Grassi saturi 4 g; Carboidrati 28,1 g; Zuccheri 17,5 g; Fibre 0,2 g; Proteine 2,8 g; Sale 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "275 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Kazandibi speciale combinato con il prezioso zafferano della cucina di palazzo.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "275 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Per una persona"
     },
-    "600-01-07-sakizli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-03-damla-sakizli-kazandibi": {
+      "name": "Kazandibi al mastice",
+      "description": "Kazandibi caramellato aromatizzato con mastice tradizionale.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "171,1 kcal / 715,882 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 171,1 kcal / 715,882 kJ; Grassi 5,1 g; Grassi saturi 4 g; Carboidrati 28,5 g; Zuccheri 17,7 g; Fibre 0,2 g; Proteine 2,9 g; Sale 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Kazandibi caramellato aromatizzato con mastice tradizionale.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "270 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Per una persona"
     },
-    "600-01-08-tavukgogsu-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-04-tavukgogsu-kazandibi": {
+      "name": "Kazandibi Tavukgöğsü",
+      "description": "Il gusto caramellato e vellutato della storia, realizzato da Hafız Mustafa.",
+      "ingredients": "latte di bufala, latte vaccino, petto di pollo, zucchero, miscela di riso e acqua (riso, acqua), panna montata non zuccherata, sale.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "176 kcal / 736,384 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "28,3",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "3,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 176 kcal / 736,384 kJ; Grassi 5,4 g; Grassi saturi 4,1 g; Carboidrati 28,3 g; Zuccheri 17,4 g; Fibre 0,2 g; Proteine 3,7 g; Sale 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "260 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Il gusto caramellato e vellutato della storia, realizzato da Hafız Mustafa.",
+          "ingredients": "latte di bufala, latte vaccino, petto di pollo, zucchero, miscela di riso e acqua (riso, acqua), panna montata non zuccherata, sale.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari, soia.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "260 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari, soia.",
+      "portion": "Per una persona"
     },
-    "600-01-09-ahududulu-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-01-ahududulu-sut-muhallebisi": {
+      "name": "Budino al latte e lampone",
+      "description": "L’armonia tra il lampone rinfrescante e il budino al latte.",
+      "ingredients": "budino al latte (latte intero, zucchero, crema di latte, farina di frumento, amido di mais, uovo, cioccolato bianco, panna montata zuccherata, aroma di vanillina, sale), ripieno al lampone (lampone, gelificante, gelatina a caldo, gelatina al lampone, gelatina a freddo).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "297,5 kcal / 1.244,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "61,8",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 297,5 kcal / 1.244,7 kJ; Grassi 4,2 g; Grassi saturi 1,7 g; Carboidrati 61,8 g; Zuccheri 12,8 g; Fibre 0,5 g; Proteine 2,8 g; Sale 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "L’armonia tra il lampone rinfrescante e il budino al latte.",
+          "ingredients": "budino al latte (latte intero, zucchero, crema di latte, farina di frumento, amido di mais, uovo, cioccolato bianco, panna montata zuccherata, aroma di vanillina, sale), ripieno al lampone (lampone, gelificante, gelatina a caldo, gelatina al lampone, gelatina a freddo).",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari, glutine, soia, uovo, solfiti.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "390 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari, glutine, soia, uovo, solfiti.",
+      "portion": "Per una persona"
     },
-    "600-01-10-cilekli-cikolatali-muhallebi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-02-cilekli-cikolatali-muhallebi": {
+      "name": "Budino al cioccolato e fragola",
+      "description": "Una combinazione di fragole fresche e cioccolato.",
+      "ingredients": "budino al cioccolato (latte intero, zucchero, farina di frumento, cioccolato fondente, cioccolato al latte, cacao in polvere, pralinato alle nocciole e cioccolato), ripieno alla fragola (gelatina a caldo, zucchero, gelificante, gelatina al lampone, fragola).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "174,6 kcal / 730,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "27,6",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 174,6 kcal / 730,5 kJ; Grassi 5,4 g; Grassi saturi 2,9 g; Carboidrati 27,6 g; Zuccheri 28,5 g; Fibre 1,3 g; Proteine 3,3 g; Sale 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Una combinazione di fragole fresche e cioccolato.",
+          "ingredients": "budino al cioccolato (latte intero, zucchero, farina di frumento, cioccolato fondente, cioccolato al latte, cacao in polvere, pralinato alle nocciole e cioccolato), ripieno alla fragola (gelatina a caldo, zucchero, gelificante, gelatina al lampone, fragola).",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari, glutine, soia, uovo, solfiti.\n<small>Può contenere tracce di: pistacchi di Antep, mandorla, arachidi, sesamo, noce.</small>",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "390 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari, glutine, soia, uovo, solfiti.\n<small>Può contenere tracce di: pistacchi di Antep, mandorla, arachidi, sesamo, noce.</small>",
+      "portion": "Per una persona"
     },
-    "600-01-11-cilekli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-03-cilekli-sut-muhallebisi": {
+      "name": "Budino al latte e fragola",
+      "description": "L’incontro tra latte e fragola.",
+      "ingredients": "budino al latte (latte intero, zucchero, crema di latte, farina di frumento, amido di mais, uovo, cioccolato bianco, panna montata zuccherata, aroma di vanillina, sale), ripieno alla fragola (gelatina a caldo, zucchero, gelificante, gelatina al lampone, fragola).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "270,0 kcal / 1.129,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "20,1",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "18,0",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "20,3",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 270,0 kcal / 1.129,7 kJ; Grassi 20,1 g; Grassi saturi 12,1 g; Carboidrati 18,0 g; Zuccheri 20,3 g; Fibre 0,3 g; Proteine 3,6 g; Sale 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "L’incontro tra latte e fragola.",
+          "ingredients": "budino al latte (latte intero, zucchero, crema di latte, farina di frumento, amido di mais, uovo, cioccolato bianco, panna montata zuccherata, aroma di vanillina, sale), ripieno alla fragola (gelatina a caldo, zucchero, gelificante, gelatina al lampone, fragola).",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari, glutine, soia, uovo, solfiti.\n<small>Può contenere tracce di: pistacchi di Antep, mandorla, arachidi, sesamo, noce.</small>",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "395 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari, glutine, soia, uovo, solfiti.\n<small>Può contenere tracce di: pistacchi di Antep, mandorla, arachidi, sesamo, noce.</small>",
+      "portion": "Per una persona"
     },
-    "600-01-12-damla-sakizli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-04-damla-sakizli-sut-muhallebisi": {
+      "name": "Budino al latte e mastice",
+      "description": "Un elegante invito della cucina turca tradizionale, al mastice.",
+      "ingredients": "latte vaccino, latte di bufala, zucchero, miscela di riso e acqua (riso, acqua), sale, nocciola, mastice.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "141,1 kcal / 590,4 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "5,0",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "3,5",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "20,9",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 141,1 kcal / 590,4 kJ; Grassi 5,0 g; Grassi saturi 3,5 g; Carboidrati 20,9 g; Zuccheri 13,0 g; Fibre 0,1 g; Proteine 3,2 g; Sale 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Un elegante invito della cucina turca tradizionale, al mastice.",
+          "ingredients": "latte vaccino, latte di bufala, zucchero, miscela di riso e acqua (riso, acqua), sale, nocciola, mastice.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: nocciola, prodotti lattiero-caseari.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "400 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: nocciola, prodotti lattiero-caseari.",
+      "portion": "Per una persona"
     },
-    "600-01-13-fistikli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-05-fistikli-sut-muhallebisi": {
+      "name": "Budino al latte e pistacchio",
+      "description": "Un connubio inimitabile tra pistacchi e latte cremoso.",
+      "ingredients": "latte vaccino, latte di bufala, zucchero, miscela di riso e acqua (riso, acqua), sale, pistacchi di Antep, concentrato di pistacchi di Antep.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "169,0 kcal / 707,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "8,1",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "3,0",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "11,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,9",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 169,0 kcal / 707,1 kJ; Grassi 8,1 g; Grassi saturi 3,0 g; Carboidrati 18,9 g; Zuccheri 11,2 g; Fibre 0,9 g; Proteine 5,3 g; Sale 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Un connubio inimitabile tra pistacchi e latte cremoso.",
+          "ingredients": "latte vaccino, latte di bufala, zucchero, miscela di riso e acqua (riso, acqua), sale, pistacchi di Antep, concentrato di pistacchi di Antep.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: pistacchi di Antep, soia, prodotti lattiero-caseari.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "400 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: pistacchi di Antep, soia, prodotti lattiero-caseari.",
+      "portion": "Per una persona"
     },
-    "600-01-14-incirli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-06-incirli-sut-muhallebisi": {
+      "name": "Budino al latte e fico",
+      "description": "Un gusto magnifico nato dall’unione di fichi e latte.",
+      "ingredients": "latte vaccino, latte di bufala, zucchero, miscela di riso e acqua (riso, acqua), sale, mandorla, fico, aromi (cocco, vanillina, mandorla amara).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "148,0 kcal / 619,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "5,2",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 148,0 kcal / 619,2 kJ; Grassi 5,2 g; Grassi saturi 3,3 g; Carboidrati 22,1 g; Zuccheri 13,0 g; Fibre 0,5 g; Proteine 3,4 g; Sale 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Un gusto magnifico nato dall’unione di fichi e latte.",
+          "ingredients": "latte vaccino, latte di bufala, zucchero, miscela di riso e acqua (riso, acqua), sale, mandorla, fico, aromi (cocco, vanillina, mandorla amara).",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: mandorla, prodotti lattiero-caseari.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "400 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: mandorla, prodotti lattiero-caseari.",
+      "portion": "Per una persona"
     },
-    "600-01-15-karamelli-findikli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-07-karamelli-findikli-sut-muhallebisi": {
+      "name": "Budino al latte con caramello e nocciola",
+      "description": "La salsa al caramello tostato incontra il budino al latte e le nocciole.",
+      "ingredients": "budino al latte (latte intero, zucchero, crema di latte, farina di frumento, amido di mais, uovo, cioccolato bianco, panna montata zuccherata, aroma di vanillina, sale), pan di Spagna bianco (farina di frumento, zucchero, amido di mais, uovo, acqua, lievito in polvere, emulsionante vegetale, stabilizzante vegetale), salsa al caramello, nocciola.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "314,0 kcal / 1.313,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "10,5",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "31,2",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,0",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "5,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 314,0 kcal / 1.313,8 kJ; Grassi 18,4 g; Grassi saturi 10,5 g; Carboidrati 31,2 g; Zuccheri 12,2 g; Fibre 0,0 g; Proteine 5,6 g; Sale 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "360 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "La salsa al caramello tostato incontra il budino al latte e le nocciole.",
+          "ingredients": "budino al latte (latte intero, zucchero, crema di latte, farina di frumento, amido di mais, uovo, cioccolato bianco, panna montata zuccherata, aroma di vanillina, sale), pan di Spagna bianco (farina di frumento, zucchero, amido di mais, uovo, acqua, lievito in polvere, emulsionante vegetale, stabilizzante vegetale), salsa al caramello, nocciola.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: glutine di frumento, nocciola, soia, uovo, prodotti lattiero-caseari.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "360 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: glutine di frumento, nocciola, soia, uovo, prodotti lattiero-caseari.",
+      "portion": "Per una persona"
     },
-    "600-01-16-keskul-u-fukara": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-08-keskul-u-fukara": {
+      "name": "Keşkül-ü Fukara",
+      "description": "Un gusto gourmet tramandato dall’epoca ottomana.",
+      "ingredients": "latte vaccino, latte di bufala, zucchero, miscela di riso e acqua (riso, acqua), sale, uovo, mandorla, aromi (vanillina, mandorla amara, cocco), colorante (curcumina).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "142,0 kcal / 594,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "19,1",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 142,0 kcal / 594,1 kJ; Grassi 5,4 g; Grassi saturi 2,9 g; Carboidrati 19,1 g; Zuccheri 11,7 g; Fibre 0,1 g; Proteine 4,5 g; Sale 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Un gusto gourmet tramandato dall’epoca ottomana.",
+          "ingredients": "latte vaccino, latte di bufala, zucchero, miscela di riso e acqua (riso, acqua), sale, uovo, mandorla, aromi (vanillina, mandorla amara, cocco), colorante (curcumina).",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: mandorla, uovo, prodotti lattiero-caseari.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "400 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: mandorla, uovo, prodotti lattiero-caseari.",
+      "portion": "Per una persona"
     },
-    "600-01-17-orman-meyveli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-09-orman-meyveli-sut-muhallebisi": {
+      "name": "Budino al latte ai frutti di bosco",
+      "description": "L’aroma unico della natura in ogni cucchiaiata.",
+      "ingredients": "latte vaccino, latte di bufala, zucchero, miscela di riso e acqua (riso, acqua), fecola di patate, amido di mais, gelificante, aroma di vanillina, mora, mirtillo, lampone, pistacchi di Antep, sale.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "136,0 kcal / 569,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "23,7",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "14,6",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 136,0 kcal / 569,0 kJ; Grassi 3,6 g; Grassi saturi 2,5 g; Carboidrati 23,7 g; Zuccheri 14,6 g; Fibre 0,7 g; Proteine 2,4 g; Sale 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "L’aroma unico della natura in ogni cucchiaiata.",
+          "ingredients": "latte vaccino, latte di bufala, zucchero, miscela di riso e acqua (riso, acqua), fecola di patate, amido di mais, gelificante, aroma di vanillina, mora, mirtillo, lampone, pistacchi di Antep, sale.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: pistacchi di Antep, solfiti, prodotti lattiero-caseari.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "395 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: pistacchi di Antep, solfiti, prodotti lattiero-caseari.",
+      "portion": "Per una persona"
     },
-    "600-01-18-lotuslu-kasik-pasta": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-01-lotuslu-kasik-pasta": {
+      "name": "Torta Lotus al cucchiaio",
+      "description": "Un’irresistibile torta Lotus al cucchiaio dal gusto unico.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "420,8 kcal / 1.760,63 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "29,4",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "15,9",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "36,5",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 420,8 kcal / 1.760,63 kJ; Grassi 29,4 g; Grassi saturi 15,9 g; Carboidrati 36,5 g; Zuccheri 18,9 g; Fibre 0,4 g; Proteine 2,5 g; Sale 0,3 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Un’irresistibile torta Lotus al cucchiaio dal gusto unico.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "390 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Per una persona"
     },
-    "600-01-19-profiterol": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-02-profiterol": {
+      "name": "Profiterole",
+      "description": "Cioccolato e crema speciale racchiusi in piccoli bignè rotondi.",
+      "ingredients": "salsa Supangle (latte, farina di frumento, zucchero semolato, cioccolato al latte, cioccolato fondente, cacao in polvere, pralinato al latte), impasto per profiterole (farina di frumento, acqua, uovo, olio di girasole), panna (farina di frumento, zucchero semolato, uovo, panna montata, latte, olio vegetale idrogenato), cioccolato al pistacchio Mat, pistacchi di Antep, cioccolato al latte.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "342,6 kcal / 1.433,44 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "24,9",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "24,7",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "19,6",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "5",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 342,6 kcal / 1.433,44 kJ; Grassi 24,9 g; Grassi saturi 13,2 g; Carboidrati 24,7 g; Zuccheri 19,6 g; Fibre 1 g; Proteine 5 g; Sale 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "380 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Cioccolato e crema speciale racchiusi in piccoli bignè rotondi.",
+          "ingredients": "salsa Supangle (latte, farina di frumento, zucchero semolato, cioccolato al latte, cioccolato fondente, cacao in polvere, pralinato al latte), impasto per profiterole (farina di frumento, acqua, uovo, olio di girasole), panna (farina di frumento, zucchero semolato, uovo, panna montata, latte, olio vegetale idrogenato), cioccolato al pistacchio Mat, pistacchi di Antep, cioccolato al latte.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: glutine di frumento, nocciola, pistacchi di Antep, uovo, latte, soia.\n<small>Può contenere tracce di: mandorla, arachidi, sesamo, noce.</small>",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "380 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: glutine di frumento, nocciola, pistacchi di Antep, uovo, latte, soia.\n<small>Può contenere tracce di: mandorla, arachidi, sesamo, noce.</small>",
+      "portion": "Per una persona"
     },
-    "600-01-20-supangle": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-03-supangle": {
+      "name": "Supangle",
+      "description": "Una consistenza setosa che vi riporta al passato.",
+      "ingredients": "salsa Supangle (latte, farina di frumento, zucchero semolato, cioccolato al latte, cioccolato fondente, cacao in polvere, pralinato al latte), pan di Spagna (farina di frumento, acqua, cacao in polvere, zucchero semolato, uovo, lievito in polvere, stabilizzante vegetale, emulsionante vegetale), panna (farina di frumento, zucchero semolato, uovo, panna montata, latte, olio vegetale idrogenato), cioccolato al pistacchio Mat, pistacchi di Antep.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "348 kcal / 1.456,03 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "24,8",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "12,9",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 348 kcal / 1.456,03 kJ; Grassi 24,8 g; Grassi saturi 12,9 g; Carboidrati 25,9 g; Zuccheri 20,5 g; Fibre 1,2 g; Proteine 5,3 g; Sale 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Una consistenza setosa che vi riporta al passato.",
+          "ingredients": "salsa Supangle (latte, farina di frumento, zucchero semolato, cioccolato al latte, cioccolato fondente, cacao in polvere, pralinato al latte), pan di Spagna (farina di frumento, acqua, cacao in polvere, zucchero semolato, uovo, lievito in polvere, stabilizzante vegetale, emulsionante vegetale), panna (farina di frumento, zucchero semolato, uovo, panna montata, latte, olio vegetale idrogenato), cioccolato al pistacchio Mat, pistacchi di Antep.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: glutine di frumento, pistacchi di Antep, uovo, soia, prodotti lattiero-caseari.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "400 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: glutine di frumento, pistacchi di Antep, uovo, soia, prodotti lattiero-caseari.",
+      "portion": "Per una persona"
     },
-    "600-01-21-sah-mat": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-04-sah-mat": {
+      "name": "Şah Mat",
+      "description": "Un banchetto nato dal contrasto tra latte e cioccolato.",
+      "ingredients": "budino al latte (latte intero, zucchero, crema di latte, farina di frumento, amido di mais, uovo, cioccolato bianco, panna montata zuccherata, aroma di vanillina, sale), pralinato alle nocciole con cioccolato al latte, cacao in polvere, cioccolato fondente, amido di mais.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "379,0 kcal / 1.585,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "63,5",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "17,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "1,4",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sale",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 379,0 kcal / 1.585,7 kJ; Grassi 11,7 g; Grassi saturi 1,7 g; Carboidrati 63,5 g; Zuccheri 17,2 g; Fibre 1,4 g; Proteine 4,5 g; Sale 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammi",
+      "variants": {
+        "porsiyon": {
+          "description": "Un banchetto nato dal contrasto tra latte e cioccolato.",
+          "ingredients": "budino al latte (latte intero, zucchero, crema di latte, farina di frumento, amido di mais, uovo, cioccolato bianco, panna montata zuccherata, aroma di vanillina, sale), pralinato alle nocciole con cioccolato al latte, cacao in polvere, cioccolato fondente, amido di mais.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: glutine di frumento, nocciola, uovo, soia, prodotti lattiero-caseari.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "400 grammi",
+          "delivery": "",
+          "packaging": "",
+          "label": "Porzione"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: glutine di frumento, nocciola, uovo, soia, prodotti lattiero-caseari.",
+      "portion": "Per una persona"
     }
   }
 }

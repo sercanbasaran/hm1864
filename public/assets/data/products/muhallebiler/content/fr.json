@@ -3,109 +3,2020 @@
   "language": "fr",
   "products": {
     "600-01-01-asure": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Aşure",
+      "description": "Une saveur traditionnelle qui embellit la table, symbole d’abondance et de partage.",
+      "ingredients": "eau, sucre, blé pour aşure, fécule de pomme de terre, amidon de maïs, pois chiches cuits, abricot, figue, raisins, noisette, noix, raisins de Corinthe, riz, préparation de riz et d’eau (riz, eau), arôme de rose, sel, arôme de vanilline, colorant (curcumine).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "130,7 kcal / 547,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "1,68",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "26,54",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "11,24",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "2,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "1,34",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 130,7 kcal / 547,0 kJ; Matières grasses 1,68 g; Acides gras saturés 0,1 g; Glucides 26,54 g; Sucres 11,24 g; Fibres 2,2 g; Protéines 1,34 g; Sel non précisé.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "410 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Une saveur traditionnelle qui embellit la table, symbole d’abondance et de partage.",
+          "ingredients": "eau, sucre, blé pour aşure, fécule de pomme de terre, amidon de maïs, pois chiches cuits, abricot, figue, raisins, noisette, noix, raisins de Corinthe, riz, préparation de riz et d’eau (riz, eau), arôme de rose, sel, arôme de vanilline, colorant (curcumine).",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: gluten de blé, noisette, noix.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "410 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: gluten de blé, noisette, noix.",
+      "portion": "Pour une personne"
     },
     "600-01-02-firin-sutlac": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Riz au lait au four",
+      "description": "Une saveur nostalgique, joliment dorée au four.",
+      "ingredients": "lait de vache, lait de bufflonne, sucre, riz, préparation de riz et d’eau (riz, eau), sel.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "146,8 kcal / 614,211 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "22,9",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 146,8 kcal / 614,211 kJ; Matières grasses 4,7 g; Acides gras saturés 3,3 g; Glucides 22,9 g; Sucres 13,2 g; Fibres 0,2 g; Protéines 3,3 g; Sel 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Une saveur nostalgique, joliment dorée au four.",
+          "ingredients": "lait de vache, lait de bufflonne, sucre, riz, préparation de riz et d’eau (riz, eau), sel.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "400 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers.",
+      "portion": "Pour une personne"
     },
     "600-01-03-tavukgogsu": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Tavukgöğsü",
+      "description": "La saveur veloutée de l’histoire, façonnée par le savoir-faire de Hafız Mustafa.",
+      "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation de riz et d’eau (riz, eau), crème fouettée non sucrée, cannelle, sel.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "164,2 kcal / 687,013 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 164,2 kcal / 687,013 kJ; Matières grasses 4,2 g; Acides gras saturés 2,9 g; Glucides 28,1 g; Sucres 17,4 g; Fibres 0,3 g; Protéines 3,6 g; Sel 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "La saveur veloutée de l’histoire, façonnée par le savoir-faire de Hafız Mustafa.",
+          "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation de riz et d’eau (riz, eau), crème fouettée non sucrée, cannelle, sel.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers, soja.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "270 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers, soja.",
+      "portion": "Pour une personne"
     },
     "600-01-04-zerde": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "Zerde",
+      "description": "Un safran précieux, transmis de la cuisine des palais ottomans jusqu’à nos jours.",
+      "ingredients": "eau, riz, préparation de riz et d’eau (riz, eau), safran, noisette, pistaches d’Antep, raisins de Corinthe, sel, sucre, cannelle, amidon de maïs, fécule de pomme de terre, clou de girofle, arômes (vanilline, noix de coco, rose), colorant (curcumine).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "119 kcal / environ 497,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": null,
+            "unit": ""
+          },
+          {
+            "name": "Glucides",
+            "value": "29",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 119 kcal / environ 497,9 kJ; Matières grasses 0,1 g; Acides gras saturés non précisé; Glucides 29 g; Sucres 15,7 g; Fibres 0,2 g; Protéines 0,5 g; Sel non précisé.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Un safran précieux, transmis de la cuisine des palais ottomans jusqu’à nos jours.",
+          "ingredients": "eau, riz, préparation de riz et d’eau (riz, eau), safran, noisette, pistaches d’Antep, raisins de Corinthe, sel, sucre, cannelle, amidon de maïs, fécule de pomme de terre, clou de girofle, arômes (vanilline, noix de coco, rose), colorant (curcumine).",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: noisette, pistaches d’Antep.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "395 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: noisette, pistaches d’Antep.",
+      "portion": "Pour une personne"
     },
-    "600-01-05-fistikli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-01-fistikli-kazandibi": {
+      "name": "Kazandibi à la pistache",
+      "description": "Un kazandibi traditionnel enrichi de la touche généreuse des pistaches d’Antep.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "195 kcal / 815,88 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "7,3",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "28,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "17,1",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 195 kcal / 815,88 kJ; Matières grasses 7,3 g; Acides gras saturés 2,9 g; Glucides 28,2 g; Sucres 17,1 g; Fibres 1,1 g; Protéines 4,1 g; Sel 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Un kazandibi traditionnel enrichi de la touche généreuse des pistaches d’Antep.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "270 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Pour une personne"
     },
-    "600-01-06-safranli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-02-safranli-kazandibi": {
+      "name": "Kazandibi au safran",
+      "description": "Un kazandibi spécial marié au précieux safran de la cuisine des palais.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "169,1 kcal / 707,514 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 169,1 kcal / 707,514 kJ; Matières grasses 5,1 g; Acides gras saturés 4 g; Glucides 28,1 g; Sucres 17,5 g; Fibres 0,2 g; Protéines 2,8 g; Sel 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "275 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Un kazandibi spécial marié au précieux safran de la cuisine des palais.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "275 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Pour une personne"
     },
-    "600-01-07-sakizli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-03-damla-sakizli-kazandibi": {
+      "name": "Kazandibi au mastic",
+      "description": "Un kazandibi caramélisé parfumé au mastic traditionnel.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "171,1 kcal / 715,882 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 171,1 kcal / 715,882 kJ; Matières grasses 5,1 g; Acides gras saturés 4 g; Glucides 28,5 g; Sucres 17,7 g; Fibres 0,2 g; Protéines 2,9 g; Sel 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Un kazandibi caramélisé parfumé au mastic traditionnel.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "270 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Pour une personne"
     },
-    "600-01-08-tavukgogsu-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-04-tavukgogsu-kazandibi": {
+      "name": "Kazandibi Tavukgöğsü",
+      "description": "La saveur caramélisée et veloutée de l’histoire, façonnée par Hafız Mustafa.",
+      "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation de riz et d’eau (riz, eau), crème fouettée non sucrée, sel.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "176 kcal / 736,384 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "28,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "3,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 176 kcal / 736,384 kJ; Matières grasses 5,4 g; Acides gras saturés 4,1 g; Glucides 28,3 g; Sucres 17,4 g; Fibres 0,2 g; Protéines 3,7 g; Sel 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "260 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "La saveur caramélisée et veloutée de l’histoire, façonnée par Hafız Mustafa.",
+          "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation de riz et d’eau (riz, eau), crème fouettée non sucrée, sel.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers, soja.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "260 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers, soja.",
+      "portion": "Pour une personne"
     },
-    "600-01-09-ahududulu-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-01-ahududulu-sut-muhallebisi": {
+      "name": "Crème au lait à la framboise",
+      "description": "L’harmonie de la framboise rafraîchissante et de la crème au lait.",
+      "ingredients": "crème dessert au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œuf, chocolat blanc, crème fouettée sucrée, arôme de vanilline, sel), garniture à la framboise (framboise, gélifiant, gelée à chaud, gelée de framboise, gelée à froid).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "297,5 kcal / 1.244,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "61,8",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 297,5 kcal / 1.244,7 kJ; Matières grasses 4,2 g; Acides gras saturés 1,7 g; Glucides 61,8 g; Sucres 12,8 g; Fibres 0,5 g; Protéines 2,8 g; Sel 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "L’harmonie de la framboise rafraîchissante et de la crème au lait.",
+          "ingredients": "crème dessert au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œuf, chocolat blanc, crème fouettée sucrée, arôme de vanilline, sel), garniture à la framboise (framboise, gélifiant, gelée à chaud, gelée de framboise, gelée à froid).",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers, gluten, soja, œuf, sulfites.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "390 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers, gluten, soja, œuf, sulfites.",
+      "portion": "Pour une personne"
     },
-    "600-01-10-cilekli-cikolatali-muhallebi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-02-cilekli-cikolatali-muhallebi": {
+      "name": "Crème au chocolat et à la fraise",
+      "description": "Un mélange de fraises fraîches et de chocolat.",
+      "ingredients": "crème dessert au chocolat (lait entier, sucre, farine de blé, chocolat noir, chocolat au lait, cacao en poudre, praliné aux noisettes et au chocolat), garniture à la fraise (gelée à chaud, sucre, gélifiant, gelée de framboise, fraise).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "174,6 kcal / 730,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "27,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 174,6 kcal / 730,5 kJ; Matières grasses 5,4 g; Acides gras saturés 2,9 g; Glucides 27,6 g; Sucres 28,5 g; Fibres 1,3 g; Protéines 3,3 g; Sel 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Un mélange de fraises fraîches et de chocolat.",
+          "ingredients": "crème dessert au chocolat (lait entier, sucre, farine de blé, chocolat noir, chocolat au lait, cacao en poudre, praliné aux noisettes et au chocolat), garniture à la fraise (gelée à chaud, sucre, gélifiant, gelée de framboise, fraise).",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers, gluten, soja, œuf, sulfites.\n<small>Peut contenir des traces de: pistaches d’Antep, amande, arachides, sésame, noix.</small>",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "390 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers, gluten, soja, œuf, sulfites.\n<small>Peut contenir des traces de: pistaches d’Antep, amande, arachides, sésame, noix.</small>",
+      "portion": "Pour une personne"
     },
-    "600-01-11-cilekli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-03-cilekli-sut-muhallebisi": {
+      "name": "Crème au lait à la fraise",
+      "description": "L’alliance du lait et de la fraise.",
+      "ingredients": "crème dessert au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œuf, chocolat blanc, crème fouettée sucrée, arôme de vanilline, sel), garniture à la fraise (gelée à chaud, sucre, gélifiant, gelée de framboise, fraise).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "270,0 kcal / 1.129,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "20,1",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "18,0",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "20,3",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 270,0 kcal / 1.129,7 kJ; Matières grasses 20,1 g; Acides gras saturés 12,1 g; Glucides 18,0 g; Sucres 20,3 g; Fibres 0,3 g; Protéines 3,6 g; Sel 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "L’alliance du lait et de la fraise.",
+          "ingredients": "crème dessert au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œuf, chocolat blanc, crème fouettée sucrée, arôme de vanilline, sel), garniture à la fraise (gelée à chaud, sucre, gélifiant, gelée de framboise, fraise).",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers, gluten, soja, œuf, sulfites.\n<small>Peut contenir des traces de: pistaches d’Antep, amande, arachides, sésame, noix.</small>",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "395 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers, gluten, soja, œuf, sulfites.\n<small>Peut contenir des traces de: pistaches d’Antep, amande, arachides, sésame, noix.</small>",
+      "portion": "Pour une personne"
     },
-    "600-01-12-damla-sakizli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-04-damla-sakizli-sut-muhallebisi": {
+      "name": "Crème au lait au mastic",
+      "description": "Une élégante invitation de la cuisine turque traditionnelle, au mastic.",
+      "ingredients": "lait de vache, lait de bufflonne, sucre, préparation de riz et d’eau (riz, eau), sel, noisette, mastic.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "141,1 kcal / 590,4 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "5,0",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "3,5",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "20,9",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 141,1 kcal / 590,4 kJ; Matières grasses 5,0 g; Acides gras saturés 3,5 g; Glucides 20,9 g; Sucres 13,0 g; Fibres 0,1 g; Protéines 3,2 g; Sel 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Une élégante invitation de la cuisine turque traditionnelle, au mastic.",
+          "ingredients": "lait de vache, lait de bufflonne, sucre, préparation de riz et d’eau (riz, eau), sel, noisette, mastic.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: noisette, produits laitiers.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "400 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: noisette, produits laitiers.",
+      "portion": "Pour une personne"
     },
-    "600-01-13-fistikli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-05-fistikli-sut-muhallebisi": {
+      "name": "Crème au lait à la pistache",
+      "description": "Un mélange incomparable de pistaches et de lait crémeux.",
+      "ingredients": "lait de vache, lait de bufflonne, sucre, préparation de riz et d’eau (riz, eau), sel, pistaches d’Antep, concentré de pistaches d’Antep.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "169,0 kcal / 707,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "8,1",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "3,0",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "11,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,9",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 169,0 kcal / 707,1 kJ; Matières grasses 8,1 g; Acides gras saturés 3,0 g; Glucides 18,9 g; Sucres 11,2 g; Fibres 0,9 g; Protéines 5,3 g; Sel 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Un mélange incomparable de pistaches et de lait crémeux.",
+          "ingredients": "lait de vache, lait de bufflonne, sucre, préparation de riz et d’eau (riz, eau), sel, pistaches d’Antep, concentré de pistaches d’Antep.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: pistaches d’Antep, soja, produits laitiers.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "400 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: pistaches d’Antep, soja, produits laitiers.",
+      "portion": "Pour une personne"
     },
-    "600-01-14-incirli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-06-incirli-sut-muhallebisi": {
+      "name": "Crème au lait à la figue",
+      "description": "Une saveur merveilleuse née de l’alliance de la figue et du lait.",
+      "ingredients": "lait de vache, lait de bufflonne, sucre, préparation de riz et d’eau (riz, eau), sel, amande, figue, arômes (noix de coco, vanilline, amande amère).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "148,0 kcal / 619,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "5,2",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 148,0 kcal / 619,2 kJ; Matières grasses 5,2 g; Acides gras saturés 3,3 g; Glucides 22,1 g; Sucres 13,0 g; Fibres 0,5 g; Protéines 3,4 g; Sel 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Une saveur merveilleuse née de l’alliance de la figue et du lait.",
+          "ingredients": "lait de vache, lait de bufflonne, sucre, préparation de riz et d’eau (riz, eau), sel, amande, figue, arômes (noix de coco, vanilline, amande amère).",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: amande, produits laitiers.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "400 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: amande, produits laitiers.",
+      "portion": "Pour une personne"
     },
-    "600-01-15-karamelli-findikli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-07-karamelli-findikli-sut-muhallebisi": {
+      "name": "Crème au lait au caramel et aux noisettes",
+      "description": "Une sauce caramel intensément dorée rencontre la crème au lait et les noisettes.",
+      "ingredients": "crème dessert au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œuf, chocolat blanc, crème fouettée sucrée, arôme de vanilline, sel), génoise blanche (farine de blé, sucre, amidon de maïs, œuf, eau, levure chimique, émulsifiant végétal, stabilisant végétal), sauce caramel, noisette.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "314,0 kcal / 1.313,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "10,5",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "31,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,0",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "5,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 314,0 kcal / 1.313,8 kJ; Matières grasses 18,4 g; Acides gras saturés 10,5 g; Glucides 31,2 g; Sucres 12,2 g; Fibres 0,0 g; Protéines 5,6 g; Sel 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "360 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Une sauce caramel intensément dorée rencontre la crème au lait et les noisettes.",
+          "ingredients": "crème dessert au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œuf, chocolat blanc, crème fouettée sucrée, arôme de vanilline, sel), génoise blanche (farine de blé, sucre, amidon de maïs, œuf, eau, levure chimique, émulsifiant végétal, stabilisant végétal), sauce caramel, noisette.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: gluten de blé, noisette, soja, œuf, produits laitiers.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "360 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: gluten de blé, noisette, soja, œuf, produits laitiers.",
+      "portion": "Pour une personne"
     },
-    "600-01-16-keskul-u-fukara": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-08-keskul-u-fukara": {
+      "name": "Keşkül-ü Fukara",
+      "description": "Une saveur gourmande transmise depuis l’époque ottomane.",
+      "ingredients": "lait de vache, lait de bufflonne, sucre, préparation de riz et d’eau (riz, eau), sel, œuf, amande, arômes (vanilline, amande amère, noix de coco), colorant (curcumine).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "142,0 kcal / 594,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "19,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 142,0 kcal / 594,1 kJ; Matières grasses 5,4 g; Acides gras saturés 2,9 g; Glucides 19,1 g; Sucres 11,7 g; Fibres 0,1 g; Protéines 4,5 g; Sel 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Une saveur gourmande transmise depuis l’époque ottomane.",
+          "ingredients": "lait de vache, lait de bufflonne, sucre, préparation de riz et d’eau (riz, eau), sel, œuf, amande, arômes (vanilline, amande amère, noix de coco), colorant (curcumine).",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: amande, œuf, produits laitiers.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "400 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: amande, œuf, produits laitiers.",
+      "portion": "Pour une personne"
     },
-    "600-01-17-orman-meyveli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-09-orman-meyveli-sut-muhallebisi": {
+      "name": "Crème au lait aux fruits des bois",
+      "description": "L’arôme unique de la nature dans chaque cuillerée.",
+      "ingredients": "lait de vache, lait de bufflonne, sucre, préparation de riz et d’eau (riz, eau), fécule de pomme de terre, amidon de maïs, gélifiant, arôme de vanilline, mûre, myrtille, framboise, pistaches d’Antep, sel.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "136,0 kcal / 569,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "23,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "14,6",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 136,0 kcal / 569,0 kJ; Matières grasses 3,6 g; Acides gras saturés 2,5 g; Glucides 23,7 g; Sucres 14,6 g; Fibres 0,7 g; Protéines 2,4 g; Sel 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "L’arôme unique de la nature dans chaque cuillerée.",
+          "ingredients": "lait de vache, lait de bufflonne, sucre, préparation de riz et d’eau (riz, eau), fécule de pomme de terre, amidon de maïs, gélifiant, arôme de vanilline, mûre, myrtille, framboise, pistaches d’Antep, sel.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: pistaches d’Antep, sulfites, produits laitiers.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "395 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: pistaches d’Antep, sulfites, produits laitiers.",
+      "portion": "Pour une personne"
     },
-    "600-01-18-lotuslu-kasik-pasta": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-01-lotuslu-kasik-pasta": {
+      "name": "Gâteau Lotus à la cuillère",
+      "description": "Un gâteau Lotus à la cuillère irrésistible, à la saveur unique.",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "420,8 kcal / 1.760,63 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "29,4",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "15,9",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "36,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 420,8 kcal / 1.760,63 kJ; Matières grasses 29,4 g; Acides gras saturés 15,9 g; Glucides 36,5 g; Sucres 18,9 g; Fibres 0,4 g; Protéines 2,5 g; Sel 0,3 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Un gâteau Lotus à la cuillère irrésistible, à la saveur unique.",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "390 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "Pour une personne"
     },
-    "600-01-19-profiterol": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-02-profiterol": {
+      "name": "Profiteroles",
+      "description": "Du chocolat et une crème spéciale dans des choux ronds.",
+      "ingredients": "sauce Supangle (lait, farine de blé, sucre en poudre, chocolat au lait, chocolat noir, cacao en poudre, praliné au lait), pâte à profiteroles (farine de blé, eau, œuf, huile de tournesol), crème (farine de blé, sucre en poudre, œuf, crème fouettée, lait, huile végétale hydrogénée), chocolat à la pistache Mat, pistaches d’Antep, chocolat au lait.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "342,6 kcal / 1.433,44 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "24,9",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "24,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "19,6",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "5",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 342,6 kcal / 1.433,44 kJ; Matières grasses 24,9 g; Acides gras saturés 13,2 g; Glucides 24,7 g; Sucres 19,6 g; Fibres 1 g; Protéines 5 g; Sel 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "380 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Du chocolat et une crème spéciale dans des choux ronds.",
+          "ingredients": "sauce Supangle (lait, farine de blé, sucre en poudre, chocolat au lait, chocolat noir, cacao en poudre, praliné au lait), pâte à profiteroles (farine de blé, eau, œuf, huile de tournesol), crème (farine de blé, sucre en poudre, œuf, crème fouettée, lait, huile végétale hydrogénée), chocolat à la pistache Mat, pistaches d’Antep, chocolat au lait.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: gluten de blé, noisette, pistaches d’Antep, œuf, lait, soja.\n<small>Peut contenir des traces de: amande, arachides, sésame, noix.</small>",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "380 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: gluten de blé, noisette, pistaches d’Antep, œuf, lait, soja.\n<small>Peut contenir des traces de: amande, arachides, sésame, noix.</small>",
+      "portion": "Pour une personne"
     },
-    "600-01-20-supangle": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-03-supangle": {
+      "name": "Supangle",
+      "description": "Une texture soyeuse qui vous transporte dans le passé.",
+      "ingredients": "sauce Supangle (lait, farine de blé, sucre en poudre, chocolat au lait, chocolat noir, cacao en poudre, praliné au lait), génoise (farine de blé, eau, cacao en poudre, sucre en poudre, œuf, levure chimique, stabilisant végétal, émulsifiant végétal), crème (farine de blé, sucre en poudre, œuf, crème fouettée, lait, huile végétale hydrogénée), chocolat à la pistache Mat, pistaches d’Antep.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "348 kcal / 1.456,03 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "24,8",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "12,9",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 348 kcal / 1.456,03 kJ; Matières grasses 24,8 g; Acides gras saturés 12,9 g; Glucides 25,9 g; Sucres 20,5 g; Fibres 1,2 g; Protéines 5,3 g; Sel 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Une texture soyeuse qui vous transporte dans le passé.",
+          "ingredients": "sauce Supangle (lait, farine de blé, sucre en poudre, chocolat au lait, chocolat noir, cacao en poudre, praliné au lait), génoise (farine de blé, eau, cacao en poudre, sucre en poudre, œuf, levure chimique, stabilisant végétal, émulsifiant végétal), crème (farine de blé, sucre en poudre, œuf, crème fouettée, lait, huile végétale hydrogénée), chocolat à la pistache Mat, pistaches d’Antep.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: gluten de blé, pistaches d’Antep, œuf, soja, produits laitiers.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "400 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: gluten de blé, pistaches d’Antep, œuf, soja, produits laitiers.",
+      "portion": "Pour une personne"
     },
-    "600-01-21-sah-mat": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-04-sah-mat": {
+      "name": "Şah Mat",
+      "description": "Un festin né du contraste entre le lait et le chocolat.",
+      "ingredients": "crème dessert au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œuf, chocolat blanc, crème fouettée sucrée, arôme de vanilline, sel), praliné aux noisettes et chocolat au lait, cacao en poudre, chocolat noir, amidon de maïs.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "379,0 kcal / 1.585,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "63,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "17,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "1,4",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sel",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 379,0 kcal / 1.585,7 kJ; Matières grasses 11,7 g; Acides gras saturés 1,7 g; Glucides 63,5 g; Sucres 17,2 g; Fibres 1,4 g; Protéines 4,5 g; Sel 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 grammes",
+      "variants": {
+        "porsiyon": {
+          "description": "Un festin né du contraste entre le lait et le chocolat.",
+          "ingredients": "crème dessert au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œuf, chocolat blanc, crème fouettée sucrée, arôme de vanilline, sel), praliné aux noisettes et chocolat au lait, cacao en poudre, chocolat noir, amidon de maïs.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: gluten de blé, noisette, œuf, soja, produits laitiers.",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "400 grammes",
+          "delivery": "",
+          "packaging": "",
+          "label": "Portion"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: gluten de blé, noisette, œuf, soja, produits laitiers.",
+      "portion": "Pour une personne"
     }
   }
 }

@@ -15,7 +15,7 @@ const content=validateContent(authored.content);
 const regions=validateRegions(rawRegions,content.languages);
 const routes=JSON.parse(await fs.readFile('src/routes.json','utf8'));
 const templateJSON=JSON.stringify(Object.fromEntries(await Promise.all(['header','footer','home','stores'].map(async name=>[name,JSON.parse(await fs.readFile('src/templates/'+name+'.json','utf8'))]))));
-test('catalogue, legacy routes, and variant data are retained',()=>{validate(data);assert.equal(data.products.length,164);assert.equal(data.products.filter(p=>p.variants.length).length,102);for(const url of Object.keys(routes))assert.ok(resolve('/'+url,data,routes));for(const p of data.products){assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);assert.equal(resolve('/'+p.url.replace(/\.html$/,''),data,routes).product.key,p.key);}assert.equal(resolve('/unknown.html',data,routes).kind,'404');assert.ok(match(data.products.find(p=>p.code==='100-01-02'),'FISTIKLI'));const p={...data.products[0],price:100,stock:5,variants:[{code:'S',price:0,stock:0}]};assert.equal(choice(p,'S').price,0);assert.equal(choice(p,'S').stock,0);});
+test('catalogue, legacy routes, and variant data are retained',()=>{validate(data);assert.equal(data.products.length,164);assert.equal(data.products.filter(p=>p.variants.length).length,123);for(const url of Object.keys(routes))assert.ok(resolve('/'+url,data,routes));for(const p of data.products){assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);assert.equal(resolve('/'+p.url.replace(/\.html$/,''),data,routes).product.key,p.key);}assert.equal(resolve('/unknown.html',data,routes).kind,'404');assert.ok(match(data.products.find(p=>p.code==='100-01-02'),'FISTIKLI'));const p={...data.products[0],price:100,stock:5,variants:[{code:'S',price:0,stock:0}]};assert.equal(choice(p,'S').price,0);assert.equal(choice(p,'S').stock,0);});
 test('region preferences, localized names and explicit product availability',()=>{
  validateRegions(rawRegions,content.languages);
  assert.deepEqual(normalizePreferences({country:'Türkiye',language:'Türkçe'},regions,content),{group:'turkey',country:'TR',language:'tr',currency:'TRY'});
@@ -279,7 +279,7 @@ test('trilece source SKUs, portion variants, nutrition and legacy links',()=>{
  products.forEach((p,i)=>{
   assert.equal(p.code,'700-01-0'+(i+1));
   assert.ok(p.key.startsWith(p.code+'-'));
-  assert.equal(p.images.length,0);
+  assert.equal(p.images.length,1);
   assert.equal(p.variants.length,1);
   const v=choice(p,'porsiyon');
   assert.equal(v.sku,p.code);
@@ -351,5 +351,51 @@ test('trilece locales mirror Turkish schema, preserve values, markup and blank f
    assert.deepEqual(product.nutrition,text.nutrition);
    assert.notEqual(text.description,source.products[key].description);
   }
+ }
+});
+
+test('pudding catalogue retains source identifiers, images, unknowns and all locales',async()=>{
+ const products=data.products.filter(p=>p.categoryId==='muhallebiler');
+ assert.equal(products.length,21);
+ assert.equal(products.filter(p=>p.images.length===1).length,21);
+ const source=JSON.parse(await fs.readFile('public/assets/data/products/muhallebiler/content/tr.json','utf8'));
+ const unknown=['600-02-01','600-02-02','600-02-03','600-04-01'];
+ for(const p of products){
+  const v=choice(p,'porsiyon');
+  assert.equal(v.sku,p.code);assert.equal(v.price,450);assert.equal(choice(p,'porsiyon','USD').price,9);
+  assert.equal(v.portion,'Tek Kişilik');assert.equal(storeOnly(p,'porsiyon'),true);
+  assert.deepEqual(v.images,p.images);
+  const [prefix,group,item]=p.code.split('-');
+  assert.equal(p.images[0],'muhallebiler/'+prefix+'_'+group+item+'_01.webp');
+  const bytes=await fs.readFile('public/assets/images/urunler/'+p.images[0]);
+  assert.equal(bytes.subarray(0,4).toString(),'RIFF');assert.equal(bytes.subarray(8,12).toString(),'WEBP');
+  assert.equal(p.nutrition.values.length,8);
+  if(unknown.includes(p.code)){assert.equal(v.ingredients,'');assert.equal(v.allergenInfo,'');}
+  assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);
+  for(const legacy of p.legacyKeys||[])assert.ok(!data.products.some(other=>other.key===legacy));
+ }
+ const zerde=products.find(p=>p.code==='600-01-04');
+ assert.equal(zerde.nutrition.values.find(n=>n.name==='Doymuş yağ').value,null);
+ assert.equal(zerde.nutrition.values.find(n=>n.name==='Tuz').value,null);
+ for(const language of content.languages.map(l=>l.code)){
+  const localized=regionalCatalog(data,{country:'TR',language},regions);
+  const file=JSON.parse(await fs.readFile('public/assets/data/products/muhallebiler/content/'+language+'.json','utf8'));
+  assert.deepEqual(Object.keys(file.products).sort(),Object.keys(source.products).sort());
+  for(const p of products){
+   const text=file.products[p.key],original=source.products[p.key],translated=localized.products.find(x=>x.key===p.key);
+   assert.deepEqual(Object.keys(text).sort(),Object.keys(original).sort());
+   assert.equal(translated.name,text.name);
+   assert.equal(choice(translated,'porsiyon').ingredients,text.variants.porsiyon.ingredients);
+   assert.deepEqual(translated.nutrition,text.nutrition);
+   assert.equal(text.nutrition.values.length,8);
+   original.nutrition.values.forEach((n,i)=>{
+    const value=text.nutrition.values[i].value;
+    if(n.value===null)assert.equal(value,null);
+    else assert.deepEqual(value.match(/[0-9]+(?:[.,][0-9]+)*/g),n.value.match(/[0-9]+(?:[.,][0-9]+)*/g));
+    assert.equal(text.nutrition.values[i].unit,n.unit);
+   });
+   if(unknown.includes(p.code)){assert.equal(text.ingredients,'');assert.equal(text.allergenInfo,'');}
+  }
+  assert.equal(localized.subcategories.filter(c=>c.categoryId==='muhallebiler').length,4);
  }
 });

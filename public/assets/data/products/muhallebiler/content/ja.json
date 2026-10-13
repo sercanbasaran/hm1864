@@ -3,109 +3,2020 @@
   "language": "ja",
   "products": {
     "600-01-01-asure": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "アシュレ",
+      "description": "豊かさと分かち合いを象徴し、食卓を彩る伝統の味。",
+      "ingredients": "水, 砂糖, アシュレ用小麦, ジャガイモでんぷん, コーンスターチ, ゆでたひよこ豆, アンズ, イチジク, ブドウ, ヘーゼルナッツ, クルミ, 小粒の干しブドウ, 米, 米と水の混合液 (米, 水), バラ香料, 塩, バニリン香料, 着色料 (クルクミン).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "130,7 kcal / 547,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "1,68",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "26,54",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "11,24",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "2,2",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "1,34",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 130,7 kcal / 547,0 kJ; 脂質 1,68 g; 飽和脂肪 0,1 g; 炭水化物 26,54 g; 糖類 11,24 g; 食物繊維 2,2 g; たんぱく質 1,34 g; 塩 記載なし.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "410 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "豊かさと分かち合いを象徴し、食卓を彩る伝統の味。",
+          "ingredients": "水, 砂糖, アシュレ用小麦, ジャガイモでんぷん, コーンスターチ, ゆでたひよこ豆, アンズ, イチジク, ブドウ, ヘーゼルナッツ, クルミ, 小粒の干しブドウ, 米, 米と水の混合液 (米, 水), バラ香料, 塩, バニリン香料, 着色料 (クルクミン).",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 小麦グルテン, ヘーゼルナッツ, クルミ.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "410 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 小麦グルテン, ヘーゼルナッツ, クルミ.",
+      "portion": "1人分"
     },
     "600-01-02-firin-sutlac": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "焼きライスプディング",
+      "description": "オーブンでこんがり焼き上げた懐かしい味わい。",
+      "ingredients": "牛乳, 水牛乳, 砂糖, 米, 米と水の混合液 (米, 水), 塩.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "146,8 kcal / 614,211 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "22,9",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 146,8 kcal / 614,211 kJ; 脂質 4,7 g; 飽和脂肪 3,3 g; 炭水化物 22,9 g; 糖類 13,2 g; 食物繊維 0,2 g; たんぱく質 3,3 g; 塩 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "オーブンでこんがり焼き上げた懐かしい味わい。",
+          "ingredients": "牛乳, 水牛乳, 砂糖, 米, 米と水の混合液 (米, 水), 塩.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 乳製品.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "400 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 乳製品.",
+      "portion": "1人分"
     },
     "600-01-03-tavukgogsu": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "タヴクギョウス",
+      "description": "Hafız Mustafaの匠の技が伝える、歴史のなめらかな味。",
+      "ingredients": "水牛乳, 牛乳, 鶏むね肉, 砂糖, 米と水の混合液 (米, 水), 無糖ホイップクリーム, シナモン, 塩.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "164,2 kcal / 687,013 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 164,2 kcal / 687,013 kJ; 脂質 4,2 g; 飽和脂肪 2,9 g; 炭水化物 28,1 g; 糖類 17,4 g; 食物繊維 0,3 g; たんぱく質 3,6 g; 塩 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "Hafız Mustafaの匠の技が伝える、歴史のなめらかな味。",
+          "ingredients": "水牛乳, 牛乳, 鶏むね肉, 砂糖, 米と水の混合液 (米, 水), 無糖ホイップクリーム, シナモン, 塩.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 乳製品, 大豆.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "270 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 乳製品, 大豆.",
+      "portion": "1人分"
     },
     "600-01-04-zerde": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+      "name": "ゼルデ",
+      "description": "オスマン宮廷料理から現代へ受け継がれた貴重なサフラン。",
+      "ingredients": "水, 米, 米と水の混合液 (米, 水), サフラン, ヘーゼルナッツ, アンテプ産ピスタチオ, 小粒の干しブドウ, 塩, 砂糖, シナモン, コーンスターチ, ジャガイモでんぷん, クローブ, 香料 (バニリン, ココナッツ, バラ), 着色料 (クルクミン).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "119 kcal / 約 497,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": null,
+            "unit": ""
+          },
+          {
+            "name": "炭水化物",
+            "value": "29",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": null,
+            "unit": ""
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 119 kcal / 約 497,9 kJ; 脂質 0,1 g; 飽和脂肪 記載なし; 炭水化物 29 g; 糖類 15,7 g; 食物繊維 0,2 g; たんぱく質 0,5 g; 塩 記載なし.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "オスマン宮廷料理から現代へ受け継がれた貴重なサフラン。",
+          "ingredients": "水, 米, 米と水の混合液 (米, 水), サフラン, ヘーゼルナッツ, アンテプ産ピスタチオ, 小粒の干しブドウ, 塩, 砂糖, シナモン, コーンスターチ, ジャガイモでんぷん, クローブ, 香料 (バニリン, ココナッツ, バラ), 着色料 (クルクミン).",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: ヘーゼルナッツ, アンテプ産ピスタチオ.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "395 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: ヘーゼルナッツ, アンテプ産ピスタチオ.",
+      "portion": "1人分"
     },
-    "600-01-05-fistikli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-01-fistikli-kazandibi": {
+      "name": "ピスタチオのカザンディビ",
+      "description": "アンテプ産ピスタチオの豊かな風味を加えた伝統のカザンディビ。",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "195 kcal / 815,88 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "7,3",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "28,2",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "17,1",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 195 kcal / 815,88 kJ; 脂質 7,3 g; 飽和脂肪 2,9 g; 炭水化物 28,2 g; 糖類 17,1 g; 食物繊維 1,1 g; たんぱく質 4,1 g; 塩 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "アンテプ産ピスタチオの豊かな風味を加えた伝統のカザンディビ。",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "270 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "1人分"
     },
-    "600-01-06-safranli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-02-safranli-kazandibi": {
+      "name": "サフランのカザンディビ",
+      "description": "宮廷料理の貴重なサフランを合わせた特別なカザンディビ。",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "169,1 kcal / 707,514 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 169,1 kcal / 707,514 kJ; 脂質 5,1 g; 飽和脂肪 4 g; 炭水化物 28,1 g; 糖類 17,5 g; 食物繊維 0,2 g; たんぱく質 2,8 g; 塩 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "275 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "宮廷料理の貴重なサフランを合わせた特別なカザンディビ。",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "275 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "1人分"
     },
-    "600-01-07-sakizli-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-03-damla-sakizli-kazandibi": {
+      "name": "マスティックのカザンディビ",
+      "description": "伝統的なマスティックで風味付けしたキャラメリゼのカザンディビ。",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "171,1 kcal / 715,882 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "4",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 171,1 kcal / 715,882 kJ; 脂質 5,1 g; 飽和脂肪 4 g; 炭水化物 28,5 g; 糖類 17,7 g; 食物繊維 0,2 g; たんぱく質 2,9 g; 塩 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "270 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "伝統的なマスティックで風味付けしたキャラメリゼのカザンディビ。",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "270 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "1人分"
     },
-    "600-01-08-tavukgogsu-kazandibi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-02-04-tavukgogsu-kazandibi": {
+      "name": "タヴクギョウスのカザンディビ",
+      "description": "Hafız Mustafaの匠の技が伝える、歴史のキャラメルとビロードのような味。",
+      "ingredients": "水牛乳, 牛乳, 鶏むね肉, 砂糖, 米と水の混合液 (米, 水), 無糖ホイップクリーム, 塩.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "176 kcal / 736,384 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "28,3",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "17,4",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "3,7",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 176 kcal / 736,384 kJ; 脂質 5,4 g; 飽和脂肪 4,1 g; 炭水化物 28,3 g; 糖類 17,4 g; 食物繊維 0,2 g; たんぱく質 3,7 g; 塩 0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "260 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "Hafız Mustafaの匠の技が伝える、歴史のキャラメルとビロードのような味。",
+          "ingredients": "水牛乳, 牛乳, 鶏むね肉, 砂糖, 米と水の混合液 (米, 水), 無糖ホイップクリーム, 塩.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 乳製品, 大豆.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "260 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 乳製品, 大豆.",
+      "portion": "1人分"
     },
-    "600-01-09-ahududulu-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-01-ahududulu-sut-muhallebisi": {
+      "name": "ラズベリーのミルクプディング",
+      "description": "爽やかなラズベリーとミルクプディングの調和。",
+      "ingredients": "ミルクプディング (全脂乳, 砂糖, 乳脂肪クリーム, 小麦粉, コーンスターチ, 卵, ホワイトチョコレート, 加糖ホイップクリーム, バニリン香料, 塩), ラズベリーフィリング (ラズベリー, ゲル化剤, 温製ゼリー, ラズベリーゼリー, 冷製ゼリー).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "297,5 kcal / 1.244,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "61,8",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 297,5 kcal / 1.244,7 kJ; 脂質 4,2 g; 飽和脂肪 1,7 g; 炭水化物 61,8 g; 糖類 12,8 g; 食物繊維 0,5 g; たんぱく質 2,8 g; 塩 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "爽やかなラズベリーとミルクプディングの調和。",
+          "ingredients": "ミルクプディング (全脂乳, 砂糖, 乳脂肪クリーム, 小麦粉, コーンスターチ, 卵, ホワイトチョコレート, 加糖ホイップクリーム, バニリン香料, 塩), ラズベリーフィリング (ラズベリー, ゲル化剤, 温製ゼリー, ラズベリーゼリー, 冷製ゼリー).",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 乳製品, グルテン, 大豆, 卵, 亜硫酸塩.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "390 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 乳製品, グルテン, 大豆, 卵, 亜硫酸塩.",
+      "portion": "1人分"
     },
-    "600-01-10-cilekli-cikolatali-muhallebi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-02-cilekli-cikolatali-muhallebi": {
+      "name": "イチゴとチョコレートのプディング",
+      "description": "新鮮なイチゴとチョコレートの組み合わせ。",
+      "ingredients": "チョコレートプディング (全脂乳, 砂糖, 小麦粉, ダークチョコレート, ミルクチョコレート, ココアパウダー, チョコレートとヘーゼルナッツのプラリネ), イチゴフィリング (温製ゼリー, 砂糖, ゲル化剤, ラズベリーゼリー, イチゴ).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "174,6 kcal / 730,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "27,6",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "28,5",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 174,6 kcal / 730,5 kJ; 脂質 5,4 g; 飽和脂肪 2,9 g; 炭水化物 27,6 g; 糖類 28,5 g; 食物繊維 1,3 g; たんぱく質 3,3 g; 塩 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "新鮮なイチゴとチョコレートの組み合わせ。",
+          "ingredients": "チョコレートプディング (全脂乳, 砂糖, 小麦粉, ダークチョコレート, ミルクチョコレート, ココアパウダー, チョコレートとヘーゼルナッツのプラリネ), イチゴフィリング (温製ゼリー, 砂糖, ゲル化剤, ラズベリーゼリー, イチゴ).",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 乳製品, グルテン, 大豆, 卵, 亜硫酸塩.\n<small>微量に含まれる可能性: アンテプ産ピスタチオ, アーモンド, ピーナッツ, ごま, クルミ.</small>",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "390 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 乳製品, グルテン, 大豆, 卵, 亜硫酸塩.\n<small>微量に含まれる可能性: アンテプ産ピスタチオ, アーモンド, ピーナッツ, ごま, クルミ.</small>",
+      "portion": "1人分"
     },
-    "600-01-11-cilekli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-03-cilekli-sut-muhallebisi": {
+      "name": "イチゴのミルクプディング",
+      "description": "ミルクとイチゴの一体感。",
+      "ingredients": "ミルクプディング (全脂乳, 砂糖, 乳脂肪クリーム, 小麦粉, コーンスターチ, 卵, ホワイトチョコレート, 加糖ホイップクリーム, バニリン香料, 塩), イチゴフィリング (温製ゼリー, 砂糖, ゲル化剤, ラズベリーゼリー, イチゴ).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "270,0 kcal / 1.129,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "20,1",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "18,0",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "20,3",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 270,0 kcal / 1.129,7 kJ; 脂質 20,1 g; 飽和脂肪 12,1 g; 炭水化物 18,0 g; 糖類 20,3 g; 食物繊維 0,3 g; たんぱく質 3,6 g; 塩 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "ミルクとイチゴの一体感。",
+          "ingredients": "ミルクプディング (全脂乳, 砂糖, 乳脂肪クリーム, 小麦粉, コーンスターチ, 卵, ホワイトチョコレート, 加糖ホイップクリーム, バニリン香料, 塩), イチゴフィリング (温製ゼリー, 砂糖, ゲル化剤, ラズベリーゼリー, イチゴ).",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 乳製品, グルテン, 大豆, 卵, 亜硫酸塩.\n<small>微量に含まれる可能性: アンテプ産ピスタチオ, アーモンド, ピーナッツ, ごま, クルミ.</small>",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "395 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 乳製品, グルテン, 大豆, 卵, 亜硫酸塩.\n<small>微量に含まれる可能性: アンテプ産ピスタチオ, アーモンド, ピーナッツ, ごま, クルミ.</small>",
+      "portion": "1人分"
     },
-    "600-01-12-damla-sakizli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-04-damla-sakizli-sut-muhallebisi": {
+      "name": "マスティックのミルクプディング",
+      "description": "マスティックが香る、伝統的なトルコ料理からの優雅な誘い。",
+      "ingredients": "牛乳, 水牛乳, 砂糖, 米と水の混合液 (米, 水), 塩, ヘーゼルナッツ, マスティック.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "141,1 kcal / 590,4 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "5,0",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "3,5",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "20,9",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 141,1 kcal / 590,4 kJ; 脂質 5,0 g; 飽和脂肪 3,5 g; 炭水化物 20,9 g; 糖類 13,0 g; 食物繊維 0,1 g; たんぱく質 3,2 g; 塩 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "マスティックが香る、伝統的なトルコ料理からの優雅な誘い。",
+          "ingredients": "牛乳, 水牛乳, 砂糖, 米と水の混合液 (米, 水), 塩, ヘーゼルナッツ, マスティック.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: ヘーゼルナッツ, 乳製品.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "400 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: ヘーゼルナッツ, 乳製品.",
+      "portion": "1人分"
     },
-    "600-01-13-fistikli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-05-fistikli-sut-muhallebisi": {
+      "name": "ピスタチオのミルクプディング",
+      "description": "ピスタチオとクリーミーなミルクの比類ない組み合わせ。",
+      "ingredients": "牛乳, 水牛乳, 砂糖, 米と水の混合液 (米, 水), 塩, アンテプ産ピスタチオ, アンテプ産ピスタチオ濃縮物.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "169,0 kcal / 707,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "8,1",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "3,0",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "11,2",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,9",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 169,0 kcal / 707,1 kJ; 脂質 8,1 g; 飽和脂肪 3,0 g; 炭水化物 18,9 g; 糖類 11,2 g; 食物繊維 0,9 g; たんぱく質 5,3 g; 塩 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "ピスタチオとクリーミーなミルクの比類ない組み合わせ。",
+          "ingredients": "牛乳, 水牛乳, 砂糖, 米と水の混合液 (米, 水), 塩, アンテプ産ピスタチオ, アンテプ産ピスタチオ濃縮物.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: アンテプ産ピスタチオ, 大豆, 乳製品.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "400 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: アンテプ産ピスタチオ, 大豆, 乳製品.",
+      "portion": "1人分"
     },
-    "600-01-14-incirli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-06-incirli-sut-muhallebisi": {
+      "name": "イチジクのミルクプディング",
+      "description": "イチジクとミルクが生み出す素晴らしい味わい。",
+      "ingredients": "牛乳, 水牛乳, 砂糖, 米と水の混合液 (米, 水), 塩, アーモンド, イチジク, 香料 (ココナッツ, バニリン, ビターアーモンド).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "148,0 kcal / 619,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "5,2",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "3,3",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "13,0",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,5",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 148,0 kcal / 619,2 kJ; 脂質 5,2 g; 飽和脂肪 3,3 g; 炭水化物 22,1 g; 糖類 13,0 g; 食物繊維 0,5 g; たんぱく質 3,4 g; 塩 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "イチジクとミルクが生み出す素晴らしい味わい。",
+          "ingredients": "牛乳, 水牛乳, 砂糖, 米と水の混合液 (米, 水), 塩, アーモンド, イチジク, 香料 (ココナッツ, バニリン, ビターアーモンド).",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: アーモンド, 乳製品.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "400 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: アーモンド, 乳製品.",
+      "portion": "1人分"
     },
-    "600-01-15-karamelli-findikli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-07-karamelli-findikli-sut-muhallebisi": {
+      "name": "キャラメルとヘーゼルナッツのミルクプディング",
+      "description": "香ばしいキャラメルソースとミルクプディング、ヘーゼルナッツの出会い。",
+      "ingredients": "ミルクプディング (全脂乳, 砂糖, 乳脂肪クリーム, 小麦粉, コーンスターチ, 卵, ホワイトチョコレート, 加糖ホイップクリーム, バニリン香料, 塩), 白いスポンジケーキ (小麦粉, 砂糖, コーンスターチ, 卵, 水, ベーキングパウダー, 植物性乳化剤, 植物性安定剤), キャラメルソース, ヘーゼルナッツ.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "314,0 kcal / 1.313,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "10,5",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "31,2",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,0",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "5,6",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 314,0 kcal / 1.313,8 kJ; 脂質 18,4 g; 飽和脂肪 10,5 g; 炭水化物 31,2 g; 糖類 12,2 g; 食物繊維 0,0 g; たんぱく質 5,6 g; 塩 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "360 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "香ばしいキャラメルソースとミルクプディング、ヘーゼルナッツの出会い。",
+          "ingredients": "ミルクプディング (全脂乳, 砂糖, 乳脂肪クリーム, 小麦粉, コーンスターチ, 卵, ホワイトチョコレート, 加糖ホイップクリーム, バニリン香料, 塩), 白いスポンジケーキ (小麦粉, 砂糖, コーンスターチ, 卵, 水, ベーキングパウダー, 植物性乳化剤, 植物性安定剤), キャラメルソース, ヘーゼルナッツ.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 小麦グルテン, ヘーゼルナッツ, 大豆, 卵, 乳製品.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "360 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 小麦グルテン, ヘーゼルナッツ, 大豆, 卵, 乳製品.",
+      "portion": "1人分"
     },
-    "600-01-16-keskul-u-fukara": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-08-keskul-u-fukara": {
+      "name": "ケシュキュル・フカラ",
+      "description": "オスマン時代から受け継がれた洗練された味。",
+      "ingredients": "牛乳, 水牛乳, 砂糖, 米と水の混合液 (米, 水), 塩, 卵, アーモンド, 香料 (バニリン, ビターアーモンド, ココナッツ), 着色料 (クルクミン).",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "142,0 kcal / 594,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "5,4",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "2,9",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "19,1",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,1",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 142,0 kcal / 594,1 kJ; 脂質 5,4 g; 飽和脂肪 2,9 g; 炭水化物 19,1 g; 糖類 11,7 g; 食物繊維 0,1 g; たんぱく質 4,5 g; 塩 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "オスマン時代から受け継がれた洗練された味。",
+          "ingredients": "牛乳, 水牛乳, 砂糖, 米と水の混合液 (米, 水), 塩, 卵, アーモンド, 香料 (バニリン, ビターアーモンド, ココナッツ), 着色料 (クルクミン).",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: アーモンド, 卵, 乳製品.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "400 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: アーモンド, 卵, 乳製品.",
+      "portion": "1人分"
     },
-    "600-01-17-orman-meyveli-sut-muhallebisi": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-03-09-orman-meyveli-sut-muhallebisi": {
+      "name": "森のベリーのミルクプディング",
+      "description": "ひとさじごとに感じる自然の独特な香り。",
+      "ingredients": "牛乳, 水牛乳, 砂糖, 米と水の混合液 (米, 水), ジャガイモでんぷん, コーンスターチ, ゲル化剤, バニリン香料, ブラックベリー, ブルーベリー, ラズベリー, アンテプ産ピスタチオ, 塩.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "136,0 kcal / 569,0 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "3,6",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "23,7",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "14,6",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,0",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 136,0 kcal / 569,0 kJ; 脂質 3,6 g; 飽和脂肪 2,5 g; 炭水化物 23,7 g; 糖類 14,6 g; 食物繊維 0,7 g; たんぱく質 2,4 g; 塩 0,0 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "395 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "ひとさじごとに感じる自然の独特な香り。",
+          "ingredients": "牛乳, 水牛乳, 砂糖, 米と水の混合液 (米, 水), ジャガイモでんぷん, コーンスターチ, ゲル化剤, バニリン香料, ブラックベリー, ブルーベリー, ラズベリー, アンテプ産ピスタチオ, 塩.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: アンテプ産ピスタチオ, 亜硫酸塩, 乳製品.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "395 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: アンテプ産ピスタチオ, 亜硫酸塩, 乳製品.",
+      "portion": "1人分"
     },
-    "600-01-18-lotuslu-kasik-pasta": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-01-lotuslu-kasik-pasta": {
+      "name": "Lotusのスプーンケーキ",
+      "description": "独特の味が魅力の、心惹かれるLotusスプーンケーキ。",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "420,8 kcal / 1.760,63 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "29,4",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "15,9",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "36,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "18,9",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "2,5",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 420,8 kcal / 1.760,63 kJ; 脂質 29,4 g; 飽和脂肪 15,9 g; 炭水化物 36,5 g; 糖類 18,9 g; 食物繊維 0,4 g; たんぱく質 2,5 g; 塩 0,3 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "390 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "独特の味が魅力の、心惹かれるLotusスプーンケーキ。",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "390 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": "1人分"
     },
-    "600-01-19-profiterol": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-02-profiterol": {
+      "name": "プロフィトロール",
+      "description": "丸いシュー生地に包まれたチョコレートと特製クリームの味わい。",
+      "ingredients": "Supangleソース (ミルク, 小麦粉, グラニュー糖, ミルクチョコレート, ダークチョコレート, ココアパウダー, ミルクプラリネ), プロフィトロール生地 (小麦粉, 水, 卵, ひまわり油), クリーム (小麦粉, グラニュー糖, 卵, ホイップクリーム, ミルク, 水素添加植物油), Matピスタチオチョコレート, アンテプ産ピスタチオ, ミルクチョコレート.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "342,6 kcal / 1.433,44 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "24,9",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "13,2",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "24,7",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "19,6",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "5",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 342,6 kcal / 1.433,44 kJ; 脂質 24,9 g; 飽和脂肪 13,2 g; 炭水化物 24,7 g; 糖類 19,6 g; 食物繊維 1 g; たんぱく質 5 g; 塩 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "380 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "丸いシュー生地に包まれたチョコレートと特製クリームの味わい。",
+          "ingredients": "Supangleソース (ミルク, 小麦粉, グラニュー糖, ミルクチョコレート, ダークチョコレート, ココアパウダー, ミルクプラリネ), プロフィトロール生地 (小麦粉, 水, 卵, ひまわり油), クリーム (小麦粉, グラニュー糖, 卵, ホイップクリーム, ミルク, 水素添加植物油), Matピスタチオチョコレート, アンテプ産ピスタチオ, ミルクチョコレート.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 小麦グルテン, ヘーゼルナッツ, アンテプ産ピスタチオ, 卵, ミルク, 大豆.\n<small>微量に含まれる可能性: アーモンド, ピーナッツ, ごま, クルミ.</small>",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "380 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 小麦グルテン, ヘーゼルナッツ, アンテプ産ピスタチオ, 卵, ミルク, 大豆.\n<small>微量に含まれる可能性: アーモンド, ピーナッツ, ごま, クルミ.</small>",
+      "portion": "1人分"
     },
-    "600-01-20-supangle": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-03-supangle": {
+      "name": "スパンゲル",
+      "description": "過去へと誘う、シルクのような食感。",
+      "ingredients": "Supangleソース (ミルク, 小麦粉, グラニュー糖, ミルクチョコレート, ダークチョコレート, ココアパウダー, ミルクプラリネ), スポンジケーキ (小麦粉, 水, ココアパウダー, グラニュー糖, 卵, ベーキングパウダー, 植物性安定剤, 植物性乳化剤), クリーム (小麦粉, グラニュー糖, 卵, ホイップクリーム, ミルク, 水素添加植物油), Matピスタチオチョコレート, アンテプ産ピスタチオ.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "348 kcal / 1.456,03 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "24,8",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "12,9",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 348 kcal / 1.456,03 kJ; 脂質 24,8 g; 飽和脂肪 12,9 g; 炭水化物 25,9 g; 糖類 20,5 g; 食物繊維 1,2 g; たんぱく質 5,3 g; 塩 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "過去へと誘う、シルクのような食感。",
+          "ingredients": "Supangleソース (ミルク, 小麦粉, グラニュー糖, ミルクチョコレート, ダークチョコレート, ココアパウダー, ミルクプラリネ), スポンジケーキ (小麦粉, 水, ココアパウダー, グラニュー糖, 卵, ベーキングパウダー, 植物性安定剤, 植物性乳化剤), クリーム (小麦粉, グラニュー糖, 卵, ホイップクリーム, ミルク, 水素添加植物油), Matピスタチオチョコレート, アンテプ産ピスタチオ.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 小麦グルテン, アンテプ産ピスタチオ, 卵, 大豆, 乳製品.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "400 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 小麦グルテン, アンテプ産ピスタチオ, 卵, 大豆, 乳製品.",
+      "portion": "1人分"
     },
-    "600-01-21-sah-mat": {
-      "name": "",
-      "variants": {},
-      "editorial": {}
+    "600-04-04-sah-mat": {
+      "name": "シャー・マット",
+      "description": "ミルクとチョコレートの対比が生み出す味わいの饗宴。",
+      "ingredients": "ミルクプディング (全脂乳, 砂糖, 乳脂肪クリーム, 小麦粉, コーンスターチ, 卵, ホワイトチョコレート, 加糖ホイップクリーム, バニリン香料, 塩), ミルクチョコレートとヘーゼルナッツのプラリネ, ココアパウダー, ダークチョコレート, コーンスターチ.",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "379,0 kcal / 1.585,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "63,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "17,2",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,4",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,5",
+            "unit": "g"
+          },
+          {
+            "name": "塩",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 379,0 kcal / 1.585,7 kJ; 脂質 11,7 g; 飽和脂肪 1,7 g; 炭水化物 63,5 g; 糖類 17,2 g; 食物繊維 1,4 g; たんぱく質 4,5 g; 塩 0,1 g.",
+        "note": ""
+      },
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "weight": "400 グラム",
+      "variants": {
+        "porsiyon": {
+          "description": "ミルクとチョコレートの対比が生み出す味わいの饗宴。",
+          "ingredients": "ミルクプディング (全脂乳, 砂糖, 乳脂肪クリーム, 小麦粉, コーンスターチ, 卵, ホワイトチョコレート, 加糖ホイップクリーム, バニリン香料, 塩), ミルクチョコレートとヘーゼルナッツのプラリネ, ココアパウダー, ダークチョコレート, コーンスターチ.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 小麦グルテン, ヘーゼルナッツ, 卵, 大豆, 乳製品.",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "400 グラム",
+          "delivery": "",
+          "packaging": "",
+          "label": "ポーション"
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: 小麦グルテン, ヘーゼルナッツ, 卵, 大豆, 乳製品.",
+      "portion": "1人分"
     }
   }
 }

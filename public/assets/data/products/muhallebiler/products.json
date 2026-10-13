@@ -7,9 +7,11 @@
       "key": "600-01-01-asure",
       "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/asure.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0101_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
       "editorial": [
@@ -24,16 +26,30 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-01-01",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0101_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true
     },
     {
       "code": "600-01-02",
       "key": "600-01-02-firin-sutlac",
       "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/firin-sutlac.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0102_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
       "editorial": [
@@ -48,16 +64,30 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-01-02",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0102_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true
     },
     {
       "code": "600-01-03",
       "key": "600-01-03-tavukgogsu",
       "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/tavukgogsu.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0103_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
       "editorial": [
@@ -72,16 +102,30 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-01-03",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0103_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true
     },
     {
       "code": "600-01-04",
       "key": "600-01-04-zerde",
       "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/zerde.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0104_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
       "editorial": [
@@ -96,16 +140,30 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-01-04",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0104_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true
     },
     {
-      "code": "600-01-05",
-      "key": "600-01-05-fistikli-kazandibi",
+      "code": "600-02-01",
+      "key": "600-02-01-fistikli-kazandibi",
       "url": "urunler/muhallebiler/kazandibiler/fistikli-kazandibi.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0201_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/kazandibiler",
       "editorial": [
@@ -120,16 +178,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-02-01",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0201_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-05-fistikli-kazandibi"
+      ]
     },
     {
-      "code": "600-01-06",
-      "key": "600-01-06-safranli-kazandibi",
+      "code": "600-02-02",
+      "key": "600-02-02-safranli-kazandibi",
       "url": "urunler/muhallebiler/kazandibiler/safranli-kazandibi.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0202_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/kazandibiler",
       "editorial": [
@@ -144,16 +219,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-02-02",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0202_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-06-safranli-kazandibi"
+      ]
     },
     {
-      "code": "600-01-07",
-      "key": "600-01-07-sakizli-kazandibi",
+      "code": "600-02-03",
+      "key": "600-02-03-damla-sakizli-kazandibi",
       "url": "urunler/muhallebiler/kazandibiler/sakizli-kazandibi.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0203_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/kazandibiler",
       "editorial": [
@@ -168,16 +260,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-02-03",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0203_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-07-sakizli-kazandibi"
+      ]
     },
     {
-      "code": "600-01-08",
-      "key": "600-01-08-tavukgogsu-kazandibi",
+      "code": "600-02-04",
+      "key": "600-02-04-tavukgogsu-kazandibi",
       "url": "urunler/muhallebiler/kazandibiler/tavukgogsu-kazandibi.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0204_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/kazandibiler",
       "editorial": [
@@ -192,16 +301,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-02-04",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0204_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-08-tavukgogsu-kazandibi"
+      ]
     },
     {
-      "code": "600-01-09",
-      "key": "600-01-09-ahududulu-sut-muhallebisi",
+      "code": "600-03-01",
+      "key": "600-03-01-ahududulu-sut-muhallebisi",
       "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/ahududulu-sut-muhallebisi.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0301_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
       "editorial": [
@@ -216,16 +342,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-03-01",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0301_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-09-ahududulu-sut-muhallebisi"
+      ]
     },
     {
-      "code": "600-01-10",
-      "key": "600-01-10-cilekli-cikolatali-muhallebi",
+      "code": "600-03-02",
+      "key": "600-03-02-cilekli-cikolatali-muhallebi",
       "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/cilekli-cikolatali-muhallebi.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0302_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
       "editorial": [
@@ -240,16 +383,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-03-02",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0302_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-10-cilekli-cikolatali-muhallebi"
+      ]
     },
     {
-      "code": "600-01-11",
-      "key": "600-01-11-cilekli-sut-muhallebisi",
+      "code": "600-03-03",
+      "key": "600-03-03-cilekli-sut-muhallebisi",
       "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/cilekli-sut-muhallebisi.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0303_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
       "editorial": [
@@ -264,16 +424,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-03-03",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0303_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-11-cilekli-sut-muhallebisi"
+      ]
     },
     {
-      "code": "600-01-12",
-      "key": "600-01-12-damla-sakizli-sut-muhallebisi",
+      "code": "600-03-04",
+      "key": "600-03-04-damla-sakizli-sut-muhallebisi",
       "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/damla-sakizli-sut-muhallebisi.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0304_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
       "editorial": [
@@ -288,16 +465,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-03-04",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0304_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-12-damla-sakizli-sut-muhallebisi"
+      ]
     },
     {
-      "code": "600-01-13",
-      "key": "600-01-13-fistikli-sut-muhallebisi",
+      "code": "600-03-05",
+      "key": "600-03-05-fistikli-sut-muhallebisi",
       "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/fistikli-sut-muhallebisi.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0305_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
       "editorial": [
@@ -312,16 +506,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-03-05",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0305_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-13-fistikli-sut-muhallebisi"
+      ]
     },
     {
-      "code": "600-01-14",
-      "key": "600-01-14-incirli-sut-muhallebisi",
+      "code": "600-03-06",
+      "key": "600-03-06-incirli-sut-muhallebisi",
       "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/incirli-sut-muhallebisi.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0306_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
       "editorial": [
@@ -336,16 +547,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-03-06",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0306_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-14-incirli-sut-muhallebisi"
+      ]
     },
     {
-      "code": "600-01-15",
-      "key": "600-01-15-karamelli-findikli-sut-muhallebisi",
+      "code": "600-03-07",
+      "key": "600-03-07-karamelli-findikli-sut-muhallebisi",
       "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/karamelli-findikli-sut-muhallebisi.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0307_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
       "editorial": [
@@ -360,16 +588,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-03-07",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0307_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-15-karamelli-findikli-sut-muhallebisi"
+      ]
     },
     {
-      "code": "600-01-16",
-      "key": "600-01-16-keskul-u-fukara",
+      "code": "600-03-08",
+      "key": "600-03-08-keskul-u-fukara",
       "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/keskul-u-fukara.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0308_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
       "editorial": [
@@ -384,16 +629,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-03-08",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0308_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-16-keskul-u-fukara"
+      ]
     },
     {
-      "code": "600-01-17",
-      "key": "600-01-17-orman-meyveli-sut-muhallebisi",
+      "code": "600-03-09",
+      "key": "600-03-09-orman-meyveli-sut-muhallebisi",
       "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/orman-meyveli-sut-muhallebisi.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0309_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
       "editorial": [
@@ -408,16 +670,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-03-09",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0309_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-17-orman-meyveli-sut-muhallebisi"
+      ]
     },
     {
-      "code": "600-01-18",
-      "key": "600-01-18-lotuslu-kasik-pasta",
+      "code": "600-04-01",
+      "key": "600-04-01-lotuslu-kasik-pasta",
       "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/lotuslu-kasik-pasta.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0401_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
       "editorial": [
@@ -432,16 +711,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-04-01",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0401_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-18-lotuslu-kasik-pasta"
+      ]
     },
     {
-      "code": "600-01-19",
-      "key": "600-01-19-profiterol",
+      "code": "600-04-02",
+      "key": "600-04-02-profiterol",
       "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/profiterol.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0402_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
       "editorial": [
@@ -456,16 +752,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-04-02",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0402_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-19-profiterol"
+      ]
     },
     {
-      "code": "600-01-20",
-      "key": "600-01-20-supangle",
+      "code": "600-04-03",
+      "key": "600-04-03-supangle",
       "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/supangle.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0403_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
       "editorial": [
@@ -480,16 +793,33 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-04-03",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0403_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-20-supangle"
+      ]
     },
     {
-      "code": "600-01-21",
-      "key": "600-01-21-sah-mat",
+      "code": "600-04-04",
+      "key": "600-04-04-sah-mat",
       "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/sah-mat.html",
       "currency": "TRY",
-      "images": [],
+      "images": [
+        "muhallebiler/600_0404_01.webp"
+      ],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
       "editorial": [
@@ -504,7 +834,22 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "600-04-04",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": [
+            "muhallebiler/600_0404_01.webp"
+          ]
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-01-21-sah-mat"
+      ]
     }
   ]
 }
