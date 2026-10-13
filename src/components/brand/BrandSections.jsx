@@ -3,6 +3,8 @@ import { brandText } from "../../brand-content.js";
 import BrandImage from "./BrandImage.jsx";
 import BrandCards from "./BrandCards.jsx";
 import BrandTimeline from "./BrandTimeline.jsx";
+import BrandFAQ from "./BrandFAQ.jsx";
+import BrandContacts from "./BrandContacts.jsx";
 export default function BrandSections({ page, language, labels }) {
   const text = (v) => brandText(v, language);
   return page.sections.map((section) => (
@@ -44,16 +46,8 @@ export default function BrandSections({ page, language, labels }) {
       {section.type === "timeline" && (
         <BrandTimeline section={section} language={language} labels={labels} />
       )}
-      {section.type === "faq" && (
-        <div className="brand-faq">
-          {section.items.map((item, i) => (
-            <details key={i}>
-              <summary>{text(item.title)}</summary>
-              <p dir="auto">{text(item.body)}</p>
-            </details>
-          ))}
-        </div>
-      )}
+      {section.type === "faq" && <BrandFAQ section={section} language={language} labels={labels} />}
+      {section.type === "contacts" && <BrandContacts section={section} language={language} labels={labels} />}
     </section>
   ));
 }

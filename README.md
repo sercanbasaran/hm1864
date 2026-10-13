@@ -292,3 +292,13 @@ Built-in imagegen ile iki kavramsal görsel üretildi; gerçek yönetici, fabrik
 - `public/assets/images/medya/marka/mimari.webp`: çini, ahşap ve altın detaylar üzerinden mimari miras teması.
 
 Her ikisi 1672×941 piksel; görsel içeriği değiştirmeden web için WebP biçiminde optimize edildi. Üretim istemleri ve kaynaklar `public/assets/data/pages/visuals.json` dosyasındadır. Yönetici portresi, tarihçe, madalya ve ödül görselleri resmi sitelerdeki gerçek arşivden yüklenir. Sertifika ve politika PDF’leri `public/assets/documents/kurumsal/` içinde tutulur; belgeler uygulamada okunur ve indirilebilir.
+
+## Destek ve Sözleşme & Politikalar
+
+15 yeni içerik sayfası mevcut sitemap ve footer bağlantılarına bağlandı. İçerikler `public/assets/data/pages/destek.json` (8 sayfa) ve `public/assets/data/pages/sozlesmeler.json` (7 sayfa) içindedir. Metinler Türkçe, İngilizce ve Arapça olarak aynı JSON alanlarında düzenlenir; diğer dil alanları mevcut fallback ile çalışır.
+
+Soru-cevap bölümlerindeki `searchable: true` yerel aramayı açar. `contacts` bölümündeki `email`, `phone` ve `displayPhone` gerçek iletişim bağlantılarını yönetir. Kartlar uygulama içi rehberlere gider. Görselsiz giriş, bölüm içi gezinme ve responsive okuma düzeni aynı marka sayfası şablonundadır.
+
+Kurumsal, Asırlık Miras, Destek ve Sözleşme & Politikalar içerik tasarımları ortak beyaz/siyah/kırmızı/gri palette çalışır; marka hero görselleri gri tonla sunulur. Mevcut global header tasarımı korunur. Desktop içerik alanı 1280px ile sınırlıdır.
+
+Siparişe özel sözleşme, ödeme ve hesap hizmetleri bu içerik sayfaları tarafından oluşturulmaz. Satıcı/veri sorumlusu doğrulaması ve işlem bazlı hukuki alanlar için `docs/support-policy-authoring.md` içindeki düzenleme notlarını kullanın.

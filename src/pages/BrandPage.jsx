@@ -14,13 +14,13 @@ export default function BrandPage({ page }) {
   );
   return (
     <article className={"brand-page brand-theme-" + page.groupId}>
-      <header className="brand-hero">
-        <img
+      <header className={"brand-hero" + (!page.hero.image ? " brand-hero-text" : "")}>
+        {page.hero.image && <img
           className="brand-hero-image"
           src={local(page.hero.image.src)}
           alt={text(page.hero.image.alt)}
           fetchPriority="high"
-        />
+        />}
         <div className="brand-hero-shade" />
         <div className="brand-hero-content">
           <p className="brand-eyebrow">
@@ -32,7 +32,7 @@ export default function BrandPage({ page }) {
             {text(labels.discover)} <span aria-hidden="true">↓</span>
           </a>
         </div>
-        {page.hero.image.generated && (
+        {page.hero.image?.generated && (
           <span className="brand-image-credit">
             {text(labels.visualInterpretation)}
           </span>

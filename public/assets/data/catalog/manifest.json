@@ -337,6 +337,8 @@
   "stores": "stores.json",
   "pages": [
     "pages/kurumsal.json",
-    "pages/asirlik-miras.json"
+    "pages/asirlik-miras.json",
+    "pages/destek.json",
+    "pages/sozlesmeler.json"
   ]
 }

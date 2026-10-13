@@ -13,6 +13,7 @@ export function validateBrandFiles(files) {
       "faq",
       "gallery",
       "people",
+      "contacts",
     ]);
   for (const file of files) {
     if (
@@ -48,6 +49,8 @@ export function validateBrandFiles(files) {
           throw Error("Marka bölüm şablonu geçersiz: " + page.id);
         sectionIds.add(section.id);
         for (const item of section.items || []) {
+          if (section.type === "contacts" && (!/^[A-Za-z0-9._+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$/.test(item.email) || (item.phone && !/^\+[0-9]{8,15}$/.test(item.phone))))
+            throw Error("Destek iletişim bilgisi geçersiz: " + page.id);
           if (item.href && /^(?:[a-z]+:|\/\/)/i.test(item.href))
             throw Error("Marka içerikleri uygulama içinde açılmalıdır: " + page.id);
           if (item.detail && (!Array.isArray(item.detail.paragraphs) || item.detail.paragraphs.some(p => !p?.tr)))

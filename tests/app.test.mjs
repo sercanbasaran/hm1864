@@ -130,6 +130,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  window.document.querySelector('.product-main-image').click();await wait();
  assert.match(window.document.querySelector('.lightbox-dialog img').src,/test-s\.png$/);
  window.document.querySelector('.dialog-close').click();await wait();
+
  window.document.querySelector('.header-service button').click();await wait();
  assert.equal(window.document.querySelector('.region-dialog select[name="currency"]').value,'TRY');
  window.document.querySelector('.region-dialog select[name="currency"]').value='USD';
@@ -210,6 +211,19 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.equal(reader.querySelector('a[download]').getAttribute('href'),'/assets/documents/kurumsal/sertifikalar.pdf');
  window.document.querySelector('.brand-document .brand-image button').click();await wait();assert.ok(window.document.querySelector('dialog.lightbox-dialog[open]'));
  window.document.querySelector('.dialog-close').click();await wait();
+
+ const supportLink=window.document.createElement('a');supportLink.href='/destek/sikca-sorulan-sorular/index.html';window.document.querySelector('#main').appendChild(supportLink);supportLink.click();await wait();
+ assert.ok(window.document.querySelector('.brand-theme-destek .brand-hero-text'));
+ assert.equal(window.document.querySelectorAll('.brand-faq details').length,6);
+ const faqSearch=window.document.querySelector('.brand-faq-search input');
+ Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype,'value').set.call(faqSearch,'ALERJEN');faqSearch.dispatchEvent(new window.Event('input',{bubbles:true}));await wait();
+ assert.equal(window.document.querySelectorAll('.brand-faq details').length,1);
+ Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype,'value').set.call(faqSearch,'no-question-matches');faqSearch.dispatchEvent(new window.Event('input',{bubbles:true}));await wait();
+ assert.ok(window.document.querySelector('.brand-faq [role="status"]'));
+ const contactLink=window.document.createElement('a');contactLink.href='/destek/musteri-hizmetleri/index.html';window.document.querySelector('#main').appendChild(contactLink);contactLink.click();await wait();
+ assert.ok(window.document.querySelector('a[href="mailto:online@hafizmustafa.com"]'));
+ assert.ok(window.document.querySelector('a[href="tel:+905527735508"]'));
+ assert.equal(window.document.querySelectorAll('header.site-header').length,1);
 
  }finally{window.happyDOM.abort();}
 });

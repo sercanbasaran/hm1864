@@ -1,0 +1,1765 @@
+{
+  "schemaVersion": 1,
+  "group": {
+    "id": "sozlesmeler",
+    "url": "sozlesmeler/index.html",
+    "title": {
+      "tr": "Sözleşme & Politikalar",
+      "en": "Agreements & Policies",
+      "ar": "العقود والسياسات",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    }
+  },
+  "labels": {
+    "discover": {
+      "tr": "Keşfet",
+      "en": "Discover",
+      "ar": "اكتشف",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "onThisPage": {
+      "tr": "Bu sayfada",
+      "en": "In this chapter",
+      "ar": "في هذا الفصل",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "continue": {
+      "tr": "Hikâyenin devamını keşfedin",
+      "en": "Continue the story",
+      "ar": "تابع اكتشاف الحكاية",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "explore": {
+      "tr": "İncele",
+      "en": "Explore",
+      "ar": "استكشف",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "all": {
+      "tr": "Tümü",
+      "en": "All",
+      "ar": "الكل",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "filter": {
+      "tr": "İçerik filtresi",
+      "en": "Content filter",
+      "ar": "تصفية المحتوى",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "empty": {
+      "tr": "Bu seçimde içerik bulunmuyor.",
+      "en": "No entries match this selection.",
+      "ar": "لا توجد مواد تطابق هذا الاختيار.",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "top": {
+      "tr": "Sayfa başına dön",
+      "en": "Back to top",
+      "ar": "العودة إلى أعلى الصفحة",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "stores": {
+      "tr": "Mağazalarımızı keşfedin",
+      "en": "Discover our stores",
+      "ar": "اكتشف متاجرنا",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "visualInterpretation": {
+      "tr": "Görsel yorum",
+      "en": "Visual interpretation",
+      "ar": "تصور بصري",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "readMore": {
+      "tr": "Devamını oku",
+      "en": "Read more",
+      "ar": "اقرأ المزيد",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "viewDocument": {
+      "tr": "Belgenin tamamını göster",
+      "en": "Show full document",
+      "ar": "عرض الوثيقة كاملة",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "downloadDocument": {
+      "tr": "PDF indir",
+      "en": "Download PDF",
+      "ar": "تنزيل PDF",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "search": {
+      "tr": "Sorularda ara",
+      "en": "Search questions",
+      "ar": "ابحث في الأسئلة",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "searchEmpty": {
+      "tr": "Bu arama için soru bulunamadı. Farklı bir kelime deneyin.",
+      "en": "No questions match. Try another word.",
+      "ar": "لا توجد أسئلة مطابقة. جرّب كلمة أخرى.",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "email": {
+      "tr": "E-posta gönder",
+      "en": "Send email",
+      "ar": "إرسال بريد إلكتروني",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "call": {
+      "tr": "Telefonla ara",
+      "en": "Call us",
+      "ar": "اتصل بنا",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    }
+  },
+  "pages": [
+    {
+      "id": "sozlesmeler-home",
+      "url": "sozlesmeler/index.html",
+      "title": {
+        "tr": "Sözleşme & Politikalar",
+        "en": "Agreements & Policies",
+        "ar": "العقود والسياسات",
+        "de": "",
+        "fr": "",
+        "it": "",
+        "es": "",
+        "ru": "",
+        "zh-CN": "",
+        "ja": "",
+        "hi": "",
+        "ur": "",
+        "fa": "",
+        "pt": ""
+      },
+      "hero": {
+        "intro": {
+          "tr": "Alışveriş koşulları, kişisel veriler ve dijital hizmetler hakkında bilgi.",
+          "en": "Information about shopping terms, personal data and digital services.",
+          "ar": "معلومات عن شروط التسوق والبيانات الشخصية والخدمات الرقمية.",
+          "de": "",
+          "fr": "",
+          "it": "",
+          "es": "",
+          "ru": "",
+          "zh-CN": "",
+          "ja": "",
+          "hi": "",
+          "ur": "",
+          "fa": "",
+          "pt": ""
+        }
+      },
+      "sections": [
+        {
+          "id": "metinler",
+          "type": "cards",
+          "title": {
+            "tr": "Koşullar ve politikalar",
+            "en": "Terms and policies",
+            "ar": "الشروط والسياسات",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "items": [
+            {
+              "id": "policy-data",
+              "title": {
+                "tr": "Kişisel Verilerin Korunması",
+                "en": "Personal data protection",
+                "ar": "حماية البيانات الشخصية",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "body": {
+                "tr": "Verileriniz, amaçları ve haklarınız hakkında açık bilgi.",
+                "en": "Clear information about your data, its purposes and your rights.",
+                "ar": "معلومات واضحة عن بياناتك وأغراضها وحقوقك.",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "href": "sozlesmeler/kisisel-verilerin-korunmasi/index.html"
+            },
+            {
+              "id": "policy-security",
+              "title": {
+                "tr": "Bilgi Güvenliği Politikası",
+                "en": "Information security policy",
+                "ar": "سياسة أمن المعلومات",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "body": {
+                "tr": "Gizlilik, bütünlük ve güvenli erişim yaklaşımımız.",
+                "en": "Our approach to confidentiality, integrity and secure access.",
+                "ar": "نهجنا للسرية وسلامة المعلومات والوصول الآمن.",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "href": "sozlesmeler/bilgi-guvenligi-politikasi/index.html"
+            },
+            {
+              "id": "policy-privacy",
+              "title": {
+                "tr": "Gizlilik Bildirgesi",
+                "en": "Privacy notice",
+                "ar": "إشعار الخصوصية",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "body": {
+                "tr": "Alışveriş deneyiminizi ve bilgilerinizi önemsiyoruz.",
+                "en": "We value your shopping experience and your information.",
+                "ar": "نهتم بتجربة تسوقك ومعلوماتك.",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "href": "sozlesmeler/gizlilik-bildirgesi/index.html"
+            },
+            {
+              "id": "policy-sales",
+              "title": {
+                "tr": "Satış Sözleşmesi",
+                "en": "Sales agreement",
+                "ar": "عقد البيع",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "body": {
+                "tr": "Siparişin tarafları, koşulları ve temel haklar.",
+                "en": "The parties, terms and principal rights for an order.",
+                "ar": "أطراف الطلب وشروطه والحقوق الأساسية.",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "href": "sozlesmeler/satis-sozlesmesi/index.html"
+            },
+            {
+              "id": "policy-membership",
+              "title": {
+                "tr": "Üyelik Koşulları",
+                "en": "Membership terms",
+                "ar": "شروط العضوية",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "body": {
+                "tr": "Hesabınızı ve dijital hizmetlerin kullanımını yöneten ilkeler.",
+                "en": "Principles for accounts and the use of digital services.",
+                "ar": "مبادئ الحسابات واستخدام الخدمات الرقمية.",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "href": "sozlesmeler/uyelik-kosullari/index.html"
+            },
+            {
+              "id": "policy-cookies",
+              "title": {
+                "tr": "Çerez Politikası",
+                "en": "Cookie policy",
+                "ar": "سياسة ملفات الارتباط",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "body": {
+                "tr": "Tarayıcınızda hangi tercihler saklanıyor?",
+                "en": "Which preferences are stored in your browser?",
+                "ar": "ما التفضيلات المحفوظة في متصفحك؟",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "href": "sozlesmeler/cerez-politikasi/index.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "policy-data",
+      "url": "sozlesmeler/kisisel-verilerin-korunmasi/index.html",
+      "title": {
+        "tr": "Kişisel Verilerin Korunması",
+        "en": "Personal data protection",
+        "ar": "حماية البيانات الشخصية",
+        "de": "",
+        "fr": "",
+        "it": "",
+        "es": "",
+        "ru": "",
+        "zh-CN": "",
+        "ja": "",
+        "hi": "",
+        "ur": "",
+        "fa": "",
+        "pt": ""
+      },
+      "hero": {
+        "intro": {
+          "tr": "Verileriniz, amaçları ve haklarınız hakkında açık bilgi.",
+          "en": "Clear information about your data, its purposes and your rights.",
+          "ar": "معلومات واضحة عن بياناتك وأغراضها وحقوقك.",
+          "de": "",
+          "fr": "",
+          "it": "",
+          "es": "",
+          "ru": "",
+          "zh-CN": "",
+          "ja": "",
+          "hi": "",
+          "ur": "",
+          "fa": "",
+          "pt": ""
+        }
+      },
+      "sections": [
+        {
+          "id": "veri-sorumlusu",
+          "type": "prose",
+          "title": {
+            "tr": "Kapsam ve veri sorumlusu",
+            "en": "Scope and data controller",
+            "ar": "النطاق ومسؤول البيانات",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Hafız Mustafa 1864 markasının Türkiye’deki kurumsal kişisel veri sorumlusu Hafızlar Gıda İç ve Dış Ticaret A.Ş.’dir. Kurumsal başvuru adresi: Hocapaşa Mah. Muradiye Cad. Saf Han No:25B, Fatih / İstanbul. Farklı ülke veya satış kanalındaki işlem için, o işlemin ön bilgilendirmesinde belirtilen taraf ve yerel veri koruma kuralları esas alınır.",
+              "en": "The corporate personal data controller for the Hafız Mustafa 1864 brand in Türkiye is Hafızlar Gıda İç ve Dış Ticaret A.Ş. Corporate request address: Hocapaşa Mah. Muradiye Cad. Saf Han No:25B, Fatih / Istanbul. For another country or sales channel, the party identified in that transaction’s information and local data-protection rules apply.",
+              "ar": "مسؤول البيانات الشخصية المؤسسي لعلامة Hafız Mustafa 1864 في تركيا هو Hafızlar Gıda İç ve Dış Ticaret A.Ş. عنوان الطلبات المؤسسية: Hocapaşa Mah. Muradiye Cad. Saf Han No:25B, Fatih / İstanbul. في البلدان أو قنوات البيع الأخرى، تُعتمد الجهة المحددة في معلومات المعاملة وقواعد حماية البيانات المحلية.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "veriler",
+          "type": "prose",
+          "title": {
+            "tr": "Veriler ve işleme amaçları",
+            "en": "Data and processing purposes",
+            "ar": "البيانات وأغراض المعالجة",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Sipariş ve destek ilişkisi kapsamında ad, iletişim, teslimat ve fatura bilgileri, sipariş kayıtları ve bize ilettiğiniz yazışmalar işlenebilir. Amaç; talebinizi yanıtlamak, satış ve teslimat işlemlerini yürütmek, yasal kayıt yükümlülüklerini yerine getirmek ve işlem güvenliğini sağlamaktır. Her veri, ilgili işlem için gerektiği ölçüde kullanılır.",
+              "en": "Order and support interactions may involve names, contact details, delivery and billing information, order records and correspondence you send us. Purposes include answering enquiries, handling sales and delivery, fulfilling record-keeping obligations and protecting transactions. Data use is limited to what the relevant activity needs.",
+              "ar": "قد تشمل معاملات الطلبات والدعم الاسم وبيانات التواصل والتوصيل والفوترة وسجلات الطلبات والمراسلات المرسلة إلينا. تشمل الأغراض الرد على الاستفسارات وتنفيذ البيع والتوصيل والالتزام بحفظ السجلات وحماية المعاملات. يُستخدم كل بيان بالقدر اللازم للنشاط المعني.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "hukuki-sebep",
+          "type": "prose",
+          "title": {
+            "tr": "Hukuki sebepler, paylaşım ve saklama",
+            "en": "Legal grounds, sharing and retention",
+            "ar": "الأسس القانونية والمشاركة والاحتفاظ",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "İşleme; sözleşmenin kurulması veya ifası, hukuki yükümlülük, bir hakkın korunması ve şartları varsa meşru menfaat gibi hukuki sebeplere dayanabilir. Açık rıza gereken işlem için ayrıca rıza alınır. Teslimat, ödeme ve hizmet sağlayıcılarıyla yalnızca ilgili hizmet için gerekli bilgiler paylaşılır. Yurt dışı aktarımlar geçerli hukuki aktarım koşullarına tabidir. Saklama; veri türü, işlem amacı ve yasal yükümlülüğe göre belirlenir; sebep ortadan kalktığında silme, yok etme veya anonimleştirme uygulanır.",
+              "en": "Processing may rely on contract formation or performance, legal obligations, protecting a right or legitimate interests where the conditions are met. Consent is requested separately when required. Only information needed for the relevant service is shared with delivery, payment and service providers. International transfers require valid legal safeguards. Retention depends on the data type, purpose and legal obligations; data is deleted, destroyed or anonymised when the grounds cease.",
+              "ar": "قد تستند المعالجة إلى إنشاء العقد أو تنفيذه أو الالتزامات القانونية أو حماية حق أو المصالح المشروعة عند استيفاء شروطها. تُطلب الموافقة بشكل منفصل عند لزومها. تُشارك المعلومات اللازمة فقط مع مقدمي التوصيل والدفع والخدمات. تتطلب عمليات النقل الدولي ضمانات قانونية صحيحة. يعتمد الاحتفاظ على نوع البيانات والغرض والالتزامات؛ تُحذف البيانات أو تُتلف أو تُجهل عند انتهاء الأسباب.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "haklar",
+          "type": "prose",
+          "title": {
+            "tr": "Haklarınız ve başvuru",
+            "en": "Your rights and requests",
+            "ar": "حقوقك والطلبات",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Verilerinizin işlenip işlenmediğini öğrenme, amaç ve alıcılar hakkında bilgi isteme, yanlış verileri düzelttirme, kanuni koşullarda silme veya yok etme ve otomatik işlem sonucu aleyhinize oluşan duruma itiraz etme haklarınız bulunur. Başvurunuzu kimliğinizin doğrulanmasına yeterli bilgiler ve talebinizle birlikte kurumsal adrese yazılı iletebilirsiniz. Türkiye’de talepler kanuni usule göre en geç 30 gün içinde değerlendirilir. Pazarlama izni, alışverişin zorunlu koşulu değildir.",
+              "en": "You may ask whether your data is processed, request information about purposes and recipients, correct inaccuracies, request deletion or destruction where legal conditions apply and object to adverse results from automated processing. Send a written request to the corporate address with sufficient identity-verification information and your request. In Türkiye, requests are handled within 30 days under the legal procedure. Marketing consent is not a condition of purchase.",
+              "ar": "يمكنك الاستفسار عن معالجة بياناتك وأغراضها ومستلميها وتصحيح الأخطاء وطلب الحذف أو الإتلاف عند تحقق الشروط القانونية والاعتراض على النتائج السلبية للمعالجة الآلية. أرسل طلباً كتابياً إلى العنوان المؤسسي مع معلومات كافية للتحقق من الهوية وشرح الطلب. تُعالج الطلبات في تركيا خلال 30 يوماً وفق الإجراءات القانونية. الموافقة التسويقية ليست شرطاً للشراء.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "policy-security",
+      "url": "sozlesmeler/bilgi-guvenligi-politikasi/index.html",
+      "title": {
+        "tr": "Bilgi Güvenliği Politikası",
+        "en": "Information security policy",
+        "ar": "سياسة أمن المعلومات",
+        "de": "",
+        "fr": "",
+        "it": "",
+        "es": "",
+        "ru": "",
+        "zh-CN": "",
+        "ja": "",
+        "hi": "",
+        "ur": "",
+        "fa": "",
+        "pt": ""
+      },
+      "hero": {
+        "intro": {
+          "tr": "Gizlilik, bütünlük ve güvenli erişim yaklaşımımız.",
+          "en": "Our approach to confidentiality, integrity and secure access.",
+          "ar": "نهجنا للسرية وسلامة المعلومات والوصول الآمن.",
+          "de": "",
+          "fr": "",
+          "it": "",
+          "es": "",
+          "ru": "",
+          "zh-CN": "",
+          "ja": "",
+          "hi": "",
+          "ur": "",
+          "fa": "",
+          "pt": ""
+        }
+      },
+      "sections": [
+        {
+          "id": "ilkeler",
+          "type": "prose",
+          "title": {
+            "tr": "Güvenlik ilkeleri",
+            "en": "Security principles",
+            "ar": "مبادئ الأمن",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Bilgi güvenliğinin amacı, hizmet için kullanılan bilgilerin gizliliğini ve doğruluğunu korumak, yetkisiz erişimi önlemek ve erişimin iş ihtiyacıyla sınırlı olmasını sağlamaktır. Bilgiye erişim, ilgili görev ve hizmetin gerektirdiği kapsamda değerlendirilir.",
+              "en": "Information security aims to protect the confidentiality and accuracy of service information, prevent unauthorised access and limit access to business needs. Access is considered within the scope required by the relevant role or service.",
+              "ar": "يهدف أمن المعلومات إلى حماية سرية ودقة المعلومات المستخدمة للخدمة ومنع الوصول غير المصرح به وقصره على احتياجات العمل. يُحدد الوصول ضمن نطاق الوظيفة أو الخدمة المعنية.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "odeme",
+          "type": "prose",
+          "title": {
+            "tr": "Ödeme ve iletişim güvenliği",
+            "en": "Payment and communication safety",
+            "ar": "أمان الدفع والتواصل",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Destek ekibine kartınızın tamamını, CVV kodunu veya banka doğrulama kodunu iletmeyin. Ödeme işlemlerinde aktif satış kanalının yetkili ödeme sağlayıcısı ve işlem ekranında sunulan doğrulama adımlarını kullanın. E-posta veya mesajla gelen beklenmedik ödeme taleplerini doğrulamadan işlem yapmayın.",
+              "en": "Do not send full card details, CVV or bank verification codes to support. Use the active sales channel’s authorised payment provider and the verification steps presented during the transaction. Verify unexpected payment requests received by email or message before acting.",
+              "ar": "لا ترسل تفاصيل البطاقة الكاملة أو رمز CVV أو رموز التحقق البنكية إلى الدعم. استخدم مزود الدفع المعتمد لقناة البيع وخطوات التحقق المعروضة أثناء المعاملة. تحقق من طلبات الدفع غير المتوقعة عبر البريد أو الرسائل قبل التصرف.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "bildirim",
+          "type": "prose",
+          "title": {
+            "tr": "Güvenlik bildirimi",
+            "en": "Report a security concern",
+            "ar": "الإبلاغ عن مشكلة أمنية",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Şüpheli işlem, hesap erişimi veya marka adını kullanan yanıltıcı bir mesaj gördüğünüzde müşteri hizmetlerine konunun özeti ve kişisel verileri gizlenmiş ekran görüntüsüyle ulaşın. Başka kişilerin hesaplarına erişmeye çalışmayın; bir güvenlik sorunu bulduysanız yalnızca sorunu açıklamak için gerekli bilgileri paylaşın.",
+              "en": "If you notice a suspicious transaction, account access or misleading message using our name, contact customer care with a description and a screenshot with personal data hidden. Do not try to access other people’s accounts. If you find a security issue, share only what is needed to describe it.",
+              "ar": "عند ملاحظة معاملة أو وصول مشبوه أو رسالة مضللة باسمنا، تواصل مع خدمة العملاء مع وصف ولقطة شاشة تُخفى منها البيانات الشخصية. لا تحاول الوصول إلى حسابات الآخرين. عند اكتشاف مشكلة أمنية، شارك المعلومات الضرورية لوصفها فقط.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "policy-privacy",
+      "url": "sozlesmeler/gizlilik-bildirgesi/index.html",
+      "title": {
+        "tr": "Gizlilik Bildirgesi",
+        "en": "Privacy notice",
+        "ar": "إشعار الخصوصية",
+        "de": "",
+        "fr": "",
+        "it": "",
+        "es": "",
+        "ru": "",
+        "zh-CN": "",
+        "ja": "",
+        "hi": "",
+        "ur": "",
+        "fa": "",
+        "pt": ""
+      },
+      "hero": {
+        "intro": {
+          "tr": "Alışveriş deneyiminizi ve bilgilerinizi önemsiyoruz.",
+          "en": "We value your shopping experience and your information.",
+          "ar": "نهتم بتجربة تسوقك ومعلوماتك.",
+          "de": "",
+          "fr": "",
+          "it": "",
+          "es": "",
+          "ru": "",
+          "zh-CN": "",
+          "ja": "",
+          "hi": "",
+          "ur": "",
+          "fa": "",
+          "pt": ""
+        }
+      },
+      "sections": [
+        {
+          "id": "kapsam",
+          "type": "prose",
+          "title": {
+            "tr": "Hangi bilgiler ve neden?",
+            "en": "What information and why?",
+            "ar": "ما المعلومات ولماذا؟",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Hafız Mustafa 1864 ile ürün inceleme, sipariş veya destek yoluyla iletişiminiz, farklı veri kullanımlarına neden olabilir. Teslimat için adres ve iletişim bilgileri, destek için talebinize ilişkin kayıtlar gerekir. Bu uygulama bölge, ülke, dil ve para birimi tercihlerinizi tarayıcınızda saklayarak tekrar ziyaretinizde seçiminizi hatırlar.",
+              "en": "Browsing products, placing orders or contacting Hafız Mustafa 1864 can involve different uses of data. Delivery needs address and contact details; support needs records relevant to your enquiry. This application remembers region, country, language and currency choices in your browser for return visits.",
+              "ar": "قد تتطلب مشاهدة المنتجات أو الطلب أو التواصل مع Hafız Mustafa 1864 استخدامات مختلفة للبيانات. يتطلب التوصيل العنوان وبيانات التواصل، والدعم سجلات مرتبطة باستفسارك. يتذكر هذا التطبيق المنطقة والبلد واللغة والعملة في متصفحك عند العودة.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "hizmetler",
+          "type": "prose",
+          "title": {
+            "tr": "Hizmet sağlayıcıları ve bağlantılar",
+            "en": "Service providers and connections",
+            "ar": "مقدمو الخدمات والاتصالات",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Sipariş verilen satış kanalında ödeme ve lojistik sağlayıcıları işlemin gerektirdiği verileri kullanabilir. Mağaza haritaları Google Maps üzerinden, bazı marka görselleri harici görsel sunucularından yüklenir. Bu hizmetler yüklendiğinde teknik bağlantı bilgileri ilgili sağlayıcıya iletilebilir. Farklı sağlayıcıların veri uygulamaları kendi hizmet koşullarına tabidir.",
+              "en": "In the sales channel used for an order, payment and logistics providers may use the data necessary for the transaction. Store maps load through Google Maps and some brand images through external image servers. Loading those services may send technical connection information to the provider. Other providers’ data practices follow their own service terms.",
+              "ar": "قد يستخدم مقدمو الدفع والخدمات اللوجستية البيانات اللازمة للمعاملة في قناة البيع المستخدمة. تُحمّل خرائط المتاجر عبر Google Maps وبعض صور العلامة من خوادم صور خارجية. قد يرسل تحميل هذه الخدمات معلومات اتصال تقنية إلى المزود. تخضع ممارسات المزودين الآخرين لشروط خدماتهم.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "tercihler",
+          "type": "prose",
+          "title": {
+            "tr": "Tercihleriniz ve haklarınız",
+            "en": "Your choices and rights",
+            "ar": "خياراتك وحقوقك",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Pazarlama iletişimi için gerekli izinler ayrı değerlendirilir; siteyi kullanmanız tek başına pazarlama onayı sayılmaz. Bilgileriniz ve hak başvurularınız için Kişisel Verilerin Korunması sayfasını, tarayıcıda saklanan tercihler için Çerez Politikası sayfasını inceleyin. Destek yazışmalarında yalnızca talebiniz için gerekli bilgileri paylaşın.",
+              "en": "Marketing permissions are considered separately; using the website alone is not marketing consent. See Personal Data Protection for data rights and the Cookie Policy for browser-stored preferences. Share only the information needed for your support enquiry.",
+              "ar": "تُقيّم أذونات التسويق بشكل منفصل؛ استخدام الموقع وحده لا يُعد موافقة تسويقية. راجع صفحة حماية البيانات الشخصية للحقوق وسياسة ملفات الارتباط للتفضيلات المحفوظة في المتصفح. شارك المعلومات اللازمة لاستفسار الدعم فقط.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "ilgili-politikalar",
+          "type": "cards",
+          "title": {
+            "tr": "İlgili politikalar",
+            "en": "Related policies",
+            "ar": "سياسات ذات صلة",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "items": [
+            {
+              "id": "policy-data",
+              "title": {
+                "tr": "Kişisel Verilerin Korunması",
+                "en": "Personal data protection",
+                "ar": "حماية البيانات الشخصية",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "body": {
+                "tr": "Verileriniz, amaçları ve haklarınız hakkında açık bilgi.",
+                "en": "Clear information about your data, its purposes and your rights.",
+                "ar": "معلومات واضحة عن بياناتك وأغراضها وحقوقك.",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "href": "sozlesmeler/kisisel-verilerin-korunmasi/index.html"
+            },
+            {
+              "id": "policy-security",
+              "title": {
+                "tr": "Bilgi Güvenliği Politikası",
+                "en": "Information security policy",
+                "ar": "سياسة أمن المعلومات",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "body": {
+                "tr": "Gizlilik, bütünlük ve güvenli erişim yaklaşımımız.",
+                "en": "Our approach to confidentiality, integrity and secure access.",
+                "ar": "نهجنا للسرية وسلامة المعلومات والوصول الآمن.",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "href": "sozlesmeler/bilgi-guvenligi-politikasi/index.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "policy-sales",
+      "url": "sozlesmeler/satis-sozlesmesi/index.html",
+      "title": {
+        "tr": "Satış Sözleşmesi",
+        "en": "Sales agreement",
+        "ar": "عقد البيع",
+        "de": "",
+        "fr": "",
+        "it": "",
+        "es": "",
+        "ru": "",
+        "zh-CN": "",
+        "ja": "",
+        "hi": "",
+        "ur": "",
+        "fa": "",
+        "pt": ""
+      },
+      "hero": {
+        "intro": {
+          "tr": "Siparişin tarafları, koşulları ve temel haklar.",
+          "en": "The parties, terms and principal rights for an order.",
+          "ar": "أطراف الطلب وشروطه والحقوق الأساسية.",
+          "de": "",
+          "fr": "",
+          "it": "",
+          "es": "",
+          "ru": "",
+          "zh-CN": "",
+          "ja": "",
+          "hi": "",
+          "ur": "",
+          "fa": "",
+          "pt": ""
+        }
+      },
+      "sections": [
+        {
+          "id": "taraflar",
+          "type": "prose",
+          "title": {
+            "tr": "Taraflar ve kapsam",
+            "en": "Parties and scope",
+            "ar": "الأطراف والنطاق",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Bu sayfa mesafeli satış işlemlerinin genel çerçevesini açıklar. Satıcı; satın alma yapılan ülke ve satış kanalında ön bilgilendirme, fatura ve siparişe özel sözleşmede belirtilen tüzel kişidir. Türkiye online satış kanalında Hamidiye Şekerleme Sanayi ve Ticaret Limited Şirketi unvanı kullanılır. Alıcı, siparişte bilgileri belirtilen kişidir. Siparişe özel taraf ve ürün bilgileri satın alma sırasında sağlanır.",
+              "en": "This page explains the general framework for distance sales. The seller is the legal entity identified in the pre-contract information, invoice and order-specific agreement for the country and sales channel used. The Türkiye online sales channel uses the name Hamidiye Şekerleme Sanayi ve Ticaret Limited Şirketi. The buyer is the person identified in the order. Transaction-specific party and product details are provided at purchase.",
+              "ar": "توضح هذه الصفحة الإطار العام للبيع عن بُعد. البائع هو الكيان القانوني المحدد في المعلومات السابقة للتعاقد والفاتورة والعقد الخاص بالطلب بحسب البلد وقناة البيع. تستخدم قناة البيع الإلكترونية التركية اسم Hamidiye Şekerleme Sanayi ve Ticaret Limited Şirketi. المشتري هو الشخص المحدد في الطلب. تُقدم بيانات الأطراف والمنتجات الخاصة بالمعاملة عند الشراء.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "urun-bedel",
+          "type": "prose",
+          "title": {
+            "tr": "Ürün, bedel ve ödeme",
+            "en": "Products, price and payment",
+            "ar": "المنتجات والسعر والدفع",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Sözleşme konusu ürünün adı, varyantı, adedi, temel nitelikleri, vergiler dahil fiyatı, teslimat ücreti ve toplam bedeli sipariş özetinde yer alır. Alıcı, ödeme öncesinde bu bilgileri kontrol eder ve sunulan ön bilgilendirmeyi okuyarak siparişini onaylar. Ek ücretler onay öncesi açıklanır. Dil ve para birimi tercihi, satıcı tarafını veya uygulanacak zorunlu hukuku kendiliğinden değiştirmez.",
+              "en": "The order summary identifies the product, variant, quantity, essential characteristics, tax-inclusive price, delivery charge and total. The buyer checks these details and reads the pre-contract information before confirming payment. Additional charges are disclosed before confirmation. Choosing a language or currency does not itself change the seller or applicable mandatory law.",
+              "ar": "يوضح ملخص الطلب المنتج والصنف والكمية والخصائص الأساسية والسعر شاملاً الضرائب ورسوم التوصيل والإجمالي. يراجع المشتري هذه التفاصيل والمعلومات السابقة للتعاقد قبل تأكيد الدفع. تُوضح الرسوم الإضافية قبل التأكيد. لا يغير اختيار اللغة أو العملة وحده البائع أو القانون الإلزامي المطبق.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "teslimat",
+          "type": "prose",
+          "title": {
+            "tr": "Teslimat ve sorumluluk",
+            "en": "Delivery and responsibility",
+            "ar": "التوصيل والمسؤولية",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Ürün, kararlaştırılan adrese ve satın alma sırasında belirtilen süre içinde teslim edilir. Türkiye’de mesafeli mal satışları için yasal süre sınırları uygulanır. Alıcı doğru adres ve iletişim bilgilerini sağlar. Satıcının teslimata kadar doğan sorumlulukları ile tüketicinin ayıplı mala ilişkin hakları saklıdır. Teslimat sorunu, hasar veya eksiklik müşteri hizmetlerine bildirilir.",
+              "en": "Products are delivered to the agreed address within the period stated at purchase. Statutory time limits apply to distance sales of goods in Türkiye. The buyer provides accurate address and contact details. The seller’s responsibilities until delivery and the consumer’s rights for defective goods remain unaffected. Report delivery problems, damage or missing items to customer care.",
+              "ar": "تُسلّم المنتجات إلى العنوان المتفق عليه ضمن المدة المحددة عند الشراء. تُطبق الحدود الزمنية القانونية على مبيعات السلع عن بُعد في تركيا. يقدم المشتري بيانات العنوان والتواصل الصحيحة. تبقى مسؤوليات البائع حتى التسليم وحقوق المستهلك في السلع المعيبة محفوظة. أبلغ خدمة العملاء عن مشاكل التوصيل أو التلف أو النقص.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "cayma-uyusmazlik",
+          "type": "prose",
+          "title": {
+            "tr": "Cayma, iade ve uyuşmazlık",
+            "en": "Withdrawal, returns and disputes",
+            "ar": "العدول والإرجاع والنزاعات",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Cayma hakkı, istisnaları ve geri ödeme süreci ürünün niteliği ve uygulanacak mevzuata göre belirlenir; İptal ve İade Koşulları sayfasında genel bilgi sunulur. Bu koşullar tüketicinin zorunlu yasal haklarını sınırlamaz. Türkiye’de tüketici, uyuşmazlığın niteliği ve güncel parasal sınırlara göre yetkili tüketici hakem heyetine veya tüketici mahkemesine başvurabilir. Diğer ülkelerde ilgili zorunlu yerel haklar saklıdır.",
+              "en": "Withdrawal rights, exceptions and refund procedures depend on the product and applicable law; Cancellation and Returns explains the general process. These terms do not restrict mandatory consumer rights. In Türkiye, consumers may apply to the competent consumer arbitration committee or consumer court depending on the dispute and current financial thresholds. Mandatory local rights in other countries remain unaffected.",
+              "ar": "تعتمد حقوق العدول والاستثناءات وإجراءات الاسترداد على المنتج والقانون المطبق؛ توضح صفحة الإلغاء والإرجاع الإجراءات العامة. لا تقيد هذه الشروط الحقوق الإلزامية للمستهلك. في تركيا يمكن اللجوء إلى لجنة تحكيم المستهلك أو المحكمة المختصة وفق نوع النزاع والحدود المالية الحالية. تبقى الحقوق المحلية الإلزامية في البلدان الأخرى محفوظة.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "alisveris-kosullari",
+          "type": "cards",
+          "title": {
+            "tr": "Alışveriş koşulları",
+            "en": "Shopping conditions",
+            "ar": "شروط التسوق",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "items": [
+            {
+              "id": "support-returns",
+              "title": {
+                "tr": "İptal ve İade Koşulları",
+                "en": "Cancellation and returns",
+                "ar": "الإلغاء والإرجاع",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "body": {
+                "tr": "Sipariş değişikliklerini ve ürününüze uygun iade sürecini öğrenin.",
+                "en": "Understand order changes and the return process for your product.",
+                "ar": "تعرف على تعديلات الطلب وإجراءات الإرجاع المناسبة لمنتجك.",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "href": "destek/iptal-iade-kosullari/index.html"
+            },
+            {
+              "id": "support-delivery",
+              "title": {
+                "tr": "Teslimat Koşulları",
+                "en": "Delivery conditions",
+                "ar": "شروط التوصيل",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "body": {
+                "tr": "Tazeliği koruyan, adresinize uygun teslimat.",
+                "en": "Delivery suited to your address, with freshness in mind.",
+                "ar": "توصيل يناسب عنوانك ويحافظ على الطزاجة.",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "href": "destek/teslimat-kosullari/index.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "policy-membership",
+      "url": "sozlesmeler/uyelik-kosullari/index.html",
+      "title": {
+        "tr": "Üyelik Koşulları",
+        "en": "Membership terms",
+        "ar": "شروط العضوية",
+        "de": "",
+        "fr": "",
+        "it": "",
+        "es": "",
+        "ru": "",
+        "zh-CN": "",
+        "ja": "",
+        "hi": "",
+        "ur": "",
+        "fa": "",
+        "pt": ""
+      },
+      "hero": {
+        "intro": {
+          "tr": "Hesabınızı ve dijital hizmetlerin kullanımını yöneten ilkeler.",
+          "en": "Principles for accounts and the use of digital services.",
+          "ar": "مبادئ الحسابات واستخدام الخدمات الرقمية.",
+          "de": "",
+          "fr": "",
+          "it": "",
+          "es": "",
+          "ru": "",
+          "zh-CN": "",
+          "ja": "",
+          "hi": "",
+          "ur": "",
+          "fa": "",
+          "pt": ""
+        }
+      },
+      "sections": [
+        {
+          "id": "uyelik",
+          "type": "prose",
+          "title": {
+            "tr": "Hesap ve doğru bilgiler",
+            "en": "Account and accurate information",
+            "ar": "الحساب والمعلومات الصحيحة",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Üyelik hizmetinin sunulduğu satış kanalında, hesabınızı kendi bilgilerinizle oluşturun ve iletişim bilgilerinizi güncel tutun. Üyelik, siteye veya her ürüne erişim için otomatik bir zorunluluk değildir; ilgili hizmetin koşulları işlem sırasında açıklanır. Hesap bilgilerini başka kişiler adına izinsiz kullanmayın.",
+              "en": "Where account services are available in a sales channel, create your account with your own details and keep contact information current. Membership is not automatically required to view the website or every product; conditions for the relevant service are explained during the transaction. Do not use another person’s details without permission.",
+              "ar": "عندما تتوفر خدمات الحساب في قناة البيع، أنشئ حسابك ببياناتك وحافظ على تحديث معلومات التواصل. العضوية ليست شرطاً تلقائياً لعرض الموقع أو كل منتج؛ تُوضح شروط الخدمة عند المعاملة. لا تستخدم بيانات شخص آخر دون إذن.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "kullanim",
+          "type": "prose",
+          "title": {
+            "tr": "Güvenli ve hukuka uygun kullanım",
+            "en": "Safe and lawful use",
+            "ar": "الاستخدام الآمن والقانوني",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Hesap şifrenizin güvenliğini koruyun; şüpheli erişimi bildirin. Hizmetleri yanıltıcı sipariş, izinsiz veri toplama, zararlı yazılım veya başkalarının kullanımını engelleyen işlemler için kullanmayın. Marka, tasarım ve içeriklere ilişkin fikri mülkiyet haklarına saygı gösterin.",
+              "en": "Keep your password secure and report suspicious access. Do not use services for fraudulent orders, unauthorised data collection, malicious software or interference with others’ access. Respect intellectual-property rights in the brand, design and content.",
+              "ar": "احمِ كلمة المرور وأبلغ عن الوصول المشبوه. لا تستخدم الخدمات للطلبات الاحتيالية أو جمع البيانات دون إذن أو البرمجيات الضارة أو عرقلة وصول الآخرين. احترم حقوق الملكية الفكرية للعلامة والتصميم والمحتوى.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "sona-erme",
+          "type": "prose",
+          "title": {
+            "tr": "Tercihler, değişiklikler ve hesap kapatma",
+            "en": "Choices, changes and closing an account",
+            "ar": "الخيارات والتغييرات وإغلاق الحساب",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Üyelik ile pazarlama izni ayrı konulardır. Hesap kapatma veya veri hakları için destek ekibine başvurabilirsiniz; kanuni saklama gerektiren işlem kayıtları hesap kapandığında hemen silinmeyebilir. Hizmet koşullarındaki güncellemeler, kazanılmış hakları ve tüketicinin zorunlu haklarını ortadan kaldırmaz.",
+              "en": "Membership and marketing consent are separate matters. Contact support to close an account or exercise data rights; transaction records required by law may remain after closure. Updates to service terms do not remove accrued or mandatory consumer rights.",
+              "ar": "العضوية والموافقة التسويقية أمران منفصلان. تواصل مع الدعم لإغلاق الحساب أو ممارسة حقوق البيانات؛ قد تبقى سجلات المعاملات المطلوبة قانونياً بعد الإغلاق. لا تلغي تحديثات الشروط الحقوق المكتسبة أو الإلزامية للمستهلك.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "policy-cookies",
+      "url": "sozlesmeler/cerez-politikasi/index.html",
+      "title": {
+        "tr": "Çerez Politikası",
+        "en": "Cookie policy",
+        "ar": "سياسة ملفات الارتباط",
+        "de": "",
+        "fr": "",
+        "it": "",
+        "es": "",
+        "ru": "",
+        "zh-CN": "",
+        "ja": "",
+        "hi": "",
+        "ur": "",
+        "fa": "",
+        "pt": ""
+      },
+      "hero": {
+        "intro": {
+          "tr": "Tarayıcınızda hangi tercihler saklanıyor?",
+          "en": "Which preferences are stored in your browser?",
+          "ar": "ما التفضيلات المحفوظة في متصفحك؟",
+          "de": "",
+          "fr": "",
+          "it": "",
+          "es": "",
+          "ru": "",
+          "zh-CN": "",
+          "ja": "",
+          "hi": "",
+          "ur": "",
+          "fa": "",
+          "pt": ""
+        }
+      },
+      "sections": [
+        {
+          "id": "yerel-depolama",
+          "type": "prose",
+          "title": {
+            "tr": "Çerezler ve yerel depolama",
+            "en": "Cookies and local storage",
+            "ar": "ملفات الارتباط والتخزين المحلي",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Çerezler ve localStorage, tarayıcıda bilgi saklamak için farklı yöntemlerdir. Bu uygulama, bölge, ülke, dil ve para birimi seçiminizi hm1864.react.preferences anahtarıyla localStorage içinde tutar. Seçim bir sonraki ziyaretinizde okunur; ödeme kartı bilgisi bu tercih kaydında tutulmaz.",
+              "en": "Cookies and localStorage are different ways to store information in a browser. This application stores region, country, language and currency under the localStorage key hm1864.react.preferences. Your choice is read on return visits; payment-card information is not stored in this preference record.",
+              "ar": "ملفات الارتباط وlocalStorage طريقتان مختلفتان لحفظ المعلومات في المتصفح. يحفظ هذا التطبيق المنطقة والبلد واللغة والعملة تحت المفتاح hm1864.react.preferences في localStorage. تُقرأ اختياراتك عند العودة؛ لا تُحفظ معلومات بطاقة الدفع في سجل التفضيلات هذا.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "saklama-kontrol",
+          "type": "prose",
+          "title": {
+            "tr": "Süre ve tercihlerin yönetimi",
+            "en": "Duration and managing preferences",
+            "ar": "المدة وإدارة التفضيلات",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Tercih kaydı bu uygulamada süre sınırı olmadan saklanır; tarayıcı verilerini temizlediğinizde veya kayıt kaldırıldığında silinir. Bölge seçim alanından seçimlerinizi değiştirebilirsiniz. Tarayıcınızın site verileri bölümünden kaydı silmek, bir sonraki açılışta yeniden seçim yapmanızı gerektirir. Sepet bu sürümde sayfa oturumunun belleğinde tutulur; kalıcı tarayıcı kaydı değildir.",
+              "en": "The preference record has no expiry set in this application and remains until browser data or the record is cleared. Change your choices through the region selector. Removing the record in your browser’s site-data settings requires a new choice on the next visit. In this version, the basket is held in page-session memory rather than persistent browser storage.",
+              "ar": "لا توجد مدة انتهاء محددة لسجل التفضيلات في هذا التطبيق؛ يبقى حتى مسح بيانات المتصفح أو السجل. غيّر اختياراتك عبر محدد المنطقة. يؤدي حذف السجل من إعدادات بيانات الموقع إلى طلب الاختيار مجدداً في الزيارة التالية. تُحفظ السلة في ذاكرة جلسة الصفحة في هذا الإصدار وليس في تخزين دائم.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        },
+        {
+          "id": "ucuncu-taraf",
+          "type": "prose",
+          "title": {
+            "tr": "Harici hizmetler ve isteğe bağlı teknolojiler",
+            "en": "External services and optional technologies",
+            "ar": "الخدمات الخارجية والتقنيات الاختيارية",
+            "de": "",
+            "fr": "",
+            "it": "",
+            "es": "",
+            "ru": "",
+            "zh-CN": "",
+            "ja": "",
+            "hi": "",
+            "ur": "",
+            "fa": "",
+            "pt": ""
+          },
+          "paragraphs": [
+            {
+              "tr": "Harita, harici görsel ve satış kanalına bağlı ödeme hizmetleri kendi teknik veri ve saklama yöntemlerini kullanabilir. Bu uygulama kodunda reklam veya analitik çerez kurulumu tanımlanmamıştır. Böyle bir teknoloji eklenirse amacı, sağlayıcısı, süresi ve gerekli izinleri ayrıca açıklanmalıdır. Siteyi ziyaret etmek veya bu metni okumak, isteğe bağlı izleme için açık rıza değildir.",
+              "en": "Maps, external images and payment services in a sales channel may use their own technical data and storage methods. This application code defines no advertising or analytics cookie installation. If such technology is added, its purpose, provider, duration and required permissions must be described separately. Visiting the site or reading this text is not explicit consent to optional tracking.",
+              "ar": "قد تستخدم الخرائط والصور الخارجية وخدمات الدفع في قناة البيع طرقها الخاصة للبيانات التقنية والتخزين. لا يحدد كود هذا التطبيق تثبيت ملفات ارتباط للإعلانات أو التحليلات. عند إضافة هذه التقنيات يجب توضيح الغرض والمزود والمدة والأذونات المطلوبة بشكل منفصل. زيارة الموقع أو قراءة النص ليست موافقة صريحة على التتبع الاختياري.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -533,6 +533,24 @@
                       "children": [
                         "@text:template.0053"
                       ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "href": "sozlesmeler/uyelik-kosullari/index.html"
+                      },
+                      "children": [
+                        "@text:page.0048"
+                      ]
+                    },
+                    {
+                      "tag": "a",
+                      "attrs": {
+                        "href": "sozlesmeler/cerez-politikasi/index.html"
+                      },
+                      "children": [
+                        "@text:page.0049"
+                      ]
                     }
                   ]
                 }

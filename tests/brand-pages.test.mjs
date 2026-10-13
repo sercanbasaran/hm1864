@@ -10,7 +10,7 @@ const read = async (p) =>
 const { catalog: data } = await loadAuthoringData(read),
   routes = JSON.parse(await fs.readFile("src/routes.json", "utf8"));
 test("all corporate and heritage pages resolve, localize and follow the sitemap", () => {
-  assert.equal(data.brandPages.length, 14);
+  assert.equal(data.brandPages.length, 29);
   for (const page of data.brandPages) {
     for (const lang of ["tr", "en", "ar"])
       assert.ok(brandText(page.title, lang));
@@ -41,6 +41,27 @@ test("all corporate and heritage pages resolve, localize and follow the sitemap"
           assert.notEqual(resolve("/" + item.href, data, routes).kind, "404");
         }
   }
+});
+
+test("support and policy pages cover sitemap routes without placeholders or fabricated services", async () => {
+  const pages=data.brandPages.filter(p=>["destek","sozlesmeler"].includes(p.groupId));
+  assert.equal(pages.length,15);
+  for(const page of pages){
+    assert.equal(resolve('/'+page.url,data,routes).kind,'brand');
+    assert.equal(page.hero.image,undefined);
+    for(const lang of ['tr','en','ar'])assert.ok(page.hero.intro[lang]);
+    assert.ok((await fs.stat('dist/'+page.url)).size>0);
+  }
+  const faq=pages.find(p=>p.id==='support-faq').sections[0];
+  assert.equal(faq.searchable,true);assert.equal(faq.items.length,6);
+  const contacts=pages.find(p=>p.id==='support-customer').sections.find(s=>s.type==='contacts');
+  assert.equal(contacts.items[0].email,'online@hafizmustafa.com');
+  assert.equal(contacts.items[1].email,'care@hm1864.ae');
+  const cookie=pages.find(p=>p.id==='policy-cookies');
+  assert.ok(cookie.sections[0].paragraphs[0].tr.includes('hm1864.react.preferences'));
+  const css=await fs.readFile('src/style.css','utf8');
+  const palette=css.slice(css.indexOf('/* Corporate and heritage editorial experience:'));
+  assert.ok(!/#(?:cba052|d8bc80|253a37|1c302e|9e7c3e)/i.test(palette));
 });
 
 test("brand details and document readers use authored content and local documents", async () => {
