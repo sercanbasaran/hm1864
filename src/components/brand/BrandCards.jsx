@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { brandText } from "../../brand-content.js";
 import BrandImage from "./BrandImage.jsx";
+import BrandDocument from "./BrandDocument.jsx";
 import { local } from "../../utils/urls.js";
 export default function BrandCards({ section, language, labels }) {
   const [filter, setFilter] = useState("all");
@@ -48,13 +49,16 @@ export default function BrandCards({ section, language, labels }) {
             )}
             <h3>{text(item.title)}</h3>
             {item.body && <p dir="auto">{text(item.body)}</p>}
+            {item.detail?.paragraphs?.length > 0 && (
+              <details className="brand-card-reading">
+                <summary>{text(labels.readMore)}</summary>
+                <div>{item.detail.paragraphs.map((paragraph, index) => <p key={index} dir="auto">{text(paragraph)}</p>)}</div>
+              </details>
+            )}
+            {item.document && <BrandDocument document={item.document} title={item.title} language={language} labels={labels} />}
             {item.href && (
               <a
                 href={local(item.href)}
-                target={/^https?:/.test(item.href) ? "_blank" : undefined}
-                rel={
-                  /^https?:/.test(item.href) ? "noopener noreferrer" : undefined
-                }
               >
                 {text(item.action || labels.explore)}{" "}
                 <span aria-hidden="true">↗</span>

@@ -193,12 +193,23 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.equal(window.document.querySelectorAll('#haberler .brand-card').length,3);
  window.document.querySelectorAll('#haberler .brand-filters button')[2].click();await wait();
  assert.equal(window.document.querySelectorAll('#haberler .brand-card').length,1);
+ const reading=window.document.querySelector('#haberler .brand-card-reading');
+ reading.open=true;await wait();assert.ok(reading.querySelectorAll('p').length>=2);
+ assert.equal(window.document.querySelectorAll('.brand-page a[href^="http"]').length,0);
  assert.equal(window.document.querySelectorAll('header.site-header').length,1);
  const timelineLink=window.document.createElement('a');timelineLink.href='/asirlik-miras/donum-noktalari/index.html';window.document.querySelector('#main').appendChild(timelineLink);timelineLink.click();await wait();
  assert.equal(window.document.querySelectorAll('.brand-timeline>li').length,8);
  window.document.querySelectorAll('.brand-filters button')[1].click();await wait();assert.equal(window.document.querySelectorAll('.brand-timeline>li').length,3);
  window.document.querySelector('.brand-timeline .brand-image button').click();await wait();assert.ok(window.document.querySelector('dialog.lightbox-dialog[open]'));
  window.document.querySelector('.dialog-close').click();await wait();assert.equal(window.document.querySelector('dialog'),null);
+ const certLink=window.document.createElement('a');certLink.href='/kurumsal/sertifikalarimiz/index.html';window.document.querySelector('#main').appendChild(certLink);certLink.click();await wait();
+ assert.equal(window.document.querySelectorAll('.brand-document').length,2);
+ assert.equal(window.document.querySelector('.brand-document iframe'),null);
+ const reader=window.document.querySelector('.brand-document details');reader.open=true;reader.dispatchEvent(new window.Event('toggle'));await wait();
+ assert.ok(reader.querySelector('iframe').getAttribute('src').startsWith('/assets/documents/kurumsal/sertifikalar.pdf#page='));
+ assert.equal(reader.querySelector('a[download]').getAttribute('href'),'/assets/documents/kurumsal/sertifikalar.pdf');
+ window.document.querySelector('.brand-document .brand-image button').click();await wait();assert.ok(window.document.querySelector('dialog.lightbox-dialog[open]'));
+ window.document.querySelector('.dialog-close').click();await wait();
 
  }finally{window.happyDOM.abort();}
 });

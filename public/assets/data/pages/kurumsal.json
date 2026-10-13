@@ -181,6 +181,54 @@
       "ur": "",
       "fa": "",
       "pt": ""
+    },
+    "readMore": {
+      "tr": "Devamını oku",
+      "en": "Read more",
+      "ar": "اقرأ المزيد",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "viewDocument": {
+      "tr": "Belgenin tamamını göster",
+      "en": "Show full document",
+      "ar": "عرض الوثيقة كاملة",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "downloadDocument": {
+      "tr": "PDF indir",
+      "en": "Download PDF",
+      "ar": "تنزيل PDF",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
     }
   },
   "pages": [
@@ -402,9 +450,9 @@
                 },
                 "generated": false,
                 "caption": {
-                  "tr": "Avni Ongurlar · Resmi marka arşivi",
-                  "en": "Avni Ongurlar · Official house archive",
-                  "ar": "أفني أونغورلار · أرشيف العلامة الرسمي",
+                  "tr": "Avni Ongurlar",
+                  "en": "Avni Ongurlar",
+                  "ar": "أفني أونغورلار",
                   "de": "",
                   "fr": "",
                   "it": "",
@@ -581,24 +629,6 @@
             }
           ]
         }
-      ],
-      "sourceUrls": [
-        "https://www.hafizmustafa.com/vi-zyon-ve-mi-syon",
-        "https://online.hafizmustafa.com/en/principles-and-values",
-        "https://www.hafizmustafa.com/politikalarımız",
-        "https://www.hafizmustafa.com/_files/ugd/99649a_58526789f6fa4891b81c7aea0fcbd4c3.pdf",
-        "https://www.hafizmustafa.com/i-nsan-kaynaklari",
-        "https://www.hm1864.ae/our-history/",
-        "https://www.hm1864.ae/our-source-of-pride/",
-        "https://www.hm1864.ae/blog/maher-zain-and-hafiz-mustafa-share-a-special-night-in-istanbul/",
-        "https://www.hm1864.ae/blog/hafiz-mustafa-1864-honored-at-uk-family-business-event-in-parliament/",
-        "https://www.hafizmustafa.com/temel-i-lke-ve-değerleri-mi-z",
-        "https://www.hafizmustafa.com/kari-yer-yöneti-mi-mi-z",
-        "https://www.hafizmustafa.com/i̇ş-başvurusu",
-        "https://online.hafizmustafa.com/career-management",
-        "https://static.ticimax.cloud/38078/uploads/dosyalar/hmcert.pdf",
-        "https://www.hm1864.ae/blog/",
-        "https://www.hm1864.ae/blog/hafiz-mustafa-1864-adds-florentia-village-to-its-istanbul-addresses/"
       ]
     },
     {
@@ -875,10 +905,6 @@
             "generated": true
           }
         }
-      ],
-      "sourceUrls": [
-        "https://www.hafizmustafa.com/vi-zyon-ve-mi-syon",
-        "https://online.hafizmustafa.com/en/principles-and-values"
       ]
     },
     {
@@ -977,9 +1003,9 @@
                 "pt": ""
               },
               "body": {
-                "tr": "Üretimden dağıtıma uzanan süreçlerde izlenebilirlik, eğitim ve sürekli iyileştirme esas alınır.",
-                "en": "Traceability, training and continuous improvement guide the journey from production to distribution.",
-                "ar": "تسترشد رحلة الإنتاج والتوزيع بالتتبع والتدريب والتحسين المستمر.",
+                "tr": "Üretimden dağıtıma kadar gıda güvenliğini, izlenebilirliği ve sürekli gelişimi esas alan çalışma yaklaşımımız.",
+                "en": "Our approach to food safety, traceability and continuous development from production through distribution.",
+                "ar": "نهجنا لسلامة الغذاء والتتبع والتطور المستمر من الإنتاج إلى التوزيع.",
                 "de": "",
                 "fr": "",
                 "it": "",
@@ -992,23 +1018,47 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hafizmustafa.com/_files/ugd/99649a_58526789f6fa4891b81c7aea0fcbd4c3.pdf",
               "tag": "quality",
-              "action": {
-                "tr": "Politika belgesini aç · PDF",
-                "en": "Open policy document · PDF",
-                "ar": "فتح وثيقة السياسة · PDF",
-                "de": "",
-                "fr": "",
-                "it": "",
-                "es": "",
-                "ru": "",
-                "zh-CN": "",
-                "ja": "",
-                "hi": "",
-                "ur": "",
-                "fa": "",
-                "pt": ""
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "Üretim süreçlerimizde kalite ve güvenliği birlikte ele alırız. Süreçlerin izlenebilir olması, gerektiğinde geri çağırma uygulamalarının yürütülebilmesi ve personelin sürekli eğitimi bu yaklaşımın parçalarıdır.",
+                    "en": "We approach quality and safety together. Traceable processes, product-recall procedures when needed and continuous staff training are parts of this approach.",
+                    "ar": "نتناول الجودة والسلامة معًا. وتشمل هذه المقاربة تتبع العمليات وإجراءات سحب المنتجات عند الحاجة والتدريب المستمر للعاملين.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  },
+                  {
+                    "tr": "Üretim, bakım, paketleme ve dağıtım dahil tüm bölümlerde takım çalışmasını ve iyileştirme kültürünü destekleriz.",
+                    "en": "Across production, maintenance, packaging and distribution, we support teamwork and a culture of improvement.",
+                    "ar": "ندعم العمل الجماعي وثقافة التحسين في الإنتاج والصيانة والتعبئة والتوزيع.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
+              },
+              "document": {
+                "src": "/assets/documents/kurumsal/kalite-gida-guvenligi.pdf",
+                "page": 1,
+                "preview": "/assets/images/medya/marka/kalite-gida-guvenligi.jpg"
               }
             },
             {
@@ -1029,9 +1079,9 @@
                 "pt": ""
               },
               "body": {
-                "tr": "Hammadde ve üretim koşulları, yayımlanmış kalite ve gıda güvenliği politikasındaki helal ilkeleriyle ele alınır.",
-                "en": "Ingredients and production conditions are addressed through the halal principles of the published quality policy.",
-                "ar": "تتناول السياسة المنشورة المكونات وظروف الإنتاج وفق مبادئ الحلال.",
+                "tr": "Hammadde, üretim koşulları ve ürün sunumunda helal üretim ilkelerini gözetiyoruz.",
+                "en": "We observe halal principles in ingredients, production conditions and product presentation.",
+                "ar": "نراعي مبادئ الحلال في المكونات وظروف الإنتاج وتقديم المنتجات.",
                 "de": "",
                 "fr": "",
                 "it": "",
@@ -1044,8 +1094,27 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hafizmustafa.com/_files/ugd/99649a_58526789f6fa4891b81c7aea0fcbd4c3.pdf",
-              "tag": "quality"
+              "tag": "quality",
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "Üretim koşullarının hijyenik olması ve kullanılan hammaddelerin uygunluğu, bu yaklaşımın temelidir. Ürünlerin hazırlanması ve sunulmasında helal üretim anlayışını sürdürürüz.",
+                    "en": "Hygienic production conditions and suitable raw materials underpin this approach. We maintain halal principles in preparation and presentation.",
+                    "ar": "ظروف الإنتاج الصحية وملاءمة المواد الخام أساس هذا النهج. ونحافظ على مبادئ الحلال في التحضير والتقديم.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
+              }
             },
             {
               "title": {
@@ -1080,8 +1149,27 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hafizmustafa.com/i-nsan-kaynaklari",
-              "tag": "people"
+              "tag": "people",
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "İnsana saygı, tarafsızlık ve eşit yaklaşım çalışma kültürümüzün temelidir. Doğru işe doğru insan anlayışıyla, çalışanlarımızın mesleki gelişimini ve aidiyetini destekleriz.",
+                    "en": "Respect for people, impartiality and equal treatment underpin our work culture. Matching the right people to the right roles, we support development and belonging.",
+                    "ar": "احترام الإنسان والحياد والمساواة أساس ثقافة العمل. وندعم التطور والانتماء عبر ملاءمة الأشخاص للأدوار المناسبة.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
+              }
             }
           ],
           "filters": [
@@ -1125,11 +1213,6 @@
             }
           ]
         }
-      ],
-      "sourceUrls": [
-        "https://www.hafizmustafa.com/politikalarımız",
-        "https://www.hafizmustafa.com/_files/ugd/99649a_58526789f6fa4891b81c7aea0fcbd4c3.pdf",
-        "https://www.hafizmustafa.com/i-nsan-kaynaklari"
       ]
     },
     {
@@ -1281,7 +1364,6 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hm1864.ae/our-source-of-pride/",
               "image": {
                 "src": "https://static.wixstatic.com/media/99649a_af614916eb2c4d31b03e360eb8bc0f3d~mv2.jpg",
                 "alt": {
@@ -1302,9 +1384,9 @@
                 },
                 "generated": false,
                 "caption": {
-                  "tr": "Avni Ongurlar · Resmi marka arşivi",
-                  "en": "Avni Ongurlar · Official house archive",
-                  "ar": "أفني أونغورلار · أرشيف العلامة الرسمي",
+                  "tr": "Avni Ongurlar",
+                  "en": "Avni Ongurlar",
+                  "ar": "أفني أونغورلار",
                   "de": "",
                   "fr": "",
                   "it": "",
@@ -1317,6 +1399,42 @@
                   "fa": "",
                   "pt": ""
                 }
+              },
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "Avni Ongurlar’ın 2007’de devraldığı marka, tarihi kimliğini koruyarak yeni bir uluslararası döneme ilerledi.",
+                    "en": "Following Avni Ongurlar’s stewardship in 2007, the house entered a new international chapter while preserving its historic identity.",
+                    "ar": "مع تولي أفني أونغورلار الإدارة عام 2007، دخلت العلامة مرحلة دولية جديدة مع الحفاظ على هويتها التاريخية.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  },
+                  {
+                    "tr": "Onursal Başkan olarak yaklaşımı; ustalığın, dürüst ticaretin ve aile kültürünün gelecek kuşaklara aktarılması etrafında şekillenir.",
+                    "en": "His approach as Honorary President centres on passing craftsmanship, honest trade and family culture to future generations.",
+                    "ar": "يرتكز نهجه كرئيس فخري على نقل الحرفة والتجارة النزيهة والثقافة العائلية إلى الأجيال المقبلة.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
               }
             },
             {
@@ -1352,7 +1470,42 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hm1864.ae/blog/eren-ongurlar/"
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "Eren Ongurlar, markanın Türkiye ve uluslararası pazarlardaki gelişiminde yer alır. Gelenekle yeni deneyimleri buluşturan yaklaşımı, ürün ve misafirperverlik kültürüyle birlikte ilerler.",
+                    "en": "Eren Ongurlar takes part in the house’s development in Türkiye and international markets, bringing tradition into new experiences alongside its product and hospitality culture.",
+                    "ar": "يشارك إيرين أونغورلار في تطور العلامة في تركيا والأسواق الدولية، جامعًا التقاليد والتجارب الجديدة مع ثقافة المنتجات والضيافة.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  },
+                  {
+                    "tr": "Kültür ve sanatla kurulan bağlar, markanın İstanbul mirasını daha geniş kitlelerle paylaşma anlayışını tamamlar.",
+                    "en": "Connections with culture and the arts complement the house’s approach to sharing its Istanbul heritage with wider audiences.",
+                    "ar": "تكمل الصلات بالثقافة والفنون نهج العلامة في مشاركة إرث إسطنبول مع جمهور أوسع.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
+              }
             },
             {
               "title": {
@@ -1387,16 +1540,45 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hm1864.ae/blog/hafiz-mustafa-1864-honored-at-uk-family-business-event-in-parliament/"
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "Emre Ongurlar, Yönetim Kurulu Başkan Yardımcısı olarak markanın uluslararası gelişiminde yer alır. Londra, bu yolculuğun önemli duraklarından biridir.",
+                    "en": "As Vice Chairman, Emre Ongurlar takes part in the house’s international development. London is an important chapter of that journey.",
+                    "ar": "بصفته نائب رئيس مجلس الإدارة، يشارك إمري أونغورلار في التطور الدولي للعلامة، وتعد لندن محطة مهمة في هذه الرحلة.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  },
+                  {
+                    "tr": "Aile işletmesi yaklaşımı ve Türk tatlı kültürünün temsil edilmesi, uluslararası buluşmalarda öne çıkan çalışma alanları arasındadır.",
+                    "en": "The family-business approach and the representation of Turkish dessert culture are themes of the house’s international encounters.",
+                    "ar": "نهج الشركات العائلية وتمثيل ثقافة الحلويات التركية من محاور لقاءات العلامة الدولية.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
+              }
             }
           ]
         }
-      ],
-      "sourceUrls": [
-        "https://www.hm1864.ae/our-history/",
-        "https://www.hm1864.ae/our-source-of-pride/",
-        "https://www.hm1864.ae/blog/maher-zain-and-hafiz-mustafa-share-a-special-night-in-istanbul/",
-        "https://www.hm1864.ae/blog/hafiz-mustafa-1864-honored-at-uk-family-business-event-in-parliament/"
       ]
     },
     {
@@ -1653,10 +1835,6 @@
             }
           ]
         }
-      ],
-      "sourceUrls": [
-        "https://www.hafizmustafa.com/temel-i-lke-ve-değerleri-mi-z",
-        "https://www.hafizmustafa.com/i-nsan-kaynaklari"
       ]
     },
     {
@@ -1792,12 +1970,12 @@
           }
         },
         {
-          "id": "basvuru",
-          "type": "cards",
+          "id": "basvuru-hazirligi",
+          "type": "prose",
           "title": {
-            "tr": "Bir sonraki adım",
-            "en": "Your next step",
-            "ar": "خطوتك التالية",
+            "tr": "Başvuru için hazırlık",
+            "en": "Preparing your application",
+            "ar": "الاستعداد للتقديم",
             "de": "",
             "fr": "",
             "it": "",
@@ -1810,57 +1988,54 @@
             "fa": "",
             "pt": ""
           },
-          "items": [
+          "paragraphs": [
             {
-              "title": {
-                "tr": "Resmi başvuru formu",
-                "en": "Official application form",
-                "ar": "استمارة التقديم الرسمية",
-                "de": "",
-                "fr": "",
-                "it": "",
-                "es": "",
-                "ru": "",
-                "zh-CN": "",
-                "ja": "",
-                "hi": "",
-                "ur": "",
-                "fa": "",
-                "pt": ""
-              },
-              "body": {
-                "tr": "Güncel pozisyonları resmi formdan inceleyin; bilgilerinizi ve özgeçmişinizi aynı kanaldan iletin.",
-                "en": "Explore current roles on the official form and submit your details and résumé through that channel.",
-                "ar": "اطلع على الوظائف الحالية عبر الاستمارة الرسمية وأرسل بياناتك وسيرتك الذاتية من خلالها.",
-                "de": "",
-                "fr": "",
-                "it": "",
-                "es": "",
-                "ru": "",
-                "zh-CN": "",
-                "ja": "",
-                "hi": "",
-                "ur": "",
-                "fa": "",
-                "pt": ""
-              },
-              "href": "https://www.hafizmustafa.com/i̇ş-başvurusu",
-              "action": {
-                "tr": "Başvuru formuna git",
-                "en": "Open application form",
-                "ar": "فتح استمارة التقديم",
-                "de": "",
-                "fr": "",
-                "it": "",
-                "es": "",
-                "ru": "",
-                "zh-CN": "",
-                "ja": "",
-                "hi": "",
-                "ur": "",
-                "fa": "",
-                "pt": ""
-              }
+              "tr": "Başvuru bilgilerinizde ilgilendiğiniz görev alanını, eğitim geçmişinizi ve iş deneyiminizi açıkça belirtin. İletişim bilgilerinizin güncel olması, değerlendirme sürecinin önemli bir parçasıdır.",
+              "en": "Clearly state your area of interest, education and work experience in your application information. Up-to-date contact details are an important part of the assessment process.",
+              "ar": "وضح مجال اهتمامك وخلفيتك التعليمية وخبرتك العملية في بيانات التقديم. وتعد بيانات الاتصال الحديثة جزءًا مهمًا من عملية التقييم.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            },
+            {
+              "tr": "Özgeçmişinizde görevlerinizi, sorumluluklarınızı ve deneyim sürelerinizi anlaşılır biçimde sıralayın. Güncel özgeçmişinizi PDF veya DOCX formatında hazır tutun.",
+              "en": "Present your roles, responsibilities and experience durations clearly in your résumé. Keep an updated résumé ready in PDF or DOCX format.",
+              "ar": "اعرض أدوارك ومسؤولياتك ومدد خبرتك بوضوح في سيرتك الذاتية، واحتفظ بنسخة محدثة بصيغة PDF أو DOCX.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            },
+            {
+              "tr": "Mesleki gelişim yaklaşımımız; deneyim kazanmayı, sorumlulukların gelişmesini ve uygun rol geçişlerini destekler.",
+              "en": "Our development approach supports gaining experience, growing responsibilities and suitable role transitions.",
+              "ar": "يدعم نهج التطور لدينا اكتساب الخبرة وتوسع المسؤوليات والانتقال المناسب بين الأدوار.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
             }
           ]
         },
@@ -1886,9 +2061,9 @@
           "items": [
             {
               "title": {
-                "tr": "Başvurumu nereden gönderebilirim?",
-                "en": "Where can I apply?",
-                "ar": "أين يمكنني التقديم؟",
+                "tr": "Özgeçmişte hangi bilgiler yer almalı?",
+                "en": "What should a résumé include?",
+                "ar": "ما المعلومات المطلوبة في السيرة الذاتية؟",
                 "de": "",
                 "fr": "",
                 "it": "",
@@ -1902,9 +2077,9 @@
                 "pt": ""
               },
               "body": {
-                "tr": "Yukarıdaki bağlantı, markanın resmi kariyer formunu açar. Başvurular bu form üzerinden iletilir.",
-                "en": "The link above opens the house’s official careers form, where applications can be submitted.",
-                "ar": "يفتح الرابط أعلاه استمارة الوظائف الرسمية التي تستقبل الطلبات.",
+                "tr": "İletişim bilgileri, eğitim, iş deneyimi, üstlenilen görevler ve ilgili beceriler açık ve güncel biçimde yer almalıdır.",
+                "en": "Contact details, education, work experience, responsibilities and relevant skills should be clear and current.",
+                "ar": "ينبغي عرض بيانات الاتصال والتعليم والخبرة والمسؤوليات والمهارات ذات الصلة بوضوح وبصورة محدثة.",
                 "de": "",
                 "fr": "",
                 "it": "",
@@ -1954,12 +2129,6 @@
             }
           ]
         }
-      ],
-      "sourceUrls": [
-        "https://www.hafizmustafa.com/kari-yer-yöneti-mi-mi-z",
-        "https://www.hafizmustafa.com/i-nsan-kaynaklari",
-        "https://www.hafizmustafa.com/i̇ş-başvurusu",
-        "https://online.hafizmustafa.com/career-management"
       ]
     },
     {
@@ -2073,22 +2242,46 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://static.ticimax.cloud/38078/uploads/dosyalar/hmcert.pdf",
-              "action": {
-                "tr": "Belgeyi aç · PDF",
-                "en": "Open certificate · PDF",
-                "ar": "فتح الشهادة · PDF",
-                "de": "",
-                "fr": "",
-                "it": "",
-                "es": "",
-                "ru": "",
-                "zh-CN": "",
-                "ja": "",
-                "hi": "",
-                "ur": "",
-                "fa": "",
-                "pt": ""
+              "document": {
+                "src": "/assets/documents/kurumsal/sertifikalar.pdf",
+                "page": 1,
+                "preview": "/assets/images/medya/marka/iso-9001.jpg"
+              },
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "Hafızlar Gıda İç ve Dış Tic. A.Ş. adına düzenlenmiş belge, ilgili yönetim sisteminin kapsamını ve sertifikasyon koşullarını belirtir.",
+                    "en": "Issued to Hafızlar Gıda İç ve Dış Tic. A.Ş., the document sets out the management system’s scope and certification conditions.",
+                    "ar": "صدرت الوثيقة باسم Hafızlar Gıda İç ve Dış Tic. A.Ş. وتوضح نطاق نظام الإدارة وشروط الاعتماد.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  },
+                  {
+                    "tr": "Geçerlilik, denetimlerin ve sertifikasyon koşullarının sürdürülmesine bağlıdır. Belgenin tamamını aşağıdaki okuma alanında inceleyebilirsiniz.",
+                    "en": "Validity depends on continued audits and certification conditions. The full document can be examined in the reading area below.",
+                    "ar": "تعتمد الصلاحية على استمرار التدقيق والوفاء بشروط الاعتماد. ويمكن فحص الوثيقة كاملة في مساحة القراءة أدناه.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
               }
             },
             {
@@ -2124,22 +2317,46 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://static.ticimax.cloud/38078/uploads/dosyalar/hmcert.pdf",
-              "action": {
-                "tr": "Belgeyi aç · PDF",
-                "en": "Open certificate · PDF",
-                "ar": "فتح الشهادة · PDF",
-                "de": "",
-                "fr": "",
-                "it": "",
-                "es": "",
-                "ru": "",
-                "zh-CN": "",
-                "ja": "",
-                "hi": "",
-                "ur": "",
-                "fa": "",
-                "pt": ""
+              "document": {
+                "src": "/assets/documents/kurumsal/sertifikalar.pdf",
+                "page": 2,
+                "preview": "/assets/images/medya/marka/iso-22000.jpg"
+              },
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "Hafızlar Gıda İç ve Dış Tic. A.Ş. adına düzenlenmiş belge, ilgili yönetim sisteminin kapsamını ve sertifikasyon koşullarını belirtir.",
+                    "en": "Issued to Hafızlar Gıda İç ve Dış Tic. A.Ş., the document sets out the management system’s scope and certification conditions.",
+                    "ar": "صدرت الوثيقة باسم Hafızlar Gıda İç ve Dış Tic. A.Ş. وتوضح نطاق نظام الإدارة وشروط الاعتماد.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  },
+                  {
+                    "tr": "Geçerlilik, denetimlerin ve sertifikasyon koşullarının sürdürülmesine bağlıdır. Belgenin tamamını aşağıdaki okuma alanında inceleyebilirsiniz.",
+                    "en": "Validity depends on continued audits and certification conditions. The full document can be examined in the reading area below.",
+                    "ar": "تعتمد الصلاحية على استمرار التدقيق والوفاء بشروط الاعتماد. ويمكن فحص الوثيقة كاملة في مساحة القراءة أدناه.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
               }
             }
           ]
@@ -2182,9 +2399,6 @@
             }
           ]
         }
-      ],
-      "sourceUrls": [
-        "https://static.ticimax.cloud/38078/uploads/dosyalar/hmcert.pdf"
       ]
     },
     {
@@ -2298,7 +2512,6 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hm1864.ae/blog/hafiz-mustafa-1864-adds-florentia-village-to-its-istanbul-addresses/",
               "image": {
                 "src": "https://api.hm1864.ae/uploads/admin/media/1790499265984-779553.webp",
                 "alt": {
@@ -2320,7 +2533,43 @@
                 "generated": false
               },
               "year": "2026",
-              "tag": "openings"
+              "tag": "openings",
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "18 Eylül 2026’da açılan Florentia Village mağazası, İstanbul’un tatlı mirasını yeni bir alışveriş ve yaşam destinasyonuyla buluşturdu.",
+                    "en": "Opened on 18 September 2026, the Florentia Village store brings Istanbul’s confectionery heritage to a new shopping and lifestyle destination.",
+                    "ar": "افتتح متجر فلورنتيا فيليج في 18 سبتمبر 2026، جامعًا إرث حلويات إسطنبول مع وجهة جديدة للتسوق والحياة.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  },
+                  {
+                    "tr": "Baklava, lokum, kadayıf ve sütlü tatlılardan oluşan seçki, yerli misafirler ve uluslararası ziyaretçiler için yeni bir buluşma noktası sunuyor.",
+                    "en": "The selection of baklava, lokum, kadayif and milk desserts offers a new meeting place for local guests and international visitors.",
+                    "ar": "تقدم تشكيلة البقلاوة والراحة والكنافة وحلويات الحليب ملتقى جديدًا للضيوف المحليين والزوار الدوليين.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
+              }
             },
             {
               "title": {
@@ -2355,7 +2604,6 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hm1864.ae/blog/hafiz-mustafa-1864-honored-at-uk-family-business-event-in-parliament/",
               "image": {
                 "src": "https://api.hm1864.ae/uploads/2026/05/Emre-Ongurlar-British-Parliament-5.webp",
                 "alt": {
@@ -2377,7 +2625,43 @@
                 "generated": false
               },
               "year": "2026",
-              "tag": "culture"
+              "tag": "culture",
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "Londra’daki Thames Pavilion buluşmasında Hafız Mustafa 1864, “Legacy Honor – Cultural Heritage Pride” takdiriyle onurlandırıldı.",
+                    "en": "At the Thames Pavilion gathering in London, Hafız Mustafa 1864 received the “Legacy Honor – Cultural Heritage Pride” distinction.",
+                    "ar": "في لقاء تيمز بافيليون بلندن، حصلت Hafız Mustafa 1864 على تكريم «Legacy Honor – Cultural Heritage Pride».",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  },
+                  {
+                    "tr": "Emre Ongurlar’ın teslim aldığı takdir, aile işletmelerinin kültürel yaşama ve uluslararası ticarete katkısını öne çıkarıyor.",
+                    "en": "Accepted by Emre Ongurlar, the distinction highlights family businesses’ contributions to cultural life and international trade.",
+                    "ar": "يسلط التكريم الذي تسلمه إمري أونغورلار الضوء على مساهمة الشركات العائلية في الحياة الثقافية والتجارة الدولية.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
+              }
             },
             {
               "title": {
@@ -2412,7 +2696,6 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hm1864.ae/blog/hafiz-mustafa-opens-24th-store-at-historic-tersane-istanbul/",
               "image": {
                 "src": "https://api.hm1864.ae/uploads/2025/09/Hafiz-Mustafa-1864-Istanbul-Tershane-1.jpg",
                 "alt": {
@@ -2434,7 +2717,43 @@
                 "generated": false
               },
               "year": "2025",
-              "tag": "openings"
+              "tag": "openings",
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "Tersane İstanbul, markanın şehirdeki buluşma noktalarına katılan yeni adreslerden biri oldu. Tarihi liman çevresi, bu deneyime kendine özgü bir atmosfer katıyor.",
+                    "en": "Tersane Istanbul became one of the house’s new meeting places in the city. Its historic waterfront gives the experience a distinctive atmosphere.",
+                    "ar": "أصبحت ترسانة إسطنبول من عناوين العلامة الجديدة في المدينة، وتمنحها الواجهة المائية التاريخية أجواء مميزة.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  },
+                  {
+                    "tr": "Mağaza; geleneksel tatlılar ve misafirperverlik kültürünü İstanbul’un dönüşen yaşam alanlarından birinde bir araya getiriyor.",
+                    "en": "The store brings traditional desserts and hospitality together in one of Istanbul’s evolving destinations.",
+                    "ar": "يجمع المتجر الحلويات التقليدية وثقافة الضيافة في إحدى وجهات إسطنبول المتجددة.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
+              }
             }
           ],
           "filters": [
@@ -2479,12 +2798,12 @@
           ]
         },
         {
-          "id": "arsiv",
+          "id": "kesif",
           "type": "cards",
           "title": {
-            "tr": "Daha fazlasını keşfedin",
-            "en": "Explore further",
-            "ar": "اكتشف المزيد",
+            "tr": "Markanın dünyasına yakından bakın",
+            "en": "Explore the world of the house",
+            "ar": "استكشف عالم العلامة",
             "de": "",
             "fr": "",
             "it": "",
@@ -2500,9 +2819,9 @@
           "items": [
             {
               "title": {
-                "tr": "Resmi marka günlüğü",
-                "en": "Official house journal",
-                "ar": "المجلة الرسمية للعلامة",
+                "tr": "Eşsiz Hikâyemiz",
+                "en": "Our Distinctive Story",
+                "ar": "حكايتنا الفريدة",
                 "de": "",
                 "fr": "",
                 "it": "",
@@ -2516,9 +2835,9 @@
                 "pt": ""
               },
               "body": {
-                "tr": "Yeni gelişmeler ve kültürel projeler için resmi günlüğü ziyaret edin.",
-                "en": "Visit the official journal for further developments and cultural projects.",
-                "ar": "زر المجلة الرسمية لمتابعة التطورات والمشاريع الثقافية.",
+                "tr": "Bahçekapı’da başlayan bir hikâye, kuşakların hafızasında yaşamaya devam ediyor.",
+                "en": "A story born in Bahçekapı continues in the memories of generations.",
+                "ar": "حكاية بدأت في بهجة قابي وما زالت حية في ذاكرة الأجيال.",
                 "de": "",
                 "fr": "",
                 "it": "",
@@ -2531,15 +2850,45 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hm1864.ae/blog/"
+              "href": "asirlik-miras/essiz-hikayemiz/index.html"
+            },
+            {
+              "title": {
+                "tr": "Başarı ve Ödüllerimiz",
+                "en": "Honours and Recognition",
+                "ar": "الإنجازات والتكريمات",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "body": {
+                "tr": "Lezzete, ustalığa ve kültürel mirasa verilen uluslararası takdir.",
+                "en": "International recognition of taste, craftsmanship and cultural heritage.",
+                "ar": "تقدير دولي للمذاق والحرفة والتراث الثقافي.",
+                "de": "",
+                "fr": "",
+                "it": "",
+                "es": "",
+                "ru": "",
+                "zh-CN": "",
+                "ja": "",
+                "hi": "",
+                "ur": "",
+                "fa": "",
+                "pt": ""
+              },
+              "href": "asirlik-miras/basari-ve-odullerimiz/index.html"
             }
           ]
         }
-      ],
-      "sourceUrls": [
-        "https://www.hm1864.ae/blog/",
-        "https://www.hm1864.ae/blog/hafiz-mustafa-1864-adds-florentia-village-to-its-istanbul-addresses/",
-        "https://www.hm1864.ae/blog/hafiz-mustafa-1864-honored-at-uk-family-business-event-in-parliament/"
       ]
     }
   ]

@@ -32,13 +32,36 @@ test("all corporate and heritage pages resolve, localize and follow the sitemap"
       page.url === page.groupId + "/index.html" ? 2 : 3,
     );
     assert.equal(crumbs.at(-1).label, page.title.en);
-    assert.ok(page.sourceUrls.length);
+    assert.equal(page.sourceUrls, undefined);
     assert.ok(page.sections.length);
     for (const section of page.sections)
       for (const item of section.items || [])
-        if (item.href && !item.href.startsWith("http"))
+        if (item.href) {
+          assert.ok(!/^(?:[a-z]+:|\/\/)/i.test(item.href));
           assert.notEqual(resolve("/" + item.href, data, routes).kind, "404");
+        }
   }
+});
+
+test("brand details and document readers use authored content and local documents", async () => {
+  let documents = 0, details = 0;
+  for (const page of data.brandPages) for (const section of page.sections) for (const item of section.items || []) {
+    if (item.detail) {
+      details++;
+      for (const p of item.detail.paragraphs) for (const lang of ["tr", "en", "ar"]) assert.ok(p[lang]);
+    }
+    if (item.document) {
+      documents++;
+      const pdf = await fs.readFile("public" + item.document.src);
+      assert.equal(pdf.subarray(0, 5).toString(), "%PDF-");
+      assert.ok((await fs.stat("public" + item.document.preview)).size > 10000);
+    }
+  }
+  assert.equal(documents, 3);
+  assert.ok(details >= 10);
+  const files = await Promise.all(["pages/kurumsal.json", "pages/asirlik-miras.json"].map(read));
+  files[0].pages[0].sections[0].items[0].href = "https://example.com/content";
+  assert.throws(() => validateBrandFiles(files), /uygulama içinde/);
 });
 test("generated assets exist and real archive/portrait imagery stays separate", async () => {
   for (const name of ["ustalik.webp", "mimari.webp"])

@@ -181,6 +181,54 @@
       "ur": "",
       "fa": "",
       "pt": ""
+    },
+    "readMore": {
+      "tr": "Devamını oku",
+      "en": "Read more",
+      "ar": "اقرأ المزيد",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "viewDocument": {
+      "tr": "Belgenin tamamını göster",
+      "en": "Show full document",
+      "ar": "عرض الوثيقة كاملة",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
+    },
+    "downloadDocument": {
+      "tr": "PDF indir",
+      "en": "Download PDF",
+      "ar": "تنزيل PDF",
+      "de": "",
+      "fr": "",
+      "it": "",
+      "es": "",
+      "ru": "",
+      "zh-CN": "",
+      "ja": "",
+      "hi": "",
+      "ur": "",
+      "fa": "",
+      "pt": ""
     }
   },
   "pages": [
@@ -332,9 +380,9 @@
                 },
                 "generated": false,
                 "caption": {
-                  "tr": "Avni Ongurlar · Resmi marka arşivi",
-                  "en": "Avni Ongurlar · Official house archive",
-                  "ar": "أفني أونغورلار · أرشيف العلامة الرسمي",
+                  "tr": "Avni Ongurlar",
+                  "en": "Avni Ongurlar",
+                  "ar": "أفني أونغورلار",
                   "de": "",
                   "fr": "",
                   "it": "",
@@ -403,9 +451,9 @@
                 },
                 "generated": false,
                 "caption": {
-                  "tr": "Bahçekapı · Resmi marka arşivi",
-                  "en": "Bahçekapı · Official house archive",
-                  "ar": "بهجة قابي · أرشيف العلامة الرسمي",
+                  "tr": "Bahçekapı",
+                  "en": "Bahçekapı",
+                  "ar": "بهجة قابي",
                   "de": "",
                   "fr": "",
                   "it": "",
@@ -474,9 +522,9 @@
                 },
                 "generated": false,
                 "caption": {
-                  "tr": "Bahçekapı · Resmi marka arşivi",
-                  "en": "Bahçekapı · Official house archive",
-                  "ar": "بهجة قابي · أرشيف العلامة الرسمي",
+                  "tr": "Bahçekapı",
+                  "en": "Bahçekapı",
+                  "ar": "بهجة قابي",
                   "de": "",
                   "fr": "",
                   "it": "",
@@ -603,17 +651,6 @@
             }
           ]
         }
-      ],
-      "sourceUrls": [
-        "https://www.hafizmustafa.com/başkandan-mesaj",
-        "https://www.hm1864.ae/our-source-of-pride/",
-        "https://www.hafizmustafa.com/hakkimizda",
-        "https://www.hm1864.ae/about-us/",
-        "https://www.hm1864.ae/our-history/",
-        "https://www.hm1864.ae/the-heritage-cabinet/",
-        "https://www.hm1864.ae/blog/hafiz-mustafa-brings-ottoman-flavors-to-londons-knightsbridge/",
-        "https://www.hm1864.ae/blog/hafiz-mustafa-1864-honored-at-uk-family-business-event-in-parliament/",
-        "https://www.hm1864.ae/blog/hafiz-mustafas-triumph-at-bbc-good-food-awards/"
       ]
     },
     {
@@ -678,9 +715,9 @@
           "id": "mesaj",
           "type": "prose",
           "title": {
-            "tr": "Avni Ongurlar’ın mesajından",
-            "en": "From Avni Ongurlar’s message",
-            "ar": "من رسالة أفني أونغورلار",
+            "tr": "Birlikte geleceğe",
+            "en": "Towards the future, together",
+            "ar": "نحو المستقبل معًا",
             "de": "",
             "fr": "",
             "it": "",
@@ -695,9 +732,9 @@
           },
           "paragraphs": [
             {
-              "tr": "Başarının temelinde aidiyet, adalet ve karşılıklı destek olduğuna inanıyoruz. Her çalışma arkadaşımızın fikrine değer veren, çözüm odaklı bir aile kültürüyle ilerliyoruz.",
-              "en": "We believe belonging, fairness and mutual support underpin success. A solution-focused family culture gives every colleague’s ideas value.",
-              "ar": "نؤمن بأن الانتماء والعدالة والدعم المتبادل أساس النجاح. ونمضي بثقافة عائلية تقدر آراء الزملاء وتركز على الحلول.",
+              "tr": "Hafız Mustafa 1864’ün gücü, aynı amaç etrafında buluşan insanlarından gelir. Birlikte çalışmayı bir aile olmanın sorumluluğu olarak görüyoruz.",
+              "en": "The strength of Hafız Mustafa 1864 comes from people united by a shared purpose. Working together carries the responsibility of belonging to a family.",
+              "ar": "تنبع قوة Hafız Mustafa 1864 من أشخاص يجمعهم هدف واحد. والعمل معًا يحمل مسؤولية الانتماء إلى عائلة.",
               "de": "",
               "fr": "",
               "it": "",
@@ -711,9 +748,57 @@
               "pt": ""
             },
             {
-              "tr": "Geleneğe bağlılık ve özverili çalışma, mirasımızı geleceğe taşırken yolumuzu belirliyor. Misafirlerimizin güvenini, her gün gösterdiğimiz özenle korumayı amaçlıyoruz.",
-              "en": "Loyalty to tradition and dedicated work guide the future of our heritage. We aim to preserve guests’ trust through the care shown each day.",
-              "ar": "الوفاء للتقاليد والعمل المخلص يوجهان مستقبل إرثنا. ونسعى لحماية ثقة الضيوف بالعناية التي نظهرها كل يوم.",
+              "tr": "Adalet, karşılıklı saygı ve açık iletişim; huzurlu bir çalışma ortamının temelidir. Her çalışma arkadaşımızın fikrini önemser, gelişimini destekleriz.",
+              "en": "Fairness, mutual respect and open communication underpin a peaceful workplace. Every colleague’s ideas matter, and we support their development.",
+              "ar": "العدالة والاحترام المتبادل والتواصل الواضح أساس بيئة عمل مطمئنة. نقدر آراء كل زميل وندعم تطوره.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            },
+            {
+              "tr": "Ustalık, gayret ve sabırla gelişir. Başarıya giden yolumuz, kendi kimliğimizi ve bize emanet edilen reçetelerin karakterini koruyarak çalışmaktan geçer.",
+              "en": "Craft grows through effort and patience. Our path to success is to work while preserving our identity and the character of the recipes entrusted to us.",
+              "ar": "تنمو الحرفة بالاجتهاد والصبر. وطريق نجاحنا هو العمل مع الحفاظ على هويتنا وطابع الوصفات المؤتمنة لدينا.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            },
+            {
+              "tr": "İstanbul’da başlayan mirasımızı daha geniş sofralara taşırken, misafirlerimizin güvenini her gün yeniden kazanmayı amaçlıyoruz.",
+              "en": "As we carry our Istanbul heritage to more tables, we aim to earn our guests’ trust anew each day.",
+              "ar": "ونحن ننقل إرث إسطنبول إلى موائد أوسع، نسعى لكسب ثقة ضيوفنا من جديد كل يوم.",
+              "de": "",
+              "fr": "",
+              "it": "",
+              "es": "",
+              "ru": "",
+              "zh-CN": "",
+              "ja": "",
+              "hi": "",
+              "ur": "",
+              "fa": "",
+              "pt": ""
+            },
+            {
+              "tr": "Bu yolculuğu mümkün kılan çalışma arkadaşlarımıza, misafirlerimize ve iş ortaklarımıza teşekkür ediyoruz. Geleceği aynı özenle, birlikte kuruyoruz.",
+              "en": "We thank the colleagues, guests and business partners who make this journey possible. Together, we build the future with the same care.",
+              "ar": "نشكر الزملاء والضيوف وشركاء العمل الذين يجعلون هذه الرحلة ممكنة. ومعًا نبني المستقبل بالعناية نفسها.",
               "de": "",
               "fr": "",
               "it": "",
@@ -747,9 +832,9 @@
             },
             "generated": false,
             "caption": {
-              "tr": "Avni Ongurlar · Resmi marka arşivi",
-              "en": "Avni Ongurlar · Official house archive",
-              "ar": "أفني أونغورلار · أرشيف العلامة الرسمي",
+              "tr": "Avni Ongurlar",
+              "en": "Avni Ongurlar",
+              "ar": "أفني أونغورلار",
               "de": "",
               "fr": "",
               "it": "",
@@ -779,68 +864,7 @@
             "fa": "",
             "pt": ""
           }
-        },
-        {
-          "id": "tam-mesaj",
-          "type": "cards",
-          "title": {
-            "tr": "Mesajın tamamı",
-            "en": "Read the full message",
-            "ar": "قراءة الرسالة كاملة",
-            "de": "",
-            "fr": "",
-            "it": "",
-            "es": "",
-            "ru": "",
-            "zh-CN": "",
-            "ja": "",
-            "hi": "",
-            "ur": "",
-            "fa": "",
-            "pt": ""
-          },
-          "items": [
-            {
-              "title": {
-                "tr": "Resmi mesajı okuyun",
-                "en": "Read the official message",
-                "ar": "اقرأ الرسالة الرسمية",
-                "de": "",
-                "fr": "",
-                "it": "",
-                "es": "",
-                "ru": "",
-                "zh-CN": "",
-                "ja": "",
-                "hi": "",
-                "ur": "",
-                "fa": "",
-                "pt": ""
-              },
-              "body": {
-                "tr": "Bu sayfa, yayımlanmış yönetim mesajının kısa bir özetini sunar.",
-                "en": "This page presents a concise summary of the published management message.",
-                "ar": "تقدم هذه الصفحة ملخصًا موجزًا للرسالة الإدارية المنشورة.",
-                "de": "",
-                "fr": "",
-                "it": "",
-                "es": "",
-                "ru": "",
-                "zh-CN": "",
-                "ja": "",
-                "hi": "",
-                "ur": "",
-                "fa": "",
-                "pt": ""
-              },
-              "href": "https://www.hafizmustafa.com/başkandan-mesaj"
-            }
-          ]
         }
-      ],
-      "sourceUrls": [
-        "https://www.hafizmustafa.com/başkandan-mesaj",
-        "https://www.hm1864.ae/our-source-of-pride/"
       ]
     },
     {
@@ -974,9 +998,9 @@
             },
             "generated": false,
             "caption": {
-              "tr": "Bahçekapı · Resmi marka arşivi",
-              "en": "Bahçekapı · Official house archive",
-              "ar": "بهجة قابي · أرشيف العلامة الرسمي",
+              "tr": "Bahçekapı",
+              "en": "Bahçekapı",
+              "ar": "بهجة قابي",
               "de": "",
               "fr": "",
               "it": "",
@@ -1049,11 +1073,6 @@
             "generated": true
           }
         }
-      ],
-      "sourceUrls": [
-        "https://www.hafizmustafa.com/hakkimizda",
-        "https://www.hm1864.ae/about-us/",
-        "https://www.hm1864.ae/our-history/"
       ]
     },
     {
@@ -1230,9 +1249,9 @@
                 },
                 "generated": false,
                 "caption": {
-                  "tr": "Bahçekapı · Resmi marka arşivi",
-                  "en": "Bahçekapı · Official house archive",
-                  "ar": "بهجة قابي · أرشيف العلامة الرسمي",
+                  "tr": "Bahçekapı",
+                  "en": "Bahçekapı",
+                  "ar": "بهجة قابي",
                   "de": "",
                   "fr": "",
                   "it": "",
@@ -1608,12 +1627,6 @@
             }
           ]
         }
-      ],
-      "sourceUrls": [
-        "https://www.hm1864.ae/our-history/",
-        "https://www.hm1864.ae/the-heritage-cabinet/",
-        "https://www.hm1864.ae/blog/hafiz-mustafa-brings-ottoman-flavors-to-londons-knightsbridge/",
-        "https://www.hm1864.ae/blog/hafiz-mustafa-1864-honored-at-uk-family-business-event-in-parliament/"
       ]
     },
     {
@@ -1727,7 +1740,6 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hm1864.ae/the-heritage-cabinet/",
               "image": {
                 "src": "https://api.hm1864.ae/uploads/admin/media/1788208634967-e5a562.webp",
                 "alt": {
@@ -1749,7 +1761,43 @@
                 "generated": false
               },
               "year": "2019",
-              "tag": "taste"
+              "tag": "taste",
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "Sütlü Osmanlı Saray Kadayıfı, 2019’da International Taste Institute değerlendirmesinde Superior Taste Award ile takdir edildi.",
+                    "en": "Milky Ottoman Palace Kadayif received the Superior Taste Award in the International Taste Institute’s 2019 evaluation.",
+                    "ar": "حصلت كنافة القصر العثماني بالحليب على Superior Taste Award في تقييم International Taste Institute لعام 2019.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  },
+                  {
+                    "tr": "Bu takdir, geleneksel bir reçetenin çağdaş lezzet değerlendirmesiyle buluşmasını temsil ediyor.",
+                    "en": "This recognition brings a traditional recipe together with contemporary taste evaluation.",
+                    "ar": "يجمع هذا التكريم وصفة تقليدية مع تقييم معاصر للمذاق.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
+              }
             },
             {
               "title": {
@@ -1784,7 +1832,6 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hm1864.ae/blog/hafiz-mustafas-triumph-at-bbc-good-food-awards/",
               "image": {
                 "src": "https://api.hm1864.ae/uploads/admin/media/1788208641356-92420d.webp",
                 "alt": {
@@ -1806,7 +1853,27 @@
                 "generated": false
               },
               "year": "2023",
-              "tag": "taste"
+              "tag": "taste",
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "2023 BBC Good Food Middle East Magazine Awards’da Baked Goods & Pastry kategorisindeki ödül, markanın bölgedeki lezzet yolculuğuna yeni bir takdir ekledi.",
+                    "en": "The Baked Goods & Pastry award at the 2023 BBC Good Food Middle East Magazine Awards added a distinction to the house’s regional journey.",
+                    "ar": "أضافت جائزة المخبوزات والمعجنات في BBC Good Food Middle East Magazine Awards لعام 2023 تكريمًا جديدًا لرحلة العلامة في المنطقة.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
+              }
             },
             {
               "title": {
@@ -1841,7 +1908,6 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hm1864.ae/our-source-of-pride/",
               "image": {
                 "src": "https://api.hm1864.ae/uploads/admin/media/1788264897692-98d0d3.webp",
                 "alt": {
@@ -1863,7 +1929,27 @@
                 "generated": false
               },
               "year": "2023",
-              "tag": "culture"
+              "tag": "culture",
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "TUTAP, Avni Ongurlar’ı 2023 Kültür ve Turizm Elçisi olarak takdir etti. Bu onur, Türk kültürünün uluslararası tanıtımına verilen değeri vurguluyor.",
+                    "en": "TUTAP recognised Avni Ongurlar as a 2023 Culture and Tourism Ambassador, highlighting the international promotion of Turkish culture.",
+                    "ar": "كرمت TUTAP أفني أونغورلار سفيرًا للثقافة والسياحة لعام 2023، مؤكدة قيمة الترويج الدولي للثقافة التركية.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
+              }
             },
             {
               "title": {
@@ -1898,7 +1984,6 @@
                 "fa": "",
                 "pt": ""
               },
-              "href": "https://www.hm1864.ae/blog/hafiz-mustafa-1864-honored-at-uk-family-business-event-in-parliament/",
               "image": {
                 "src": "https://api.hm1864.ae/uploads/admin/media/1789786301382-57beff.webp",
                 "alt": {
@@ -1920,7 +2005,43 @@
                 "generated": false
               },
               "year": "2026",
-              "tag": "culture"
+              "tag": "culture",
+              "detail": {
+                "paragraphs": [
+                  {
+                    "tr": "Londra’daki Thames Pavilion buluşmasında Hafız Mustafa 1864, “Legacy Honor – Cultural Heritage Pride” takdiriyle onurlandırıldı.",
+                    "en": "At the Thames Pavilion gathering in London, Hafız Mustafa 1864 received the “Legacy Honor – Cultural Heritage Pride” distinction.",
+                    "ar": "في لقاء تيمز بافيليون بلندن، حصلت Hafız Mustafa 1864 على تكريم «Legacy Honor – Cultural Heritage Pride».",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  },
+                  {
+                    "tr": "Emre Ongurlar’ın teslim aldığı takdir, aile işletmelerinin kültürel yaşama ve uluslararası ticarete katkısını öne çıkarıyor.",
+                    "en": "Accepted by Emre Ongurlar, the distinction highlights family businesses’ contributions to cultural life and international trade.",
+                    "ar": "يسلط التكريم الذي تسلمه إمري أونغورلار الضوء على مساهمة الشركات العائلية في الحياة الثقافية والتجارة الدولية.",
+                    "de": "",
+                    "fr": "",
+                    "it": "",
+                    "es": "",
+                    "ru": "",
+                    "zh-CN": "",
+                    "ja": "",
+                    "hi": "",
+                    "ur": "",
+                    "fa": "",
+                    "pt": ""
+                  }
+                ]
+              }
             }
           ],
           "filters": [
@@ -1964,12 +2085,6 @@
             }
           ]
         }
-      ],
-      "sourceUrls": [
-        "https://www.hm1864.ae/the-heritage-cabinet/",
-        "https://www.hm1864.ae/our-source-of-pride/",
-        "https://www.hm1864.ae/blog/hafiz-mustafas-triumph-at-bbc-good-food-awards/",
-        "https://www.hm1864.ae/blog/hafiz-mustafa-1864-honored-at-uk-family-business-event-in-parliament/"
       ]
     },
     {
@@ -2330,10 +2445,6 @@
             }
           ]
         }
-      ],
-      "sourceUrls": [
-        "https://www.hm1864.ae/our-history/",
-        "https://www.hm1864.ae/the-heritage-cabinet/"
       ]
     }
   ]

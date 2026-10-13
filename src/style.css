@@ -4395,3 +4395,14 @@ html:has(.brand-page){scroll-behavior:smooth}
 @media(max-width:767px){.brand-hero{min-height:440px}.brand-hero-content{padding:50px 25px;max-width:100%}.brand-hero h1{font-size:40px}.brand-hero-content>p:not(.brand-eyebrow){font-size:15px}.brand-hero-shade{background:linear-gradient(90deg,#081011dd,#08101188)}.brand-reading-layout{display:block;padding:28px 20px}.brand-chapters{position:static;margin-bottom:40px}.brand-chapters nav{flex-direction:row;overflow-x:auto;border:0;gap:10px;padding:4px 0}.brand-chapters nav a{flex:0 0 auto;max-width:190px;border:1px solid #ddd2bd;padding:9px 14px;margin:0}.brand-back-link{margin-top:14px}.brand-card-grid{grid-template-columns:1fr}.brand-section{margin-bottom:44px}.brand-timeline>li{grid-template-columns:1fr;gap:13px}.brand-timeline-detail{grid-template-columns:1fr}.brand-timeline-detail .brand-image img{max-height:380px}.brand-related{padding:35px 24px;grid-template-columns:1fr;gap:25px}.brand-related h2{font-size:30px}.brand-related-links{grid-template-columns:1fr}.brand-page-end{padding:22px 20px}.brand-section h2{font-size:29px}}
 @media(prefers-reduced-motion:reduce){html:has(.brand-page){scroll-behavior:auto}.brand-card{transition:none}}
 .brand-people .brand-image img{height:300px;object-fit:contain;background:#f2eee4}
+
+/* In-page editorial reading and local document previews */
+.brand-card-reading, .brand-document details { border-top: 1px solid #d7c6a4; margin-top: 20px; padding-top: 16px; }
+.brand-card-reading summary, .brand-document summary { cursor: pointer; color: #631c26; font-weight: 600; padding: 8px 0; }
+.brand-card-reading[open] summary, .brand-document details[open] summary { color: #111; }
+.brand-card-reading p { line-height: 1.85; }
+.brand-document { margin-top: 24px; }
+.brand-document .brand-image { margin: 0; }
+.brand-document .brand-image img { width: 100%; height: auto; max-height: 500px; object-fit: contain; background: #fff; }
+.brand-document iframe { display: block; width: 100%; height: 620px; border: 1px solid #d7c6a4; margin: 16px 0; background: #fff; }
+@media (max-width: 640px) { .brand-document iframe { height: 65vh; } }
