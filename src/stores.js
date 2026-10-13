@@ -32,17 +32,61 @@ export function validateStores(source, languages) {
       const t = s.translations?.[lang.code];
       if (
         !t ||
-        ["name", "address", "hours"].some(
+        ["name", "address"].some(
           (k) => typeof t[k] !== "string" || !t[k].trim(),
-        )
+        ) ||
+        typeof t.hours !== "string"
       )
         throw Error("Mağaza çevirisi eksik: " + s.id + "/" + lang.code);
       for (const key of [...s.products, ...s.features])
         if (!source.texts[key]?.[lang.code])
           throw Error("Mağaza hizmet çevirisi eksik: " + key);
     }
+    if (
+      s.gallery !== undefined &&
+      (!Array.isArray(s.gallery) ||
+        s.gallery.some(
+          (photo) =>
+            !photo ||
+            typeof photo.src !== "string" ||
+            !/^(?:https:\/\/|\/assets\/|assets\/)/.test(photo.src) ||
+            (photo.translations &&
+              Object.values(photo.translations).some(
+                (text) =>
+                  !text ||
+                  ["alt", "caption"].some(
+                    (key) =>
+                      text[key] !== undefined && typeof text[key] !== "string",
+                  ),
+              )),
+        ))
+    )
+      throw Error("Mağaza galeri verisi geçersiz: " + s.id);
   }
   return source;
+}
+export function storeGallery(store, language = "tr") {
+  const photos = store.gallery ?? (store.image ? [{ src: store.image }] : []);
+  const seen = new Set();
+  return photos
+    .filter(
+      (photo) =>
+        photo.src?.trim() && !seen.has(photo.src) && seen.add(photo.src),
+    )
+    .map((photo) => {
+      const text = {
+        ...photo.translations?.tr,
+        ...photo.translations?.[language],
+      };
+      return {
+        ...photo,
+        alt:
+          text.alt ||
+          store.translations[language]?.name ||
+          store.translations.tr.name,
+        caption: text.caption || "",
+      };
+    });
 }
 export const storeText = (data, language, key, values = {}) =>
   (

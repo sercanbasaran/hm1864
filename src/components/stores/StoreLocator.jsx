@@ -97,7 +97,7 @@ export default function StoreLocator({ embedded = false }) {
                   </a>
                 </p>
               )}
-              <p>{s.hours}</p>
+              {s.hours && <p>{s.hours}</p>}
               <div className="store-actions">
                 <button
                   type="button"

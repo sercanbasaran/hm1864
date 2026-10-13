@@ -754,6 +754,70 @@
       "ur": "سلطنت متحدہ",
       "fa": "بریتانیا",
       "pt": "Reino Unido"
+    },
+    "gallery": {
+      "tr": "Mağaza fotoğrafları",
+      "en": "Store photos",
+      "ar": "صور المتجر",
+      "de": "Filialfotos",
+      "fr": "Photos de la boutique",
+      "it": "Foto del negozio",
+      "es": "Fotos de la tienda",
+      "ru": "Фотографии магазина",
+      "zh-CN": "门店照片",
+      "ja": "店舗写真",
+      "hi": "स्टोर की तस्वीरें",
+      "ur": "اسٹور کی تصاویر",
+      "fa": "عکس‌های فروشگاه",
+      "pt": "Fotos da loja"
+    },
+    "enlarge": {
+      "tr": "Fotoğrafı büyüt",
+      "en": "Enlarge photo",
+      "ar": "تكبير الصورة",
+      "de": "Foto vergrößern",
+      "fr": "Agrandir la photo",
+      "it": "Ingrandisci la foto",
+      "es": "Ampliar foto",
+      "ru": "Увеличить фото",
+      "zh-CN": "放大照片",
+      "ja": "写真を拡大",
+      "hi": "तस्वीर बड़ी करें",
+      "ur": "تصویر بڑی کریں",
+      "fa": "بزرگ‌نمایی عکس",
+      "pt": "Ampliar foto"
+    },
+    "previousPhoto": {
+      "tr": "Önceki fotoğraf",
+      "en": "Previous photo",
+      "ar": "الصورة السابقة",
+      "de": "Vorheriges Foto",
+      "fr": "Photo précédente",
+      "it": "Foto precedente",
+      "es": "Foto anterior",
+      "ru": "Предыдущее фото",
+      "zh-CN": "上一张照片",
+      "ja": "前の写真",
+      "hi": "पिछली तस्वीर",
+      "ur": "پچھلی تصویر",
+      "fa": "عکس قبلی",
+      "pt": "Foto anterior"
+    },
+    "nextPhoto": {
+      "tr": "Sonraki fotoğraf",
+      "en": "Next photo",
+      "ar": "الصورة التالية",
+      "de": "Nächstes Foto",
+      "fr": "Photo suivante",
+      "it": "Foto successiva",
+      "es": "Foto siguiente",
+      "ru": "Следующее фото",
+      "zh-CN": "下一张照片",
+      "ja": "次の写真",
+      "hi": "अगली तस्वीर",
+      "ur": "اگلی تصویر",
+      "fa": "عکس بعدی",
+      "pt": "Próxima foto"
     }
   },
   "stores": [
@@ -862,7 +926,73 @@
           "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
           "hours": "08:00 - 02:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/nişantaşı",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_63c7f2adb56a485fa88769833b486ce4~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_63c7f2adb56a485fa88769833b486ce4~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/nişantaşı",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Nişantaşı",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_63c7f2adb56a485fa88769833b486ce4~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "pera",
@@ -965,7 +1095,136 @@
           "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
           "hours": "24 horas, 7 dias por semana"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/pera-1",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_9380a61374f64bf3b7c934f5ed554154~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_9380a61374f64bf3b7c934f5ed554154~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/pera-1",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_9380a61374f64bf3b7c934f5ed554154~mv2.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_d073608df0d942aab1fe22ab8b92ac54~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_d073608df0d942aab1fe22ab8b92ac54~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/pera-1",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Pera",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_d073608df0d942aab1fe22ab8b92ac54~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "nuruosmaniye",
@@ -1069,7 +1328,136 @@
           "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
           "hours": "07:00 - 20:00 · Fechado aos domingos"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/nuruosmaniye",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_fb2365dcd89545e2a284e7db6ba4f6f7~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_fb2365dcd89545e2a284e7db6ba4f6f7~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/nuruosmaniye",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_fb2365dcd89545e2a284e7db6ba4f6f7~mv2.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_8745185db8164046acbd6af7d29228a2~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_8745185db8164046acbd6af7d29228a2~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/nuruosmaniye",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Nuruosmaniye",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_8745185db8164046acbd6af7d29228a2~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "dubai-hills-mall",
@@ -1168,7 +1556,73 @@
           "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
           "hours": "08:00 - 01:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/hi̇lls",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_65f2bb8e79e1449ab5623da2820fa3f1~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_65f2bb8e79e1449ab5623da2820fa3f1~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/hi̇lls",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Dubai Hills Mall",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_65f2bb8e79e1449ab5623da2820fa3f1~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "porta-vadi",
@@ -1273,7 +1727,136 @@
           "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
           "hours": "08:00 - 02:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/vadi",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_cde995cd0f8540d783a32b0741006fc7~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_cde995cd0f8540d783a32b0741006fc7~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/vadi",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_cde995cd0f8540d783a32b0741006fc7~mv2.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_14f7dd1d00a84f13b71e21ff878537c1~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_14f7dd1d00a84f13b71e21ff878537c1~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/vadi",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Porta Vadi",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_14f7dd1d00a84f13b71e21ff878537c1~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "uskudar",
@@ -1381,7 +1964,136 @@
           "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
           "hours": "08:00 - 02:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/üsküdar",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_dfd5d472c206420d8ac392206be02e6a~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_dfd5d472c206420d8ac392206be02e6a~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/üsküdar",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_dfd5d472c206420d8ac392206be02e6a~mv2.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_80618f270c044a12ab999ccebd4f585b~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_80618f270c044a12ab999ccebd4f585b~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/üsküdar",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Üsküdar",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_80618f270c044a12ab999ccebd4f585b~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "taksim",
@@ -1483,7 +2195,136 @@
           "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
           "hours": "24 horas, 7 dias por semana"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/taksim",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_450d74a4514247259988f057cbd0d076~mv2.png/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_450d74a4514247259988f057cbd0d076~mv2.png",
+          "sourceUrl": "https://www.hafizmustafa.com/taksim",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_450d74a4514247259988f057cbd0d076~mv2.png"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_b02a8918bd0944ffafb0f39ce4c2e50b~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_b02a8918bd0944ffafb0f39ce4c2e50b~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/taksim",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Taksim",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_b02a8918bd0944ffafb0f39ce4c2e50b~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "sirkeci",
@@ -1586,7 +2427,136 @@
           "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
           "hours": "24 horas, 7 dias por semana"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/sirkeci",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_913a8b3c18c646c9b057610e8988de28~mv2.png/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_913a8b3c18c646c9b057610e8988de28~mv2.png",
+          "sourceUrl": "https://www.hafizmustafa.com/sirkeci",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_913a8b3c18c646c9b057610e8988de28~mv2.png"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_142b23ab791346dc84eda92d80f5dd5a~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_142b23ab791346dc84eda92d80f5dd5a~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/sirkeci",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Sirkeci",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_142b23ab791346dc84eda92d80f5dd5a~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "london-knightbridge",
@@ -1618,76 +2588,142 @@
       "deliveryPlatforms": [],
       "translations": {
         "tr": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "en": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "ar": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "de": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "fr": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "it": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "es": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "ru": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "zh-CN": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "ja": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "hi": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "ur": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "fa": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         },
         "pt": {
-          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "name": "Hafız Mustafa 1864 London Knightsbridge",
           "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
           "hours": "08:00 - 22:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/london",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_2b7f5c9557d24023a2e5f650cc474ab1~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_2b7f5c9557d24023a2e5f650cc474ab1~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/london",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 London Knightsbridge",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_2b7f5c9557d24023a2e5f650cc474ab1~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "istiklal",
@@ -1790,7 +2826,136 @@
           "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
           "hours": "24 horas, 7 dias por semana"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/i-stiklal",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_ba9aa46d311c46a7b65c0522e10554c1~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_ba9aa46d311c46a7b65c0522e10554c1~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/i-stiklal",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_ba9aa46d311c46a7b65c0522e10554c1~mv2.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_99385a5bd1cf4e0fbbd4ac8743dcec97~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_99385a5bd1cf4e0fbbd4ac8743dcec97~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/i-stiklal",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 İstiklal",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_99385a5bd1cf4e0fbbd4ac8743dcec97~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "galataport",
@@ -1895,7 +3060,136 @@
           "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
           "hours": "08:00 - 02:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/galataport",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_a2c2354a8d9f41649b5d85736a18ad03~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_a2c2354a8d9f41649b5d85736a18ad03~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/galataport",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_a2c2354a8d9f41649b5d85736a18ad03~mv2.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_377e3fdb70e6478586e06685ac459f21~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_377e3fdb70e6478586e06685ac459f21~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/galataport",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Galataport",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_377e3fdb70e6478586e06685ac459f21~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "florya",
@@ -2003,7 +3297,136 @@
           "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
           "hours": "08:00 - 02:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/florya",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_25fa0ad4ea704b6e949006a5d55ed18e~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_25fa0ad4ea704b6e949006a5d55ed18e~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/florya",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_25fa0ad4ea704b6e949006a5d55ed18e~mv2.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_bc18aeb37f254e64bb54181d8500f00a~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_bc18aeb37f254e64bb54181d8500f00a~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/florya",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Florya",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_bc18aeb37f254e64bb54181d8500f00a~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "edebiyat-kiraathanesi",
@@ -2104,7 +3527,136 @@
           "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
           "hours": "08:00 - 02:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/edebiyat-vakfı",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_0394ccc48be94b2d9281efdc32d44ce3~mv2.png/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_0394ccc48be94b2d9281efdc32d44ce3~mv2.png",
+          "sourceUrl": "https://www.hafizmustafa.com/edebiyat-vakfı",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_0394ccc48be94b2d9281efdc32d44ce3~mv2.png"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_3d0b4568faec40f4861233b0feb65127~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_3d0b4568faec40f4861233b0feb65127~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/edebiyat-vakfı",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_3d0b4568faec40f4861233b0feb65127~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "dubai-mall",
@@ -2205,14 +3757,80 @@
           "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
           "hours": "08:00 - 01:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/dubai",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_644d471aeb7a4f74be4a0c8558e82d61~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_644d471aeb7a4f74be4a0c8558e82d61~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/dubai",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_644d471aeb7a4f74be4a0c8558e82d61~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "dubai-mall-of-the-emirates",
       "url": "magazalar/dubai-mall-of-the-emirates/index.html",
       "country": "AE",
       "city": "Dubai",
-      "phone": "",
+      "phone": "+971 4 297 07 59",
       "online": true,
       "image": "",
       "mapQuery": "Hafız Mustafa 1864 Dubai Mall of the Emirates Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
@@ -2304,7 +3922,137 @@
           "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
           "hours": "08:00 - 22:00"
         }
-      }
+      },
+      "phoneSourceUrl": "https://www.hafizmustafa.com/dubai̇moe",
+      "corporateSourceUrl": "https://www.hafizmustafa.com/dubai̇moe",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_1fbab0e764e744b9b738b40eebb845cc~mv2.png/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_1fbab0e764e744b9b738b40eebb845cc~mv2.png",
+          "sourceUrl": "https://www.hafizmustafa.com/dubai̇moe",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_1fbab0e764e744b9b738b40eebb845cc~mv2.png"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_69f003fe9257481f968bcc793cf5260b~mv2.avif/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_69f003fe9257481f968bcc793cf5260b~mv2.avif",
+          "sourceUrl": "https://www.hafizmustafa.com/dubai̇moe",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_69f003fe9257481f968bcc793cf5260b~mv2.avif"
+        }
+      ]
     },
     {
       "id": "bodrum-mandarin-oriental",
@@ -2398,7 +4146,73 @@
           "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
           "hours": "10:00 - 22:00 · Aberto durante a temporada de verão"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/bodrum",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_58af8d67f63b46d7bbe12bc42a8f91f0~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_58af8d67f63b46d7bbe12bc42a8f91f0~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/bodrum",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_58af8d67f63b46d7bbe12bc42a8f91f0~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "beyazit",
@@ -2499,7 +4313,136 @@
           "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
           "hours": "08:00 - 02:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/beyazıt",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_584edaeec1d34d64a4c96cfb291bfd0c~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_584edaeec1d34d64a4c96cfb291bfd0c~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/beyazıt",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_584edaeec1d34d64a4c96cfb291bfd0c~mv2.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_7135a9c8eee44a7e83e1c66255ce51ee~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_7135a9c8eee44a7e83e1c66255ce51ee~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/beyazıt",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Beyazıt",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_7135a9c8eee44a7e83e1c66255ce51ee~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "bahcekapi",
@@ -2603,7 +4546,136 @@
           "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
           "hours": "08:00 - 02:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/bahçekapı",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_74690898ac034c93b222a4b435a45332~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_74690898ac034c93b222a4b435a45332~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/bahçekapı",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_74690898ac034c93b222a4b435a45332~mv2.jpg"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_699fd05c01654f5a8038e8f0b0671510~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_699fd05c01654f5a8038e8f0b0671510~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/bahçekapı",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Bahçekapı",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_699fd05c01654f5a8038e8f0b0671510~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "antalya-the-land-of-legends",
@@ -2701,7 +4773,73 @@
           "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
           "hours": "10:00 - 22:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/antalya",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_6953f30b30124b259bdfa73ff394abdd~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_6953f30b30124b259bdfa73ff394abdd~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/antalya",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Antalya The Land of Legends",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_6953f30b30124b259bdfa73ff394abdd~mv2.jpg"
+        }
+      ]
     },
     {
       "id": "antalya-nickelodeon",
@@ -2799,7 +4937,878 @@
           "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
           "hours": "08:00 - 22:00"
         }
-      }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/antalya2",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_0cda97f79c914dfd84a35e9703caee14~mv2.png/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_0cda97f79c914dfd84a35e9703caee14~mv2.png",
+          "sourceUrl": "https://www.hafizmustafa.com/antalya2",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_0cda97f79c914dfd84a35e9703caee14~mv2.png"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_555e85873d1242ff898e473e2eb6cf96~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_555e85873d1242ff898e473e2eb6cf96~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/antalya2",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Antalya Nickelodeon",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_555e85873d1242ff898e473e2eb6cf96~mv2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "florentia-village",
+      "url": "magazalar/florentia-village/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 501 766 07 41",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Florentia Village İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://www.hafizmustafa.com/kopyası-vadi",
+      "products": [],
+      "features": [],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Florentia Village",
+          "address": "İhsaniye Mah. İhsaniye İstanbul Cad. No:17/234, Eyüpsultan, İstanbul, Türkiye.",
+          "hours": ""
+        }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/kopyası-vadi",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_54630a64f50b48628fce553861c437b7~mv2.jpeg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_54630a64f50b48628fce553861c437b7~mv2.jpeg",
+          "sourceUrl": "https://www.hafizmustafa.com/kopyası-vadi",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Florentia Village",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_54630a64f50b48628fce553861c437b7~mv2.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "tersane-istanbul",
+      "url": "magazalar/tersane-istanbul/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 987 03 81",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Tersane İstanbul Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://www.hafizmustafa.com/hmtersane",
+      "products": [],
+      "features": [],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Tersane İstanbul",
+          "address": "Camiikebir, Taşkızak Tersanesi Caddesi No:5, Kapı No:47B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": ""
+        }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/hmtersane",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_163c9043ab544ec78fb7d6099c459652~mv2.jpg/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_163c9043ab544ec78fb7d6099c459652~mv2.jpg",
+          "sourceUrl": "https://www.hafizmustafa.com/hmtersane",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Tersane İstanbul",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_163c9043ab544ec78fb7d6099c459652~mv2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dubai-jbr",
+      "url": "magazalar/dubai-jbr/index.html",
+      "country": "AE",
+      "city": "Dubai",
+      "phone": "+971 4 577 0345",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://www.hafizmustafa.com/dubaijbr",
+      "products": [],
+      "features": [],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+          "address": "JBR Street - The Walk - Jumeirah Beach Residence, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/dubaijbr",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_6571c2b3b51b45ae89a4bb27e208fb5b~mv2.png/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_6571c2b3b51b45ae89a4bb27e208fb5b~mv2.png",
+          "sourceUrl": "https://www.hafizmustafa.com/dubaijbr",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_6571c2b3b51b45ae89a4bb27e208fb5b~mv2.png"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_62f828f1c2ad4260b42e1a4f8a2d8f51~mv2.png/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_62f828f1c2ad4260b42e1a4f8a2d8f51~mv2.png",
+          "sourceUrl": "https://www.hafizmustafa.com/dubaijbr",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Dubai Jumeirah Beach Residence",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_62f828f1c2ad4260b42e1a4f8a2d8f51~mv2.png"
+        }
+      ]
+    },
+    {
+      "id": "dubai-souk-madinat-jumeirah",
+      "url": "magazalar/dubai-souk-madinat-jumeirah/index.html",
+      "country": "AE",
+      "city": "Dubai",
+      "phone": "+971 4 552 3704",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://www.hafizmustafa.com/soukmadinatjumeirah",
+      "products": [],
+      "features": [],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+          "address": "Souk Madinat Jumeirah - Unit No:MJSF058 - Al Sufouh 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": ""
+        }
+      },
+      "corporateSourceUrl": "https://www.hafizmustafa.com/soukmadinatjumeirah",
+      "gallery": [
+        {
+          "src": "https://static.wixstatic.com/media/99649a_953392c6c1c04ae098cb051f77597291~mv2.png/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_953392c6c1c04ae098cb051f77597291~mv2.png",
+          "sourceUrl": "https://www.hafizmustafa.com/soukmadinatjumeirah",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_953392c6c1c04ae098cb051f77597291~mv2.png"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/99649a_ce3c0f7966184c5d872c5f53c5475490~mv2.png/v1/fit/w_1400,h_1100,q_85,enc_avif,quality_auto/99649a_ce3c0f7966184c5d872c5f53c5475490~mv2.png",
+          "sourceUrl": "https://www.hafizmustafa.com/soukmadinatjumeirah",
+          "translations": {
+            "tr": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "en": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "ar": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "de": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "fr": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "it": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "es": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "ru": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "zh-CN": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "ja": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "hi": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "ur": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "fa": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            },
+            "pt": {
+              "alt": "Hafız Mustafa 1864 Dubai Souk Madinat Jumeirah",
+              "caption": ""
+            }
+          },
+          "originalSrc": "https://static.wixstatic.com/media/99649a_ce3c0f7966184c5d872c5f53c5475490~mv2.png"
+        }
+      ]
     }
+  ],
+  "sourceUrls": [
+    "https://online.hafizmustafa.com/subeler",
+    "https://www.hafizmustafa.com/hm1864-subeler"
   ]
 }

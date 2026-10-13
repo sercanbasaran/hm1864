@@ -1,6 +1,6 @@
 # Hafız Mustafa 1864 — React mağaza arayüzü
 
-React 19 / Vite 8 ile hazırlanmış mağaza ön yüzü. 164 ürün, eski bağlantılar dahil 417 doğrudan sayfa adresi ve bölge/ülke/dil/para birimi seçimi içerir. Ürünler ana kategori bazında düzenlenir; alt kategoriler ayrıca dosyalara bölünmez.
+React 19 / Vite 8 ile hazırlanmış mağaza ön yüzü. 164 ürün, eski bağlantılar dahil 421 doğrudan sayfa adresi ve bölge/ülke/dil/para birimi seçimi içerir. Ürünler ana kategori bazında düzenlenir; alt kategoriler ayrıca dosyalara bölünmez.
 
 ## Yerel çalıştırma
 
@@ -201,7 +201,7 @@ Dil dosyasındaki dolu image alanı ortak ürün görselini geçersiz kılar; bo
 
 ## Mağaza bilgilerinin yönetimi
 
-Mağaza bulucu, ürün sayfasındaki yakın mağaza penceresi ve mağaza detay sayfaları `public/assets/data/stores.json` dosyasından beslenir. Kaynak: https://online.hafizmustafa.com/subeler (13 Ekim 2026). 20 mağaza bulunur; kaynakta bulunmayan Mall of the Emirates telefonu boş bırakılmıştır.
+Mağaza bulucu, ürün sayfasındaki yakın mağaza penceresi ve mağaza detay sayfaları `public/assets/data/stores.json` dosyasından beslenir. Kaynak: https://online.hafizmustafa.com/subeler (13 Ekim 2026). Kurumsal kaynak (https://www.hafizmustafa.com/hm1864-subeler) ile birlikte 24 mağaza bulunur. Mall of the Emirates telefonu kurumsal kaynaktan tamamlanmıştır.
 
 Yeni mağaza için `stores` dizisindeki bir kaydı kopyalayın:
 
@@ -214,8 +214,29 @@ Yeni mağaza için `stores` dizisindeki bir kaydı kopyalayın:
 - `googleMapsUrl`: doğrulanmış Google Maps bağlantınız varsa girin; boşsa `mapQuery` ile yol tarifi bağlantısı oluşturulur.
 - `products`, `features`: dosyanın `texts` alanındaki ürün ve hizmet anahtarları.
 - `deliveryPlatforms`: mağazanın hizmet aldığı platform adları.
-- `translations`: 14 dil için `name`, `address`, `hours`. Posta adresleri ve özel mağaza adları kaynak biçiminde korunur; saat açıklamaları çevrilmiştir.
+- `translations`: 14 dil için `name`, `address`, `hours` (kaynakta saat yoksa boş bırakın; detay sayfasında gösterilmez). Posta adresleri ve özel mağaza adları kaynak biçiminde korunur; saat açıklamaları çevrilmiştir.
 
 Ortak mağaza başlıkları, ülke adları, ürün/hizmet metinleri ve butonlar aynı JSON’daki `texts` alanında, dil kodlarıyla tutulur. Yeni bir hizmet anahtarı eklediğinizde 14 dilde karşılığını da girin. Değişiklikten sonra `npm run build` ve `npm test` çalıştırın. Canlı yayın için değişiklikleri GitHub’a gönderin.
 
 Haritalar Google Maps iframe’iyle yüklenir; Google’ın dış hizmetine erişim gerekir. Konumlar kaynak adresleriyle sorgulanır; doğrulanmamış koordinatlar eklenmemiştir.
+
+### Mağaza fotoğraf galerisi
+
+Her mağazanın `gallery` dizisine fotoğrafları sırasıyla ekleyin. `src` alanına `/assets/images/medya/magazalar/...` şeklinde yerel yol veya `https://...` görsel URL’si yazabilirsiniz. Fotoğrafların alternatif metni ve açıklaması aynı öğenin `translations` alanında tutulur:
+
+```json
+{
+  "src": "/assets/images/medya/magazalar/tersane-01.webp",
+  "translations": {
+    "tr": { "alt": "Tersane İstanbul mağazası", "caption": "" },
+    "en": { "alt": "Tersane Istanbul store", "caption": "" },
+    "ar": { "alt": "متجر ترسانة إسطنبول", "caption": "" }
+  }
+}
+```
+
+Diğer dil kodlarını da aynı `translations` nesnesine ekleyebilirsiniz. Boş alternatif metin yerine o dildeki mağaza adı kullanılır. Boş açıklama gösterilmez. Galeri boşsa bölüm gizlenir; tek fotoğrafta geçiş ve önizleme düğmeleri gösterilmez. Birden fazla fotoğrafta önizlemeler, önceki/sonraki düğmeleri ve klavye okları çalışır. Ana fotoğrafa tıklama büyütme penceresini açar. Galeri bileşeni `src/components/stores/StoreGallery.jsx` içindedir.
+
+Kurumsal mağaza listesi ve detay sayfalarından 40 mağaza fotoğrafı eşleştirildi; Google/Tripadvisor ikonları fotoğraf olarak alınmadı. Görseller resmi Wix CDN kaynağından yüklenir. `sourceUrl` fotoğrafın alındığı mağaza sayfasını belirtir. CDN görsellerinin genişliği en fazla 1400 piksele ayarlanmıştır; `originalSrc` özgün kaynak URL’sini saklar. Kaynakta yalnızca bir fotoğraf bulunan mağazalara ek fotoğraf uydurulmadı.
+
+Florentia Village, Tersane İstanbul, Dubai JBR ve Souk Madinat Jumeirah kayıtlarında kaynakta çalışma saatleri/ürün/hizmet detayları olmadığı için bu alanlar boş bırakılmıştır. Nişantaşı gibi iki resmi kaynakta farklı yazılan telefon/adres alanları bu ekleme sırasında değiştirilmemiştir.

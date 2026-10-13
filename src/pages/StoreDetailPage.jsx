@@ -1,8 +1,8 @@
 import React from "react";
 import { useApp } from "../context/AppContext.jsx";
-import { local } from "../utils/urls.js";
 import { localizeStore, storeMaps, storeText } from "../stores.js";
 import StoreMap from "../components/stores/StoreMap.jsx";
+import StoreGallery from "../components/stores/StoreGallery.jsx";
 export default function StoreDetailPage({ store: source }) {
   const { data, preferences, regions } = useApp(),
     language = preferences?.language || regions.defaultLanguage;
@@ -13,13 +13,7 @@ export default function StoreDetailPage({ store: source }) {
       <h1>{store.name}</h1>
       <div className="store-detail-grid">
         <div>
-          {store.image && (
-            <img
-              className="store-photo"
-              src={local(store.image)}
-              alt={store.name}
-            />
-          )}
+          <StoreGallery key={store.id} store={store} language={language} />
           <dl>
             <dt>{text("address")}</dt>
             <dd>{store.address}</dd>
@@ -33,8 +27,12 @@ export default function StoreDetailPage({ store: source }) {
                 </dd>
               </>
             )}
-            <dt>{text("hours")}</dt>
-            <dd>{store.hours}</dd>
+            {store.hours && (
+              <>
+                <dt>{text("hours")}</dt>
+                <dd>{store.hours}</dd>
+              </>
+            )}
           </dl>
           {store.products.length > 0 && (
             <>

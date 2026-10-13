@@ -4327,3 +4327,14 @@ button,.button,input[type=submit],input[type=button]{border-radius:3px}
 .store-tags{display:flex;flex-wrap:wrap;gap:8px;padding:0;list-style:none}.store-tags li{padding:5px 12px;background:#f7f4ee}
 .store-locator-dialog .store-map{height:350px;min-height:250px}
 @media(max-width:767px){.store-detail-grid{grid-template-columns:1fr;gap:28px}.store-detail .store-map,.store-locator .store-map{height:350px;min-height:300px}.store-detail{width:calc(100% - 32px)}.store-list{padding-right:0}}
+
+.store-gallery{min-width:0;margin-bottom:28px}.store-gallery h2{margin-top:0}.store-gallery figure{margin:0}
+.store-gallery-main{display:block;width:100%;padding:0;border:0;background:#f7f4ee;cursor:zoom-in;overflow:hidden}
+.store-gallery-main img{display:block;width:100%;aspect-ratio:4/3;object-fit:contain;max-height:480px}
+.store-gallery figcaption{margin-top:10px;line-height:1.6}.store-gallery-controls{display:flex;align-items:center;justify-content:space-between;margin:12px 0}
+.store-gallery-controls button{width:44px;height:44px;border:1px solid var(--line);background:transparent;color:inherit;font-size:26px;cursor:pointer}
+.store-gallery-thumbnails{display:flex;gap:10px;overflow-x:auto;padding:3px;scrollbar-width:thin}
+.store-gallery-thumbnails button{flex:0 0 88px;height:70px;padding:0;border:2px solid transparent;background:#f7f4ee;cursor:pointer}
+.store-gallery-thumbnails button[aria-pressed=true]{border-color:var(--gold)}.store-gallery-thumbnails img{width:100%;height:100%;object-fit:cover}
+.store-gallery button:focus-visible{outline:2px solid var(--red);outline-offset:3px}
+.store-detail-grid>div{min-width:0}@media(max-width:767px){.store-gallery-main img{max-height:350px}.store-gallery-thumbnails button{flex-basis:76px;height:60px}}

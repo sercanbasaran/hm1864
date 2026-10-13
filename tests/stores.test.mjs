@@ -16,12 +16,12 @@ const source = await read("stores.json"),
   { catalog: data, content } = await loadAuthoringData(read);
 const routes = JSON.parse(await fs.readFile("src/routes.json", "utf8"));
 test("official stores retain countries, contact data, exceptions and translated facilities", () => {
-  assert.equal(data.stores.length, 20);
+  assert.equal(data.stores.length, 24);
   assert.deepEqual(
     ["TR", "AE", "GB"].map(
       (c) => data.stores.filter((s) => s.country === c).length,
     ),
-    [16, 3, 1],
+    [18, 5, 1],
   );
   assert.equal(
     data.stores.find((s) => s.id === "nisantasi").phone,
@@ -29,7 +29,7 @@ test("official stores retain countries, contact data, exceptions and translated 
   );
   assert.equal(
     data.stores.find((s) => s.id === "dubai-mall-of-the-emirates").phone,
-    "",
+    "+971 4 297 07 59",
   );
   assert.match(
     localizeStore(
@@ -48,7 +48,7 @@ test("official stores retain countries, contact data, exceptions and translated 
   for (const store of data.stores)
     for (const lang of content.languages) {
       const localized = localizeStore(store, lang.code);
-      assert.ok(localized.name && localized.address && localized.hours);
+      assert.ok(localized.name && localized.address);
       for (const key of [...store.products, ...store.features])
         assert.notEqual(storeText(data, lang.code, key), key);
       const maps = storeMaps(store, lang.code);
@@ -99,5 +99,60 @@ test("store routes and breadcrumbs work for direct entry and future JSON additio
       routes,
     ).store.id,
     "future-store",
+  );
+});
+
+test("corporate additions leave unknown facts blank and gallery content is editable per locale", async () => {
+  const { storeGallery } = await import("../src/stores.js");
+  for (const id of [
+    "florentia-village",
+    "tersane-istanbul",
+    "dubai-jbr",
+    "dubai-souk-madinat-jumeirah",
+  ]) {
+    const s = data.stores.find((s) => s.id === id);
+    assert.ok(s);
+    assert.equal(s.products.length, 0);
+    assert.equal(s.features.length, 0);
+    for (const lang of content.languages)
+      assert.equal(s.translations[lang.code].hours, "");
+  }
+  assert.equal(
+    data.stores.reduce((n, s) => n + s.gallery.length, 0),
+    40,
+  );
+  for (const s of data.stores) {
+    assert.ok(storeGallery(s, "tr").length);
+    for (const p of s.gallery) {
+      assert.ok(p.sourceUrl.startsWith("https://www.hafizmustafa.com/"));
+      assert.ok(!p.src.includes("aa15b518717141db9d0fb129b9d51e39"));
+    }
+  }
+  const s = {
+    ...data.stores[0],
+    gallery: [
+      {
+        src: "/assets/images/medya/test.webp",
+        translations: {
+          tr: { alt: "Mağaza", caption: "Türkçe açıklama" },
+          en: { alt: "Store", caption: "English caption" },
+        },
+      },
+    ],
+  };
+  assert.equal(storeGallery(s, "en")[0].caption, "English caption");
+  assert.equal(storeGallery({ ...s, gallery: [] }, "tr").length, 0);
+  assert.equal(
+    storeGallery(
+      { ...s, gallery: undefined, image: "/assets/images/medya/legacy.webp" },
+      "tr",
+    ).length,
+    1,
+  );
+  const invalid = structuredClone(source);
+  invalid.stores[0].gallery = [{ src: "javascript:alert(1)" }];
+  assert.throws(
+    () => validateStores(invalid, content.languages),
+    /galeri verisi geçersiz/,
   );
 });

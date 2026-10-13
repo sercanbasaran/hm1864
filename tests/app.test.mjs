@@ -161,18 +161,27 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  const storeSearch=window.document.querySelector('input[name="store-query"]');Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype,'value').set.call(storeSearch,'Porta');storeSearch.dispatchEvent(new window.Event('input',{bubbles:true}));await wait();
  assert.equal(window.document.querySelectorAll('.store-locator-dialog .store-card').length,1);
  const storeCountry=window.document.querySelector('select[name="store-country"]');assert.equal(storeCountry.options.length,3);storeCountry.value='TR';storeCountry.dispatchEvent(new window.Event('change',{bubbles:true}));await wait();
- assert.equal(window.document.querySelectorAll('.store-locator-dialog .store-card').length,16);
+ assert.equal(window.document.querySelectorAll('.store-locator-dialog .store-card').length,18);
  assert.ok(window.document.querySelector('.store-locator-dialog iframe').src.includes('Nişantaşı') || decodeURIComponent(window.document.querySelector('.store-locator-dialog iframe').src).includes('Nişantaşı'));
  storeCountry.value='AE';storeCountry.dispatchEvent(new window.Event('change',{bubbles:true}));await wait();
- assert.equal(window.document.querySelectorAll('.store-locator-dialog .store-card').length,3);
+ assert.equal(window.document.querySelectorAll('.store-locator-dialog .store-card').length,5);
  window.document.querySelectorAll('.store-locator-dialog .store-card button')[2].click();await wait();
  assert.match(decodeURIComponent(window.document.querySelector('.store-locator-dialog iframe').src),/Mall of the Emirates/);
  window.document.querySelectorAll('.store-locator-dialog .store-card a[href$="index.html"]')[2].click();await wait();
  assert.equal(window.document.querySelector('dialog'),null);
  assert.match(window.document.querySelector('.store-detail h1').textContent,/Mall of the Emirates/);
- assert.equal(window.document.querySelector('.store-detail a[href^="tel:"]'),null);
+ assert.match(window.document.querySelector('.store-detail a[href^="tel:"]').textContent,/297 07 59/);
  assert.equal(window.document.querySelectorAll('header.site-header').length,1);
  assert.ok(window.document.querySelector('.store-detail iframe'));
+ const originalStorePhoto=window.document.querySelector('.store-gallery-main img').src;
+ window.document.querySelectorAll('.store-gallery-thumbnails button')[1].click();await wait();
+ assert.notEqual(window.document.querySelector('.store-gallery-main img').src,originalStorePhoto);
+ window.document.querySelector('.store-gallery-controls button').click();await wait();
+ assert.equal(window.document.querySelector('.store-gallery-main img').src,originalStorePhoto);
+ window.document.querySelector('.store-gallery-main').click();await wait();
+ assert.ok(window.document.querySelector('dialog.lightbox-dialog[open]'));
+ window.document.querySelector('.dialog-close').click();await wait();
+
  window.document.querySelector('.store-detail a[href="/magazalar/index.html"]').click();await wait();
  assert.ok(window.document.querySelector('.store-locator'));
 
