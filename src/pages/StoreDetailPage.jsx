@@ -2,6 +2,7 @@ import React from "react";
 import { useApp } from "../context/AppContext.jsx";
 import { localizeStore, storeMaps, storeText } from "../stores.js";
 import StoreMap from "../components/stores/StoreMap.jsx";
+import StoreReviews from "../components/stores/StoreReviews.jsx";
 import StoreGallery from "../components/stores/StoreGallery.jsx";
 export default function StoreDetailPage({ store: source }) {
   const { data, preferences, regions } = useApp(),
@@ -71,6 +72,7 @@ export default function StoreDetailPage({ store: source }) {
         </div>
         <StoreMap store={store} language={language} />
       </div>
+      <StoreReviews key={store.id} store={store} language={language} />
     </section>
   );
 }

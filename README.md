@@ -240,3 +240,34 @@ Diğer dil kodlarını da aynı `translations` nesnesine ekleyebilirsiniz. Boş 
 Kurumsal mağaza listesi ve detay sayfalarından 40 mağaza fotoğrafı eşleştirildi; Google/Tripadvisor ikonları fotoğraf olarak alınmadı. Görseller resmi Wix CDN kaynağından yüklenir. `sourceUrl` fotoğrafın alındığı mağaza sayfasını belirtir. CDN görsellerinin genişliği en fazla 1400 piksele ayarlanmıştır; `originalSrc` özgün kaynak URL’sini saklar. Kaynakta yalnızca bir fotoğraf bulunan mağazalara ek fotoğraf uydurulmadı.
 
 Florentia Village, Tersane İstanbul, Dubai JBR ve Souk Madinat Jumeirah kayıtlarında kaynakta çalışma saatleri/ürün/hizmet detayları olmadığı için bu alanlar boş bırakılmıştır. Nişantaşı gibi iki resmi kaynakta farklı yazılan telefon/adres alanları bu ekleme sırasında değiştirilmemiştir.
+
+## Canlı Google işletme yorumları
+
+Yorum bölümü Google Business Profile API’den sayfa açılışında alınır; yalnızca 5 yıldızlı ve metin içeren yorumlar gösterilir. En son güncellenenler önce gelir. En fazla 250 son yorum taranır ve `stores.json` içindeki `reviews.maxReviews` kadar yorum gösterilir (varsayılan 6, üst sınır 12). Yorumlar özgün dilinde kalır; bölüm başlıkları ve filtre açıklaması 14 dilde bulunur. API bağlantısı yoksa veya uygun yorum yoksa bölüm gizlenir. Sahte veya sabit yorum kullanılmaz.
+
+### Canlıya bağlamak için
+
+1. Google Cloud’da işletme hesabınız için Business Profile API erişimini açın. Google’ın proje erişim onayı gerekebilir. Business Profile Account Management API ve Business Profile Business Information API de mağaza listesinin alınması için etkin olmalıdır.
+2. Mağazaları yöneten Google hesabıyla OAuth yetkilendirmesi yapın. Kapsam: `https://www.googleapis.com/auth/business.manage`; çevrimdışı erişimle refresh token alın.
+3. Netlify → Project configuration → Environment variables bölümüne aşağıdakileri ekleyin. Bunları GitHub’a, JSON’a veya `VITE_` değişkenlerine yazmayın:
+   - `GOOGLE_BUSINESS_CLIENT_ID`
+   - `GOOGLE_BUSINESS_CLIENT_SECRET`
+   - `GOOGLE_BUSINESS_REFRESH_TOKEN`
+4. Her mağazanın `google.businessProfileLocation` alanına `accounts/ACCOUNT_ID/locations/LOCATION_ID` değerini ekleyin. `google.placeId` Google Maps kimliğidir; yorum kimliğiyle aynı değildir. `google.reviewsEnabled: false` ilgili mağazanın yorumlarını kapatır.
+5. Değişiklikleri GitHub’a gönderip Netlify deploy yapın. `/.netlify/functions/store-reviews?store=porta-vadi` yanıtında `status: ready` görülmelidir. Yetki/API sorunu varsa `unavailable`, kimlik veya OAuth kurulumu eksikse `unconfigured` döner. API hata ayrıntıları ve token’lar ziyaretçilere verilmez.
+
+Yerel geliştirmede Google değişkenlerini shell ortamında tanımlayıp `netlify dev` kullanın; yalnızca `npm run dev` Netlify fonksiyonunu çalıştırmaz. Token süresi sunucuda otomatik yenilenir. Yorumlar JSON’a, localStorage’a veya kalıcı önbelleğe kaydedilmez. Sayfayı tekrar açınca yeniden sorgulanır; sürekli polling yapılarak API kotası tüketilmez.
+
+### Mağazaları işletme hesabından eşleştirme
+
+Aynı üç ortam değişkeniyle `node scripts/google-store-sync.mjs` çalıştırın. Bu komut Google’daki işletmelerinizi **yalnızca okur**; Google üzerinde ekleme/değişiklik yapmaz.
+
+- Eşleştirme kimlik, telefon veya tam mağaza adıyla yapılır. Birden fazla eşleşme varsa kayıt değiştirilmez ve rapora yazılır.
+- Marka adı Hafız Mustafa olan, kalıcı kapalı olmayan ve kamuya açık adresi bulunan yeni kayıtlar önizlemeye eklenir.
+- Rapor: `tmp/google-store-sync-report.json`; JSON önizlemesi: `tmp/stores.google-preview.json`.
+- Önizlemeyi kontrol ettikten sonra `node scripts/google-store-sync.mjs --apply` ile JSON’u güncelleyin. Ardından `npm run build` ve `npm test` çalıştırın.
+- Google’daki tüm Hafız Mustafa işletmeleri aynı hesapta yönetilmiyorsa diğer hesapları yöneten kullanıcıların erişimi de gerekir.
+
+Galata Kuledibi açılışı markanın resmi duyurusuyla doğrulandı; Google işletme kimliği ve tam sokak adresi doğrulanamadığından `stores.json` içindeki `pendingStores` alanında tutulur ve yayınlanmaz. İşletme hesabı eşleştirmesi Galata kaydını doğruladığında bu taslağı gerçek bilgilerle tamamlayıp mağaza listesine taşır.
+
+Google kaynakları: https://developers.google.com/my-business/reference/rest/v4/accounts.locations.reviews/list ve https://developers.google.com/my-business/reference/businessinformation/rest/v1/accounts.locations/list

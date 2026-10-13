@@ -818,6 +818,54 @@
       "ur": "اگلی تصویر",
       "fa": "عکس بعدی",
       "pt": "Próxima foto"
+    },
+    "reviewTitle": {
+      "tr": "5 yıldızlı misafir yorumları",
+      "en": "Five-star guest reviews",
+      "ar": "آراء الضيوف بخمس نجوم",
+      "de": "Fünf-Sterne-Gästebewertungen",
+      "fr": "Avis cinq étoiles de nos visiteurs",
+      "it": "Recensioni a cinque stelle degli ospiti",
+      "es": "Reseñas de cinco estrellas de nuestros visitantes",
+      "ru": "Отзывы гостей с пятью звёздами",
+      "zh-CN": "五星顾客评价",
+      "ja": "お客様の五つ星レビュー",
+      "hi": "अतिथियों की पाँच-सितारा समीक्षाएँ",
+      "ur": "مہمانوں کے پانچ ستاروں والے تبصرے",
+      "fa": "نظرات پنج‌ستاره مهمانان",
+      "pt": "Avaliações de cinco estrelas dos visitantes"
+    },
+    "reviewFilter": {
+      "tr": "Google’dan alınan yorumlar içindeki 5 yıldızlı, metin içeren yorumlar gösterilir. En son güncellenen yorumlar önce sıralanır; yorumlar özgün dilindedir.",
+      "en": "Only five-star reviews with written comments returned by Google are shown. Most recently updated first; reviews are in their original language.",
+      "ar": "نعرض فقط التعليقات المكتوبة ذات الخمس نجوم الواردة من Google. الأحدث تحديثًا أولًا؛ التعليقات بلغتها الأصلية.",
+      "de": "Es werden nur von Google gelieferte Fünf-Sterne-Bewertungen mit Text angezeigt. Zuletzt aktualisierte zuerst; die Texte bleiben in ihrer Originalsprache.",
+      "fr": "Seuls les avis écrits de cinq étoiles fournis par Google sont affichés. Les plus récemment mis à jour apparaissent en premier, dans leur langue originale.",
+      "it": "Sono mostrate solo le recensioni con testo e cinque stelle fornite da Google. Prima le più recentemente aggiornate, nella lingua originale.",
+      "es": "Solo se muestran las reseñas escritas de cinco estrellas recibidas de Google. Primero las actualizadas más recientemente, en su idioma original.",
+      "ru": "Показаны только полученные от Google отзывы с текстом и пятью звёздами. Сначала недавно обновлённые, на языке оригинала.",
+      "zh-CN": "仅显示 Google 返回的、带文字的五星评价。最近更新的评价优先显示，并保留原始语言。",
+      "ja": "Googleから取得した、文章付きの五つ星レビューのみを表示します。更新日時が新しい順に、原文の言語で表示します。",
+      "hi": "केवल Google से प्राप्त लिखित पाँच-सितारा समीक्षाएँ दिखाई जाती हैं। हाल ही में अपडेट की गई समीक्षाएँ पहले, मूल भाषा में दिखाई जाती हैं।",
+      "ur": "صرف Google سے موصول ہونے والے تحریری پانچ ستاروں کے تبصرے دکھائے جاتے ہیں۔ حال ہی میں اپ ڈیٹ کیے گئے تبصرے پہلے، اصل زبان میں دکھائے جاتے ہیں۔",
+      "fa": "فقط نظرات نوشتاری پنج‌ستاره دریافت‌شده از Google نمایش داده می‌شوند. تازه‌ترین نظرات به‌روزشده ابتدا و به زبان اصلی نمایش داده می‌شوند.",
+      "pt": "São exibidas apenas avaliações escritas de cinco estrelas recebidas do Google. As atualizadas mais recentemente aparecem primeiro, no idioma original."
+    },
+    "allGoogleReviews": {
+      "tr": "Google’daki tüm yorumları gör",
+      "en": "View all reviews on Google",
+      "ar": "عرض جميع التعليقات على Google",
+      "de": "Alle Bewertungen auf Google ansehen",
+      "fr": "Voir tous les avis sur Google",
+      "it": "Vedi tutte le recensioni su Google",
+      "es": "Ver todas las reseñas en Google",
+      "ru": "Посмотреть все отзывы в Google",
+      "zh-CN": "在 Google 查看所有评价",
+      "ja": "Googleですべてのレビューを見る",
+      "hi": "Google पर सभी समीक्षाएँ देखें",
+      "ur": "Google پر تمام تبصرے دیکھیں",
+      "fa": "مشاهده همه نظرات در Google",
+      "pt": "Ver todas as avaliações no Google"
     }
   },
   "stores": [
@@ -992,7 +1040,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_63c7f2adb56a485fa88769833b486ce4~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "pera",
@@ -1224,7 +1277,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_d073608df0d942aab1fe22ab8b92ac54~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "nuruosmaniye",
@@ -1457,7 +1515,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_8745185db8164046acbd6af7d29228a2~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "dubai-hills-mall",
@@ -1622,7 +1685,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_65f2bb8e79e1449ab5623da2820fa3f1~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "porta-vadi",
@@ -1856,7 +1924,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_14f7dd1d00a84f13b71e21ff878537c1~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "uskudar",
@@ -2093,7 +2166,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_80618f270c044a12ab999ccebd4f585b~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "taksim",
@@ -2324,7 +2402,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_b02a8918bd0944ffafb0f39ce4c2e50b~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "sirkeci",
@@ -2556,7 +2639,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_142b23ab791346dc84eda92d80f5dd5a~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "london-knightbridge",
@@ -2723,7 +2811,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_2b7f5c9557d24023a2e5f650cc474ab1~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "istiklal",
@@ -2955,7 +3048,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_99385a5bd1cf4e0fbbd4ac8743dcec97~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "galataport",
@@ -3189,7 +3287,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_377e3fdb70e6478586e06685ac459f21~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "florya",
@@ -3426,7 +3529,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_bc18aeb37f254e64bb54181d8500f00a~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "edebiyat-kiraathanesi",
@@ -3656,7 +3764,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_3d0b4568faec40f4861233b0feb65127~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "dubai-mall",
@@ -3823,7 +3936,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_644d471aeb7a4f74be4a0c8558e82d61~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "dubai-mall-of-the-emirates",
@@ -4052,7 +4170,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_69f003fe9257481f968bcc793cf5260b~mv2.avif"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "bodrum-mandarin-oriental",
@@ -4212,7 +4335,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_58af8d67f63b46d7bbe12bc42a8f91f0~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "beyazit",
@@ -4442,7 +4570,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_7135a9c8eee44a7e83e1c66255ce51ee~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "bahcekapi",
@@ -4675,7 +4808,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_699fd05c01654f5a8038e8f0b0671510~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "antalya-the-land-of-legends",
@@ -4839,7 +4977,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_6953f30b30124b259bdfa73ff394abdd~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "antalya-nickelodeon",
@@ -5066,7 +5209,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_555e85873d1242ff898e473e2eb6cf96~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "florentia-village",
@@ -5219,7 +5367,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_54630a64f50b48628fce553861c437b7~mv2.jpeg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "tersane-istanbul",
@@ -5372,7 +5525,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_163c9043ab544ec78fb7d6099c459652~mv2.jpg"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "dubai-jbr",
@@ -5588,7 +5746,12 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_62f828f1c2ad4260b42e1a4f8a2d8f51~mv2.png"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     },
     {
       "id": "dubai-souk-madinat-jumeirah",
@@ -5804,11 +5967,36 @@
           },
           "originalSrc": "https://static.wixstatic.com/media/99649a_ce3c0f7966184c5d872c5f53c5475490~mv2.png"
         }
-      ]
+      ],
+      "google": {
+        "placeId": "",
+        "businessProfileLocation": "",
+        "reviewsEnabled": true
+      }
     }
   ],
   "sourceUrls": [
     "https://online.hafizmustafa.com/subeler",
     "https://www.hafizmustafa.com/hm1864-subeler"
+  ],
+  "reviews": {
+    "provider": "business-profile",
+    "maxReviews": 6
+  },
+  "pendingStores": [
+    {
+      "id": "galata",
+      "name": "Hafız Mustafa 1864 Galata",
+      "sourceUrl": "https://tr.linkedin.com/posts/haf%C4%B1z-mustafa_hafizmustafa1864-galata-istanbuluntatlimirasi-activity-7514583555616985088-40-6",
+      "status": "awaiting_google_business_verification",
+      "missing": [
+        "streetAddress",
+        "phone",
+        "openingHours",
+        "googlePlaceId",
+        "businessProfileLocation"
+      ],
+      "area": "Galata Kuledibi, Beyoğlu, İstanbul"
+    }
   ]
 }

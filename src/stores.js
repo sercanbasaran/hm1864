@@ -6,6 +6,14 @@ export function validateStores(source, languages) {
   )
     throw Error("Mağaza veri dosyası geçersiz.");
   const ids = new Set();
+  if (
+    source.reviews &&
+    (source.reviews.provider !== "business-profile" ||
+      !Number.isInteger(source.reviews.maxReviews) ||
+      source.reviews.maxReviews < 1 ||
+      source.reviews.maxReviews > 12)
+  )
+    throw Error("Google yorum ayarı geçersiz.");
   for (const s of source.stores) {
     if (
       !/^[a-z0-9-]+$/.test(s.id) ||
@@ -22,6 +30,19 @@ export function validateStores(source, languages) {
     )
       throw Error("Mağaza kimliği veya harita ayarı geçersiz: " + s.id);
     ids.add(s.id);
+    if (
+      s.google &&
+      (typeof s.google.reviewsEnabled !== "boolean" ||
+        typeof s.google.placeId !== "string" ||
+        typeof s.google.businessProfileLocation !== "string" ||
+        (s.google.placeId &&
+          !/^[a-zA-Z0-9_-]{5,200}$/.test(s.google.placeId)) ||
+        (s.google.businessProfileLocation &&
+          !/^accounts\/\d+\/locations\/\d+$/.test(
+            s.google.businessProfileLocation,
+          )))
+    )
+      throw Error("Google mağaza bağlantısı geçersiz: " + s.id);
     for (const field of ["products", "features", "deliveryPlatforms"])
       if (
         !Array.isArray(s[field]) ||
