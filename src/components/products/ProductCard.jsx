@@ -20,7 +20,7 @@ export default function Card({ product: p }) {
             <RichText value={p.name} />
           </a>
         </h3>
-        <p className="muted">
+        {p.description && (\n          <p className="product-card-description">\n            <RichText value={p.description} />\n          </p>\n        )}\n        {p.variants?.length > 0 && (\n          <ul className="product-card-variants" aria-label={t("ui.copy.004")}>\n            {p.variants.map((variant) => (\n              <li key={variant.code}>\n                <RichText value={variant.label || variant.code} />\n              </li>\n            ))}\n          </ul>\n        )}\n        <p className="muted">
           <RichText value={t("ui.productCode")} /> {p.code}
         </p>
         <div className="card-meta">
