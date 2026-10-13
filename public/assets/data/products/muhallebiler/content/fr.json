@@ -196,7 +196,7 @@
     },
     "600-01-03-tavukgogsu": {
       "name": "Tavukgöğsü",
-      "description": "La saveur veloutée de l’histoire, façonnée par le savoir-faire de Hafız Mustafa.",
+      "description": "La saveur veloutée de l’histoire, façonnée par le savoir-faire de Hafız Mustafa 1864.",
       "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation de riz et d’eau (riz, eau), crème fouettée non sucrée, cannelle, sel.",
       "allergens": null,
       "nutrition": {
@@ -254,7 +254,7 @@
       "weight": "270 grammes",
       "variants": {
         "porsiyon": {
-          "description": "La saveur veloutée de l’histoire, façonnée par le savoir-faire de Hafız Mustafa.",
+          "description": "La saveur veloutée de l’histoire, façonnée par le savoir-faire de Hafız Mustafa 1864.",
           "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation de riz et d’eau (riz, eau), crème fouettée non sucrée, cannelle, sel.",
           "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers, soja.",
           "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
@@ -676,7 +676,7 @@
     },
     "600-02-04-tavukgogsu-kazandibi": {
       "name": "Kazandibi Tavukgöğsü",
-      "description": "La saveur caramélisée et veloutée de l’histoire, façonnée par Hafız Mustafa.",
+      "description": "La saveur caramélisée et veloutée de l’histoire, façonnée par Hafız Mustafa 1864.",
       "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation de riz et d’eau (riz, eau), crème fouettée non sucrée, sel.",
       "allergens": null,
       "nutrition": {
@@ -734,7 +734,7 @@
       "weight": "260 grammes",
       "variants": {
         "porsiyon": {
-          "description": "La saveur caramélisée et veloutée de l’histoire, façonnée par Hafız Mustafa.",
+          "description": "La saveur caramélisée et veloutée de l’histoire, façonnée par Hafız Mustafa 1864.",
           "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation de riz et d’eau (riz, eau), crème fouettée non sucrée, sel.",
           "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient: produits laitiers, soja.",
           "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",

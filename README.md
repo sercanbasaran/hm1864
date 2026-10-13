@@ -271,3 +271,24 @@ Aynı üç ortam değişkeniyle `node scripts/google-store-sync.mjs` çalıştı
 Galata Kuledibi açılışı markanın resmi duyurusuyla doğrulandı; Google işletme kimliği ve tam sokak adresi doğrulanamadığından `stores.json` içindeki `pendingStores` alanında tutulur ve yayınlanmaz. İşletme hesabı eşleştirmesi Galata kaydını doğruladığında bu taslağı gerçek bilgilerle tamamlayıp mağaza listesine taşır.
 
 Google kaynakları: https://developers.google.com/my-business/reference/rest/v4/accounts.locations.reviews/list ve https://developers.google.com/my-business/reference/businessinformation/rest/v1/accounts.locations/list
+
+## Kurumsal ve Asırlık Miras sayfaları
+
+14 marka sayfası `public/assets/data/pages/kurumsal.json` ve `public/assets/data/pages/asirlik-miras.json` dosyalarından beslenir. Şablon: `src/pages/BrandPage.jsx`; alt bileşenler: `src/components/brand/`. Ana ve alt sayfalar aynı kaynaktan başlık, hero görseli, açıklama, bölüm içi gezinme ve ilgili sayfa bağlantıları alır.
+
+Bölüm türleri: `prose`, `cards`, `timeline`, `documents`, `faq`, `gallery`, `people`. Bölüm `id` değeri sayfa içi bağlantının hedefidir; aynı sayfada benzersiz olmalıdır. Fotoğraflarda `src`, `alt`, `caption` düzenlenir. `gallery` görselleri büyütme penceresiyle açılır; tarihçe dönemlere göre, medya ve politika kartları etiketlere göre filtrelenir. Belgeler ve kariyer başvuruları resmi kaynağa bağlanır; bu uygulama başvuru bilgisi toplamaz.
+
+Türkçe, İngilizce ve Arapça içerikler hazırlanmıştır. Diğer 11 dilin alanları aynı JSON’da boş şablon olarak bulunur. `brandText` boş dil alanında İngilizce, ardından Türkçe içeriğe döner. Dil alanlarını doldurmak için ayrı çeviri dosyası gerekmiyor.
+
+Kaynaklar her sayfanın `sourceUrls` alanında saklanır. Metinler resmi içeriklerin kısa editoryal özetleridir. Başkanın mesajı doğrudan alıntı olarak sunulmaz. Madalya toplamında kaynaklar arasında 11/12 farklılığı bulunduğundan kesin adet yayımlanmadı. Güncel olmayan toplam mağaza sayıları ve farklı tarihli sıralama iddiaları yeni kurumsal içeriklere alınmadı. Yönetim rolleri kaynakta doğrulanmış biçimde kullanılır; Eren Ongurlar için farklı tarihli unvanlar yerine genel Yönetim Kurulu ifadesi tercih edildi.
+
+Marka adı görünen UI ve ürün metinlerinde Hafız Mustafa 1864 olarak standartlaştırıldı. Resmi şirket unvanları, URL’ler, ürün kodları ve gerçek arşiv görsellerindeki tarihi yazılar değiştirilmedi.
+
+### Yeni görseller
+
+Built-in imagegen ile iki kavramsal görsel üretildi; gerçek yönetici, fabrika veya arşiv fotoğrafı olarak sunulmaz. `generated: true` etiketi olan hero görsellerinde “Görsel yorum” notu gösterilir. Yeni dosyalar:
+
+- `public/assets/images/medya/marka/ustalik.webp`: baklava, fıstık, bakır ve koyu ahşap üzerinden tatlıcılık ustalığı teması.
+- `public/assets/images/medya/marka/mimari.webp`: çini, ahşap ve altın detaylar üzerinden mimari miras teması.
+
+Her ikisi 1672×941 piksel; görsel içeriği değiştirmeden web için WebP biçiminde optimize edildi. Üretim istemleri ve kaynaklar `public/assets/data/pages/visuals.json` dosyasındadır. Yönetici portresi, tarihçe, madalya ve ödül görselleri resmi sitelerdeki gerçek arşivden yüklenir. Sertifika ve politika bağlantıları yayımlanmış PDF’leri açar.

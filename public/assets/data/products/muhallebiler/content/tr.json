@@ -196,7 +196,7 @@
     },
     "600-01-03-tavukgogsu": {
       "name": "Tavukgöğsü",
-      "description": "Hafız Mustafa ustalığında tarihin kadifemsi lezzeti",
+      "description": "Hafız Mustafa 1864 ustalığında tarihin kadifemsi lezzeti",
       "ingredients": "Manda sütü, inek sütü, tavukgöğsü, şeker, pirinç sübyesi (pirinç, su), şekersiz krem şanti, tarçın, tuz.",
       "allergens": null,
       "nutrition": {
@@ -254,7 +254,7 @@
       "weight": "270 gram",
       "variants": {
         "porsiyon": {
-          "description": "Hafız Mustafa ustalığında tarihin kadifemsi lezzeti",
+          "description": "Hafız Mustafa 1864 ustalığında tarihin kadifemsi lezzeti",
           "ingredients": "Manda sütü, inek sütü, tavukgöğsü, şeker, pirinç sübyesi (pirinç, su), şekersiz krem şanti, tarçın, tuz.",
           "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri ve soya içerir.",
           "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
@@ -676,7 +676,7 @@
     },
     "600-02-04-tavukgogsu-kazandibi": {
       "name": "Tavukgöğsü Kazandibi",
-      "description": "Hafız Mustafa ustalığında tarihin karamelize kadifemsi lezzeti",
+      "description": "Hafız Mustafa 1864 ustalığında tarihin karamelize kadifemsi lezzeti",
       "ingredients": "Manda sütü, inek sütü, tavukgöğsü, şeker, pirinç sübyesi (pirinç, su), şekersiz krem şanti, tuz.",
       "allergens": null,
       "nutrition": {
@@ -734,7 +734,7 @@
       "weight": "260 gram",
       "variants": {
         "porsiyon": {
-          "description": "Hafız Mustafa ustalığında tarihin karamelize kadifemsi lezzeti",
+          "description": "Hafız Mustafa 1864 ustalığında tarihin karamelize kadifemsi lezzeti",
           "ingredients": "Manda sütü, inek sütü, tavukgöğsü, şeker, pirinç sübyesi (pirinç, su), şekersiz krem şanti, tuz.",
           "allergenInfo": "<strong>Alerjen Uyarısı</strong>\nSüt ürünleri ve soya içerir.",
           "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",

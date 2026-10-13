@@ -1,5 +1,6 @@
 import { useMemo, useEffect } from "react";
 import routes from "../routes.json";
+import { brandText } from "../brand-content.js";
 import { resolve } from "../model.js";
 import { translate } from "../i18n.js";
 import { plainText } from "../formatted-text.js";
@@ -23,14 +24,16 @@ export function useResolvedRoute({
             .concat(rawData.subcategories)
             .find((c) => c.url === path.replace(/^\//, ""))
         : null;
-    const title = found.store
-      ? found.store.translations?.[language]?.name ||
-        found.store.translations.tr.name
-      : item
-        ? item.translations?.[language]?.name || item.name
-        : found.titleKey
-          ? translate(content, language, found.titleKey)
-          : found.title;
+    const title = found.page
+      ? brandText(found.page.title, language)
+      : found.store
+        ? found.store.translations?.[language]?.name ||
+          found.store.translations.tr.name
+        : item
+          ? item.translations?.[language]?.name || item.name
+          : found.titleKey
+            ? translate(content, language, found.titleKey)
+            : found.title;
     return ["catalog-product", "catalog"].includes(found.kind)
       ? { kind: "unavailable", title }
       : { ...found, title };
@@ -42,6 +45,18 @@ export function useResolvedRoute({
         route?.title ||
         t("ui.homeTitle")) + t("ui.brandSuffix"),
     );
-  }, [route]);
+    let meta = document.querySelector('meta[name="description"]');
+    if (!meta) {
+      meta = document.createElement("meta");
+      meta.name = "description";
+      document.head.appendChild(meta);
+    }
+    meta.content = route?.page
+      ? brandText(
+          route.page.hero.intro,
+          preferences?.language || regions.defaultLanguage,
+        )
+      : t("ui.homeTitle");
+  }, [route, preferences?.language]);
   return route;
 }

@@ -196,7 +196,7 @@
     },
     "600-01-03-tavukgogsu": {
       "name": "Tavukgöğsü",
-      "description": "The velvety taste of history, crafted by Hafız Mustafa.",
+      "description": "The velvety taste of history, crafted by Hafız Mustafa 1864.",
       "ingredients": "buffalo milk, cow's milk, chicken breast, sugar, rice slurry (rice, water), unsweetened whipped cream, cinnamon, salt.",
       "allergens": null,
       "nutrition": {
@@ -254,7 +254,7 @@
       "weight": "270 grams",
       "variants": {
         "porsiyon": {
-          "description": "The velvety taste of history, crafted by Hafız Mustafa.",
+          "description": "The velvety taste of history, crafted by Hafız Mustafa 1864.",
           "ingredients": "buffalo milk, cow's milk, chicken breast, sugar, rice slurry (rice, water), unsweetened whipped cream, cinnamon, salt.",
           "allergenInfo": "<strong>Allergen Warning</strong>\nContains: dairy products, soy.",
           "storage": "Store in the refrigerator between +4° and +6°. Protect from direct sunlight and do not leave at room temperature for long periods.",
@@ -676,7 +676,7 @@
     },
     "600-02-04-tavukgogsu-kazandibi": {
       "name": "Tavukgöğsü Kazandibi",
-      "description": "The caramelized, velvety taste of history, crafted by Hafız Mustafa.",
+      "description": "The caramelized, velvety taste of history, crafted by Hafız Mustafa 1864.",
       "ingredients": "buffalo milk, cow's milk, chicken breast, sugar, rice slurry (rice, water), unsweetened whipped cream, salt.",
       "allergens": null,
       "nutrition": {
@@ -734,7 +734,7 @@
       "weight": "260 grams",
       "variants": {
         "porsiyon": {
-          "description": "The caramelized, velvety taste of history, crafted by Hafız Mustafa.",
+          "description": "The caramelized, velvety taste of history, crafted by Hafız Mustafa 1864.",
           "ingredients": "buffalo milk, cow's milk, chicken breast, sugar, rice slurry (rice, water), unsweetened whipped cream, salt.",
           "allergenInfo": "<strong>Allergen Warning</strong>\nContains: dairy products, soy.",
           "storage": "Store in the refrigerator between +4° and +6°. Protect from direct sunlight and do not leave at room temperature for long periods.",

@@ -1,4 +1,5 @@
 import React from "react";
+import { brandText } from "../brand-content.js";
 import { useApp } from "../context/AppContext.jsx";
 import { useText } from "../hooks/useText.js";
 import { local } from "../utils/urls.js";
@@ -16,6 +17,12 @@ export default function SitemapPage() {
       <ul>
         {Object.entries({
           ...routes,
+          ...Object.fromEntries(
+            (data.brandPages || []).map((page) => [
+              page.url,
+              { title: brandText(page.title, preferences?.language || "tr") },
+            ]),
+          ),
           ...Object.fromEntries(
             (data.stores || []).map((store) => [
               store.url,

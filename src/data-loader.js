@@ -1,4 +1,5 @@
 import {validate} from './model.js';
+import {validateBrandFiles} from './brand-content.js';
 import {validateStores} from './stores.js';
 import {validateContent} from './i18n.js';
 import {validateRegions,validateRegionalCatalog} from './market.js';
@@ -46,6 +47,8 @@ export async function loadAuthoringData(readJSON){
   const stores=validateStores(await read(manifest.stores),content.languages);
   catalog.stores=stores.stores.filter(store=>store.online);
   catalog.storeTexts=stores.texts;
+  const brand=validateBrandFiles(await Promise.all(manifest.pages.map(read)));
+  catalog.brandPages=brand.pages;catalog.brandGroups=brand.groups;catalog.brandLabels=brand.labels;
   return {schemaVersion:1,catalog,content,regions:regionSettings};
 }
 

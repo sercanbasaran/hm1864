@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "method": "built-in imagegen",
+  "assets": [
+    {
+      "src": "/assets/images/medya/marka/ustalik.webp",
+      "kind": "conceptual",
+      "prompt": "Use case: ads-marketing. Asset type: wide editorial website background for Hafız Mustafa 1864 corporate and heritage pages. Create a premium atmospheric still life about Turkish confectionery craftsmanship: fine folded phyllo layers on dark walnut work surface, pistachios, a softly lit copper tray and dark teal Iznik ceramic details in the distant background. No people, no hands, no lettering, no logos, no package, no medals, no certificates. Macro editorial photography, dramatic but gentle side lighting, warm gold #CBA052 and charcoal palette, tactile materials, abundant dark negative space on the left for web headlines. 16:9 horizontal composition, high resolution. This is an evocative conceptual brand visual, not a documentary image of an actual factory."
+    },
+    {
+      "src": "/assets/images/medya/marka/mimari.webp",
+      "kind": "conceptual",
+      "prompt": "Use case: ads-marketing. Asset type: landscape editorial website background for a premium Istanbul confectionery heritage brand Hafız Mustafa 1864. Create a refined abstract architectural close-up of deep turquoise and ivory Iznik ceramic tilework, dark carved walnut, a narrow warm satin-gold border and soft sunlight grazing the materials. Elegant restrained geometry, authentic material textures, quiet luxury editorial photography, charcoal shadow areas, #CBA052 gold details. Wide 16:9 composition, empty space suitable for website editorial layout. No people, no logos, no writing, no medals or certificates, no identifiable building or store. This is a contemporary conceptual visual inspired by Turkish craftsmanship, not an archive photograph."
+    }
+  ]
+}

@@ -196,7 +196,7 @@
     },
     "600-01-03-tavukgogsu": {
       "name": "Tavukgöğsü",
-      "description": "El sabor aterciopelado de la historia, elaborado con la maestría de Hafız Mustafa.",
+      "description": "El sabor aterciopelado de la historia, elaborado con la maestría de Hafız Mustafa 1864.",
       "ingredients": "leche de búfala, leche de vaca, pechuga de pollo, azúcar, mezcla de arroz y agua (arroz, agua), nata montada sin azúcar, canela, sal.",
       "allergens": null,
       "nutrition": {
@@ -254,7 +254,7 @@
       "weight": "270 gramos",
       "variants": {
         "porsiyon": {
-          "description": "El sabor aterciopelado de la historia, elaborado con la maestría de Hafız Mustafa.",
+          "description": "El sabor aterciopelado de la historia, elaborado con la maestría de Hafız Mustafa 1864.",
           "ingredients": "leche de búfala, leche de vaca, pechuga de pollo, azúcar, mezcla de arroz y agua (arroz, agua), nata montada sin azúcar, canela, sal.",
           "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos, soja.",
           "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
@@ -676,7 +676,7 @@
     },
     "600-02-04-tavukgogsu-kazandibi": {
       "name": "Kazandibi Tavukgöğsü",
-      "description": "El sabor caramelizado y aterciopelado de la historia, elaborado por Hafız Mustafa.",
+      "description": "El sabor caramelizado y aterciopelado de la historia, elaborado por Hafız Mustafa 1864.",
       "ingredients": "leche de búfala, leche de vaca, pechuga de pollo, azúcar, mezcla de arroz y agua (arroz, agua), nata montada sin azúcar, sal.",
       "allergens": null,
       "nutrition": {
@@ -734,7 +734,7 @@
       "weight": "260 gramos",
       "variants": {
         "porsiyon": {
-          "description": "El sabor caramelizado y aterciopelado de la historia, elaborado por Hafız Mustafa.",
+          "description": "El sabor caramelizado y aterciopelado de la historia, elaborado por Hafız Mustafa 1864.",
           "ingredients": "leche de búfala, leche de vaca, pechuga de pollo, azúcar, mezcla de arroz y agua (arroz, agua), nata montada sin azúcar, sal.",
           "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene: productos lácteos, soja.",
           "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",

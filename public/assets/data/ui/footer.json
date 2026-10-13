@@ -19,8 +19,8 @@
     },
     "template.0018": {
       "tr": "İlke ve Değerlerimiz",
-      "en": "",
-      "ar": "",
+      "en": "Principles and Values",
+      "ar": "مبادئنا وقيمنا",
       "de": "",
       "fr": "",
       "it": "",
@@ -35,8 +35,8 @@
     },
     "template.0019": {
       "tr": "Politikalarımız",
-      "en": "",
-      "ar": "",
+      "en": "Our Policies",
+      "ar": "سياساتنا",
       "de": "",
       "fr": "",
       "it": "",
@@ -51,8 +51,8 @@
     },
     "template.0020": {
       "tr": "Yönetim Kurulu",
-      "en": "",
-      "ar": "",
+      "en": "Leadership",
+      "ar": "مجلس الإدارة",
       "de": "",
       "fr": "",
       "it": "",
@@ -66,9 +66,9 @@
       "pt": ""
     },
     "template.0021": {
-      "tr": "Etik İlkeler ve Uyum Politikaları",
-      "en": "",
-      "ar": "",
+      "tr": "Etik İlkeler ve Uyum",
+      "en": "Ethics and Compliance",
+      "ar": "الأخلاقيات والامتثال",
       "de": "",
       "fr": "",
       "it": "",
@@ -83,8 +83,8 @@
     },
     "template.0022": {
       "tr": "Kariyer",
-      "en": "",
-      "ar": "",
+      "en": "Careers",
+      "ar": "الوظائف",
       "de": "",
       "fr": "",
       "it": "",
@@ -99,8 +99,8 @@
     },
     "template.0023": {
       "tr": "Sertifikalarımız",
-      "en": "",
-      "ar": "",
+      "en": "Our Certificates",
+      "ar": "شهاداتنا",
       "de": "",
       "fr": "",
       "it": "",
@@ -115,8 +115,8 @@
     },
     "template.0024": {
       "tr": "Medya Merkezi",
-      "en": "",
-      "ar": "",
+      "en": "Media Centre",
+      "ar": "المركز الإعلامي",
       "de": "",
       "fr": "",
       "it": "",
@@ -147,8 +147,8 @@
     },
     "template.0026": {
       "tr": "Başkanın Mesajı",
-      "en": "",
-      "ar": "",
+      "en": "Message from the President",
+      "ar": "رسالة الرئيس",
       "de": "",
       "fr": "",
       "it": "",
@@ -163,8 +163,8 @@
     },
     "template.0027": {
       "tr": "Eşsiz Hikâyemiz",
-      "en": "",
-      "ar": "",
+      "en": "Our Distinctive Story",
+      "ar": "حكايتنا الفريدة",
       "de": "",
       "fr": "",
       "it": "",
@@ -179,8 +179,8 @@
     },
     "template.0028": {
       "tr": "Dönüm Noktaları",
-      "en": "",
-      "ar": "",
+      "en": "Milestones",
+      "ar": "محطات فارقة",
       "de": "",
       "fr": "",
       "it": "",
@@ -195,8 +195,8 @@
     },
     "template.0029": {
       "tr": "Başarı ve Ödüllerimiz",
-      "en": "",
-      "ar": "",
+      "en": "Honours and Recognition",
+      "ar": "الإنجازات والتكريمات",
       "de": "",
       "fr": "",
       "it": "",
@@ -211,8 +211,8 @@
     },
     "template.0030": {
       "tr": "Madalyalarımız",
-      "en": "",
-      "ar": "",
+      "en": "Medals and Archive",
+      "ar": "ميدالياتنا والأرشيف",
       "de": "",
       "fr": "",
       "it": "",
@@ -818,7 +818,7 @@
       "pt": ""
     },
     "template.0070": {
-      "tr": "Copyright © 2026 Hakkızade Hafız Mustafa. Tüm hakları saklıdır.",
+      "tr": "Copyright © 2026 Hakkızade Hafız Mustafa 1864. Tüm hakları saklıdır.",
       "en": "",
       "ar": "",
       "de": "",

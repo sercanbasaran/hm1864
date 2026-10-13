@@ -196,7 +196,7 @@
     },
     "600-01-03-tavukgogsu": {
       "name": "Tavukgöğsü",
-      "description": "Il gusto vellutato della storia, realizzato con la maestria di Hafız Mustafa.",
+      "description": "Il gusto vellutato della storia, realizzato con la maestria di Hafız Mustafa 1864.",
       "ingredients": "latte di bufala, latte vaccino, petto di pollo, zucchero, miscela di riso e acqua (riso, acqua), panna montata non zuccherata, cannella, sale.",
       "allergens": null,
       "nutrition": {
@@ -254,7 +254,7 @@
       "weight": "270 grammi",
       "variants": {
         "porsiyon": {
-          "description": "Il gusto vellutato della storia, realizzato con la maestria di Hafız Mustafa.",
+          "description": "Il gusto vellutato della storia, realizzato con la maestria di Hafız Mustafa 1864.",
           "ingredients": "latte di bufala, latte vaccino, petto di pollo, zucchero, miscela di riso e acqua (riso, acqua), panna montata non zuccherata, cannella, sale.",
           "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari, soia.",
           "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
@@ -676,7 +676,7 @@
     },
     "600-02-04-tavukgogsu-kazandibi": {
       "name": "Kazandibi Tavukgöğsü",
-      "description": "Il gusto caramellato e vellutato della storia, realizzato da Hafız Mustafa.",
+      "description": "Il gusto caramellato e vellutato della storia, realizzato da Hafız Mustafa 1864.",
       "ingredients": "latte di bufala, latte vaccino, petto di pollo, zucchero, miscela di riso e acqua (riso, acqua), panna montata non zuccherata, sale.",
       "allergens": null,
       "nutrition": {
@@ -734,7 +734,7 @@
       "weight": "260 grammi",
       "variants": {
         "porsiyon": {
-          "description": "Il gusto caramellato e vellutato della storia, realizzato da Hafız Mustafa.",
+          "description": "Il gusto caramellato e vellutato della storia, realizzato da Hafız Mustafa 1864.",
           "ingredients": "latte di bufala, latte vaccino, petto di pollo, zucchero, miscela di riso e acqua (riso, acqua), panna montata non zuccherata, sale.",
           "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene: prodotti lattiero-caseari, soia.",
           "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",

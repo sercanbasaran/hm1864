@@ -1,4 +1,5 @@
 import React from "react";
+import BrandPage from "../pages/BrandPage.jsx";
 import HomePage from "../pages/HomePage.jsx";
 import ProductPage from "../pages/ProductPage.jsx";
 import CategoryPage from "../pages/CategoryPage.jsx";
@@ -10,6 +11,8 @@ import PlaceholderPage from "../pages/PlaceholderPage.jsx";
 
 export default function PageRouter({ route }) {
   switch (route.kind) {
+    case "brand":
+      return <BrandPage key={route.page.id} page={route.page} />;
     case "home":
       return <HomePage />;
     case "product":

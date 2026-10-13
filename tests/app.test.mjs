@@ -188,6 +188,17 @@ test('built React application: navigation, variant update, dialogs, menu and sli
 
  window.document.querySelector('.store-detail a[href="/magazalar/index.html"]').click();await wait();
  assert.ok(window.document.querySelector('.store-locator'));
+ const brandLink=window.document.createElement('a');brandLink.href='/kurumsal/medya-merkezi/index.html';window.document.querySelector('#main').appendChild(brandLink);brandLink.click();await wait();
+ assert.ok(window.document.querySelector('.brand-page'));assert.equal(window.document.querySelector('.placeholder-content'),null);
+ assert.equal(window.document.querySelectorAll('#haberler .brand-card').length,3);
+ window.document.querySelectorAll('#haberler .brand-filters button')[2].click();await wait();
+ assert.equal(window.document.querySelectorAll('#haberler .brand-card').length,1);
+ assert.equal(window.document.querySelectorAll('header.site-header').length,1);
+ const timelineLink=window.document.createElement('a');timelineLink.href='/asirlik-miras/donum-noktalari/index.html';window.document.querySelector('#main').appendChild(timelineLink);timelineLink.click();await wait();
+ assert.equal(window.document.querySelectorAll('.brand-timeline>li').length,8);
+ window.document.querySelectorAll('.brand-filters button')[1].click();await wait();assert.equal(window.document.querySelectorAll('.brand-timeline>li').length,3);
+ window.document.querySelector('.brand-timeline .brand-image button').click();await wait();assert.ok(window.document.querySelector('dialog.lightbox-dialog[open]'));
+ window.document.querySelector('.dialog-close').click();await wait();assert.equal(window.document.querySelector('dialog'),null);
 
  }finally{window.happyDOM.abort();}
 });

@@ -1,3 +1,4 @@
+import { brandText } from "../brand-content.js";
 import { resolve } from "../model.js";
 
 // Product hierarchy comes from taxonomy IDs; other pages use sitemap ancestors.
@@ -21,7 +22,15 @@ export function buildBreadcrumbs({
     if (item && !crumbs.some((c) => c.url === item.url))
       crumbs.push({ label: label(item), url: item.url });
   };
-  if (source.store) {
+  if (source.page) {
+    const group = data.brandGroups.find((g) => g.id === source.page.groupId);
+    if (group.url !== source.page.url)
+      crumbs.push({ label: brandText(group.title, language), url: group.url });
+    crumbs.push({
+      label: brandText(source.page.title, language),
+      url: source.page.url,
+    });
+  } else if (source.store) {
     crumbs.push({
       label: data.storeTexts?.title?.[language] || data.storeTexts?.title?.tr,
       url: "magazalar/index.html",
