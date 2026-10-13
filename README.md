@@ -154,3 +154,11 @@ Breadcrumb tüm sayfalarda `src/App.jsx` içinde bir kez gösterilir. Hiyerarşi
 ## Pasta içerik güncellemesi — 13 Ekim 2026
 
 Son pasta listesiyle 18 ürün / 36 SKU eşleştirilmiştir. Türkçe açıklamalar, kısa içerikler, alerjen, saklama, servis, uzun muhafaza, porsiyon/gramaj bilgileri ve dokuz para birimindeki varyant fiyatları güncellenmiştir. Kaynakta mevcut 17 ürünün 100 g besin/enerji bilgisi tabloya aktarılmıştır; İstanbul Hikayesi'nin iki varyantında kaynak alan boş olduğundan değer eklenmemiştir. Uzun içerik alanı kullanılmamıştır. Ürün/varyant görselleri, SKU'lar, anahtarlar, sayfa yolları ve kategori yapısı korunmuştur.
+
+## Trileçe veri standardı — 13 Ekim 2026
+
+Trileçeler pasta kategorisiyle aynı kategori bazlı dosya düzenini kullanır: `products/trileceler/products.json`, `prices.json` ve `content/<dil>.json`. Beş ürün kaynak SKU'larıyla (`700-01-01`–`700-01-05`) ve birer `porsiyon` varyantıyla güncellenmiştir. Mevcut ürün URL'leri korunur; önceki `600-03-*` anahtarları `legacyKeys` alanındadır.
+
+Görselleri `public/assets/images/urunler/trileceler/` klasörüne yükleyin. Örneğin ilgili varyantta `"images": ["trileceler/ahududulu-trilece.png"]` kullanın. Başlangıçta ürün ve varyant görselleri boştur.
+
+Türkçe içerikler kaynak tablodan alınmıştır; diğer 13 dil dosyasında aynı ürün/varyant alanları hazırlanmıştır. Kaynakta tuz değeri verilmediği için besin tablosunda değer uydurulmaz, `nutrition.note` metni gösterilir. Online satış kapalı, ortak pazar açık olduğundan ürünler mağaza/platform sipariş alanını kullanır.

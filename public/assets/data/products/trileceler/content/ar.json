@@ -2,30 +2,275 @@
   "schemaVersion": 1,
   "language": "ar",
   "products": {
-    "600-03-01-ahududulu-trilece": {
+    "700-01-01-ahududulu-trilece": {
       "name": "",
-      "variants": {},
-      "editorial": {}
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": [],
+        "note": ""
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": "",
+      "variants": {
+        "porsiyon": {
+          "label": "",
+          "description": "",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "",
+          "servingSuggestion": "",
+          "longTermStorage": "",
+          "portion": "",
+          "weight": null,
+          "delivery": "",
+          "packaging": ""
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": ""
     },
-    "600-03-02-fistikli-ala-trilece": {
+    "700-01-02-fistikli-ala-trilece": {
       "name": "",
-      "variants": {},
-      "editorial": {}
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": [],
+        "note": ""
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": "",
+      "variants": {
+        "porsiyon": {
+          "label": "",
+          "description": "",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "",
+          "servingSuggestion": "",
+          "longTermStorage": "",
+          "portion": "",
+          "weight": null,
+          "delivery": "",
+          "packaging": ""
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": ""
     },
-    "600-03-03-kahveli-trilece": {
+    "700-01-03-kahveli-trilece": {
       "name": "",
-      "variants": {},
-      "editorial": {}
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": [],
+        "note": ""
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": "",
+      "variants": {
+        "porsiyon": {
+          "label": "",
+          "description": "",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "",
+          "servingSuggestion": "",
+          "longTermStorage": "",
+          "portion": "",
+          "weight": null,
+          "delivery": "",
+          "packaging": ""
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": ""
     },
-    "600-03-04-karamelli-trilece": {
+    "700-01-04-karamelli-trilece": {
       "name": "",
-      "variants": {},
-      "editorial": {}
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": [],
+        "note": ""
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": "",
+      "variants": {
+        "porsiyon": {
+          "label": "",
+          "description": "",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "",
+          "servingSuggestion": "",
+          "longTermStorage": "",
+          "portion": "",
+          "weight": null,
+          "delivery": "",
+          "packaging": ""
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": ""
     },
-    "600-03-05-safranli-trilece": {
+    "700-01-05-safranli-trilece": {
       "name": "",
-      "variants": {},
-      "editorial": {}
+      "description": "",
+      "ingredients": "",
+      "allergens": null,
+      "nutrition": {
+        "basis": "",
+        "values": [],
+        "note": ""
+      },
+      "servingSuggestion": "",
+      "storage": "",
+      "longTermStorage": "",
+      "delivery": "",
+      "packaging": "",
+      "weight": "",
+      "variants": {
+        "porsiyon": {
+          "label": "",
+          "description": "",
+          "ingredients": "",
+          "allergenInfo": "",
+          "storage": "",
+          "servingSuggestion": "",
+          "longTermStorage": "",
+          "portion": "",
+          "weight": null,
+          "delivery": "",
+          "packaging": ""
+        }
+      },
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "allergenInfo": "",
+      "portion": ""
     }
   }
 }

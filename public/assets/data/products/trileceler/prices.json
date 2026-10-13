@@ -2,35 +2,95 @@
   "schemaVersion": 1,
   "categoryId": "trileceler",
   "products": {
-    "600-03-01-ahududulu-trilece": {
+    "700-01-01-ahududulu-trilece": {
       "base": {
         "TRY": null
       },
-      "variants": {}
+      "variants": {
+        "porsiyon": {
+          "TRY": 400,
+          "USD": 8,
+          "EUR": 7,
+          "AED": 30,
+          "GBP": 6,
+          "DKK": 54,
+          "SEK": 82,
+          "CNY": 54,
+          "JPY": 1287
+        }
+      }
     },
-    "600-03-02-fistikli-ala-trilece": {
+    "700-01-02-fistikli-ala-trilece": {
       "base": {
         "TRY": null
       },
-      "variants": {}
+      "variants": {
+        "porsiyon": {
+          "TRY": 400,
+          "USD": 8,
+          "EUR": 7,
+          "AED": 30,
+          "GBP": 6,
+          "DKK": 54,
+          "SEK": 82,
+          "CNY": 54,
+          "JPY": 1287
+        }
+      }
     },
-    "600-03-03-kahveli-trilece": {
+    "700-01-03-kahveli-trilece": {
       "base": {
         "TRY": null
       },
-      "variants": {}
+      "variants": {
+        "porsiyon": {
+          "TRY": 400,
+          "USD": 8,
+          "EUR": 7,
+          "AED": 30,
+          "GBP": 6,
+          "DKK": 54,
+          "SEK": 82,
+          "CNY": 54,
+          "JPY": 1287
+        }
+      }
     },
-    "600-03-04-karamelli-trilece": {
+    "700-01-04-karamelli-trilece": {
       "base": {
         "TRY": null
       },
-      "variants": {}
+      "variants": {
+        "porsiyon": {
+          "TRY": 400,
+          "USD": 8,
+          "EUR": 7,
+          "AED": 30,
+          "GBP": 6,
+          "DKK": 54,
+          "SEK": 82,
+          "CNY": 54,
+          "JPY": 1287
+        }
+      }
     },
-    "600-03-05-safranli-trilece": {
+    "700-01-05-safranli-trilece": {
       "base": {
         "TRY": null
       },
-      "variants": {}
+      "variants": {
+        "porsiyon": {
+          "TRY": 400,
+          "USD": 8,
+          "EUR": 7,
+          "AED": 30,
+          "GBP": 6,
+          "DKK": 54,
+          "SEK": 82,
+          "CNY": 54,
+          "JPY": 1287
+        }
+      }
     }
   }
 }

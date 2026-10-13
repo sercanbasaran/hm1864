@@ -3,7 +3,7 @@ import {validateContent} from './i18n.js';
 import {validateRegions,validateRegionalCatalog} from './market.js';
 
 const safePath=path=>typeof path==='string'&&/^[a-zA-Z0-9_./-]+\.json$/.test(path)&&!path.includes('..')&&!path.startsWith('/');
-const meaningful=value=>typeof value==='string'?!!value.trim():value!==null&&value!==undefined;
+const meaningful=value=>typeof value==='string'?!!value.trim():Array.isArray(value)?value.some(meaningful):value&&typeof value==='object'?Object.values(value).some(meaningful):value!==null&&value!==undefined;
 const compactTranslation=object=>Object.fromEntries(Object.entries(object||{}).filter(([,value])=>Array.isArray(value)?value.some(meaningful):meaningful(value)));
 const without=(object,keys)=>Object.fromEntries(Object.entries(object||{}).filter(([key])=>!keys.includes(key)));
 const validateEditorialText=(text,key)=>{if(text===undefined)return;if(!text||typeof text!=='object'||Array.isArray(text)||Object.entries(text).some(([field,value])=>!['title','imageAlt','paragraphs'].includes(field)||(field==='paragraphs'?(!Array.isArray(value)||value.some(p=>typeof p!=='string')):typeof value!=='string')))throw Error('Hikâye/kutu içerik şablonu geçersiz: '+key)};
