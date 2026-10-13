@@ -180,3 +180,9 @@ Güncel `tr.json` referansıyla beş trileçe ürününün içerikleri İngilizc
 Güncel kaynak tablodaki 21 muhallebi ürünü dört alt kategoride, birer `porsiyon` varyantıyla tanımlıdır. SKU, ürün anahtarı ve görsel adı kaynak ürün koduyla eşleşir. Önceki URL’ler korunur; değişen anahtarlar `legacyKeys` ile izlenebilir. Görseller `public/assets/images/urunler/muhallebiler/` altında WebP olarak bulunur.
 
 Ürün metinleri, alerjen/saklama bilgileri, besin tabloları ve kategori adları 14 dilde hazırlanmıştır. Kaynakta boş olan içerik/alerjen alanları boş tutulur (Fıstıklı Kazandibi, Safranlı Kazandibi, Damla Sakızlı Kazandibi ve Lotuslu Kaşık Pasta). Belirtilmemiş besin değerleri `null` olarak saklanır; sıfır kabul edilmez. Online satış kapalı ve ortak pazar açık ürünler mevcut mağaza/platform sipariş alanını kullanır.
+
+## Hikâye ve kutu bölümlerinin görünürlüğü
+
+Kategori `products.json` dosyasındaki `editorial` listesinde her bölüm `enabled: true/false` ile yönetilir. `false` bölümü her zaman gizler. `true` olan bölüm, seçilen dilde (ve kaynak dildeki geri dönüşte) gerçek bir başlık, paragraf veya görsel varsa gösterilir. Boş alanlar, varsayılan bölüm başlıkları, Lorem ipsum/dummy metinleri ve görsel bekleniyor dosyası içerik kabul edilmez. Boş iki bölüm varsa dış kapsayıcı da oluşturulmaz. Eksik metin ve görsel için dummy alan gösterilmez.
+
+Görünürlük kuralları `src/utils/editorial.js`, bölüm şablonu `src/components/products/EditorialSections.jsx` dosyasındadır. Başlık ve paragraflar ilgili kategorinin `content/<dil>.json` dosyasında, görsel ve `enabled` alanı `products.json` dosyasında düzenlenir.

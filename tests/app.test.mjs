@@ -1,3 +1,4 @@
+import {hasEditorialContent} from '../src/utils/editorial.js';
 import {buildBreadcrumbs} from '../src/routing/breadcrumbs.js';
 import test from 'node:test';
 import assert from 'node:assert/strict';
@@ -56,6 +57,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  const window=new Window({url:'http://localhost/index.html',settings:{enableJavaScriptEvaluation:true}});
  const edited=structuredClone(data);const p=edited.products.find(p=>p.code==='100-01-02');p.variants[0].price=111;p.variants[1].price=222;p.variants[1].pricesByCurrency={USD:9.99};p.variants[1].description='<strong onclick="window.bad=1">Deneme</strong><br><b>Kalın</b><script>window.bad=1</script>';p.variants[1].weight='500 g';p.variants[0].images=['pastalar/test-xs.png','pastalar/test-xs-2.png'];p.variants[1].images=['pastalar/test-s.png','pastalar/test-s-2.png'];
  edited.products.find(x=>x.name==='Lotus Kulesi').editorial[0].enabled=false;
+ Object.assign(edited.products.find(x=>x.name==='Lotus Kulesi').editorial[1],{image:'/assets/images/medya/test-box.png',paragraphs:['Kutuyu saklama alanı olarak değerlendirin.']});
  edited.products[0].markets=['TR'];
  const hidden=edited.categories.find(c=>c.name==='Kahvaltılıklar');hidden.megaMenuOnline=false;
  edited.subcategories.find(s=>s.name==='Cevizli Baklavalar').megaMenuOnline=false;
@@ -398,4 +400,16 @@ test('pudding catalogue retains source identifiers, images, unknowns and all loc
   }
   assert.equal(localized.subcategories.filter(c=>c.categoryId==='muhallebiler').length,4);
  }
+});
+
+test('editorial visibility respects flags and ignores empty and dummy content',()=>{
+ const blank={enabled:true,title:'',image:'',paragraphs:['','','']};
+ assert.equal(hasEditorialContent(blank),false);
+ assert.equal(hasEditorialContent({...blank,title:'Ürünün hikayesi',paragraphs:['Lorem ipsum dolor sit amet.']}),false);
+ assert.equal(hasEditorialContent({...blank,image:'/assets/images/medya/gorsel-bekleniyor.svg',paragraphs:['<br>&nbsp;']}),false);
+ for(const change of [{title:'Baklavanın yolculuğu'},{image:'/assets/images/medya/box.jpg'},{paragraphs:['Gerçek ürün hikâyesi.']}]){
+  assert.equal(hasEditorialContent({...blank,...change}),true);
+  assert.equal(hasEditorialContent({...blank,...change,enabled:false}),false);
+ }
+ for(const product of data.products)for(const section of product.editorial)assert.equal(hasEditorialContent(section),false);
 });
