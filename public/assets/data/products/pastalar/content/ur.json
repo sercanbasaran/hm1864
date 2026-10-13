@@ -3,146 +3,326 @@
   "language": "ur",
   "products": {
     "500-0101-lotus-kulesi": {
-      "name": "",
+      "name": "لوٹس ٹاور",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "لت بخش لوٹس بسکٹ کے ساتھ ہر لقمے میں ایک انفرادی ذائقہ۔",
+          "portion": "ایک شخص",
+          "weight": "390 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "لت بخش لوٹس بسکٹ کے ساتھ ہر لقمے میں ایک انفرادی ذائقہ۔",
+          "portion": "6 افراد",
+          "weight": "3900 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0201-diplomat": {
-      "name": "",
+      "name": "سفارت کار (ڈپلومیٹ)",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "چاکلیٹ کیک اور کرسپی کیریملائزڈ کروکینٹ کا لاجواب کرنچ۔",
+          "portion": "ایک شخص",
+          "weight": "305 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "چاکلیٹ کیک اور کرسپی کیریملائزڈ کروکینٹ کا لاجواب کرنچ۔",
+          "portion": "6 افراد",
+          "weight": "3050 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0202-kara-sevda": {
-      "name": "",
+      "name": "کارا سیودا",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "ہر لقمے میں ایک مخملی اور دلکش تجربے۔",
+          "portion": "ایک شخص",
+          "weight": "390 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "ہر لقمے میں ایک مخملی اور دلکش تجربے۔",
+          "portion": "6 افراد",
+          "weight": "3900 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0203-siyah-inci": {
-      "name": "",
+      "name": "سیاہ موتی",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "ایک خاص شاہکار جو آنکھوں اور ذائقے دونوں کو موہ لے۔",
+          "portion": "ایک شخص",
+          "weight": "325 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "ایک خاص شاہکار جو آنکھوں اور ذائقے دونوں کو موہ لے۔",
+          "portion": "6 افراد",
+          "weight": "3250 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0301-cilek-ruyasi": {
-      "name": "",
+      "name": "اسٹرابیری خواب",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "اسٹرابیری کے ٹکڑوں کا تازہ اور تروتازہ ذائقہ۔",
+          "portion": "ایک شخص",
+          "weight": "350 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "اسٹرابیری کے ٹکڑوں کا تازہ اور تروتازہ ذائقہ۔",
+          "portion": "6 افراد",
+          "weight": "3500 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0302-ilk-ask": {
-      "name": "",
+      "name": "پہلا پیار",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "بہترین موسمی اسٹرابیری سے سجا ہوا ایک شاندار شاہکار۔",
+          "portion": "ایک شخص",
+          "weight": "350 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "بہترین موسمی اسٹرابیری سے سجا ہوا ایک شاندار شاہکار۔",
+          "portion": "6 افراد",
+          "weight": "3500 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0303-pembe-ruya": {
-      "name": "",
+      "name": "گلابی خواب",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "دو خاص ذائقوں کا ایک ناقابلِ مزاحمت اور لذیذ امتزاج۔",
+          "portion": "ایک شخص",
+          "weight": "350 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "دو خاص ذائقوں کا ایک ناقابلِ مزاحمت اور لذیذ امتزاج۔",
+          "portion": "6 افراد",
+          "weight": "3500 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0304-son-ask": {
-      "name": "",
+      "name": "آخری پیار",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "اسٹرابیری کی تازگی اور ملک چاکلیٹ کی بھرپور مٹھاس کا حسین امتزاج۔",
+          "portion": "ایک شخص",
+          "weight": "350 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "اسٹرابیری کی تازگی اور ملک چاکلیٹ کی بھرپور مٹھاس کا حسین امتزاج۔",
+          "portion": "6 افراد",
+          "weight": "3500 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0401-istanbul-hikayesi": {
-      "name": "",
+      "name": "استنبول کی کہانی",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "آئیکنک بقلاوہ سے متاثر پستہ کی میٹھی تہیں (تہہ دار ذائقہ)۔",
+          "portion": "ایک شخص",
+          "weight": "350 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "آئیکنک بقلاوہ سے متاثر پستہ کی میٹھی تہیں (تہہ دار ذائقہ)۔",
+          "portion": "6 افراد",
+          "weight": "3500 گرام"
+        }
       },
       "editorial": {}
     },
     "500-05-01-cikolat-ahu": {
-      "name": "",
+      "name": "چاکلیٹ اور راسپبیری",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "راسپبیری اور سپنج کیک کا اعلیٰ درجے کا ذائقہ۔",
+          "portion": "ایک شخص",
+          "weight": "325 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "راسپبیری اور سپنج کیک کا اعلیٰ درجے کا ذائقہ۔",
+          "portion": "6 افراد",
+          "weight": "3250 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0502-tatli-ahu": {
-      "name": "",
+      "name": "میٹھی راسپبیری",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "سفید چاکلیٹ کی کریمی مٹھاس کے ساتھ کیک کا ایک بہترین لطف۔",
+          "portion": "ایک شخص",
+          "weight": "330 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "سفید چاکلیٹ کی کریمی مٹھاس کے ساتھ کیک کا ایک بہترین لطف۔",
+          "portion": "6 افراد",
+          "weight": "3300 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0601-cikolatali-meyve-bahcesi": {
-      "name": "",
+      "name": "چاکلیٹی پھلوں کا باغ",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "رنگ برنگے پھلوں کا ایک بصری شاہکار۔",
+          "portion": "ایک شخص",
+          "weight": "390 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "رنگ برنگے پھلوں کا ایک بصری شاہکار۔",
+          "portion": "6 افراد",
+          "weight": "3900 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0602-meyve-bahcesi": {
-      "name": "",
+      "name": "پھلوں کا باغ",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "کیک کو گھیرے ہوئے پھلوں کے ساتھ ٹراپیکل ذائقے کی دریافت۔",
+          "portion": "ایک شخص",
+          "weight": "390 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "کیک کو گھیرے ہوئے پھلوں کے ساتھ ٹراپیکل ذائقے کی دریافت۔",
+          "portion": "6 افراد",
+          "weight": "3900 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0701-beyaz-inci": {
-      "name": "",
+      "name": "سفید موتی",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "ہیزلنٹس کی بھرپور غذائیت، کیلے کی تازگی اور کیریمل کا ریشمی توازن۔",
+          "portion": "ایک شخص",
+          "weight": "395 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "ہیزلنٹس کی بھرپور غذائیت، کیلے کی تازگی اور کیریمل کا ریشمی توازن۔",
+          "portion": "6 افراد",
+          "weight": "3950 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0702-buyuk-ask": {
-      "name": "",
+      "name": "عظیم محبت",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "کیلے اور کریم کا ایک غیر ملکی اور دل کو سکون دینے والا میٹھا تجربہ۔",
+          "portion": "ایک شخص",
+          "weight": "350 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "کیلے اور کریم کا ایک غیر ملکی اور دل کو سکون دینے والا میٹھا تجربہ۔",
+          "portion": "6 افراد",
+          "weight": "3500 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0703-sonsuz-ask": {
-      "name": "",
+      "name": "لازوال محبت",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "بھرپور چاکلیٹ اور کیلے کا ایک شاندار اور دلکش امتزاج۔",
+          "portion": "ایک شخص",
+          "weight": "355 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "بھرپور چاکلیٹ اور کیلے کا ایک شاندار اور دلکش امتزاج۔",
+          "portion": "6 افراد",
+          "weight": "3550 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0801-amazon-buyusu": {
-      "name": "",
+      "name": "ایمیزون کا جادو",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "جنگلی پھلوں اور چاکلیٹ کا ایک بھرپور اور لذیذ امتزاج۔",
+          "portion": "ایک شخص",
+          "weight": "380 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "جنگلی پھلوں اور چاکلیٹ کا ایک بھرپور اور لذیذ امتزاج۔",
+          "portion": "6 افراد",
+          "weight": "3800 گرام"
+        }
       },
       "editorial": {}
     },
     "500-0802-amazon-hikayesi": {
-      "name": "",
+      "name": "ایمیزون کی کہانی",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "سلائس",
+          "description": "وہ لمحہ جب سفید چاکلیٹ جنگلی پھلوں سے ملتی ہے۔",
+          "portion": "ایک شخص",
+          "weight": "375 گرام"
+        },
+        "baton": {
+          "label": "بیٹن",
+          "description": "وہ لمحہ جب سفید چاکلیٹ جنگلی پھلوں سے ملتی ہے۔",
+          "portion": "6 افراد",
+          "weight": "3750 گرام"
+        }
       },
       "editorial": {}
     }

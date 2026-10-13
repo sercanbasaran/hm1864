@@ -3,146 +3,326 @@
   "language": "es",
   "products": {
     "500-0101-lotus-kulesi": {
-      "name": "",
+      "name": "Torre Lotus",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "Sabor único en cada bocado con las adictivas galletas Lotus.",
+          "portion": "Porción Individual",
+          "weight": "390 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Sabor único en cada bocado con las adictivas galletas Lotus.",
+          "portion": "6 Porciones",
+          "weight": "3900 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0201-diplomat": {
-      "name": "",
+      "name": "Diplomático",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "El crujiente exquisito del bizcocho de chocolate y el crocant caramelizado.",
+          "portion": "Porción Individual",
+          "weight": "305 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "El crujiente exquisito del bizcocho de chocolate y el crocant caramelizado.",
+          "portion": "6 Porciones",
+          "weight": "3050 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0202-kara-sevda": {
-      "name": "",
+      "name": "Kara Sevda (Amor Prohibido)",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "Una experiencia aterciopelada en cada bocado.",
+          "portion": "Porción Individual",
+          "weight": "390 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Una experiencia aterciopelada en cada bocado.",
+          "portion": "6 Porciones",
+          "weight": "3900 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0203-siyah-inci": {
-      "name": "",
+      "name": "Perla Negra",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "Un manjar especial que cautiva a la vista y al paladar.",
+          "portion": "Porción Individual",
+          "weight": "325 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un manjar especial que cautiva a la vista y al paladar.",
+          "portion": "6 Porciones",
+          "weight": "3250 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0301-cilek-ruyasi": {
-      "name": "",
+      "name": "Sueño de Fresa",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "El sabor refrescante de los trozos de fresa.",
+          "portion": "Porción Individual",
+          "weight": "350 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "El sabor refrescante de los trozos de fresa.",
+          "portion": "6 Porciones",
+          "weight": "3500 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0302-ilk-ask": {
-      "name": "",
+      "name": "Primer Amor",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "Un postre elegante que destaca las mejores fresas de temporada.",
+          "portion": "Porción Individual",
+          "weight": "350 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un postre elegante que destaca las mejores fresas de temporada.",
+          "portion": "6 Porciones",
+          "weight": "3500 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0303-pembe-ruya": {
-      "name": "",
+      "name": "Sueño Rosado",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "Una experiencia irresistible y llena de sabor que une dos gustos especiales.",
+          "portion": "Porción Individual",
+          "weight": "350 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Una experiencia irresistible y llena de sabor que une dos gustos especiales.",
+          "portion": "6 Porciones",
+          "weight": "3500 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0304-son-ask": {
-      "name": "",
+      "name": "Último Amor",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "Un deleite que combina el sabor de la fresa con la riqueza del chocolate con leche.",
+          "portion": "Porción Individual",
+          "weight": "350 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un deleite que combina el sabor de la fresa con la riqueza del chocolate con leche.",
+          "portion": "6 Porciones",
+          "weight": "3500 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0401-istanbul-hikayesi": {
-      "name": "",
+      "name": "Historia de Estambul",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "Capas dulces de pistacho inspiradas en el emblemático baklava.",
+          "portion": "Porción Individual",
+          "weight": "350 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Capas dulces de pistacho inspiradas en el emblemático baklava.",
+          "portion": "6 Porciones",
+          "weight": "3500 gramos"
+        }
       },
       "editorial": {}
     },
     "500-05-01-cikolat-ahu": {
-      "name": "",
+      "name": "Choco-Frambuesa",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "El sabor superior de las frambuesas y el bizcocho.",
+          "portion": "Porción Individual",
+          "weight": "325 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "El sabor superior de las frambuesas y el bizcocho.",
+          "portion": "6 Porciones",
+          "weight": "3250 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0502-tatli-ahu": {
-      "name": "",
+      "name": "Dulce Frambuesa",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "Un pastel perfecto que combina la rica cremosidad del chocolate blanco.",
+          "portion": "Porción Individual",
+          "weight": "330 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un pastel perfecto que combina la rica cremosidad del chocolate blanco.",
+          "portion": "6 Porciones",
+          "weight": "3300 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0601-cikolatali-meyve-bahcesi": {
-      "name": "",
+      "name": "Jardín de Frutas con Chocolate",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "Un festín visual de frutas coloridas.",
+          "portion": "Porción Individual",
+          "weight": "390 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un festín visual de frutas coloridas.",
+          "portion": "6 Porciones",
+          "weight": "3900 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0602-meyve-bahcesi": {
-      "name": "",
+      "name": "Jardín de Frutas",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "El descubrimiento del sabor tropical con frutas que envuelven el pastel.",
+          "portion": "Porción Individual",
+          "weight": "390 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "El descubrimiento del sabor tropical con frutas que envuelven el pastel.",
+          "portion": "6 Porciones",
+          "weight": "3900 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0701-beyaz-inci": {
-      "name": "",
+      "name": "Perla Blanca",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "La riqueza de la avellana se une a la frescura del plátano y el equilibrio sedoso del caramelo.",
+          "portion": "Porción Individual",
+          "weight": "395 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "La riqueza de la avellana se une a la frescura del plátano y el equilibrio sedoso del caramelo.",
+          "portion": "6 Porciones",
+          "weight": "3950 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0702-buyuk-ask": {
-      "name": "",
+      "name": "Gran Amor",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "Un dulce y reconfortante descubrimiento exótico de plátano y crema.",
+          "portion": "Porción Individual",
+          "weight": "350 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un dulce y reconfortante descubrimiento exótico de plátano y crema.",
+          "portion": "6 Porciones",
+          "weight": "3500 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0703-sonsuz-ask": {
-      "name": "",
+      "name": "Amor Eterno",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "Una exquisita combinación de chocolate intenso y plátanos.",
+          "portion": "Porción Individual",
+          "weight": "355 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Una exquisita combinación de chocolate intenso y plátanos.",
+          "portion": "6 Porciones",
+          "weight": "3550 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0801-amazon-buyusu": {
-      "name": "",
+      "name": "Magia Amazónica",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "Una experiencia rica y deliciosa que une frutos del bosque con chocolate.",
+          "portion": "Porción Individual",
+          "weight": "380 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Una experiencia rica y deliciosa que une frutos del bosque con chocolate.",
+          "portion": "6 Porciones",
+          "weight": "3800 gramos"
+        }
       },
       "editorial": {}
     },
     "500-0802-amazon-hikayesi": {
-      "name": "",
+      "name": "Historia Amazónica",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Porción",
+          "description": "El momento en que el chocolate blanco se encuentra con los frutos del bosque.",
+          "portion": "Porción Individual",
+          "weight": "375 gramos"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "El momento en que el chocolate blanco se encuentra con los frutos del bosque.",
+          "portion": "6 Porciones",
+          "weight": "3750 gramos"
+        }
       },
       "editorial": {}
     }

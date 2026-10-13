@@ -3,146 +3,326 @@
   "language": "ar",
   "products": {
     "500-0101-lotus-kulesi": {
-      "name": "",
+      "name": "برج لوتس",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "مذاق فريد في كل قمة مع بسكويت لوتس الإدماني.",
+          "portion": "شخص واحد",
+          "weight": "390 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "مذاق فريد في كل قمة مع بسكويت لوتس الإدماني.",
+          "portion": "6 أشخاص",
+          "weight": "3900 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0201-diplomat": {
-      "name": "",
+      "name": "دبلومات",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "القرمشة الرائعة لكعكة الشوكولاتة والكراميل المقرمش.",
+          "portion": "شخص واحد",
+          "weight": "305 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "القرمشة الرائعة لكعكة الشوكولاتة والكراميل المقرمش.",
+          "portion": "6 أشخاص",
+          "weight": "3050 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0202-kara-sevda": {
-      "name": "",
+      "name": "كارا سيفدا (العشق الممنوع)",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "تجربة مخملية في كل قضم.",
+          "portion": "شخص واحد",
+          "weight": "390 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "تجربة مخملية في كل قضم.",
+          "portion": "6 أشخاص",
+          "weight": "3900 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0203-siyah-inci": {
-      "name": "",
+      "name": "اللؤلؤة السوداء",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "حلوى مميزة تخاطب العين والذوق.",
+          "portion": "شخص واحد",
+          "weight": "325 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "حلوى مميزة تخاطب العين والذوق.",
+          "portion": "6 أشخاص",
+          "weight": "3250 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0301-cilek-ruyasi": {
-      "name": "",
+      "name": "حلم الفراولة",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "الطعم المنعش لقطع الفراولة.",
+          "portion": "شخص واحد",
+          "weight": "350 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "الطعم المنعش لقطع الفراولة.",
+          "portion": "6 أشخاص",
+          "weight": "3500 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0302-ilk-ask": {
-      "name": "",
+      "name": "الحب الأول",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "حلوى أنيقة تبرز أفضل فراولة موسمية.",
+          "portion": "شخص واحد",
+          "weight": "350 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "حلوى أنيقة تبرز أفضل فراولة موسمية.",
+          "portion": "6 أشخاص",
+          "weight": "3500 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0303-pembe-ruya": {
-      "name": "",
+      "name": "الحلم الوردي",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "تجربة لا تُقاوم تجمع بين نكهتين خاصتين.",
+          "portion": "شخص واحد",
+          "weight": "350 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "تجربة لا تُقاوم تجمع بين نكهتين خاصتين.",
+          "portion": "6 أشخاص",
+          "weight": "3500 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0304-son-ask": {
-      "name": "",
+      "name": "الحب الأخير",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "نكهة تجمع بين طعم الفراولة وغنى شوكولاتة الحليب.",
+          "portion": "شخص واحد",
+          "weight": "350 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "نكهة تجمع بين طعم الفراولة وغنى شوكولاتة الحليب.",
+          "portion": "6 أشخاص",
+          "weight": "3500 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0401-istanbul-hikayesi": {
-      "name": "",
+      "name": "حكاية إسطنبول",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "طبقات حلوة من الفستق المستوحاة من البقلاوة الشهيرة.",
+          "portion": "شخص واحد",
+          "weight": "350 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "طبقات حلوة من الفستق المستوحاة من البقلاوة الشهيرة.",
+          "portion": "6 أشخاص",
+          "weight": "3500 جرام"
+        }
       },
       "editorial": {}
     },
     "500-05-01-cikolat-ahu": {
-      "name": "",
+      "name": "شوكولاتة التوت البري",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "المذاق الفاخر للتوت البري والكيك الاسفنجي.",
+          "portion": "شخص واحد",
+          "weight": "325 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "المذاق الفاخر للتوت البري والكيك الاسفنجي.",
+          "portion": "6 أشخاص",
+          "weight": "3250 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0502-tatli-ahu": {
-      "name": "",
+      "name": "التوت الحلو",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "متعة كيك مثالية تجمع الشوكولاتة البيضاء بالغنى الكريمي الحلو.",
+          "portion": "شخص واحد",
+          "weight": "330 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "متعة كيك مثالية تجمع الشوكولاتة البيضاء بالغنى الكريمي الحلو.",
+          "portion": "6 أشخاص",
+          "weight": "3300 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0601-cikolatali-meyve-bahcesi": {
-      "name": "",
+      "name": "حديقة الفواكه بالشوكولاتة",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "وليمة بصرية من الفواكه الملونة.",
+          "portion": "شخص واحد",
+          "weight": "390 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "وليمة بصرية من الفواكه الملونة.",
+          "portion": "6 أشخاص",
+          "weight": "3900 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0602-meyve-bahcesi": {
-      "name": "",
+      "name": "حديقة الفواكه",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "اكتشاف النكهة الاستوائية مع الفواكه المحيطة بالكيك.",
+          "portion": "شخص واحد",
+          "weight": "390 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "اكتشاف النكهة الاستوائية مع الفواكه المحيطة بالكيك.",
+          "portion": "6 أشخاص",
+          "weight": "3900 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0701-beyaz-inci": {
-      "name": "",
+      "name": "اللؤلؤة البيضاء",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "تتحد غنى البندق مع نضارة الموز وتوازن الكراميل الناعم.",
+          "portion": "شخص واحد",
+          "weight": "395 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "تتحد غنى البندق مع نضارة الموز وتوازن الكراميل الناعم.",
+          "portion": "6 أشخاص",
+          "weight": "3950 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0702-buyuk-ask": {
-      "name": "",
+      "name": "الحب الكبير",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "اكتشاف حلو غريب ومريح للموز والريمة.",
+          "portion": "شخص واحد",
+          "weight": "350 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "اكتشاف حلو غريب ومريح للموز والريمة.",
+          "portion": "6 أشخاص",
+          "weight": "3500 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0703-sonsuz-ask": {
-      "name": "",
+      "name": "الحب الأبدي",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "مزيج رائع من الشوكولاتة الغنية والموز.",
+          "portion": "شخص واحد",
+          "weight": "355 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "مزيج رائع من الشوكولاتة الغنية والموز.",
+          "portion": "6 أشخاص",
+          "weight": "3550 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0801-amazon-buyusu": {
-      "name": "",
+      "name": "سحر الأمازون",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "تجربة غنية ولذيذة تجمع فواكه الغابة مع الشوكولاتة.",
+          "portion": "شخص واحد",
+          "weight": "380 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "تجربة غنية ولذيذة تجمع فواكه الغابة مع الشوكولاتة.",
+          "portion": "6 أشخاص",
+          "weight": "3800 جرام"
+        }
       },
       "editorial": {}
     },
     "500-0802-amazon-hikayesi": {
-      "name": "",
+      "name": "حكاية الأمازون",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "قطعة",
+          "description": "لحظة لقاء الشوكولاتة البيضاء بفواكه الغابة.",
+          "portion": "شخص واحد",
+          "weight": "375 جرام"
+        },
+        "baton": {
+          "label": "قالب",
+          "description": "لحظة لقاء الشوكولاتة البيضاء بفواكه الغابة.",
+          "portion": "6 أشخاص",
+          "weight": "3750 جرام"
+        }
       },
       "editorial": {}
     }

@@ -15,9 +15,9 @@ export default function OrderAvailability() {
      {/*  <h3>
         <RichText value={t("ui.storeOnlyTitle")} />
       </h3> */}
-      <p>
+      <small>
         <RichText value={t("ui.storeOnlyNote")} />
-      </p>
+      </small>
       <div className="order-platforms">
         {(data.orderPlatforms || []).map((platform) => {
           const logo = (

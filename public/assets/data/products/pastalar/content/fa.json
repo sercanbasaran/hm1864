@@ -3,146 +3,254 @@
   "language": "fa",
   "products": {
     "500-0101-lotus-kulesi": {
-      "name": "",
+      "name": "برج لوتوس",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "طعمی بی‌نظیر در هر گاز با بیسکویت‌های اعتیادآور لوتوس."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "طعمی بی‌نظیر در هر گاز با بیسکویت‌های اعتیادآور لوتوس."
+        }
       },
       "editorial": {}
     },
     "500-0201-diplomat": {
-      "name": "",
+      "name": "دیپلمات",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "ترد و شگفت‌انگیز کیک شکلاتی و کراکنت کاراملی ترد."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "ترد و شگفت‌انگیز کیک شکلاتی و کراکنت کاراملی ترد."
+        }
       },
       "editorial": {}
     },
     "500-0202-kara-sevda": {
-      "name": "",
+      "name": "کارا سودا (عشق سیاه)",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "تجربه‌ای مخملی در هر گاز."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "تجربه‌ای مخملی در هر گاز."
+        }
       },
       "editorial": {}
     },
     "500-0203-siyah-inci": {
-      "name": "",
+      "name": "مروارید سیاه",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "خطوطی خاص که چشم و کام را نوازش می‌دهد."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "خطوطی خاص که چشم و کام را نوازش می‌دهد."
+        }
       },
       "editorial": {}
     },
     "500-0301-cilek-ruyasi": {
-      "name": "",
+      "name": "رویای توت‌فرنگی",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "طعم طراوت‌بخش تکه‌های توت‌فرنگی."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "طعم طراوت‌بخش تکه‌های توت‌فرنگی."
+        }
       },
       "editorial": {}
     },
     "500-0302-ilk-ask": {
-      "name": "",
+      "name": "عشق اول",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "شیرینی لطیف و ظریفی که بهترین توت‌فرنگی‌های فصلی را به نمایش می‌گذارد."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "شیرینی لطیف و ظریفی که بهترین توت‌فرنگی‌های فصلی را به نمایش می‌گذارد."
+        }
       },
       "editorial": {}
     },
     "500-0303-pembe-ruya": {
-      "name": "",
+      "name": "رویای صورتی",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "تجربه‌ای وسوسه‌انگیز و لذیذ که دو طعم خاص را گرد هم می‌آورد."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "تجربه‌ای وسوسه‌انگیز و لذیذ که دو طعم خاص را گرد هم می‌آورد."
+        }
       },
       "editorial": {}
     },
     "500-0304-son-ask": {
-      "name": "",
+      "name": "عشق آخر",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "ترکیبی دلنشین از طعم توت‌فرنگی و غنای شکلات شیری."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "ترکیبی دلنشین از طعم توت‌فرنگی و غنای شکلات شیری."
+        }
       },
       "editorial": {}
     },
     "500-0401-istanbul-hikayesi": {
-      "name": "",
+      "name": "داستان استانبول",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "لایه‌های شیرین پسته الهام‌گرفته از باقلوای نمادین."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "لایه‌های شیرین پسته الهام‌گرفته از باقلوای نمادین."
+        }
       },
       "editorial": {}
     },
     "500-05-01-cikolat-ahu": {
-      "name": "",
+      "name": "شکلات و تمشک",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "طعم برتر تمشک و کیک اسفنجی."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "طعم برتر تمشک و کیک اسفنجی."
+        }
       },
       "editorial": {}
     },
     "500-0502-tatli-ahu": {
-      "name": "",
+      "name": "تمشک شیرین",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "یک کیک بی‌نقص که لطافت شکلات سفید را با غنای خامه‌ای درهم می‌آمیزد."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "یک کیک بی‌نقص که لطافت شکلات سفید را با غنای خامه‌ای درهم می‌آمیزد."
+        }
       },
       "editorial": {}
     },
     "500-0601-cikolatali-meyve-bahcesi": {
-      "name": "",
+      "name": "باغ میوه شکلاتی",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "جشنواره‌ای بصری از میوه‌های رنگارنگ."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "جشنواره‌ای بصری از میوه‌های رنگارنگ."
+        }
       },
       "editorial": {}
     },
     "500-0602-meyve-bahcesi": {
-      "name": "",
+      "name": "باغ میوه",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "کشف طعم‌های استوایی با میوه‌های احاطه‌کننده کیک."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "کشف طعم‌های استوایی با میوه‌های احاطه‌کننده کیک."
+        }
       },
       "editorial": {}
     },
     "500-0701-beyaz-inci": {
-      "name": "",
+      "name": "مروارید سفید",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "غنای فندق با طراوت موز و تعادل ابریشمی کارامل پیوند می‌خورد."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "غنای فندق با طراوت موز و تعادل ابریشمی کارامل پیوند می‌خورد."
+        }
       },
       "editorial": {}
     },
     "500-0702-buyuk-ask": {
-      "name": "",
+      "name": "عشق بزرگ",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "کشفی شیرین، عجیب و آرامش‌بخش از موز و خامه."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "کشفی شیرین، عجیب و آرامش‌بخش از موز و خامه."
+        }
       },
       "editorial": {}
     },
     "500-0703-sonsuz-ask": {
-      "name": "",
+      "name": "عشق ابدی",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "ترکیبی فوق‌العاده از شکلات غنی و موز."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "ترکیبی فوق‌العاده از شکلات غنی و موز."
+        }
       },
       "editorial": {}
     },
     "500-0801-amazon-buyusu": {
-      "name": "",
+      "name": "جادوی آمازون",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "تجربه‌ای غنی و لذیذ که میوه‌های جنگلی را با شکلات پیوند می‌زند."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "تجربه‌ای غنی و لذیذ که میوه‌های جنگلی را با شکلات پیوند می‌زند."
+        }
       },
       "editorial": {}
     },
     "500-0802-amazon-hikayesi": {
-      "name": "",
+      "name": "داستان آمازون",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "برش",
+          "description": "لحظه تلاقی شکلات سفید با میوه‌های جنگلی."
+        },
+        "baton": {
+          "label": "باتون",
+          "description": "لحظه تلاقی شکلات سفید با میوه‌های جنگلی."
+        }
       },
       "editorial": {}
     }

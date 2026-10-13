@@ -3,146 +3,326 @@
   "language": "ja",
   "products": {
     "500-0101-lotus-kulesi": {
-      "name": "",
+      "name": "ロータスタワー",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "病みつきになるロータスビスケットとともに、一口ごとに広がる絶品の味わい。",
+          "portion": "1人前",
+          "weight": "390グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "病みつきになるロータスビスケットとともに、一口ごとに広がる絶品の味わい。",
+          "portion": "6人前",
+          "weight": "3900グラム"
+        }
       },
       "editorial": {}
     },
     "500-0201-diplomat": {
-      "name": "",
+      "name": "ディプロマット",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "チョコレートケーキとカリッとしたキャラメリゼクロッカンの絶妙な食感。",
+          "portion": "1人前",
+          "weight": "305グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "チョコレートケーキとカリッとしたキャラメリゼクロッカンの絶妙な食感。",
+          "portion": "6人前",
+          "weight": "3050グラム"
+        }
       },
       "editorial": {}
     },
     "500-0202-kara-sevda": {
-      "name": "",
+      "name": "カラ・セヴダ",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "一口ごとにベルベットのような滑らかな口溶け。",
+          "portion": "1人前",
+          "weight": "390グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "一口ごとにベルベットのような滑らかな口溶け。",
+          "portion": "6人前",
+          "weight": "3900グラム"
+        }
       },
       "editorial": {}
     },
     "500-0203-siyah-inci": {
-      "name": "",
+      "name": "ブラック・パール",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "目と舌を魅了する特別な味わい。",
+          "portion": "1人前",
+          "weight": "325グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "目と舌を魅了する特別な味わい。",
+          "portion": "6人前",
+          "weight": "3250グラム"
+        }
       },
       "editorial": {}
     },
     "500-0301-cilek-ruyasi": {
-      "name": "",
+      "name": "ストロベリー・ドリーム",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "イチゴの果肉がもたらす爽やかな風味。",
+          "portion": "1人前",
+          "weight": "350グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "イチゴの果肉がもたらす爽やかな風味。",
+          "portion": "6人前",
+          "weight": "3500グラム"
+        }
       },
       "editorial": {}
     },
     "500-0302-ilk-ask": {
-      "name": "",
+      "name": "初恋",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "旬の極上イチゴを贅沢に飾った上品な味わい。",
+          "portion": "1人前",
+          "weight": "350グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "旬の極上イチゴを贅沢に飾った上品な味わい。",
+          "portion": "6人前",
+          "weight": "3500グラム"
+        }
       },
       "editorial": {}
     },
     "500-0303-pembe-ruya": {
-      "name": "",
+      "name": "ピンク・ドリーム",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "2つの特別な美味しさが織りなす、抗えない魅力に満ちた体験。",
+          "portion": "1人前",
+          "weight": "350グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "2つの特別な美味しさが織りなす、抗えない魅力に満ちた体験。",
+          "portion": "6人前",
+          "weight": "3500グラム"
+        }
       },
       "editorial": {}
     },
     "500-0304-son-ask": {
-      "name": "",
+      "name": "最後の恋",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "イチゴの風味がミルクチョコレートの豊かなコクと調和する逸品。",
+          "portion": "1人前",
+          "weight": "350グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "イチゴの風味がミルクチョコレートの豊かなコクと調和する逸品。",
+          "portion": "6人前",
+          "weight": "3500グラム"
+        }
       },
       "editorial": {}
     },
     "500-0401-istanbul-hikayesi": {
-      "name": "",
+      "name": "イスタンブールの物語",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "伝統的なバクラヴァからインスピレーションを得た、ピスタチオの甘いレイヤー。",
+          "portion": "1人前",
+          "weight": "350グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "伝統的なバクラヴァからインスピレーションを得た、ピスタチオの甘いレイヤー。",
+          "portion": "6人前",
+          "weight": "3500グラム"
+        }
       },
       "editorial": {}
     },
     "500-05-01-cikolat-ahu": {
-      "name": "",
+      "name": "チョコ・ラズベリー",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "ラズベリーとスポンジケーキの極上の調和。",
+          "portion": "1人前",
+          "weight": "325グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "ラズベリーとスポンジケーキの極上の調和。",
+          "portion": "6人前",
+          "weight": "3250グラム"
+        }
       },
       "editorial": {}
     },
     "500-0502-tatli-ahu": {
-      "name": "",
+      "name": "スウィート・ラズベリー",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "ホワイトチョコレートのクリーミーで甘いコクが広がる完璧なケーキ。",
+          "portion": "1人前",
+          "weight": "330グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "ホワイトチョコレートのクリーミーで甘いコクが広がる完璧なケーキ。",
+          "portion": "6人前",
+          "weight": "3300グラム"
+        }
       },
       "editorial": {}
     },
     "500-0601-cikolatali-meyve-bahcesi": {
-      "name": "",
+      "name": "チョコレート・フルーツガーデン",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "色鮮やかなフルーツによる視覚的なごちそう。",
+          "portion": "1人前",
+          "weight": "390グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "色鮮やかなフルーツによる視覚的なごちそう。",
+          "portion": "6人前",
+          "weight": "3900グラム"
+        }
       },
       "editorial": {}
     },
     "500-0602-meyve-bahcesi": {
-      "name": "",
+      "name": "フルーツガーデン",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "ケーキを包み込むフルーツとともに楽しむトロピカルな発見。",
+          "portion": "1人前",
+          "weight": "390グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "ケーキを包み込むフルーツとともに楽しむトロピカルな発見。",
+          "portion": "6人前",
+          "weight": "3900グラム"
+        }
       },
       "editorial": {}
     },
     "500-0701-beyaz-inci": {
-      "name": "",
+      "name": "ホワイト・パール",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "ヘーゼルナッツの豊かな風味、バナナのフレッシュさ、キャラメルのシルキーな調和。",
+          "portion": "1人前",
+          "weight": "395グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "ヘーゼルナッツの豊かな風味、バナナのフレッシュさ、キャラメルのシルキーな調和。",
+          "portion": "6人前",
+          "weight": "3950グラム"
+        }
       },
       "editorial": {}
     },
     "500-0702-buyuk-ask": {
-      "name": "",
+      "name": "大いなる愛",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "バナナとクリームが織りなすエキゾチックで心地よい甘い発見。",
+          "portion": "1人前",
+          "weight": "350グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "バナナとクリームが織りなすエキゾチックで心地よい甘い発見。",
+          "portion": "6人前",
+          "weight": "3500グラム"
+        }
       },
       "editorial": {}
     },
     "500-0703-sonsuz-ask": {
-      "name": "",
+      "name": "永遠の愛",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "リッチなチョコレートとバナナの絶妙な組み合わせ。",
+          "portion": "1人前",
+          "weight": "355グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "リッチなチョコレートとバナナの絶妙な組み合わせ。",
+          "portion": "6人前",
+          "weight": "3550グラム"
+        }
       },
       "editorial": {}
     },
     "500-0801-amazon-buyusu": {
-      "name": "",
+      "name": "アマゾンの魔法",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "森のフルーツとチョコレートを組み合わせた、リッチで贅沢な味わい。",
+          "portion": "1人前",
+          "weight": "380グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "森のフルーツとチョコレートを組み合わせた、リッチで贅沢な味わい。",
+          "portion": "6人前",
+          "weight": "3800グラム"
+        }
       },
       "editorial": {}
     },
     "500-0802-amazon-hikayesi": {
-      "name": "",
+      "name": "アマゾンの物語",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "スライス",
+          "description": "ホワイトチョコレートが森のフルーツとが出会う瞬間。",
+          "portion": "1人前",
+          "weight": "375グラム"
+        },
+        "baton": {
+          "label": "バトン",
+          "description": "ホワイトチョコレートが森のフルーツとが出会う瞬間。",
+          "portion": "6人前",
+          "weight": "3750グラム"
+        }
       },
       "editorial": {}
     }

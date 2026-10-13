@@ -3,146 +3,326 @@
   "language": "it",
   "products": {
     "500-0101-lotus-kulesi": {
-      "name": "",
+      "name": "Torre Lotus",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Un sapore unico in ogni morso con i biscotti Lotus che creano dipendenza.",
+          "portion": "Porzione Singola",
+          "weight": "390 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un sapore unico in ogni morso con i biscotti Lotus che creano dipendenza.",
+          "portion": "6 Porzioni",
+          "weight": "3900 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0201-diplomat": {
-      "name": "",
+      "name": "Diplomat",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "La croccantezza squisita della torta al cioccolato e del croccante caramellato.",
+          "portion": "Porzione Singola",
+          "weight": "305 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "La croccantezza squisita della torta al cioccolato e del croccante caramellato.",
+          "portion": "6 Porzioni",
+          "weight": "3050 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0202-kara-sevda": {
-      "name": "",
+      "name": "Kara Sevda",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Un'esperienza vellutata in ogni morso.",
+          "portion": "Porzione Singola",
+          "weight": "390 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un'esperienza vellutata in ogni morso.",
+          "portion": "6 Porzioni",
+          "weight": "3900 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0203-siyah-inci": {
-      "name": "",
+      "name": "Perla Nera",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Una prelibatezza speciale che conquista la vista e il palato.",
+          "portion": "Porzione Singola",
+          "weight": "325 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Una prelibatezza speciale che conquista la vista e il palato.",
+          "portion": "6 Porzioni",
+          "weight": "3250 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0301-cilek-ruyasi": {
-      "name": "",
+      "name": "Sogno di Fragola",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Il gusto rinfrescante dei pezzi di fragola.",
+          "portion": "Porzione Singola",
+          "weight": "350 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Il gusto rinfrescante dei pezzi di fragola.",
+          "portion": "6 Porzioni",
+          "weight": "3500 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0302-ilk-ask": {
-      "name": "",
+      "name": "Primo Amore",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Una prelibatezza elegante che mette in risalto le migliori fragole di stagione.",
+          "portion": "Porzione Singola",
+          "weight": "350 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Una prelibatezza elegante che mette in risalto le migliori fragole di stagione.",
+          "portion": "6 Porzioni",
+          "weight": "3500 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0303-pembe-ruya": {
-      "name": "",
+      "name": "Sogno Rosa",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Un'esperienza irresistibile e ricca di sapore che unisce due gusti speciali.",
+          "portion": "Porzione Singola",
+          "weight": "350 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un'esperienza irresistibile e ricca di sapore che unisce due gusti speciali.",
+          "portion": "6 Porzioni",
+          "weight": "3500 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0304-son-ask": {
-      "name": "",
+      "name": "Ultimo Amore",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Una delizia che unisce il sapore della fragola alla ricchezza del cioccolato al latte.",
+          "portion": "Porzione Singola",
+          "weight": "350 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Una delizia che unisce il sapore della fragola alla ricchezza del cioccolato al latte.",
+          "portion": "6 Porzioni",
+          "weight": "3500 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0401-istanbul-hikayesi": {
-      "name": "",
+      "name": "Storia di Istanbul",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Dolci strati di pistacchio ispirati all'iconico baklava.",
+          "portion": "Porzione Singola",
+          "weight": "350 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Dolci strati di pistacchio ispirati all'iconico baklava.",
+          "portion": "6 Porzioni",
+          "weight": "3500 grammi"
+        }
       },
       "editorial": {}
     },
     "500-05-01-cikolat-ahu": {
-      "name": "",
+      "name": "Cioccolato e Lamponi",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Il gusto superiore dei lamponi e del pan di Spagna.",
+          "portion": "Porzione Singola",
+          "weight": "325 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Il gusto superiore dei lamponi e del pan di Spagna.",
+          "portion": "6 Porzioni",
+          "weight": "3250 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0502-tatli-ahu": {
-      "name": "",
+      "name": "Dolce Lampone",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Una torta perfetta che unisce la ricca cremosità del cioccolato bianco.",
+          "portion": "Porzione Singola",
+          "weight": "330 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Una torta perfetta che unisce la ricca cremosità del cioccolato bianco.",
+          "portion": "6 Porzioni",
+          "weight": "3300 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0601-cikolatali-meyve-bahcesi": {
-      "name": "",
+      "name": "Giardino di Frutta al Cioccolato",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Un tripudio visivo di frutta colorata.",
+          "portion": "Porzione Singola",
+          "weight": "390 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un tripudio visivo di frutta colorata.",
+          "portion": "6 Porzioni",
+          "weight": "3900 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0602-meyve-bahcesi": {
-      "name": "",
+      "name": "Giardino di Frutta",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "La scoperta del sapore tropicale con frutta che avvolge la torta.",
+          "portion": "Porzione Singola",
+          "weight": "390 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "La scoperta del sapore tropicale con frutta che avvolge la torta.",
+          "portion": "6 Porzioni",
+          "weight": "3900 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0701-beyaz-inci": {
-      "name": "",
+      "name": "Perla Bianca",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "La ricchezza della nocciola si unisce alla freschezza della banana e all'equilibrio setoso del caramello.",
+          "portion": "Porzione Singola",
+          "weight": "395 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "La ricchezza della nocciola si unisce alla freschezza della banana e all'equilibrio setoso del caramello.",
+          "portion": "6 Porzioni",
+          "weight": "3950 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0702-buyuk-ask": {
-      "name": "",
+      "name": "Grande Amore",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Una dolce, esotica e confortante scoperta di banana e crema.",
+          "portion": "Porzione Singola",
+          "weight": "350 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Una dolce, esotica e confortante scoperta di banana e crema.",
+          "portion": "6 Porzioni",
+          "weight": "3500 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0703-sonsuz-ask": {
-      "name": "",
+      "name": "Amore Eterno",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Una combinazione squisita di cioccolato ricco e banane.",
+          "portion": "Porzione Singola",
+          "weight": "355 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Una combinazione squisita di cioccolato ricco e banane.",
+          "portion": "6 Porzioni",
+          "weight": "3550 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0801-amazon-buyusu": {
-      "name": "",
+      "name": "Magia Amazzonica",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Un'esperienza ricca e deliziosa che unisce frutti di bosco e cioccolato.",
+          "portion": "Porzione Singola",
+          "weight": "380 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un'esperienza ricca e deliziosa che unisce frutti di bosco e cioccolato.",
+          "portion": "6 Porzioni",
+          "weight": "3800 grammi"
+        }
       },
       "editorial": {}
     },
     "500-0802-amazon-hikayesi": {
-      "name": "",
+      "name": "Storia Amazzonica",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fetta",
+          "description": "Il momento in cui il cioccolato bianco incontra i frutti di bosco.",
+          "portion": "Porzione Singola",
+          "weight": "375 grammi"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Il momento in cui il cioccolato bianco incontra i frutti di bosco.",
+          "portion": "6 Porzioni",
+          "weight": "3750 grammi"
+        }
       },
       "editorial": {}
     }

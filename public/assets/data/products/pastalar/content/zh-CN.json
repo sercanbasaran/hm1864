@@ -3,146 +3,326 @@
   "language": "zh-CN",
   "products": {
     "500-0101-lotus-kulesi": {
-      "name": "",
+      "name": "莲花塔",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "让人欲罢不能的莲花饼干，每一口都是无与伦比的美味。",
+          "portion": "单人份",
+          "weight": "390克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "让人欲罢不能的莲花饼干，每一口都是无与伦比的美味。",
+          "portion": "6人份",
+          "weight": "3900克"
+        }
       },
       "editorial": {}
     },
     "500-0201-diplomat": {
-      "name": "",
+      "name": "外交官",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "巧克力蛋糕与香脆焦糖果仁糖的精致碰撞。",
+          "portion": "单人份",
+          "weight": "305克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "巧克力蛋糕与香脆焦糖果仁糖的精致碰撞。",
+          "portion": "6人份",
+          "weight": "3050克"
+        }
       },
       "editorial": {}
     },
     "500-0202-kara-sevda": {
-      "name": "",
+      "name": "痴情绝恋",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "丝绒般的细腻口感，萦绕于每一口回味之中。",
+          "portion": "单人份",
+          "weight": "390克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "丝绒般的细腻口感，萦绕于每一口回味之中。",
+          "portion": "6人份",
+          "weight": "3900克"
+        }
       },
       "editorial": {}
     },
     "500-0203-siyah-inci": {
-      "name": "",
+      "name": "黑珍珠",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "兼具视觉美感与非凡味蕾体验的精选之作。",
+          "portion": "单人份",
+          "weight": "325克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "兼具视觉美感与非凡味蕾体验的精选之作。",
+          "portion": "6人份",
+          "weight": "3250克"
+        }
       },
       "editorial": {}
     },
     "500-0301-cilek-ruyasi": {
-      "name": "",
+      "name": "草莓之梦",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "草莓颗粒带来的清新自然风味。",
+          "portion": "单人份",
+          "weight": "350克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "草莓颗粒带来的清新自然风味。",
+          "portion": "6人份",
+          "weight": "3500克"
+        }
       },
       "editorial": {}
     },
     "500-0302-ilk-ask": {
-      "name": "",
+      "name": "初恋",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "甄选时令草莓，呈现优雅高贵的风味。",
+          "portion": "单人份",
+          "weight": "350克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "甄选时令草莓，呈现优雅高贵的风味。",
+          "portion": "6人份",
+          "weight": "3500克"
+        }
       },
       "editorial": {}
     },
     "500-0303-pembe-ruya": {
-      "name": "",
+      "name": "粉红梦境",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "将两种独特美味完美融合，带来无法抗拒的丰富体验。",
+          "portion": "单人份",
+          "weight": "350克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "将两种独特美味完美融合，带来无法抗拒的丰富体验。",
+          "portion": "6人份",
+          "weight": "3500克"
+        }
       },
       "editorial": {}
     },
     "500-0304-son-ask": {
-      "name": "",
+      "name": "挚爱终章",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "将草莓的风味与浓郁的牛奶巧克力交织融合。",
+          "portion": "单人份",
+          "weight": "350克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "将草莓的风味与浓郁的牛奶巧克力交织融合。",
+          "portion": "6人份",
+          "weight": "3500克"
+        }
       },
       "editorial": {}
     },
     "500-0401-istanbul-hikayesi": {
-      "name": "",
+      "name": "伊斯坦布尔故事",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "灵感源自经典果仁蜜饼（Baklava），满溢开心果的甜蜜层次。",
+          "portion": "单人份",
+          "weight": "350克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "灵感源自经典果仁蜜饼（Baklava），满溢开心果的甜蜜层次。",
+          "portion": "6人份",
+          "weight": "3500克"
+        }
       },
       "editorial": {}
     },
     "500-05-01-cikolat-ahu": {
-      "name": "",
+      "name": "巧克力树莓",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "树莓与戚风蛋糕的高级风味交融。",
+          "portion": "单人份",
+          "weight": "325克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "树莓与戚风蛋糕的高级风味交融。",
+          "portion": "6人份",
+          "weight": "3250克"
+        }
       },
       "editorial": {}
     },
     "500-0502-tatli-ahu": {
-      "name": "",
+      "name": "甜蜜树莓",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "白巧克力的丝滑甜美与浓郁质感构筑的完美甜点享受。",
+          "portion": "单人份",
+          "weight": "330克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "白巧克力的丝滑甜美与浓郁质感构筑的完美甜点享受。",
+          "portion": "6人份",
+          "weight": "3300克"
+        }
       },
       "editorial": {}
     },
     "500-0601-cikolatali-meyve-bahcesi": {
-      "name": "",
+      "name": "巧克力水果乐园",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "缤纷水果交织而成的视觉与味觉盛宴。",
+          "portion": "单人份",
+          "weight": "390克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "缤纷水果交织而成的视觉与味觉盛宴。",
+          "portion": "6人份",
+          "weight": "3900克"
+        }
       },
       "editorial": {}
     },
     "500-0602-meyve-bahcesi": {
-      "name": "",
+      "name": "水果乐园",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "满载环绕蛋糕的鲜果，探索热带风情的奇妙之旅。",
+          "portion": "单人份",
+          "weight": "390克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "满载环绕蛋糕的鲜果，探索热带风情的奇妙之旅。",
+          "portion": "6人份",
+          "weight": "3900克"
+        }
       },
       "editorial": {}
     },
     "500-0701-beyaz-inci": {
-      "name": "",
+      "name": "白珍珠",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "榛果的浓郁、香蕉的清新与焦糖的丝滑平衡完美交融。",
+          "portion": "单人份",
+          "weight": "395克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "榛果的浓郁、香蕉的清新与焦糖的丝滑平衡完美交融。",
+          "portion": "6人份",
+          "weight": "3950克"
+        }
       },
       "editorial": {}
     },
     "500-0702-buyuk-ask": {
-      "name": "",
+      "name": "挚爱深情",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "香蕉与奶油带来的充满异国情调且温润的甜美探索。",
+          "portion": "单人份",
+          "weight": "350克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "香蕉与奶油带来的充满异国情调且温润的甜美探索。",
+          "portion": "6人份",
+          "weight": "3500克"
+        }
       },
       "editorial": {}
     },
     "500-0703-sonsuz-ask": {
-      "name": "",
+      "name": "永恒之爱",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "浓郁巧克力与香蕉的精致搭配。",
+          "portion": "单人份",
+          "weight": "355克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "浓郁巧克力与香蕉的精致搭配。",
+          "portion": "6人份",
+          "weight": "3550克"
+        }
       },
       "editorial": {}
     },
     "500-0801-amazon-buyusu": {
-      "name": "",
+      "name": "亚马逊之魔力",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "将森林浆果与巧克力结合的浓郁奢华体验。",
+          "portion": "单人份",
+          "weight": "380克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "将森林浆果与巧克力结合的浓郁奢华体验。",
+          "portion": "6人份",
+          "weight": "3800克"
+        }
       },
       "editorial": {}
     },
     "500-0802-amazon-hikayesi": {
-      "name": "",
+      "name": "亚马逊之传说",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "切片",
+          "description": "白巧克力与森林浆果浪漫邂逅的时刻。",
+          "portion": "单人份",
+          "weight": "375克"
+        },
+        "baton": {
+          "label": "整条",
+          "description": "白巧克力与森林浆果浪漫邂逅的时刻。",
+          "portion": "6人份",
+          "weight": "3750克"
+        }
       },
       "editorial": {}
     }

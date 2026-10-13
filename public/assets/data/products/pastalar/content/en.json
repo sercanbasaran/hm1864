@@ -3,146 +3,326 @@
   "language": "en",
   "products": {
     "500-0101-lotus-kulesi": {
-      "name": "",
+      "name": "Lotus Tower",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "Unique flavor in every bite with addictive Lotus biscuits.",
+          "portion": "Single Portion",
+          "weight": "390 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Unique flavor in every bite with addictive Lotus biscuits.",
+          "portion": "6 Servings",
+          "weight": "3900 grams"
+        }
       },
       "editorial": {}
     },
     "500-0201-diplomat": {
-      "name": "",
+      "name": "Diplomat",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "The exquisite crunch of chocolate cake and crispy caramelized croquant.",
+          "portion": "Single Portion",
+          "weight": "305 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "The exquisite crunch of chocolate cake and crispy caramelized croquant.",
+          "portion": "6 Servings",
+          "weight": "3050 grams"
+        }
       },
       "editorial": {}
     },
     "500-0202-kara-sevda": {
-      "name": "",
+      "name": "Kara Sevda",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "A velvety experience in every bite.",
+          "portion": "Single Portion",
+          "weight": "390 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "A velvety experience in every bite.",
+          "portion": "6 Servings",
+          "weight": "3900 grams"
+        }
       },
       "editorial": {}
     },
     "500-0203-siyah-inci": {
-      "name": "",
+      "name": "Black Pearl",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "A special delicacy that appeals to the eyes and palate.",
+          "portion": "Single Portion",
+          "weight": "325 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "A special delicacy that appeals to the eyes and palate.",
+          "portion": "6 Servings",
+          "weight": "3250 grams"
+        }
       },
       "editorial": {}
     },
     "500-0301-cilek-ruyasi": {
-      "name": "",
+      "name": "Strawberry Dream",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "The refreshing taste of strawberry pieces.",
+          "portion": "Single Portion",
+          "weight": "350 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "The refreshing taste of strawberry pieces.",
+          "portion": "6 Servings",
+          "weight": "3500 grams"
+        }
       },
       "editorial": {}
     },
     "500-0302-ilk-ask": {
-      "name": "",
+      "name": "First Love",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "An elegant delicacy featuring the best seasonal strawberries.",
+          "portion": "Single Portion",
+          "weight": "350 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "An elegant delicacy featuring the best seasonal strawberries.",
+          "portion": "6 Servings",
+          "weight": "3500 grams"
+        }
       },
       "editorial": {}
     },
     "500-0303-pembe-ruya": {
-      "name": "",
+      "name": "Pink Dream",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "An irresistible, flavor-packed experience bringing together two special tastes.",
+          "portion": "Single Portion",
+          "weight": "350 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "An irresistible, flavor-packed experience bringing together two special tastes.",
+          "portion": "6 Servings",
+          "weight": "3500 grams"
+        }
       },
       "editorial": {}
     },
     "500-0304-son-ask": {
-      "name": "",
+      "name": "Last Love",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "A delicacy combining strawberry flavor with the richness of milk chocolate.",
+          "portion": "Single Portion",
+          "weight": "350 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "A delicacy combining strawberry flavor with the richness of milk chocolate.",
+          "portion": "6 Servings",
+          "weight": "3500 grams"
+        }
       },
       "editorial": {}
     },
     "500-0401-istanbul-hikayesi": {
-      "name": "",
+      "name": "Istanbul Story",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "Sweet layers of pistachio inspired by iconic baklava.",
+          "portion": "Single Portion",
+          "weight": "350 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Sweet layers of pistachio inspired by iconic baklava.",
+          "portion": "6 Servings",
+          "weight": "3500 grams"
+        }
       },
       "editorial": {}
     },
     "500-05-01-cikolat-ahu": {
-      "name": "",
+      "name": "Chocolate Raspberry",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "The superior taste of raspberries and sponge cake.",
+          "portion": "Single Portion",
+          "weight": "325 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "The superior taste of raspberries and sponge cake.",
+          "portion": "6 Servings",
+          "weight": "3250 grams"
+        }
       },
       "editorial": {}
     },
     "500-0502-tatli-ahu": {
-      "name": "",
+      "name": "Sweet Raspberry",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "A perfect cake delight combining white chocolate with creamy, sweet richness.",
+          "portion": "Single Portion",
+          "weight": "330 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "A perfect cake delight combining white chocolate with creamy, sweet richness.",
+          "portion": "6 Servings",
+          "weight": "3300 grams"
+        }
       },
       "editorial": {}
     },
     "500-0601-cikolatali-meyve-bahcesi": {
-      "name": "",
+      "name": "Chocolate Fruit Garden",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "A visual feast of colorful fruits.",
+          "portion": "Single Portion",
+          "weight": "390 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "A visual feast of colorful fruits.",
+          "portion": "6 Servings",
+          "weight": "3900 grams"
+        }
       },
       "editorial": {}
     },
     "500-0602-meyve-bahcesi": {
-      "name": "",
+      "name": "Fruit Garden",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "The discovery of tropical flavor with fruits wrapped around the cake.",
+          "portion": "Single Portion",
+          "weight": "390 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "The discovery of tropical flavor with fruits wrapped around the cake.",
+          "portion": "6 Servings",
+          "weight": "3900 grams"
+        }
       },
       "editorial": {}
     },
     "500-0701-beyaz-inci": {
-      "name": "",
+      "name": "White Pearl",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "The richness of hazelnuts combines with the freshness of banana and the silky balance of caramel.",
+          "portion": "Single Portion",
+          "weight": "395 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "The richness of hazelnuts combines with the freshness of banana and the silky balance of caramel.",
+          "portion": "6 Servings",
+          "weight": "3950 grams"
+        }
       },
       "editorial": {}
     },
     "500-0702-buyuk-ask": {
-      "name": "",
+      "name": "Great Love",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "An exotic and comforting sweet discovery of banana and cream.",
+          "portion": "Single Portion",
+          "weight": "350 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "An exotic and comforting sweet discovery of banana and cream.",
+          "portion": "6 Servings",
+          "weight": "3500 grams"
+        }
       },
       "editorial": {}
     },
     "500-0703-sonsuz-ask": {
-      "name": "",
+      "name": "Endless Love",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "An exquisite combination of rich chocolate and bananas.",
+          "portion": "Single Portion",
+          "weight": "355 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "An exquisite combination of rich chocolate and bananas.",
+          "portion": "6 Servings",
+          "weight": "3550 grams"
+        }
       },
       "editorial": {}
     },
     "500-0801-amazon-buyusu": {
-      "name": "",
+      "name": "Amazon Magic",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "A rich and delicious experience combining forest fruits with chocolate.",
+          "portion": "Single Portion",
+          "weight": "380 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "A rich and delicious experience combining forest fruits with chocolate.",
+          "portion": "6 Servings",
+          "weight": "3800 grams"
+        }
       },
       "editorial": {}
     },
     "500-0802-amazon-hikayesi": {
-      "name": "",
+      "name": "Amazon Story",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Slice",
+          "description": "The moment white chocolate meets forest fruits.",
+          "portion": "Single Portion",
+          "weight": "375 grams"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "The moment white chocolate meets forest fruits.",
+          "portion": "6 Servings",
+          "weight": "3750 grams"
+        }
       },
       "editorial": {}
     }

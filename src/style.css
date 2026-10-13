@@ -4132,7 +4132,7 @@ dialog[open] {
 
 .order-availability p {
   font-size: 14px;
-  line-height: 1.6
+    padding-bottom: 0px!important;
 }
 
 .order-platforms {
@@ -4150,7 +4150,7 @@ dialog[open] {
   justify-content: center;
   width: 160px;
   height: 70px;
-  padding: 12px;
+  padding-left: 12px;
   /* background: white; */
  /*  border: 1px solid #e5e5e5 */
 }

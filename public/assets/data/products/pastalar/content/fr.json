@@ -3,146 +3,326 @@
   "language": "fr",
   "products": {
     "500-0101-lotus-kulesi": {
-      "name": "",
+      "name": "Tour Lotus",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "Une saveur unique à chaque bouchée grâce aux biscuits Lotus addictifs.",
+          "portion": "Portion Individuelle",
+          "weight": "390 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Une saveur unique à chaque bouchée grâce aux biscuits Lotus addictifs.",
+          "portion": "6 Parts",
+          "weight": "3900 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0201-diplomat": {
-      "name": "",
+      "name": "Diplomate",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "Le croquant exquis du gâteau au chocolat et du praliné caramélisé.",
+          "portion": "Portion Individuelle",
+          "weight": "305 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Le croquant exquis du gâteau au chocolat et du praliné caramélisé.",
+          "portion": "6 Parts",
+          "weight": "3050 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0202-kara-sevda": {
-      "name": "",
+      "name": "Kara Sevda",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "Une expérience veloutée à chaque bouchée.",
+          "portion": "Portion Individuelle",
+          "weight": "390 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Une expérience veloutée à chaque bouchée.",
+          "portion": "6 Parts",
+          "weight": "3900 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0203-siyah-inci": {
-      "name": "",
+      "name": "Perle Noire",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "Une gourmandise d'exception qui séduit les yeux et le palais.",
+          "portion": "Portion Individuelle",
+          "weight": "325 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Une gourmandise d'exception qui séduit les yeux et le palais.",
+          "portion": "6 Parts",
+          "weight": "3250 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0301-cilek-ruyasi": {
-      "name": "",
+      "name": "Rêve de Fraise",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "La saveur rafraîchissante des morceaux de fraise.",
+          "portion": "Portion Individuelle",
+          "weight": "350 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "La saveur rafraîchissante des morceaux de fraise.",
+          "portion": "6 Parts",
+          "weight": "3500 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0302-ilk-ask": {
-      "name": "",
+      "name": "Premier Amour",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "Une création élégante mettant en valeur les meilleures fraises de saison.",
+          "portion": "Portion Individuelle",
+          "weight": "350 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Une création élégante mettant en valeur les meilleures fraises de saison.",
+          "portion": "6 Parts",
+          "weight": "3500 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0303-pembe-ruya": {
-      "name": "",
+      "name": "Rêve Rose",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "Une expérience irrésistible et savoureuse unissant deux goûts d'exception.",
+          "portion": "Portion Individuelle",
+          "weight": "350 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Une expérience irrésistible et savoureuse unissant deux goûts d'exception.",
+          "portion": "6 Parts",
+          "weight": "3500 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0304-son-ask": {
-      "name": "",
+      "name": "Dernier Amour",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "Un mariage parfait entre la saveur de la fraise et la richesse du chocolat au lait.",
+          "portion": "Portion Individuelle",
+          "weight": "350 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un mariage parfait entre la saveur de la fraise et la richesse du chocolat au lait.",
+          "portion": "6 Parts",
+          "weight": "3500 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0401-istanbul-hikayesi": {
-      "name": "",
+      "name": "Histoire d'Istanbul",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "De douces couches de pistache inspirées du baklava emblématique.",
+          "portion": "Portion Individuelle",
+          "weight": "350 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "De douces couches de pistache inspirées du baklava emblématique.",
+          "portion": "6 Parts",
+          "weight": "3500 grammes"
+        }
       },
       "editorial": {}
     },
     "500-05-01-cikolat-ahu": {
-      "name": "",
+      "name": "Choco-Framboise",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "L'alliance supérieure des framboises et du génoise.",
+          "portion": "Portion Individuelle",
+          "weight": "325 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "L'alliance supérieure des framboises et du génoise.",
+          "portion": "6 Parts",
+          "weight": "3250 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0502-tatli-ahu": {
-      "name": "",
+      "name": "Douce Framboise",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "Un délice pâtissier parfait associant la richesse crémeuse du chocolat blanc.",
+          "portion": "Portion Individuelle",
+          "weight": "330 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un délice pâtissier parfait associant la richesse crémeuse du chocolat blanc.",
+          "portion": "6 Parts",
+          "weight": "3300 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0601-cikolatali-meyve-bahcesi": {
-      "name": "",
+      "name": "Jardin de Fruits Chocolaté",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "Un festin visuel de fruits colorés.",
+          "portion": "Portion Individuelle",
+          "weight": "390 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Un festin visuel de fruits colorés.",
+          "portion": "6 Parts",
+          "weight": "3900 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0602-meyve-bahcesi": {
-      "name": "",
+      "name": "Jardin de Fruits",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "La découverte de saveurs tropicales à travers des fruits enrobant le gâteau.",
+          "portion": "Portion Individuelle",
+          "weight": "390 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "La découverte de saveurs tropicales à travers des fruits enrobant le gâteau.",
+          "portion": "6 Parts",
+          "weight": "3900 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0701-beyaz-inci": {
-      "name": "",
+      "name": "Perle Blanche",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "La richesse de la noisette s'associe à la fraîcheur de la banane et à la douceur du caramel.",
+          "portion": "Portion Individuelle",
+          "weight": "395 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "La richesse de la noisette s'associe à la fraîcheur de la banane et à la douceur du caramel.",
+          "portion": "6 Parts",
+          "weight": "3950 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0702-buyuk-ask": {
-      "name": "",
+      "name": "Grand Amour",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "Une découverte douce, exotique et réconfortante de banane et de crème.",
+          "portion": "Portion Individuelle",
+          "weight": "350 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Une découverte douce, exotique et réconfortante de banane et de crème.",
+          "portion": "6 Parts",
+          "weight": "3500 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0703-sonsuz-ask": {
-      "name": "",
+      "name": "Amour Éternel",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "Une association exquise entre chocolat riche et bananes.",
+          "portion": "Portion Individuelle",
+          "weight": "355 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Une association exquise entre chocolat riche et bananes.",
+          "portion": "6 Parts",
+          "weight": "3550 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0801-amazon-buyusu": {
-      "name": "",
+      "name": "Magie Amazonienne",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "Une expérience riche et gourmande mariant fruits des bois et chocolat.",
+          "portion": "Portion Individuelle",
+          "weight": "380 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Une expérience riche et gourmande mariant fruits des bois et chocolat.",
+          "portion": "6 Parts",
+          "weight": "3800 grammes"
+        }
       },
       "editorial": {}
     },
     "500-0802-amazon-hikayesi": {
-      "name": "",
+      "name": "Histoire Amazonienne",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Part",
+          "description": "L'instant où le chocolat blanc rencontre les fruits des bois.",
+          "portion": "Portion Individuelle",
+          "weight": "375 grammes"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "L'instant où le chocolat blanc rencontre les fruits des bois.",
+          "portion": "6 Parts",
+          "weight": "3750 grammes"
+        }
       },
       "editorial": {}
     }

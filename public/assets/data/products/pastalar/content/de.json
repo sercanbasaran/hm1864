@@ -3,146 +3,326 @@
   "language": "de",
   "products": {
     "500-0101-lotus-kulesi": {
-      "name": "",
+      "name": "Lotus-Turm",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Einzigartiger Genuss in jedem Bissen mit süchtig machenden Lotus-Keksen.",
+          "portion": "Einzelportion",
+          "weight": "390 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Einzigartiger Genuss in jedem Bissen mit süchtig machenden Lotus-Keksen.",
+          "portion": "6 Portionen",
+          "weight": "3900 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0201-diplomat": {
-      "name": "",
+      "name": "Diplomat",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Der exquisite Crunch aus Schokoladenkuchen und knusprigem, karamellisiertem Krokant.",
+          "portion": "Einzelportion",
+          "weight": "305 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Der exquisite Crunch aus Schokoladenkuchen und knusprigem, karamellisiertem Krokant.",
+          "portion": "6 Portionen",
+          "weight": "3050 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0202-kara-sevda": {
-      "name": "",
+      "name": "Kara Sevda",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Ein samtiges Erlebnis bei jedem Bissen.",
+          "portion": "Einzelportion",
+          "weight": "390 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Ein samtiges Erlebnis bei jedem Bissen.",
+          "portion": "6 Portionen",
+          "weight": "3900 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0203-siyah-inci": {
-      "name": "",
+      "name": "Schwarze Perle",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Eine besondere Köstlichkeit, die Auge und Gaumen anspricht.",
+          "portion": "Einzelportion",
+          "weight": "325 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Eine besondere Köstlichkeit, die Auge und Gaumen anspricht.",
+          "portion": "6 Portionen",
+          "weight": "3250 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0301-cilek-ruyasi": {
-      "name": "",
+      "name": "Erdbeertraum",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Der erfrischende Geschmack von Erdbeerstücken.",
+          "portion": "Einzelportion",
+          "weight": "350 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Der erfrischende Geschmack von Erdbeerstücken.",
+          "portion": "6 Portionen",
+          "weight": "3500 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0302-ilk-ask": {
-      "name": "",
+      "name": "Erste Liebe",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Eine elegante Köstlichkeit mit den besten Saisonerdbeeren.",
+          "portion": "Einzelportion",
+          "weight": "350 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Eine elegante Köstlichkeit mit den besten Saisonerdbeeren.",
+          "portion": "6 Portionen",
+          "weight": "3500 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0303-pembe-ruya": {
-      "name": "",
+      "name": "Rosa Traum",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Ein unwiderstehliches, geschmackvolles Erlebnis, das zwei besondere Aromen vereint.",
+          "portion": "Einzelportion",
+          "weight": "350 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Ein unwiderstehliches, geschmackvolles Erlebnis, das zwei besondere Aromen vereint.",
+          "portion": "6 Portionen",
+          "weight": "3500 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0304-son-ask": {
-      "name": "",
+      "name": "Letzte Liebe",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Eine Köstlichkeit, die Erdbeergeschmack mit der Fülle von Vollmilchschokolade verbindet.",
+          "portion": "Einzelportion",
+          "weight": "350 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Eine Köstlichkeit, die Erdbeergeschmack mit der Fülle von Vollmilchschokolade verbindet.",
+          "portion": "6 Portionen",
+          "weight": "3500 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0401-istanbul-hikayesi": {
-      "name": "",
+      "name": "Istanbul-Geschichte",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Süße Pistazienschichten, inspiriert von ikonischem Baklava.",
+          "portion": "Einzelportion",
+          "weight": "350 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Süße Pistazienschichten, inspiriert von ikonischem Baklava.",
+          "portion": "6 Portionen",
+          "weight": "3500 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-05-01-cikolat-ahu": {
-      "name": "",
+      "name": "Schoko-Himbeere",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Der erlesene Geschmack von Himbeeren und Biskuit.",
+          "portion": "Einzelportion",
+          "weight": "325 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Der erlesene Geschmack von Himbeeren und Biskuit.",
+          "portion": "6 Portionen",
+          "weight": "3250 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0502-tatli-ahu": {
-      "name": "",
+      "name": "Süße Himbeere",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Ein perfekter Kuchendelang, der weiße Schokolade mit cremiger Süße verbindet.",
+          "portion": "Einzelportion",
+          "weight": "330 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Ein perfekter Kuchendelang, der weiße Schokolade mit cremiger Süße verbindet.",
+          "portion": "6 Portionen",
+          "weight": "3300 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0601-cikolatali-meyve-bahcesi": {
-      "name": "",
+      "name": "Schokoladiger Obstgarten",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Ein optisches Fest aus bunten Früchten.",
+          "portion": "Einzelportion",
+          "weight": "390 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Ein optisches Fest aus bunten Früchten.",
+          "portion": "6 Portionen",
+          "weight": "3900 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0602-meyve-bahcesi": {
-      "name": "",
+      "name": "Obstgarten",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Die Entdeckung tropischer Aromen mit um den Kuchen drapierten Früchten.",
+          "portion": "Einzelportion",
+          "weight": "390 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Die Entdeckung tropischer Aromen mit um den Kuchen drapierten Früchten.",
+          "portion": "6 Portionen",
+          "weight": "3900 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0701-beyaz-inci": {
-      "name": "",
+      "name": "Weiße Perle",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Die Fülle von Haselnüssen vereint sich mit Bananenfrische und seidiger Karamellbalance.",
+          "portion": "Einzelportion",
+          "weight": "395 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Die Fülle von Haselnüssen vereint sich mit Bananenfrische und seidiger Karamellbalance.",
+          "portion": "6 Portionen",
+          "weight": "3950 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0702-buyuk-ask": {
-      "name": "",
+      "name": "Große Liebe",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Eine exklusive und wohltuende süße Entdeckung aus Banane und Creme.",
+          "portion": "Einzelportion",
+          "weight": "350 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Eine exklusive und wohltuende süße Entdeckung aus Banane und Creme.",
+          "portion": "6 Portionen",
+          "weight": "3500 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0703-sonsuz-ask": {
-      "name": "",
+      "name": "Endlose Liebe",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Eine exquisite Kombination aus reicher Schokolade und Bananen.",
+          "portion": "Einzelportion",
+          "weight": "355 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Eine exquisite Kombination aus reicher Schokolade und Bananen.",
+          "portion": "6 Portionen",
+          "weight": "3550 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0801-amazon-buyusu": {
-      "name": "",
+      "name": "Amazonas-Zauber",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Ein reiches und köstliches Erlebnis, das Waldfrüchte mit Schokolade verbindet.",
+          "portion": "Einzelportion",
+          "weight": "380 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Ein reiches und köstliches Erlebnis, das Waldfrüchte mit Schokolade verbindet.",
+          "portion": "6 Portionen",
+          "weight": "3800 Gramm"
+        }
       },
       "editorial": {}
     },
     "500-0802-amazon-hikayesi": {
-      "name": "",
+      "name": "Amazonas-Geschichte",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Stück",
+          "description": "Der Moment, in dem weiße Schokolade auf Waldfrüchte trifft.",
+          "portion": "Einzelportion",
+          "weight": "375 Gramm"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Der Moment, in dem weiße Schokolade auf Waldfrüchte trifft.",
+          "portion": "6 Portionen",
+          "weight": "3750 Gramm"
+        }
       },
       "editorial": {}
     }

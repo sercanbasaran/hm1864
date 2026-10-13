@@ -3,146 +3,326 @@
   "language": "pt",
   "products": {
     "500-0101-lotus-kulesi": {
-      "name": "",
+      "name": "Torre Lotus",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "Um sabor único a cada dentada com os viciantes biscoitos Lotus.",
+          "portion": "Porção Individual",
+      "weight": "390 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Um sabor único a cada dentada com os viciantes biscoitos Lotus.",
+          "portion": "6 Porções",
+          "weight": "3900 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0201-diplomat": {
-      "name": "",
+      "name": "Diplomata",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "O crocante requintado do bolo de chocolate e do crocante caramelizado.",
+          "portion": "Porção Individual",
+          "weight": "305 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "O crocante requintado do bolo de chocolate e do crocante caramelizado.",
+          "portion": "6 Porções",
+          "weight": "3050 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0202-kara-sevda": {
-      "name": "",
+      "name": "Kara Sevda",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "Uma experiência aveludada em cada dentada.",
+          "portion": "Porção Individual",
+          "weight": "390 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Uma experiência aveludada em cada dentada.",
+          "portion": "6 Porções",
+          "weight": "3900 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0203-siyah-inci": {
-      "name": "",
+      "name": "Pérola Negra",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "Uma iguaria especial que encanta a vista e o paladar.",
+          "portion": "Porção Individual",
+          "weight": "325 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Uma iguaria especial que encanta a vista e o paladar.",
+          "portion": "6 Porções",
+          "weight": "3250 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0301-cilek-ruyasi": {
-      "name": "",
+      "name": "Sonho de Morango",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "O sabor refrescante dos pedaços de morango.",
+          "portion": "Porção Individual",
+          "weight": "350 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "O sabor refrescante dos pedaços de morango.",
+          "portion": "6 Porções",
+          "weight": "3500 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0302-ilk-ask": {
-      "name": "",
+      "name": "Primeiro Amor",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "Uma criação elegante com os melhores morangos da estação.",
+          "portion": "Porção Individual",
+          "weight": "350 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Uma criação elegante com os melhores morangos da estação.",
+          "portion": "6 Porções",
+          "weight": "3500 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0303-pembe-ruya": {
-      "name": "",
+      "name": "Sonho Cor-de-Rosa",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "Uma experiência irresistível e rica em sabor que une dois gostos especiais.",
+          "portion": "Porção Individual",
+          "weight": "350 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Uma experiência irresistível e rica em sabor que une dois gostos especiais.",
+          "portion": "6 Porções",
+          "weight": "3500 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0304-son-ask": {
-      "name": "",
+      "name": "Último Amor",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "Uma delícia que combina o sabor do morango com a riqueza do chocolate de leite.",
+          "portion": "Porção Individual",
+          "weight": "350 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Uma delícia que combina o sabor do morango com a riqueza do chocolate de leite.",
+          "portion": "6 Porções",
+          "weight": "3500 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0401-istanbul-hikayesi": {
-      "name": "",
+      "name": "História de Istambul",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "Camadas doces de pistachio inspiradas no icónico baklava.",
+          "portion": "Porção Individual",
+          "weight": "350 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Camadas doces de pistachio inspiradas no icónico baklava.",
+          "portion": "6 Porções",
+          "weight": "3500 gramas"
+        }
       },
       "editorial": {}
     },
     "500-05-01-cikolat-ahu": {
-      "name": "",
+      "name": "Choco-Framboesa",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "O sabor superior das framboesas e do pão de ló.",
+          "portion": "Porção Individual",
+          "weight": "325 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "O sabor superior das framboesas e do pão de ló.",
+          "portion": "6 Porções",
+          "weight": "3250 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0502-tatli-ahu": {
-      "name": "",
+      "name": "Doce Framboesa",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "Um pastel perfeito que combina a cremosidade rica do chocolate branco.",
+          "portion": "Porção Individual",
+          "weight": "330 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Um pastel perfeito que combina a cremosidade rica do chocolate branco.",
+          "portion": "6 Porções",
+          "weight": "3300 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0601-cikolatali-meyve-bahcesi": {
-      "name": "",
+      "name": "Jardim de Frutas com Chocolate",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "Um banquete visual de frutos coloridos.",
+          "portion": "Porção Individual",
+          "weight": "390 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Um banquete visual de frutos coloridos.",
+          "portion": "6 Porções",
+          "weight": "3900 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0602-meyve-bahcesi": {
-      "name": "",
+      "name": "Jardim de Frutas",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "A descoberta do sabor tropical com frutos a envolver o bolo.",
+          "portion": "Porção Individual",
+          "weight": "390 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "A descoberta do sabor tropical com frutos a envolver o bolo.",
+          "portion": "6 Porções",
+          "weight": "3900 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0701-beyaz-inci": {
-      "name": "",
+      "name": "Pérola Branca",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "A riqueza da avelã une-se à frescura da banana e ao equilíbrio sedoso do caramelo.",
+          "portion": "Porção Individual",
+          "weight": "395 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "A riqueza da avelã une-se à frescura da banana e ao equilíbrio sedoso do caramelo.",
+          "portion": "6 Porções",
+          "weight": "3950 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0702-buyuk-ask": {
-      "name": "",
+      "name": "Grande Amor",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "Uma doce, exótica e reconfortante descoberta de banana e creme.",
+          "portion": "Porção Individual",
+          "weight": "350 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Uma doce, exótica e reconfortante descoberta de banana e creme.",
+          "portion": "6 Porções",
+          "weight": "3500 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0703-sonsuz-ask": {
-      "name": "",
+      "name": "Amor Eterno",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "Uma combinação requintada de chocolate rico e bananas.",
+          "portion": "Porção Individual",
+          "weight": "355 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Uma combinação requintada de chocolate rico e bananas.",
+          "portion": "6 Porções",
+          "weight": "3550 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0801-amazon-buyusu": {
-      "name": "",
+      "name": "Magia da Amazónia",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "Uma experiência rica e deliciosa que une frutos do bosque e chocolate.",
+          "portion": "Porção Individual",
+          "weight": "380 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "Uma experiência rica e deliciosa que une frutos do bosque e chocolate.",
+          "portion": "6 Porções",
+          "weight": "3800 gramas"
+        }
       },
       "editorial": {}
     },
     "500-0802-amazon-hikayesi": {
-      "name": "",
+      "name": "História da Amazónia",
       "variants": {
-        "dilim": {},
-        "baton": {}
+        "dilim": {
+          "label": "Fatia",
+          "description": "O momento em que o chocolate branco se encontra com os frutos do bosque.",
+          "portion": "Porção Individual",
+          "weight": "375 gramas"
+        },
+        "baton": {
+          "label": "Baton",
+          "description": "O momento em que o chocolate branco se encontra com os frutos do bosque.",
+          "portion": "6 Porções",
+          "weight": "3750 gramas"
+        }
       },
       "editorial": {}
     }
