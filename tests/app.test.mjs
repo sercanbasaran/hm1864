@@ -1,3 +1,4 @@
+import {hasRealText,nutritionRows} from '../src/utils/product-content.js';
 import {hasEditorialContent} from '../src/utils/editorial.js';
 import {buildBreadcrumbs} from '../src/routing/breadcrumbs.js';
 import test from 'node:test';
@@ -55,7 +56,7 @@ test('returning visitor retains the selection without another first-visit dialog
 });
 test('built React application: navigation, variant update, dialogs, menu and slider',async()=>{
  const window=new Window({url:'http://localhost/index.html',settings:{enableJavaScriptEvaluation:true}});
- const edited=structuredClone(data);const p=edited.products.find(p=>p.code==='100-01-02');p.variants[0].price=111;p.variants[1].price=222;p.variants[1].pricesByCurrency={USD:9.99};p.variants[1].description='<strong onclick="window.bad=1">Deneme</strong><br><b>Kalın</b><script>window.bad=1</script>';p.variants[1].weight='500 g';p.variants[0].images=['pastalar/test-xs.png','pastalar/test-xs-2.png'];p.variants[1].images=['pastalar/test-s.png','pastalar/test-s-2.png'];
+ const edited=structuredClone(data);const p=edited.products.find(p=>p.code==='100-01-02');p.variants[0].price=111;p.variants[1].price=222;p.variants[1].pricesByCurrency={USD:9.99};p.variants[1].description='<strong onclick="window.bad=1">Deneme</strong><br><b>Kalın</b><script>window.bad=1</script>';p.variants[1].weight='500 g';p.variants[0].images=['pastalar/test-xs.png','pastalar/test-xs-2.png'];p.variants[1].images=['pastalar/test-s.png','pastalar/test-s-2.png'];p.variants[0].ingredients='Lorem ipsum dolor sit amet.';p.variants[1].storage='Serin yerde saklayınız.';p.variants[1].delivery='Bilgi eklenecek';
  edited.products.find(x=>x.name==='Lotus Kulesi').editorial[0].enabled=false;
  Object.assign(edited.products.find(x=>x.name==='Lotus Kulesi').editorial[1],{image:'/assets/images/medya/test-box.png',paragraphs:['Kutuyu saklama alanı olarak değerlendirin.']});
  edited.products[0].markets=['TR'];
@@ -111,6 +112,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
    const nav=window.document.createElement('a');nav.href=href;window.document.querySelector('#main').appendChild(nav);nav.click();await wait();
    assert.equal(window.document.querySelectorAll('header.site-header').length,1,`Header repeated at ${href}`);
  }
+ assert.equal(window.document.querySelector('.accordions'),null);
  assert.match(window.document.querySelector('.product-main-image img').src,/test-xs\.png$/);
  window.document.querySelectorAll('.gallery-thumb')[1].click();await wait();
  assert.match(window.document.querySelector('.product-main-image img').src,/test-xs-2\.png$/);
@@ -120,6 +122,9 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.equal(window.document.querySelector('.product-info .product-text br')!==null,true);
  assert.equal(window.document.querySelector('.product-info .product-text script'),null);
  assert.equal(window.bad,undefined);
+ assert.equal(window.document.querySelectorAll('.accordions details').length,1);
+ assert.match(window.document.querySelector('.accordions').textContent,/Serin yerde saklayınız/);
+ assert.ok(!window.document.querySelector('.accordions').textContent.includes('Bilgi eklenecek'));
  assert.match(window.document.querySelector('.product-main-image img').src,/test-s\.png$/);
  assert.equal(window.document.querySelectorAll('.gallery-thumb').length,2);
  window.document.querySelector('.product-main-image').click();await wait();
@@ -440,4 +445,13 @@ test('editorial titles, images and paragraphs are independent per product and la
  assert.deepEqual(en.paragraphs,['English paragraph.']);
  assert.ok(authored.catalog.products.filter(p=>p.key!==key).every(p=>p.editorial.every(section=>!hasEditorialContent(section))));
  assert.equal(hasEditorialContent({...en,enabled:false}),false);
+});
+
+test('accordion content filters placeholders without dropping zero nutrition',()=>{
+ const placeholders=['Bilgi eklenecek','Informationen folgen','信息待添加'];
+ for(const value of ['',null,undefined,'<br>&nbsp;','Lorem ipsum dolor sit amet.','<strong>Bilgi eklenecek</strong>','Informationen folgen','信息待添加'])assert.equal(hasRealText(value,placeholders),false);
+ assert.equal(hasRealText('<strong>Gerçek içerik</strong>',placeholders),true);
+ assert.equal(hasRealText('0',placeholders),true);
+ const rows=[{name:'Tuz',value:0,unit:'g'},{name:'Yağ',value:null,unit:'g'},{name:'Lif',value:'0,0',unit:'g'},{name:'Şeker',value:'Bilgi eklenecek',unit:''}];
+ assert.deepEqual(nutritionRows({values:rows},placeholders),[rows[0],rows[2]]);
 });

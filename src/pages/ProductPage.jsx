@@ -1,3 +1,4 @@
+import ProductAccordions from "../components/products/ProductAccordions.jsx";
 import { useProductDetails } from "../hooks/useProductDetails.js";
 import ProductGallery from "../components/products/ProductGallery.jsx";
 import React from "react";
@@ -130,69 +131,7 @@ export default function ProductPage({ product: p }) {
             </>
           )}
 
-          <div className="accordions">
-            <details>
-              <summary>
-                <RichText value={t("ui.copy.007")} />
-              </summary>
-              <div>
-                <Text value={v.ingredients} />
-                <Text
-                  value={
-                    v.allergenInfo ||
-                    (p.allergens == null
-                      ? t("ui.copy.043")
-                      : p.allergens.length
-                        ? t("ui.allergens", { items: p.allergens.join(", ") })
-                        : t("ui.copy.044"))
-                  }
-                />
-              </div>
-            </details>
-
-            <details>
-              <summary>
-                <RichText value={t("ui.copy.008")} />
-              </summary>
-              <div>
-                {p.nutrition?.values.length ? (
-                  <>
-                    <Text value={p.nutrition.basis} />
-                    <table className="nutrition-table">
-                      <tbody>
-                        {p.nutrition.values.map((n, i) => (
-                          <tr key={i}>
-                            <th scope="row">{n.name}</th>
-                            <td>
-                              {n.value ?? t("ui.infoPending")} {n.unit}
-                            </td>
-                          </tr>
-                        ))}
-                      </tbody>
-                    </table>
-                    {p.nutrition.note && <Text value={p.nutrition.note} />}
-                  </>
-                ) : (
-                  <Text />
-                )}
-              </div>
-            </details>
-
-            {[
-              [t("ui.copy.045"), v.servingSuggestion],
-              [t("ui.copy.046"), v.storage],
-              [t("ui.copy.047"), v.longTermStorage],
-              [t("ui.copy.048"), v.delivery],
-              [t("ui.copy.049"), v.packaging],
-            ].map(([title, text]) => (
-              <details key={title}>
-                <summary>{title}</summary>
-                <div>
-                  <Text value={text} />
-                </div>
-              </details>
-            ))}
-          </div>
+          <ProductAccordions product={p} variant={v} />
         </div>
       </section>
 

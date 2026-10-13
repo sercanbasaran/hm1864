@@ -192,3 +192,9 @@ Görünürlük kuralları `src/utils/editorial.js`, bölüm şablonu `src/compon
 Her ürünün content/<dil>.json kaydındaki editorial.story ve editorial.boxReuse bölümleri bağımsızdır. İkisinde de title, image, imageAlt, paragraphs alanları kullanılabilir. Örneğin aynı ürünün Türkçe ve İngilizce dosyalarında ayrı başlık, görsel, açıklama ve paragraflar yazabilirsiniz. Bölümlerin enabled ayarı kategori products.json dosyasındaki ilgili ürünün editorial listesinde kalır.
 
 Dil dosyasındaki dolu image alanı ortak ürün görselini geçersiz kılar; boş bırakılırsa Türkçe/ortak görsel kullanılır. Metinlerde de boş çeviriler kaynak içeriklere döner. Bu bölümlerin verileri başka bir ürünle paylaşılmaz.
+
+## Ürün accordion görünürlüğü
+
+Ürün detayındaki accordion'lar yalnızca gerçek içerik varsa gösterilir. Boş alanlar, Lorem ipsum/dummy metinleri ve tüm dillerdeki bilgi eklenecek mesajları gizlenir. İçerik ve alerjen başlığı altında yalnızca dolu alanlar görünür. Besin tablosunda sayısal sıfır geçerli veridir; null/boş/dummy satırlar gösterilmez. Başlıklar varyant ve dil seçimine göre yeniden değerlendirilir.
+
+Şablon: src/components/products/ProductAccordions.jsx. İçerik kontrolü: src/utils/product-content.js.
