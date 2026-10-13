@@ -162,3 +162,9 @@ Trileçeler pasta kategorisiyle aynı kategori bazlı dosya düzenini kullanır:
 Görselleri `public/assets/images/urunler/trileceler/` klasörüne yükleyin. Örneğin ilgili varyantta `"images": ["trileceler/ahududulu-trilece.png"]` kullanın. Başlangıçta ürün ve varyant görselleri boştur.
 
 Türkçe içerikler kaynak tablodan alınmıştır; diğer 13 dil dosyasında aynı ürün/varyant alanları hazırlanmıştır. Kaynakta tuz değeri verilmediği için besin tablosunda değer uydurulmaz, `nutrition.note` metni gösterilir. Online satış kapalı, ortak pazar açık olduğundan ürünler mağaza/platform sipariş alanını kullanır.
+
+## Besin ve alerjen çevirileri
+
+Dil içerik dosyalarında metin alanlarının yanında `nutrition` nesnesi ve `allergens` metin listesi desteklenir. Besin nesnesinde `basis` metni, `values` listesi ve isteğe bağlı `summary` / `note` metinleri bulunur. Her tablo satırı `name`, `value` ve `unit` alanlarını kullanır; değer metin, sonlu sayı veya `null` olabilir. Dolu besin çevirileri seçilen dilde gösterilir; tamamen boş nesneler mevcut kaynak değerlerine geri döner.
+
+Çeviri doğrulama hataları artık ürün/kategori anahtarı, dil ve hatalı alanı belirtir; örneğin `500-0101-lotus-kulesi/en/nutrition`. Yapısı geçersiz tablolar veya tanımlanmamış alanlar kabul edilmez.

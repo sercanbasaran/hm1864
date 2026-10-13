@@ -298,3 +298,25 @@ test('trilece source SKUs, portion variants, nutrition and legacy links',()=>{
   assert.equal(resolve('/'+p.url,data,routes).product.legacyKeys[0],'600-03-0'+(i+1)+'-'+p.key.split('-').slice(3).join('-'));
  });
 });
+
+test('structured nutrition translations validate, localize and retain fallback',()=>{
+ const sample=structuredClone(data),cake=sample.products.find(p=>p.categoryId==='pastalar');
+ cake.translations.en={name:'Cake',nutrition:{basis:'Per 100 g',values:[{name:'Energy',value:407.5,unit:'kcal'}],note:'Verified note'},allergens:['Milk','Egg']};
+ validateRegionalCatalog(sample,regions);
+ const localized=regionalCatalog(sample,{country:'TR',language:'en'},regions).products.find(p=>p.key===cake.key);
+ assert.equal(localized.nutrition.basis,'Per 100 g');
+ assert.deepEqual(localized.nutrition.values,[{name:'Energy',value:407.5,unit:'kcal'}]);
+ assert.deepEqual(localized.allergens,['Milk','Egg']);
+ cake.translations.en.nutrition={basis:'',values:[]};
+ assert.deepEqual(regionalCatalog(sample,{country:'TR',language:'en'},regions).products.find(p=>p.key===cake.key).nutrition,cake.nutrition);
+ for(const invalid of [{basis:'Per 100 g',values:'bad'},{basis:'Per 100 g',values:[{name:'Energy',value:{bad:1},unit:'kcal'}]},{basis:'Per 100 g',values:[],unexpected:true}]){
+  cake.translations.en.nutrition=invalid;
+  assert.throws(()=>validateRegionalCatalog(sample,regions),new RegExp(cake.key+'/en/nutrition'));
+ }
+ for(const language of content.languages.map(l=>l.code)){
+  const catalog=regionalCatalog(data,{country:'TR',language},regions);
+  const product=catalog.products.find(p=>p.key===cake.key);
+  const translated=cake.key===product.key?data.products.find(p=>p.key===cake.key).translations?.[language]?.nutrition:null;
+  if(translated?.values.length)assert.deepEqual(product.nutrition.values,translated.values,language);
+ }
+});
