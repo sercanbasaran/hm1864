@@ -4,327 +4,1905 @@
   "products": {
     "500-0101-lotus-kulesi": {
       "name": "Lotus Tower",
+      "description": "Unique flavor in every bite with addictive Lotus biscuits.",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and soy.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "407,5 kcal / 1705 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "26,4",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "38,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "14,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 407,5 kcal / 1705 kJ; Fat 26,4 g; Saturated Fat 12,7 g; Carbohydrate 38,4 g; Sugar 14,4 g; Fiber 0,7 g; Protein 4,1 g; Salt 0,3 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "Unique flavor in every bite with addictive Lotus biscuits.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and soy.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "390 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "Unique flavor in every bite with addictive Lotus biscuits.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and soy.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3900 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0201-diplomat": {
       "name": "Diplomat",
+      "description": "The exquisite crunch of chocolate cake and crispy caramelized croquant.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, hazelnuts, pistachios, and almonds.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "350,9 kcal / 1468,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "24,5",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "13,7",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "28",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "20,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 350,9 kcal / 1468,2 kJ; Fat 24,5 g; Saturated Fat 13,7 g; Carbohydrate 28 g; Sugar 20,4 g; Fiber 1,7 g; Protein 4,7 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "The exquisite crunch of chocolate cake and crispy caramelized croquant.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, hazelnuts, pistachios, and almonds.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "305 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "The exquisite crunch of chocolate cake and crispy caramelized croquant.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, hazelnuts, pistachios, and almonds.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3050 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0202-kara-sevda": {
       "name": "Kara Sevda",
+      "description": "A velvety experience in every bite.",
+      "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and walnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "393,4 kcal / 1646 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "25,7",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "10,9",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "31,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "5,9",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 393,4 kcal / 1646 kJ; Fat 25,7 g; Saturated Fat 10,9 g; Carbohydrate 34,6 g; Sugar 31,4 g; Fiber 1 g; Protein 5,9 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "A velvety experience in every bite.",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and walnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "390 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "A velvety experience in every bite.",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and walnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3900 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0203-siyah-inci": {
       "name": "Black Pearl",
+      "description": "A special delicacy that appeals to the eyes and palate.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and pistachios.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "426,5 kcal / 1784,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "29,8",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "34,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "27,3",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 426,5 kcal / 1784,5 kJ; Fat 29,8 g; Saturated Fat 15,2 g; Carbohydrate 34,3 g; Sugar 27,3 g; Fiber 3,4 g; Protein 5,3 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "A special delicacy that appeals to the eyes and palate.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and pistachios.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "325 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "A special delicacy that appeals to the eyes and palate.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and pistachios.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3250 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0301-cilek-ruyasi": {
       "name": "Strawberry Dream",
+      "description": "The refreshing taste of strawberry pieces.",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "229,8 kcal / 961,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "11",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 229,8 kcal / 961,5 kJ; Fat 11 g; Saturated Fat 4,6 g; Carbohydrate 28,1 g; Sugar 19,2 g; Fiber 1,1 g; Protein 4,6 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "The refreshing taste of strawberry pieces.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "350 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "The refreshing taste of strawberry pieces.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3500 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0302-ilk-ask": {
       "name": "First Love",
+      "description": "An elegant delicacy featuring the best seasonal strawberries.",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "350,3 kcal / 1465,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "21,3",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "12,6",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "26,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 350,3 kcal / 1465,7 kJ; Fat 21,3 g; Saturated Fat 12,6 g; Carbohydrate 34,6 g; Sugar 26,2 g; Fiber 1,1 g; Protein 5,1 g; Salt 0,2 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "An elegant delicacy featuring the best seasonal strawberries.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "350 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "An elegant delicacy featuring the best seasonal strawberries.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3500 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0303-pembe-ruya": {
       "name": "Pink Dream",
+      "description": "An irresistible, flavor-packed experience bringing together two special tastes.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "269,3 kcal / 1126,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "24,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 269,3 kcal / 1126,8 kJ; Fat 17,7 g; Saturated Fat 12,1 g; Carbohydrate 24,3 g; Sugar 28,1 g; Fiber 1,7 g; Protein 3,4 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "An irresistible, flavor-packed experience bringing together two special tastes.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "350 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "An irresistible, flavor-packed experience bringing together two special tastes.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3500 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0304-son-ask": {
       "name": "Last Love",
+      "description": "A delicacy combining strawberry flavor with the richness of milk chocolate.",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "268,4 kcal / 1122,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "15,5",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "7,4",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "21,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 268,4 kcal / 1122,8 kJ; Fat 15,5 g; Saturated Fat 7,4 g; Carbohydrate 27,5 g; Sugar 21,2 g; Fiber 1,8 g; Protein 4,7 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "A delicacy combining strawberry flavor with the richness of milk chocolate.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "350 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "A delicacy combining strawberry flavor with the richness of milk chocolate.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3500 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0401-istanbul-hikayesi": {
       "name": "Istanbul Story",
+      "description": "Sweet layers of pistachio inspired by iconic baklava.",
+      "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and pistachios.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": []
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "Sweet layers of pistachio inspired by iconic baklava.",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and pistachios.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "350 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "Sweet layers of pistachio inspired by iconic baklava.",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and pistachios.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3500 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-05-01-cikolat-ahu": {
       "name": "Chocolate Raspberry",
+      "description": "The superior taste of raspberries and sponge cake.",
+      "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "296,5 kcal / 1240,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "19,3",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "26,8",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "19,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,9",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,8",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 296,5 kcal / 1240,6 kJ; Fat 19,3 g; Saturated Fat 13 g; Carbohydrate 26,8 g; Sugar 19,7 g; Fiber 1,9 g; Protein 3,8 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "The superior taste of raspberries and sponge cake.",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "325 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "The superior taste of raspberries and sponge cake.",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3250 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0502-tatli-ahu": {
       "name": "Sweet Raspberry",
+      "description": "A perfect cake delight combining white chocolate with creamy, sweet richness.",
+      "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "293,1 kcal / 1226,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "19,5",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "18,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 293,1 kcal / 1226,3 kJ; Fat 19,5 g; Saturated Fat 13,8 g; Carbohydrate 26 g; Sugar 18,5 g; Fiber 1,3 g; Protein 3,4 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "A perfect cake delight combining white chocolate with creamy, sweet richness.",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "330 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "A perfect cake delight combining white chocolate with creamy, sweet richness.",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3300 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0601-cikolatali-meyve-bahcesi": {
       "name": "Chocolate Fruit Garden",
+      "description": "A visual feast of colorful fruits.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "231,3 kcal / 967,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "8,5",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "2,7",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 231,3 kcal / 967,6 kJ; Fat 13 g; Saturated Fat 8,5 g; Carbohydrate 25,9 g; Sugar 15,2 g; Fiber 1,7 g; Protein 2,7 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "A visual feast of colorful fruits.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "390 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "A visual feast of colorful fruits.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3900 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0602-meyve-bahcesi": {
       "name": "Fruit Garden",
+      "description": "The discovery of tropical flavor with fruits wrapped around the cake.",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "241,9 kcal / 1012,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "15,3",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "10,8",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "23,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 241,9 kcal / 1012,1 kJ; Fat 15,3 g; Saturated Fat 10,8 g; Carbohydrate 23,2 g; Sugar 13,8 g; Fiber 1,2 g; Protein 2,8 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "The discovery of tropical flavor with fruits wrapped around the cake.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "390 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "The discovery of tropical flavor with fruits wrapped around the cake.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3900 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0701-beyaz-inci": {
       "name": "White Pearl",
+      "description": "The richness of hazelnuts combines with the freshness of banana and the silky balance of caramel.",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "292 kcal / 1221,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "8,7",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "15,1",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,3",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 292 kcal / 1221,7 kJ; Fat 18 g; Saturated Fat 8,7 g; Carbohydrate 27,5 g; Sugar 15,1 g; Fiber 1,8 g; Protein 4,3 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "The richness of hazelnuts combines with the freshness of banana and the silky balance of caramel.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "395 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "The richness of hazelnuts combines with the freshness of banana and the silky balance of caramel.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3950 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0702-buyuk-ask": {
       "name": "Great Love",
+      "description": "An exotic and comforting sweet discovery of banana and cream.",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "278 kcal / 1163,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "16,1",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "9,3",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "29,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 278 kcal / 1163,1 kJ; Fat 16,1 g; Saturated Fat 9,3 g; Carbohydrate 29,2 g; Sugar 19,2 g; Fiber 1,2 g; Protein 4,2 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "An exotic and comforting sweet discovery of banana and cream.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "350 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "An exotic and comforting sweet discovery of banana and cream.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3500 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0703-sonsuz-ask": {
       "name": "Endless Love",
+      "description": "An exquisite combination of rich chocolate and bananas.",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "275,1 kcal / 1151 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "14,8",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "6,9",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "30,9",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 275,1 kcal / 1151 kJ; Fat 14,8 g; Saturated Fat 6,9 g; Carbohydrate 30,9 g; Sugar 20,5 g; Fiber 1,7 g; Protein 4,6 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "An exquisite combination of rich chocolate and bananas.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "355 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "An exquisite combination of rich chocolate and bananas.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, dairy products, and hazelnuts.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3550 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0801-amazon-buyusu": {
       "name": "Amazon Magic",
+      "description": "A rich and delicious experience combining forest fruits with chocolate.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "290,1 kcal / 1213,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "6,2",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "39,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 290,1 kcal / 1213,9 kJ; Fat 12,8 g; Saturated Fat 6,2 g; Carbohydrate 39,5 g; Sugar 26 g; Fiber 2,4 g; Protein 4,2 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "A rich and delicious experience combining forest fruits with chocolate.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "380 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "A rich and delicious experience combining forest fruits with chocolate.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3800 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0802-amazon-hikayesi": {
       "name": "Amazon Story",
+      "description": "The moment white chocolate meets forest fruits.",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "269,6 kcal / 1128 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated Fat",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "23,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "21,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "Salt",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 269,6 kcal / 1128 kJ; Fat 18 g; Saturated Fat 12,7 g; Carbohydrate 23,6 g; Sugar 21,7 g; Fiber 1,1 g; Protein 3,2 g; Salt 0,1 g."
+      },
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Slice",
           "description": "The moment white chocolate meets forest fruits.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Single Portion",
           "weight": "375 grams"
         },
         "baton": {
           "label": "Baton",
           "description": "The moment white chocolate meets forest fruits.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, egg, and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy, and sesame as they are processed on the same production line.</small>",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, it is recommended to let it rest at room temperature for 10-15 minutes before consumption.",
+          "storage": "Store in the refrigerator between +4° and +6°C. Protect from direct sunlight and do not keep at room temperature for long periods.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products.\nConsume within 3 days after thawing by keeping in the refrigerator.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Servings",
           "weight": "3750 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     }
   }
 }

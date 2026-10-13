@@ -1326,7 +1326,7 @@ textarea:focus {
   text-align: center;
   min-height: 40px;
   padding: 0;
-  -moz-appearance: textfield
+  /* -moz-appearance: textfield */
 }
 
 .quantity input::-webkit-inner-spin-button {
@@ -1380,6 +1380,14 @@ textarea:focus {
   border-bottom: 1px solid var(--line)
 }
 
+.product-info details[open] > summary {
+  font-weight: 500;
+  color: #000;
+}
+
+.product-info details > summary:hover {
+  color: #000;
+}
 .accordions summary {
   display: flex;
   align-items: center;

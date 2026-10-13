@@ -4,327 +4,1905 @@
   "products": {
     "500-0101-lotus-kulesi": {
       "name": "莲花塔",
+      "description": "让人欲罢不能的莲花饼干，每一口都是无与伦比的美味。",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 大豆.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "407,5 kcal / 1705 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "26,4",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "38,4",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "14,4",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 407,5 kcal / 1705 kJ; 脂肪 26,4 g; 饱和脂肪 12,7 g; 碳水化合物 38,4 g; 糖 14,4 g; 膳食纤维 0,7 g; 蛋白质 4,1 g; 盐 0,3 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "让人欲罢不能的莲花饼干，每一口都是无与伦比的美味。",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 大豆.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "390克"
         },
         "baton": {
           "label": "整条",
           "description": "让人欲罢不能的莲花饼干，每一口都是无与伦比的美味。",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 大豆.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3900克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0201-diplomat": {
       "name": "外交官",
+      "description": "巧克力蛋糕与香脆焦糖果仁糖的精致碰撞。",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子, 开心果, 杏仁.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "350,9 kcal / 1468,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "24,5",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "13,7",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "28",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "20,4",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 350,9 kcal / 1468,2 kJ; 脂肪 24,5 g; 饱和脂肪 13,7 g; 碳水化合物 28 g; 糖 20,4 g; 膳食纤维 1,7 g; 蛋白质 4,7 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "巧克力蛋糕与香脆焦糖果仁糖的精致碰撞。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子, 开心果, 杏仁.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "305克"
         },
         "baton": {
           "label": "整条",
           "description": "巧克力蛋糕与香脆焦糖果仁糖的精致碰撞。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子, 开心果, 杏仁.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3050克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0202-kara-sevda": {
       "name": "痴情绝恋",
+      "description": "丝绒般的细腻口感，萦绕于每一口回味之中。",
+      "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 核桃.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "393,4 kcal / 1646 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "25,7",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "10,9",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "31,4",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "5,9",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 393,4 kcal / 1646 kJ; 脂肪 25,7 g; 饱和脂肪 10,9 g; 碳水化合物 34,6 g; 糖 31,4 g; 膳食纤维 1 g; 蛋白质 5,9 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "丝绒般的细腻口感，萦绕于每一口回味之中。",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 核桃.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "390克"
         },
         "baton": {
           "label": "整条",
           "description": "丝绒般的细腻口感，萦绕于每一口回味之中。",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 核桃.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3900克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0203-siyah-inci": {
       "name": "黑珍珠",
+      "description": "兼具视觉美感与非凡味蕾体验的精选之作。",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 开心果.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "426,5 kcal / 1784,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "29,8",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "34,3",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "27,3",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 426,5 kcal / 1784,5 kJ; 脂肪 29,8 g; 饱和脂肪 15,2 g; 碳水化合物 34,3 g; 糖 27,3 g; 膳食纤维 3,4 g; 蛋白质 5,3 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "兼具视觉美感与非凡味蕾体验的精选之作。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 开心果.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "325克"
         },
         "baton": {
           "label": "整条",
           "description": "兼具视觉美感与非凡味蕾体验的精选之作。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 开心果.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3250克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0301-cilek-ruyasi": {
       "name": "草莓之梦",
+      "description": "草莓颗粒带来的清新自然风味。",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "229,8 kcal / 961,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "11",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 229,8 kcal / 961,5 kJ; 脂肪 11 g; 饱和脂肪 4,6 g; 碳水化合物 28,1 g; 糖 19,2 g; 膳食纤维 1,1 g; 蛋白质 4,6 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "草莓颗粒带来的清新自然风味。",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "350克"
         },
         "baton": {
           "label": "整条",
           "description": "草莓颗粒带来的清新自然风味。",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3500克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0302-ilk-ask": {
       "name": "初恋",
+      "description": "甄选时令草莓，呈现优雅高贵的风味。",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "350,3 kcal / 1465,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "21,3",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "12,6",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "26,2",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 350,3 kcal / 1465,7 kJ; 脂肪 21,3 g; 饱和脂肪 12,6 g; 碳水化合物 34,6 g; 糖 26,2 g; 膳食纤维 1,1 g; 蛋白质 5,1 g; 盐 0,2 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "甄选时令草莓，呈现优雅高贵的风味。",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "350克"
         },
         "baton": {
           "label": "整条",
           "description": "甄选时令草莓，呈现优雅高贵的风味。",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3500克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0303-pembe-ruya": {
       "name": "粉红梦境",
+      "description": "将两种独特美味完美融合，带来无法抗拒的丰富体验。",
+      "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "269,3 kcal / 1126,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "24,3",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 269,3 kcal / 1126,8 kJ; 脂肪 17,7 g; 饱和脂肪 12,1 g; 碳水化合物 24,3 g; 糖 28,1 g; 膳食纤维 1,7 g; 蛋白质 3,4 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "将两种独特美味完美融合，带来无法抗拒的丰富体验。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "350克"
         },
         "baton": {
           "label": "整条",
           "description": "将两种独特美味完美融合，带来无法抗拒的丰富体验。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3500克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0304-son-ask": {
       "name": "挚爱终章",
+      "description": "将草莓的风味与浓郁的牛奶巧克力交织融合。",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "268,4 kcal / 1122,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "15,5",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "7,4",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "21,2",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 268,4 kcal / 1122,8 kJ; 脂肪 15,5 g; 饱和脂肪 7,4 g; 碳水化合物 27,5 g; 糖 21,2 g; 膳食纤维 1,8 g; 蛋白质 4,7 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "将草莓的风味与浓郁的牛奶巧克力交织融合。",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "350克"
         },
         "baton": {
           "label": "整条",
           "description": "将草莓的风味与浓郁的牛奶巧克力交织融合。",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3500克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0401-istanbul-hikayesi": {
       "name": "伊斯坦布尔故事",
+      "description": "灵感源自经典果仁蜜饼（Baklava），满溢开心果的甜蜜层次。",
+      "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 开心果.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": []
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "灵感源自经典果仁蜜饼（Baklava），满溢开心果的甜蜜层次。",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 开心果.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "350克"
         },
         "baton": {
           "label": "整条",
           "description": "灵感源自经典果仁蜜饼（Baklava），满溢开心果的甜蜜层次。",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 开心果.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3500克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-05-01-cikolat-ahu": {
       "name": "巧克力树莓",
+      "description": "树莓与戚风蛋糕的高级风味交融。",
+      "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "296,5 kcal / 1240,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "19,3",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "26,8",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "19,7",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,9",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "3,8",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 296,5 kcal / 1240,6 kJ; 脂肪 19,3 g; 饱和脂肪 13 g; 碳水化合物 26,8 g; 糖 19,7 g; 膳食纤维 1,9 g; 蛋白质 3,8 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "树莓与戚风蛋糕的高级风味交融。",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "325克"
         },
         "baton": {
           "label": "整条",
           "description": "树莓与戚风蛋糕的高级风味交融。",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3250克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0502-tatli-ahu": {
       "name": "甜蜜树莓",
+      "description": "白巧克力的丝滑甜美与浓郁质感构筑的完美甜点享受。",
+      "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "293,1 kcal / 1226,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "19,5",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "18,5",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 293,1 kcal / 1226,3 kJ; 脂肪 19,5 g; 饱和脂肪 13,8 g; 碳水化合物 26 g; 糖 18,5 g; 膳食纤维 1,3 g; 蛋白质 3,4 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "白巧克力的丝滑甜美与浓郁质感构筑的完美甜点享受。",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "330克"
         },
         "baton": {
           "label": "整条",
           "description": "白巧克力的丝滑甜美与浓郁质感构筑的完美甜点享受。",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3300克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0601-cikolatali-meyve-bahcesi": {
       "name": "巧克力水果乐园",
+      "description": "缤纷水果交织而成的视觉与味觉盛宴。",
+      "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "231,3 kcal / 967,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "8,5",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "2,7",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 231,3 kcal / 967,6 kJ; 脂肪 13 g; 饱和脂肪 8,5 g; 碳水化合物 25,9 g; 糖 15,2 g; 膳食纤维 1,7 g; 蛋白质 2,7 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "缤纷水果交织而成的视觉与味觉盛宴。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "390克"
         },
         "baton": {
           "label": "整条",
           "description": "缤纷水果交织而成的视觉与味觉盛宴。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3900克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0602-meyve-bahcesi": {
       "name": "水果乐园",
+      "description": "满载环绕蛋糕的鲜果，探索热带风情的奇妙之旅。",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "241,9 kcal / 1012,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "15,3",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "10,8",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "23,2",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 241,9 kcal / 1012,1 kJ; 脂肪 15,3 g; 饱和脂肪 10,8 g; 碳水化合物 23,2 g; 糖 13,8 g; 膳食纤维 1,2 g; 蛋白质 2,8 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "满载环绕蛋糕的鲜果，探索热带风情的奇妙之旅。",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "390克"
         },
         "baton": {
           "label": "整条",
           "description": "满载环绕蛋糕的鲜果，探索热带风情的奇妙之旅。",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3900克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0701-beyaz-inci": {
       "name": "白珍珠",
+      "description": "榛果的浓郁、香蕉的清新与焦糖的丝滑平衡完美交融。",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "292 kcal / 1221,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "8,7",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "15,1",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,3",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 292 kcal / 1221,7 kJ; 脂肪 18 g; 饱和脂肪 8,7 g; 碳水化合物 27,5 g; 糖 15,1 g; 膳食纤维 1,8 g; 蛋白质 4,3 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "榛果的浓郁、香蕉的清新与焦糖的丝滑平衡完美交融。",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "395克"
         },
         "baton": {
           "label": "整条",
           "description": "榛果的浓郁、香蕉的清新与焦糖的丝滑平衡完美交融。",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3950克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0702-buyuk-ask": {
       "name": "挚爱深情",
+      "description": "香蕉与奶油带来的充满异国情调且温润的甜美探索。",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "278 kcal / 1163,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "16,1",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "9,3",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "29,2",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 278 kcal / 1163,1 kJ; 脂肪 16,1 g; 饱和脂肪 9,3 g; 碳水化合物 29,2 g; 糖 19,2 g; 膳食纤维 1,2 g; 蛋白质 4,2 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "香蕉与奶油带来的充满异国情调且温润的甜美探索。",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "350克"
         },
         "baton": {
           "label": "整条",
           "description": "香蕉与奶油带来的充满异国情调且温润的甜美探索。",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3500克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0703-sonsuz-ask": {
       "name": "永恒之爱",
+      "description": "浓郁巧克力与香蕉的精致搭配。",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "275,1 kcal / 1151 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "14,8",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "6,9",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "30,9",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 275,1 kcal / 1151 kJ; 脂肪 14,8 g; 饱和脂肪 6,9 g; 碳水化合物 30,9 g; 糖 20,5 g; 膳食纤维 1,7 g; 蛋白质 4,6 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "浓郁巧克力与香蕉的精致搭配。",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "355克"
         },
         "baton": {
           "label": "整条",
           "description": "浓郁巧克力与香蕉的精致搭配。",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品, 榛子.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3550克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0801-amazon-buyusu": {
       "name": "亚马逊之魔力",
+      "description": "将森林浆果与巧克力结合的浓郁奢华体验。",
+      "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "290,1 kcal / 1213,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "6,2",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "39,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 290,1 kcal / 1213,9 kJ; 脂肪 12,8 g; 饱和脂肪 6,2 g; 碳水化合物 39,5 g; 糖 26 g; 膳食纤维 2,4 g; 蛋白质 4,2 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "将森林浆果与巧克力结合的浓郁奢华体验。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "380克"
         },
         "baton": {
           "label": "整条",
           "description": "将森林浆果与巧克力结合的浓郁奢华体验。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3800克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0802-amazon-hikayesi": {
       "name": "亚马逊之传说",
+      "description": "白巧克力与森林浆果浪漫邂逅的时刻。",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+      "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>每100克</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "269,6 kcal / 1128 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "23,6",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "21,7",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "盐",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100克: 能量 269,6 kcal / 1128 kJ; 脂肪 18 g; 饱和脂肪 12,7 g; 碳水化合物 23,6 g; 糖 21,7 g; 膳食纤维 1,1 g; 蛋白质 3,2 g; 盐 0,1 g."
+      },
+      "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+      "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "切片",
           "description": "白巧克力与森林浆果浪漫邂逅的时刻。",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "单人份",
           "weight": "375克"
         },
         "baton": {
           "label": "整条",
           "description": "白巧克力与森林浆果浪漫邂逅的时刻。",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含有: 麸质, 鸡蛋, 乳制品.\n<small>因使用同一生产线加工，可能含有微量坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "servingSuggestion": "为充分体验产品的口感与风味，建议食用前在室温下静置10–15分钟。",
+          "storage": "请在+4℃至+6℃的冰箱中冷藏。避免阳光直射，勿长时间置于室温下。",
+          "longTermStorage": "<strong>储存</strong>\n请在−18℃冷冻保存。\n\n<strong>准备</strong>\n食用前请在+4℃冰箱中解冻8–12小时。\n\n<strong>注意</strong>\n解冻后请勿再次冷冻。解冻后冷藏保存，并在3天内食用。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人份",
           "weight": "3750克"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     }
   }
 }

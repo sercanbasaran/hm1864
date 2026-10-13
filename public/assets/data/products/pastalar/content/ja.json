@@ -4,327 +4,1905 @@
   "products": {
     "500-0101-lotus-kulesi": {
       "name": "ロータスタワー",
+      "description": "病みつきになるロータスビスケットとともに、一口ごとに広がる絶品の味わい。",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, 大豆.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "407,5 kcal / 1705 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "26,4",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "38,4",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "14,4",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 407,5 kcal / 1705 kJ; 脂質 26,4 g; 飽和脂肪酸 12,7 g; 炭水化物 38,4 g; 糖類 14,4 g; 食物繊維 0,7 g; たんぱく質 4,1 g; 食塩相当量 0,3 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "病みつきになるロータスビスケットとともに、一口ごとに広がる絶品の味わい。",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, 大豆.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "390グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "病みつきになるロータスビスケットとともに、一口ごとに広がる絶品の味わい。",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, 大豆.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3900グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0201-diplomat": {
       "name": "ディプロマット",
+      "description": "チョコレートケーキとカリッとしたキャラメリゼクロッカンの絶妙な食感。",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ, ピスタチオ, アーモンド.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "350,9 kcal / 1468,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "24,5",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "13,7",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "28",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "20,4",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 350,9 kcal / 1468,2 kJ; 脂質 24,5 g; 飽和脂肪酸 13,7 g; 炭水化物 28 g; 糖類 20,4 g; 食物繊維 1,7 g; たんぱく質 4,7 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "チョコレートケーキとカリッとしたキャラメリゼクロッカンの絶妙な食感。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ, ピスタチオ, アーモンド.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "305グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "チョコレートケーキとカリッとしたキャラメリゼクロッカンの絶妙な食感。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ, ピスタチオ, アーモンド.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3050グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0202-kara-sevda": {
       "name": "カラ・セヴダ",
+      "description": "一口ごとにベルベットのような滑らかな口溶け。",
+      "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, クルミ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "393,4 kcal / 1646 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "25,7",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "10,9",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "31,4",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "5,9",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 393,4 kcal / 1646 kJ; 脂質 25,7 g; 飽和脂肪酸 10,9 g; 炭水化物 34,6 g; 糖類 31,4 g; 食物繊維 1 g; たんぱく質 5,9 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "一口ごとにベルベットのような滑らかな口溶け。",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, クルミ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "390グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "一口ごとにベルベットのような滑らかな口溶け。",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, クルミ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3900グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0203-siyah-inci": {
       "name": "ブラック・パール",
+      "description": "目と舌を魅了する特別な味わい。",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ピスタチオ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "426,5 kcal / 1784,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "29,8",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "34,3",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "27,3",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 426,5 kcal / 1784,5 kJ; 脂質 29,8 g; 飽和脂肪酸 15,2 g; 炭水化物 34,3 g; 糖類 27,3 g; 食物繊維 3,4 g; たんぱく質 5,3 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "目と舌を魅了する特別な味わい。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ピスタチオ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "325グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "目と舌を魅了する特別な味わい。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ピスタチオ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3250グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0301-cilek-ruyasi": {
       "name": "ストロベリー・ドリーム",
+      "description": "イチゴの果肉がもたらす爽やかな風味。",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "229,8 kcal / 961,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "11",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 229,8 kcal / 961,5 kJ; 脂質 11 g; 飽和脂肪酸 4,6 g; 炭水化物 28,1 g; 糖類 19,2 g; 食物繊維 1,1 g; たんぱく質 4,6 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "イチゴの果肉がもたらす爽やかな風味。",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "350グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "イチゴの果肉がもたらす爽やかな風味。",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3500グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0302-ilk-ask": {
       "name": "初恋",
+      "description": "旬の極上イチゴを贅沢に飾った上品な味わい。",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "350,3 kcal / 1465,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "21,3",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "12,6",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "26,2",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 350,3 kcal / 1465,7 kJ; 脂質 21,3 g; 飽和脂肪酸 12,6 g; 炭水化物 34,6 g; 糖類 26,2 g; 食物繊維 1,1 g; たんぱく質 5,1 g; 食塩相当量 0,2 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "旬の極上イチゴを贅沢に飾った上品な味わい。",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "350グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "旬の極上イチゴを贅沢に飾った上品な味わい。",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3500グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0303-pembe-ruya": {
       "name": "ピンク・ドリーム",
+      "description": "2つの特別な美味しさが織りなす、抗えない魅力に満ちた体験。",
+      "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "269,3 kcal / 1126,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "24,3",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 269,3 kcal / 1126,8 kJ; 脂質 17,7 g; 飽和脂肪酸 12,1 g; 炭水化物 24,3 g; 糖類 28,1 g; 食物繊維 1,7 g; たんぱく質 3,4 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "2つの特別な美味しさが織りなす、抗えない魅力に満ちた体験。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "350グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "2つの特別な美味しさが織りなす、抗えない魅力に満ちた体験。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3500グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0304-son-ask": {
       "name": "最後の恋",
+      "description": "イチゴの風味がミルクチョコレートの豊かなコクと調和する逸品。",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "268,4 kcal / 1122,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "15,5",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "7,4",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "21,2",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 268,4 kcal / 1122,8 kJ; 脂質 15,5 g; 飽和脂肪酸 7,4 g; 炭水化物 27,5 g; 糖類 21,2 g; 食物繊維 1,8 g; たんぱく質 4,7 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "イチゴの風味がミルクチョコレートの豊かなコクと調和する逸品。",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "350グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "イチゴの風味がミルクチョコレートの豊かなコクと調和する逸品。",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3500グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0401-istanbul-hikayesi": {
       "name": "イスタンブールの物語",
+      "description": "伝統的なバクラヴァからインスピレーションを得た、ピスタチオの甘いレイヤー。",
+      "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ピスタチオ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": []
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "伝統的なバクラヴァからインスピレーションを得た、ピスタチオの甘いレイヤー。",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ピスタチオ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "350グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "伝統的なバクラヴァからインスピレーションを得た、ピスタチオの甘いレイヤー。",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ピスタチオ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3500グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-05-01-cikolat-ahu": {
       "name": "チョコ・ラズベリー",
+      "description": "ラズベリーとスポンジケーキの極上の調和。",
+      "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "296,5 kcal / 1240,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "19,3",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "26,8",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "19,7",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,9",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "3,8",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 296,5 kcal / 1240,6 kJ; 脂質 19,3 g; 飽和脂肪酸 13 g; 炭水化物 26,8 g; 糖類 19,7 g; 食物繊維 1,9 g; たんぱく質 3,8 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "ラズベリーとスポンジケーキの極上の調和。",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "325グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "ラズベリーとスポンジケーキの極上の調和。",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3250グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0502-tatli-ahu": {
       "name": "スウィート・ラズベリー",
+      "description": "ホワイトチョコレートのクリーミーで甘いコクが広がる完璧なケーキ。",
+      "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "293,1 kcal / 1226,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "19,5",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "18,5",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 293,1 kcal / 1226,3 kJ; 脂質 19,5 g; 飽和脂肪酸 13,8 g; 炭水化物 26 g; 糖類 18,5 g; 食物繊維 1,3 g; たんぱく質 3,4 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "ホワイトチョコレートのクリーミーで甘いコクが広がる完璧なケーキ。",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "330グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "ホワイトチョコレートのクリーミーで甘いコクが広がる完璧なケーキ。",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3300グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0601-cikolatali-meyve-bahcesi": {
       "name": "チョコレート・フルーツガーデン",
+      "description": "色鮮やかなフルーツによる視覚的なごちそう。",
+      "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "231,3 kcal / 967,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "8,5",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "2,7",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 231,3 kcal / 967,6 kJ; 脂質 13 g; 飽和脂肪酸 8,5 g; 炭水化物 25,9 g; 糖類 15,2 g; 食物繊維 1,7 g; たんぱく質 2,7 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "色鮮やかなフルーツによる視覚的なごちそう。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "390グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "色鮮やかなフルーツによる視覚的なごちそう。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3900グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0602-meyve-bahcesi": {
       "name": "フルーツガーデン",
+      "description": "ケーキを包み込むフルーツとともに楽しむトロピカルな発見。",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "241,9 kcal / 1012,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "15,3",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "10,8",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "23,2",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 241,9 kcal / 1012,1 kJ; 脂質 15,3 g; 飽和脂肪酸 10,8 g; 炭水化物 23,2 g; 糖類 13,8 g; 食物繊維 1,2 g; たんぱく質 2,8 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "ケーキを包み込むフルーツとともに楽しむトロピカルな発見。",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "390グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "ケーキを包み込むフルーツとともに楽しむトロピカルな発見。",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3900グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0701-beyaz-inci": {
       "name": "ホワイト・パール",
+      "description": "ヘーゼルナッツの豊かな風味、バナナのフレッシュさ、キャラメルのシルキーな調和。",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "292 kcal / 1221,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "8,7",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "15,1",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,3",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 292 kcal / 1221,7 kJ; 脂質 18 g; 飽和脂肪酸 8,7 g; 炭水化物 27,5 g; 糖類 15,1 g; 食物繊維 1,8 g; たんぱく質 4,3 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "ヘーゼルナッツの豊かな風味、バナナのフレッシュさ、キャラメルのシルキーな調和。",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "395グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "ヘーゼルナッツの豊かな風味、バナナのフレッシュさ、キャラメルのシルキーな調和。",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3950グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0702-buyuk-ask": {
       "name": "大いなる愛",
+      "description": "バナナとクリームが織りなすエキゾチックで心地よい甘い発見。",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "278 kcal / 1163,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "16,1",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "9,3",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "29,2",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 278 kcal / 1163,1 kJ; 脂質 16,1 g; 飽和脂肪酸 9,3 g; 炭水化物 29,2 g; 糖類 19,2 g; 食物繊維 1,2 g; たんぱく質 4,2 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "バナナとクリームが織りなすエキゾチックで心地よい甘い発見。",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "350グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "バナナとクリームが織りなすエキゾチックで心地よい甘い発見。",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3500グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0703-sonsuz-ask": {
       "name": "永遠の愛",
+      "description": "リッチなチョコレートとバナナの絶妙な組み合わせ。",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "275,1 kcal / 1151 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "14,8",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "6,9",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "30,9",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 275,1 kcal / 1151 kJ; 脂質 14,8 g; 飽和脂肪酸 6,9 g; 炭水化物 30,9 g; 糖類 20,5 g; 食物繊維 1,7 g; たんぱく質 4,6 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "リッチなチョコレートとバナナの絶妙な組み合わせ。",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "355グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "リッチなチョコレートとバナナの絶妙な組み合わせ。",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品, ヘーゼルナッツ.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3550グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0801-amazon-buyusu": {
       "name": "アマゾンの魔法",
+      "description": "森のフルーツとチョコレートを組み合わせた、リッチで贅沢な味わい。",
+      "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "290,1 kcal / 1213,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "6,2",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "39,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 290,1 kcal / 1213,9 kJ; 脂質 12,8 g; 飽和脂肪酸 6,2 g; 炭水化物 39,5 g; 糖類 26 g; 食物繊維 2,4 g; たんぱく質 4,2 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "森のフルーツとチョコレートを組み合わせた、リッチで贅沢な味わい。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "380グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "森のフルーツとチョコレートを組み合わせた、リッチで贅沢な味わい。",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3800グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0802-amazon-hikayesi": {
       "name": "アマゾンの物語",
+      "description": "ホワイトチョコレートが森のフルーツとが出会う瞬間。",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>100g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "269,6 kcal / 1128 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪酸",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "23,6",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "21,7",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "食塩相当量",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100g当たり: エネルギー 269,6 kcal / 1128 kJ; 脂質 18 g; 飽和脂肪酸 12,7 g; 炭水化物 23,6 g; 糖類 21,7 g; 食物繊維 1,1 g; たんぱく質 3,2 g; 食塩相当量 0,1 g."
+      },
+      "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+      "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "スライス",
           "description": "ホワイトチョコレートが森のフルーツとが出会う瞬間。",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "1人前",
           "weight": "375グラム"
         },
         "baton": {
           "label": "バトン",
           "description": "ホワイトチョコレートが森のフルーツとが出会う瞬間。",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\n含有: グルテン, 卵, 乳製品.\n<small>同じ製造ラインで加工しているため、ナッツ類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ゴマが微量に含まれる可能性があります。</small>",
+          "servingSuggestion": "風味と食感を十分にお楽しみいただくため、お召し上がりの10～15分前に室温に戻してください。",
+          "storage": "+4～+6℃の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "longTermStorage": "<strong>保存方法</strong>\n−18℃の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がり前に+4℃の冷蔵庫で8～12時間解凍してください。\n\n<strong>注意</strong>\n解凍後の再冷凍はしないでください。冷蔵保存し、3日以内にお召し上がりください。",
+          "delivery": "",
+          "packaging": "",
           "portion": "6人前",
           "weight": "3750グラム"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     }
   }
 }

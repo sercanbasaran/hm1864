@@ -4,327 +4,1905 @@
   "products": {
     "500-0101-lotus-kulesi": {
       "name": "Torre Lotus",
+      "description": "Sabor único en cada bocado con las adictivas galletas Lotus.",
+      "ingredients": "Bizcocho genovés, sirope de naranja, crema de pastelería, crema Lotus, galletas Lotus.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y soja.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "407,5 kcal / 1705 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "26,4",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "38,4",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "14,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 407,5 kcal / 1705 kJ; Grasas 26,4 g; Grasas saturadas 12,7 g; Hidratos de carbono 38,4 g; Azúcares 14,4 g; Fibra alimentaria 0,7 g; Proteínas 4,1 g; Sal 0,3 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "Sabor único en cada bocado con las adictivas galletas Lotus.",
+          "ingredients": "Bizcocho genovés, sirope de naranja, crema de pastelería, crema Lotus, galletas Lotus.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y soja.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "390 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "Sabor único en cada bocado con las adictivas galletas Lotus.",
+          "ingredients": "Bizcocho genovés, sirope de naranja, crema de pastelería, crema Lotus, galletas Lotus.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y soja.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3900 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0201-diplomat": {
       "name": "Diplomático",
+      "description": "El crujiente exquisito del bizcocho de chocolate y el crocant caramelizado.",
+      "ingredients": "Bizcocho genovés de cacao, sirope de café, crema ganache de chocolate, salsa de chocolate con avellanas, crocant de frutos secos (pistacho, almendra, avellana), trozos de chocolate con leche.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos, avellanas, pistachos y almendras.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "350,9 kcal / 1468,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "24,5",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "13,7",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "28",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "20,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 350,9 kcal / 1468,2 kJ; Grasas 24,5 g; Grasas saturadas 13,7 g; Hidratos de carbono 28 g; Azúcares 20,4 g; Fibra alimentaria 1,7 g; Proteínas 4,7 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "El crujiente exquisito del bizcocho de chocolate y el crocant caramelizado.",
+          "ingredients": "Bizcocho genovés de cacao, sirope de café, crema ganache de chocolate, salsa de chocolate con avellanas, crocant de frutos secos (pistacho, almendra, avellana), trozos de chocolate con leche.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos, avellanas, pistachos y almendras.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "305 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "El crujiente exquisito del bizcocho de chocolate y el crocant caramelizado.",
+          "ingredients": "Bizcocho genovés de cacao, sirope de café, crema ganache de chocolate, salsa de chocolate con avellanas, crocant de frutos secos (pistacho, almendra, avellana), trozos de chocolate con leche.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos, avellanas, pistachos y almendras.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3050 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0202-kara-sevda": {
       "name": "Kara Sevda (Amor Prohibido)",
+      "description": "Una experiencia aterciopelada en cada bocado.",
+      "ingredients": "Bizcocho brownie (con nueces y chocolate amargo), sirope de café, crema de trufa de chocolate, ganache de chocolate, trozos de chocolate con leche.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y nueces.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "393,4 kcal / 1646 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "25,7",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "10,9",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "31,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "5,9",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 393,4 kcal / 1646 kJ; Grasas 25,7 g; Grasas saturadas 10,9 g; Hidratos de carbono 34,6 g; Azúcares 31,4 g; Fibra alimentaria 1 g; Proteínas 5,9 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "Una experiencia aterciopelada en cada bocado.",
+          "ingredients": "Bizcocho brownie (con nueces y chocolate amargo), sirope de café, crema de trufa de chocolate, ganache de chocolate, trozos de chocolate con leche.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y nueces.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "390 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "Una experiencia aterciopelada en cada bocado.",
+          "ingredients": "Bizcocho brownie (con nueces y chocolate amargo), sirope de café, crema de trufa de chocolate, ganache de chocolate, trozos de chocolate con leche.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y nueces.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3900 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0203-siyah-inci": {
       "name": "Perla Negra",
+      "description": "Un manjar especial que cautiva a la vista y al paladar.",
+      "ingredients": "Bizcocho genovés de cacao, sirope de café, crema ganache de chocolate, pistacho, trozos de chocolate con leche.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y pistacho.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "426,5 kcal / 1784,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "29,8",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "34,3",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "27,3",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 426,5 kcal / 1784,5 kJ; Grasas 29,8 g; Grasas saturadas 15,2 g; Hidratos de carbono 34,3 g; Azúcares 27,3 g; Fibra alimentaria 3,4 g; Proteínas 5,3 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "Un manjar especial que cautiva a la vista y al paladar.",
+          "ingredients": "Bizcocho genovés de cacao, sirope de café, crema ganache de chocolate, pistacho, trozos de chocolate con leche.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y pistacho.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "325 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "Un manjar especial que cautiva a la vista y al paladar.",
+          "ingredients": "Bizcocho genovés de cacao, sirope de café, crema ganache de chocolate, pistacho, trozos de chocolate con leche.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y pistacho.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3250 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0301-cilek-ruyasi": {
       "name": "Sueño de Fresa",
+      "description": "El sabor refrescante de los trozos de fresa.",
+      "ingredients": "Bizcocho genovés, sirope de naranja, crema de chocolate blanco, fresas frescas, relleno de fresa, salsa de pastel de chocolate blanco.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "229,8 kcal / 961,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "11",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 229,8 kcal / 961,5 kJ; Grasas 11 g; Grasas saturadas 4,6 g; Hidratos de carbono 28,1 g; Azúcares 19,2 g; Fibra alimentaria 1,1 g; Proteínas 4,6 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "El sabor refrescante de los trozos de fresa.",
+          "ingredients": "Bizcocho genovés, sirope de naranja, crema de chocolate blanco, fresas frescas, relleno de fresa, salsa de pastel de chocolate blanco.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "350 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "El sabor refrescante de los trozos de fresa.",
+          "ingredients": "Bizcocho genovés, sirope de naranja, crema de chocolate blanco, fresas frescas, relleno de fresa, salsa de pastel de chocolate blanco.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3500 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0302-ilk-ask": {
       "name": "Primer Amor",
+      "description": "Un postre elegante que destaca las mejores fresas de temporada.",
+      "ingredients": "Bizcocho genovés, bizcocho de avellana, sirope de naranja, crema de chocolate blanco, fresas frescas, gelatina para pasteles.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "350,3 kcal / 1465,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "21,3",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "12,6",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "26,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 350,3 kcal / 1465,7 kJ; Grasas 21,3 g; Grasas saturadas 12,6 g; Hidratos de carbono 34,6 g; Azúcares 26,2 g; Fibra alimentaria 1,1 g; Proteínas 5,1 g; Sal 0,2 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "Un postre elegante que destaca las mejores fresas de temporada.",
+          "ingredients": "Bizcocho genovés, bizcocho de avellana, sirope de naranja, crema de chocolate blanco, fresas frescas, gelatina para pasteles.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "350 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "Un postre elegante que destaca las mejores fresas de temporada.",
+          "ingredients": "Bizcocho genovés, bizcocho de avellana, sirope de naranja, crema de chocolate blanco, fresas frescas, gelatina para pasteles.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3500 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0303-pembe-ruya": {
       "name": "Sueño Rosado",
+      "description": "Una experiencia irresistible y llena de sabor que une dos gustos especiales.",
+      "ingredients": "Bizcocho genovés de cacao, sirope de café, crema de chocolate amargo, relleno de fresa, salsa de chocolate amargo.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "269,3 kcal / 1126,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "24,3",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 269,3 kcal / 1126,8 kJ; Grasas 17,7 g; Grasas saturadas 12,1 g; Hidratos de carbono 24,3 g; Azúcares 28,1 g; Fibra alimentaria 1,7 g; Proteínas 3,4 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "Una experiencia irresistible y llena de sabor que une dos gustos especiales.",
+          "ingredients": "Bizcocho genovés de cacao, sirope de café, crema de chocolate amargo, relleno de fresa, salsa de chocolate amargo.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "350 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "Una experiencia irresistible y llena de sabor que une dos gustos especiales.",
+          "ingredients": "Bizcocho genovés de cacao, sirope de café, crema de chocolate amargo, relleno de fresa, salsa de chocolate amargo.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3500 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0304-son-ask": {
       "name": "Último Amor",
+      "description": "Un deleite que combina el sabor de la fresa con la riqueza del chocolate con leche.",
+      "ingredients": "Bizcocho genovés de cacao, bizcocho de cacao con avellanas, sirope de café, crema de chocolate blanco, crema de chocolate amargo, fresas frescas, trozos de chocolate con leche.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "268,4 kcal / 1122,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "15,5",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "7,4",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "21,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 268,4 kcal / 1122,8 kJ; Grasas 15,5 g; Grasas saturadas 7,4 g; Hidratos de carbono 27,5 g; Azúcares 21,2 g; Fibra alimentaria 1,8 g; Proteínas 4,7 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "Un deleite que combina el sabor de la fresa con la riqueza del chocolate con leche.",
+          "ingredients": "Bizcocho genovés de cacao, bizcocho de cacao con avellanas, sirope de café, crema de chocolate blanco, crema de chocolate amargo, fresas frescas, trozos de chocolate con leche.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "350 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "Un deleite que combina el sabor de la fresa con la riqueza del chocolate con leche.",
+          "ingredients": "Bizcocho genovés de cacao, bizcocho de cacao con avellanas, sirope de café, crema de chocolate blanco, crema de chocolate amargo, fresas frescas, trozos de chocolate con leche.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3500 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0401-istanbul-hikayesi": {
       "name": "Historia de Estambul",
+      "description": "Capas dulces de pistacho inspiradas en el emblemático baklava.",
+      "ingredients": "Bizcocho genovés, baklava de pistacho, sirope de naranja, crema de chocolate blanco, crema de pistacho, pistacho.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y pistacho.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": []
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "Capas dulces de pistacho inspiradas en el emblemático baklava.",
+          "ingredients": "Bizcocho genovés, baklava de pistacho, sirope de naranja, crema de chocolate blanco, crema de pistacho, pistacho.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y pistacho.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "350 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "Capas dulces de pistacho inspiradas en el emblemático baklava.",
+          "ingredients": "Bizcocho genovés, baklava de pistacho, sirope de naranja, crema de chocolate blanco, crema de pistacho, pistacho.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y pistacho.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3500 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-05-01-cikolat-ahu": {
       "name": "Choco-Frambuesa",
+      "description": "El sabor superior de las frambuesas y el bizcocho.",
+      "ingredients": "Bizcocho genovés de cacao, tartaleta de cacao, sirope de café, crema ganache de chocolate, relleno de frambuesa, frambuesas frescas, trozos de chocolate con leche.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "296,5 kcal / 1240,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "19,3",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "26,8",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "19,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,9",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,8",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 296,5 kcal / 1240,6 kJ; Grasas 19,3 g; Grasas saturadas 13 g; Hidratos de carbono 26,8 g; Azúcares 19,7 g; Fibra alimentaria 1,9 g; Proteínas 3,8 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "El sabor superior de las frambuesas y el bizcocho.",
+          "ingredients": "Bizcocho genovés de cacao, tartaleta de cacao, sirope de café, crema ganache de chocolate, relleno de frambuesa, frambuesas frescas, trozos de chocolate con leche.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "325 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "El sabor superior de las frambuesas y el bizcocho.",
+          "ingredients": "Bizcocho genovés de cacao, tartaleta de cacao, sirope de café, crema ganache de chocolate, relleno de frambuesa, frambuesas frescas, trozos de chocolate con leche.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3250 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0502-tatli-ahu": {
       "name": "Dulce Frambuesa",
+      "description": "Un pastel perfecto que combina la rica cremosidad del chocolate blanco.",
+      "ingredients": "Bizcocho genovés, tartaleta, sirope de naranja, crema de chocolate blanco, relleno de frambuesa.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "293,1 kcal / 1226,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "19,5",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "18,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 293,1 kcal / 1226,3 kJ; Grasas 19,5 g; Grasas saturadas 13,8 g; Hidratos de carbono 26 g; Azúcares 18,5 g; Fibra alimentaria 1,3 g; Proteínas 3,4 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "Un pastel perfecto que combina la rica cremosidad del chocolate blanco.",
+          "ingredients": "Bizcocho genovés, tartaleta, sirope de naranja, crema de chocolate blanco, relleno de frambuesa.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "330 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "Un pastel perfecto que combina la rica cremosidad del chocolate blanco.",
+          "ingredients": "Bizcocho genovés, tartaleta, sirope de naranja, crema de chocolate blanco, relleno de frambuesa.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3300 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0601-cikolatali-meyve-bahcesi": {
       "name": "Jardín de Frutas con Chocolate",
+      "description": "Un festín visual de frutas coloridas.",
+      "ingredients": "Bizcocho genovés de cacao, sirope de café, crema de pastelería, frutas variadas (melocotón, kiwi, piña, fresa, uva negra, madroño, granada, naranja, higo, melón), gelatina para pasteles.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "231,3 kcal / 967,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "8,5",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "2,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 231,3 kcal / 967,6 kJ; Grasas 13 g; Grasas saturadas 8,5 g; Hidratos de carbono 25,9 g; Azúcares 15,2 g; Fibra alimentaria 1,7 g; Proteínas 2,7 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "Un festín visual de frutas coloridas.",
+          "ingredients": "Bizcocho genovés de cacao, sirope de café, crema de pastelería, frutas variadas (melocotón, kiwi, piña, fresa, uva negra, madroño, granada, naranja, higo, melón), gelatina para pasteles.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "390 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "Un festín visual de frutas coloridas.",
+          "ingredients": "Bizcocho genovés de cacao, sirope de café, crema de pastelería, frutas variadas (melocotón, kiwi, piña, fresa, uva negra, madroño, granada, naranja, higo, melón), gelatina para pasteles.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3900 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0602-meyve-bahcesi": {
       "name": "Jardín de Frutas",
+      "description": "El descubrimiento del sabor tropical con frutas que envuelven el pastel.",
+      "ingredients": "Bizcocho genovés, sirope de naranja, crema de pastelería, frutas variadas (melocotón, kiwi, piña, fresa, uva negra, madroño, granada, naranja, higo, melón), gelatina para pasteles.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "241,9 kcal / 1012,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "15,3",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "10,8",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "23,2",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 241,9 kcal / 1012,1 kJ; Grasas 15,3 g; Grasas saturadas 10,8 g; Hidratos de carbono 23,2 g; Azúcares 13,8 g; Fibra alimentaria 1,2 g; Proteínas 2,8 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "El descubrimiento del sabor tropical con frutas que envuelven el pastel.",
+          "ingredients": "Bizcocho genovés, sirope de naranja, crema de pastelería, frutas variadas (melocotón, kiwi, piña, fresa, uva negra, madroño, granada, naranja, higo, melón), gelatina para pasteles.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "390 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "El descubrimiento del sabor tropical con frutas que envuelven el pastel.",
+          "ingredients": "Bizcocho genovés, sirope de naranja, crema de pastelería, frutas variadas (melocotón, kiwi, piña, fresa, uva negra, madroño, granada, naranja, higo, melón), gelatina para pasteles.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3900 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0701-beyaz-inci": {
       "name": "Perla Blanca",
+      "description": "La riqueza de la avellana se une a la frescura del plátano y el equilibrio sedoso del caramelo.",
+      "ingredients": "Bizcocho genovés, sirope de naranja, crema de chocolate blanco, plátano, avellanas, relleno de caramelo, salsa de chocolate blanco.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "292 kcal / 1221,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "8,7",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "15,1",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 292 kcal / 1221,7 kJ; Grasas 18 g; Grasas saturadas 8,7 g; Hidratos de carbono 27,5 g; Azúcares 15,1 g; Fibra alimentaria 1,8 g; Proteínas 4,3 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "La riqueza de la avellana se une a la frescura del plátano y el equilibrio sedoso del caramelo.",
+          "ingredients": "Bizcocho genovés, sirope de naranja, crema de chocolate blanco, plátano, avellanas, relleno de caramelo, salsa de chocolate blanco.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "395 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "La riqueza de la avellana se une a la frescura del plátano y el equilibrio sedoso del caramelo.",
+          "ingredients": "Bizcocho genovés, sirope de naranja, crema de chocolate blanco, plátano, avellanas, relleno de caramelo, salsa de chocolate blanco.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3950 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0702-buyuk-ask": {
       "name": "Gran Amor",
+      "description": "Un dulce y reconfortante descubrimiento exótico de plátano y crema.",
+      "ingredients": "Bizcocho genovés, bizcocho de avellana, sirope de naranja, crema de chocolate blanco, plátano, gelatina de caramelo.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "278 kcal / 1163,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "16,1",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "9,3",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "29,2",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 278 kcal / 1163,1 kJ; Grasas 16,1 g; Grasas saturadas 9,3 g; Hidratos de carbono 29,2 g; Azúcares 19,2 g; Fibra alimentaria 1,2 g; Proteínas 4,2 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "Un dulce y reconfortante descubrimiento exótico de plátano y crema.",
+          "ingredients": "Bizcocho genovés, bizcocho de avellana, sirope de naranja, crema de chocolate blanco, plátano, gelatina de caramelo.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "350 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "Un dulce y reconfortante descubrimiento exótico de plátano y crema.",
+          "ingredients": "Bizcocho genovés, bizcocho de avellana, sirope de naranja, crema de chocolate blanco, plátano, gelatina de caramelo.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3500 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0703-sonsuz-ask": {
       "name": "Amor Eterno",
+      "description": "Una exquisita combinación de chocolate intenso y plátanos.",
+      "ingredients": "Bizcocho genovés de cacao, bizcocho de cacao con avellanas, sirope de café, crema de chocolate blanco, crema de chocolate amargo, plátano, trozos de chocolate con leche.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "275,1 kcal / 1151 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "14,8",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "6,9",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "30,9",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 275,1 kcal / 1151 kJ; Grasas 14,8 g; Grasas saturadas 6,9 g; Hidratos de carbono 30,9 g; Azúcares 20,5 g; Fibra alimentaria 1,7 g; Proteínas 4,6 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "Una exquisita combinación de chocolate intenso y plátanos.",
+          "ingredients": "Bizcocho genovés de cacao, bizcocho de cacao con avellanas, sirope de café, crema de chocolate blanco, crema de chocolate amargo, plátano, trozos de chocolate con leche.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "355 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "Una exquisita combinación de chocolate intenso y plátanos.",
+          "ingredients": "Bizcocho genovés de cacao, bizcocho de cacao con avellanas, sirope de café, crema de chocolate blanco, crema de chocolate amargo, plátano, trozos de chocolate con leche.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo, lácteos y avellanas.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3550 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0801-amazon-buyusu": {
       "name": "Magia Amazónica",
+      "description": "Una experiencia rica y deliciosa que une frutos del bosque con chocolate.",
+      "ingredients": "Bizcocho genovés de cacao, sirope de café, crema de chocolate blanco, frutos del bosque (arándanos, moras, madroño, uva negra, frambuesas, fresas), relleno de frutos del bosque, salsa de chocolate.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "290,1 kcal / 1213,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "6,2",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "39,5",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 290,1 kcal / 1213,9 kJ; Grasas 12,8 g; Grasas saturadas 6,2 g; Hidratos de carbono 39,5 g; Azúcares 26 g; Fibra alimentaria 2,4 g; Proteínas 4,2 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "Una experiencia rica y deliciosa que une frutos del bosque con chocolate.",
+          "ingredients": "Bizcocho genovés de cacao, sirope de café, crema de chocolate blanco, frutos del bosque (arándanos, moras, madroño, uva negra, frambuesas, fresas), relleno de frutos del bosque, salsa de chocolate.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "380 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "Una experiencia rica y deliciosa que une frutos del bosque con chocolate.",
+          "ingredients": "Bizcocho genovés de cacao, sirope de café, crema de chocolate blanco, frutos del bosque (arándanos, moras, madroño, uva negra, frambuesas, fresas), relleno de frutos del bosque, salsa de chocolate.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3800 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0802-amazon-hikayesi": {
       "name": "Historia Amazónica",
+      "description": "El momento en que el chocolate blanco se encuentra con los frutos del bosque.",
+      "ingredients": "Bizcocho genovés, sirope de naranja, crema de chocolate blanco, frutos del bosque (arándanos, madroño, uva negra, moras, frambuesas, fresas), relleno de frutos del bosque, salsa de chocolate blanco.",
+      "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "269,6 kcal / 1128 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "23,6",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "21,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra alimentaria",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 269,6 kcal / 1128 kJ; Grasas 18 g; Grasas saturadas 12,7 g; Hidratos de carbono 23,6 g; Azúcares 21,7 g; Fibra alimentaria 1,1 g; Proteínas 3,2 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Porción",
           "description": "El momento en que el chocolate blanco se encuentra con los frutos del bosque.",
+          "ingredients": "Bizcocho genovés, sirope de naranja, crema de chocolate blanco, frutos del bosque (arándanos, madroño, uva negra, moras, frambuesas, fresas), relleno de frutos del bosque, salsa de chocolate blanco.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porción Individual",
           "weight": "375 gramos"
         },
         "baton": {
           "label": "Baton",
           "description": "El momento en que el chocolate blanco se encuentra con los frutos del bosque.",
+          "ingredients": "Bizcocho genovés, sirope de naranja, crema de chocolate blanco, frutos del bosque (arándanos, madroño, uva negra, moras, frambuesas, fresas), relleno de frutos del bosque, salsa de chocolate blanco.",
+          "allergenInfo": "<strong>Aviso de Alérgenos</strong>\nContiene gluten, huevo y lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo debido a su procesamiento en la misma línea de producción.</small>",
+          "servingSuggestion": "Para disfrutar plenamente de su exquisito sabor y textura, se recomienda reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "storage": "Conservar en el refrigerador entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante mucho tiempo.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el refrigerador a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar el producto descongelado. Una vez descongelado, conservar en el refrigerador y consumir en un plazo de 3 días.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porciones",
           "weight": "3750 gramos"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     }
   }
 }

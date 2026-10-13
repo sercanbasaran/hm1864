@@ -4,327 +4,1905 @@
   "products": {
     "500-0101-lotus-kulesi": {
       "name": "लोटस टॉवर",
+      "description": "नशे जैसी लत लगाने वाले लोटस बिस्कुट के साथ हर बाइट में अनोखा स्वाद।",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, सोया.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "407,5 kcal / 1705 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "26,4",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "38,4",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "14,4",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 407,5 kcal / 1705 kJ; वसा 26,4 g; संतृप्त वसा 12,7 g; कार्बोहाइड्रेट 38,4 g; शर्करा 14,4 g; फाइबर 0,7 g; प्रोटीन 4,1 g; नमक 0,3 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "नशे जैसी लत लगाने वाले लोटस बिस्कुट के साथ हर बाइट में अनोखा स्वाद।",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, सोया.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "390 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "नशे जैसी लत लगाने वाले लोटस बिस्कुट के साथ हर बाइट में अनोखा स्वाद।",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, सोया.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3900 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0201-diplomat": {
       "name": "डिप्लोमैट",
+      "description": "चॉकलेट केक और क्रिस्पी कैरेमेलइज्ड क्रोकेंट का बेहतरीन क्रंच।",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट, पिस्ता, बादाम.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "350,9 kcal / 1468,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "24,5",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "13,7",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "28",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "20,4",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 350,9 kcal / 1468,2 kJ; वसा 24,5 g; संतृप्त वसा 13,7 g; कार्बोहाइड्रेट 28 g; शर्करा 20,4 g; फाइबर 1,7 g; प्रोटीन 4,7 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "चॉकलेट केक और क्रिस्पी कैरेमेलइज्ड क्रोकेंट का बेहतरीन क्रंच।",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट, पिस्ता, बादाम.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "305 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "चॉकलेट केक और क्रिस्पी कैरेमेलइज्ड क्रोकेंट का बेहतरीन क्रंच।",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट, पिस्ता, बादाम.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3050 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0202-kara-sevda": {
       "name": "कारा सेवदा",
+      "description": "हर बाइट में एक मखमली अनुभव।",
+      "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, अखरोट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "393,4 kcal / 1646 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "25,7",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "10,9",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "31,4",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "5,9",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 393,4 kcal / 1646 kJ; वसा 25,7 g; संतृप्त वसा 10,9 g; कार्बोहाइड्रेट 34,6 g; शर्करा 31,4 g; फाइबर 1 g; प्रोटीन 5,9 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "हर बाइट में एक मखमली अनुभव।",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, अखरोट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "390 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "हर बाइट में एक मखमली अनुभव।",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, अखरोट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3900 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0203-siyah-inci": {
       "name": "ब्लैक पर्ल",
+      "description": "एक विशेष व्यंजन जो आँखों और तालू दोनों को लुभाता है।",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, पिस्ता.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "426,5 kcal / 1784,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "29,8",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "34,3",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "27,3",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 426,5 kcal / 1784,5 kJ; वसा 29,8 g; संतृप्त वसा 15,2 g; कार्बोहाइड्रेट 34,3 g; शर्करा 27,3 g; फाइबर 3,4 g; प्रोटीन 5,3 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "एक विशेष व्यंजन जो आँखों और तालू दोनों को लुभाता है।",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, पिस्ता.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "325 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "एक विशेष व्यंजन जो आँखों और तालू दोनों को लुभाता है।",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, पिस्ता.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3250 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0301-cilek-ruyasi": {
       "name": "स्ट्रॉबेरी ड्रीम",
+      "description": "स्ट्रॉबेरी के टुकड़ों का ताज़ा और सुहावना स्वाद।",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "229,8 kcal / 961,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "11",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 229,8 kcal / 961,5 kJ; वसा 11 g; संतृप्त वसा 4,6 g; कार्बोहाइड्रेट 28,1 g; शर्करा 19,2 g; फाइबर 1,1 g; प्रोटीन 4,6 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "स्ट्रॉबेरी के टुकड़ों का ताज़ा और सुहावना स्वाद।",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "350 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "स्ट्रॉबेरी के टुकड़ों का ताज़ा और सुहावना स्वाद।",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3500 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0302-ilk-ask": {
       "name": "पहला प्यार",
+      "description": "सर्वोत्तम मौसमी स्ट्रॉबेरी से सजा हुआ एक शानदार व्यंजन।",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "350,3 kcal / 1465,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "21,3",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "12,6",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "26,2",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 350,3 kcal / 1465,7 kJ; वसा 21,3 g; संतृप्त वसा 12,6 g; कार्बोहाइड्रेट 34,6 g; शर्करा 26,2 g; फाइबर 1,1 g; प्रोटीन 5,1 g; नमक 0,2 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "सर्वोत्तम मौसमी स्ट्रॉबेरी से सजा हुआ एक शानदार व्यंजन।",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "350 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "सर्वोत्तम मौसमी स्ट्रॉबेरी से सजा हुआ एक शानदार व्यंजन।",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3500 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0303-pembe-ruya": {
       "name": "पिंक ड्रीम",
+      "description": "दो खास स्वादों को एक साथ लाने वाला एक अनूठा और लजीज अनुभव।",
+      "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "269,3 kcal / 1126,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "24,3",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 269,3 kcal / 1126,8 kJ; वसा 17,7 g; संतृप्त वसा 12,1 g; कार्बोहाइड्रेट 24,3 g; शर्करा 28,1 g; फाइबर 1,7 g; प्रोटीन 3,4 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "दो खास स्वादों को एक साथ लाने वाला एक अनूठा और लजीज अनुभव।",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "350 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "दो खास स्वादों को एक साथ लाने वाला एक अनूठा और लजीज अनुभव।",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3500 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0304-son-ask": {
       "name": "आखिरी प्यार",
+      "description": "मिल्क चॉकलेट की समृद्धि के साथ स्ट्रॉबेरी के स्वाद का अनूठा मेल।",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "268,4 kcal / 1122,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "15,5",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "7,4",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "21,2",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 268,4 kcal / 1122,8 kJ; वसा 15,5 g; संतृप्त वसा 7,4 g; कार्बोहाइड्रेट 27,5 g; शर्करा 21,2 g; फाइबर 1,8 g; प्रोटीन 4,7 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "मिल्क चॉकलेट की समृद्धि के साथ स्ट्रॉबेरी के स्वाद का अनूठा मेल।",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "350 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "मिल्क चॉकलेट की समृद्धि के साथ स्ट्रॉबेरी के स्वाद का अनूठा मेल।",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3500 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0401-istanbul-hikayesi": {
       "name": "इस्तांबुल की कहानी",
+      "description": "प्रतिष्ठित बकलावा से प्रेरित पिस्ता की मीठी परतें।",
+      "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, पिस्ता.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": []
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "प्रतिष्ठित बकलावा से प्रेरित पिस्ता की मीठी परतें।",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, पिस्ता.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "350 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "प्रतिष्ठित बकलावा से प्रेरित पिस्ता की मीठी परतें।",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, पिस्ता.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3500 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-05-01-cikolat-ahu": {
       "name": "चॉकलेट रास्पबेरी",
+      "description": "रास्पबेरी और स्पंज केक का उत्कृष्ट और लाजवाब स्वाद।",
+      "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "296,5 kcal / 1240,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "19,3",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "26,8",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "19,7",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,9",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "3,8",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 296,5 kcal / 1240,6 kJ; वसा 19,3 g; संतृप्त वसा 13 g; कार्बोहाइड्रेट 26,8 g; शर्करा 19,7 g; फाइबर 1,9 g; प्रोटीन 3,8 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "रास्पबेरी और स्पंज केक का उत्कृष्ट और लाजवाब स्वाद।",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "325 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "रास्पबेरी और स्पंज केक का उत्कृष्ट और लाजवाब स्वाद।",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3250 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0502-tatli-ahu": {
       "name": "स्वीट रास्पबेरी",
+      "description": "सफेद चॉकलेट की मलाईदार और मीठी समृद्धि से भरपूर एक आदर्श केक आनंद।",
+      "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "293,1 kcal / 1226,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "19,5",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "18,5",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 293,1 kcal / 1226,3 kJ; वसा 19,5 g; संतृप्त वसा 13,8 g; कार्बोहाइड्रेट 26 g; शर्करा 18,5 g; फाइबर 1,3 g; प्रोटीन 3,4 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "सफेद चॉकलेट की मलाईदार और मीठी समृद्धि से भरपूर एक आदर्श केक आनंद।",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "330 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "सफेद चॉकलेट की मलाईदार और मीठी समृद्धि से भरपूर एक आदर्श केक आनंद।",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3300 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0601-cikolatali-meyve-bahcesi": {
       "name": "चॉकलेट फ्रूट गार्डन",
+      "description": "रंगीन फलों का एक दृश्य उत्सव।",
+      "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "231,3 kcal / 967,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "8,5",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "2,7",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 231,3 kcal / 967,6 kJ; वसा 13 g; संतृप्त वसा 8,5 g; कार्बोहाइड्रेट 25,9 g; शर्करा 15,2 g; फाइबर 1,7 g; प्रोटीन 2,7 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "रंगीन फलों का एक दृश्य उत्सव।",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "390 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "रंगीन फलों का एक दृश्य उत्सव।",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3900 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0602-meyve-bahcesi": {
       "name": "फ्रूट गार्डन",
+      "description": "केक को घेरे हुए फलों के साथ उष्णकटिबंधीय स्वाद की खोज।",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "241,9 kcal / 1012,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "15,3",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "10,8",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "23,2",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 241,9 kcal / 1012,1 kJ; वसा 15,3 g; संतृप्त वसा 10,8 g; कार्बोहाइड्रेट 23,2 g; शर्करा 13,8 g; फाइबर 1,2 g; प्रोटीन 2,8 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "केक को घेरे हुए फलों के साथ उष्णकटिबंधीय स्वाद की खोज।",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "390 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "केक को घेरे हुए फलों के साथ उष्णकटिबंधीय स्वाद की खोज।",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3900 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0701-beyaz-inci": {
       "name": "व्हाइट पर्ल",
+      "description": "हेज़लनट की समृद्धि, केले की ताज़गी और कैरेमेल के रेशमी संतुलन का मेल।",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "292 kcal / 1221,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "8,7",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "15,1",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "4,3",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 292 kcal / 1221,7 kJ; वसा 18 g; संतृप्त वसा 8,7 g; कार्बोहाइड्रेट 27,5 g; शर्करा 15,1 g; फाइबर 1,8 g; प्रोटीन 4,3 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "हेज़लनट की समृद्धि, केले की ताज़गी और कैरेमेल के रेशमी संतुलन का मेल।",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "395 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "हेज़लनट की समृद्धि, केले की ताज़गी और कैरेमेल के रेशमी संतुलन का मेल।",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3950 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0702-buyuk-ask": {
       "name": "महान प्यार",
+      "description": "केले और क्रीम की एक विदेशी और सुकून देने वाली मीठी खोज।",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "278 kcal / 1163,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "16,1",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "9,3",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "29,2",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 278 kcal / 1163,1 kJ; वसा 16,1 g; संतृप्त वसा 9,3 g; कार्बोहाइड्रेट 29,2 g; शर्करा 19,2 g; फाइबर 1,2 g; प्रोटीन 4,2 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "केले और क्रीम की एक विदेशी और सुकून देने वाली मीठी खोज।",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "350 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "केले और क्रीम की एक विदेशी और सुकून देने वाली मीठी खोज।",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3500 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0703-sonsuz-ask": {
       "name": "अनंत प्यार",
+      "description": "समृद्ध चॉकलेट और केलों का एक उत्कृष्ट संयोजन।",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "275,1 kcal / 1151 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "14,8",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "6,9",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "30,9",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 275,1 kcal / 1151 kJ; वसा 14,8 g; संतृप्त वसा 6,9 g; कार्बोहाइड्रेट 30,9 g; शर्करा 20,5 g; फाइबर 1,7 g; प्रोटीन 4,6 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "समृद्ध चॉकलेट और केलों का एक उत्कृष्ट संयोजन।",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "355 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "समृद्ध चॉकलेट और केलों का एक उत्कृष्ट संयोजन।",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद, हेज़लनट.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3550 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0801-amazon-buyusu": {
       "name": "अमेज़ॅन मैजिक",
+      "description": "जंगली फलों और चॉकलेट को मिलाने वाला एक समृद्ध और स्वादिष्ट अनुभव।",
+      "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "290,1 kcal / 1213,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "6,2",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "39,5",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 290,1 kcal / 1213,9 kJ; वसा 12,8 g; संतृप्त वसा 6,2 g; कार्बोहाइड्रेट 39,5 g; शर्करा 26 g; फाइबर 2,4 g; प्रोटीन 4,2 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "जंगली फलों और चॉकलेट को मिलाने वाला एक समृद्ध और स्वादिष्ट अनुभव।",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "380 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "जंगली फलों और चॉकलेट को मिलाने वाला एक समृद्ध और स्वादिष्ट अनुभव।",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3800 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0802-amazon-hikayesi": {
       "name": "अमेज़ॅन की कहानी",
+      "description": "वह पल जब सफेद चॉकलेट जंगली फलों से मिलती है।",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+      "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>प्रति 100 ग्राम</strong>",
+        "values": [
+          {
+            "name": "ऊर्जा",
+            "value": "269,6 kcal / 1128 kJ",
+            "unit": ""
+          },
+          {
+            "name": "वसा",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "संतृप्त वसा",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "कार्बोहाइड्रेट",
+            "value": "23,6",
+            "unit": "g"
+          },
+          {
+            "name": "शर्करा",
+            "value": "21,7",
+            "unit": "g"
+          },
+          {
+            "name": "फाइबर",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "प्रोटीन",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "नमक",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "प्रति 100 ग्राम: ऊर्जा 269,6 kcal / 1128 kJ; वसा 18 g; संतृप्त वसा 12,7 g; कार्बोहाइड्रेट 23,6 g; शर्करा 21,7 g; फाइबर 1,1 g; प्रोटीन 3,2 g; नमक 0,1 g."
+      },
+      "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+      "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+      "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "स्लाइस",
           "description": "वह पल जब सफेद चॉकलेट जंगली फलों से मिलती है।",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "सिंगल पोर्शन",
           "weight": "375 ग्राम"
         },
         "baton": {
           "label": "बटन",
           "description": "वह पल जब सफेद चॉकलेट जंगली फलों से मिलती है।",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>एलर्जेन चेतावनी</strong>\nइसमें शामिल हैं: ग्लूटेन, अंडा, डेयरी उत्पाद.\n<small>एक ही उत्पादन लाइन पर तैयार होने के कारण मेवों (हेज़लनट, पिस्ता, अखरोट, बादाम), सोया और तिल के अंश हो सकते हैं।</small>",
+          "servingSuggestion": "बेहतरीन स्वाद और बनावट का आनंद लेने के लिए सेवन से पहले 10–15 मिनट कमरे के तापमान पर रखें।",
+          "storage": "रेफ्रिजरेटर में +4 °C से +6 °C के बीच रखें। सीधे धूप से बचाएँ और लंबे समय तक कमरे के तापमान पर न रखें।",
+          "longTermStorage": "<strong>भंडारण</strong>\n−18 °C पर डीप फ्रीज़र में रखें।\n\n<strong>तैयारी</strong>\nसेवन से पहले +4 °C पर रेफ्रिजरेटर में 8–12 घंटे डीफ़्रॉस्ट करें।\n\n<strong>चेतावनी</strong>\nपिघले हुए उत्पाद को दोबारा फ़्रीज़ न करें। फ्रिज में रखकर 3 दिनों के अंदर सेवन करें।",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 सर्विंग्स",
           "weight": "3750 ग्राम"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     }
   }
 }

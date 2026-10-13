@@ -4,255 +4,1905 @@
   "products": {
     "500-0101-lotus-kulesi": {
       "name": "برج لوتوس",
+      "description": "طعمی بی‌نظیر در هر گاز با بیسکویت‌های اعتیادآور لوتوس.",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, سویا.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "407,5 kcal / 1705 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "26,4",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "38,4",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "14,4",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 407,5 kcal / 1705 kJ; چربی 26,4 g; چربی اشباع‌شده 12,7 g; کربوهیدرات 38,4 g; قند 14,4 g; فیبر 0,7 g; پروتئین 4,1 g; نمک 0,3 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "طعمی بی‌نظیر در هر گاز با بیسکویت‌های اعتیادآور لوتوس."
+          "description": "طعمی بی‌نظیر در هر گاز با بیسکویت‌های اعتیادآور لوتوس.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, سویا.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "390 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "طعمی بی‌نظیر در هر گاز با بیسکویت‌های اعتیادآور لوتوس."
+          "description": "طعمی بی‌نظیر در هر گاز با بیسکویت‌های اعتیادآور لوتوس.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, سویا.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3900 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0201-diplomat": {
       "name": "دیپلمات",
+      "description": "ترد و شگفت‌انگیز کیک شکلاتی و کراکنت کاراملی ترد.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق, پسته, بادام.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "350,9 kcal / 1468,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "24,5",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "13,7",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "28",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "20,4",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 350,9 kcal / 1468,2 kJ; چربی 24,5 g; چربی اشباع‌شده 13,7 g; کربوهیدرات 28 g; قند 20,4 g; فیبر 1,7 g; پروتئین 4,7 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "ترد و شگفت‌انگیز کیک شکلاتی و کراکنت کاراملی ترد."
+          "description": "ترد و شگفت‌انگیز کیک شکلاتی و کراکنت کاراملی ترد.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق, پسته, بادام.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "305 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "ترد و شگفت‌انگیز کیک شکلاتی و کراکنت کاراملی ترد."
+          "description": "ترد و شگفت‌انگیز کیک شکلاتی و کراکنت کاراملی ترد.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق, پسته, بادام.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3050 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0202-kara-sevda": {
       "name": "کارا سودا (عشق سیاه)",
+      "description": "تجربه‌ای مخملی در هر گاز.",
+      "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, گردو.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "393,4 kcal / 1646 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "25,7",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "10,9",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "31,4",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "5,9",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 393,4 kcal / 1646 kJ; چربی 25,7 g; چربی اشباع‌شده 10,9 g; کربوهیدرات 34,6 g; قند 31,4 g; فیبر 1 g; پروتئین 5,9 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "تجربه‌ای مخملی در هر گاز."
+          "description": "تجربه‌ای مخملی در هر گاز.",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, گردو.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "390 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "تجربه‌ای مخملی در هر گاز."
+          "description": "تجربه‌ای مخملی در هر گاز.",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, گردو.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3900 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0203-siyah-inci": {
       "name": "مروارید سیاه",
+      "description": "خطوطی خاص که چشم و کام را نوازش می‌دهد.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, پسته.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "426,5 kcal / 1784,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "29,8",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "34,3",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "27,3",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 426,5 kcal / 1784,5 kJ; چربی 29,8 g; چربی اشباع‌شده 15,2 g; کربوهیدرات 34,3 g; قند 27,3 g; فیبر 3,4 g; پروتئین 5,3 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "خطوطی خاص که چشم و کام را نوازش می‌دهد."
+          "description": "خطوطی خاص که چشم و کام را نوازش می‌دهد.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, پسته.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "325 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "خطوطی خاص که چشم و کام را نوازش می‌دهد."
+          "description": "خطوطی خاص که چشم و کام را نوازش می‌دهد.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, پسته.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3250 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0301-cilek-ruyasi": {
       "name": "رویای توت‌فرنگی",
+      "description": "طعم طراوت‌بخش تکه‌های توت‌فرنگی.",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "229,8 kcal / 961,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "11",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 229,8 kcal / 961,5 kJ; چربی 11 g; چربی اشباع‌شده 4,6 g; کربوهیدرات 28,1 g; قند 19,2 g; فیبر 1,1 g; پروتئین 4,6 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "طعم طراوت‌بخش تکه‌های توت‌فرنگی."
+          "description": "طعم طراوت‌بخش تکه‌های توت‌فرنگی.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "350 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "طعم طراوت‌بخش تکه‌های توت‌فرنگی."
+          "description": "طعم طراوت‌بخش تکه‌های توت‌فرنگی.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3500 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0302-ilk-ask": {
       "name": "عشق اول",
+      "description": "شیرینی لطیف و ظریفی که بهترین توت‌فرنگی‌های فصلی را به نمایش می‌گذارد.",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "350,3 kcal / 1465,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "21,3",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "12,6",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "26,2",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 350,3 kcal / 1465,7 kJ; چربی 21,3 g; چربی اشباع‌شده 12,6 g; کربوهیدرات 34,6 g; قند 26,2 g; فیبر 1,1 g; پروتئین 5,1 g; نمک 0,2 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "شیرینی لطیف و ظریفی که بهترین توت‌فرنگی‌های فصلی را به نمایش می‌گذارد."
+          "description": "شیرینی لطیف و ظریفی که بهترین توت‌فرنگی‌های فصلی را به نمایش می‌گذارد.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "350 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "شیرینی لطیف و ظریفی که بهترین توت‌فرنگی‌های فصلی را به نمایش می‌گذارد."
+          "description": "شیرینی لطیف و ظریفی که بهترین توت‌فرنگی‌های فصلی را به نمایش می‌گذارد.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3500 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0303-pembe-ruya": {
       "name": "رویای صورتی",
+      "description": "تجربه‌ای وسوسه‌انگیز و لذیذ که دو طعم خاص را گرد هم می‌آورد.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "269,3 kcal / 1126,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "24,3",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 269,3 kcal / 1126,8 kJ; چربی 17,7 g; چربی اشباع‌شده 12,1 g; کربوهیدرات 24,3 g; قند 28,1 g; فیبر 1,7 g; پروتئین 3,4 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "تجربه‌ای وسوسه‌انگیز و لذیذ که دو طعم خاص را گرد هم می‌آورد."
+          "description": "تجربه‌ای وسوسه‌انگیز و لذیذ که دو طعم خاص را گرد هم می‌آورد.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "350 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "تجربه‌ای وسوسه‌انگیز و لذیذ که دو طعم خاص را گرد هم می‌آورد."
+          "description": "تجربه‌ای وسوسه‌انگیز و لذیذ که دو طعم خاص را گرد هم می‌آورد.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3500 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0304-son-ask": {
       "name": "عشق آخر",
+      "description": "ترکیبی دلنشین از طعم توت‌فرنگی و غنای شکلات شیری.",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "268,4 kcal / 1122,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "15,5",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "7,4",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "21,2",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 268,4 kcal / 1122,8 kJ; چربی 15,5 g; چربی اشباع‌شده 7,4 g; کربوهیدرات 27,5 g; قند 21,2 g; فیبر 1,8 g; پروتئین 4,7 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "ترکیبی دلنشین از طعم توت‌فرنگی و غنای شکلات شیری."
+          "description": "ترکیبی دلنشین از طعم توت‌فرنگی و غنای شکلات شیری.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "350 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "ترکیبی دلنشین از طعم توت‌فرنگی و غنای شکلات شیری."
+          "description": "ترکیبی دلنشین از طعم توت‌فرنگی و غنای شکلات شیری.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3500 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0401-istanbul-hikayesi": {
       "name": "داستان استانبول",
+      "description": "لایه‌های شیرین پسته الهام‌گرفته از باقلوای نمادین.",
+      "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, پسته.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": []
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "لایه‌های شیرین پسته الهام‌گرفته از باقلوای نمادین."
+          "description": "لایه‌های شیرین پسته الهام‌گرفته از باقلوای نمادین.",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, پسته.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "350 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "لایه‌های شیرین پسته الهام‌گرفته از باقلوای نمادین."
+          "description": "لایه‌های شیرین پسته الهام‌گرفته از باقلوای نمادین.",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, پسته.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3500 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-05-01-cikolat-ahu": {
       "name": "شکلات و تمشک",
+      "description": "طعم برتر تمشک و کیک اسفنجی.",
+      "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "296,5 kcal / 1240,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "19,3",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "26,8",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "19,7",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,9",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "3,8",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 296,5 kcal / 1240,6 kJ; چربی 19,3 g; چربی اشباع‌شده 13 g; کربوهیدرات 26,8 g; قند 19,7 g; فیبر 1,9 g; پروتئین 3,8 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "طعم برتر تمشک و کیک اسفنجی."
+          "description": "طعم برتر تمشک و کیک اسفنجی.",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "325 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "طعم برتر تمشک و کیک اسفنجی."
+          "description": "طعم برتر تمشک و کیک اسفنجی.",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3250 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0502-tatli-ahu": {
       "name": "تمشک شیرین",
+      "description": "یک کیک بی‌نقص که لطافت شکلات سفید را با غنای خامه‌ای درهم می‌آمیزد.",
+      "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "293,1 kcal / 1226,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "19,5",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "18,5",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 293,1 kcal / 1226,3 kJ; چربی 19,5 g; چربی اشباع‌شده 13,8 g; کربوهیدرات 26 g; قند 18,5 g; فیبر 1,3 g; پروتئین 3,4 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "یک کیک بی‌نقص که لطافت شکلات سفید را با غنای خامه‌ای درهم می‌آمیزد."
+          "description": "یک کیک بی‌نقص که لطافت شکلات سفید را با غنای خامه‌ای درهم می‌آمیزد.",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "330 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "یک کیک بی‌نقص که لطافت شکلات سفید را با غنای خامه‌ای درهم می‌آمیزد."
+          "description": "یک کیک بی‌نقص که لطافت شکلات سفید را با غنای خامه‌ای درهم می‌آمیزد.",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3300 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0601-cikolatali-meyve-bahcesi": {
       "name": "باغ میوه شکلاتی",
+      "description": "جشنواره‌ای بصری از میوه‌های رنگارنگ.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "231,3 kcal / 967,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "8,5",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "2,7",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 231,3 kcal / 967,6 kJ; چربی 13 g; چربی اشباع‌شده 8,5 g; کربوهیدرات 25,9 g; قند 15,2 g; فیبر 1,7 g; پروتئین 2,7 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "جشنواره‌ای بصری از میوه‌های رنگارنگ."
+          "description": "جشنواره‌ای بصری از میوه‌های رنگارنگ.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "390 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "جشنواره‌ای بصری از میوه‌های رنگارنگ."
+          "description": "جشنواره‌ای بصری از میوه‌های رنگارنگ.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3900 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0602-meyve-bahcesi": {
       "name": "باغ میوه",
+      "description": "کشف طعم‌های استوایی با میوه‌های احاطه‌کننده کیک.",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "241,9 kcal / 1012,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "15,3",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "10,8",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "23,2",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 241,9 kcal / 1012,1 kJ; چربی 15,3 g; چربی اشباع‌شده 10,8 g; کربوهیدرات 23,2 g; قند 13,8 g; فیبر 1,2 g; پروتئین 2,8 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "کشف طعم‌های استوایی با میوه‌های احاطه‌کننده کیک."
+          "description": "کشف طعم‌های استوایی با میوه‌های احاطه‌کننده کیک.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "390 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "کشف طعم‌های استوایی با میوه‌های احاطه‌کننده کیک."
+          "description": "کشف طعم‌های استوایی با میوه‌های احاطه‌کننده کیک.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3900 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0701-beyaz-inci": {
       "name": "مروارید سفید",
+      "description": "غنای فندق با طراوت موز و تعادل ابریشمی کارامل پیوند می‌خورد.",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "292 kcal / 1221,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "8,7",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "15,1",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "4,3",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 292 kcal / 1221,7 kJ; چربی 18 g; چربی اشباع‌شده 8,7 g; کربوهیدرات 27,5 g; قند 15,1 g; فیبر 1,8 g; پروتئین 4,3 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "غنای فندق با طراوت موز و تعادل ابریشمی کارامل پیوند می‌خورد."
+          "description": "غنای فندق با طراوت موز و تعادل ابریشمی کارامل پیوند می‌خورد.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "395 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "غنای فندق با طراوت موز و تعادل ابریشمی کارامل پیوند می‌خورد."
+          "description": "غنای فندق با طراوت موز و تعادل ابریشمی کارامل پیوند می‌خورد.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3950 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0702-buyuk-ask": {
       "name": "عشق بزرگ",
+      "description": "کشفی شیرین، عجیب و آرامش‌بخش از موز و خامه.",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "278 kcal / 1163,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "16,1",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "9,3",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "29,2",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 278 kcal / 1163,1 kJ; چربی 16,1 g; چربی اشباع‌شده 9,3 g; کربوهیدرات 29,2 g; قند 19,2 g; فیبر 1,2 g; پروتئین 4,2 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "کشفی شیرین، عجیب و آرامش‌بخش از موز و خامه."
+          "description": "کشفی شیرین، عجیب و آرامش‌بخش از موز و خامه.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "350 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "کشفی شیرین، عجیب و آرامش‌بخش از موز و خامه."
+          "description": "کشفی شیرین، عجیب و آرامش‌بخش از موز و خامه.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3500 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0703-sonsuz-ask": {
       "name": "عشق ابدی",
+      "description": "ترکیبی فوق‌العاده از شکلات غنی و موز.",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "275,1 kcal / 1151 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "14,8",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "6,9",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "30,9",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 275,1 kcal / 1151 kJ; چربی 14,8 g; چربی اشباع‌شده 6,9 g; کربوهیدرات 30,9 g; قند 20,5 g; فیبر 1,7 g; پروتئین 4,6 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "ترکیبی فوق‌العاده از شکلات غنی و موز."
+          "description": "ترکیبی فوق‌العاده از شکلات غنی و موز.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "355 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "ترکیبی فوق‌العاده از شکلات غنی و موز."
+          "description": "ترکیبی فوق‌العاده از شکلات غنی و موز.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات, فندق.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3550 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0801-amazon-buyusu": {
       "name": "جادوی آمازون",
+      "description": "تجربه‌ای غنی و لذیذ که میوه‌های جنگلی را با شکلات پیوند می‌زند.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "290,1 kcal / 1213,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "6,2",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "39,5",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 290,1 kcal / 1213,9 kJ; چربی 12,8 g; چربی اشباع‌شده 6,2 g; کربوهیدرات 39,5 g; قند 26 g; فیبر 2,4 g; پروتئین 4,2 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "تجربه‌ای غنی و لذیذ که میوه‌های جنگلی را با شکلات پیوند می‌زند."
+          "description": "تجربه‌ای غنی و لذیذ که میوه‌های جنگلی را با شکلات پیوند می‌زند.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "380 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "تجربه‌ای غنی و لذیذ که میوه‌های جنگلی را با شکلات پیوند می‌زند."
+          "description": "تجربه‌ای غنی و لذیذ که میوه‌های جنگلی را با شکلات پیوند می‌زند.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3800 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0802-amazon-hikayesi": {
       "name": "داستان آمازون",
+      "description": "لحظه تلاقی شکلات سفید با میوه‌های جنگلی.",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+      "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>در هر ۱۰۰ گرم</strong>",
+        "values": [
+          {
+            "name": "انرژی",
+            "value": "269,6 kcal / 1128 kJ",
+            "unit": ""
+          },
+          {
+            "name": "چربی",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "چربی اشباع‌شده",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "کربوهیدرات",
+            "value": "23,6",
+            "unit": "g"
+          },
+          {
+            "name": "قند",
+            "value": "21,7",
+            "unit": "g"
+          },
+          {
+            "name": "فیبر",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "پروتئین",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "نمک",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "در هر ۱۰۰ گرم: انرژی 269,6 kcal / 1128 kJ; چربی 18 g; چربی اشباع‌شده 12,7 g; کربوهیدرات 23,6 g; قند 21,7 g; فیبر 1,1 g; پروتئین 3,2 g; نمک 0,1 g."
+      },
+      "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+      "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+      "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "برش",
-          "description": "لحظه تلاقی شکلات سفید با میوه‌های جنگلی."
+          "description": "لحظه تلاقی شکلات سفید با میوه‌های جنگلی.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "Single Portion",
+          "weight": "375 grams"
         },
         "baton": {
           "label": "باتون",
-          "description": "لحظه تلاقی شکلات سفید با میوه‌های جنگلی."
+          "description": "لحظه تلاقی شکلات سفید با میوه‌های جنگلی.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>هشدار آلرژن</strong>\nحاوی: گلوتن, تخم‌مرغ, لبنیات.\n<small>به دلیل تولید در خط مشترک، ممکن است حاوی مقادیر اندکی مغزها (فندق، پسته، گردو، بادام)، سویا و کنجد باشد.</small>",
+          "servingSuggestion": "برای بهره‌مندی کامل از طعم و بافت، پیشنهاد می‌شود ۱۰ تا ۱۵ دقیقه پیش از مصرف در دمای اتاق قرار گیرد.",
+          "storage": "در یخچال در دمای ۴+ تا ۶+ درجه سانتی‌گراد نگهداری کنید. از نور مستقیم خورشید محافظت کنید و مدت طولانی در دمای اتاق قرار ندهید.",
+          "longTermStorage": "<strong>نگهداری</strong>\nدر فریزر با دمای ۱۸− درجه سانتی‌گراد نگهداری کنید.\n\n<strong>آماده‌سازی</strong>\nپیش از مصرف، ۸ تا ۱۲ ساعت در یخچال با دمای ۴+ درجه سانتی‌گراد یخ‌زدایی کنید.\n\n<strong>هشدار</strong>\nمحصول یخ‌زدایی‌شده را دوباره منجمد نکنید. در یخچال نگهداری و ظرف ۳ روز مصرف کنید.",
+          "delivery": "",
+          "packaging": "",
+          "portion": "6 Servings",
+          "weight": "3750 grams"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     }
   }
 }

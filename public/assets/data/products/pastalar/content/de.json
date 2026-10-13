@@ -4,327 +4,1905 @@
   "products": {
     "500-0101-lotus-kulesi": {
       "name": "Lotus-Turm",
+      "description": "Einzigartiger Genuss in jedem Bissen mit süchtig machenden Lotus-Keksen.",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Soja.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "407,5 kcal / 1705 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "26,4",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "38,4",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "14,4",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 407,5 kcal / 1705 kJ; Fett 26,4 g; Gesättigte Fettsäuren 12,7 g; Kohlenhydrate 38,4 g; Zucker 14,4 g; Ballaststoffe 0,7 g; Eiweiß 4,1 g; Salz 0,3 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Einzigartiger Genuss in jedem Bissen mit süchtig machenden Lotus-Keksen.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Soja.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "390 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Einzigartiger Genuss in jedem Bissen mit süchtig machenden Lotus-Keksen.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Soja.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3900 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0201-diplomat": {
       "name": "Diplomat",
+      "description": "Der exquisite Crunch aus Schokoladenkuchen und knusprigem, karamellisiertem Krokant.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse, Pistazien, Mandeln.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "350,9 kcal / 1468,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "24,5",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "13,7",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "28",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "20,4",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 350,9 kcal / 1468,2 kJ; Fett 24,5 g; Gesättigte Fettsäuren 13,7 g; Kohlenhydrate 28 g; Zucker 20,4 g; Ballaststoffe 1,7 g; Eiweiß 4,7 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Der exquisite Crunch aus Schokoladenkuchen und knusprigem, karamellisiertem Krokant.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse, Pistazien, Mandeln.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "305 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Der exquisite Crunch aus Schokoladenkuchen und knusprigem, karamellisiertem Krokant.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse, Pistazien, Mandeln.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3050 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0202-kara-sevda": {
       "name": "Kara Sevda",
+      "description": "Ein samtiges Erlebnis bei jedem Bissen.",
+      "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Walnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "393,4 kcal / 1646 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "25,7",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "10,9",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "31,4",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "5,9",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 393,4 kcal / 1646 kJ; Fett 25,7 g; Gesättigte Fettsäuren 10,9 g; Kohlenhydrate 34,6 g; Zucker 31,4 g; Ballaststoffe 1 g; Eiweiß 5,9 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Ein samtiges Erlebnis bei jedem Bissen.",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Walnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "390 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Ein samtiges Erlebnis bei jedem Bissen.",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Walnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3900 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0203-siyah-inci": {
       "name": "Schwarze Perle",
+      "description": "Eine besondere Köstlichkeit, die Auge und Gaumen anspricht.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Pistazien.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "426,5 kcal / 1784,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "29,8",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "34,3",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "27,3",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 426,5 kcal / 1784,5 kJ; Fett 29,8 g; Gesättigte Fettsäuren 15,2 g; Kohlenhydrate 34,3 g; Zucker 27,3 g; Ballaststoffe 3,4 g; Eiweiß 5,3 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Eine besondere Köstlichkeit, die Auge und Gaumen anspricht.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Pistazien.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "325 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Eine besondere Köstlichkeit, die Auge und Gaumen anspricht.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Pistazien.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3250 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0301-cilek-ruyasi": {
       "name": "Erdbeertraum",
+      "description": "Der erfrischende Geschmack von Erdbeerstücken.",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "229,8 kcal / 961,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "11",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 229,8 kcal / 961,5 kJ; Fett 11 g; Gesättigte Fettsäuren 4,6 g; Kohlenhydrate 28,1 g; Zucker 19,2 g; Ballaststoffe 1,1 g; Eiweiß 4,6 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Der erfrischende Geschmack von Erdbeerstücken.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "350 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Der erfrischende Geschmack von Erdbeerstücken.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3500 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0302-ilk-ask": {
       "name": "Erste Liebe",
+      "description": "Eine elegante Köstlichkeit mit den besten Saisonerdbeeren.",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "350,3 kcal / 1465,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "21,3",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "12,6",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "26,2",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 350,3 kcal / 1465,7 kJ; Fett 21,3 g; Gesättigte Fettsäuren 12,6 g; Kohlenhydrate 34,6 g; Zucker 26,2 g; Ballaststoffe 1,1 g; Eiweiß 5,1 g; Salz 0,2 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Eine elegante Köstlichkeit mit den besten Saisonerdbeeren.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "350 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Eine elegante Köstlichkeit mit den besten Saisonerdbeeren.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3500 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0303-pembe-ruya": {
       "name": "Rosa Traum",
+      "description": "Ein unwiderstehliches, geschmackvolles Erlebnis, das zwei besondere Aromen vereint.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "269,3 kcal / 1126,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "24,3",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 269,3 kcal / 1126,8 kJ; Fett 17,7 g; Gesättigte Fettsäuren 12,1 g; Kohlenhydrate 24,3 g; Zucker 28,1 g; Ballaststoffe 1,7 g; Eiweiß 3,4 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Ein unwiderstehliches, geschmackvolles Erlebnis, das zwei besondere Aromen vereint.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "350 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Ein unwiderstehliches, geschmackvolles Erlebnis, das zwei besondere Aromen vereint.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3500 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0304-son-ask": {
       "name": "Letzte Liebe",
+      "description": "Eine Köstlichkeit, die Erdbeergeschmack mit der Fülle von Vollmilchschokolade verbindet.",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "268,4 kcal / 1122,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "15,5",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "7,4",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "21,2",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 268,4 kcal / 1122,8 kJ; Fett 15,5 g; Gesättigte Fettsäuren 7,4 g; Kohlenhydrate 27,5 g; Zucker 21,2 g; Ballaststoffe 1,8 g; Eiweiß 4,7 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Eine Köstlichkeit, die Erdbeergeschmack mit der Fülle von Vollmilchschokolade verbindet.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "350 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Eine Köstlichkeit, die Erdbeergeschmack mit der Fülle von Vollmilchschokolade verbindet.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3500 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0401-istanbul-hikayesi": {
       "name": "Istanbul-Geschichte",
+      "description": "Süße Pistazienschichten, inspiriert von ikonischem Baklava.",
+      "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Pistazien.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": []
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Süße Pistazienschichten, inspiriert von ikonischem Baklava.",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Pistazien.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "350 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Süße Pistazienschichten, inspiriert von ikonischem Baklava.",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Pistazien.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3500 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-05-01-cikolat-ahu": {
       "name": "Schoko-Himbeere",
+      "description": "Der erlesene Geschmack von Himbeeren und Biskuit.",
+      "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "296,5 kcal / 1240,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "19,3",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "26,8",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "19,7",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,9",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "3,8",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 296,5 kcal / 1240,6 kJ; Fett 19,3 g; Gesättigte Fettsäuren 13 g; Kohlenhydrate 26,8 g; Zucker 19,7 g; Ballaststoffe 1,9 g; Eiweiß 3,8 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Der erlesene Geschmack von Himbeeren und Biskuit.",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "325 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Der erlesene Geschmack von Himbeeren und Biskuit.",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3250 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0502-tatli-ahu": {
       "name": "Süße Himbeere",
+      "description": "Ein perfekter Kuchendelang, der weiße Schokolade mit cremiger Süße verbindet.",
+      "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "293,1 kcal / 1226,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "19,5",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "18,5",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 293,1 kcal / 1226,3 kJ; Fett 19,5 g; Gesättigte Fettsäuren 13,8 g; Kohlenhydrate 26 g; Zucker 18,5 g; Ballaststoffe 1,3 g; Eiweiß 3,4 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Ein perfekter Kuchendelang, der weiße Schokolade mit cremiger Süße verbindet.",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "330 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Ein perfekter Kuchendelang, der weiße Schokolade mit cremiger Süße verbindet.",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3300 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0601-cikolatali-meyve-bahcesi": {
       "name": "Schokoladiger Obstgarten",
+      "description": "Ein optisches Fest aus bunten Früchten.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "231,3 kcal / 967,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "8,5",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "2,7",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 231,3 kcal / 967,6 kJ; Fett 13 g; Gesättigte Fettsäuren 8,5 g; Kohlenhydrate 25,9 g; Zucker 15,2 g; Ballaststoffe 1,7 g; Eiweiß 2,7 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Ein optisches Fest aus bunten Früchten.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "390 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Ein optisches Fest aus bunten Früchten.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3900 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0602-meyve-bahcesi": {
       "name": "Obstgarten",
+      "description": "Die Entdeckung tropischer Aromen mit um den Kuchen drapierten Früchten.",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "241,9 kcal / 1012,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "15,3",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "10,8",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "23,2",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 241,9 kcal / 1012,1 kJ; Fett 15,3 g; Gesättigte Fettsäuren 10,8 g; Kohlenhydrate 23,2 g; Zucker 13,8 g; Ballaststoffe 1,2 g; Eiweiß 2,8 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Die Entdeckung tropischer Aromen mit um den Kuchen drapierten Früchten.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "390 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Die Entdeckung tropischer Aromen mit um den Kuchen drapierten Früchten.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3900 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0701-beyaz-inci": {
       "name": "Weiße Perle",
+      "description": "Die Fülle von Haselnüssen vereint sich mit Bananenfrische und seidiger Karamellbalance.",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "292 kcal / 1221,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "8,7",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "15,1",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "4,3",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 292 kcal / 1221,7 kJ; Fett 18 g; Gesättigte Fettsäuren 8,7 g; Kohlenhydrate 27,5 g; Zucker 15,1 g; Ballaststoffe 1,8 g; Eiweiß 4,3 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Die Fülle von Haselnüssen vereint sich mit Bananenfrische und seidiger Karamellbalance.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "395 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Die Fülle von Haselnüssen vereint sich mit Bananenfrische und seidiger Karamellbalance.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3950 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0702-buyuk-ask": {
       "name": "Große Liebe",
+      "description": "Eine exklusive und wohltuende süße Entdeckung aus Banane und Creme.",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "278 kcal / 1163,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "16,1",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "9,3",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "29,2",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 278 kcal / 1163,1 kJ; Fett 16,1 g; Gesättigte Fettsäuren 9,3 g; Kohlenhydrate 29,2 g; Zucker 19,2 g; Ballaststoffe 1,2 g; Eiweiß 4,2 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Eine exklusive und wohltuende süße Entdeckung aus Banane und Creme.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "350 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Eine exklusive und wohltuende süße Entdeckung aus Banane und Creme.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3500 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0703-sonsuz-ask": {
       "name": "Endlose Liebe",
+      "description": "Eine exquisite Kombination aus reicher Schokolade und Bananen.",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "275,1 kcal / 1151 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "14,8",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "6,9",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "30,9",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 275,1 kcal / 1151 kJ; Fett 14,8 g; Gesättigte Fettsäuren 6,9 g; Kohlenhydrate 30,9 g; Zucker 20,5 g; Ballaststoffe 1,7 g; Eiweiß 4,6 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Eine exquisite Kombination aus reicher Schokolade und Bananen.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "355 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Eine exquisite Kombination aus reicher Schokolade und Bananen.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte, Haselnüsse.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3550 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0801-amazon-buyusu": {
       "name": "Amazonas-Zauber",
+      "description": "Ein reiches und köstliches Erlebnis, das Waldfrüchte mit Schokolade verbindet.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "290,1 kcal / 1213,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "6,2",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "39,5",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 290,1 kcal / 1213,9 kJ; Fett 12,8 g; Gesättigte Fettsäuren 6,2 g; Kohlenhydrate 39,5 g; Zucker 26 g; Ballaststoffe 2,4 g; Eiweiß 4,2 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Ein reiches und köstliches Erlebnis, das Waldfrüchte mit Schokolade verbindet.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "380 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Ein reiches und köstliches Erlebnis, das Waldfrüchte mit Schokolade verbindet.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3800 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0802-amazon-hikayesi": {
       "name": "Amazonas-Geschichte",
+      "description": "Der Moment, in dem weiße Schokolade auf Waldfrüchte trifft.",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+      "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Pro 100 g</strong>",
+        "values": [
+          {
+            "name": "Energie",
+            "value": "269,6 kcal / 1128 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fett",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "Gesättigte Fettsäuren",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "Kohlenhydrate",
+            "value": "23,6",
+            "unit": "g"
+          },
+          {
+            "name": "Zucker",
+            "value": "21,7",
+            "unit": "g"
+          },
+          {
+            "name": "Ballaststoffe",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Eiweiß",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "Salz",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pro 100 g: Energie 269,6 kcal / 1128 kJ; Fett 18 g; Gesättigte Fettsäuren 12,7 g; Kohlenhydrate 23,6 g; Zucker 21,7 g; Ballaststoffe 1,1 g; Eiweiß 3,2 g; Salz 0,1 g."
+      },
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Stück",
           "description": "Der Moment, in dem weiße Schokolade auf Waldfrüchte trifft.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Einzelportion",
           "weight": "375 Gramm"
         },
         "baton": {
           "label": "Baton",
           "description": "Der Moment, in dem weiße Schokolade auf Waldfrüchte trifft.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>Allergenhinweis</strong>\nEnthält: Gluten, Ei, Milchprodukte.\n<small>Kann aufgrund der Verarbeitung auf derselben Produktionslinie Spuren von Schalenfrüchten (Haselnüssen, Pistazien, Walnüssen, Mandeln), Soja und Sesam enthalten.</small>",
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Konsistenz vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank bei +4 °C bis +6 °C lagern. Vor direkter Sonneneinstrahlung schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "<strong>Lagerung</strong>\nBei −18 °C im Tiefkühlschrank aufbewahren.\n\n<strong>Zubereitung</strong>\nVor dem Verzehr 8–12 Stunden bei +4 °C im Kühlschrank auftauen.\n\n<strong>Warnhinweis</strong>\nAufgetaute Produkte nicht erneut einfrieren. Im Kühlschrank lagern und innerhalb von 3 Tagen verbrauchen.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Portionen",
           "weight": "3750 Gramm"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     }
   }
 }

@@ -4,327 +4,1905 @@
   "products": {
     "500-0101-lotus-kulesi": {
       "name": "Torre Lotus",
+      "description": "Um sabor único a cada dentada com os viciantes biscoitos Lotus.",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, soja.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "407,5 kcal / 1705 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "26,4",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "38,4",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "14,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,7",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,3",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 407,5 kcal / 1705 kJ; Gorduras 26,4 g; Gorduras saturadas 12,7 g; Hidratos de carbono 38,4 g; Açúcares 14,4 g; Fibra 0,7 g; Proteínas 4,1 g; Sal 0,3 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "Um sabor único a cada dentada com os viciantes biscoitos Lotus.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, soja.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
-      "weight": "390 gramas"
+          "weight": "390 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "Um sabor único a cada dentada com os viciantes biscoitos Lotus.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, soja.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3900 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0201-diplomat": {
       "name": "Diplomata",
+      "description": "O crocante requintado do bolo de chocolate e do crocante caramelizado.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs, pistácios, amêndoas.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "350,9 kcal / 1468,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "24,5",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "13,7",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "28",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "20,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 350,9 kcal / 1468,2 kJ; Gorduras 24,5 g; Gorduras saturadas 13,7 g; Hidratos de carbono 28 g; Açúcares 20,4 g; Fibra 1,7 g; Proteínas 4,7 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "O crocante requintado do bolo de chocolate e do crocante caramelizado.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs, pistácios, amêndoas.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "305 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "O crocante requintado do bolo de chocolate e do crocante caramelizado.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut croquant (pistachio, almond, hazelnut), milk chocolate pieces.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs, pistácios, amêndoas.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3050 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0202-kara-sevda": {
       "name": "Kara Sevda",
+      "description": "Uma experiência aveludada em cada dentada.",
+      "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, nozes.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "393,4 kcal / 1646 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "25,7",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "10,9",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "31,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "5,9",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 393,4 kcal / 1646 kJ; Gorduras 25,7 g; Gorduras saturadas 10,9 g; Hidratos de carbono 34,6 g; Açúcares 31,4 g; Fibra 1 g; Proteínas 5,9 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "Uma experiência aveludada em cada dentada.",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, nozes.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "390 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "Uma experiência aveludada em cada dentada.",
+          "ingredients": "Brownie cake (with walnuts, dark chocolate), coffee syrup, truffle chocolate cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, nozes.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3900 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0203-siyah-inci": {
       "name": "Pérola Negra",
+      "description": "Uma iguaria especial que encanta a vista e o paladar.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, pistácios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "426,5 kcal / 1784,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "29,8",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "34,3",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "27,3",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "5,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 426,5 kcal / 1784,5 kJ; Gorduras 29,8 g; Gorduras saturadas 15,2 g; Hidratos de carbono 34,3 g; Açúcares 27,3 g; Fibra 3,4 g; Proteínas 5,3 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "Uma iguaria especial que encanta a vista e o paladar.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, pistácios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "325 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "Uma iguaria especial que encanta a vista e o paladar.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, pistácios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3250 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0301-cilek-ruyasi": {
       "name": "Sonho de Morango",
+      "description": "O sabor refrescante dos pedaços de morango.",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "229,8 kcal / 961,5 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "11",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 229,8 kcal / 961,5 kJ; Gorduras 11 g; Gorduras saturadas 4,6 g; Hidratos de carbono 28,1 g; Açúcares 19,2 g; Fibra 1,1 g; Proteínas 4,6 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "O sabor refrescante dos pedaços de morango.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "350 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "O sabor refrescante dos pedaços de morango.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate pastry sauce.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3500 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0302-ilk-ask": {
       "name": "Primeiro Amor",
+      "description": "Uma criação elegante com os melhores morangos da estação.",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "350,3 kcal / 1465,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "21,3",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "12,6",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "34,6",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "26,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "5,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 350,3 kcal / 1465,7 kJ; Gorduras 21,3 g; Gorduras saturadas 12,6 g; Hidratos de carbono 34,6 g; Açúcares 26,2 g; Fibra 1,1 g; Proteínas 5,1 g; Sal 0,2 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "Uma criação elegante com os melhores morangos da estação.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "350 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "Uma criação elegante com os melhores morangos da estação.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, pastry glaze.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3500 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0303-pembe-ruya": {
       "name": "Sonho Cor-de-Rosa",
+      "description": "Uma experiência irresistível e rica em sabor que une dois gostos especiais.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "269,3 kcal / 1126,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "17,7",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "12,1",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "24,3",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "28,1",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 269,3 kcal / 1126,8 kJ; Gorduras 17,7 g; Gorduras saturadas 12,1 g; Hidratos de carbono 24,3 g; Açúcares 28,1 g; Fibra 1,7 g; Proteínas 3,4 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "Uma experiência irresistível e rica em sabor que une dois gostos especiais.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "350 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "Uma experiência irresistível e rica em sabor que une dois gostos especiais.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3500 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0304-son-ask": {
       "name": "Último Amor",
+      "description": "Uma delícia que combina o sabor do morango com a riqueza do chocolate de leite.",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "268,4 kcal / 1122,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "15,5",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "7,4",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "21,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 268,4 kcal / 1122,8 kJ; Gorduras 15,5 g; Gorduras saturadas 7,4 g; Hidratos de carbono 27,5 g; Açúcares 21,2 g; Fibra 1,8 g; Proteínas 4,7 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "Uma delícia que combina o sabor do morango com a riqueza do chocolate de leite.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "350 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "Uma delícia que combina o sabor do morango com a riqueza do chocolate de leite.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3500 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0401-istanbul-hikayesi": {
       "name": "História de Istambul",
+      "description": "Camadas doces de pistachio inspiradas no icónico baklava.",
+      "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, pistácios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": []
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "Camadas doces de pistachio inspiradas no icónico baklava.",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, pistácios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "350 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "Camadas doces de pistachio inspiradas no icónico baklava.",
+          "ingredients": "Sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, pistácios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3500 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-05-01-cikolat-ahu": {
       "name": "Choco-Framboesa",
+      "description": "O sabor superior das framboesas e do pão de ló.",
+      "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "296,5 kcal / 1240,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "19,3",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "26,8",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "19,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,9",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,8",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 296,5 kcal / 1240,6 kJ; Gorduras 19,3 g; Gorduras saturadas 13 g; Hidratos de carbono 26,8 g; Açúcares 19,7 g; Fibra 1,9 g; Proteínas 3,8 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "O sabor superior das framboesas e do pão de ló.",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "325 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "O sabor superior das framboesas e do pão de ló.",
+          "ingredients": "Cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3250 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0502-tatli-ahu": {
       "name": "Doce Framboesa",
+      "description": "Um pastel perfeito que combina a cremosidade rica do chocolate branco.",
+      "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "293,1 kcal / 1226,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "19,5",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "18,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,3",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 293,1 kcal / 1226,3 kJ; Gorduras 19,5 g; Gorduras saturadas 13,8 g; Hidratos de carbono 26 g; Açúcares 18,5 g; Fibra 1,3 g; Proteínas 3,4 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "Um pastel perfeito que combina a cremosidade rica do chocolate branco.",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "330 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "Um pastel perfeito que combina a cremosidade rica do chocolate branco.",
+          "ingredients": "Sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3300 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0601-cikolatali-meyve-bahcesi": {
       "name": "Jardim de Frutas com Chocolate",
+      "description": "Um banquete visual de frutos coloridos.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "231,3 kcal / 967,6 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "13",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "8,5",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "25,9",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "15,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "2,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 231,3 kcal / 967,6 kJ; Gorduras 13 g; Gorduras saturadas 8,5 g; Hidratos de carbono 25,9 g; Açúcares 15,2 g; Fibra 1,7 g; Proteínas 2,7 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "Um banquete visual de frutos coloridos.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "390 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "Um banquete visual de frutos coloridos.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3900 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0602-meyve-bahcesi": {
       "name": "Jardim de Frutas",
+      "description": "A descoberta do sabor tropical com frutos a envolver o bolo.",
+      "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "241,9 kcal / 1012,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "15,3",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "10,8",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "23,2",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "2,8",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 241,9 kcal / 1012,1 kJ; Gorduras 15,3 g; Gorduras saturadas 10,8 g; Hidratos de carbono 23,2 g; Açúcares 13,8 g; Fibra 1,2 g; Proteínas 2,8 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "A descoberta do sabor tropical com frutos a envolver o bolo.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "390 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "A descoberta do sabor tropical com frutos a envolver o bolo.",
+          "ingredients": "Sponge cake, orange syrup, pastry cream, mixed fruits (peach, kiwi, pineapple, strawberry, black grape, arbutus, pomegranate, orange, fig, melon), pastry glaze.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3900 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0701-beyaz-inci": {
       "name": "Pérola Branca",
+      "description": "A riqueza da avelã une-se à frescura da banana e ao equilíbrio sedoso do caramelo.",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "292 kcal / 1221,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "8,7",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "27,5",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "15,1",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,8",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,3",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 292 kcal / 1221,7 kJ; Gorduras 18 g; Gorduras saturadas 8,7 g; Hidratos de carbono 27,5 g; Açúcares 15,1 g; Fibra 1,8 g; Proteínas 4,3 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "A riqueza da avelã une-se à frescura da banana e ao equilíbrio sedoso do caramelo.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "395 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "A riqueza da avelã une-se à frescura da banana e ao equilíbrio sedoso do caramelo.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3950 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0702-buyuk-ask": {
       "name": "Grande Amor",
+      "description": "Uma doce, exótica e reconfortante descoberta de banana e creme.",
+      "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "278 kcal / 1163,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "16,1",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "9,3",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "29,2",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 278 kcal / 1163,1 kJ; Gorduras 16,1 g; Gorduras saturadas 9,3 g; Hidratos de carbono 29,2 g; Açúcares 19,2 g; Fibra 1,2 g; Proteínas 4,2 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "Uma doce, exótica e reconfortante descoberta de banana e creme.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "350 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "Uma doce, exótica e reconfortante descoberta de banana e creme.",
+          "ingredients": "Sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel glaze.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3500 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0703-sonsuz-ask": {
       "name": "Amor Eterno",
+      "description": "Uma combinação requintada de chocolate rico e bananas.",
+      "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "275,1 kcal / 1151 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "14,8",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "6,9",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "30,9",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "20,5",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,7",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,6",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 275,1 kcal / 1151 kJ; Gorduras 14,8 g; Gorduras saturadas 6,9 g; Hidratos de carbono 30,9 g; Açúcares 20,5 g; Fibra 1,7 g; Proteínas 4,6 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "Uma combinação requintada de chocolate rico e bananas.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "355 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "Uma combinação requintada de chocolate rico e bananas.",
+          "ingredients": "Cocoa sponge cake, cocoa hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios, avelãs.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3550 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0801-amazon-buyusu": {
       "name": "Magia da Amazónia",
+      "description": "Uma experiência rica e deliciosa que une frutos do bosque e chocolate.",
+      "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "290,1 kcal / 1213,9 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "12,8",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "6,2",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "39,5",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "26",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "2,4",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 290,1 kcal / 1213,9 kJ; Gorduras 12,8 g; Gorduras saturadas 6,2 g; Hidratos de carbono 39,5 g; Açúcares 26 g; Fibra 2,4 g; Proteínas 4,2 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "Uma experiência rica e deliciosa que une frutos do bosque e chocolate.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "380 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "Uma experiência rica e deliciosa que une frutos do bosque e chocolate.",
+          "ingredients": "Cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberry, blackberry, arbutus, black grape, raspberry, strawberry), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3800 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     },
     "500-0802-amazon-hikayesi": {
       "name": "História da Amazónia",
+      "description": "O momento em que o chocolate branco se encontra com os frutos do bosque.",
+      "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+      "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+      "allergens": null,
+      "nutrition": {
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "269,6 kcal / 1128 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "18",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "12,7",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "23,6",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "21,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,1",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,2",
+            "unit": "g"
+          },
+          {
+            "name": "Sal",
+            "value": "0,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 269,6 kcal / 1128 kJ; Gorduras 18 g; Gorduras saturadas 12,7 g; Hidratos de carbono 23,6 g; Açúcares 21,7 g; Fibra 1,1 g; Proteínas 3,2 g; Sal 0,1 g."
+      },
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+      "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+      "delivery": "",
+      "packaging": "",
+      "portion": "",
+      "weight": null,
       "variants": {
         "dilim": {
           "label": "Fatia",
           "description": "O momento em que o chocolate branco se encontra com os frutos do bosque.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "Porção Individual",
           "weight": "375 gramas"
         },
         "baton": {
           "label": "Baton",
           "description": "O momento em que o chocolate branco se encontra com os frutos do bosque.",
+          "ingredients": "Sponge cake, orange syrup, white chocolate cream, forest fruits (blueberry, arbutus, black grape, blackberry, raspberry, strawberry), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "<strong>Aviso de alergénios</strong>\nContém: glúten, ovos, laticínios.\n<small>Pode conter vestígios de frutos de casca rija (avelãs, pistácios, nozes, amêndoas), soja e sésamo devido ao processamento na mesma linha de produção.</small>",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de consumir.",
+          "storage": "Conservar no frigorífico entre +4 °C e +6 °C. Proteger da luz solar direta e evitar longos períodos à temperatura ambiente.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a −18 °C.\n\n<strong>Preparação</strong>\nDescongelar no frigorífico a +4 °C durante 8–12 horas antes de consumir.\n\n<strong>Aviso</strong>\nNão voltar a congelar após descongelar. Conservar no frigorífico e consumir no prazo de 3 dias.",
+          "delivery": "",
+          "packaging": "",
           "portion": "6 Porções",
           "weight": "3750 gramas"
         }
       },
-      "editorial": {}
+      "editorial": {
+        "story": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        },
+        "boxReuse": {
+          "title": "",
+          "imageAlt": "",
+          "paragraphs": [
+            "",
+            "",
+            ""
+          ]
+        }
+      }
     }
   }
 }
