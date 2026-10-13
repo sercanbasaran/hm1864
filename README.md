@@ -186,3 +186,9 @@ Güncel kaynak tablodaki 21 muhallebi ürünü dört alt kategoride, birer `pors
 Kategori `products.json` dosyasındaki `editorial` listesinde her bölüm `enabled: true/false` ile yönetilir. `false` bölümü her zaman gizler. `true` olan bölüm, seçilen dilde (ve kaynak dildeki geri dönüşte) gerçek bir başlık, paragraf veya görsel varsa gösterilir. Boş alanlar, varsayılan bölüm başlıkları, Lorem ipsum/dummy metinleri ve görsel bekleniyor dosyası içerik kabul edilmez. Boş iki bölüm varsa dış kapsayıcı da oluşturulmaz. Eksik metin ve görsel için dummy alan gösterilmez.
 
 Görünürlük kuralları `src/utils/editorial.js`, bölüm şablonu `src/components/products/EditorialSections.jsx` dosyasındadır. Başlık ve paragraflar ilgili kategorinin `content/<dil>.json` dosyasında, görsel ve `enabled` alanı `products.json` dosyasında düzenlenir.
+
+## Ürüne ve dile özel bölüm verileri
+
+Her ürünün content/<dil>.json kaydındaki editorial.story ve editorial.boxReuse bölümleri bağımsızdır. İkisinde de title, image, imageAlt, paragraphs alanları kullanılabilir. Örneğin aynı ürünün Türkçe ve İngilizce dosyalarında ayrı başlık, görsel, açıklama ve paragraflar yazabilirsiniz. Bölümlerin enabled ayarı kategori products.json dosyasındaki ilgili ürünün editorial listesinde kalır.
+
+Dil dosyasındaki dolu image alanı ortak ürün görselini geçersiz kılar; boş bırakılırsa Türkçe/ortak görsel kullanılır. Metinlerde de boş çeviriler kaynak içeriklere döner. Bu bölümlerin verileri başka bir ürünle paylaşılmaz.

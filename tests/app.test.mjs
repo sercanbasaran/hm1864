@@ -413,3 +413,31 @@ test('editorial visibility respects flags and ignores empty and dummy content',(
  }
  for(const product of data.products)for(const section of product.editorial)assert.equal(hasEditorialContent(section),false);
 });
+
+test('editorial titles, images and paragraphs are independent per product and language',async()=>{
+ const key='500-0101-lotus-kulesi';
+ const authored=await loadAuthoringData(async file=>{
+  const value=JSON.parse(await fs.readFile('public/assets/data/'+file,'utf8'));
+  if(file==='products/pastalar/products.json'){
+   const p=value.products.find(p=>p.key===key);p.editorial[0].image='/assets/images/medya/default-story.jpg';
+  }
+  if(file==='products/pastalar/content/tr.json'){
+   value.products[key].editorial.story={title:'Lotus hikâyesi',image:'',imageAlt:'Türkçe açıklama',paragraphs:['Türkçe paragraf.']};
+  }
+  if(file==='products/pastalar/content/en.json'){
+   value.products[key].editorial.story={title:'The Lotus story',image:'/assets/images/medya/lotus-story-en.jpg',imageAlt:'English description',paragraphs:['English paragraph.']};
+  }
+  return value;
+ });
+ const product=authored.catalog.products.find(p=>p.key===key);
+ const tr=localizedEditorial(product.editorial,'tr')[0];
+ const en=localizedEditorial(product.editorial,'en')[0];
+ assert.equal(tr.title,'Lotus hikâyesi');
+ assert.equal(tr.image,'/assets/images/medya/default-story.jpg');
+ assert.equal(en.title,'The Lotus story');
+ assert.equal(en.image,'/assets/images/medya/lotus-story-en.jpg');
+ assert.equal(en.imageAlt,'English description');
+ assert.deepEqual(en.paragraphs,['English paragraph.']);
+ assert.ok(authored.catalog.products.filter(p=>p.key!==key).every(p=>p.editorial.every(section=>!hasEditorialContent(section))));
+ assert.equal(hasEditorialContent({...en,enabled:false}),false);
+});
