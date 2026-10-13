@@ -1,66 +1,77 @@
 import React, { useState } from "react";
 import { useApp } from "../../context/AppContext.jsx";
-import { useText } from "../../hooks/useText.js";
-import { descendants } from "../../utils/templates.js";
-import RichText from "../../RichText.jsx";
-import templates from "../../templates/index.js";
-import Template from "../templates/TemplateRenderer.jsx";
-import { match } from "../../model.js";
-
+import { local } from "../../utils/urls.js";
+import { localizeStore, storeMaps, storeText } from "../../stores.js";
+import StoreMap from "./StoreMap.jsx";
+const normalize = (value) =>
+  value
+    .toLocaleLowerCase("tr")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/ı/g, "i");
 export default function StoreLocator({ embedded = false }) {
-  const { preferences } = useApp(),
-    t = useText();
-  const Heading = embedded ? "h2" : "h1";
-  const allCards = descendants(templates.stores, (n) =>
-    (n.attrs.class || "").split(" ").includes("store-card"),
-  );
-  const countries = [...new Set(allCards.map((n) => n.attrs["data-country"]))];
+  const { data, preferences, regions } = useApp(),
+    language = preferences?.language || regions.defaultLanguage;
+  const text = (key, values) => storeText(data, language, key, values);
+  const stores = (data.stores || []).map((s) => localizeStore(s, language)),
+    countries = [...new Set(stores.map((s) => s.country))];
   const [country, setCountry] = useState(
     countries.includes(preferences?.country)
       ? preferences.country
       : countries[0],
   );
-  const [query, setQuery] = useState("");
-  const cards = allCards.filter(
-    (n) =>
-      n.attrs["data-country"] === country &&
-      match({ name: n.attrs["data-store-name"] }, query),
-  );
+  const [query, setQuery] = useState(""),
+    [selectedId, setSelectedId] = useState(null);
+  const cards = stores.filter(
+      (s) =>
+        s.country === country &&
+        normalize(`${s.name} ${s.address}`).includes(normalize(query.trim())),
+    ),
+    selected = cards.find((s) => s.id === selectedId) || cards[0];
+  const Heading = embedded ? "h2" : "h1";
   return (
     <section className="store-locator">
       <div className="map-panel">
-        <div className="map-placeholder">
-          <h2>
-            <RichText value={t("template.0167")} />
-          </h2>
-          <p>
-            <RichText value={t("template.0168")} />
-          </p>
-        </div>
+        {selected ? (
+          <>
+            <StoreMap store={selected} language={language} />
+            <div className="store-map-caption">
+              <h2>{selected.name}</h2>
+              <a
+                href={storeMaps(selected, language).directions}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {text("directions")}
+              </a>
+            </div>
+          </>
+        ) : (
+          <p className="map-placeholder">{text("empty")}</p>
+        )}
       </div>
       <div className="store-list">
-        <Heading>
-          <RichText value={t("template.0170")} />
-        </Heading>
+        <Heading>{text("title")}</Heading>
         <label>
-          <RichText value={t("ui.copy.009")} />
+          {text("country")}
           <select
             name="store-country"
             value={country}
             onChange={(e) => {
               setCountry(e.target.value);
               setQuery("");
+              setSelectedId(null);
             }}
           >
             {countries.map((code) => (
               <option key={code} value={code}>
-                {t("region.country." + code)}
+                {text("country" + code)}
               </option>
             ))}
           </select>
         </label>
         <label>
-          <RichText value={t("ui.copy.010")} />
+          {text("search")}
           <input
             name="store-query"
             type="search"
@@ -68,10 +79,36 @@ export default function StoreLocator({ embedded = false }) {
             onChange={(e) => setQuery(e.target.value)}
           />
         </label>
-        <p role="status">{t("ui.countStores", { count: cards.length })}</p>
+        <p role="status">{text("count", { count: cards.length })}</p>
         <div className="store-results">
-          {cards.map((c, i) => (
-            <Template node={c} key={i} />
+          {cards.map((s) => (
+            <article
+              className={
+                "store-card" + (selected?.id === s.id ? " selected" : "")
+              }
+              key={s.id}
+            >
+              <h2>{s.name}</h2>
+              <p>{s.address}</p>
+              {s.phone && (
+                <p>
+                  <a href={"tel:" + s.phone.replace(/\s/g, "")} dir="ltr">
+                    {s.phone}
+                  </a>
+                </p>
+              )}
+              <p>{s.hours}</p>
+              <div className="store-actions">
+                <button
+                  type="button"
+                  aria-pressed={selected?.id === s.id}
+                  onClick={() => setSelectedId(s.id)}
+                >
+                  {text("showMap")}
+                </button>
+                <a href={local(s.url)}>{text("details")}</a>
+              </div>
+            </article>
           ))}
         </div>
       </div>

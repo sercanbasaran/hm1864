@@ -1,6 +1,6 @@
 # Hafız Mustafa 1864 — React mağaza arayüzü
 
-React 19 / Vite 8 ile hazırlanmış mağaza ön yüzü. 164 ürün, eski bağlantılar dahil 402 doğrudan sayfa adresi ve bölge/ülke/dil/para birimi seçimi içerir. Ürünler ana kategori bazında düzenlenir; alt kategoriler ayrıca dosyalara bölünmez.
+React 19 / Vite 8 ile hazırlanmış mağaza ön yüzü. 164 ürün, eski bağlantılar dahil 417 doğrudan sayfa adresi ve bölge/ülke/dil/para birimi seçimi içerir. Ürünler ana kategori bazında düzenlenir; alt kategoriler ayrıca dosyalara bölünmez.
 
 ## Yerel çalıştırma
 
@@ -198,3 +198,24 @@ Dil dosyasındaki dolu image alanı ortak ürün görselini geçersiz kılar; bo
 Ürün detayındaki accordion'lar yalnızca gerçek içerik varsa gösterilir. Boş alanlar, Lorem ipsum/dummy metinleri ve tüm dillerdeki bilgi eklenecek mesajları gizlenir. İçerik ve alerjen başlığı altında yalnızca dolu alanlar görünür. Besin tablosunda sayısal sıfır geçerli veridir; null/boş/dummy satırlar gösterilmez. Başlıklar varyant ve dil seçimine göre yeniden değerlendirilir.
 
 Şablon: src/components/products/ProductAccordions.jsx. İçerik kontrolü: src/utils/product-content.js.
+
+## Mağaza bilgilerinin yönetimi
+
+Mağaza bulucu, ürün sayfasındaki yakın mağaza penceresi ve mağaza detay sayfaları `public/assets/data/stores.json` dosyasından beslenir. Kaynak: https://online.hafizmustafa.com/subeler (13 Ekim 2026). 20 mağaza bulunur; kaynakta bulunmayan Mall of the Emirates telefonu boş bırakılmıştır.
+
+Yeni mağaza için `stores` dizisindeki bir kaydı kopyalayın:
+
+- `id`: benzersiz adres kodu; örneğin `yeni-magaza`.
+- `url`: `magazalar/yeni-magaza/index.html`. Build bu adresin HTML giriş dosyasını otomatik üretir. Yönlendirme dosyasına kayıt eklemeniz gerekmez.
+- `country`, `city`, `phone`: ülke kodu, şehir ve telefon. Telefon yoksa boş bırakılabilir.
+- `online`: mağazayı listede ve detay sayfasında göstermek için `true`; gizlemek için `false`. Ürün satış ayarı değildir.
+- `image`: isteğe bağlı görselin `/assets/images/medya/...` yolu; boşsa fotoğraf gösterilmez.
+- `mapQuery`: Google Maps konum aramasında kullanılacak mağaza adı ve tam adres. Koordinat veya API anahtarı gerekmez.
+- `googleMapsUrl`: doğrulanmış Google Maps bağlantınız varsa girin; boşsa `mapQuery` ile yol tarifi bağlantısı oluşturulur.
+- `products`, `features`: dosyanın `texts` alanındaki ürün ve hizmet anahtarları.
+- `deliveryPlatforms`: mağazanın hizmet aldığı platform adları.
+- `translations`: 14 dil için `name`, `address`, `hours`. Posta adresleri ve özel mağaza adları kaynak biçiminde korunur; saat açıklamaları çevrilmiştir.
+
+Ortak mağaza başlıkları, ülke adları, ürün/hizmet metinleri ve butonlar aynı JSON’daki `texts` alanında, dil kodlarıyla tutulur. Yeni bir hizmet anahtarı eklediğinizde 14 dilde karşılığını da girin. Değişiklikten sonra `npm run build` ve `npm test` çalıştırın. Canlı yayın için değişiklikleri GitHub’a gönderin.
+
+Haritalar Google Maps iframe’iyle yüklenir; Google’ın dış hizmetine erişim gerekir. Konumlar kaynak adresleriyle sorgulanır; doğrulanmamış koordinatlar eklenmemiştir.

@@ -1,0 +1,2805 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-13",
+  "sourceUrl": "https://online.hafizmustafa.com/subeler",
+  "texts": {
+    "title": {
+      "tr": "Mağazalarımız",
+      "en": "Our stores",
+      "ar": "متاجرنا",
+      "de": "Unsere Filialen",
+      "fr": "Nos boutiques",
+      "it": "I nostri negozi",
+      "es": "Nuestras tiendas",
+      "ru": "Наши магазины",
+      "zh-CN": "我们的门店",
+      "ja": "店舗一覧",
+      "hi": "हमारे स्टोर",
+      "ur": "ہمارے اسٹورز",
+      "fa": "فروشگاه‌های ما",
+      "pt": "Nossas lojas"
+    },
+    "country": {
+      "tr": "Ülke",
+      "en": "Country",
+      "ar": "البلد",
+      "de": "Land",
+      "fr": "Pays",
+      "it": "Paese",
+      "es": "País",
+      "ru": "Страна",
+      "zh-CN": "国家",
+      "ja": "国",
+      "hi": "देश",
+      "ur": "ملک",
+      "fa": "کشور",
+      "pt": "País"
+    },
+    "search": {
+      "tr": "Mağaza adı veya adres",
+      "en": "Store name or address",
+      "ar": "اسم المتجر أو العنوان",
+      "de": "Filialname oder Adresse",
+      "fr": "Nom ou adresse de la boutique",
+      "it": "Nome o indirizzo del negozio",
+      "es": "Nombre o dirección de la tienda",
+      "ru": "Название или адрес магазина",
+      "zh-CN": "门店名称或地址",
+      "ja": "店舗名または住所",
+      "hi": "स्टोर का नाम या पता",
+      "ur": "اسٹور کا نام یا پتہ",
+      "fa": "نام یا نشانی فروشگاه",
+      "pt": "Nome ou endereço da loja"
+    },
+    "details": {
+      "tr": "Mağaza detayları",
+      "en": "Store details",
+      "ar": "تفاصيل المتجر",
+      "de": "Filialdetails",
+      "fr": "Détails de la boutique",
+      "it": "Dettagli del negozio",
+      "es": "Detalles de la tienda",
+      "ru": "Подробнее о магазине",
+      "zh-CN": "门店详情",
+      "ja": "店舗詳細",
+      "hi": "स्टोर विवरण",
+      "ur": "اسٹور کی تفصیلات",
+      "fa": "جزئیات فروشگاه",
+      "pt": "Detalhes da loja"
+    },
+    "showMap": {
+      "tr": "Haritada göster",
+      "en": "Show on map",
+      "ar": "عرض على الخريطة",
+      "de": "Auf Karte anzeigen",
+      "fr": "Voir sur la carte",
+      "it": "Mostra sulla mappa",
+      "es": "Ver en el mapa",
+      "ru": "Показать на карте",
+      "zh-CN": "在地图上显示",
+      "ja": "地図で表示",
+      "hi": "मानचित्र पर दिखाएँ",
+      "ur": "نقشے پر دکھائیں",
+      "fa": "نمایش روی نقشه",
+      "pt": "Mostrar no mapa"
+    },
+    "directions": {
+      "tr": "Yol tarifi al",
+      "en": "Get directions",
+      "ar": "الحصول على الاتجاهات",
+      "de": "Route planen",
+      "fr": "Itinéraire",
+      "it": "Indicazioni stradali",
+      "es": "Cómo llegar",
+      "ru": "Проложить маршрут",
+      "zh-CN": "获取路线",
+      "ja": "経路案内",
+      "hi": "रास्ता देखें",
+      "ur": "راستہ دیکھیں",
+      "fa": "مسیریابی",
+      "pt": "Como chegar"
+    },
+    "address": {
+      "tr": "Adres",
+      "en": "Address",
+      "ar": "العنوان",
+      "de": "Adresse",
+      "fr": "Adresse",
+      "it": "Indirizzo",
+      "es": "Dirección",
+      "ru": "Адрес",
+      "zh-CN": "地址",
+      "ja": "住所",
+      "hi": "पता",
+      "ur": "پتہ",
+      "fa": "نشانی",
+      "pt": "Endereço"
+    },
+    "phone": {
+      "tr": "Telefon",
+      "en": "Phone",
+      "ar": "الهاتف",
+      "de": "Telefon",
+      "fr": "Téléphone",
+      "it": "Telefono",
+      "es": "Teléfono",
+      "ru": "Телефон",
+      "zh-CN": "电话",
+      "ja": "電話",
+      "hi": "फ़ोन",
+      "ur": "فون",
+      "fa": "تلفن",
+      "pt": "Telefone"
+    },
+    "hours": {
+      "tr": "Çalışma saatleri",
+      "en": "Opening hours",
+      "ar": "ساعات العمل",
+      "de": "Öffnungszeiten",
+      "fr": "Horaires",
+      "it": "Orari di apertura",
+      "es": "Horario",
+      "ru": "Часы работы",
+      "zh-CN": "营业时间",
+      "ja": "営業時間",
+      "hi": "खुलने का समय",
+      "ur": "اوقاتِ کار",
+      "fa": "ساعات کار",
+      "pt": "Horário de funcionamento"
+    },
+    "products": {
+      "tr": "Ürünler",
+      "en": "Products",
+      "ar": "المنتجات",
+      "de": "Produkte",
+      "fr": "Produits",
+      "it": "Prodotti",
+      "es": "Productos",
+      "ru": "Продукты",
+      "zh-CN": "产品",
+      "ja": "商品",
+      "hi": "उत्पाद",
+      "ur": "مصنوعات",
+      "fa": "محصولات",
+      "pt": "Produtos"
+    },
+    "features": {
+      "tr": "Hizmetler",
+      "en": "Facilities",
+      "ar": "الخدمات",
+      "de": "Ausstattung",
+      "fr": "Services",
+      "it": "Servizi",
+      "es": "Servicios",
+      "ru": "Услуги",
+      "zh-CN": "服务设施",
+      "ja": "設備・サービス",
+      "hi": "सुविधाएँ",
+      "ur": "سہولیات",
+      "fa": "امکانات",
+      "pt": "Serviços"
+    },
+    "empty": {
+      "tr": "Mağaza bulunamadı.",
+      "en": "No stores found.",
+      "ar": "لم يتم العثور على متاجر.",
+      "de": "Keine Filialen gefunden.",
+      "fr": "Aucune boutique trouvée.",
+      "it": "Nessun negozio trovato.",
+      "es": "No se encontraron tiendas.",
+      "ru": "Магазины не найдены.",
+      "zh-CN": "未找到门店。",
+      "ja": "店舗が見つかりません。",
+      "hi": "कोई स्टोर नहीं मिला।",
+      "ur": "کوئی اسٹور نہیں ملا۔",
+      "fa": "فروشگاهی یافت نشد.",
+      "pt": "Nenhuma loja encontrada."
+    },
+    "all": {
+      "tr": "Tüm mağazalar",
+      "en": "All stores",
+      "ar": "جميع المتاجر",
+      "de": "Alle Filialen",
+      "fr": "Toutes les boutiques",
+      "it": "Tutti i negozi",
+      "es": "Todas las tiendas",
+      "ru": "Все магазины",
+      "zh-CN": "所有门店",
+      "ja": "すべての店舗",
+      "hi": "सभी स्टोर",
+      "ur": "تمام اسٹورز",
+      "fa": "همه فروشگاه‌ها",
+      "pt": "Todas as lojas"
+    },
+    "alwaysOpen": {
+      "tr": "24 saat, haftanın 7 günü",
+      "en": "24 hours, 7 days a week",
+      "ar": "24 ساعة، طوال أيام الأسبوع",
+      "de": "24 Stunden, 7 Tage die Woche",
+      "fr": "24 h/24, 7 j/7",
+      "it": "24 ore, 7 giorni su 7",
+      "es": "24 horas, 7 días a la semana",
+      "ru": "Круглосуточно, 7 дней в неделю",
+      "zh-CN": "每周7天，24小时营业",
+      "ja": "年中無休・24時間営業",
+      "hi": "24 घंटे, सप्ताह के 7 दिन",
+      "ur": "24 گھنٹے، ہفتے کے 7 دن",
+      "fa": "۲۴ ساعته، ۷ روز هفته",
+      "pt": "24 horas, 7 dias por semana"
+    },
+    "closedSunday": {
+      "tr": "Pazar günleri kapalı",
+      "en": "Closed on Sundays",
+      "ar": "مغلق أيام الأحد",
+      "de": "Sonntags geschlossen",
+      "fr": "Fermé le dimanche",
+      "it": "Chiuso la domenica",
+      "es": "Cerrado los domingos",
+      "ru": "Закрыто по воскресеньям",
+      "zh-CN": "星期日休息",
+      "ja": "日曜日休業",
+      "hi": "रविवार को बंद",
+      "ur": "اتوار کو بند",
+      "fa": "یکشنبه‌ها تعطیل",
+      "pt": "Fechado aos domingos"
+    },
+    "summer": {
+      "tr": "Yaz sezonunda hizmet verir",
+      "en": "Open during the summer season",
+      "ar": "يعمل خلال موسم الصيف",
+      "de": "In der Sommersaison geöffnet",
+      "fr": "Ouvert pendant la saison estivale",
+      "it": "Aperto nella stagione estiva",
+      "es": "Abierto durante la temporada de verano",
+      "ru": "Работает в летний сезон",
+      "zh-CN": "夏季营业",
+      "ja": "夏季営業",
+      "hi": "गर्मी के मौसम में खुला",
+      "ur": "گرمیوں کے موسم میں کھلا",
+      "fa": "فعال در فصل تابستان",
+      "pt": "Aberto durante a temporada de verão"
+    },
+    "desserts": {
+      "tr": "Tatlılar",
+      "en": "Desserts",
+      "ar": "حلويات",
+      "de": "Desserts",
+      "fr": "Desserts",
+      "it": "Dessert",
+      "es": "Postres",
+      "ru": "Десерты",
+      "zh-CN": "甜点",
+      "ja": "デザート",
+      "hi": "मिठाइयाँ",
+      "ur": "مٹھائیاں",
+      "fa": "دسرها",
+      "pt": "Sobremesas"
+    },
+    "baklava": {
+      "tr": "Baklavalar",
+      "en": "Baklava",
+      "ar": "بقلاوة",
+      "de": "Baklava",
+      "fr": "Baklavas",
+      "it": "Baklava",
+      "es": "Baklava",
+      "ru": "Пахлава",
+      "zh-CN": "巴克拉瓦",
+      "ja": "バクラヴァ",
+      "hi": "बकलावा",
+      "ur": "بقلاوہ",
+      "fa": "باقلوا",
+      "pt": "Baklava"
+    },
+    "kadayif": {
+      "tr": "Kadayıflar",
+      "en": "Kadayif",
+      "ar": "كنافة تركية",
+      "de": "Kadayif",
+      "fr": "Kadayif",
+      "it": "Kadayif",
+      "es": "Kadayif",
+      "ru": "Кадаиф",
+      "zh-CN": "卡达伊夫",
+      "ja": "カダイフ",
+      "hi": "कदायिफ",
+      "ur": "کدائیف",
+      "fa": "کادایف",
+      "pt": "Kadayif"
+    },
+    "lokum": {
+      "tr": "Lokumlar",
+      "en": "Turkish delight",
+      "ar": "راحة الحلقوم",
+      "de": "Lokum",
+      "fr": "Loukoums",
+      "it": "Lokum",
+      "es": "Delicias turcas",
+      "ru": "Лукум",
+      "zh-CN": "土耳其软糖",
+      "ja": "ロクム",
+      "hi": "तुर्की डिलाइट",
+      "ur": "ترکش ڈیلائٹ",
+      "fa": "راحت‌الحلقوم",
+      "pt": "Delícias turcas"
+    },
+    "dragees": {
+      "tr": "Drajeler",
+      "en": "Dragees",
+      "ar": "دراجيه",
+      "de": "Dragees",
+      "fr": "Dragées",
+      "it": "Confetti",
+      "es": "Grageas",
+      "ru": "Драже",
+      "zh-CN": "糖衣巧克力",
+      "ja": "ドラジェ",
+      "hi": "ड्राजे",
+      "ur": "ڈراجے",
+      "fa": "دراژه",
+      "pt": "Drágeas"
+    },
+    "cakes": {
+      "tr": "Pasta ve sütlü tatlılar",
+      "en": "Cakes and milk desserts",
+      "ar": "كيك وحلويات بالحليب",
+      "de": "Torten und Milchdesserts",
+      "fr": "Gâteaux et desserts au lait",
+      "it": "Torte e dolci al latte",
+      "es": "Tartas y postres lácteos",
+      "ru": "Торты и молочные десерты",
+      "zh-CN": "蛋糕和奶制甜点",
+      "ja": "ケーキとミルクデザート",
+      "hi": "केक और दूध की मिठाइयाँ",
+      "ur": "کیک اور دودھ کی مٹھائیاں",
+      "fa": "کیک و دسرهای شیری",
+      "pt": "Bolos e sobremesas de leite"
+    },
+    "breakfast": {
+      "tr": "Kahvaltı çeşitleri",
+      "en": "Breakfast options",
+      "ar": "خيارات الإفطار",
+      "de": "Frühstücksangebote",
+      "fr": "Choix de petit-déjeuner",
+      "it": "Opzioni per la colazione",
+      "es": "Opciones de desayuno",
+      "ru": "Варианты завтрака",
+      "zh-CN": "早餐选择",
+      "ja": "朝食メニュー",
+      "hi": "नाश्ते के विकल्प",
+      "ur": "ناشتے کے انتخاب",
+      "fa": "گزینه‌های صبحانه",
+      "pt": "Opções de café da manhã"
+    },
+    "borek": {
+      "tr": "Su böreği",
+      "en": "Su böreği pastry",
+      "ar": "بورك الماء",
+      "de": "Su-Böreği",
+      "fr": "Börek à l’eau",
+      "it": "Su böreği",
+      "es": "Su böreği",
+      "ru": "Су бёрек",
+      "zh-CN": "水煮酥饼",
+      "ja": "ス・ボレイ",
+      "hi": "सु बोरेई",
+      "ur": "سو بورے",
+      "fa": "سو بورک",
+      "pt": "Su böreği"
+    },
+    "pogaca": {
+      "tr": "Poğaça",
+      "en": "Poğaça rolls",
+      "ar": "معجنات بوغاتشا",
+      "de": "Poğaça-Gebäck",
+      "fr": "Petits pains poğaça",
+      "it": "Panini poğaça",
+      "es": "Panecillos poğaça",
+      "ru": "Булочки поача",
+      "zh-CN": "土耳其小面包",
+      "ja": "ポアチャ",
+      "hi": "पोआचा बन",
+      "ur": "پوآچا بن",
+      "fa": "نان پوآچا",
+      "pt": "Pãezinhos poğaça"
+    },
+    "drinks": {
+      "tr": "İçecekler",
+      "en": "Drinks",
+      "ar": "مشروبات",
+      "de": "Getränke",
+      "fr": "Boissons",
+      "it": "Bevande",
+      "es": "Bebidas",
+      "ru": "Напитки",
+      "zh-CN": "饮品",
+      "ja": "飲み物",
+      "hi": "पेय",
+      "ur": "مشروبات",
+      "fa": "نوشیدنی‌ها",
+      "pt": "Bebidas"
+    },
+    "seating": {
+      "tr": "Açık ve kapalı oturma alanları",
+      "en": "Indoor and outdoor seating",
+      "ar": "جلسات داخلية وخارجية",
+      "de": "Innen- und Außensitzplätze",
+      "fr": "Places intérieures et extérieures",
+      "it": "Posti interni ed esterni",
+      "es": "Asientos interiores y exteriores",
+      "ru": "Места в помещении и на улице",
+      "zh-CN": "室内和室外座位",
+      "ja": "屋内・屋外席",
+      "hi": "अंदर और बाहर बैठने की जगह",
+      "ur": "اندرونی اور بیرونی نشستیں",
+      "fa": "نشستن در فضای باز و بسته",
+      "pt": "Lugares internos e externos"
+    },
+    "tableService": {
+      "tr": "Masaya servis",
+      "en": "Table service",
+      "ar": "خدمة الطاولة",
+      "de": "Tischservice",
+      "fr": "Service à table",
+      "it": "Servizio al tavolo",
+      "es": "Servicio de mesa",
+      "ru": "Обслуживание за столом",
+      "zh-CN": "餐桌服务",
+      "ja": "テーブルサービス",
+      "hi": "टेबल सेवा",
+      "ur": "میز پر سروس",
+      "fa": "سرویس میز",
+      "pt": "Serviço de mesa"
+    },
+    "wifi": {
+      "tr": "Wi-Fi",
+      "en": "Wi-Fi",
+      "ar": "واي فاي",
+      "de": "WLAN",
+      "fr": "Wi-Fi",
+      "it": "Wi-Fi",
+      "es": "Wi-Fi",
+      "ru": "Wi-Fi",
+      "zh-CN": "Wi-Fi",
+      "ja": "Wi-Fi",
+      "hi": "वाई-फ़ाई",
+      "ur": "وائی فائی",
+      "fa": "وای‌فای",
+      "pt": "Wi-Fi"
+    },
+    "wc": {
+      "tr": "WC",
+      "en": "Restrooms",
+      "ar": "دورات مياه",
+      "de": "Toiletten",
+      "fr": "Toilettes",
+      "it": "Servizi igienici",
+      "es": "Aseos",
+      "ru": "Туалеты",
+      "zh-CN": "洗手间",
+      "ja": "トイレ",
+      "hi": "शौचालय",
+      "ur": "بیت الخلا",
+      "fa": "سرویس بهداشتی",
+      "pt": "Banheiros"
+    },
+    "accessibleWc": {
+      "tr": "Engelli WC",
+      "en": "Accessible restroom",
+      "ar": "دورة مياه مهيأة لذوي الإعاقة",
+      "de": "Barrierefreie Toilette",
+      "fr": "Toilettes accessibles",
+      "it": "Bagno accessibile",
+      "es": "Aseo accesible",
+      "ru": "Доступный туалет",
+      "zh-CN": "无障碍洗手间",
+      "ja": "バリアフリートイレ",
+      "hi": "सुलभ शौचालय",
+      "ur": "قابل رسائی بیت الخلا",
+      "fa": "سرویس بهداشتی دسترس‌پذیر",
+      "pt": "Banheiro acessível"
+    },
+    "smoking": {
+      "tr": "Sigara içilebilir alan",
+      "en": "Smoking area",
+      "ar": "منطقة تدخين",
+      "de": "Raucherbereich",
+      "fr": "Espace fumeurs",
+      "it": "Area fumatori",
+      "es": "Zona de fumadores",
+      "ru": "Зона для курения",
+      "zh-CN": "吸烟区",
+      "ja": "喫煙エリア",
+      "hi": "धूम्रपान क्षेत्र",
+      "ur": "تمباکو نوشی کا علاقہ",
+      "fa": "محل سیگار کشیدن",
+      "pt": "Área para fumantes"
+    },
+    "takeaway": {
+      "tr": "Paket servis",
+      "en": "Takeaway",
+      "ar": "طلبات خارجية",
+      "de": "Zum Mitnehmen",
+      "fr": "À emporter",
+      "it": "Asporto",
+      "es": "Para llevar",
+      "ru": "Еда навынос",
+      "zh-CN": "外带",
+      "ja": "テイクアウト",
+      "hi": "टेकअवे",
+      "ur": "ٹیک اوے",
+      "fa": "بیرون‌بر",
+      "pt": "Para levar"
+    },
+    "parking": {
+      "tr": "Ücretsiz otopark",
+      "en": "Free parking",
+      "ar": "مواقف مجانية",
+      "de": "Kostenlose Parkplätze",
+      "fr": "Parking gratuit",
+      "it": "Parcheggio gratuito",
+      "es": "Aparcamiento gratuito",
+      "ru": "Бесплатная парковка",
+      "zh-CN": "免费停车",
+      "ja": "無料駐車場",
+      "hi": "निःशुल्क पार्किंग",
+      "ur": "مفت پارکنگ",
+      "fa": "پارکینگ رایگان",
+      "pt": "Estacionamento gratuito"
+    },
+    "garden": {
+      "tr": "Isıtıcılı bahçe",
+      "en": "Heated garden",
+      "ar": "حديقة مدفأة",
+      "de": "Beheizter Garten",
+      "fr": "Jardin chauffé",
+      "it": "Giardino riscaldato",
+      "es": "Jardín climatizado",
+      "ru": "Отапливаемый сад",
+      "zh-CN": "加热花园",
+      "ja": "暖房付き庭園",
+      "hi": "गर्म बगीचा",
+      "ur": "گرم باغ",
+      "fa": "باغ گرم‌شونده",
+      "pt": "Jardim aquecido"
+    },
+    "terrace": {
+      "tr": "Teras",
+      "en": "Terrace",
+      "ar": "تراس",
+      "de": "Terrasse",
+      "fr": "Terrasse",
+      "it": "Terrazza",
+      "es": "Terraza",
+      "ru": "Терраса",
+      "zh-CN": "露台",
+      "ja": "テラス",
+      "hi": "टेरेस",
+      "ur": "ٹیرس",
+      "fa": "تراس",
+      "pt": "Terraço"
+    },
+    "delivery": {
+      "tr": "Adrese servis",
+      "en": "Delivery",
+      "ar": "توصيل",
+      "de": "Lieferdienst",
+      "fr": "Livraison",
+      "it": "Consegna",
+      "es": "Entrega a domicilio",
+      "ru": "Доставка",
+      "zh-CN": "配送",
+      "ja": "配達",
+      "hi": "डिलीवरी",
+      "ur": "ڈیلیوری",
+      "fa": "ارسال",
+      "pt": "Entrega"
+    },
+    "online": {
+      "tr": "Online sipariş",
+      "en": "Online ordering",
+      "ar": "طلب عبر الإنترنت",
+      "de": "Online-Bestellung",
+      "fr": "Commande en ligne",
+      "it": "Ordini online",
+      "es": "Pedidos en línea",
+      "ru": "Онлайн-заказ",
+      "zh-CN": "在线订购",
+      "ja": "オンライン注文",
+      "hi": "ऑनलाइन ऑर्डर",
+      "ur": "آن لائن آرڈر",
+      "fa": "سفارش آنلاین",
+      "pt": "Pedidos online"
+    },
+    "heatedTerrace": {
+      "tr": "Isıtıcılı teras",
+      "en": "Heated terrace",
+      "ar": "تراس مدفأ",
+      "de": "Beheizte Terrasse",
+      "fr": "Terrasse chauffée",
+      "it": "Terrazza riscaldata",
+      "es": "Terraza climatizada",
+      "ru": "Отапливаемая терраса",
+      "zh-CN": "加热露台",
+      "ja": "暖房付きテラス",
+      "hi": "गर्म टेरेस",
+      "ur": "گرم ٹیرس",
+      "fa": "تراس گرم‌شونده",
+      "pt": "Terraço aquecido"
+    },
+    "seaView": {
+      "tr": "Deniz manzarası",
+      "en": "Sea view",
+      "ar": "إطلالة على البحر",
+      "de": "Meerblick",
+      "fr": "Vue sur la mer",
+      "it": "Vista mare",
+      "es": "Vistas al mar",
+      "ru": "Вид на море",
+      "zh-CN": "海景",
+      "ja": "海の眺め",
+      "hi": "समुद्र का दृश्य",
+      "ur": "سمندر کا منظر",
+      "fa": "منظره دریا",
+      "pt": "Vista para o mar"
+    },
+    "privateLounges": {
+      "tr": "Özel oturma salonları",
+      "en": "Private seating lounges",
+      "ar": "صالات جلوس خاصة",
+      "de": "Private Sitzlounges",
+      "fr": "Salons privés",
+      "it": "Salotti privati",
+      "es": "Salones privados",
+      "ru": "Отдельные залы",
+      "zh-CN": "私人休息厅",
+      "ja": "専用ラウンジ",
+      "hi": "निजी लाउंज",
+      "ur": "نجی لاؤنج",
+      "fa": "سالن‌های خصوصی",
+      "pt": "Salas privadas"
+    },
+    "prayer": {
+      "tr": "Mescid",
+      "en": "Prayer room",
+      "ar": "مصلى",
+      "de": "Gebetsraum",
+      "fr": "Salle de prière",
+      "it": "Sala di preghiera",
+      "es": "Sala de oración",
+      "ru": "Молитвенная комната",
+      "zh-CN": "祈祷室",
+      "ja": "礼拝室",
+      "hi": "प्रार्थना कक्ष",
+      "ur": "نماز کا کمرہ",
+      "fa": "نمازخانه",
+      "pt": "Sala de oração"
+    },
+    "indoor": {
+      "tr": "Kapalı oturma alanı",
+      "en": "Indoor seating",
+      "ar": "جلسات داخلية",
+      "de": "Innensitzplätze",
+      "fr": "Places intérieures",
+      "it": "Posti interni",
+      "es": "Asientos interiores",
+      "ru": "Места в помещении",
+      "zh-CN": "室内座位",
+      "ja": "屋内席",
+      "hi": "अंदर बैठने की जगह",
+      "ur": "اندرونی نشستیں",
+      "fa": "نشستن در فضای بسته",
+      "pt": "Lugares internos"
+    },
+    "count": {
+      "tr": "{count} mağaza bulundu.",
+      "en": "{count} stores found.",
+      "ar": "تم العثور على {count} متاجر.",
+      "de": "{count} Filialen gefunden.",
+      "fr": "{count} boutiques trouvées.",
+      "it": "{count} negozi trovati.",
+      "es": "Se encontraron {count} tiendas.",
+      "ru": "Найдено магазинов: {count}.",
+      "zh-CN": "找到 {count} 家门店。",
+      "ja": "{count} 店舗が見つかりました。",
+      "hi": "{count} स्टोर मिले।",
+      "ur": "{count} اسٹورز ملے۔",
+      "fa": "{count} فروشگاه یافت شد.",
+      "pt": "{count} lojas encontradas."
+    },
+    "countryTR": {
+      "tr": "Türkiye",
+      "en": "Türkiye",
+      "ar": "تركيا",
+      "de": "Türkei",
+      "fr": "Turquie",
+      "it": "Turchia",
+      "es": "Turquía",
+      "ru": "Турция",
+      "zh-CN": "土耳其",
+      "ja": "トルコ",
+      "hi": "तुर्किये",
+      "ur": "ترکیہ",
+      "fa": "ترکیه",
+      "pt": "Turquia"
+    },
+    "countryAE": {
+      "tr": "Birleşik Arap Emirlikleri",
+      "en": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة",
+      "de": "Vereinigte Arabische Emirate",
+      "fr": "Émirats arabes unis",
+      "it": "Emirati Arabi Uniti",
+      "es": "Emiratos Árabes Unidos",
+      "ru": "ОАЭ",
+      "zh-CN": "阿拉伯联合酋长国",
+      "ja": "アラブ首長国連邦",
+      "hi": "संयुक्त अरब अमीरात",
+      "ur": "متحدہ عرب امارات",
+      "fa": "امارات متحدهٔ عربی",
+      "pt": "Emirados Árabes Unidos"
+    },
+    "countryGB": {
+      "tr": "Birleşik Krallık",
+      "en": "United Kingdom",
+      "ar": "المملكة المتحدة",
+      "de": "Vereinigtes Königreich",
+      "fr": "Royaume-Uni",
+      "it": "Regno Unito",
+      "es": "Reino Unido",
+      "ru": "Великобритания",
+      "zh-CN": "英国",
+      "ja": "イギリス",
+      "hi": "यूनाइटेड किंगडम",
+      "ur": "سلطنت متحدہ",
+      "fa": "بریتانیا",
+      "pt": "Reino Unido"
+    }
+  },
+  "stores": [
+    {
+      "id": "nisantasi",
+      "url": "magazalar/nisantasi/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 291 17 36",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Nişantaşı Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/nisantasi",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "breakfast",
+        "borek",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "wc",
+        "accessibleWc",
+        "smoking",
+        "takeaway"
+      ],
+      "deliveryPlatforms": [
+        "Yemek Sepeti"
+      ],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Nişantaşı",
+          "address": "Harbiye, Vali Konağı Cd. Ziya Karahan Ap. No:22/A, Şişli, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        }
+      }
+    },
+    {
+      "id": "pera",
+      "url": "magazalar/pera/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 252 82 05",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Pera Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/pera",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "breakfast",
+        "borek",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "wc",
+        "smoking"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 saat, haftanın 7 günü"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 hours, 7 days a week"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 ساعة، طوال أيام الأسبوع"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 Stunden, 7 Tage die Woche"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 h/24, 7 j/7"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 ore, 7 giorni su 7"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 horas, 7 días a la semana"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "Круглосуточно, 7 дней в неделю"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "每周7天，24小时营业"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "年中無休・24時間営業"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 घंटे, सप्ताह के 7 दिन"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 گھنٹے، ہفتے کے 7 دن"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "۲۴ ساعته، ۷ روز هفته"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Pera",
+          "address": "Kuloğlu Mh. İstiklal Cd. No:121/1, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 horas, 7 dias por semana"
+        }
+      }
+    },
+    {
+      "id": "nuruosmaniye",
+      "url": "magazalar/nuruosmaniye/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 514 48 80",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Nuruosmaniye Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/nuruosmaniye",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "breakfast",
+        "borek",
+        "pogaca",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "wc",
+        "smoking"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · Pazar günleri kapalı"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · Closed on Sundays"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · مغلق أيام الأحد"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · Sonntags geschlossen"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · Fermé le dimanche"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · Chiuso la domenica"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · Cerrado los domingos"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · Закрыто по воскресеньям"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · 星期日休息"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · 日曜日休業"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · रविवार को बंद"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · اتوار کو بند"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · یکشنبه‌ها تعطیل"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Nuruosmaniye",
+          "address": "Mollafenari Mh. Nuruosmaniye Cd. No:44 Fatih, İstanbul, Türkiye.",
+          "hours": "07:00 - 20:00 · Fechado aos domingos"
+        }
+      }
+    },
+    {
+      "id": "dubai-hills-mall",
+      "url": "magazalar/dubai-hills-mall/index.html",
+      "country": "AE",
+      "city": "Dubai",
+      "phone": "+971 4 557 3065",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Dubai Hills Mall Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/dubai-hills-mall",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Dubai Hills Mall",
+          "address": "Dubai Hills Mall, Al Khalil Sk. Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        }
+      }
+    },
+    {
+      "id": "porta-vadi",
+      "url": "magazalar/porta-vadi/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 892 51 51",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Porta Vadi Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/porta-vadi",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "cakes",
+        "breakfast",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "wc",
+        "smoking",
+        "takeaway",
+        "parking",
+        "garden",
+        "online"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Porta Vadi",
+          "address": "Porta Vadi, Cendere Cd. No:103/2, Istanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        }
+      }
+    },
+    {
+      "id": "uskudar",
+      "url": "magazalar/uskudar/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 216 334 10 20",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Üsküdar Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/uskudar",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "breakfast",
+        "borek",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "wc",
+        "smoking",
+        "terrace",
+        "delivery"
+      ],
+      "deliveryPlatforms": [
+        "Yemek Sepeti",
+        "Getir Yemek"
+      ],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Üsküdar",
+          "address": "Mimar Sinan Mh. Hakimiyet-i Milliye Cd. Atlas Sk. No:42, Üsküdar, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        }
+      }
+    },
+    {
+      "id": "taksim",
+      "url": "magazalar/taksim/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 243 38 47",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Taksim Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/taksim",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "breakfast",
+        "borek",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "smoking"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 saat, haftanın 7 günü"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 hours, 7 days a week"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 ساعة، طوال أيام الأسبوع"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 Stunden, 7 Tage die Woche"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 h/24, 7 j/7"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 ore, 7 giorni su 7"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 horas, 7 días a la semana"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "Круглосуточно, 7 дней в неделю"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "每周7天，24小时营业"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "年中無休・24時間営業"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 घंटे, सप्ताह के 7 दिन"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 گھنٹے، ہفتے کے 7 دن"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "۲۴ ساعته، ۷ روز هفته"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Taksim",
+          "address": "Gümüşsuyu Mh. Sıraselviler Cd. No:7/B, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 horas, 7 dias por semana"
+        }
+      }
+    },
+    {
+      "id": "sirkeci",
+      "url": "magazalar/sirkeci/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 527 66 54",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Sirkeci Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/sirkeci",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "breakfast",
+        "borek",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "wc",
+        "smoking"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "24 saat, haftanın 7 günü"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "24 hours, 7 days a week"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "24 ساعة، طوال أيام الأسبوع"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "24 Stunden, 7 Tage die Woche"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "24 h/24, 7 j/7"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "24 ore, 7 giorni su 7"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "24 horas, 7 días a la semana"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "Круглосуточно, 7 дней в неделю"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "每周7天，24小时营业"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "年中無休・24時間営業"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "24 घंटे, सप्ताह के 7 दिन"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "24 گھنٹے، ہفتے کے 7 دن"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "۲۴ ساعته، ۷ روز هفته"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Sirkeci",
+          "address": "Hoca Paşa Mh. Muradiye Cd. No:25/B, Fatih, İstanbul, Türkiye.",
+          "hours": "24 horas, 7 dias por semana"
+        }
+      }
+    },
+    {
+      "id": "london-knightbridge",
+      "url": "magazalar/london-knightbridge/index.html",
+      "country": "GB",
+      "city": "London",
+      "phone": "+44 2045841864",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 London Knightbridge 92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/london-knightbridge",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "drinks"
+      ],
+      "features": [
+        "tableService",
+        "wifi",
+        "wc",
+        "privateLounges",
+        "prayer"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 London Knightbridge",
+          "address": "92 Brompton Sk. Londra SW3 1ER, Birleşik Krallık.",
+          "hours": "08:00 - 22:00"
+        }
+      }
+    },
+    {
+      "id": "istiklal",
+      "url": "magazalar/istiklal/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 251 30 33",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 İstiklal Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/istiklal",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "breakfast",
+        "borek",
+        "pogaca",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "smoking"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 saat, haftanın 7 günü"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 hours, 7 days a week"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 ساعة، طوال أيام الأسبوع"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 Stunden, 7 Tage die Woche"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 h/24, 7 j/7"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 ore, 7 giorni su 7"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 horas, 7 días a la semana"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "Круглосуточно, 7 дней в неделю"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "每周7天，24小时营业"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "年中無休・24時間営業"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 घंटे, सप्ताह के 7 दिन"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 گھنٹے، ہفتے کے 7 دن"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "۲۴ ساعته، ۷ روز هفته"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 İstiklal",
+          "address": "Katip Mustafa Çelebi Mh. İstiklal Cd. No:37, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "24 horas, 7 dias por semana"
+        }
+      }
+    },
+    {
+      "id": "galataport",
+      "url": "magazalar/galataport/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 877 10 79",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Galataport Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/galataport",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "breakfast",
+        "borek",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "wc",
+        "smoking",
+        "parking",
+        "garden"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Galataport",
+          "address": "Kılıçali Paşa Mh. Meclis-i Mebusan Cd. No:8, İç Kapı No:102, Beyoğlu, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        }
+      }
+    },
+    {
+      "id": "florya",
+      "url": "magazalar/florya/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 574 58 33",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Florya Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/florya",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "breakfast",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "wc",
+        "smoking",
+        "takeaway",
+        "parking",
+        "heatedTerrace",
+        "seaView"
+      ],
+      "deliveryPlatforms": [
+        "Getir Yemek"
+      ],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Florya",
+          "address": "Aqua Florya AVM. Şenlikköy Mh. Yeşilköy Halkalı Cd. No:93/3, Kat:0, Bakırköy, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        }
+      }
+    },
+    {
+      "id": "edebiyat-kiraathanesi",
+      "url": "magazalar/edebiyat-kiraathanesi/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 514 90 68",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Edebiyat Kıraathanesi Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/edebiyat-kiraathanesi",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "breakfast",
+        "borek",
+        "drinks"
+      ],
+      "features": [
+        "tableService",
+        "wifi",
+        "indoor"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Edebiyat Kıraathanesi",
+          "address": "Binbirdirek, Divan Yolu Cd. No:14, Türk Edebiyat Kıraathanesi, Sultanahmet, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        }
+      }
+    },
+    {
+      "id": "dubai-mall",
+      "url": "magazalar/dubai-mall/index.html",
+      "country": "AE",
+      "city": "Dubai",
+      "phone": "+971 4584 46 94",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Dubai, Dubai Mall The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/dubai-mall",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "takeaway",
+        "online"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Dubai, Dubai Mall",
+          "address": "The Dubai Mall, Financial Center Cd. Along Sheikh Zayed Sk. (Burj Khalifa yakınında), Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 01:00"
+        }
+      }
+    },
+    {
+      "id": "dubai-mall-of-the-emirates",
+      "url": "magazalar/dubai-mall-of-the-emirates/index.html",
+      "country": "AE",
+      "city": "Dubai",
+      "phone": "",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Dubai Mall of the Emirates Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/dubai-mall-of-the-emirates",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Dubai Mall of the Emirates",
+          "address": "Mall of the Emirates, Level 1, Sheikh Zayed Sk. Al Barsha, Al Barsha 1, Dubai, Birleşik Arap Emirlikleri.",
+          "hours": "08:00 - 22:00"
+        }
+      }
+    },
+    {
+      "id": "bodrum-mandarin-oriental",
+      "url": "magazalar/bodrum-mandarin-oriental/index.html",
+      "country": "TR",
+      "city": "Bodrum",
+      "phone": "+90 505 180 20 66",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Bodrum Mandarin Oriental Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/bodrum-mandarin-oriental",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "cakes",
+        "drinks"
+      ],
+      "features": [],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · Yaz sezonunda hizmet verir"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · Open during the summer season"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · يعمل خلال موسم الصيف"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · In der Sommersaison geöffnet"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · Ouvert pendant la saison estivale"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · Aperto nella stagione estiva"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · Abierto durante la temporada de verano"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · Работает в летний сезон"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · 夏季营业"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · 夏季営業"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · गर्मी के मौसम में खुला"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · گرمیوں کے موسم میں کھلا"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · فعال در فصل تابستان"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Bodrum Mandarin Oriental",
+          "address": "Göltürkbükü, 341. Sk. No:12/1, Bodrum, Muğla, Türkiye.",
+          "hours": "10:00 - 22:00 · Aberto durante a temporada de verão"
+        }
+      }
+    },
+    {
+      "id": "beyazit",
+      "url": "magazalar/beyazit/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 638 11 87",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Beyazıt Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/beyazit",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "breakfast",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "smoking"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Beyazıt",
+          "address": "Mimar Hayrettin Mh. Yeniçeriler Cd. No:39, Beyazıt, Fatih, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        }
+      }
+    },
+    {
+      "id": "bahcekapi",
+      "url": "magazalar/bahcekapi/index.html",
+      "country": "TR",
+      "city": "İstanbul",
+      "phone": "+90 212 513 36 10",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Bahçekapı Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/bahcekapi",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "dragees",
+        "cakes",
+        "breakfast",
+        "borek",
+        "pogaca",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi",
+        "wc",
+        "smoking"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Bahçekapı",
+          "address": "Hoybar Mh. Hamidiye Cd. No:20/C, Eminönü, İstanbul, Türkiye.",
+          "hours": "08:00 - 02:00"
+        }
+      }
+    },
+    {
+      "id": "antalya-the-land-of-legends",
+      "url": "magazalar/antalya-the-land-of-legends/index.html",
+      "country": "TR",
+      "city": "Antalya",
+      "phone": "+90 242 725 60 66",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Antalya The Land of Legends The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/antalya-the-land-of-legends",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "cakes",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Antalya The Land of Legends",
+          "address": "The Land of Legends, Kadriye Mh. Atatürk Cd. No:104, Serik, Antalya, Türkiye.",
+          "hours": "10:00 - 22:00"
+        }
+      }
+    },
+    {
+      "id": "antalya-nickelodeon",
+      "url": "magazalar/antalya-nickelodeon/index.html",
+      "country": "TR",
+      "city": "Antalya",
+      "phone": "+90 242 725 65 17",
+      "online": true,
+      "image": "",
+      "mapQuery": "Hafız Mustafa 1864 Antalya Nickelodeon Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+      "googleMapsUrl": "",
+      "sourceUrl": "https://online.hafizmustafa.com/antalya-nickelodeon",
+      "products": [
+        "desserts",
+        "baklava",
+        "kadayif",
+        "lokum",
+        "cakes",
+        "drinks"
+      ],
+      "features": [
+        "seating",
+        "tableService",
+        "wifi"
+      ],
+      "deliveryPlatforms": [],
+      "translations": {
+        "tr": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "en": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "ar": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "de": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "fr": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "it": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "es": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "ru": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "zh-CN": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "ja": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "hi": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "ur": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "fa": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        },
+        "pt": {
+          "name": "Hafız Mustafa 1864 Antalya Nickelodeon",
+          "address": "Nickelodeon, Kadriye Mh. Atatürk Cd. No:515/4-5, Serik, Antalya,Türkiye.",
+          "hours": "08:00 - 22:00"
+        }
+      }
+    }
+  ]
+}

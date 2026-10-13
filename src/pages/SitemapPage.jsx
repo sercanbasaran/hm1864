@@ -6,7 +6,7 @@ import RichText from "../RichText.jsx";
 import routes from "../routes.json";
 
 export default function SitemapPage() {
-  const { data } = useApp();
+  const { data, preferences } = useApp();
   const t = useText();
   return (
     <section className="sitemap">
@@ -14,7 +14,19 @@ export default function SitemapPage() {
         <RichText value={t("page.0142")} />
       </h1>
       <ul>
-        {Object.entries(routes).map(([url, r]) => (
+        {Object.entries({
+          ...routes,
+          ...Object.fromEntries(
+            (data.stores || []).map((store) => [
+              store.url,
+              {
+                title:
+                  store.translations[preferences?.language || "tr"]?.name ||
+                  store.translations.tr.name,
+              },
+            ]),
+          ),
+        }).map(([url, r]) => (
           <li key={url}>
             <a href={local(url)}>
               {r.titleKey

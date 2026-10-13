@@ -21,7 +21,18 @@ export function buildBreadcrumbs({
     if (item && !crumbs.some((c) => c.url === item.url))
       crumbs.push({ label: label(item), url: item.url });
   };
-  if (
+  if (source.store) {
+    crumbs.push({
+      label: data.storeTexts?.title?.[language] || data.storeTexts?.title?.tr,
+      url: "magazalar/index.html",
+    });
+    crumbs.push({
+      label:
+        source.store.translations[language]?.name ||
+        source.store.translations.tr.name,
+      url: source.store.url,
+    });
+  } else if (
     typeof source.product === "object" ||
     typeof source.category === "object"
   ) {

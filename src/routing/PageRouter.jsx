@@ -3,6 +3,7 @@ import HomePage from "../pages/HomePage.jsx";
 import ProductPage from "../pages/ProductPage.jsx";
 import CategoryPage from "../pages/CategoryPage.jsx";
 import ProductsPage from "../pages/ProductsPage.jsx";
+import StoreDetailPage from "../pages/StoreDetailPage.jsx";
 import StoresPage from "../pages/StoresPage.jsx";
 import SitemapPage from "../pages/SitemapPage.jsx";
 import PlaceholderPage from "../pages/PlaceholderPage.jsx";
@@ -19,6 +20,8 @@ export default function PageRouter({ route }) {
       return <ProductsPage />;
     case "stores":
       return <StoresPage />;
+    case "store":
+      return <StoreDetailPage store={route.store} />;
     case "sitemap":
       return <SitemapPage />;
     default:

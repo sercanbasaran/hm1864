@@ -1,4 +1,5 @@
 import {validate} from './model.js';
+import {validateStores} from './stores.js';
 import {validateContent} from './i18n.js';
 import {validateRegions,validateRegionalCatalog} from './market.js';
 
@@ -42,6 +43,9 @@ export async function loadAuthoringData(readJSON){
     });
   }))).flat();
   const catalog=validateRegionalCatalog(validate({schemaVersion:1,...manifest.catalogMeta,categories,subcategories,products,orderPlatforms:platformSettings.platforms}),regions);
+  const stores=validateStores(await read(manifest.stores),content.languages);
+  catalog.stores=stores.stores.filter(store=>store.online);
+  catalog.storeTexts=stores.texts;
   return {schemaVersion:1,catalog,content,regions:regionSettings};
 }
 

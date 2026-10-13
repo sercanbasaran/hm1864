@@ -23,11 +23,14 @@ export function useResolvedRoute({
             .concat(rawData.subcategories)
             .find((c) => c.url === path.replace(/^\//, ""))
         : null;
-    const title = item
-      ? item.translations?.[language]?.name || item.name
-      : found.titleKey
-        ? translate(content, language, found.titleKey)
-        : found.title;
+    const title = found.store
+      ? found.store.translations?.[language]?.name ||
+        found.store.translations.tr.name
+      : item
+        ? item.translations?.[language]?.name || item.name
+        : found.titleKey
+          ? translate(content, language, found.titleKey)
+          : found.title;
     return ["catalog-product", "catalog"].includes(found.kind)
       ? { kind: "unavailable", title }
       : { ...found, title };
