@@ -170,6 +170,7 @@ export default function ProductPage({ product: p }) {
                         ))}
                       </tbody>
                     </table>
+                    {p.nutrition.note && <Text value={p.nutrition.note} />}
                   </>
                 ) : (
                   <Text />

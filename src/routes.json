@@ -1020,11 +1020,11 @@
   "urunler/trileceler/index.html": {
     "kind": "catalog",
     "selected": [
-      "600-03-01-ahududulu-trilece",
-      "600-03-02-fistikli-ala-trilece",
-      "600-03-03-kahveli-trilece",
-      "600-03-04-karamelli-trilece",
-      "600-03-05-safranli-trilece"
+      "700-01-01-ahududulu-trilece",
+      "700-01-02-fistikli-ala-trilece",
+      "700-01-03-kahveli-trilece",
+      "700-01-04-karamelli-trilece",
+      "700-01-05-safranli-trilece"
     ],
     "parent": "Trileçeler"
   },
@@ -1209,11 +1209,11 @@
   "urunler/trileceler/trilece/index.html": {
     "kind": "catalog",
     "selected": [
-      "600-03-01-ahududulu-trilece",
-      "600-03-02-fistikli-ala-trilece",
-      "600-03-03-kahveli-trilece",
-      "600-03-04-karamelli-trilece",
-      "600-03-05-safranli-trilece"
+      "700-01-01-ahududulu-trilece",
+      "700-01-02-fistikli-ala-trilece",
+      "700-01-03-kahveli-trilece",
+      "700-01-04-karamelli-trilece",
+      "700-01-05-safranli-trilece"
     ],
     "parent": "Trileçeler",
     "subcategory": "Trileçe"
@@ -1870,23 +1870,23 @@
   },
   "urunler/trileceler/trilece/ahududulu-trilece.html": {
     "kind": "catalog-product",
-    "product": "600-03-01-ahududulu-trilece"
+    "product": "700-01-01-ahududulu-trilece"
   },
   "urunler/trileceler/trilece/fistikli-ala-trilece.html": {
     "kind": "catalog-product",
-    "product": "600-03-02-fistikli-ala-trilece"
+    "product": "700-01-02-fistikli-ala-trilece"
   },
   "urunler/trileceler/trilece/kahveli-trilece.html": {
     "kind": "catalog-product",
-    "product": "600-03-03-kahveli-trilece"
+    "product": "700-01-03-kahveli-trilece"
   },
   "urunler/trileceler/trilece/karamelli-trilece.html": {
     "kind": "catalog-product",
-    "product": "600-03-04-karamelli-trilece"
+    "product": "700-01-04-karamelli-trilece"
   },
   "urunler/trileceler/trilece/safranli-trilece.html": {
     "kind": "catalog-product",
-    "product": "600-03-05-safranli-trilece"
+    "product": "700-01-05-safranli-trilece"
   },
   "urunler/spesiyaller/dubai-serisi/dubai-gecesi.html": {
     "kind": "catalog-product",

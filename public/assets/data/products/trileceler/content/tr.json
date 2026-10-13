@@ -2,22 +2,74 @@
   "schemaVersion": 1,
   "language": "tr",
   "products": {
-    "600-03-01-ahududulu-trilece": {
+    "700-01-01-ahududulu-trilece": {
       "name": "Ahududulu Trileçe",
-      "description": "",
-      "ingredients": "",
+      "description": "Ahududulu lezzet şöleni ve Hafız Mustafa 1864 ustalığı.",
+      "ingredients": "Trileçe kek ( buğday unu, yumurta, şeker, kabartma tozu), süt şerbeti(süt, süt kreması, krem şanti), frambuazlı sos (su şeker, frambuaz, frambuaz soğuk jöle).",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "272,9 kcal / 1.141,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "13,1",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 272,9 kcal / 1.141,8 kJ; Yağ 19,2 g; Doymuş yağ 13,1 g; Karbonhidrat 22,1 g; Şeker 13,8 g; Lif 0,4 g; Protein 4,1 g. Tuz bilgisi menüde belirtilmemiş.",
+        "note": "Tuz bilgisi menüde belirtilmemiş."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "255 gram",
+      "variants": {
+        "porsiyon": {
+          "label": "Porsiyon",
+          "description": "Ahududulu lezzet şöleni ve Hafız Mustafa 1864 ustalığı.",
+          "ingredients": "Trileçe kek ( buğday unu, yumurta, şeker, kabartma tozu), süt şerbeti(süt, süt kreması, krem şanti), frambuazlı sos (su şeker, frambuaz, frambuaz soğuk jöle).",
+          "allergenInfo": "Gluten, süt ürünleri, yumurta, soya, sülfit içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "255 gram",
+          "delivery": "",
+          "packaging": ""
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -37,24 +89,78 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "Gluten, süt ürünleri, yumurta, soya, sülfit içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-03-02-fistikli-ala-trilece": {
+    "700-01-02-fistikli-ala-trilece": {
       "name": "Fıstıklı Ala Trileçe",
-      "description": "",
-      "ingredients": "",
+      "description": "Balkanlardan gelen lezzete ala sosun dokunuşu.",
+      "ingredients": "Trileçe kek ( buğday unu, yumurta, şeker, antep fıstık, kabartma tozu), süt şerbeti(süt, süt kreması, krem şanti),krem şanti, antep fıstık, Ala sos (Buğday unu, şeker, mısır nişastası, süt kreması, krem şanti).",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "298,3 kcal / 1.248,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "22,7",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "13,9",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "12,4",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "1,0",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "5,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 298,3 kcal / 1.248,1 kJ; Yağ 22,7 g; Doymuş yağ 13,9 g; Karbonhidrat 18,4 g; Şeker 12,4 g; Lif 1,0 g; Protein 5,2 g. Tuz bilgisi menüde belirtilmemiş.",
+        "note": "Tuz bilgisi menüde belirtilmemiş."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "215 gram",
+      "variants": {
+        "porsiyon": {
+          "label": "Porsiyon",
+          "description": "Balkanlardan gelen lezzete ala sosun dokunuşu.",
+          "ingredients": "Trileçe kek ( buğday unu, yumurta, şeker, antep fıstık, kabartma tozu), süt şerbeti(süt, süt kreması, krem şanti),krem şanti, antep fıstık, Ala sos (Buğday unu, şeker, mısır nişastası, süt kreması, krem şanti).",
+          "allergenInfo": "Gluten, süt ürünleri, sert kabuklu meyveler (fıstık), yumurta, soya içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "215 gram",
+          "delivery": "",
+          "packaging": ""
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -74,24 +180,78 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "Gluten, süt ürünleri, sert kabuklu meyveler (fıstık), yumurta, soya içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-03-03-kahveli-trilece": {
+    "700-01-03-kahveli-trilece": {
       "name": "Kahveli Trileçe",
-      "description": "",
-      "ingredients": "",
+      "description": "Karşı konulmaz lezzet şöleni ve Hafız Mustafa 1864 ustalığı.",
+      "ingredients": "Trileçe kek ( buğday unu, yumurta, şeker, nescafe, kabartma tozu), süt şerbeti(süt, süt kreması, krem şanti), krem şanti, nescafe, Ala sos (Buğday unu, şeker, mısır nişastası, süt kreması, krem şanti).",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "273,6 kcal / 1.144,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "13,6",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "16,7",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "12,3",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 273,6 kcal / 1.144,7 kJ; Yağ 20,8 g; Doymuş yağ 13,6 g; Karbonhidrat 16,7 g; Şeker 12,3 g; Lif 0,3 g; Protein 4,8 g. Tuz bilgisi menüde belirtilmemiş.",
+        "note": "Tuz bilgisi menüde belirtilmemiş."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "210 gram",
+      "variants": {
+        "porsiyon": {
+          "label": "Porsiyon",
+          "description": "Karşı konulmaz lezzet şöleni ve Hafız Mustafa 1864 ustalığı.",
+          "ingredients": "Trileçe kek ( buğday unu, yumurta, şeker, nescafe, kabartma tozu), süt şerbeti(süt, süt kreması, krem şanti), krem şanti, nescafe, Ala sos (Buğday unu, şeker, mısır nişastası, süt kreması, krem şanti).",
+          "allergenInfo": "Gluten, süt ürünleri, yumurta, soya içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "210 gram",
+          "delivery": "",
+          "packaging": ""
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -111,24 +271,78 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "Gluten, süt ürünleri, yumurta, soya içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-03-04-karamelli-trilece": {
+    "700-01-04-karamelli-trilece": {
       "name": "Karamelli Trileçe",
-      "description": "",
-      "ingredients": "",
+      "description": "Balkanlardan gelen karamelli lezzet şöleni.",
+      "ingredients": "Trileçe kek ( buğday unu, yumurta, şeker, kabartma tozu), süt şerbeti(süt, süt kreması, krem şanti) karamel jöle.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "274,7 kcal / 1.149,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "14,2",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,4",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 274,7 kcal / 1.149,3 kJ; Yağ 20,8 g; Doymuş yağ 14,2 g; Karbonhidrat 17,5 g; Şeker 11,7 g; Lif 0,2 g; Protein 4,4 g. Tuz bilgisi menüde belirtilmemiş.",
+        "note": "Tuz bilgisi menüde belirtilmemiş."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "250 gram",
+      "variants": {
+        "porsiyon": {
+          "label": "Porsiyon",
+          "description": "Balkanlardan gelen karamelli lezzet şöleni.",
+          "ingredients": "Trileçe kek ( buğday unu, yumurta, şeker, kabartma tozu), süt şerbeti(süt, süt kreması, krem şanti) karamel jöle.",
+          "allergenInfo": "Gluten, süt ürünleri, yumurta, soya, sülfit içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "250 gram",
+          "delivery": "",
+          "packaging": ""
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -148,24 +362,78 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "Gluten, süt ürünleri, yumurta, soya, sülfit içerir.",
+      "portion": "Tek Kişilik"
     },
-    "600-03-05-safranli-trilece": {
+    "700-01-05-safranli-trilece": {
       "name": "Safranlı Trileçe",
-      "description": "",
-      "ingredients": "",
+      "description": "Safranlı gurme harmanı ve Hafız Mustafa 1864 ustalığı.",
+      "ingredients": "Trileçe kek ( buğday unu, yumurta, şeker, portakal kabuğu, safran, kabartma tozu), süt şerbeti(süt, süt kreması, krem şanti), safran, krem şanti, Ala sos (Buğday unu, şeker, mısır nişastası, süt kreması, krem şanti).",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [
+          {
+            "name": "Enerji",
+            "value": "239,3 kcal / 1.001,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Yağ",
+            "value": "17,9",
+            "unit": "g"
+          },
+          {
+            "name": "Doymuş yağ",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "Karbonhidrat",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "Şeker",
+            "value": "10,4",
+            "unit": "g"
+          },
+          {
+            "name": "Lif",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g için: Enerji 239,3 kcal / 1.001,2 kJ; Yağ 17,9 g; Doymuş yağ 12,2 g; Karbonhidrat 15,7 g; Şeker 10,4 g; Lif 0,2 g; Protein 3,8 g. Tuz bilgisi menüde belirtilmemiş.",
+        "note": "Tuz bilgisi menüde belirtilmemiş."
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+      "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+      "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
       "delivery": "",
       "packaging": "",
-      "weight": null,
-      "variants": {},
+      "weight": "210 gram",
+      "variants": {
+        "porsiyon": {
+          "label": "Porsiyon",
+          "description": "Safranlı gurme harmanı ve Hafız Mustafa 1864 ustalığı.",
+          "ingredients": "Trileçe kek ( buğday unu, yumurta, şeker, portakal kabuğu, safran, kabartma tozu), süt şerbeti(süt, süt kreması, krem şanti), safran, krem şanti, Ala sos (Buğday unu, şeker, mısır nişastası, süt kreması, krem şanti).",
+          "allergenInfo": "Gluten, süt ürünleri, yumurta, soya içerir.",
+          "storage": "+4° ile +6° arasında buzdolabında muhafaza ediniz. Direkt güneş ışığından koruyunuz ve oda sıcaklığında uzun süre bekletmeyiniz.",
+          "servingSuggestion": "Enfes lezzetini ve dokusunu tam anlamıyla deneyimlemek için, tüketimden önce 10-15 dakika oda sıcaklığında dinlendirmeniz tavsiye edilir.",
+          "longTermStorage": "Muhafaza: -18° derin dondurucuda saklayınız.\n\nHazırlık: Tüketmeden önce +4° buzdolabında 8-12 saat çözündürünüz.\n\nUyarı: Çözündürülen ürünü tekrar dondurmayınız. \nÇözündükten sonra buzdolabında saklayarak 2 gün içinde tüketiniz.",
+          "portion": "Tek Kişilik",
+          "weight": "210 gram",
+          "delivery": "",
+          "packaging": ""
+        }
+      },
       "editorial": {
         "story": {
           "title": "",
@@ -185,7 +453,9 @@
             ""
           ]
         }
-      }
+      },
+      "allergenInfo": "Gluten, süt ürünleri, yumurta, soya içerir.",
+      "portion": "Tek Kişilik"
     }
   }
 }

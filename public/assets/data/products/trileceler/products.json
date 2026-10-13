@@ -3,13 +3,13 @@
   "categoryId": "trileceler",
   "products": [
     {
-      "code": "600-03-01",
-      "key": "600-03-01-ahududulu-trilece",
+      "code": "700-01-01",
+      "key": "700-01-01-ahududulu-trilece",
       "url": "urunler/trileceler/trilece/ahududulu-trilece.html",
       "currency": "TRY",
       "images": [],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "trileceler",
       "subcategoryId": "trileceler/trilece",
       "editorial": [
@@ -24,16 +24,29 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "700-01-01",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": []
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-03-01-ahududulu-trilece"
+      ]
     },
     {
-      "code": "600-03-02",
-      "key": "600-03-02-fistikli-ala-trilece",
+      "code": "700-01-02",
+      "key": "700-01-02-fistikli-ala-trilece",
       "url": "urunler/trileceler/trilece/fistikli-ala-trilece.html",
       "currency": "TRY",
       "images": [],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "trileceler",
       "subcategoryId": "trileceler/trilece",
       "editorial": [
@@ -48,16 +61,29 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "700-01-02",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": []
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-03-02-fistikli-ala-trilece"
+      ]
     },
     {
-      "code": "600-03-03",
-      "key": "600-03-03-kahveli-trilece",
+      "code": "700-01-03",
+      "key": "700-01-03-kahveli-trilece",
       "url": "urunler/trileceler/trilece/kahveli-trilece.html",
       "currency": "TRY",
       "images": [],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "trileceler",
       "subcategoryId": "trileceler/trilece",
       "editorial": [
@@ -72,16 +98,29 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "700-01-03",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": []
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-03-03-kahveli-trilece"
+      ]
     },
     {
-      "code": "600-03-04",
-      "key": "600-03-04-karamelli-trilece",
+      "code": "700-01-04",
+      "key": "700-01-04-karamelli-trilece",
       "url": "urunler/trileceler/trilece/karamelli-trilece.html",
       "currency": "TRY",
       "images": [],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "trileceler",
       "subcategoryId": "trileceler/trilece",
       "editorial": [
@@ -96,16 +135,29 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "700-01-04",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": []
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-03-04-karamelli-trilece"
+      ]
     },
     {
-      "code": "600-03-05",
-      "key": "600-03-05-safranli-trilece",
+      "code": "700-01-05",
+      "key": "700-01-05-safranli-trilece",
       "url": "urunler/trileceler/trilece/safranli-trilece.html",
       "currency": "TRY",
       "images": [],
       "stock": null,
-      "onlineSale": null,
+      "onlineSale": false,
       "categoryId": "trileceler",
       "subcategoryId": "trileceler/trilece",
       "editorial": [
@@ -120,7 +172,20 @@
           "image": ""
         }
       ],
-      "variants": []
+      "variants": [
+        {
+          "code": "porsiyon",
+          "sku": "700-01-05",
+          "stock": null,
+          "onlineSale": false,
+          "commonMarket": true,
+          "images": []
+        }
+      ],
+      "commonMarket": true,
+      "legacyKeys": [
+        "600-03-05-safranli-trilece"
+      ]
     }
   ]
 }

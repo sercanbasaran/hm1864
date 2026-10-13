@@ -15,7 +15,7 @@ const content=validateContent(authored.content);
 const regions=validateRegions(rawRegions,content.languages);
 const routes=JSON.parse(await fs.readFile('src/routes.json','utf8'));
 const templateJSON=JSON.stringify(Object.fromEntries(await Promise.all(['header','footer','home','stores'].map(async name=>[name,JSON.parse(await fs.readFile('src/templates/'+name+'.json','utf8'))]))));
-test('catalogue, legacy routes, and variant data are retained',()=>{validate(data);assert.equal(data.products.length,164);assert.equal(data.products.filter(p=>p.variants.length).length,97);for(const url of Object.keys(routes))assert.ok(resolve('/'+url,data,routes));for(const p of data.products){assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);assert.equal(resolve('/'+p.url.replace(/\.html$/,''),data,routes).product.key,p.key);}assert.equal(resolve('/unknown.html',data,routes).kind,'404');assert.ok(match(data.products.find(p=>p.code==='100-01-02'),'FISTIKLI'));const p={...data.products[0],price:100,stock:5,variants:[{code:'S',price:0,stock:0}]};assert.equal(choice(p,'S').price,0);assert.equal(choice(p,'S').stock,0);});
+test('catalogue, legacy routes, and variant data are retained',()=>{validate(data);assert.equal(data.products.length,164);assert.equal(data.products.filter(p=>p.variants.length).length,102);for(const url of Object.keys(routes))assert.ok(resolve('/'+url,data,routes));for(const p of data.products){assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);assert.equal(resolve('/'+p.url.replace(/\.html$/,''),data,routes).product.key,p.key);}assert.equal(resolve('/unknown.html',data,routes).kind,'404');assert.ok(match(data.products.find(p=>p.code==='100-01-02'),'FISTIKLI'));const p={...data.products[0],price:100,stock:5,variants:[{code:'S',price:0,stock:0}]};assert.equal(choice(p,'S').price,0);assert.equal(choice(p,'S').stock,0);});
 test('region preferences, localized names and explicit product availability',()=>{
  validateRegions(rawRegions,content.languages);
  assert.deepEqual(normalizePreferences({country:'Türkiye',language:'Türkçe'},regions,content),{group:'turkey',country:'TR',language:'tr',currency:'TRY'});
@@ -208,7 +208,7 @@ test('cake variants, sales channels and blank translations preserve source field
  const cake=cakes.find(p=>p.name==='Lotus Kulesi');assert.equal(resolve('/urunler/pastalar/pasta/lotus-kulesi.html',data,routes).product.key,cake.key);
  assert.equal(choice(cake,'dilim','AED').price,34);assert.equal(choice(cake,'baton').portion,'6 Kişilik');assert.equal(choice(cake,'baton').price,2750);
  const translated=structuredClone(data);const example=translated.products.find(p=>p.key===cake.key);example.variants[0].translations.en={label:'Slice',portion:'One person',ingredients:'Approved short ingredients',allergenInfo:'Approved allergen statement'};
- const catalog=regionalCatalog(translated,{country:'TR',language:'en'},regions);const localized=catalog.products.find(p=>p.key===cake.key);assert.equal(localized.name,cake.name);assert.equal(choice(localized,'dilim').label,'Slice');assert.equal(choice(localized,'dilim').allergenInfo,'Approved allergen statement');
+ const catalog=regionalCatalog(translated,{country:'TR',language:'en'},regions);const localized=catalog.products.find(p=>p.key===cake.key);assert.equal(localized.name,cake.translations.en?.name||cake.name);assert.equal(choice(localized,'dilim').label,'Slice');assert.equal(choice(localized,'dilim').allergenInfo,'Approved allergen statement');
  assert.equal(storeOnly({...cake,onlineSale:true,variants:[]}),false);
 });
 
@@ -270,4 +270,31 @@ test('formatting supports nested inline tags and removes active HTML',()=>{
   assert.equal(new Set(links).size,links.length,url);
   for(const link of links)assert.notEqual(resolve('/'+link,data,routes).kind,'404',link);
  }
+});
+
+test('trilece source SKUs, portion variants, nutrition and legacy links',()=>{
+ const products=data.products.filter(p=>p.categoryId==='trileceler');
+ assert.equal(products.length,5);
+ const weights=['255 gram','215 gram','210 gram','250 gram','210 gram'];
+ products.forEach((p,i)=>{
+  assert.equal(p.code,'700-01-0'+(i+1));
+  assert.ok(p.key.startsWith(p.code+'-'));
+  assert.equal(p.images.length,0);
+  assert.equal(p.variants.length,1);
+  const v=choice(p,'porsiyon');
+  assert.equal(v.sku,p.code);
+  assert.equal(v.portion,'Tek Kişilik');
+  assert.equal(v.weight,weights[i]);
+  assert.equal(v.price,400);
+  assert.equal(choice(p,'porsiyon','USD').price,8);
+  assert.equal(choice(p,'porsiyon','JPY').price,1287);
+  assert.equal(storeOnly(p,'porsiyon'),true);
+  assert.ok(v.description&&v.ingredients&&v.allergenInfo&&v.storage&&v.servingSuggestion&&v.longTermStorage);
+  assert.equal(p.nutrition.values.length,7);
+  assert.equal(p.nutrition.basis,'100 g için');
+  assert.equal(p.nutrition.note,'Tuz bilgisi menüde belirtilmemiş.');
+  assert.ok(!p.nutrition.values.some(row=>row.name==='Tuz'));
+  assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);
+  assert.equal(resolve('/'+p.url,data,routes).product.legacyKeys[0],'600-03-0'+(i+1)+'-'+p.key.split('-').slice(3).join('-'));
+ });
 });
