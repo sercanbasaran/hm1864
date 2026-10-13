@@ -3,32 +3,69 @@
   "language": "pt",
   "products": {
     "700-01-01-ahududulu-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe de framboesa",
+      "description": "Uma festa de sabores de framboesa com a maestria de Hafız Mustafa 1864.",
+      "ingredients": "bolo trileçe, calda de leite, molho de framboesa.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "272,9 kcal / 1.141,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "13,1",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidratos",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Fibras",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 272,9 kcal / 1.141,8 kJ; Gorduras 19,2 g; Gorduras saturadas 13,1 g; Carboidratos 22,1 g; Açúcares 13,8 g; Fibras 0,4 g; Proteínas 4,1 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar descansar em temperatura ambiente por 10-15 minutos antes do consumo.",
+      "storage": "Conservar na geladeira entre +4° e +6°. Proteger da luz solar direta e não deixar por muito tempo em temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a -18°.\n\n<strong>Preparo</strong>\nDescongelar na geladeira a +4° por 8-12 horas antes do consumo.\n\n<strong>Aviso</strong>\nNão congelar novamente produtos descongelados. Após descongelar, manter na geladeira e consumir em até 2 dias.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "255 gramas",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porção",
+          "description": "Uma festa de sabores de framboesa com a maestria de Hafız Mustafa 1864.",
+          "ingredients": "bolo trileçe, calda de leite, molho de framboesa.",
+          "allergenInfo": "<strong>Aviso sobre alérgenos</strong>\nContém glúten, produtos lácteos, ovos, soja e sulfitos.\n<small>Pode conter traços de frutos de casca rija (avelãs, pistaches, nozes, amêndoas), soja e gergelim, pois são processados na mesma linha de produção.</small>",
+          "storage": "Conservar na geladeira entre +4° e +6°. Proteger da luz solar direta e não deixar por muito tempo em temperatura ambiente.",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar descansar em temperatura ambiente por 10-15 minutos antes do consumo.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a -18°.\n\n<strong>Preparo</strong>\nDescongelar na geladeira a +4° por 8-12 horas antes do consumo.\n\n<strong>Aviso</strong>\nNão congelar novamente produtos descongelados. Após descongelar, manter na geladeira e consumir em até 2 dias.",
+          "portion": "Para uma pessoa",
+          "weight": "255 gramas",
           "delivery": "",
           "packaging": ""
         }
@@ -53,36 +90,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Aviso sobre alérgenos</strong>\nContém glúten, produtos lácteos, ovos, soja e sulfitos.\n<small>Pode conter traços de frutos de casca rija (avelãs, pistaches, nozes, amêndoas), soja e gergelim, pois são processados na mesma linha de produção.</small>",
+      "portion": "Para uma pessoa"
     },
     "700-01-02-fistikli-ala-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe Ala de pistache",
+      "description": "Um toque de molho Ala em um sabor vindo dos Bálcãs.",
+      "ingredients": "bolo trileçe, calda de leite, chantilly, pistaches de Antep, molho Ala.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "298,3 kcal / 1.248,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "22,7",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "13,9",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidratos",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "12,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibras",
+            "value": "1,0",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "5,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 298,3 kcal / 1.248,1 kJ; Gorduras 22,7 g; Gorduras saturadas 13,9 g; Carboidratos 18,4 g; Açúcares 12,4 g; Fibras 1,0 g; Proteínas 5,2 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar descansar em temperatura ambiente por 10-15 minutos antes do consumo.",
+      "storage": "Conservar na geladeira entre +4° e +6°. Proteger da luz solar direta e não deixar por muito tempo em temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a -18°.\n\n<strong>Preparo</strong>\nDescongelar na geladeira a +4° por 8-12 horas antes do consumo.\n\n<strong>Aviso</strong>\nNão congelar novamente produtos descongelados. Após descongelar, manter na geladeira e consumir em até 2 dias.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "215 gramas",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porção",
+          "description": "Um toque de molho Ala em um sabor vindo dos Bálcãs.",
+          "ingredients": "bolo trileçe, calda de leite, chantilly, pistaches de Antep, molho Ala.",
+          "allergenInfo": "<strong>Aviso sobre alérgenos</strong>\nContém glúten, ovos e produtos lácteos.\n<small>Pode conter traços de frutos de casca rija (avelãs, pistaches, nozes, amêndoas), soja e gergelim, pois são processados na mesma linha de produção.</small>",
+          "storage": "Conservar na geladeira entre +4° e +6°. Proteger da luz solar direta e não deixar por muito tempo em temperatura ambiente.",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar descansar em temperatura ambiente por 10-15 minutos antes do consumo.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a -18°.\n\n<strong>Preparo</strong>\nDescongelar na geladeira a +4° por 8-12 horas antes do consumo.\n\n<strong>Aviso</strong>\nNão congelar novamente produtos descongelados. Após descongelar, manter na geladeira e consumir em até 2 dias.",
+          "portion": "Para uma pessoa",
+          "weight": "215 gramas",
           "delivery": "",
           "packaging": ""
         }
@@ -107,36 +181,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Aviso sobre alérgenos</strong>\nContém glúten, produtos lácteos, frutos de casca rija (pistaches), ovos e soja.\n<small>Pode conter traços de frutos de casca rija (avelãs, pistaches, nozes, amêndoas), soja e gergelim, pois são processados na mesma linha de produção.</small>",
+      "portion": "Para uma pessoa"
     },
     "700-01-03-kahveli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe de café",
+      "description": "Uma festa de sabores irresistível com a maestria de Hafız Mustafa 1864.",
+      "ingredients": "bolo trileçe, calda de leite, chantilly, café, molho Ala.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "273,6 kcal / 1.144,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "13,6",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidratos",
+            "value": "16,7",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "12,3",
+            "unit": "g"
+          },
+          {
+            "name": "Fibras",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 273,6 kcal / 1.144,7 kJ; Gorduras 20,8 g; Gorduras saturadas 13,6 g; Carboidratos 16,7 g; Açúcares 12,3 g; Fibras 0,3 g; Proteínas 4,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar descansar em temperatura ambiente por 10-15 minutos antes do consumo.",
+      "storage": "Conservar na geladeira entre +4° e +6°. Proteger da luz solar direta e não deixar por muito tempo em temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a -18°.\n\n<strong>Preparo</strong>\nDescongelar na geladeira a +4° por 8-12 horas antes do consumo.\n\n<strong>Aviso</strong>\nNão congelar novamente produtos descongelados. Após descongelar, manter na geladeira e consumir em até 2 dias.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 gramas",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porção",
+          "description": "Uma festa de sabores irresistível com a maestria de Hafız Mustafa 1864.",
+          "ingredients": "bolo trileçe, calda de leite, chantilly, café (Nescafe), molho Ala.",
+          "allergenInfo": "<strong>Aviso sobre alérgenos</strong>\nGluten, süt ürünleri, yumurta, soya \n<small>Pode conter traços de frutos de casca rija (avelãs, pistaches, nozes, amêndoas), soja e gergelim, pois são processados na mesma linha de produção.</small>",
+          "storage": "Conservar na geladeira entre +4° e +6°. Proteger da luz solar direta e não deixar por muito tempo em temperatura ambiente.",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar descansar em temperatura ambiente por 10-15 minutos antes do consumo.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a -18°.\n\n<strong>Preparo</strong>\nDescongelar na geladeira a +4° por 8-12 horas antes do consumo.\n\n<strong>Aviso</strong>\nNão congelar novamente produtos descongelados. Após descongelar, manter na geladeira e consumir em até 2 dias.",
+          "portion": "Para uma pessoa",
+          "weight": "210 gramas",
           "delivery": "",
           "packaging": ""
         }
@@ -161,36 +272,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Aviso sobre alérgenos</strong>\nContém glúten, produtos lácteos, ovos e soja.\n<small>Pode conter traços de frutos de casca rija (avelãs, pistaches, nozes, amêndoas), soja e gergelim, pois são processados na mesma linha de produção.</small>",
+      "portion": "Para uma pessoa"
     },
     "700-01-04-karamelli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe de caramelo",
+      "description": "Uma festa de sabores de caramelo vinda dos Bálcãs.",
+      "ingredients": "bolo trileçe, calda de leite, geleia de caramelo.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "274,7 kcal / 1.149,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "14,2",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidratos",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibras",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,4",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 274,7 kcal / 1.149,3 kJ; Gorduras 20,8 g; Gorduras saturadas 14,2 g; Carboidratos 17,5 g; Açúcares 11,7 g; Fibras 0,2 g; Proteínas 4,4 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar descansar em temperatura ambiente por 10-15 minutos antes do consumo.",
+      "storage": "Conservar na geladeira entre +4° e +6°. Proteger da luz solar direta e não deixar por muito tempo em temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a -18°.\n\n<strong>Preparo</strong>\nDescongelar na geladeira a +4° por 8-12 horas antes do consumo.\n\n<strong>Aviso</strong>\nNão congelar novamente produtos descongelados. Após descongelar, manter na geladeira e consumir em até 2 dias.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "250 gramas",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porção",
+          "description": "Uma festa de sabores de caramelo vinda dos Bálcãs.",
+          "ingredients": "bolo trileçe, calda de leite, geleia de caramelo.",
+          "allergenInfo": "<strong>Aviso sobre alérgenos</strong>\nContém glúten, produtos lácteos, ovos, soja e sulfitos.\n<small>Pode conter traços de frutos de casca rija (avelãs, pistaches, nozes, amêndoas), soja e gergelim, pois são processados na mesma linha de produção.</small>",
+          "storage": "Conservar na geladeira entre +4° e +6°. Proteger da luz solar direta e não deixar por muito tempo em temperatura ambiente.",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar descansar em temperatura ambiente por 10-15 minutos antes do consumo.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a -18°.\n\n<strong>Preparo</strong>\nDescongelar na geladeira a +4° por 8-12 horas antes do consumo.\n\n<strong>Aviso</strong>\nNão congelar novamente produtos descongelados. Após descongelar, manter na geladeira e consumir em até 2 dias.",
+          "portion": "Para uma pessoa",
+          "weight": "250 gramas",
           "delivery": "",
           "packaging": ""
         }
@@ -215,36 +363,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Aviso sobre alérgenos</strong>\nContém glúten, produtos lácteos, ovos, soja e sulfitos.\n<small>Pode conter traços de frutos de casca rija (avelãs, pistaches, nozes, amêndoas), soja e gergelim, pois são processados na mesma linha de produção.</small>",
+      "portion": "Para uma pessoa"
     },
     "700-01-05-safranli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe de açafrão",
+      "description": "Uma criação gourmet com açafrão e a maestria de Hafız Mustafa 1864.",
+      "ingredients": "bolo trileçe, calda de leite, açafrão, chantilly, molho Ala.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "239,3 kcal / 1.001,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Gorduras",
+            "value": "17,9",
+            "unit": "g"
+          },
+          {
+            "name": "Gorduras saturadas",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidratos",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "Açúcares",
+            "value": "10,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibras",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energia 239,3 kcal / 1.001,2 kJ; Gorduras 17,9 g; Gorduras saturadas 12,2 g; Carboidratos 15,7 g; Açúcares 10,4 g; Fibras 0,2 g; Proteínas 3,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar descansar em temperatura ambiente por 10-15 minutos antes do consumo.",
+      "storage": "Conservar na geladeira entre +4° e +6°. Proteger da luz solar direta e não deixar por muito tempo em temperatura ambiente.",
+      "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a -18°.\n\n<strong>Preparo</strong>\nDescongelar na geladeira a +4° por 8-12 horas antes do consumo.\n\n<strong>Aviso</strong>\nNão congelar novamente produtos descongelados. Após descongelar, manter na geladeira e consumir em até 2 dias.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 gramas",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porção",
+          "description": "Uma criação gourmet com açafrão e a maestria de Hafız Mustafa 1864.",
+          "ingredients": "bolo trileçe, calda de leite, açafrão, chantilly, molho Ala.",
+          "allergenInfo": "<strong>Aviso sobre alérgenos</strong>\nContém glúten, produtos lácteos, ovos e soja.\n<small>Pode conter traços de frutos de casca rija (avelãs, pistaches, nozes, amêndoas), soja e gergelim, pois são processados na mesma linha de produção.</small>",
+          "storage": "Conservar na geladeira entre +4° e +6°. Proteger da luz solar direta e não deixar por muito tempo em temperatura ambiente.",
+          "servingSuggestion": "Para apreciar plenamente o sabor e a textura, deixar descansar em temperatura ambiente por 10-15 minutos antes do consumo.",
+          "longTermStorage": "<strong>Conservação</strong>\nConservar no congelador a -18°.\n\n<strong>Preparo</strong>\nDescongelar na geladeira a +4° por 8-12 horas antes do consumo.\n\n<strong>Aviso</strong>\nNão congelar novamente produtos descongelados. Após descongelar, manter na geladeira e consumir em até 2 dias.",
+          "portion": "Para uma pessoa",
+          "weight": "210 gramas",
           "delivery": "",
           "packaging": ""
         }
@@ -269,8 +454,8 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Aviso sobre alérgenos</strong>\nContém glúten, produtos lácteos, ovos e soja.\n<small>Pode conter traços de frutos de casca rija (avelãs, pistaches, nozes, amêndoas), soja e gergelim, pois são processados na mesma linha de produção.</small>",
+      "portion": "Para uma pessoa"
     }
   }
 }

@@ -3,32 +3,69 @@
   "language": "fr",
   "products": {
     "700-01-01-ahududulu-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe à la framboise",
+      "description": "Une fête de saveurs à la framboise, signée par le savoir-faire de Hafız Mustafa 1864.",
+      "ingredients": "gâteau trileçe, sirop de lait, sauce à la framboise.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "272,9 kcal / 1.141,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "13,1",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "4,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 272,9 kcal / 1.141,8 kJ; Matières grasses 19,2 g; Acides gras saturés 13,1 g; Glucides 22,1 g; Sucres 13,8 g; Fibres 0,4 g; Protéines 4,1 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "255 grammes",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Portion",
+          "description": "Une fête de saveurs à la framboise, signée par le savoir-faire de Hafız Mustafa 1864.",
+          "ingredients": "gâteau trileçe, sirop de lait, sauce à la framboise.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient du gluten, des produits laitiers, des œufs, du soja et des sulfites.\n<small>Peut contenir des traces de fruits à coque (noisettes, pistaches, noix, amandes), de soja et de sésame, car ils sont traités sur la même ligne de production.</small>",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "255 grammes",
           "delivery": "",
           "packaging": ""
         }
@@ -53,36 +90,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient du gluten, des produits laitiers, des œufs, du soja et des sulfites.\n<small>Peut contenir des traces de fruits à coque (noisettes, pistaches, noix, amandes), de soja et de sésame, car ils sont traités sur la même ligne de production.</small>",
+      "portion": "Pour une personne"
     },
     "700-01-02-fistikli-ala-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe Ala à la pistache",
+      "description": "Une touche de sauce Ala sublime une saveur venue des Balkans.",
+      "ingredients": "gâteau trileçe, sirop de lait, crème fouettée, pistaches d’Antep, sauce Ala.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "298,3 kcal / 1.248,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "22,7",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "13,9",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "12,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "1,0",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "5,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 298,3 kcal / 1.248,1 kJ; Matières grasses 22,7 g; Acides gras saturés 13,9 g; Glucides 18,4 g; Sucres 12,4 g; Fibres 1,0 g; Protéines 5,2 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "215 grammes",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Portion",
+          "description": "Une touche de sauce Ala sublime une saveur venue des Balkans.",
+          "ingredients": "gâteau trileçe, sirop de lait, crème fouettée, pistaches d’Antep, sauce Ala.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient du gluten, des œufs et des produits laitiers.\n<small>Peut contenir des traces de fruits à coque (noisettes, pistaches, noix, amandes), de soja et de sésame, car ils sont traités sur la même ligne de production.</small>",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "215 grammes",
           "delivery": "",
           "packaging": ""
         }
@@ -107,36 +181,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient du gluten, des produits laitiers, des fruits à coque (pistaches), des œufs et du soja.\n<small>Peut contenir des traces de fruits à coque (noisettes, pistaches, noix, amandes), de soja et de sésame, car ils sont traités sur la même ligne de production.</small>",
+      "portion": "Pour une personne"
     },
     "700-01-03-kahveli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe au café",
+      "description": "Une fête de saveurs irrésistible, signée par le savoir-faire de Hafız Mustafa 1864.",
+      "ingredients": "gâteau trileçe, sirop de lait, crème fouettée, café, sauce Ala.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "273,6 kcal / 1.144,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "13,6",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "16,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "12,3",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "4,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 273,6 kcal / 1.144,7 kJ; Matières grasses 20,8 g; Acides gras saturés 13,6 g; Glucides 16,7 g; Sucres 12,3 g; Fibres 0,3 g; Protéines 4,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 grammes",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Portion",
+          "description": "Une fête de saveurs irrésistible, signée par le savoir-faire de Hafız Mustafa 1864.",
+          "ingredients": "gâteau trileçe, sirop de lait, crème fouettée, café (Nescafe), sauce Ala.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nGluten, süt ürünleri, yumurta, soya \n<small>Peut contenir des traces de fruits à coque (noisettes, pistaches, noix, amandes), de soja et de sésame, car ils sont traités sur la même ligne de production.</small>",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "210 grammes",
           "delivery": "",
           "packaging": ""
         }
@@ -161,36 +272,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient du gluten, des produits laitiers, des œufs et du soja.\n<small>Peut contenir des traces de fruits à coque (noisettes, pistaches, noix, amandes), de soja et de sésame, car ils sont traités sur la même ligne de production.</small>",
+      "portion": "Pour une personne"
     },
     "700-01-04-karamelli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe au caramel",
+      "description": "Une fête de saveurs au caramel venue des Balkans.",
+      "ingredients": "gâteau trileçe, sirop de lait, gelée de caramel.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "274,7 kcal / 1.149,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "14,2",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "4,4",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 274,7 kcal / 1.149,3 kJ; Matières grasses 20,8 g; Acides gras saturés 14,2 g; Glucides 17,5 g; Sucres 11,7 g; Fibres 0,2 g; Protéines 4,4 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "250 grammes",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Portion",
+          "description": "Une fête de saveurs au caramel venue des Balkans.",
+          "ingredients": "gâteau trileçe, sirop de lait, gelée de caramel.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient du gluten, des produits laitiers, des œufs, du soja et des sulfites.\n<small>Peut contenir des traces de fruits à coque (noisettes, pistaches, noix, amandes), de soja et de sésame, car ils sont traités sur la même ligne de production.</small>",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "250 grammes",
           "delivery": "",
           "packaging": ""
         }
@@ -215,36 +363,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient du gluten, des produits laitiers, des œufs, du soja et des sulfites.\n<small>Peut contenir des traces de fruits à coque (noisettes, pistaches, noix, amandes), de soja et de sésame, car ils sont traités sur la même ligne de production.</small>",
+      "portion": "Pour une personne"
     },
     "700-01-05-safranli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe au safran",
+      "description": "Une création gourmande au safran, signée par le savoir-faire de Hafız Mustafa 1864.",
+      "ingredients": "gâteau trileçe, sirop de lait, safran, crème fouettée, sauce Ala.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Pour 100 g</strong>",
+        "values": [
+          {
+            "name": "Énergie",
+            "value": "239,3 kcal / 1.001,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Matières grasses",
+            "value": "17,9",
+            "unit": "g"
+          },
+          {
+            "name": "Acides gras saturés",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "Glucides",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sucres",
+            "value": "10,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibres",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protéines",
+            "value": "3,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "Pour 100 g: Énergie 239,3 kcal / 1.001,2 kJ; Matières grasses 17,9 g; Acides gras saturés 12,2 g; Glucides 15,7 g; Sucres 10,4 g; Fibres 0,2 g; Protéines 3,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+      "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+      "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 grammes",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Portion",
+          "description": "Une création gourmande au safran, signée par le savoir-faire de Hafız Mustafa 1864.",
+          "ingredients": "gâteau trileçe, sirop de lait, safran, crème fouettée, sauce Ala.",
+          "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient du gluten, des produits laitiers, des œufs et du soja.\n<small>Peut contenir des traces de fruits à coque (noisettes, pistaches, noix, amandes), de soja et de sésame, car ils sont traités sur la même ligne de production.</small>",
+          "storage": "Conserver au réfrigérateur entre +4° et +6°. Protéger de la lumière directe du soleil et ne pas laisser longtemps à température ambiante.",
+          "servingSuggestion": "Pour apprécier pleinement sa saveur et sa texture, laisser reposer à température ambiante pendant 10-15 minutes avant consommation.",
+          "longTermStorage": "<strong>Conservation</strong>\nConserver au congélateur à -18°.\n\n<strong>Préparation</strong>\nDécongeler au réfrigérateur à +4° pendant 8-12 heures avant consommation.\n\n<strong>Attention</strong>\nNe pas recongeler un produit décongelé. Après décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "portion": "Pour une personne",
+          "weight": "210 grammes",
           "delivery": "",
           "packaging": ""
         }
@@ -269,8 +454,8 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Avertissement concernant les allergènes</strong>\nContient du gluten, des produits laitiers, des œufs et du soja.\n<small>Peut contenir des traces de fruits à coque (noisettes, pistaches, noix, amandes), de soja et de sésame, car ils sont traités sur la même ligne de production.</small>",
+      "portion": "Pour une personne"
     }
   }
 }

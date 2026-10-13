@@ -3,32 +3,69 @@
   "language": "it",
   "products": {
     "700-01-01-ahududulu-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe al lampone",
+      "description": "Una festa di sapori al lampone, realizzata con la maestria di Hafız Mustafa 1864.",
+      "ingredients": "torta trileçe, sciroppo di latte, salsa al lampone.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "272,9 kcal / 1.141,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "13,1",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "4,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 272,9 kcal / 1.141,8 kJ; Grassi 19,2 g; Grassi saturi 13,1 g; Carboidrati 22,1 g; Zuccheri 13,8 g; Fibre 0,4 g; Proteine 4,1 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "255 grammi",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porzione",
+          "description": "Una festa di sapori al lampone, realizzata con la maestria di Hafız Mustafa 1864.",
+          "ingredients": "torta trileçe, sciroppo di latte, salsa al lampone.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene glutine, prodotti lattiero-caseari, uova, soia e solfiti.\n<small>Può contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo, poiché lavorati sulla stessa linea di produzione.</small>",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "255 grammi",
           "delivery": "",
           "packaging": ""
         }
@@ -53,36 +90,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene glutine, prodotti lattiero-caseari, uova, soia e solfiti.\n<small>Può contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo, poiché lavorati sulla stessa linea di produzione.</small>",
+      "portion": "Per una persona"
     },
     "700-01-02-fistikli-ala-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe Ala al pistacchio",
+      "description": "Un tocco di salsa Ala su un sapore proveniente dai Balcani.",
+      "ingredients": "torta trileçe, sciroppo di latte, panna montata, pistacchi di Antep, salsa Ala.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "298,3 kcal / 1.248,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "22,7",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "13,9",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "12,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "1,0",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "5,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 298,3 kcal / 1.248,1 kJ; Grassi 22,7 g; Grassi saturi 13,9 g; Carboidrati 18,4 g; Zuccheri 12,4 g; Fibre 1,0 g; Proteine 5,2 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "215 grammi",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porzione",
+          "description": "Un tocco di salsa Ala su un sapore proveniente dai Balcani.",
+          "ingredients": "torta trileçe, sciroppo di latte, panna montata, pistacchi di Antep, salsa Ala.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene glutine, uova e prodotti lattiero-caseari.\n<small>Può contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo, poiché lavorati sulla stessa linea di produzione.</small>",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "215 grammi",
           "delivery": "",
           "packaging": ""
         }
@@ -107,36 +181,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene glutine, prodotti lattiero-caseari, frutta a guscio (pistacchi), uova e soia.\n<small>Può contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo, poiché lavorati sulla stessa linea di produzione.</small>",
+      "portion": "Per una persona"
     },
     "700-01-03-kahveli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe al caffè",
+      "description": "Una festa di sapori irresistibile, realizzata con la maestria di Hafız Mustafa 1864.",
+      "ingredients": "torta trileçe, sciroppo di latte, panna montata, caffè, salsa Ala.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "273,6 kcal / 1.144,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "13,6",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "16,7",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "12,3",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "4,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 273,6 kcal / 1.144,7 kJ; Grassi 20,8 g; Grassi saturi 13,6 g; Carboidrati 16,7 g; Zuccheri 12,3 g; Fibre 0,3 g; Proteine 4,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 grammi",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porzione",
+          "description": "Una festa di sapori irresistibile, realizzata con la maestria di Hafız Mustafa 1864.",
+          "ingredients": "torta trileçe, sciroppo di latte, panna montata, caffè (Nescafe), salsa Ala.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nGluten, süt ürünleri, yumurta, soya \n<small>Può contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo, poiché lavorati sulla stessa linea di produzione.</small>",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "210 grammi",
           "delivery": "",
           "packaging": ""
         }
@@ -161,36 +272,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene glutine, prodotti lattiero-caseari, uova e soia.\n<small>Può contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo, poiché lavorati sulla stessa linea di produzione.</small>",
+      "portion": "Per una persona"
     },
     "700-01-04-karamelli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe al caramello",
+      "description": "Una festa di sapori al caramello proveniente dai Balcani.",
+      "ingredients": "torta trileçe, sciroppo di latte, gelatina al caramello.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "274,7 kcal / 1.149,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "14,2",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "4,4",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 274,7 kcal / 1.149,3 kJ; Grassi 20,8 g; Grassi saturi 14,2 g; Carboidrati 17,5 g; Zuccheri 11,7 g; Fibre 0,2 g; Proteine 4,4 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "250 grammi",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porzione",
+          "description": "Una festa di sapori al caramello proveniente dai Balcani.",
+          "ingredients": "torta trileçe, sciroppo di latte, gelatina al caramello.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene glutine, prodotti lattiero-caseari, uova, soia e solfiti.\n<small>Può contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo, poiché lavorati sulla stessa linea di produzione.</small>",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "250 grammi",
           "delivery": "",
           "packaging": ""
         }
@@ -215,36 +363,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene glutine, prodotti lattiero-caseari, uova, soia e solfiti.\n<small>Può contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo, poiché lavorati sulla stessa linea di produzione.</small>",
+      "portion": "Per una persona"
     },
     "700-01-05-safranli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe allo zafferano",
+      "description": "Una creazione gourmet allo zafferano, realizzata con la maestria di Hafız Mustafa 1864.",
+      "ingredients": "torta trileçe, sciroppo di latte, zafferano, panna montata, salsa Ala.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energia",
+            "value": "239,3 kcal / 1.001,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grassi",
+            "value": "17,9",
+            "unit": "g"
+          },
+          {
+            "name": "Grassi saturi",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "Carboidrati",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "Zuccheri",
+            "value": "10,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibre",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteine",
+            "value": "3,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energia 239,3 kcal / 1.001,2 kJ; Grassi 17,9 g; Grassi saturi 12,2 g; Carboidrati 15,7 g; Zuccheri 10,4 g; Fibre 0,2 g; Proteine 3,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+      "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 grammi",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porzione",
+          "description": "Una creazione gourmet allo zafferano, realizzata con la maestria di Hafız Mustafa 1864.",
+          "ingredients": "torta trileçe, sciroppo di latte, zafferano, panna montata, salsa Ala.",
+          "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene glutine, prodotti lattiero-caseari, uova e soia.\n<small>Può contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo, poiché lavorati sulla stessa linea di produzione.</small>",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per lunghi periodi.",
+          "servingSuggestion": "Per apprezzarne pienamente il sapore e la consistenza, lasciare riposare a temperatura ambiente per 10-15 minuti prima del consumo.",
+          "longTermStorage": "<strong>Conservazione</strong>\nConservare nel congelatore a -18°.\n\n<strong>Preparazione</strong>\nScongelare in frigorifero a +4° per 8-12 ore prima del consumo.\n\n<strong>Avvertenza</strong>\nNon ricongelare i prodotti scongelati. Dopo lo scongelamento, conservare in frigorifero e consumare entro 2 giorni.",
+          "portion": "Per una persona",
+          "weight": "210 grammi",
           "delivery": "",
           "packaging": ""
         }
@@ -269,8 +454,8 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Avvertenza sugli allergeni</strong>\nContiene glutine, prodotti lattiero-caseari, uova e soia.\n<small>Può contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo, poiché lavorati sulla stessa linea di produzione.</small>",
+      "portion": "Per una persona"
     }
   }
 }

@@ -3,32 +3,69 @@
   "language": "zh-CN",
   "products": {
     "700-01-01-ahududulu-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "覆盆子三奶蛋糕",
+      "description": "覆盆子风味盛宴，融合Hafız Mustafa 1864的精湛工艺。",
+      "ingredients": "三奶蛋糕胚、牛奶糖浆、覆盆子酱。",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "272,9 kcal / 1.141,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "13,1",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 272,9 kcal / 1.141,8 kJ; 脂肪 19,2 g; 饱和脂肪 13,1 g; 碳水化合物 22,1 g; 糖 13,8 g; 膳食纤维 0,4 g; 蛋白质 4,1 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "255 克",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "份",
+          "description": "覆盆子风味盛宴，融合Hafız Mustafa 1864的精湛工艺。",
+          "ingredients": "三奶蛋糕胚、牛奶糖浆、覆盆子酱。",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含麸质、乳制品、鸡蛋、大豆和亚硫酸盐。\n<small>由于使用同一生产线加工，可能含有微量树坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "255 克",
           "delivery": "",
           "packaging": ""
         }
@@ -53,36 +90,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>过敏原提示</strong>\n含麸质、乳制品、鸡蛋、大豆和亚硫酸盐。\n<small>由于使用同一生产线加工，可能含有微量树坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "portion": "单人份"
     },
     "700-01-02-fistikli-ala-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "开心果Ala三奶蛋糕",
+      "description": "以Ala酱为来自巴尔干的美味增添独特风味。",
+      "ingredients": "三奶蛋糕胚、牛奶糖浆、打发奶油、安泰普开心果、Ala酱。",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "298,3 kcal / 1.248,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "22,7",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "13,9",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "12,4",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "1,0",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "5,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 298,3 kcal / 1.248,1 kJ; 脂肪 22,7 g; 饱和脂肪 13,9 g; 碳水化合物 18,4 g; 糖 12,4 g; 膳食纤维 1,0 g; 蛋白质 5,2 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "215 克",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "份",
+          "description": "以Ala酱为来自巴尔干的美味增添独特风味。",
+          "ingredients": "三奶蛋糕胚、牛奶糖浆、打发奶油、安泰普开心果、Ala酱。",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含麸质、鸡蛋和乳制品。\n<small>由于使用同一生产线加工，可能含有微量树坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "215 克",
           "delivery": "",
           "packaging": ""
         }
@@ -107,36 +181,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>过敏原提示</strong>\n含麸质、乳制品、树坚果（开心果）、鸡蛋和大豆。\n<small>由于使用同一生产线加工，可能含有微量树坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "portion": "单人份"
     },
     "700-01-03-kahveli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "咖啡三奶蛋糕",
+      "description": "令人难以抗拒的风味盛宴，融合Hafız Mustafa 1864的精湛工艺。",
+      "ingredients": "三奶蛋糕胚、牛奶糖浆、打发奶油、咖啡、Ala酱。",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "273,6 kcal / 1.144,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "13,6",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "16,7",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "12,3",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 273,6 kcal / 1.144,7 kJ; 脂肪 20,8 g; 饱和脂肪 13,6 g; 碳水化合物 16,7 g; 糖 12,3 g; 膳食纤维 0,3 g; 蛋白质 4,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 克",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "份",
+          "description": "令人难以抗拒的风味盛宴，融合Hafız Mustafa 1864的精湛工艺。",
+          "ingredients": "三奶蛋糕胚、牛奶糖浆、打发奶油、咖啡 (Nescafe)、Ala酱。",
+          "allergenInfo": "<strong>过敏原提示</strong>\nGluten, süt ürünleri, yumurta, soya \n<small>由于使用同一生产线加工，可能含有微量树坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "210 克",
           "delivery": "",
           "packaging": ""
         }
@@ -161,36 +272,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>过敏原提示</strong>\n含麸质、乳制品、鸡蛋和大豆。\n<small>由于使用同一生产线加工，可能含有微量树坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "portion": "单人份"
     },
     "700-01-04-karamelli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "焦糖三奶蛋糕",
+      "description": "来自巴尔干的焦糖风味盛宴。",
+      "ingredients": "三奶蛋糕胚、牛奶糖浆、焦糖果冻。",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "274,7 kcal / 1.149,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "14,2",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "4,4",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 274,7 kcal / 1.149,3 kJ; 脂肪 20,8 g; 饱和脂肪 14,2 g; 碳水化合物 17,5 g; 糖 11,7 g; 膳食纤维 0,2 g; 蛋白质 4,4 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "250 克",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "份",
+          "description": "来自巴尔干的焦糖风味盛宴。",
+          "ingredients": "三奶蛋糕胚、牛奶糖浆、焦糖果冻。",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含麸质、乳制品、鸡蛋、大豆和亚硫酸盐。\n<small>由于使用同一生产线加工，可能含有微量树坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "250 克",
           "delivery": "",
           "packaging": ""
         }
@@ -215,36 +363,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>过敏原提示</strong>\n含麸质、乳制品、鸡蛋、大豆和亚硫酸盐。\n<small>由于使用同一生产线加工，可能含有微量树坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "portion": "单人份"
     },
     "700-01-05-safranli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "藏红花三奶蛋糕",
+      "description": "藏红花的精致风味组合，融合Hafız Mustafa 1864的精湛工艺。",
+      "ingredients": "三奶蛋糕胚、牛奶糖浆、藏红花、打发奶油、Ala酱。",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>每100 g</strong>",
+        "values": [
+          {
+            "name": "能量",
+            "value": "239,3 kcal / 1.001,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂肪",
+            "value": "17,9",
+            "unit": "g"
+          },
+          {
+            "name": "饱和脂肪",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "碳水化合物",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "糖",
+            "value": "10,4",
+            "unit": "g"
+          },
+          {
+            "name": "膳食纤维",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "蛋白质",
+            "value": "3,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "每100 g: 能量 239,3 kcal / 1.001,2 kJ; 脂肪 17,9 g; 饱和脂肪 12,2 g; 碳水化合物 15,7 g; 糖 10,4 g; 膳食纤维 0,2 g; 蛋白质 3,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+      "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+      "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 克",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "份",
+          "description": "藏红花的精致风味组合，融合Hafız Mustafa 1864的精湛工艺。",
+          "ingredients": "三奶蛋糕胚、牛奶糖浆、藏红花、打发奶油、Ala酱。",
+          "allergenInfo": "<strong>过敏原提示</strong>\n含麸质、乳制品、鸡蛋和大豆。\n<small>由于使用同一生产线加工，可能含有微量树坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+          "storage": "请在+4°至+6°的冰箱内冷藏。避免阳光直射，不要长时间置于室温下。",
+          "servingSuggestion": "为充分品味其美味与口感，建议食用前在室温下静置10-15分钟。",
+          "longTermStorage": "<strong>储存</strong>\n请在-18°的冷冻柜中保存。\n\n<strong>食用准备</strong>\n食用前在+4°的冰箱内解冻8-12小时。\n\n<strong>注意</strong>\n解冻后的产品请勿再次冷冻。解冻后请冷藏，并在2天内食用。",
+          "portion": "单人份",
+          "weight": "210 克",
           "delivery": "",
           "packaging": ""
         }
@@ -269,8 +454,8 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>过敏原提示</strong>\n含麸质、乳制品、鸡蛋和大豆。\n<small>由于使用同一生产线加工，可能含有微量树坚果（榛子、开心果、核桃、杏仁）、大豆和芝麻。</small>",
+      "portion": "单人份"
     }
   }
 }

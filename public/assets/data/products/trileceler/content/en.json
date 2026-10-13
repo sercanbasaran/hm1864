@@ -3,32 +3,69 @@
   "language": "en",
   "products": {
     "700-01-01-ahududulu-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Raspberry Trileçe",
+      "description": "A feast of raspberry flavor, crafted with the mastery of Hafız Mustafa 1864.",
+      "ingredients": "Trileçe cake, milk syrup, raspberry sauce.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "272,9 kcal / 1.141,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated fat",
+            "value": "13,1",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 272,9 kcal / 1.141,8 kJ; Fat 19,2 g; Saturated fat 13,1 g; Carbohydrate 22,1 g; Sugar 13,8 g; Fiber 0,4 g; Protein 4,1 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°. Protect from direct sunlight and do not leave at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products. After thawing, keep refrigerated and consume within 2 days.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "255 grams",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Portion",
+          "description": "A feast of raspberry flavor, crafted with the mastery of Hafız Mustafa 1864.",
+          "ingredients": "Trileçe cake, milk syrup, raspberry sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, dairy products, eggs, soy and sulfites.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy and sesame, as they are processed on the same production line.</small>",
+          "storage": "Store in the refrigerator between +4° and +6°. Protect from direct sunlight and do not leave at room temperature for long periods.",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, let it rest at room temperature for 10-15 minutes before consumption.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products. After thawing, keep refrigerated and consume within 2 days.",
+          "portion": "Single Serving",
+          "weight": "255 grams",
           "delivery": "",
           "packaging": ""
         }
@@ -53,36 +90,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, dairy products, eggs, soy and sulfites.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy and sesame, as they are processed on the same production line.</small>",
+      "portion": "Single Serving"
     },
     "700-01-02-fistikli-ala-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Pistachio Ala Trileçe",
+      "description": "A touch of Ala sauce on a flavor from the Balkans.",
+      "ingredients": "Trileçe cake, milk syrup, whipped cream, Antep pistachios, Ala sauce.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "298,3 kcal / 1.248,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "22,7",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated fat",
+            "value": "13,9",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "12,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "1,0",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "5,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 298,3 kcal / 1.248,1 kJ; Fat 22,7 g; Saturated fat 13,9 g; Carbohydrate 18,4 g; Sugar 12,4 g; Fiber 1,0 g; Protein 5,2 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°. Protect from direct sunlight and do not leave at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products. After thawing, keep refrigerated and consume within 2 days.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "215 grams",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Portion",
+          "description": "A touch of Ala sauce on a flavor from the Balkans.",
+          "ingredients": "Trileçe cake, milk syrup, whipped cream, Antep pistachios, Ala sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, eggs and dairy products.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy and sesame, as they are processed on the same production line.</small>",
+          "storage": "Store in the refrigerator between +4° and +6°. Protect from direct sunlight and do not leave at room temperature for long periods.",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, let it rest at room temperature for 10-15 minutes before consumption.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products. After thawing, keep refrigerated and consume within 2 days.",
+          "portion": "Single Serving",
+          "weight": "215 grams",
           "delivery": "",
           "packaging": ""
         }
@@ -107,36 +181,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, dairy products, tree nuts (pistachios), eggs and soy.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy and sesame, as they are processed on the same production line.</small>",
+      "portion": "Single Serving"
     },
     "700-01-03-kahveli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Coffee Trileçe",
+      "description": "An irresistible feast of flavor, crafted with the mastery of Hafız Mustafa 1864.",
+      "ingredients": "Trileçe cake, milk syrup, whipped cream, coffee, Ala sauce.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "273,6 kcal / 1.144,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated fat",
+            "value": "13,6",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "16,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "12,3",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 273,6 kcal / 1.144,7 kJ; Fat 20,8 g; Saturated fat 13,6 g; Carbohydrate 16,7 g; Sugar 12,3 g; Fiber 0,3 g; Protein 4,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°. Protect from direct sunlight and do not leave at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products. After thawing, keep refrigerated and consume within 2 days.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 grams",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Portion",
+          "description": "An irresistible feast of flavor, crafted with the mastery of Hafız Mustafa 1864.",
+          "ingredients": "Trileçe cake, milk syrup, whipped cream, coffee (Nescafe), Ala sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nGluten, süt ürünleri, yumurta, soya \n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy and sesame, as they are processed on the same production line.</small>",
+          "storage": "Store in the refrigerator between +4° and +6°. Protect from direct sunlight and do not leave at room temperature for long periods.",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, let it rest at room temperature for 10-15 minutes before consumption.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products. After thawing, keep refrigerated and consume within 2 days.",
+          "portion": "Single Serving",
+          "weight": "210 grams",
           "delivery": "",
           "packaging": ""
         }
@@ -161,36 +272,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, dairy products, eggs and soy.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy and sesame, as they are processed on the same production line.</small>",
+      "portion": "Single Serving"
     },
     "700-01-04-karamelli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Caramel Trileçe",
+      "description": "A feast of caramel flavor from the Balkans.",
+      "ingredients": "Trileçe cake, milk syrup, caramel jelly.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "274,7 kcal / 1.149,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated fat",
+            "value": "14,2",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "4,4",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 274,7 kcal / 1.149,3 kJ; Fat 20,8 g; Saturated fat 14,2 g; Carbohydrate 17,5 g; Sugar 11,7 g; Fiber 0,2 g; Protein 4,4 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°. Protect from direct sunlight and do not leave at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products. After thawing, keep refrigerated and consume within 2 days.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "250 grams",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Portion",
+          "description": "A feast of caramel flavor from the Balkans.",
+          "ingredients": "Trileçe cake, milk syrup, caramel jelly.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, dairy products, eggs, soy and sulfites.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy and sesame, as they are processed on the same production line.</small>",
+          "storage": "Store in the refrigerator between +4° and +6°. Protect from direct sunlight and do not leave at room temperature for long periods.",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, let it rest at room temperature for 10-15 minutes before consumption.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products. After thawing, keep refrigerated and consume within 2 days.",
+          "portion": "Single Serving",
+          "weight": "250 grams",
           "delivery": "",
           "packaging": ""
         }
@@ -215,36 +363,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, dairy products, eggs, soy and sulfites.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy and sesame, as they are processed on the same production line.</small>",
+      "portion": "Single Serving"
     },
     "700-01-05-safranli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Saffron Trileçe",
+      "description": "A gourmet saffron blend, crafted with the mastery of Hafız Mustafa 1864.",
+      "ingredients": "Trileçe cake, milk syrup, saffron, whipped cream, Ala sauce.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Per 100 g</strong>",
+        "values": [
+          {
+            "name": "Energy",
+            "value": "239,3 kcal / 1.001,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Fat",
+            "value": "17,9",
+            "unit": "g"
+          },
+          {
+            "name": "Saturated fat",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "Carbohydrate",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "Sugar",
+            "value": "10,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fiber",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Protein",
+            "value": "3,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "Per 100 g: Energy 239,3 kcal / 1.001,2 kJ; Fat 17,9 g; Saturated fat 12,2 g; Carbohydrate 15,7 g; Sugar 10,4 g; Fiber 0,2 g; Protein 3,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "To fully experience its exquisite flavor and texture, let it rest at room temperature for 10-15 minutes before consumption.",
+      "storage": "Store in the refrigerator between +4° and +6°. Protect from direct sunlight and do not leave at room temperature for long periods.",
+      "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products. After thawing, keep refrigerated and consume within 2 days.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 grams",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Portion",
+          "description": "A gourmet saffron blend, crafted with the mastery of Hafız Mustafa 1864.",
+          "ingredients": "Trileçe cake, milk syrup, saffron, whipped cream, Ala sauce.",
+          "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, dairy products, eggs and soy.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy and sesame, as they are processed on the same production line.</small>",
+          "storage": "Store in the refrigerator between +4° and +6°. Protect from direct sunlight and do not leave at room temperature for long periods.",
+          "servingSuggestion": "To fully experience its exquisite flavor and texture, let it rest at room temperature for 10-15 minutes before consumption.",
+          "longTermStorage": "<strong>Storage</strong>\nStore in a -18° deep freezer.\n\n<strong>Preparation</strong>\nThaw in the refrigerator at +4° for 8-12 hours before consumption.\n\n<strong>Warning</strong>\nDo not refreeze thawed products. After thawing, keep refrigerated and consume within 2 days.",
+          "portion": "Single Serving",
+          "weight": "210 grams",
           "delivery": "",
           "packaging": ""
         }
@@ -269,8 +454,8 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Allergen Warning</strong>\nContains gluten, dairy products, eggs and soy.\n<small>May contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soy and sesame, as they are processed on the same production line.</small>",
+      "portion": "Single Serving"
     }
   }
 }

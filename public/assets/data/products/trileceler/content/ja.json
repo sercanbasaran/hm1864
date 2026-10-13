@@ -3,32 +3,69 @@
   "language": "ja",
   "products": {
     "700-01-01-ahududulu-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "ラズベリーのトリレチェ",
+      "description": "ラズベリーの風味が広がる、Hafız Mustafa 1864の匠の技による一品。",
+      "ingredients": "トリレチェのスポンジケーキ、ミルクシロップ、ラズベリーソース。",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "272,9 kcal / 1.141,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "13,1",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 272,9 kcal / 1.141,8 kJ; 脂質 19,2 g; 飽和脂肪 13,1 g; 炭水化物 22,1 g; 糖類 13,8 g; 食物繊維 0,4 g; たんぱく質 4,1 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "255 グラム",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "ポーション",
+          "description": "ラズベリーの風味が広がる、Hafız Mustafa 1864の匠の技による一品。",
+          "ingredients": "トリレチェのスポンジケーキ、ミルクシロップ、ラズベリーソース。",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\nグルテン、乳製品、卵、大豆、亜硫酸塩を含みます。\n<small>同じ製造ラインで加工されるため、木の実類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ごまが微量含まれる場合があります。</small>",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "255 グラム",
           "delivery": "",
           "packaging": ""
         }
@@ -53,36 +90,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\nグルテン、乳製品、卵、大豆、亜硫酸塩を含みます。\n<small>同じ製造ラインで加工されるため、木の実類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ごまが微量含まれる場合があります。</small>",
+      "portion": "1人分"
     },
     "700-01-02-fistikli-ala-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "ピスタチオとAlaソースのトリレチェ",
+      "description": "バルカン地方から伝わる味わいにAlaソースを添えました。",
+      "ingredients": "トリレチェのスポンジケーキ、ミルクシロップ、ホイップクリーム、アンテプ産ピスタチオ、Alaソース。",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "298,3 kcal / 1.248,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "22,7",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "13,9",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "12,4",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "1,0",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "5,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 298,3 kcal / 1.248,1 kJ; 脂質 22,7 g; 飽和脂肪 13,9 g; 炭水化物 18,4 g; 糖類 12,4 g; 食物繊維 1,0 g; たんぱく質 5,2 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "215 グラム",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "ポーション",
+          "description": "バルカン地方から伝わる味わいにAlaソースを添えました。",
+          "ingredients": "トリレチェのスポンジケーキ、ミルクシロップ、ホイップクリーム、アンテプ産ピスタチオ、Alaソース。",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\nグルテン、卵、乳製品を含みます。\n<small>同じ製造ラインで加工されるため、木の実類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ごまが微量含まれる場合があります。</small>",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "215 グラム",
           "delivery": "",
           "packaging": ""
         }
@@ -107,36 +181,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\nグルテン、乳製品、木の実類（ピスタチオ）、卵、大豆を含みます。\n<small>同じ製造ラインで加工されるため、木の実類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ごまが微量含まれる場合があります。</small>",
+      "portion": "1人分"
     },
     "700-01-03-kahveli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "コーヒーのトリレチェ",
+      "description": "心惹かれる豊かな味わいと、Hafız Mustafa 1864の匠の技。",
+      "ingredients": "トリレチェのスポンジケーキ、ミルクシロップ、ホイップクリーム、コーヒー、Alaソース。",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "273,6 kcal / 1.144,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "13,6",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "16,7",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "12,3",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 273,6 kcal / 1.144,7 kJ; 脂質 20,8 g; 飽和脂肪 13,6 g; 炭水化物 16,7 g; 糖類 12,3 g; 食物繊維 0,3 g; たんぱく質 4,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 グラム",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "ポーション",
+          "description": "心惹かれる豊かな味わいと、Hafız Mustafa 1864の匠の技。",
+          "ingredients": "トリレチェのスポンジケーキ、ミルクシロップ、ホイップクリーム、コーヒー (Nescafe)、Alaソース。",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\nGluten, süt ürünleri, yumurta, soya \n<small>同じ製造ラインで加工されるため、木の実類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ごまが微量含まれる場合があります。</small>",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "210 グラム",
           "delivery": "",
           "packaging": ""
         }
@@ -161,36 +272,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\nグルテン、乳製品、卵、大豆を含みます。\n<small>同じ製造ラインで加工されるため、木の実類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ごまが微量含まれる場合があります。</small>",
+      "portion": "1人分"
     },
     "700-01-04-karamelli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "キャラメルのトリレチェ",
+      "description": "バルカン地方から伝わるキャラメル風味の一品。",
+      "ingredients": "トリレチェのスポンジケーキ、ミルクシロップ、キャラメルゼリー。",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "274,7 kcal / 1.149,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "14,2",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "4,4",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 274,7 kcal / 1.149,3 kJ; 脂質 20,8 g; 飽和脂肪 14,2 g; 炭水化物 17,5 g; 糖類 11,7 g; 食物繊維 0,2 g; たんぱく質 4,4 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "250 グラム",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "ポーション",
+          "description": "バルカン地方から伝わるキャラメル風味の一品。",
+          "ingredients": "トリレチェのスポンジケーキ、ミルクシロップ、キャラメルゼリー。",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\nグルテン、乳製品、卵、大豆、亜硫酸塩を含みます。\n<small>同じ製造ラインで加工されるため、木の実類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ごまが微量含まれる場合があります。</small>",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "250 グラム",
           "delivery": "",
           "packaging": ""
         }
@@ -215,36 +363,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\nグルテン、乳製品、卵、大豆、亜硫酸塩を含みます。\n<small>同じ製造ラインで加工されるため、木の実類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ごまが微量含まれる場合があります。</small>",
+      "portion": "1人分"
     },
     "700-01-05-safranli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "サフランのトリレチェ",
+      "description": "サフランの贅沢な風味と、Hafız Mustafa 1864の匠の技。",
+      "ingredients": "トリレチェのスポンジケーキ、ミルクシロップ、サフラン、ホイップクリーム、Alaソース。",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>100 g当たり</strong>",
+        "values": [
+          {
+            "name": "エネルギー",
+            "value": "239,3 kcal / 1.001,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "脂質",
+            "value": "17,9",
+            "unit": "g"
+          },
+          {
+            "name": "飽和脂肪",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "炭水化物",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "糖類",
+            "value": "10,4",
+            "unit": "g"
+          },
+          {
+            "name": "食物繊維",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "たんぱく質",
+            "value": "3,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "100 g当たり: エネルギー 239,3 kcal / 1.001,2 kJ; 脂質 17,9 g; 飽和脂肪 12,2 g; 炭水化物 15,7 g; 糖類 10,4 g; 食物繊維 0,2 g; たんぱく質 3,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+      "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+      "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 グラム",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "ポーション",
+          "description": "サフランの贅沢な風味と、Hafız Mustafa 1864の匠の技。",
+          "ingredients": "トリレチェのスポンジケーキ、ミルクシロップ、サフラン、ホイップクリーム、Alaソース。",
+          "allergenInfo": "<strong>アレルゲンに関する注意</strong>\nグルテン、乳製品、卵、大豆を含みます。\n<small>同じ製造ラインで加工されるため、木の実類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ごまが微量含まれる場合があります。</small>",
+          "storage": "+4°から+6°の冷蔵庫で保存してください。直射日光を避け、室温で長時間放置しないでください。",
+          "servingSuggestion": "味わいと食感を十分にお楽しみいただくため、お召し上がりになる前に室温で10-15分ほど置くことをおすすめします。",
+          "longTermStorage": "<strong>保存</strong>\n-18°の冷凍庫で保存してください。\n\n<strong>準備</strong>\nお召し上がりになる前に、+4°の冷蔵庫で8-12時間かけて解凍してください。\n\n<strong>注意</strong>\n解凍した商品は再冷凍しないでください。解凍後は冷蔵庫で保存し、2日以内にお召し上がりください。",
+          "portion": "1人分",
+          "weight": "210 グラム",
           "delivery": "",
           "packaging": ""
         }
@@ -269,8 +454,8 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>アレルゲンに関する注意</strong>\nグルテン、乳製品、卵、大豆を含みます。\n<small>同じ製造ラインで加工されるため、木の実類（ヘーゼルナッツ、ピスタチオ、クルミ、アーモンド）、大豆、ごまが微量含まれる場合があります。</small>",
+      "portion": "1人分"
     }
   }
 }

@@ -3,32 +3,69 @@
   "language": "es",
   "products": {
     "700-01-01-ahududulu-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe de frambuesa",
+      "description": "Un festín de sabor a frambuesa con la maestría de Hafız Mustafa 1864.",
+      "ingredients": "bizcocho de trileçe, almíbar de leche, salsa de frambuesa.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "272,9 kcal / 1.141,8 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "19,2",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "13,1",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "22,1",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "13,8",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,4",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,1",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 272,9 kcal / 1.141,8 kJ; Grasas 19,2 g; Grasas saturadas 13,1 g; Hidratos de carbono 22,1 g; Azúcares 13,8 g; Fibra 0,4 g; Proteínas 4,1 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "255 gramos",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porción",
+          "description": "Un festín de sabor a frambuesa con la maestría de Hafız Mustafa 1864.",
+          "ingredients": "bizcocho de trileçe, almíbar de leche, salsa de frambuesa.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene gluten, productos lácteos, huevos, soja y sulfitos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, ya que se procesan en la misma línea de producción.</small>",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "255 gramos",
           "delivery": "",
           "packaging": ""
         }
@@ -53,36 +90,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene gluten, productos lácteos, huevos, soja y sulfitos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, ya que se procesan en la misma línea de producción.</small>",
+      "portion": "Para una persona"
     },
     "700-01-02-fistikli-ala-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe Ala de pistacho",
+      "description": "Un toque de salsa Ala en un sabor procedente de los Balcanes.",
+      "ingredients": "bizcocho de trileçe, almíbar de leche, nata montada, pistachos de Antep, salsa Ala.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "298,3 kcal / 1.248,1 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "22,7",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "13,9",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "18,4",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "12,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "1,0",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "5,2",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 298,3 kcal / 1.248,1 kJ; Grasas 22,7 g; Grasas saturadas 13,9 g; Hidratos de carbono 18,4 g; Azúcares 12,4 g; Fibra 1,0 g; Proteínas 5,2 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "215 gramos",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porción",
+          "description": "Un toque de salsa Ala en un sabor procedente de los Balcanes.",
+          "ingredients": "bizcocho de trileçe, almíbar de leche, nata montada, pistachos de Antep, salsa Ala.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene gluten, huevos y productos lácteos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, ya que se procesan en la misma línea de producción.</small>",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "215 gramos",
           "delivery": "",
           "packaging": ""
         }
@@ -107,36 +181,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene gluten, productos lácteos, frutos de cáscara (pistachos), huevos y soja.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, ya que se procesan en la misma línea de producción.</small>",
+      "portion": "Para una persona"
     },
     "700-01-03-kahveli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe de café",
+      "description": "Un festín de sabor irresistible con la maestría de Hafız Mustafa 1864.",
+      "ingredients": "bizcocho de trileçe, almíbar de leche, nata montada, café, salsa Ala.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "273,6 kcal / 1.144,7 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "13,6",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "16,7",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "12,3",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,3",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 273,6 kcal / 1.144,7 kJ; Grasas 20,8 g; Grasas saturadas 13,6 g; Hidratos de carbono 16,7 g; Azúcares 12,3 g; Fibra 0,3 g; Proteínas 4,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 gramos",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porción",
+          "description": "Un festín de sabor irresistible con la maestría de Hafız Mustafa 1864.",
+          "ingredients": "bizcocho de trileçe, almíbar de leche, nata montada, café (Nescafe), salsa Ala.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nGluten, süt ürünleri, yumurta, soya \n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, ya que se procesan en la misma línea de producción.</small>",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "210 gramos",
           "delivery": "",
           "packaging": ""
         }
@@ -161,36 +272,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene gluten, productos lácteos, huevos y soja.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, ya que se procesan en la misma línea de producción.</small>",
+      "portion": "Para una persona"
     },
     "700-01-04-karamelli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe de caramelo",
+      "description": "Un festín de sabor a caramelo procedente de los Balcanes.",
+      "ingredients": "bizcocho de trileçe, almíbar de leche, gelatina de caramelo.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "274,7 kcal / 1.149,3 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "20,8",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "14,2",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "17,5",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "11,7",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "4,4",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 274,7 kcal / 1.149,3 kJ; Grasas 20,8 g; Grasas saturadas 14,2 g; Hidratos de carbono 17,5 g; Azúcares 11,7 g; Fibra 0,2 g; Proteínas 4,4 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "250 gramos",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porción",
+          "description": "Un festín de sabor a caramelo procedente de los Balcanes.",
+          "ingredients": "bizcocho de trileçe, almíbar de leche, gelatina de caramelo.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene gluten, productos lácteos, huevos, soja y sulfitos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, ya que se procesan en la misma línea de producción.</small>",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "250 gramos",
           "delivery": "",
           "packaging": ""
         }
@@ -215,36 +363,73 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene gluten, productos lácteos, huevos, soja y sulfitos.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, ya que se procesan en la misma línea de producción.</small>",
+      "portion": "Para una persona"
     },
     "700-01-05-safranli-trilece": {
-      "name": "",
-      "description": "",
-      "ingredients": "",
+      "name": "Trileçe de azafrán",
+      "description": "Una creación gourmet con azafrán y la maestría de Hafız Mustafa 1864.",
+      "ingredients": "bizcocho de trileçe, almíbar de leche, azafrán, nata montada, salsa Ala.",
       "allergens": null,
       "nutrition": {
-        "basis": "",
-        "values": [],
+        "basis": "<strong>Por 100 g</strong>",
+        "values": [
+          {
+            "name": "Energía",
+            "value": "239,3 kcal / 1.001,2 kJ",
+            "unit": ""
+          },
+          {
+            "name": "Grasas",
+            "value": "17,9",
+            "unit": "g"
+          },
+          {
+            "name": "Grasas saturadas",
+            "value": "12,2",
+            "unit": "g"
+          },
+          {
+            "name": "Hidratos de carbono",
+            "value": "15,7",
+            "unit": "g"
+          },
+          {
+            "name": "Azúcares",
+            "value": "10,4",
+            "unit": "g"
+          },
+          {
+            "name": "Fibra",
+            "value": "0,2",
+            "unit": "g"
+          },
+          {
+            "name": "Proteínas",
+            "value": "3,8",
+            "unit": "g"
+          }
+        ],
+        "summary": "Por 100 g: Energía 239,3 kcal / 1.001,2 kJ; Grasas 17,9 g; Grasas saturadas 12,2 g; Hidratos de carbono 15,7 g; Azúcares 10,4 g; Fibra 0,2 g; Proteínas 3,8 g.",
         "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
+      "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+      "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+      "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
       "delivery": "",
       "packaging": "",
-      "weight": "",
+      "weight": "210 gramos",
       "variants": {
         "porsiyon": {
-          "label": "",
-          "description": "",
-          "ingredients": "",
-          "allergenInfo": "",
-          "storage": "",
-          "servingSuggestion": "",
-          "longTermStorage": "",
-          "portion": "",
-          "weight": null,
+          "label": "Porción",
+          "description": "Una creación gourmet con azafrán y la maestría de Hafız Mustafa 1864.",
+          "ingredients": "bizcocho de trileçe, almíbar de leche, azafrán, nata montada, salsa Ala.",
+          "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene gluten, productos lácteos, huevos y soja.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, ya que se procesan en la misma línea de producción.</small>",
+          "storage": "Conservar en el frigorífico entre +4° y +6°. Proteger de la luz solar directa y no dejar durante mucho tiempo a temperatura ambiente.",
+          "servingSuggestion": "Para disfrutar plenamente de su sabor y textura, dejar reposar a temperatura ambiente durante 10-15 minutos antes de consumir.",
+          "longTermStorage": "<strong>Conservación</strong>\nConservar en el congelador a -18°.\n\n<strong>Preparación</strong>\nDescongelar en el frigorífico a +4° durante 8-12 horas antes de consumir.\n\n<strong>Advertencia</strong>\nNo volver a congelar un producto descongelado. Tras descongelarlo, mantener refrigerado y consumir en un plazo de 2 días.",
+          "portion": "Para una persona",
+          "weight": "210 gramos",
           "delivery": "",
           "packaging": ""
         }
@@ -269,8 +454,8 @@
           ]
         }
       },
-      "allergenInfo": "",
-      "portion": ""
+      "allergenInfo": "<strong>Advertencia sobre alérgenos</strong>\nContiene gluten, productos lácteos, huevos y soja.\n<small>Puede contener trazas de frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, ya que se procesan en la misma línea de producción.</small>",
+      "portion": "Para una persona"
     }
   }
 }

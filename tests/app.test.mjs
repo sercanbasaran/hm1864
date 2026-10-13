@@ -291,8 +291,8 @@ test('trilece source SKUs, portion variants, nutrition and legacy links',()=>{
   assert.equal(storeOnly(p,'porsiyon'),true);
   assert.ok(v.description&&v.ingredients&&v.allergenInfo&&v.storage&&v.servingSuggestion&&v.longTermStorage);
   assert.equal(p.nutrition.values.length,7);
-  assert.equal(p.nutrition.basis,'100 g için');
-  assert.equal(p.nutrition.note,'Tuz bilgisi menüde belirtilmemiş.');
+  assert.equal(p.nutrition.basis,'<strong>100 g için</strong>');
+  assert.equal(p.nutrition.note,'');
   assert.ok(!p.nutrition.values.some(row=>row.name==='Tuz'));
   assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);
   assert.equal(resolve('/'+p.url,data,routes).product.legacyKeys[0],'600-03-0'+(i+1)+'-'+p.key.split('-').slice(3).join('-'));
@@ -318,5 +318,38 @@ test('structured nutrition translations validate, localize and retain fallback',
   const product=catalog.products.find(p=>p.key===cake.key);
   const translated=cake.key===product.key?data.products.find(p=>p.key===cake.key).translations?.[language]?.nutrition:null;
   if(translated?.values.length)assert.deepEqual(product.nutrition.values,translated.values,language);
+ }
+});
+
+test('trilece locales mirror Turkish schema, preserve values, markup and blank fields',async()=>{
+ const folder='public/assets/data/products/trileceler/content/';
+ const source=JSON.parse(await fs.readFile(folder+'tr.json','utf8'));
+ const compare=(base,localized,path)=>{
+  if(base===null){assert.equal(localized,null,path);return;}
+  if(Array.isArray(base)){assert.ok(Array.isArray(localized),path);assert.equal(localized.length,base.length,path);base.forEach((item,i)=>compare(item,localized[i],path+'/'+i));return;}
+  if(typeof base==='object'){assert.deepEqual(Object.keys(localized).sort(),Object.keys(base).sort(),path);for(const key of Object.keys(base))compare(base[key],localized[key],path+'/'+key);return;}
+  if(typeof base==='string'){
+   assert.equal(typeof localized,'string',path);
+   if(!base)assert.equal(localized,'',path);
+   else assert.ok(localized.trim(),path);
+   assert.deepEqual(localized.match(/<\/?(?:strong|small|br|b)>/g)||[],base.match(/<\/?(?:strong|small|br|b)>/g)||[],path);
+   if(/\/nutrition\/values\/\d+\/(value|unit)$/.test(path))assert.equal(localized,base,path);
+   return;
+  }
+  assert.equal(localized,base,path);
+ };
+ for(const language of content.languages.map(l=>l.code).filter(l=>l!=='tr')){
+  const file=JSON.parse(await fs.readFile(folder+language+'.json','utf8'));
+  assert.equal(file.language,language);
+  compare(source.products,file.products,language);
+  const catalog=regionalCatalog(data,{country:'TR',language},regions);
+  for(const [key,text] of Object.entries(file.products)){
+   const product=catalog.products.find(p=>p.key===key);
+   assert.equal(product.name,text.name);
+   assert.equal(choice(product,'porsiyon').ingredients,text.variants.porsiyon.ingredients);
+   assert.equal(choice(product,'porsiyon').allergenInfo,text.variants.porsiyon.allergenInfo);
+   assert.deepEqual(product.nutrition,text.nutrition);
+   assert.notEqual(text.description,source.products[key].description);
+  }
  }
 });
