@@ -7,7 +7,7 @@
       "key": "700-01-01-ahududulu-trilece",
       "url": "urunler/trileceler/trilece/ahududulu-trilece.html",
       "currency": "TRY",
-      "images": [],
+      "images": ["trileceler/700_0101_01.png"],
       "stock": null,
       "onlineSale": false,
       "categoryId": "trileceler",
@@ -31,7 +31,7 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": ["trileceler/700_0101_01.png"]
         }
       ],
       "commonMarket": true,
@@ -44,7 +44,7 @@
       "key": "700-01-02-fistikli-ala-trilece",
       "url": "urunler/trileceler/trilece/fistikli-ala-trilece.html",
       "currency": "TRY",
-      "images": [],
+      "images": ["trileceler/700_0102_01.png"],
       "stock": null,
       "onlineSale": false,
       "categoryId": "trileceler",
@@ -68,7 +68,7 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": ["trileceler/700_0102_01.png"]
         }
       ],
       "commonMarket": true,
@@ -81,7 +81,7 @@
       "key": "700-01-03-kahveli-trilece",
       "url": "urunler/trileceler/trilece/kahveli-trilece.html",
       "currency": "TRY",
-      "images": [],
+      "images": ["trileceler/700_0103_01.png"],
       "stock": null,
       "onlineSale": false,
       "categoryId": "trileceler",
@@ -105,7 +105,7 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": ["trileceler/700_0103_01.png"]
         }
       ],
       "commonMarket": true,
@@ -118,7 +118,7 @@
       "key": "700-01-04-karamelli-trilece",
       "url": "urunler/trileceler/trilece/karamelli-trilece.html",
       "currency": "TRY",
-      "images": [],
+      "images": ["trileceler/700_0104_01.png"],
       "stock": null,
       "onlineSale": false,
       "categoryId": "trileceler",
@@ -142,7 +142,7 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": ["trileceler/700_0104_01.png"]
         }
       ],
       "commonMarket": true,
@@ -155,7 +155,7 @@
       "key": "700-01-05-safranli-trilece",
       "url": "urunler/trileceler/trilece/safranli-trilece.html",
       "currency": "TRY",
-      "images": [],
+      "images": ["trileceler/700_0105_01.png"],
       "stock": null,
       "onlineSale": false,
       "categoryId": "trileceler",
@@ -179,7 +179,7 @@
           "stock": null,
           "onlineSale": false,
           "commonMarket": true,
-          "images": []
+          "images": ["trileceler/700_0105_01.png"]
         }
       ],
       "commonMarket": true,
