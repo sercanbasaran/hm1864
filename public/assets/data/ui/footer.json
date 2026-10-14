@@ -832,6 +832,22 @@
       "ur": "",
       "fa": "",
       "pt": ""
+    },
+    "ui.courier": {
+      "tr": "Kurye",
+      "en": "Courier",
+      "ar": "التوصيل بواسطة مندوب",
+      "de": "Kurier",
+      "fr": "Coursier",
+      "it": "Corriere",
+      "es": "Mensajería",
+      "ru": "Курьер",
+      "zh-CN": "快递员",
+      "ja": "配送員",
+      "hi": "कूरियर",
+      "ur": "کوریئر",
+      "fa": "پیک",
+      "pt": "Estafeta"
     }
   }
 }

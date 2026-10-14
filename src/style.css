@@ -4517,3 +4517,18 @@ details[open]>summary .disclosure-icon { transform: rotate(180deg); }
     .carousel { grid-auto-columns: 82%; column-gap: 18px; }
   }
 }
+
+/* Compact monochrome payment and delivery marks on the black footer. */
+.footer-col .partner-logos { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 8px; margin: 14px 0 24px; color: #aaa; }
+.partner-logo { display: inline-flex; flex: 0 0 auto; align-items: center; justify-content: center; width: 48px; height: 28px; overflow: hidden; }
+.partner-logo img { display: block; width: 100%; height: 100%; object-fit: contain; filter: brightness(0) invert(1); opacity: .67; }
+.partner-logo--mastercard img { width: 38px; height: 38px; max-width: none; max-height: none; }
+.partner-logo--visa img { width: 42px; height: 42px; max-width: none; max-height: none; }
+.partner-logo--mastercard { width: 38px; }
+.partner-logo--visa, .partner-logo--tabby { width: 42px; }
+.partner-logo--americanexpress { width: 24px; }
+.partner-logo--discover { width: 50px; }
+.partner-logo--discover img { width: 50px; height: 50px; max-width: none; max-height: none; }
+.partner-logo--dhl-ecommerce { width: 92px; }
+.partner-courier { display: inline-flex; flex: 0 0 28px; width: 28px; height: 28px; align-items: center; justify-content: center; color: #aaa; }
+.partner-courier .icon { width: 24px; height: 24px; }

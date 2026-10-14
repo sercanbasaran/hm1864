@@ -570,12 +570,47 @@
                   ]
                 },
                 {
-                  "tag": "p",
+                  "tag": "div",
                   "attrs": {
-                    "class": "partners"
+                    "class": "partners partner-logos shipping-logos"
                   },
                   "children": [
-                    "@text:template.0055"
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "partner-logo partner-logo--dhl-ecommerce"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "src": "assets/images/partners/dhl-ecommerce.svg",
+                            "alt": "DHL eCommerce",
+                            "loading": "lazy",
+                            "decoding": "async"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "partner-courier",
+                        "role": "img",
+                        "aria-label": "@text:ui.courier",
+                        "title": "@text:ui.courier"
+                      },
+                      "children": [
+                        {
+                          "tag": "icon",
+                          "attrs": {
+                            "name": "truck"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
                   ]
                 },
                 {
@@ -586,18 +621,101 @@
                   ]
                 },
                 {
-                  "tag": "p",
+                  "tag": "div",
                   "attrs": {
-                    "class": "partners payments"
+                    "class": "partners payments partner-logos payment-logos"
                   },
                   "children": [
-                    "@text:template.0057",
                     {
-                      "tag": "br",
-                      "attrs": {},
-                      "children": []
+                      "tag": "span",
+                      "attrs": {
+                        "class": "partner-logo partner-logo--mastercard"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "src": "assets/images/partners/mastercard.svg",
+                            "alt": "Mastercard",
+                            "loading": "lazy",
+                            "decoding": "async"
+                          },
+                          "children": []
+                        }
+                      ]
                     },
-                    "@text:template.0058"
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "partner-logo partner-logo--visa"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "src": "assets/images/partners/visa.svg",
+                            "alt": "Visa",
+                            "loading": "lazy",
+                            "decoding": "async"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "partner-logo partner-logo--americanexpress"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "src": "assets/images/partners/americanexpress.svg",
+                            "alt": "American Express",
+                            "loading": "lazy",
+                            "decoding": "async"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "partner-logo partner-logo--discover"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "src": "assets/images/partners/discover.svg",
+                            "alt": "Discover",
+                            "loading": "lazy",
+                            "decoding": "async"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "partner-logo partner-logo--tabby"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attrs": {
+                            "src": "assets/images/partners/tabby.svg",
+                            "alt": "Tabby",
+                            "loading": "lazy",
+                            "decoding": "async"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
                   ]
                 }
               ]
