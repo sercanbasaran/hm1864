@@ -309,3 +309,12 @@ Siparişe özel sözleşme, ödeme ve hesap hizmetleri bu içerik sayfaları tar
 Ortak kart şablonu `src/components/products/ProductCard.jsx` içinde; kategori listeleri ve anasayfa ürün kartları aynı şablonu kullanır. Kategori bazındaki `public/assets/data/products/<kategori>/content/<dil>.json` dosyasında ürünün `description` alanı kısa açıklamayı, `variants.<kod>.label`, `portion`, `weight` ve `description` alanları varyant bilgilerini yönetir. Varyantların yapısı aynı kategorinin `products.json` dosyasından gelir.
 
 Ürün açıklaması kartta en fazla üç, farklı varyant açıklaması iki satır görünür; tam metin JSON’da ve ürün detayında korunur. Ürünle aynı açıklama her varyantta tekrarlanmaz. Boş ve dummy açıklamalar gizlenir; gerçek veri uydurulmaz. Bölge/dil seçimi mevcut katalog çeviri mekanizmasıyla uygulanır. Varyantlar bilgi olarak listelenir; satın alınacak seçenek ürün detayında seçilir.
+
+
+## Yerel Avenir font ailesi
+
+Yüklenen Avenir ailesinin 12 dosyası WOFF2 biçiminde `public/assets/fonts/avenir/` altında bulunur. Font tanımları `src/fonts.css`, uygulama varsayılanı `src/style.css` içindeki `--font` değişkenindedir. Fontlar dış servise ihtiyaç duymadan uygulamadan yüklenir; Roman normal kesimi başlangıç HTML’inde preload edilir.
+
+Normal ve eğik stiller: Light 300, Book 350, Roman/Oblique 400, Medium 500, Heavy 700, Black 900. Mevcut 600 gibi ara ağırlıklar CSS font eşleştirmesiyle en yakın kesimi kullanır. Font paketindeki Türkçe karakterler korunmuştur; Avenir’in kapsamadığı alfabelerde tarayıcının uygun fallback fontu kullanılır.
+
+`LHF Elixir Regular`, `Arial Narrow`, `Impact` veya bağımsız `serif` içeren mevcut font aileleri aynen korunur. Diğer alanlar ortak Avenir değişkenini kullanır. Boyutlar, renkler ve yerleşimler bu güncellemede değiştirilmez.

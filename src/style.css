@@ -1,3 +1,5 @@
+@import "./fonts.css";
+
 /* Hafız Mustafa 1864 | HTML5 + CSS3 | Mockup implementation */
 :root {
   --cherry: #9a0002;
@@ -10,7 +12,7 @@
   --pale: #efefef;
   --white: #fff;
   --header-height: 180px;
-  --font: 'Avenir', 'Avenir Next', 'Segoe UI', Arial, sans-serif
+  --font: 'Avenir', Arial, sans-serif
 }
 
 * {
@@ -3605,7 +3607,7 @@ dialog[open] {
 
 .header-gold {
   width: 100%;
-  font-family: 'Manrope', 'Segoe UI', Arial, sans-serif
+  font-family: var(--font)
 }
 
 .header-gold .header-safe {
@@ -4341,7 +4343,7 @@ button,.button,input[type=submit],input[type=button]{border-radius:3px}
 
 .store-reviews{margin-top:48px;padding-top:28px;border-top:1px solid var(--line)}
 .store-reviews-heading{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}.store-reviews-heading h2{margin:0}
-.google-maps-attribution{font-family:Roboto,sans-serif;font-style:normal;font-weight:400;font-size:14px;letter-spacing:normal;white-space:nowrap;color:#5e5e5e}
+.google-maps-attribution{font-family:var(--font);font-style:normal;font-weight:400;font-size:14px;letter-spacing:normal;white-space:nowrap;color:#5e5e5e}
 .store-review-notice{font-size:13px;color:#666;line-height:1.6}.store-review-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;margin:24px 0}
 .store-review{padding:22px;border:1px solid var(--line);background:#fff}.store-review-author{display:flex;align-items:center;gap:12px}.store-review-author img{width:42px;height:42px;border-radius:50%;object-fit:cover}
 .store-review-text{white-space:pre-wrap;overflow-wrap:anywhere;line-height:1.7}.review-stars{color:var(--gold);letter-spacing:3px}.store-review time{font-size:12px;color:#666}
