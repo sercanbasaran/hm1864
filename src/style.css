@@ -4491,6 +4491,7 @@ details[open]>summary .disclosure-icon { transform: rotate(180deg); }
   .product-grid .product-card-body,
   .carousel .product-card-body {
     display: grid;
+    grid-template-columns: minmax(0, 1fr);
     grid-template-rows: subgrid;
     grid-row: 3 / span 6;
     row-gap: 0;
@@ -4536,3 +4537,37 @@ details[open]>summary .disclosure-icon { transform: rotate(180deg); }
 .footer-social-icons { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 14px 0 0; color: #aaa; }
 .footer-social-icon { display: inline-flex; flex: 0 0 24px; width: 24px; height: 28px; align-items: center; justify-content: center; }
 .footer-social-icon .icon { width: 22px; height: 22px; }
+
+/* Card content must fit its grid track even when a price is unavailable. */
+.product-card,
+.product-card-body,
+.product-card-body > * { min-width: 0; max-width: 100%; }
+.product-card-body > h3,
+.product-card-body .card-meta > span { overflow-wrap: anywhere; }
+.product-card-body .card-meta > span { white-space: normal; }
+
+@media (max-width:767px) {
+  /* Clip the page edge without changing vertical scrolling or sticky layout. */
+  html, body { max-width: 100%; overflow-x: clip; overscroll-behavior-x: none; }
+  .site-header, main, footer { min-width: 0; max-width: 100%; }
+  .header-service button { flex: 1 1 0; }
+  .header-service button > .icon { flex-shrink: 0; }
+  .catalog-tools > div { min-width: 0; max-width: 100%; }
+  .catalog-tools select { max-width: 100%; }
+  .footer-bottom > div { min-width: 0; max-width: 100%; white-space: normal; }
+  .footer-bottom button {
+    min-width: 0;
+    max-width: 100%;
+    margin: 0;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+  .product-card-body > .button { white-space: normal; overflow-wrap: anywhere; }
+  .carousel, .product-gallery, .header-categories .header-safe {
+    overscroll-behavior-x: contain;
+  }
+  /* Safari zooms focused form controls when their text is smaller than 16px. */
+  :is(input, select, textarea):not([type="checkbox"]):not([type="radio"]) {
+    font-size: max(16px, 1em);
+  }
+}
