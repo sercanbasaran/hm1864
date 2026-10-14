@@ -4462,3 +4462,7 @@ details[open]>summary .disclosure-icon { transform: rotate(180deg); }
 @media(prefers-reduced-motion:reduce) { .disclosure-icon { transition: none; } }
 
 .breadcrumb .icon { align-self: center; opacity: .6; }
+
+/* Footer medallion uses its original proportions, independently of the header logo. */
+.brand-footer.footer-medallion { width: 150px; max-width: 100%; height: auto; aspect-ratio: 1444 / 2048; margin-top: 24px; }
+.brand-footer.footer-medallion .asset-loaded img { position: static; inset: auto; width: 100%; height: auto; max-width: 100%; object-fit: contain; }

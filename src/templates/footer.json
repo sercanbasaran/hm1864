@@ -689,7 +689,7 @@
           "tag": "a",
           "attrs": {
             "href": "index.html",
-            "class": "brand brand-footer",
+            "class": "brand brand-footer footer-medallion",
             "aria-label": "@text:template.0004"
           },
           "children": [
@@ -697,33 +697,17 @@
               "tag": "span",
               "attrs": {
                 "class": "media logo-slot",
-                "data-asset": "assets/images/medya/93c34.png"
+                "data-asset": "assets/images/medya/madalyon-logo.png"
               },
               "children": [
                 {
                   "tag": "img",
                   "attrs": {
-                    "src": "assets/images/medya/gorsel-bekleniyor.svg",
+                    "src": "assets/images/medya/madalyon-logo.png",
                     "alt": "@text:template.0066",
                     "loading": "lazy"
                   },
                   "children": []
-                },
-                {
-                  "tag": "span",
-                  "attrs": {
-                    "class": "asset-caption"
-                  },
-                  "children": [
-                    "@text:template.0066",
-                    {
-                      "tag": "small",
-                      "attrs": {},
-                      "children": [
-                        "@text:template.0067"
-                      ]
-                    }
-                  ]
                 }
               ]
             }
