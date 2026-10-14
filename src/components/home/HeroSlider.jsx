@@ -1,14 +1,19 @@
 import Icon from "../Icon.jsx";
 import React, { useState, useEffect, useRef } from "react";
 import { useText } from "../../hooks/useText.js";
-import { descendants } from "../../utils/templates.js";
+import { useApp } from "../../context/AppContext.jsx";
+import { localizedSlide } from "../../utils/home-slider.js";
+import { local } from "../../utils/urls.js";
+import Media from "../Media.jsx";
+import RichText from "../../RichText.jsx";
 import { plainText } from "../../formatted-text.js";
 
-export default function Hero({ node, renderNode: RenderNode }) {
+export default function Hero() {
   const t = useText();
-  const slides = descendants(node, (n) =>
-    (n.attrs.class || "").split(" ").includes("hero-slide"),
-  );
+  const { data, preferences } = useApp();
+  const config = data.homeSlider;
+  const language = preferences?.language || "tr";
+  const slides = config.slides.filter(slide => slide.enabled);
   const [current, setCurrent] = useState(0),
     [paused, setPaused] = useState(
       () => matchMedia("(prefers-reduced-motion: reduce)").matches,
@@ -22,19 +27,20 @@ export default function Hero({ node, renderNode: RenderNode }) {
     return () => document.removeEventListener("visibilitychange", handler);
   }, []);
   useEffect(() => {
-    if (paused || hover || hidden) return;
+    if (paused || hover || hidden || slides.length < 2) return;
     const timer = setInterval(
       () => setCurrent((i) => (i + 1) % slides.length),
-      5000,
+      config.intervalMs,
     );
     return () => clearInterval(timer);
-  }, [paused, hover, hidden, slides.length]);
+  }, [paused, hover, hidden, slides.length, config.intervalMs]);
   const step = (d) =>
     setCurrent((i) => (i + d + slides.length) % slides.length);
+  if (!slides.length) return null;
   return (
     <section
       className="hero-slider"
-      aria-label={plainText(t("ui.copy.038"))}
+      aria-label={plainText(config.label?.[language] || config.label?.tr || t("ui.copy.038"))}
       onPointerEnter={(e) => e.pointerType === "mouse" && setHover(true)}
       onPointerLeave={() => setHover(false)}
       onFocusCapture={() => setPaused(true)}
@@ -49,16 +55,22 @@ export default function Hero({ node, renderNode: RenderNode }) {
           className="hero-track"
           style={{ transform: `translate3d(-${current * 100}%,0,0)` }}
         >
-          {slides.map((slide, i) => (
-            <div
-              className="react-slide"
-              key={i}
-              inert={i !== current}
-              aria-hidden={i !== current}
-            >
-              <RenderNode node={slide} />
-            </div>
-          ))}
+          {slides.map((slide, i) => {
+            const text = localizedSlide(slide, language);
+            const Heading = i === 0 ? "h1" : "h2";
+            return <div className="react-slide" key={slide.id} inert={i !== current} aria-hidden={i !== current}>
+              <article className="hero hero-slide" id={slide.id} role="group" aria-roledescription="slide" aria-label={t("ui.slideNumber", { count: i + 1 })} style={{ "--hero-background": slide.backgroundColor }}>
+                {slide.backgroundImage && <div className="hero-bg"><Media src={local(slide.backgroundImage)} alt={text.backgroundImageAlt} /></div>}
+                <div className="hero-copy">
+                  {text.eyebrow && <p className="eyebrow"><RichText value={text.eyebrow} /></p>}
+                  <Heading><RichText value={text.title} lhf /></Heading>
+                  <p><RichText value={text.description} /></p>
+                  <a className="button button-outline" href={local(slide.buttonLink)}><RichText value={text.buttonLabel} /></a>
+                </div>
+                {slide.image && <div className="hero-product"><Media src={local(slide.image)} alt={text.imageAlt} /></div>}
+              </article>
+            </div>;
+          })}
         </div>
       </div>
       <div className="hero-controls">

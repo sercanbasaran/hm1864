@@ -21,13 +21,12 @@ export default function Template({ node, skipHero = false, lhf = false, ancestor
   if (typeof node === "string")
     return <RichText value={templateText(content, language, node)} lhf={lhf} />;
   if (!node) return null;
+  if (node.tag === "home-slider") return <Hero />;
   const a = node.attrs || {},
     children = node.children || [];
   if (node.tag === "icon") return <Icon name={a.name} className={a.class || ""} />;
   const childClasses = [...ancestorClasses, ...(a.class || "").split(/\s+/).filter(Boolean)];
   const lhfContent = lhf || isLhfHeading(node.tag, childClasses);
-  if ("data-hero-slider" in a && !skipHero)
-    return <Hero node={node} renderNode={Template} />;
   if (node.tag === "article" && a["data-product"]) {
     const p = data.products.find((p) => p.key === a["data-product"]);
     return p ? <Card product={p} /> : null;
@@ -97,8 +96,6 @@ export default function Template({ node, skipHero = false, lhf = false, ancestor
         ? plainText(templateText(content, language, v ?? ""))
         : templateText(content, language, v ?? "");
   }
-  if ((a.class || "").split(/\s+/).includes("hero-slide") && typeof node.backgroundColor === "string")
-    props.style = { "--hero-background": node.backgroundColor };
   if (a["data-open"])
     props.onClick = () => setModal(a["data-open"].replace("-dialog", ""));
   if (a["data-scroll"])

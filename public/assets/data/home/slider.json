@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "intervalMs": 5000,
+  "label": {
+    "tr": "Hafız Mustafa 1864 seçkileri"
+  },
+  "slides": [
+    {
+      "id": "hero-slide-1",
+      "enabled": true,
+      "backgroundColor": "#9A0002",
+      "image": "assets/images/medya/4e3b2.png",
+      "backgroundImage": "assets/images/medya/a41ba.png",
+      "buttonLink": "urunler/baklavalar/index.html",
+      "content": {
+        "tr": {
+          "eyebrow": "1864’DEN BERİ",
+          "title": "her kutuda İSTANBUL'UN TATLI MİRASI",
+          "description": "1864’ten bu yana İstanbul tatlıcılık sanatını yaşatıyoruz. Saf zanaatkârlığı ve eşsiz lezzeti keşfedin.",
+          "buttonLabel": "HEMEN SİPARİŞ VERİN",
+          "imageAlt": "İkonik kırmızı metal kutu",
+          "backgroundImageAlt": "Kırmızı doku"
+        }
+      }
+    },
+    {
+      "id": "hero-slide-2",
+      "enabled": true,
+      "backgroundColor": "#47371E",
+      "image": "assets/images/medya/ff30e.png",
+      "backgroundImage": "",
+      "buttonLink": "koleksiyonlar/hm-1864-serisi/index.html",
+      "content": {
+        "tr": {
+          "eyebrow": "1864 SEÇKİSİ",
+          "title": "asirlik ustalik tek kutuda",
+          "description": "İstanbul’un lezzet mirası, özenle hazırlanmış özel kutularda bir araya geliyor.",
+          "buttonLabel": "KOLEKSİYONU İNCELE",
+          "imageAlt": "HM 1864 koleksiyon kutusu"
+        }
+      }
+    },
+    {
+      "id": "hero-slide-3",
+      "enabled": true,
+      "backgroundColor": "#171717",
+      "image": "assets/images/medya/0e276.png",
+      "backgroundImage": "",
+      "buttonLink": "urunler/baklavalar/fistikli-baklavalar/index.html",
+      "content": {
+        "tr": {
+          "eyebrow": "İSTANBUL'UN TATLI MİRASI",
+          "title": "zanaatin ve lezzetin incelikleri",
+          "description": "İncecik yufkalar, seçkin Antep fıstığı ve nesiller boyu aktarılan ustalık.",
+          "buttonLabel": "FISTIKLI BAKLAVALARI KEŞFET",
+          "imageAlt": "Fıstıklı baklavalar"
+        }
+      }
+    },
+    {
+      "id": "hero-slide-4",
+      "enabled": true,
+      "backgroundColor": "#77001B",
+      "image": "assets/images/medya/55a35.png",
+      "backgroundImage": "",
+      "buttonLink": "kurumsal-hediyeler/index.html",
+      "content": {
+        "tr": {
+          "eyebrow": "KURUMSAL HEDİYELER",
+          "title": "HER ANI DEĞERLİ KILAN LEZZETLER",
+          "description": "Özel kutlamalar ve anlamlı teşekkürler için Hafız Mustafa 1864 hediye seçkileri.",
+          "buttonLabel": "KURUMSAL ÇÖZÜMLERİ KEŞFET",
+          "imageAlt": "Kurumsal hediye kutuları"
+        }
+      }
+    }
+  ]
+}

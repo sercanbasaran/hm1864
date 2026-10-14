@@ -1,4 +1,5 @@
 import {validate} from './model.js';
+import {validateHomeSlider} from './utils/home-slider.js';
 import {validateBrandFiles} from './brand-content.js';
 import {validateStores} from './stores.js';
 import {validateContent} from './i18n.js';
@@ -44,6 +45,7 @@ export async function loadAuthoringData(readJSON){
     });
   }))).flat();
   const catalog=validateRegionalCatalog(validate({schemaVersion:1,...manifest.catalogMeta,categories,subcategories,products,orderPlatforms:platformSettings.platforms}),regions);
+  catalog.homeSlider=validateHomeSlider(await read(manifest.homeSlider));
   const stores=validateStores(await read(manifest.stores),content.languages);
   catalog.stores=stores.stores.filter(store=>store.online);
   catalog.storeTexts=stores.texts;

@@ -340,5 +340,6 @@
     "pages/asirlik-miras.json",
     "pages/destek.json",
     "pages/sozlesmeler.json"
-  ]
+  ],
+  "homeSlider": "home/slider.json"
 }
