@@ -779,24 +779,101 @@
                   ]
                 },
                 {
-                  "tag": "p",
+                  "tag": "div",
                   "attrs": {
-                    "class": "social-labels"
+                    "class": "footer-social-icons"
                   },
                   "children": [
-                    "@text:template.0063",
                     {
-                      "tag": "br",
-                      "attrs": {},
-                      "children": []
+                      "tag": "span",
+                      "attrs": {
+                        "class": "footer-social-icon",
+                        "role": "img",
+                        "aria-label": "Instagram",
+                        "title": "Instagram"
+                      },
+                      "children": [
+                        {
+                          "tag": "icon",
+                          "attrs": {
+                            "name": "instagram"
+                          },
+                          "children": []
+                        }
+                      ]
                     },
-                    "@text:template.0064",
                     {
-                      "tag": "br",
-                      "attrs": {},
-                      "children": []
+                      "tag": "span",
+                      "attrs": {
+                        "class": "footer-social-icon",
+                        "role": "img",
+                        "aria-label": "TikTok",
+                        "title": "TikTok"
+                      },
+                      "children": [
+                        {
+                          "tag": "icon",
+                          "attrs": {
+                            "name": "tiktok"
+                          },
+                          "children": []
+                        }
+                      ]
                     },
-                    "@text:template.0065"
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "footer-social-icon",
+                        "role": "img",
+                        "aria-label": "Facebook",
+                        "title": "Facebook"
+                      },
+                      "children": [
+                        {
+                          "tag": "icon",
+                          "attrs": {
+                            "name": "facebook"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "footer-social-icon",
+                        "role": "img",
+                        "aria-label": "YouTube",
+                        "title": "YouTube"
+                      },
+                      "children": [
+                        {
+                          "tag": "icon",
+                          "attrs": {
+                            "name": "youtube"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attrs": {
+                        "class": "footer-social-icon",
+                        "role": "img",
+                        "aria-label": "LinkedIn",
+                        "title": "LinkedIn"
+                      },
+                      "children": [
+                        {
+                          "tag": "icon",
+                          "attrs": {
+                            "name": "linkedin"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
                   ]
                 }
               ]

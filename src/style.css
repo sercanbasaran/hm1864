@@ -4532,3 +4532,7 @@ details[open]>summary .disclosure-icon { transform: rotate(180deg); }
 .partner-logo--dhl-ecommerce { width: 92px; }
 .partner-courier { display: inline-flex; flex: 0 0 28px; width: 28px; height: 28px; align-items: center; justify-content: center; color: #aaa; }
 .partner-courier .icon { width: 24px; height: 24px; }
+
+.footer-social-icons { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 14px 0 0; color: #aaa; }
+.footer-social-icon { display: inline-flex; flex: 0 0 24px; width: 24px; height: 28px; align-items: center; justify-content: center; }
+.footer-social-icon .icon { width: 22px; height: 22px; }

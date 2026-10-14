@@ -34,8 +34,19 @@ import { TrashIcon } from "@phosphor-icons/react/dist/csr/Trash";
 import { CheckIcon } from "@phosphor-icons/react/dist/csr/Check";
 import { TruckIcon } from "@phosphor-icons/react/dist/csr/Truck";
 
+import { InstagramLogoIcon } from "@phosphor-icons/react/dist/csr/InstagramLogo";
+import { TiktokLogoIcon } from "@phosphor-icons/react/dist/csr/TiktokLogo";
+import { FacebookLogoIcon } from "@phosphor-icons/react/dist/csr/FacebookLogo";
+import { YoutubeLogoIcon } from "@phosphor-icons/react/dist/csr/YoutubeLogo";
+import { LinkedinLogoIcon } from "@phosphor-icons/react/dist/csr/LinkedinLogo";
+
 // Import only the registered icons; keep names stable for JSX and JSON templates.
 const icons = {
+  instagram: InstagramLogoIcon,
+  tiktok: TiktokLogoIcon,
+  facebook: FacebookLogoIcon,
+  youtube: YoutubeLogoIcon,
+  linkedin: LinkedinLogoIcon,
   menu: ListIcon, close: XIcon, bag: ShoppingBagOpenIcon, search: MagnifyingGlassIcon,
   user: UserCircleIcon, chevron: CaretDownIcon, previous: CaretLeftIcon, next: CaretRightIcon,
   left: ArrowLeftIcon, right: ArrowRightIcon, up: ArrowUpIcon, down: ArrowDownIcon,
