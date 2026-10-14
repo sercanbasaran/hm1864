@@ -4466,3 +4466,54 @@ details[open]>summary .disclosure-icon { transform: rotate(180deg); }
 /* Footer medallion uses its original proportions, independently of the header logo. */
 .brand-footer.footer-medallion { width: 150px; max-width: 100%; height: auto; aspect-ratio: 1444 / 2048; margin-top: 24px; }
 .brand-footer.footer-medallion .asset-loaded img { position: static; inset: auto; width: 100%; height: auto; max-width: 100%; object-fit: contain; }
+
+/* Equal card heights, with shared content tracks for each visible grid row. */
+.product-grid { align-items: stretch; }
+.product-card { display: flex; flex-direction: column; }
+.product-card>.product-picture { flex-shrink: 0; }
+.product-card-body { flex: 1; display: flex; flex-direction: column; }
+.product-card-body>.card-meta { margin-top: auto; }
+
+@supports (grid-template-rows: subgrid) {
+  .product-grid { --card-row-space: 50px; row-gap: 0; }
+  .product-grid>.product-card,
+  .carousel>.product-card {
+    display: grid;
+    grid-template-rows: subgrid;
+    grid-row: span 8;
+    row-gap: 0;
+  }
+  .product-grid>.product-card { margin-block-end: var(--card-row-space); }
+  .product-grid>.product-card>.product-picture,
+  .carousel>.product-card>.product-picture { grid-row: 1; }
+  .product-grid>.product-card>small,
+  .carousel>.product-card>small { grid-row: 2; }
+  .product-grid .product-card-body,
+  .carousel .product-card-body {
+    display: grid;
+    grid-template-rows: subgrid;
+    grid-row: 3 / span 6;
+    row-gap: 0;
+    min-width: 0;
+  }
+  .product-card-body>h3 { grid-row: 1; align-self: start; }
+  .product-card-body>.card-description { grid-row: 2; align-self: start; }
+  .product-card-body>.card-variants { grid-row: 3; align-self: start; }
+  .product-card-body>.card-store-only { grid-row: 4; align-self: start; }
+  .product-card-body>.card-meta { grid-row: 5; align-self: end; margin-top: 0; }
+  .product-card-body>.button { grid-row: 6; align-self: end; }
+  .carousel {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(270px, calc((100% - 90px) / 4));
+    grid-template-rows: repeat(8, auto);
+    row-gap: 0;
+  }
+  @media (max-width:1200px) {
+    .carousel { grid-auto-columns: minmax(270px, calc((100% - 60px) / 3)); }
+  }
+  @media (max-width:640px) {
+    .product-grid { --card-row-space: 30px; }
+    .carousel { grid-auto-columns: 82%; column-gap: 18px; }
+  }
+}
