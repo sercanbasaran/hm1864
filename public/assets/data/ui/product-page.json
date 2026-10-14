@@ -528,6 +528,22 @@
       "ur": "دستیاب اختیارات",
       "fa": "گزینه‌های موجود",
       "pt": "Variantes disponíveis"
+    },
+    "ui.cardStoreOnly": {
+      "tr": "Bu ürün yalnızca mağazalarımızdan sipariş edilebilir.",
+      "en": "This product can only be ordered from our stores.",
+      "ar": "يمكن طلب هذا المنتج من متاجرنا فقط.",
+      "de": "Dieses Produkt kann nur in unseren Filialen bestellt werden.",
+      "fr": "Ce produit peut être commandé uniquement dans nos boutiques.",
+      "it": "Questo prodotto può essere ordinato solo nei nostri negozi.",
+      "es": "Este producto solo se puede pedir en nuestras tiendas.",
+      "ru": "Этот продукт можно заказать только в наших магазинах.",
+      "zh-CN": "此产品仅可在我们的门店订购。",
+      "ja": "この商品は当店の店舗でのみご注文いただけます。",
+      "hi": "यह उत्पाद केवल हमारे स्टोर से ऑर्डर किया जा सकता है।",
+      "ur": "یہ پروڈکٹ صرف ہمارے اسٹورز سے آرڈر کی جا سکتی ہے۔",
+      "fa": "این محصول فقط از فروشگاه‌های ما قابل سفارش است.",
+      "pt": "Este produto só pode ser encomendado nas nossas lojas."
     }
   }
 }

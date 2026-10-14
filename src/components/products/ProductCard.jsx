@@ -6,7 +6,7 @@ import RichText from "../../RichText.jsx";
 import Media from "../Media.jsx";
 import { cardPrice, imageUrl } from "../../model.js";
 import { useApp } from "../../context/AppContext.jsx";
-import { productCardContent } from "../../utils/product-card-content.js";
+import { productCardContent, isOnlineSaleUnavailable } from "../../utils/product-card-content.js";
 
 export default function Card({ product: p }) {
   const t = useText(),
@@ -37,6 +37,7 @@ export default function Card({ product: p }) {
             {variant.description && <p className="card-variant-description" dir="auto"><RichText value={variant.description} /></p>}
           </li>)}
         </ul>}
+        {isOnlineSaleUnavailable(p) && <p className="card-store-only" dir="auto"><RichText value={t("ui.cardStoreOnly")} /></p>}
         <div className="card-meta">
           <span>{cardPrice(p, missing, t("ui.from"), currency, language)}</span>
         </div>

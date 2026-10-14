@@ -1,6 +1,13 @@
 import { hasRealText } from "./product-content.js";
 import { plainText } from "../formatted-text.js";
 
+// A mixed-availability product can still be purchased online through an eligible variant.
+export function isOnlineSaleUnavailable(product) {
+  return product.variants?.length
+    ? product.variants.every(variant => (variant.onlineSale ?? product.onlineSale) === false)
+    : product.onlineSale === false;
+}
+
 // Products have already been localized by regionalCatalog.
 export function productCardContent(product, placeholders = []) {
   const real = value => hasRealText(value, placeholders);

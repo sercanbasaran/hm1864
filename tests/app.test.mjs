@@ -234,6 +234,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  const listingLink=window.document.createElement('a');listingLink.href='/'+edited.categories.find(c=>c.id==='baklavalar').url;window.document.querySelector('#main').appendChild(listingLink);listingLink.click();await wait();
  const listedCard=[...window.document.querySelectorAll('.product-card')].find(card=>card.querySelector('.product-picture').getAttribute('href')==='/'+p.url);
  assert.ok(listedCard);assert.equal(listedCard.querySelectorAll('.card-variants li').length,p.variants.length);
+ assert.equal(listedCard.querySelector('.card-store-only'),null);
  assert.equal(listedCard.querySelector('.card-description'),null);
  assert.equal(listedCard.querySelector('.card-variant-description strong').textContent,'Deneme');
  assert.equal(listedCard.querySelector('.card-variant-description script'),null);assert.equal(window.bad,undefined);
@@ -241,6 +242,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  const cakeCard=[...window.document.querySelectorAll('.product-card')].find(card=>card.querySelector('.product-picture').getAttribute('href')==='/'+cake.url);
  assert.equal(cakeCard.querySelector('.card-description').textContent,cake.description);
  assert.equal(cakeCard.querySelectorAll('.card-variants li').length,cake.variants.length);
+ assert.equal(cakeCard.querySelector('.card-store-only').textContent,'Bu ürün yalnızca mağazalarımızdan sipariş edilebilir.');
 
  }finally{window.happyDOM.abort();}
 });

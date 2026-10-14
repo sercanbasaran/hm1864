@@ -1,6 +1,15 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { productCardContent } from "../src/utils/product-card-content.js";
+import { productCardContent, isOnlineSaleUnavailable } from "../src/utils/product-card-content.js";
+
+test("store-only card notice respects all variant overrides and never infers unavailability from missing data", () => {
+  assert.equal(isOnlineSaleUnavailable({onlineSale:false,variants:[]}),true);
+  assert.equal(isOnlineSaleUnavailable({variants:[]}),false);
+  assert.equal(isOnlineSaleUnavailable({onlineSale:false,variants:[{code:'S'},{code:'L'}]}),true);
+  assert.equal(isOnlineSaleUnavailable({onlineSale:true,variants:[{onlineSale:false},{onlineSale:false}]}),true);
+  assert.equal(isOnlineSaleUnavailable({onlineSale:false,variants:[{onlineSale:false},{onlineSale:true}]}),false);
+  assert.equal(isOnlineSaleUnavailable({variants:[{code:'S'}]}),false);
+});
 
 test("cards show every authored variant, dimensions and distinct descriptions", () => {
   const p = {description:"Kısa ürün açıklaması.",variants:[
