@@ -19,20 +19,20 @@ export default function Card({ product: p }) {
       <a className="product-picture" href={local(p.url)}>
         <Media src={imageUrl(p.images[0])} alt={p.name} />
       </a>
+      <small className="muted">
+        <RichText value={t("ui.productCode")} /> {p.code}
+      </small>
       <div className="product-card-body">
         <h3>
           <a href={local(p.url)}>
             <RichText value={p.name} />
           </a>
         </h3>
-        <p className="muted">
-          <RichText value={t("ui.productCode")} /> {p.code}
-        </p>
         {description && <p className="card-description" dir="auto"><RichText value={description} /></p>}
         {variants.length > 0 && <ul className="card-variants" aria-label={t("ui.availableVariants")}>
           {variants.map(variant => <li key={variant.code}>
-            <span className="card-variant-label"><RichText value={variant.label} />
-              {variant.dimensions.length > 0 && <span className="card-variant-size"> · <RichText value={variant.dimensions.join(" · ")} /></span>}
+            <span className="card-variant-label">{/* <RichText value={variant.label} /> */}
+              {variant.dimensions.length > 0 && <span className="card-variant-size"> <RichText value={variant.dimensions.join(" · ")} /></span>}
             </span>
             {variant.description && <p className="card-variant-description" dir="auto"><RichText value={variant.description} /></p>}
           </li>)}
