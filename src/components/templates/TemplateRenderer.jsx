@@ -10,17 +10,20 @@ import Disclosure from "./Disclosure.jsx";
 import Hero from "../home/HeroSlider.jsx";
 import { countryDefaults } from "../../market.js";
 import { translate, templateText } from "../../i18n.js";
+import { isLhfHeading } from "../../utils/lhf-text.js";
 
-export default function Template({ node, skipHero = false }) {
+export default function Template({ node, skipHero = false, lhf = false, ancestorClasses = [] }) {
   const { data, preferences, regions, content, setModal, year, setYear } =
     useApp();
   const t = useText();
   const language = preferences?.language || regions.defaultLanguage;
   if (typeof node === "string")
-    return <RichText value={templateText(content, language, node)} />;
+    return <RichText value={templateText(content, language, node)} lhf={lhf} />;
   if (!node) return null;
   const a = node.attrs || {},
     children = node.children || [];
+  const childClasses = [...ancestorClasses, ...(a.class || "").split(/\s+/).filter(Boolean)];
+  const lhfContent = lhf || isLhfHeading(node.tag, childClasses);
   if ("data-hero-slider" in a && !skipHero)
     return <Hero node={node} renderNode={Template} />;
   if (node.tag === "article" && a["data-product"]) {
@@ -143,7 +146,7 @@ export default function Template({ node, skipHero = false }) {
     return (
       <>
         {children.map((c, i) => (
-          <Template key={i} node={c} />
+          <Template key={i} node={c} lhf={lhfContent} ancestorClasses={childClasses} />
         ))}
       </>
     );
@@ -154,6 +157,6 @@ export default function Template({ node, skipHero = false }) {
   return React.createElement(
     node.tag,
     props,
-    ...children.map((c, i) => <Template key={i} node={c} />),
+    ...children.map((c, i) => <Template key={i} node={c} lhf={lhfContent} ancestorClasses={childClasses} />),
   );
 }

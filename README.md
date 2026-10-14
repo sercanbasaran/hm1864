@@ -325,3 +325,9 @@ Normal ve eğik stiller: Light 300, Book 350, Roman/Oblique 400, Medium 500, Hea
 Yüklenen `LHFELIXIRREGULAR.OTF` dosyası, glyphleri değiştirilmeden WOFF2 biçimine dönüştürülüp `public/assets/fonts/lhf/LHF-Elixir-Regular.woff2` olarak eklendi. Aile adı `src/fonts.css` içinde mevcut CSS ile aynı `LHF Elixir Regular` adını kullanır. Mevcut LHF font aileleri ve başlık stilleri değiştirilmedi.
 
 Başlangıç HTML’inde preload bulunur. `font-display: block`, font yüklenirken kısa süreli yedek font gösterimini önlemek için seçildi; ağ başarısızlığı veya uzun gecikmede tarayıcının yedek font davranışı devam eder. Kullanıcının cihazında LHF kurulu olması gerekmez. Paketin içermediği `İ, ı, Ş, ş, Ğ, ğ` karakterleri mevcut fallback aileleriyle gösterilir; bu karakterlere glyph uydurulmadı.
+
+## LHF metinlerinin gösterimi
+
+LHF kullanılan `.hero h1`, `.category-banner h1` ve `.hero-slide h2` alanlarında `İ → i`, `ı → i`, `Ş → S`, `ş → s`, `Ğ → G`, `ğ → g` dönüşümü yalnızca gösterim sırasında uygulanır. Ardından metin küçük harfe çevrilir. CSS’te aynı üç seçici için `text-transform: lowercase` bulunur. ASCII `I` harfinin Türkçe tarayıcıda `ı` olmasını önlemek için JavaScript küçük harf dönüşümü yerel dilden bağımsız uygulanır.
+
+Kaynak JSON metinleri değişmez; Avenir ve diğer font alanları bu normalleştirmeden etkilenmez. Zengin metnin HTML biçimlendirmesi korunur ve mevcut güvenli RichText işleyicisi kullanılır. Dönüşüm `src/utils/lhf-text.js` içinde, şablondaki kapsam `TemplateRenderer.jsx` içindedir.

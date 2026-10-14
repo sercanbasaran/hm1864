@@ -56,6 +56,9 @@ test('returning visitor retains the selection without another first-visit dialog
 });
 test('built React application: navigation, variant update, dialogs, menu and slider',async()=>{
  const window=new Window({url:'http://localhost/index.html',settings:{enableJavaScriptEvaluation:true}});
+ const editedTexts=structuredClone(content);
+ editedTexts.texts['template.0075'].tr='<strong>İSTANBUL IŞIĞI</strong>';
+ editedTexts.texts['template.0077'].tr='İıŞşĞğ korunur';
  const edited=structuredClone(data);edited.stores.find(s=>s.id==='dubai-mall-of-the-emirates').google.businessProfileLocation='accounts/123/locations/456';const p=edited.products.find(p=>p.code==='100-01-02');p.variants[0].price=111;p.variants[1].price=222;p.variants[1].pricesByCurrency={USD:9.99};p.variants[1].description='<strong onclick="window.bad=1">Deneme</strong><br><b>Kalın</b><script>window.bad=1</script>';p.variants[1].weight='500 g';p.variants[0].images=['pastalar/test-xs.png','pastalar/test-xs-2.png'];p.variants[1].images=['pastalar/test-s.png','pastalar/test-s-2.png'];p.variants[0].ingredients='Lorem ipsum dolor sit amet.';p.variants[1].storage='Serin yerde saklayınız.';p.variants[1].delivery='Bilgi eklenecek';
  edited.products.find(x=>x.name==='Lotus Kulesi').editorial[0].enabled=false;
  Object.assign(edited.products.find(x=>x.name==='Lotus Kulesi').editorial[1],{image:'/assets/images/medya/test-box.png',paragraphs:['Kutuyu saklama alanı olarak değerlendirin.']});
@@ -66,11 +69,14 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.equal(menuCategories(edited).length,13);
  assert.equal(menuCategories(edited,'store').length,14);
  assert.equal(menuSubcategories(edited,'Baklavalar').length,1);
- window.console=console;window.fetch=async url=>({ok:true,json:async()=>String(url).includes('/.netlify/functions/store-reviews')?{status:'ready',sourceUrl:'https://www.google.com/maps/',reviews:[{id:'test-review',rating:5,text:'Great service <script>window.bad=1</script>',publishTime:'2026-10-13T10:00:00Z',author:{name:'Test guest',photo:''}}]}:({catalog:edited,regions:rawRegions,content})});window.scrollTo=()=>{};
+ window.console=console;window.fetch=async url=>({ok:true,json:async()=>String(url).includes('/.netlify/functions/store-reviews')?{status:'ready',sourceUrl:'https://www.google.com/maps/',reviews:[{id:'test-review',rating:5,text:'Great service <script>window.bad=1</script>',publishTime:'2026-10-13T10:00:00Z',author:{name:'Test guest',photo:''}}]}:({catalog:edited,regions:rawRegions,content:editedTexts})});window.scrollTo=()=>{};
  window.document.body.innerHTML='<div id="root"></div>';
  const files=await fs.readdir('dist/assets');const js=await fs.readFile('dist/assets/'+files.find(f=>f.endsWith('.js')),'utf8');
  try{
  window.eval(js);await waitFor(()=>window.document.querySelector('header.site-header'));await wait();
+ assert.equal(window.document.querySelector('.hero h1 strong').textContent,'istanbul isigi');
+ assert.ok(window.document.querySelector('.hero-copy').textContent.includes('İıŞşĞğ korunur'));
+ assert.ok(!/[İıŞşĞğ]/.test(window.document.querySelector('.hero h1').textContent));
  assert.ok(window.document.querySelector('dialog.region-dialog[open]'));
  assert.equal(window.document.querySelector('.region-dialog .dialog-close'),null);
  window.document.querySelector('.region-dialog select[name="group"]').value='gcc';

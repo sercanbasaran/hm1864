@@ -4441,3 +4441,10 @@ html:has(.brand-page){scroll-behavior:smooth}
 .card-variant-size { color: #555; }
 .product-card-body .card-variant-description { margin: 6px 0 0; color: #555; font-size: 12px; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; overflow-wrap: anywhere; }
 .card-variants li:has(.card-variant-description) { flex: 1 1 100%; }
+
+/* LHF display text stays lowercase; unsupported Turkish letters are normalized at render. */
+.hero h1,
+.category-banner h1,
+.hero-slide h2 {
+  text-transform: lowercase;
+}
