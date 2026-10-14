@@ -242,7 +242,7 @@ export default function Header() {
                 onClick={() => setMenu(null)}
                 aria-label={plainText(t("ui.copy.028"))}
               >
-                ×
+                <Icon name="close" />
               </button>
             </div>
             <div

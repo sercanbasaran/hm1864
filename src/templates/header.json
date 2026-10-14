@@ -42,26 +42,11 @@
                   ]
                 },
                 {
-                  "tag": "svg",
+                  "tag": "icon",
                   "attrs": {
-                    "class": "icon",
-                    "viewbox": "0 0 24 24",
-                    "fill": "none",
-                    "stroke": "currentColor",
-                    "stroke-width": "1.5",
-                    "stroke-linecap": "round",
-                    "stroke-linejoin": "round",
-                    "aria-hidden": "true"
+                    "name": "chevron"
                   },
-                  "children": [
-                    {
-                      "tag": "path",
-                      "attrs": {
-                        "d": "m7 10 5 5 5-5"
-                      },
-                      "children": []
-                    }
-                  ]
+                  "children": []
                 }
               ]
             },
@@ -125,26 +110,11 @@
                   },
                   "children": [
                     {
-                      "tag": "svg",
+                      "tag": "icon",
                       "attrs": {
-                        "class": "icon",
-                        "viewbox": "0 0 24 24",
-                        "fill": "none",
-                        "stroke": "currentColor",
-                        "stroke-width": "1.5",
-                        "stroke-linecap": "round",
-                        "stroke-linejoin": "round",
-                        "aria-hidden": "true"
+                        "name": "menu"
                       },
-                      "children": [
-                        {
-                          "tag": "path",
-                          "attrs": {
-                            "d": "M3 6h18M3 12h18M3 18h18"
-                          },
-                          "children": []
-                        }
-                      ]
+                      "children": []
                     }
                   ]
                 },
@@ -157,35 +127,11 @@
                   },
                   "children": [
                     {
-                      "tag": "svg",
+                      "tag": "icon",
                       "attrs": {
-                        "class": "icon",
-                        "viewbox": "0 0 24 24",
-                        "fill": "none",
-                        "stroke": "currentColor",
-                        "stroke-width": "1.5",
-                        "stroke-linecap": "round",
-                        "stroke-linejoin": "round",
-                        "aria-hidden": "true"
+                        "name": "search"
                       },
-                      "children": [
-                        {
-                          "tag": "circle",
-                          "attrs": {
-                            "cx": "10.5",
-                            "cy": "10.5",
-                            "r": "6.5"
-                          },
-                          "children": []
-                        },
-                        {
-                          "tag": "path",
-                          "attrs": {
-                            "d": "m16 16 5 5"
-                          },
-                          "children": []
-                        }
-                      ]
+                      "children": []
                     }
                   ]
                 }
@@ -226,35 +172,11 @@
                   },
                   "children": [
                     {
-                      "tag": "svg",
+                      "tag": "icon",
                       "attrs": {
-                        "class": "icon",
-                        "viewbox": "0 0 24 24",
-                        "fill": "none",
-                        "stroke": "currentColor",
-                        "stroke-width": "1.5",
-                        "stroke-linecap": "round",
-                        "stroke-linejoin": "round",
-                        "aria-hidden": "true"
+                        "name": "user"
                       },
-                      "children": [
-                        {
-                          "tag": "circle",
-                          "attrs": {
-                            "cx": "12",
-                            "cy": "7",
-                            "r": "4"
-                          },
-                          "children": []
-                        },
-                        {
-                          "tag": "path",
-                          "attrs": {
-                            "d": "M4 22v-3a8 8 0 0 1 16 0v3"
-                          },
-                          "children": []
-                        }
-                      ]
+                      "children": []
                     }
                   ]
                 },
@@ -267,33 +189,11 @@
                   },
                   "children": [
                     {
-                      "tag": "svg",
+                      "tag": "icon",
                       "attrs": {
-                        "class": "icon",
-                        "viewbox": "0 0 24 24",
-                        "fill": "none",
-                        "stroke": "currentColor",
-                        "stroke-width": "1.5",
-                        "stroke-linecap": "round",
-                        "stroke-linejoin": "round",
-                        "aria-hidden": "true"
+                        "name": "bag"
                       },
-                      "children": [
-                        {
-                          "tag": "path",
-                          "attrs": {
-                            "d": "M5 7h14l1 15H4L5 7Z"
-                          },
-                          "children": []
-                        },
-                        {
-                          "tag": "path",
-                          "attrs": {
-                            "d": "M8 8V5a4 4 0 0 1 8 0v3"
-                          },
-                          "children": []
-                        }
-                      ]
+                      "children": []
                     },
                     {
                       "tag": "span",
@@ -338,26 +238,11 @@
               "children": [
                 "@text:ui.allMenu",
                 {
-                  "tag": "svg",
+                  "tag": "icon",
                   "attrs": {
-                    "class": "icon",
-                    "viewbox": "0 0 24 24",
-                    "fill": "none",
-                    "stroke": "currentColor",
-                    "stroke-width": "1.5",
-                    "stroke-linecap": "round",
-                    "stroke-linejoin": "round",
-                    "aria-hidden": "true"
+                    "name": "chevron"
                   },
-                  "children": [
-                    {
-                      "tag": "path",
-                      "attrs": {
-                        "d": "m7 10 5 5 5-5"
-                      },
-                      "children": []
-                    }
-                  ]
+                  "children": []
                 }
               ]
             },
@@ -372,26 +257,11 @@
               "children": [
                 "@text:template.0010",
                 {
-                  "tag": "svg",
+                  "tag": "icon",
                   "attrs": {
-                    "class": "icon",
-                    "viewbox": "0 0 24 24",
-                    "fill": "none",
-                    "stroke": "currentColor",
-                    "stroke-width": "1.5",
-                    "stroke-linecap": "round",
-                    "stroke-linejoin": "round",
-                    "aria-hidden": "true"
+                    "name": "chevron"
                   },
-                  "children": [
-                    {
-                      "tag": "path",
-                      "attrs": {
-                        "d": "m7 10 5 5 5-5"
-                      },
-                      "children": []
-                    }
-                  ]
+                  "children": []
                 }
               ]
             },
@@ -406,26 +276,11 @@
               "children": [
                 "@text:template.0011",
                 {
-                  "tag": "svg",
+                  "tag": "icon",
                   "attrs": {
-                    "class": "icon",
-                    "viewbox": "0 0 24 24",
-                    "fill": "none",
-                    "stroke": "currentColor",
-                    "stroke-width": "1.5",
-                    "stroke-linecap": "round",
-                    "stroke-linejoin": "round",
-                    "aria-hidden": "true"
+                    "name": "chevron"
                   },
-                  "children": [
-                    {
-                      "tag": "path",
-                      "attrs": {
-                        "d": "m7 10 5 5 5-5"
-                      },
-                      "children": []
-                    }
-                  ]
+                  "children": []
                 }
               ]
             },
@@ -440,26 +295,11 @@
               "children": [
                 "@text:template.0012",
                 {
-                  "tag": "svg",
+                  "tag": "icon",
                   "attrs": {
-                    "class": "icon",
-                    "viewbox": "0 0 24 24",
-                    "fill": "none",
-                    "stroke": "currentColor",
-                    "stroke-width": "1.5",
-                    "stroke-linecap": "round",
-                    "stroke-linejoin": "round",
-                    "aria-hidden": "true"
+                    "name": "chevron"
                   },
-                  "children": [
-                    {
-                      "tag": "path",
-                      "attrs": {
-                        "d": "m7 10 5 5 5-5"
-                      },
-                      "children": []
-                    }
-                  ]
+                  "children": []
                 }
               ]
             },
@@ -474,26 +314,11 @@
               "children": [
                 "@text:template.0013",
                 {
-                  "tag": "svg",
+                  "tag": "icon",
                   "attrs": {
-                    "class": "icon",
-                    "viewbox": "0 0 24 24",
-                    "fill": "none",
-                    "stroke": "currentColor",
-                    "stroke-width": "1.5",
-                    "stroke-linecap": "round",
-                    "stroke-linejoin": "round",
-                    "aria-hidden": "true"
+                    "name": "chevron"
                   },
-                  "children": [
-                    {
-                      "tag": "path",
-                      "attrs": {
-                        "d": "m7 10 5 5 5-5"
-                      },
-                      "children": []
-                    }
-                  ]
+                  "children": []
                 }
               ]
             },
@@ -508,26 +333,11 @@
               "children": [
                 "@text:template.0014",
                 {
-                  "tag": "svg",
+                  "tag": "icon",
                   "attrs": {
-                    "class": "icon",
-                    "viewbox": "0 0 24 24",
-                    "fill": "none",
-                    "stroke": "currentColor",
-                    "stroke-width": "1.5",
-                    "stroke-linecap": "round",
-                    "stroke-linejoin": "round",
-                    "aria-hidden": "true"
+                    "name": "chevron"
                   },
-                  "children": [
-                    {
-                      "tag": "path",
-                      "attrs": {
-                        "d": "m7 10 5 5 5-5"
-                      },
-                      "children": []
-                    }
-                  ]
+                  "children": []
                 }
               ]
             }

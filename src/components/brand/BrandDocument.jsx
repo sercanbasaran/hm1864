@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React, { useState } from "react";
 import BrandImage from "./BrandImage.jsx";
 import { brandText } from "../../brand-content.js";
@@ -10,9 +11,9 @@ export default function BrandDocument({ document, title, language, labels }) {
     <div className="brand-document">
       <BrandImage image={{ src: document.preview, alt: title }} language={language} zoom />
       <details onToggle={(event) => setOpen(event.currentTarget.open)}>
-        <summary>{text(labels.viewDocument)}</summary>
+        <summary>{text(labels.viewDocument)} <Icon name="chevron" className="disclosure-icon" size={18} /></summary>
         {open && <iframe src={local(document.src) + "#page=" + document.page + "&view=FitH"} title={text(title)} />}
-        <a href={local(document.src)} download>{text(labels.downloadDocument)}</a>
+        <a href={local(document.src)} download><Icon name="download" size={18} /> {text(labels.downloadDocument)}</a>
       </details>
     </div>
   );

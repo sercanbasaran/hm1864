@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React, { useState } from "react";
 import { brandText } from "../../brand-content.js";
 import BrandImage from "./BrandImage.jsx";
@@ -31,7 +32,7 @@ export default function BrandTimeline({ section, language, labels }) {
           <li key={item.id}>
             <span className="brand-year">{item.year}</span>
             <details open={item.id === items[0]?.id}>
-              <summary>{text(item.title)}</summary>
+              <summary>{text(item.title)} <Icon name="chevron" className="disclosure-icon" size={18} /></summary>
               <div className="brand-timeline-detail">
                 <p dir="auto">{text(item.body)}</p>
                 <BrandImage image={item.image} language={language} zoom />

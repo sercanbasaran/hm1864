@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React, { useState } from "react";
 import { brandText } from "../../brand-content.js";
 import BrandImage from "./BrandImage.jsx";
@@ -51,7 +52,7 @@ export default function BrandCards({ section, language, labels }) {
             {item.body && <p dir="auto">{text(item.body)}</p>}
             {item.detail?.paragraphs?.length > 0 && (
               <details className="brand-card-reading">
-                <summary>{text(labels.readMore)}</summary>
+                <summary>{text(labels.readMore)} <Icon name="chevron" className="disclosure-icon" size={18} /></summary>
                 <div>{item.detail.paragraphs.map((paragraph, index) => <p key={index} dir="auto">{text(paragraph)}</p>)}</div>
               </details>
             )}
@@ -61,7 +62,7 @@ export default function BrandCards({ section, language, labels }) {
                 href={local(item.href)}
               >
                 {text(item.action || labels.explore)}{" "}
-                <span aria-hidden="true">↗</span>
+                <Icon name="external" size={18} />
               </a>
             )}
           </article>

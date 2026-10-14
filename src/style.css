@@ -1405,15 +1405,9 @@ textarea:focus {
   display: none
 }
 
-.accordions summary::after {
-  content: '+';
-  font-size: 22px;
-  padding-left: 20px
-}
+.accordions summary::after { content: none; }
 
-.accordions details[open] summary::after {
-  content: '−'
-}
+.accordions details[open] summary::after { content: none; }
 
 .accordions details>div {
   font-size: 14px;
@@ -2753,13 +2747,9 @@ dialog[open] {
     margin: 0
   }
 
-  .footer-col summary::after {
-    content: '+'
-  }
+  .footer-col summary::after { content: none; }
 
-  .footer-col[open] summary::after {
-    content: '−'
-  }
+  .footer-col[open] summary::after { content: none; }
 
   .footer-col>div {
     padding-top: 10px
@@ -4383,7 +4373,7 @@ button,.button,input[type=submit],input[type=button]{border-radius:3px}
 .brand-timeline{padding:0;margin:0;list-style:none}.brand-timeline>li{position:relative;display:grid;grid-template-columns:110px minmax(0,1fr);gap:25px;padding:0 0 28px;margin-bottom:20px;border-bottom:1px solid #ddd}
 .brand-year{color:#b7192c;font-family:Georgia,'Times New Roman',serif;font-size:24px;line-height:1.4}
 .brand-timeline summary,.brand-faq summary{cursor:pointer;font-size:19px;line-height:1.5;color:#222;padding:0 0 16px;list-style:none;display:flex;align-items:center;justify-content:space-between;gap:16px}
-.brand-timeline summary:after,.brand-faq summary:after{content:'+';font-size:23px;color:#b7192c}.brand-timeline details[open]>summary:after,.brand-faq details[open]>summary:after{content:'−'}
+.brand-timeline summary:after,.brand-faq summary:after{content:none}
 .brand-timeline summary::-webkit-details-marker,.brand-faq summary::-webkit-details-marker{display:none}
 .brand-timeline-detail{display:grid;grid-template-columns:1fr 1fr;gap:24px}.brand-timeline-detail>p{font-size:14px;line-height:1.85;color:#555;margin:0}.brand-timeline-detail .brand-image img{max-height:250px}
 .brand-faq details{padding:22px 0 6px;border-bottom:1px solid #ddd}.brand-faq p{color:#555;font-size:15px;line-height:1.8;margin:5px 0 20px}
@@ -4450,3 +4440,25 @@ html:has(.brand-page){scroll-behavior:smooth}
 }
 
 .product-card-body .card-store-only { margin: 0 0 14px; padding: 10px 12px; border-inline-start: 3px solid var(--cherry); background: #f5f5f5; color: #555; font-size: 12px; line-height: 1.6; overflow-wrap: anywhere; }
+
+/* Phosphor is the shared icon family; text and logos retain their identity. */
+.phosphor-icon { width: var(--icon-size, 22px); height: var(--icon-size, 22px); display: inline-block; vertical-align: middle; flex-shrink: 0; }
+.disclosure-icon { margin-inline-start: auto; transition: transform .2s; }
+details[open]>summary .disclosure-icon { transform: rotate(180deg); }
+.brand-card-reading summary, .brand-document summary { display: flex; align-items: center; gap: 12px; }
+.brand-contact-card a>span { display: inline-flex; align-items: center; gap: 8px; }
+.hero-controls button, .store-gallery-controls button, .quantity button { display: inline-flex; align-items: center; justify-content: center; }
+.hero-controls button { gap: 6px; }
+.hero-controls [data-icon="dot"] { width: 10px; height: 10px; }
+.quantity .icon { width: 16px; height: 16px; }
+.nearest-store-button { display: inline-flex; gap: 10px; align-items: center; justify-content: center; }
+.image-zoom-cue { position: absolute; inset-inline-end: 12px; bottom: 12px; background: #fff; color: #222; border-radius: 50%; width: 36px; height: 36px; display: flex; align-items: center; justify-content: center; pointer-events: none; box-shadow: 0 2px 10px #0002; }
+.product-main-image, .store-gallery-main, .brand-image button { position: relative; }
+.brand-page-end a, .brand-back-link { display: inline-flex; align-items: center; gap: 8px; }
+.review-stars { display: flex; align-items: center; gap: 3px; }
+.review-stars .icon { width: 16px; height: 16px; }
+.card-store-only>.icon { width: 16px; height: 16px; margin-inline-end: 5px; }
+@media(min-width:641px) { .footer-col summary>.disclosure-icon { display: none; } }
+@media(prefers-reduced-motion:reduce) { .disclosure-icon { transition: none; } }
+
+.breadcrumb .icon { align-self: center; opacity: .6; }

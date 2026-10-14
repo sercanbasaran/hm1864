@@ -1,3 +1,4 @@
+import Icon from "../components/Icon.jsx";
 import React from "react";
 import { useApp } from "../context/AppContext.jsx";
 import { localizeStore, storeMaps, storeText } from "../stores.js";
@@ -16,11 +17,11 @@ export default function StoreDetailPage({ store: source }) {
         <div>
           <StoreGallery key={store.id} store={store} language={language} />
           <dl>
-            <dt>{text("address")}</dt>
+            <dt><Icon name="pin" size={18} /> {text("address")}</dt>
             <dd>{store.address}</dd>
             {store.phone && (
               <>
-                <dt>{text("phone")}</dt>
+                <dt><Icon name="phone" size={18} /> {text("phone")}</dt>
                 <dd>
                   <a href={"tel:" + store.phone.replace(/\s/g, "")} dir="ltr">
                     {store.phone}
@@ -30,7 +31,7 @@ export default function StoreDetailPage({ store: source }) {
             )}
             {store.hours && (
               <>
-                <dt>{text("hours")}</dt>
+                <dt><Icon name="clock" size={18} /> {text("hours")}</dt>
                 <dd>{store.hours}</dd>
               </>
             )}
@@ -65,7 +66,7 @@ export default function StoreDetailPage({ store: source }) {
               target="_blank"
               rel="noopener noreferrer"
             >
-              {text("directions")}
+              <Icon name="directions" size={18} /> {text("directions")}
             </a>
             <a href="/magazalar/index.html">{text("all")}</a>
           </div>

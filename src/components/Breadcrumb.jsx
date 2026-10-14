@@ -1,4 +1,5 @@
 import React from "react";
+import Icon from "./Icon.jsx";
 import { useText } from "../hooks/useText.js";
 import RichText from "../RichText.jsx";
 import { plainText } from "../formatted-text.js";
@@ -11,7 +12,7 @@ export default function Breadcrumb({ items = [] }) {
     <nav className="breadcrumb" aria-label={plainText(t("template.0164"))}>
       {items.map((item, index) => (
         <React.Fragment key={item.url || "current"}>
-          {index > 0 && <span aria-hidden="true">-</span>}
+          {index > 0 && <Icon name="next" size={14} />}
           {item.current ? (
             <span aria-current="page">
               <RichText value={item.label} />
@@ -26,3 +27,4 @@ export default function Breadcrumb({ items = [] }) {
     </nav>
   );
 }
+

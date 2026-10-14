@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React from "react";
 import { useApp } from "../../context/AppContext.jsx";
 import { useText } from "../../hooks/useText.js";
@@ -45,8 +46,9 @@ export default function OrderAvailability() {
         className="button nearest-store-button"
         onClick={() => setModal("stores")}
       >
-        <RichText value={t("ui.nearestStore")} />
+        <Icon name="store" size={20} /> <RichText value={t("ui.nearestStore")} />
       </button>
     </section>
   );
 }
+

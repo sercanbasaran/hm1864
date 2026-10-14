@@ -522,7 +522,13 @@
                 "aria-label": "@text:template.0104"
               },
               "children": [
-                "@text:template.0105"
+                {
+                  "tag": "icon",
+                  "attrs": {
+                    "name": "previous"
+                  },
+                  "children": []
+                }
               ]
             },
             {
@@ -589,7 +595,13 @@
                 "aria-label": "@text:template.0111"
               },
               "children": [
-                "@text:template.0069"
+                {
+                  "tag": "icon",
+                  "attrs": {
+                    "name": "next"
+                  },
+                  "children": []
+                }
               ]
             },
             {
@@ -1292,7 +1304,13 @@
                 "aria-label": "@text:template.0134"
               },
               "children": [
-                "@text:template.0105"
+                {
+                  "tag": "icon",
+                  "attrs": {
+                    "name": "previous"
+                  },
+                  "children": []
+                }
               ]
             },
             {
@@ -1302,7 +1320,13 @@
                 "aria-label": "@text:template.0135"
               },
               "children": [
-                "@text:template.0069"
+                {
+                  "tag": "icon",
+                  "attrs": {
+                    "name": "next"
+                  },
+                  "children": []
+                }
               ]
             }
           ]

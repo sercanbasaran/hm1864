@@ -1,3 +1,4 @@
+import Icon from "../components/Icon.jsx";
 import React from "react";
 import { useApp } from "../context/AppContext.jsx";
 import { brandText } from "../brand-content.js";
@@ -29,7 +30,7 @@ export default function BrandPage({ page }) {
           <h1 dir="auto">{text(page.hero.heading || page.title)}</h1>
           <p dir="auto">{text(page.hero.intro)}</p>
           <a className="brand-hero-link" href={"#" + page.sections[0].id}>
-            {text(labels.discover)} <span aria-hidden="true">↓</span>
+            {text(labels.discover)} <Icon name="down" size={18} />
           </a>
         </div>
         {page.hero.image?.generated && (
@@ -49,7 +50,7 @@ export default function BrandPage({ page }) {
             ))}
           </nav>
           <a className="brand-back-link" href={local(group.url)}>
-            {text(group.title)} ↗
+            {text(group.title)} <Icon name="external" size={18} />
           </a>
         </aside>
         <div className="brand-main-content">
@@ -67,14 +68,14 @@ export default function BrandPage({ page }) {
             .slice(0, 4)
             .map((p) => (
               <a key={p.id} href={local(p.url)}>
-                {text(p.title)} <span aria-hidden="true">↗</span>
+                {text(p.title)} <Icon name="external" size={18} />
               </a>
             ))}
         </div>
       </section>
       <footer className="brand-page-end">
-        <a href="#main">{text(labels.top)} ↑</a>
-        <a href="/magazalar/index.html">{text(labels.stores)} ↗</a>
+        <a href="#main">{text(labels.top)} <Icon name="up" size={18} /></a>
+        <a href="/magazalar/index.html">{text(labels.stores)} <Icon name="store" size={18} /></a>
       </footer>
     </article>
   );

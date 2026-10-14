@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React, { useState } from "react";
 import { brandText } from "../../brand-content.js";
 
@@ -9,12 +10,12 @@ export default function BrandFAQ({ section, language, labels }) {
   const items = section.items.filter(item => terms.every(term => normalize(text(item.title) + " " + text(item.body)).includes(term)));
   return <div className="brand-faq">
     {section.searchable && <label className="brand-faq-search">
-      <span>{text(labels.search)}</span>
+      <span><Icon name="search" size={18} /> {text(labels.search)}</span>
       <input type="search" value={query} onChange={event => setQuery(event.target.value)} aria-controls={section.id + "-results"} />
     </label>}
     <div id={section.id + "-results"}>
       {items.map(item => <details key={text(item.title)}>
-        <summary>{text(item.title)}</summary><p dir="auto">{text(item.body)}</p>
+        <summary>{text(item.title)} <Icon name="chevron" className="disclosure-icon" size={18} /></summary><p dir="auto">{text(item.body)}</p>
       </details>)}
     </div>
     {items.length === 0 && <p role="status">{text(labels.searchEmpty)}</p>}

@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React from "react";
 import { useText } from "../../hooks/useText.js";
 import { usePrice } from "../../hooks/usePrice.js";
@@ -37,7 +38,7 @@ export default function Card({ product: p }) {
             {variant.description && <p className="card-variant-description" dir="auto"><RichText value={variant.description} /></p>}
           </li>)}
         </ul>}
-        {isOnlineSaleUnavailable(p) && <p className="card-store-only" dir="auto"><RichText value={t("ui.cardStoreOnly")} /></p>}
+        {isOnlineSaleUnavailable(p) && <p className="card-store-only" dir="auto"><Icon name="store" size={16} /> <RichText value={t("ui.cardStoreOnly")} /></p>}
         <div className="card-meta">
           <span>{cardPrice(p, missing, t("ui.from"), currency, language)}</span>
         </div>

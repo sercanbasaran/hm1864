@@ -11,6 +11,7 @@ import Hero from "../home/HeroSlider.jsx";
 import { countryDefaults } from "../../market.js";
 import { translate, templateText } from "../../i18n.js";
 import { isLhfHeading } from "../../utils/lhf-text.js";
+import Icon from "../Icon.jsx";
 
 export default function Template({ node, skipHero = false, lhf = false, ancestorClasses = [] }) {
   const { data, preferences, regions, content, setModal, year, setYear } =
@@ -22,6 +23,7 @@ export default function Template({ node, skipHero = false, lhf = false, ancestor
   if (!node) return null;
   const a = node.attrs || {},
     children = node.children || [];
+  if (node.tag === "icon") return <Icon name={a.name} className={a.class || ""} />;
   const childClasses = [...ancestorClasses, ...(a.class || "").split(/\s+/).filter(Boolean)];
   const lhfContent = lhf || isLhfHeading(node.tag, childClasses);
   if ("data-hero-slider" in a && !skipHero)
@@ -158,5 +160,6 @@ export default function Template({ node, skipHero = false, lhf = false, ancestor
     node.tag,
     props,
     ...children.map((c, i) => <Template key={i} node={c} lhf={lhfContent} ancestorClasses={childClasses} />),
+    node.tag === "summary" ? <Icon key="disclosure" name="chevron" className="disclosure-icon" size={18} /> : null,
   );
 }

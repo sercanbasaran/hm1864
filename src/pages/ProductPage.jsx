@@ -1,6 +1,7 @@
 import ProductAccordions from "../components/products/ProductAccordions.jsx";
 import { useProductDetails } from "../hooks/useProductDetails.js";
 import ProductGallery from "../components/products/ProductGallery.jsx";
+import Icon from "../components/Icon.jsx";
 import React from "react";
 import RichText from "../RichText.jsx";
 import { plainText } from "../formatted-text.js";
@@ -104,7 +105,7 @@ export default function ProductPage({ product: p }) {
                     onClick={() => setQty(clamp(qty - 1))}
                     aria-label={plainText(t("ui.copy.030"))}
                   >
-                    −
+                    <Icon name="minus" size={16} />
                   </button>
                   <input
                     type="number"
@@ -118,7 +119,7 @@ export default function ProductPage({ product: p }) {
                     onClick={() => setQty(clamp(qty + 1))}
                     aria-label={plainText(t("ui.copy.031"))}
                   >
-                    +
+                    <Icon name="plus" size={16} />
                   </button>
                 </div>
                 <button className="button button-grey" disabled>

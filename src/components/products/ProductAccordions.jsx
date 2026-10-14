@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React from "react";
 import { useApp } from "../../context/AppContext.jsx";
 import { useText } from "../../hooks/useText.js";
@@ -44,6 +45,7 @@ export default function ProductAccordions({ product, variant }) {
         <details>
           <summary>
             <RichText value={t("ui.copy.007")} />
+            <Icon name="chevron" className="disclosure-icon" size={18} />
           </summary>
           <div>
             {ingredients && <Text value={ingredients} />}{" "}
@@ -55,6 +57,7 @@ export default function ProductAccordions({ product, variant }) {
         <details>
           <summary>
             <RichText value={t("ui.copy.008")} />
+            <Icon name="chevron" className="disclosure-icon" size={18} />
           </summary>
           <div>
             {rows.length > 0 ? (
@@ -87,6 +90,7 @@ export default function ProductAccordions({ product, variant }) {
         <details key={title}>
           <summary>
             <RichText value={title} />
+            <Icon name="chevron" className="disclosure-icon" size={18} />
           </summary>
           <div>
             <Text value={value} />

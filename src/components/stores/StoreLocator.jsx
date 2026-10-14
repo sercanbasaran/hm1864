@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React, { useState } from "react";
 import { useApp } from "../../context/AppContext.jsx";
 import { local } from "../../utils/urls.js";
@@ -42,7 +43,7 @@ export default function StoreLocator({ embedded = false }) {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                {text("directions")}
+                <Icon name="directions" size={18} /> {text("directions")}
               </a>
             </div>
           </>
@@ -93,18 +94,18 @@ export default function StoreLocator({ embedded = false }) {
               {s.phone && (
                 <p>
                   <a href={"tel:" + s.phone.replace(/\s/g, "")} dir="ltr">
-                    {s.phone}
+                    <Icon name="phone" size={16} /> {s.phone}
                   </a>
                 </p>
               )}
-              {s.hours && <p>{s.hours}</p>}
+              {s.hours && <p><Icon name="clock" size={16} /> {s.hours}</p>}
               <div className="store-actions">
                 <button
                   type="button"
                   aria-pressed={selected?.id === s.id}
                   onClick={() => setSelectedId(s.id)}
                 >
-                  {text("showMap")}
+                  <Icon name="pin" size={18} /> {text("showMap")}
                 </button>
                 <a href={local(s.url)}>{text("details")}</a>
               </div>

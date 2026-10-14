@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React from "react";
 import { useApp } from "../../context/AppContext.jsx";
 import { useText } from "../../hooks/useText.js";
@@ -23,6 +24,7 @@ export default function ProductGallery({
         aria-label={plainText(t("ui.copy.029"))}
       >
         <Media src={src} alt={p.name} />
+          <span className="image-zoom-cue"><Icon name="zoom" size={20} /></span>
       </button>
 
       <div className="product-gallery">

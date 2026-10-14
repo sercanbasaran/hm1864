@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React from "react";
 import { useApp } from "../../context/AppContext.jsx";
 import { brandText } from "../../brand-content.js";
@@ -27,6 +28,7 @@ export default function BrandImage({ image, language, zoom = false }) {
           }}
         >
           {img}
+          <span className="image-zoom-cue"><Icon name="zoom" size={20} /></span>
         </button>
       ) : (
         img

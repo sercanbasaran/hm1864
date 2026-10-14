@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React, { useState, useEffect, useRef } from "react";
 import { useText } from "../../hooks/useText.js";
 import { descendants } from "../../utils/templates.js";
@@ -65,7 +66,7 @@ export default function Hero({ node, renderNode: RenderNode }) {
           aria-label={plainText(t("template.0104"))}
           onClick={() => step(-1)}
         >
-          ←
+          <Icon name="left" />
         </button>
         <span>
           {current + 1} / {slides.length}
@@ -77,17 +78,17 @@ export default function Hero({ node, renderNode: RenderNode }) {
             aria-current={i === current ? "true" : undefined}
             onClick={() => setCurrent(i)}
           >
-            ●
+            <Icon name="dot" size={10} weight="fill" />
           </button>
         ))}
         <button
           aria-label={plainText(t("template.0111"))}
           onClick={() => step(1)}
         >
-          →
+          <Icon name="right" />
         </button>
         <button onClick={() => setPaused((p) => !p)}>
-          {paused ? t("ui.resume") : t("ui.pause")}
+          <Icon name={paused ? "play" : "pause"} /> {paused ? t("ui.resume") : t("ui.pause")}
         </button>
       </div>
     </section>

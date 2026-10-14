@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React, { useEffect, useState } from "react";
 import { useApp } from "../../context/AppContext.jsx";
 import { storeText } from "../../stores.js";
@@ -46,7 +47,7 @@ export default function StoreReviews({ store, language }) {
               <strong>{review.author.name}</strong>
             </div>
             <p className="review-stars" aria-label="5 / 5">
-              ★★★★★
+              {[0,1,2,3,4].map(index => <Icon name="star" weight="fill" size={16} key={index} />)}
             </p>
             <p className="store-review-text" dir="auto">
               {review.text}

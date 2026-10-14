@@ -1,3 +1,4 @@
+import Icon from "../Icon.jsx";
 import React, { useState } from "react";
 import { useApp } from "../../context/AppContext.jsx";
 import { storeGallery, storeText } from "../../stores.js";
@@ -37,6 +38,7 @@ export default function StoreGallery({ store, language }) {
           }}
         >
           <img src={local(photo.src)} alt={photo.alt} loading="lazy" />
+          <span className="image-zoom-cue"><Icon name="zoom" size={20} /></span>
         </button>
         {photo.caption && <figcaption>{photo.caption}</figcaption>}
       </figure>
@@ -48,7 +50,7 @@ export default function StoreGallery({ store, language }) {
               aria-label={text("previousPhoto")}
               onClick={() => move(-1)}
             >
-              ‹
+              <Icon name="previous" />
             </button>
             <span aria-live="polite">
               {index + 1} / {photos.length}
@@ -58,7 +60,7 @@ export default function StoreGallery({ store, language }) {
               aria-label={text("nextPhoto")}
               onClick={() => move(1)}
             >
-              ›
+              <Icon name="next" />
             </button>
           </div>
           <div className="store-gallery-thumbnails">

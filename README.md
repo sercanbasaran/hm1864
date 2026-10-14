@@ -331,3 +331,13 @@ Başlangıç HTML’inde preload bulunur. `font-display: block`, font yüklenirk
 LHF kullanılan `.hero h1`, `.category-banner h1` ve `.hero-slide h2` alanlarında `İ → i`, `ı → i`, `Ş → S`, `ş → s`, `Ğ → G`, `ğ → g` dönüşümü yalnızca gösterim sırasında uygulanır. Ardından metin küçük harfe çevrilir. CSS’te aynı üç seçici için `text-transform: lowercase` bulunur. ASCII `I` harfinin Türkçe tarayıcıda `ı` olmasını önlemek için JavaScript küçük harf dönüşümü yerel dilden bağımsız uygulanır.
 
 Kaynak JSON metinleri değişmez; Avenir ve diğer font alanları bu normalleştirmeden etkilenmez. Zengin metnin HTML biçimlendirmesi korunur ve mevcut güvenli RichText işleyicisi kullanılır. Dönüşüm `src/utils/lhf-text.js` içinde, şablondaki kapsam `TemplateRenderer.jsx` içindedir.
+
+## Phosphor arayüz ikonları
+
+Uygulamanın ortak ikon seti `@phosphor-icons/react` paketidir. Sürüm `package.json` ve `package-lock.json` içinde sabitlenmiştir. Tüm yeni arayüz ikonları `src/components/Icon.jsx` üzerinden kullanılır: `<Icon name="search" />`, `<Icon name="store" size={18} />`. Varsayılan çizgi ağırlığı `regular`, renk `currentColor` ve boyut 22px’tir. Gerektiğinde `size`, `weight` ve `className` verilebilir.
+
+JSON şablonunda `{ "tag": "icon", "attrs": { "name": "phone" }, "children": [] }` kullanılabilir. Desteklenen anlamlı adların listesi `Icon.jsx` içindeki kayıt tablosundadır; yeni bir ikon gerektiğinde tabloya kendi ayrı Phosphor import’u eklenir. Paket bütünü dinamik olarak import edilmez.
+
+Eski çizilmiş SVG’ler, yön/kapama/miktar sembolleri ve accordion işaretleri Phosphor’a taşındı. Galerilerde büyütme, mağazalarda telefon/saat/konum/yol tarifi, destek kartlarında e-posta/telefon, belge indirme ve online satış dışı ürünlerde mağaza ikonları eklendi. Marka, platform, ödeme ve Google kimlik görselleri değiştirilmedi.
+
+İkonlar varsayılan olarak dekoratiftir (`aria-hidden`, `focusable=false`); butonun erişilebilir adı mevcut çevrilmiş metin/aria-label ile sağlanır. Tek başına anlam taşıyan ikon için `label` verilir. Accordion ikonu açılınca CSS ile döner; azaltılmış hareket tercihi desteklenir.

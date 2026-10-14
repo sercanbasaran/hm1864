@@ -78,6 +78,9 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.ok(window.document.querySelector('.hero-copy').textContent.includes('İıŞşĞğ korunur'));
  assert.ok(!/[İıŞşĞğ]/.test(window.document.querySelector('.hero h1').textContent));
  assert.ok(window.document.querySelector('dialog.region-dialog[open]'));
+ assert.ok(window.document.querySelector('.site-header svg[data-icon="menu"]'));
+ assert.equal(window.document.querySelector('.site-header svg[data-icon="search"]').getAttribute('aria-hidden'),'true');
+ assert.ok(window.document.querySelector('.hero-controls svg[data-icon="left"]'));
  assert.equal(window.document.querySelector('.region-dialog .dialog-close'),null);
  window.document.querySelector('.region-dialog select[name="group"]').value='gcc';
  window.document.querySelector('.region-dialog select[name="group"]').dispatchEvent(new window.Event('change',{bubbles:true}));await wait();
@@ -112,6 +115,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  window.document.getElementById('year-1888').click();await wait();assert.match(window.document.getElementById('heritage-content').textContent,/1888/);
  const link=window.document.createElement('a');link.href='/'+p.url;window.document.querySelector('#main').appendChild(link);link.click();await wait();
  assert.equal(window.document.querySelectorAll('.breadcrumb').length,1);
+ assert.ok(window.document.querySelector('.breadcrumb svg[data-icon="next"]'));
  assert.deepEqual([...window.document.querySelector('.breadcrumb').querySelectorAll('a,[aria-current="page"]')].map(el=>el.textContent),[translate(content,'tr','template.0165'),p.category,p.subcategory,p.name]);
  assert.equal(window.document.querySelector('h1').textContent,p.name);assert.match(window.document.querySelector('.detail-price').textContent,/111/);
  for(const href of ['/index.html','/urunler/index.html','/'+p.url,'/index.html','/'+p.url]){
@@ -184,6 +188,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.match(window.document.querySelector('.store-review-text').textContent,/Great service/);
  assert.equal(window.document.querySelector('.store-review script'),null);
  assert.match(window.document.querySelector('.store-review-notice').textContent,/5 yıldızlı/);
+ assert.ok(window.document.querySelector('.store-gallery-main svg[data-icon="zoom"]'));
  const originalStorePhoto=window.document.querySelector('.store-gallery-main img').src;
  window.document.querySelectorAll('.store-gallery-thumbnails button')[1].click();await wait();
  assert.notEqual(window.document.querySelector('.store-gallery-main img').src,originalStorePhoto);
@@ -242,7 +247,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  const cakeCard=[...window.document.querySelectorAll('.product-card')].find(card=>card.querySelector('.product-picture').getAttribute('href')==='/'+cake.url);
  assert.equal(cakeCard.querySelector('.card-description').textContent,cake.description);
  assert.equal(cakeCard.querySelectorAll('.card-variants li').length,cake.variants.length);
- assert.equal(cakeCard.querySelector('.card-store-only').textContent,'Bu ürün yalnızca mağazalarımızdan sipariş edilebilir.');
+ assert.equal(cakeCard.querySelector('.card-store-only').textContent.trim(),translate(content,'tr','ui.cardStoreOnly'));
 
  }finally{window.happyDOM.abort();}
 });
