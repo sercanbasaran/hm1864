@@ -174,7 +174,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "backgroundColor": "#9A0002"
                 },
                 {
                   "tag": "article",
@@ -283,7 +284,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "backgroundColor": "#47371E"
                 },
                 {
                   "tag": "article",
@@ -392,7 +394,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "backgroundColor": "#171717"
                 },
                 {
                   "tag": "article",
@@ -501,7 +504,8 @@
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "backgroundColor": "#77001B"
                 }
               ]
             }

@@ -97,6 +97,8 @@ export default function Template({ node, skipHero = false, lhf = false, ancestor
         ? plainText(templateText(content, language, v ?? ""))
         : templateText(content, language, v ?? "");
   }
+  if ((a.class || "").split(/\s+/).includes("hero-slide") && typeof node.backgroundColor === "string")
+    props.style = { "--hero-background": node.backgroundColor };
   if (a["data-open"])
     props.onClick = () => setModal(a["data-open"].replace("-dialog", ""));
   if (a["data-scroll"])

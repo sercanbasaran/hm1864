@@ -3239,16 +3239,8 @@ dialog[open] {
   font-weight: 500
 }
 
-.hero-slide.hero-gold {
-  background: #47371e
-}
-
-.hero-slide.hero-dark {
-  background: #171717
-}
-
-.hero-slide.hero-cherry {
-  background: #77001b
+.hero-slide {
+  background: var(--hero-background, var(--cherry));
 }
 
 .hero-controls {
