@@ -530,20 +530,20 @@
       "pt": "Variantes disponíveis"
     },
     "ui.cardStoreOnly": {
-      "tr": "Bu ürün yalnızca mağazalarımızdan sipariş edilebilir.",
-      "en": "This product can only be ordered from our stores.",
-      "ar": "يمكن طلب هذا المنتج من متاجرنا فقط.",
-      "de": "Dieses Produkt kann nur in unseren Filialen bestellt werden.",
-      "fr": "Ce produit peut être commandé uniquement dans nos boutiques.",
-      "it": "Questo prodotto può essere ordinato solo nei nostri negozi.",
-      "es": "Este producto solo se puede pedir en nuestras tiendas.",
-      "ru": "Этот продукт можно заказать только в наших магазинах.",
-      "zh-CN": "此产品仅可在我们的门店订购。",
-      "ja": "この商品は当店の店舗でのみご注文いただけます。",
-      "hi": "यह उत्पाद केवल हमारे स्टोर से ऑर्डर किया जा सकता है।",
-      "ur": "یہ پروڈکٹ صرف ہمارے اسٹورز سے آرڈر کی جا سکتی ہے۔",
-      "fa": "این محصول فقط از فروشگاه‌های ما قابل سفارش است.",
-      "pt": "Este produto só pode ser encomendado nas nossas lojas."
+      "tr": "Bu ürün yalnızca mağazalarımızdan ve anlaşmalı olduğumuz yemek siparişi platformlarından sipariş edilebilir.",
+      "en": "This product can only be ordered from our stores and our authorized food delivery platforms.",
+      "ar": "يمكن طلب هذا المنتج حصرياً من متاجرنا ومنصات توصيل الطعام المتعاقد معها.",
+      "de": "Dieses Produkt kann nur in unseren Filialen und über unsere Vertragspartner für Lebensmittellieferungen bestellt werden.",
+      "fr": "Ce produit peut être commandé uniquement dans nos boutiques et sur nos plateformes de livraison de repas partenaires.",
+      "it": "Questo prodotto può essere ordinato solo nei nostri negozi e sulle nostre piattaforme di consegna di cibo convenzionate.",
+      "es": "Este producto solo se puede pedir en nuestras tiendas y en nuestras plataformas de entrega de comida asociadas.",
+      "ru": "Этот продукт можно заказать только в наших магазинах и на партнерских платформах доставки еды.",
+      "zh-CN": "此产品仅可在我们的门店以及我们合作的外卖平台上订购。",
+      "ja": "この商品は当店の店舗および提携しているフードデリバリープラットフォームでのみご注文いただけます。",
+      "hi": "यह उत्पाद केवल हमारे स्टोर और हमारे अधिकृत खाद्य वितरण प्लेटफ़ॉर्म से ऑर्डर किया जा सकता है।",
+      "ur": "یہ پروڈکٹ صرف ہمارے اسٹورز اور ہمارے مجاز فوڈ ڈیلیوری پلیٹ فارمز سے آرڈر کی جا سکتی ہے۔",
+      "fa": "این محصول فقط از طریق فروشگاه‌ها و پلتفرم‌های سفارش غذای مجاز ما قابل سفارش است.",
+      "pt": "Este produto só pode ser encomendado nas nossas lojas e nas nossas plataformas de entrega de refeições parceiras."
     }
   }
 }
