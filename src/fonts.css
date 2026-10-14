@@ -94,3 +94,12 @@
   font-weight: 400;
   font-display: swap;
 }
+
+/* Preserve the existing display family on devices without a local installation. */
+@font-face {
+  font-family: 'LHF Elixir Regular';
+  src: url('/assets/fonts/lhf/LHF-Elixir-Regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+}

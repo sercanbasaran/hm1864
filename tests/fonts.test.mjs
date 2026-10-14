@@ -4,7 +4,7 @@ import fs from "node:fs/promises";
 const css = await fs.readFile("src/style.css", "utf8");
 test("uploaded Avenir family ships as local normal and italic web fonts", async () => {
   const faces = await fs.readFile("src/fonts.css", "utf8");
-  const files = [...faces.matchAll(/url\('([^']+)'\)/g)].map(match => match[1]);
+  const files = [...faces.matchAll(/url\('([^']+)'\)/g)].map(match => match[1]).filter(url => url.includes('/avenir/'));
   assert.equal(files.length, 12);
   assert.equal(new Set(files).size, 12);
   assert.equal((faces.match(/font-display: swap/g) || []).length, 12);
@@ -20,6 +20,19 @@ test("uploaded Avenir family ships as local normal and italic web fonts", async 
   assert.ok(css.includes("--font: 'Avenir', Arial, sans-serif"));
   const html = await fs.readFile("dist/index.html", "utf8");
   assert.ok(html.includes('/assets/fonts/avenir/Avenir-Roman.woff2'));
+});
+test("LHF display font is embedded and preloaded without depending on installed fonts", async () => {
+  const faces = await fs.readFile("src/fonts.css", "utf8");
+  const face = faces.split("@font-face").find(rule => rule.includes("font-family: 'LHF Elixir Regular'"));
+  assert.ok(face);
+  assert.ok(face.includes("/assets/fonts/lhf/LHF-Elixir-Regular.woff2"));
+  assert.ok(face.includes("font-display: block"));
+  assert.ok(!face.includes("local("));
+  const font = await fs.readFile("public/assets/fonts/lhf/LHF-Elixir-Regular.woff2");
+  assert.equal(font.subarray(0,4).toString(),"wOF2");
+  assert.deepEqual(await fs.readFile("dist/assets/fonts/lhf/LHF-Elixir-Regular.woff2"),font);
+  const html=await fs.readFile("dist/index.html","utf8");
+  assert.match(html, /rel="preload"[^>]+href="\/assets\/fonts\/lhf\/LHF-Elixir-Regular.woff2"[^>]+crossorigin/);
 });
 test("protected display and serif font declarations remain unchanged", () => {
   const protectedNames = ["LHF Elixir Regular", "Arial Narrow", "Impact", "serif"];

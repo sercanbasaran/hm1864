@@ -318,3 +318,10 @@ Yüklenen Avenir ailesinin 12 dosyası WOFF2 biçiminde `public/assets/fonts/ave
 Normal ve eğik stiller: Light 300, Book 350, Roman/Oblique 400, Medium 500, Heavy 700, Black 900. Mevcut 600 gibi ara ağırlıklar CSS font eşleştirmesiyle en yakın kesimi kullanır. Font paketindeki Türkçe karakterler korunmuştur; Avenir’in kapsamadığı alfabelerde tarayıcının uygun fallback fontu kullanılır.
 
 `LHF Elixir Regular`, `Arial Narrow`, `Impact` veya bağımsız `serif` içeren mevcut font aileleri aynen korunur. Diğer alanlar ortak Avenir değişkenini kullanır. Boyutlar, renkler ve yerleşimler bu güncellemede değiştirilmez.
+
+
+## Yerel LHF Elixir Regular
+
+Yüklenen `LHFELIXIRREGULAR.OTF` dosyası, glyphleri değiştirilmeden WOFF2 biçimine dönüştürülüp `public/assets/fonts/lhf/LHF-Elixir-Regular.woff2` olarak eklendi. Aile adı `src/fonts.css` içinde mevcut CSS ile aynı `LHF Elixir Regular` adını kullanır. Mevcut LHF font aileleri ve başlık stilleri değiştirilmedi.
+
+Başlangıç HTML’inde preload bulunur. `font-display: block`, font yüklenirken kısa süreli yedek font gösterimini önlemek için seçildi; ağ başarısızlığı veya uzun gecikmede tarayıcının yedek font davranışı devam eder. Kullanıcının cihazında LHF kurulu olması gerekmez. Paketin içermediği `İ, ı, Ş, ş, Ğ, ğ` karakterleri mevcut fallback aileleriyle gösterilir; bu karakterlere glyph uydurulmadı.
