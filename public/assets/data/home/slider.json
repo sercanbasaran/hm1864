@@ -60,8 +60,8 @@
     {
       "id": "hero-slide-4",
       "enabled": true,
-      "backgroundColor": "#77001B",
-      "image": "assets/images/medya/55a35.png",
+      "backgroundColor": "#021017",
+      "image": "assets/images/medya/slider/slide_4.png",
       "backgroundImage": "",
       "buttonLink": "kurumsal-hediyeler/index.html",
       "content": {
