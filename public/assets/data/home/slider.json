@@ -6,15 +6,15 @@
   },
   "slides": [
     {
-      "id": "hero-slide-1",
+      "id": "hero-slide-0",
       "enabled": true,
       "backgroundColor": "#9A0002",
-      "image": "assets/images/medya/slider/slide_1.png",
+      "image": "assets/images/medya/slider/slide_0.png",
       "backgroundImage": "assets/images/medya/slide_0_bg.png",
       "buttonLink": "urunler/baklavalar/index.html",
       "content": {
         "tr": {
-          "eyebrow": "1864'ten Günümüze Asırlık Zanaat",
+          "eyebrow": "1864'TEN GÜNÜMÜZE ASIRLIK ZANAAT",
           "title": "istanbul'un tatli mirasi",
           "description": "İstanbul’dan Dünyaya Taşınan Zarafet: Şehrin Tatlı Mirasını Paylaşın.",
           "buttonLabel": "MİRASI KEŞFEDİN",
