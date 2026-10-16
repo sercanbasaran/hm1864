@@ -7,6 +7,7 @@ Tek düzenleme dosyası: `public/assets/data/home/slider.json`.
 - `intervalMs`: otomatik geçiş süresi, milisaniye (5000 = 5 saniye).
 - `slides`: listedeki sıra, slaytların gösterim sırasıdır. Yeni slayt için bir öğeyi kopyalayın ve benzersiz `id` verin. Sayaç ve noktalar otomatik oluşur.
 - `enabled`: `false` yapıldığında slayt gösterilmez.
+- `gridScheme`: `0` metin solda / görsel sağda, `1` metin sağda / görsel solda. Her slaytta ayrı ayarlanır; alan yoksa `0` kullanılır. Mobilde (640 px ve altı) metin üstte, görsel altta kalır.
 - `backgroundColor`: HEX arka plan rengi.
 - `backgroundImage`: isteğe bağlı arka plan görseli; boş bırakılırsa renk kullanılır.
 - `image`: ürün görseli. Dosyalar `public/assets/images/medya/` altında; JSON yoluna `public/` yazmayın.

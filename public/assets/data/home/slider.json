@@ -8,6 +8,7 @@
     {
       "id": "hero-slide-0",
       "enabled": true,
+      "gridScheme": 0,
       "backgroundColor": "#9A0002",
       "image": "assets/images/medya/slider/slide_0.png",
       "backgroundImage": "assets/images/medya/slide_0_bg.png",
@@ -26,6 +27,7 @@
     {
       "id": "hero-slide-1",
       "enabled": true,
+      "gridScheme": 0,
       "backgroundColor": "#9A0002",
       "image": "assets/images/medya/slider/slide_1.png",
       "backgroundImage": "assets/images/medya/a41ba.png",
@@ -44,6 +46,7 @@
     {
       "id": "hero-slide-2",
       "enabled": true,
+      "gridScheme": 0,
       "backgroundColor": "#171717",
       "image": "assets/images/medya/slider/slide_2.png",
       "backgroundImage": "",
@@ -61,6 +64,7 @@
     {
       "id": "hero-slide-3",
       "enabled": true,
+      "gridScheme": 0,
       "backgroundColor": "#9A0002",
       "image": "assets/images/medya/slider/slide_3.png",
       "backgroundImage": "",
@@ -78,6 +82,7 @@
     {
       "id": "hero-slide-4",
       "enabled": true,
+      "gridScheme": 0,
       "backgroundColor": "#021017",
       "image": "assets/images/medya/slider/slide_4.png",
       "backgroundImage": "",

@@ -59,7 +59,7 @@ export default function Hero() {
             const text = localizedSlide(slide, language);
             const Heading = i === 0 ? "h1" : "h2";
             return <div className="react-slide" key={slide.id} inert={i !== current} aria-hidden={i !== current}>
-              <article className="hero hero-slide" id={slide.id} role="group" aria-roledescription="slide" aria-label={t("ui.slideNumber", { count: i + 1 })} style={{ "--hero-background": slide.backgroundColor }}>
+              <article className="hero hero-slide" id={slide.id} data-grid-scheme={slide.gridScheme ?? 0} role="group" aria-roledescription="slide" aria-label={t("ui.slideNumber", { count: i + 1 })} style={{ "--hero-background": slide.backgroundColor }}>
                 {slide.backgroundImage && <div className="hero-bg"><Media src={local(slide.backgroundImage)} alt={text.backgroundImageAlt} /></div>}
                 <div className="hero-copy">
                   {text.eyebrow && <p className="eyebrow"><RichText value={text.eyebrow} /></p>}

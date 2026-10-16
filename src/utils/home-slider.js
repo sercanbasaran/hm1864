@@ -7,6 +7,8 @@ export function validateHomeSlider(config) {
   for (const slide of config.slides) {
     if (!slide.id || ids.has(slide.id) || typeof slide.enabled !== 'boolean' || !/^#(?:[\da-f]{3}|[\da-f]{6}|[\da-f]{8})$/i.test(slide.backgroundColor) || ['image', 'backgroundImage', 'buttonLink'].some(key => typeof slide[key] !== 'string'))
       throw Error('Slider görsel/renk ayarı geçersiz: ' + slide.id);
+    if (slide.gridScheme !== undefined && slide.gridScheme !== 0 && slide.gridScheme !== 1)
+      throw Error("Slider gridScheme değeri 0 veya 1 olmalıdır: " + slide.id);
     ids.add(slide.id);
     if (!slide.content?.tr?.title?.trim() || !slide.content?.tr?.description?.trim() || !slide.content?.tr?.buttonLabel?.trim())
       throw Error('Slider Türkçe içeriği eksik: ' + slide.id);

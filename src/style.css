@@ -1,5 +1,33 @@
 @import "./fonts.css";
 
+/* The slide JSON chooses physical left/right placement; mobile remains stacked. */
+@media (min-width:641px) {
+  .hero-slider .hero-slide > .hero-copy { margin-left: 0; margin-right: auto; }
+  .hero-slider .hero-slide[data-grid-scheme="1"] > .hero-copy {
+    margin-left: auto;
+    margin-right: 0;
+    padding: 90px 38px 95px 0;
+  }
+  .hero-slider .hero-slide[data-grid-scheme="1"] > .hero-product {
+    left: 0;
+    right: auto;
+  }
+}
+@media (min-width:641px) and (max-width:1000px) {
+  .hero-slider .hero-slide[data-grid-scheme="1"] > .hero-copy { padding: 65px 30px 65px 0; }
+}
+@media (min-width:1024px) {
+  #main > .hero-slider .hero-slide[data-grid-scheme="1"] > .hero-copy {
+    padding-left: 0;
+    padding-right: max(30px, calc((100% - 1280px)/2 + 30px));
+  }
+  #main > .hero-slider .hero-slide[data-grid-scheme="1"] > .hero-product {
+    left: max(0px, calc((100% - 1280px)/2));
+    right: auto;
+  }
+}
+
+
 /* Hafız Mustafa 1864 | HTML5 + CSS3 | Mockup implementation */
 :root {
   --cherry: #9a0002;

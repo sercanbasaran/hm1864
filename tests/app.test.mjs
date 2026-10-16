@@ -103,13 +103,14 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.ok(window.document.querySelector('.header-gold'));
  assert.ok([...window.document.querySelectorAll('.header-categories .nav-button')].some(b=>b.textContent.includes('Drajeler')));
  assert.ok(![...window.document.querySelectorAll('.header-categories .nav-button')].some(b=>b.textContent.includes('Kahvaltılıklar')));
- assert.equal(window.document.querySelectorAll('.react-slide').length,4);
+ assert.equal(window.document.querySelectorAll('.react-slide').length,edited.homeSlider.slides.filter(s=>s.enabled).length);
+ assert.equal(window.document.querySelector('.hero-slide').getAttribute('data-grid-scheme'),'0');
  window.document.querySelector('.all-menu').dispatchEvent(new window.MouseEvent('click',{bubbles:true}));await new Promise(r=>setTimeout(r,600));assert.ok(window.document.querySelector('#mega-menu'));assert.equal(window.document.querySelectorAll('.mega-columns h3').length,13);
  assert.ok(!window.document.querySelector('.mega-columns').textContent.includes('Kahvaltılıklar'));
  assert.ok(!window.document.querySelector('.mega-columns').textContent.includes('Cevizli Baklavalar'));
  window.document.querySelectorAll('.mega-tabs button')[1].click();await wait();assert.equal(window.document.querySelectorAll('.mega-columns h3').length,14);
  window.document.querySelector('.menu-scrim').click();await wait();
- const beforeSlide=Number(window.document.querySelector('.hero-track').style.transform.match(/-(\d+)%/)[1])/100;window.document.querySelector('[aria-label="Sonraki slayt"]').click();await wait();assert.equal(Number(window.document.querySelector('.hero-track').style.transform.match(/-(\d+)%/)[1])/100,(beforeSlide+1)%4);
+ const beforeSlide=Number(window.document.querySelector('.hero-track').style.transform.match(/-(\d+)%/)[1])/100;window.document.querySelector('[aria-label="Sonraki slayt"]').click();await wait();assert.equal(Number(window.document.querySelector('.hero-track').style.transform.match(/-(\d+)%/)[1])/100,(beforeSlide+1)%edited.homeSlider.slides.filter(s=>s.enabled).length);
  window.document.getElementById('year-1888').click();await wait();assert.match(window.document.getElementById('heritage-content').textContent,/1888/);
  const link=window.document.createElement('a');link.href='/'+p.url;window.document.querySelector('#main').appendChild(link);link.click();await wait();
  assert.equal(window.document.querySelectorAll('.breadcrumb').length,1);
