@@ -8,12 +8,9 @@
     {
       "id": "hero-slide-0",
       "enabled": true,
-<<<<<<< Updated upstream
-      "gridScheme": 0,
+      "gridScheme": 1,
       "backgroundColor": "#9A0002",
-=======
       "backgroundColor": "#ffffff",
->>>>>>> Stashed changes
       "image": "assets/images/medya/slider/slide_0.png",
       "backgroundImage": "assets/images/medya/slide_0_bg.png",
       "buttonLink": "urunler/baklavalar/index.html",
