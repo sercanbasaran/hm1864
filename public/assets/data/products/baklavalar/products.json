@@ -7,10 +7,16 @@
       "key": "100-01-01-fistikli-ankara-baklavasi",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-ankara-baklavasi.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 2,
-        "sku": "100.0101.06"
+        "rows": [
+          2,
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -34,15 +40,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0101.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 8,
           "boxContents": [
             {
               "id": "100-01-01-fistikli-ankara-baklavasi",
               "productKey": "100-01-01-fistikli-ankara-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 8
             }
           ],
           "packageContents": [
@@ -70,20 +76,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0101.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 15,
           "boxContents": [
             {
               "id": "100-01-01-fistikli-ankara-baklavasi",
               "productKey": "100-01-01-fistikli-ankara-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 15
             }
           ],
           "packageContents": [
@@ -111,20 +119,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0101.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 22,
           "boxContents": [
             {
               "id": "100-01-01-fistikli-ankara-baklavasi",
               "productKey": "100-01-01-fistikli-ankara-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 22
             }
           ],
           "packageContents": [
@@ -152,20 +162,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0101.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 30,
           "boxContents": [
             {
               "id": "100-01-01-fistikli-ankara-baklavasi",
               "productKey": "100-01-01-fistikli-ankara-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 30
             }
           ],
           "packageContents": [
@@ -193,7 +205,9 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
@@ -237,6 +251,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0101.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-01-01-fistikli-ankara-baklavasi",
+              "productKey": "100-01-01-fistikli-ankara-baklavasi",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -252,10 +284,16 @@
       "key": "100-01-02-fistikli-baklava",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-baklava.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 3,
-        "sku": "100.0102.06"
+        "rows": [
+          3,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -279,15 +317,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0102.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 9,
           "boxContents": [
             {
               "id": "100-01-02-fistikli-baklava",
               "productKey": "100-01-02-fistikli-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 9
             }
           ],
           "packageContents": [
@@ -315,20 +353,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0102.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 17,
           "boxContents": [
             {
               "id": "100-01-02-fistikli-baklava",
               "productKey": "100-01-02-fistikli-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 17
             }
           ],
           "packageContents": [
@@ -356,20 +396,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0102.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 24,
           "boxContents": [
             {
               "id": "100-01-02-fistikli-baklava",
               "productKey": "100-01-02-fistikli-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 24
             }
           ],
           "packageContents": [
@@ -397,20 +439,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0102.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 34,
           "boxContents": [
             {
               "id": "100-01-02-fistikli-baklava",
               "productKey": "100-01-02-fistikli-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 34
             }
           ],
           "packageContents": [
@@ -438,7 +482,9 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
@@ -482,6 +528,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0102.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 4,
+          "boxContents": [
+            {
+              "id": "100-01-02-fistikli-baklava",
+              "productKey": "100-01-02-fistikli-baklava",
+              "image": "",
+              "quantity": 4
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -497,10 +561,16 @@
       "key": "100-01-03-fistikli-cimcik-baklava",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-cimcik-baklava.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 4,
-        "sku": "100.0103.06"
+        "rows": [
+          4,
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -524,15 +594,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0103.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 9,
           "boxContents": [
             {
               "id": "100-01-03-fistikli-cimcik-baklava",
               "productKey": "100-01-03-fistikli-cimcik-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 9
             }
           ],
           "packageContents": [
@@ -560,20 +630,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0103.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 17,
           "boxContents": [
             {
               "id": "100-01-03-fistikli-cimcik-baklava",
               "productKey": "100-01-03-fistikli-cimcik-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 17
             }
           ],
           "packageContents": [
@@ -601,20 +673,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0103.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 24,
           "boxContents": [
             {
               "id": "100-01-03-fistikli-cimcik-baklava",
               "productKey": "100-01-03-fistikli-cimcik-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 24
             }
           ],
           "packageContents": [
@@ -642,20 +716,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0103.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 34,
           "boxContents": [
             {
               "id": "100-01-03-fistikli-cimcik-baklava",
               "productKey": "100-01-03-fistikli-cimcik-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 34
             }
           ],
           "packageContents": [
@@ -683,7 +759,9 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
@@ -727,6 +805,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0103.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 4,
+          "boxContents": [
+            {
+              "id": "100-01-03-fistikli-cimcik-baklava",
+              "productKey": "100-01-03-fistikli-cimcik-baklava",
+              "image": "",
+              "quantity": 4
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -742,10 +838,16 @@
       "key": "100-01-04-fistikli-cikolatali-baklava",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-cikolatali-baklava.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 5,
-        "sku": "100.0104.06"
+        "rows": [
+          5,
+          47,
+          48,
+          49,
+          50,
+          51
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -769,15 +871,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0104.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 9,
           "boxContents": [
             {
               "id": "100-01-04-fistikli-cikolatali-baklava",
               "productKey": "100-01-04-fistikli-cikolatali-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 9
             }
           ],
           "packageContents": [
@@ -805,20 +907,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0104.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 17,
           "boxContents": [
             {
               "id": "100-01-04-fistikli-cikolatali-baklava",
               "productKey": "100-01-04-fistikli-cikolatali-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 17
             }
           ],
           "packageContents": [
@@ -846,20 +950,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0104.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 24,
           "boxContents": [
             {
               "id": "100-01-04-fistikli-cikolatali-baklava",
               "productKey": "100-01-04-fistikli-cikolatali-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 24
             }
           ],
           "packageContents": [
@@ -887,20 +993,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0104.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 34,
           "boxContents": [
             {
               "id": "100-01-04-fistikli-cikolatali-baklava",
               "productKey": "100-01-04-fistikli-cikolatali-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 34
             }
           ],
           "packageContents": [
@@ -928,7 +1036,9 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
@@ -972,6 +1082,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0104.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-01-04-fistikli-cikolatali-baklava",
+              "productKey": "100-01-04-fistikli-cikolatali-baklava",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -987,10 +1115,16 @@
       "key": "100-01-05-fistikli-cikolatali-havuc-dilim",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-cikolatali-havuc-dilim.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 6,
-        "sku": "100.0105.06"
+        "rows": [
+          6,
+          52,
+          53,
+          54,
+          55,
+          56
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -1014,15 +1148,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0105.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 2,
           "boxContents": [
             {
               "id": "100-01-05-fistikli-cikolatali-havuc-dilim",
               "productKey": "100-01-05-fistikli-cikolatali-havuc-dilim",
               "image": "",
-              "quantity": null
+              "quantity": 2
             }
           ],
           "packageContents": [
@@ -1050,20 +1184,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0105.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 4,
           "boxContents": [
             {
               "id": "100-01-05-fistikli-cikolatali-havuc-dilim",
               "productKey": "100-01-05-fistikli-cikolatali-havuc-dilim",
               "image": "",
-              "quantity": null
+              "quantity": 4
             }
           ],
           "packageContents": [
@@ -1091,20 +1227,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0105.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 5,
           "boxContents": [
             {
               "id": "100-01-05-fistikli-cikolatali-havuc-dilim",
               "productKey": "100-01-05-fistikli-cikolatali-havuc-dilim",
               "image": "",
-              "quantity": null
+              "quantity": 5
             }
           ],
           "packageContents": [
@@ -1132,20 +1270,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0105.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 7,
           "boxContents": [
             {
               "id": "100-01-05-fistikli-cikolatali-havuc-dilim",
               "productKey": "100-01-05-fistikli-cikolatali-havuc-dilim",
               "image": "",
-              "quantity": null
+              "quantity": 7
             }
           ],
           "packageContents": [
@@ -1173,7 +1313,9 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
@@ -1217,6 +1359,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0105.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 1,
+          "boxContents": [
+            {
+              "id": "100-01-05-fistikli-cikolatali-havuc-dilim",
+              "productKey": "100-01-05-fistikli-cikolatali-havuc-dilim",
+              "image": "",
+              "quantity": 1
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -1232,10 +1392,16 @@
       "key": "100-01-06-fistikli-dilber-dudagi",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-dilber-dudagi.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 7,
-        "sku": "100.0106.06"
+        "rows": [
+          7,
+          57,
+          58,
+          59,
+          60,
+          61
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -1259,15 +1425,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0106.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 14,
           "boxContents": [
             {
               "id": "100-01-06-fistikli-dilber-dudagi",
               "productKey": "100-01-06-fistikli-dilber-dudagi",
               "image": "",
-              "quantity": null
+              "quantity": 14
             }
           ],
           "packageContents": [
@@ -1295,20 +1461,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0106.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 26,
           "boxContents": [
             {
               "id": "100-01-06-fistikli-dilber-dudagi",
               "productKey": "100-01-06-fistikli-dilber-dudagi",
               "image": "",
-              "quantity": null
+              "quantity": 26
             }
           ],
           "packageContents": [
@@ -1336,20 +1504,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0106.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 36,
           "boxContents": [
             {
               "id": "100-01-06-fistikli-dilber-dudagi",
               "productKey": "100-01-06-fistikli-dilber-dudagi",
               "image": "",
-              "quantity": null
+              "quantity": 36
             }
           ],
           "packageContents": [
@@ -1377,20 +1547,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0106.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 28,
           "boxContents": [
             {
               "id": "100-01-06-fistikli-dilber-dudagi",
               "productKey": "100-01-06-fistikli-dilber-dudagi",
               "image": "",
-              "quantity": null
+              "quantity": 28
             }
           ],
           "packageContents": [
@@ -1418,20 +1590,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
           "sku": "100.0106.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 71,
           "boxContents": [
             {
               "id": "100-01-06-fistikli-dilber-dudagi",
               "productKey": "100-01-06-fistikli-dilber-dudagi",
               "image": "",
-              "quantity": null
+              "quantity": 71
             }
           ],
           "packageContents": [
@@ -1462,6 +1636,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0106.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 4,
+          "boxContents": [
+            {
+              "id": "100-01-06-fistikli-dilber-dudagi",
+              "productKey": "100-01-06-fistikli-dilber-dudagi",
+              "image": "",
+              "quantity": 4
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -1477,10 +1669,16 @@
       "key": "100-01-07-fistikli-durum",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-durum.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 8,
-        "sku": "100.0107.06"
+        "rows": [
+          8,
+          62,
+          63,
+          64,
+          65,
+          66
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -1504,15 +1702,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0107.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 19,
           "boxContents": [
             {
               "id": "100-01-07-fistikli-durum",
               "productKey": "100-01-07-fistikli-durum",
               "image": "",
-              "quantity": null
+              "quantity": 19
             }
           ],
           "packageContents": [
@@ -1540,20 +1738,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0107.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 35,
           "boxContents": [
             {
               "id": "100-01-07-fistikli-durum",
               "productKey": "100-01-07-fistikli-durum",
               "image": "",
-              "quantity": null
+              "quantity": 35
             }
           ],
           "packageContents": [
@@ -1581,20 +1781,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0107.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 50,
           "boxContents": [
             {
               "id": "100-01-07-fistikli-durum",
               "productKey": "100-01-07-fistikli-durum",
               "image": "",
-              "quantity": null
+              "quantity": 50
             }
           ],
           "packageContents": [
@@ -1622,20 +1824,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0107.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 40,
           "boxContents": [
             {
               "id": "100-01-07-fistikli-durum",
               "productKey": "100-01-07-fistikli-durum",
               "image": "",
-              "quantity": null
+              "quantity": 40
             }
           ],
           "packageContents": [
@@ -1663,20 +1867,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
           "sku": "100.0107.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 96,
           "boxContents": [
             {
               "id": "100-01-07-fistikli-durum",
               "productKey": "100-01-07-fistikli-durum",
               "image": "",
-              "quantity": null
+              "quantity": 96
             }
           ],
           "packageContents": [
@@ -1707,6 +1913,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0107.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 4,
+          "boxContents": [
+            {
+              "id": "100-01-07-fistikli-durum",
+              "productKey": "100-01-07-fistikli-durum",
+              "image": "",
+              "quantity": 4
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -1722,10 +1946,16 @@
       "key": "100-01-08-fistikli-havuc-dilim",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-havuc-dilim.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 9,
-        "sku": "100.0108.06"
+        "rows": [
+          9,
+          67,
+          68,
+          69,
+          70,
+          71
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -1749,15 +1979,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0108.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 2,
           "boxContents": [
             {
               "id": "100-01-08-fistikli-havuc-dilim",
               "productKey": "100-01-08-fistikli-havuc-dilim",
               "image": "",
-              "quantity": null
+              "quantity": 2
             }
           ],
           "packageContents": [
@@ -1785,20 +2015,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0108.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 4,
           "boxContents": [
             {
               "id": "100-01-08-fistikli-havuc-dilim",
               "productKey": "100-01-08-fistikli-havuc-dilim",
               "image": "",
-              "quantity": null
+              "quantity": 4
             }
           ],
           "packageContents": [
@@ -1826,20 +2058,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0108.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 5,
           "boxContents": [
             {
               "id": "100-01-08-fistikli-havuc-dilim",
               "productKey": "100-01-08-fistikli-havuc-dilim",
               "image": "",
-              "quantity": null
+              "quantity": 5
             }
           ],
           "packageContents": [
@@ -1867,20 +2101,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0108.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 7,
           "boxContents": [
             {
               "id": "100-01-08-fistikli-havuc-dilim",
               "productKey": "100-01-08-fistikli-havuc-dilim",
               "image": "",
-              "quantity": null
+              "quantity": 7
             }
           ],
           "packageContents": [
@@ -1908,7 +2144,9 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
@@ -1952,6 +2190,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0108.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 1,
+          "boxContents": [
+            {
+              "id": "100-01-08-fistikli-havuc-dilim",
+              "productKey": "100-01-08-fistikli-havuc-dilim",
+              "image": "",
+              "quantity": 1
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -1967,10 +2223,16 @@
       "key": "100-01-09-fistikli-kare-baklava",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-kare-baklava.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 10,
-        "sku": "100.0109.06"
+        "rows": [
+          10,
+          72,
+          73,
+          74,
+          75,
+          76
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -1994,15 +2256,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0109.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 9,
           "boxContents": [
             {
               "id": "100-01-09-fistikli-kare-baklava",
               "productKey": "100-01-09-fistikli-kare-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 9
             }
           ],
           "packageContents": [
@@ -2030,20 +2292,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0109.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 16,
           "boxContents": [
             {
               "id": "100-01-09-fistikli-kare-baklava",
               "productKey": "100-01-09-fistikli-kare-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 16
             }
           ],
           "packageContents": [
@@ -2071,20 +2335,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0109.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 23,
           "boxContents": [
             {
               "id": "100-01-09-fistikli-kare-baklava",
               "productKey": "100-01-09-fistikli-kare-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 23
             }
           ],
           "packageContents": [
@@ -2112,20 +2378,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0109.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 32,
           "boxContents": [
             {
               "id": "100-01-09-fistikli-kare-baklava",
               "productKey": "100-01-09-fistikli-kare-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 32
             }
           ],
           "packageContents": [
@@ -2153,20 +2421,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
           "sku": "100.0109.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 45,
           "boxContents": [
             {
               "id": "100-01-09-fistikli-kare-baklava",
               "productKey": "100-01-09-fistikli-kare-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 45
             }
           ],
           "packageContents": [
@@ -2197,6 +2467,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0109.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-01-09-fistikli-kare-baklava",
+              "productKey": "100-01-09-fistikli-kare-baklava",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -2212,10 +2500,16 @@
       "key": "100-01-10-fistikli-kivrim-baklava",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-kivrim-baklava.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 11,
-        "sku": "100.0110.06"
+        "rows": [
+          11,
+          77,
+          78,
+          79,
+          80,
+          81
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -2239,15 +2533,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0110.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 12,
           "boxContents": [
             {
               "id": "100-01-10-fistikli-kivrim-baklava",
               "productKey": "100-01-10-fistikli-kivrim-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 12
             }
           ],
           "packageContents": [
@@ -2275,20 +2569,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0110.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 22,
           "boxContents": [
             {
               "id": "100-01-10-fistikli-kivrim-baklava",
               "productKey": "100-01-10-fistikli-kivrim-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 22
             }
           ],
           "packageContents": [
@@ -2316,20 +2612,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0110.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 31,
           "boxContents": [
             {
               "id": "100-01-10-fistikli-kivrim-baklava",
               "productKey": "100-01-10-fistikli-kivrim-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 31
             }
           ],
           "packageContents": [
@@ -2357,20 +2655,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0110.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 43,
           "boxContents": [
             {
               "id": "100-01-10-fistikli-kivrim-baklava",
               "productKey": "100-01-10-fistikli-kivrim-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 43
             }
           ],
           "packageContents": [
@@ -2398,20 +2698,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
           "sku": "100.0110.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 60,
           "boxContents": [
             {
               "id": "100-01-10-fistikli-kivrim-baklava",
               "productKey": "100-01-10-fistikli-kivrim-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 60
             }
           ],
           "packageContents": [
@@ -2442,6 +2744,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0110.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-01-10-fistikli-kivrim-baklava",
+              "productKey": "100-01-10-fistikli-kivrim-baklava",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -2457,10 +2777,16 @@
       "key": "100-01-11-fistikli-kuru-baklava",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-kuru-baklava.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 12,
-        "sku": "100.0111.06"
+        "rows": [
+          12,
+          82,
+          83,
+          84,
+          85,
+          86
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -2484,15 +2810,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0111.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 14,
           "boxContents": [
             {
               "id": "100-01-11-fistikli-kuru-baklava",
               "productKey": "100-01-11-fistikli-kuru-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 14
             }
           ],
           "packageContents": [
@@ -2520,20 +2846,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0111.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 24,
           "boxContents": [
             {
               "id": "100-01-11-fistikli-kuru-baklava",
               "productKey": "100-01-11-fistikli-kuru-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 24
             }
           ],
           "packageContents": [
@@ -2561,20 +2889,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0111.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 35,
           "boxContents": [
             {
               "id": "100-01-11-fistikli-kuru-baklava",
               "productKey": "100-01-11-fistikli-kuru-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 35
             }
           ],
           "packageContents": [
@@ -2602,20 +2932,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0111.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 49,
           "boxContents": [
             {
               "id": "100-01-11-fistikli-kuru-baklava",
               "productKey": "100-01-11-fistikli-kuru-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 49
             }
           ],
           "packageContents": [
@@ -2643,20 +2975,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
           "sku": "100.0111.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 68,
           "boxContents": [
             {
               "id": "100-01-11-fistikli-kuru-baklava",
               "productKey": "100-01-11-fistikli-kuru-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 68
             }
           ],
           "packageContents": [
@@ -2687,6 +3021,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0111.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-01-11-fistikli-kuru-baklava",
+              "productKey": "100-01-11-fistikli-kuru-baklava",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -2702,10 +3054,16 @@
       "key": "100-01-12-fistikli-ozel-sobiyet",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-ozel-sobiyet.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 13,
-        "sku": "100.0112.06"
+        "rows": [
+          13,
+          87,
+          88,
+          89,
+          90,
+          91
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -2729,15 +3087,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0112.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 7,
           "boxContents": [
             {
               "id": "100-01-12-fistikli-ozel-sobiyet",
               "productKey": "100-01-12-fistikli-ozel-sobiyet",
               "image": "",
-              "quantity": null
+              "quantity": 7
             }
           ],
           "packageContents": [
@@ -2765,20 +3123,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0112.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 13,
           "boxContents": [
             {
               "id": "100-01-12-fistikli-ozel-sobiyet",
               "productKey": "100-01-12-fistikli-ozel-sobiyet",
               "image": "",
-              "quantity": null
+              "quantity": 13
             }
           ],
           "packageContents": [
@@ -2806,20 +3166,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0112.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 19,
           "boxContents": [
             {
               "id": "100-01-12-fistikli-ozel-sobiyet",
               "productKey": "100-01-12-fistikli-ozel-sobiyet",
               "image": "",
-              "quantity": null
+              "quantity": 19
             }
           ],
           "packageContents": [
@@ -2847,20 +3209,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0112.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 26,
           "boxContents": [
             {
               "id": "100-01-12-fistikli-ozel-sobiyet",
               "productKey": "100-01-12-fistikli-ozel-sobiyet",
               "image": "",
-              "quantity": null
+              "quantity": 26
             }
           ],
           "packageContents": [
@@ -2888,20 +3252,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
           "sku": "100.0112.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 36,
           "boxContents": [
             {
               "id": "100-01-12-fistikli-ozel-sobiyet",
               "productKey": "100-01-12-fistikli-ozel-sobiyet",
               "image": "",
-              "quantity": null
+              "quantity": 36
             }
           ],
           "packageContents": [
@@ -2932,6 +3298,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0112.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 2,
+          "boxContents": [
+            {
+              "id": "100-01-12-fistikli-ozel-sobiyet",
+              "productKey": "100-01-12-fistikli-ozel-sobiyet",
+              "image": "",
+              "quantity": 2
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -2947,10 +3331,16 @@
       "key": "100-01-13-fistikli-padisah",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-padisah.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 14,
-        "sku": "100.0113.06"
+        "rows": [
+          14,
+          92,
+          93,
+          94,
+          95,
+          96
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -2974,15 +3364,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0113.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 12,
           "boxContents": [
             {
               "id": "100-01-13-fistikli-padisah",
               "productKey": "100-01-13-fistikli-padisah",
               "image": "",
-              "quantity": null
+              "quantity": 12
             }
           ],
           "packageContents": [
@@ -3010,20 +3400,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0113.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 22,
           "boxContents": [
             {
               "id": "100-01-13-fistikli-padisah",
               "productKey": "100-01-13-fistikli-padisah",
               "image": "",
-              "quantity": null
+              "quantity": 22
             }
           ],
           "packageContents": [
@@ -3051,20 +3443,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0113.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 31,
           "boxContents": [
             {
               "id": "100-01-13-fistikli-padisah",
               "productKey": "100-01-13-fistikli-padisah",
               "image": "",
-              "quantity": null
+              "quantity": 31
             }
           ],
           "packageContents": [
@@ -3092,20 +3486,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0113.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 43,
           "boxContents": [
             {
               "id": "100-01-13-fistikli-padisah",
               "productKey": "100-01-13-fistikli-padisah",
               "image": "",
-              "quantity": null
+              "quantity": 43
             }
           ],
           "packageContents": [
@@ -3133,20 +3529,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
           "sku": "100.0113.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 60,
           "boxContents": [
             {
               "id": "100-01-13-fistikli-padisah",
               "productKey": "100-01-13-fistikli-padisah",
               "image": "",
-              "quantity": null
+              "quantity": 60
             }
           ],
           "packageContents": [
@@ -3177,6 +3575,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0113.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-01-13-fistikli-padisah",
+              "productKey": "100-01-13-fistikli-padisah",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -3192,10 +3608,16 @@
       "key": "100-01-14-fistikli-prenses",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-prenses.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 15,
-        "sku": "100.0114.06"
+        "rows": [
+          15,
+          97,
+          98,
+          99,
+          100,
+          101
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -3219,15 +3641,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0114.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 6,
           "boxContents": [
             {
               "id": "100-01-14-fistikli-prenses",
               "productKey": "100-01-14-fistikli-prenses",
               "image": "",
-              "quantity": null
+              "quantity": 6
             }
           ],
           "packageContents": [
@@ -3255,20 +3677,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0114.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 11,
           "boxContents": [
             {
               "id": "100-01-14-fistikli-prenses",
               "productKey": "100-01-14-fistikli-prenses",
               "image": "",
-              "quantity": null
+              "quantity": 11
             }
           ],
           "packageContents": [
@@ -3296,20 +3720,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0114.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 16,
           "boxContents": [
             {
               "id": "100-01-14-fistikli-prenses",
               "productKey": "100-01-14-fistikli-prenses",
               "image": "",
-              "quantity": null
+              "quantity": 16
             }
           ],
           "packageContents": [
@@ -3337,20 +3763,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0114.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 22,
           "boxContents": [
             {
               "id": "100-01-14-fistikli-prenses",
               "productKey": "100-01-14-fistikli-prenses",
               "image": "",
-              "quantity": null
+              "quantity": 22
             }
           ],
           "packageContents": [
@@ -3378,7 +3806,9 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
@@ -3422,6 +3852,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0114.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-01-14-fistikli-prenses",
+              "productKey": "100-01-14-fistikli-prenses",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -3437,10 +3885,16 @@
       "key": "100-01-15-fistikli-saray-sarmasi",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-saray-sarmasi.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 16,
-        "sku": "100.0115.06"
+        "rows": [
+          16,
+          102,
+          103,
+          104,
+          105,
+          106
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -3464,15 +3918,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0115.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 17,
           "boxContents": [
             {
               "id": "100-01-15-fistikli-saray-sarmasi",
               "productKey": "100-01-15-fistikli-saray-sarmasi",
               "image": "",
-              "quantity": null
+              "quantity": 17
             }
           ],
           "packageContents": [
@@ -3500,20 +3954,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0115.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 30,
           "boxContents": [
             {
               "id": "100-01-15-fistikli-saray-sarmasi",
               "productKey": "100-01-15-fistikli-saray-sarmasi",
               "image": "",
-              "quantity": null
+              "quantity": 30
             }
           ],
           "packageContents": [
@@ -3541,20 +3997,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0115.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 43,
           "boxContents": [
             {
               "id": "100-01-15-fistikli-saray-sarmasi",
               "productKey": "100-01-15-fistikli-saray-sarmasi",
               "image": "",
-              "quantity": null
+              "quantity": 43
             }
           ],
           "packageContents": [
@@ -3582,20 +4040,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0115.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 60,
           "boxContents": [
             {
               "id": "100-01-15-fistikli-saray-sarmasi",
               "productKey": "100-01-15-fistikli-saray-sarmasi",
               "image": "",
-              "quantity": null
+              "quantity": 60
             }
           ],
           "packageContents": [
@@ -3623,20 +4083,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
           "sku": "100.0115.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 83,
           "boxContents": [
             {
               "id": "100-01-15-fistikli-saray-sarmasi",
               "productKey": "100-01-15-fistikli-saray-sarmasi",
               "image": "",
-              "quantity": null
+              "quantity": 83
             }
           ],
           "packageContents": [
@@ -3667,6 +4129,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0115.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 4,
+          "boxContents": [
+            {
+              "id": "100-01-15-fistikli-saray-sarmasi",
+              "productKey": "100-01-15-fistikli-saray-sarmasi",
+              "image": "",
+              "quantity": 4
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -3682,10 +4162,16 @@
       "key": "100-01-16-fistikli-sari-burma",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-sari-burma.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 17,
-        "sku": "100.0116.06"
+        "rows": [
+          17,
+          107,
+          108,
+          109,
+          110,
+          111
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -3709,15 +4195,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0116.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 13,
           "boxContents": [
             {
               "id": "100-01-16-fistikli-sari-burma",
               "productKey": "100-01-16-fistikli-sari-burma",
               "image": "",
-              "quantity": null
+              "quantity": 13
             }
           ],
           "packageContents": [
@@ -3745,20 +4231,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0116.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 23,
           "boxContents": [
             {
               "id": "100-01-16-fistikli-sari-burma",
               "productKey": "100-01-16-fistikli-sari-burma",
               "image": "",
-              "quantity": null
+              "quantity": 23
             }
           ],
           "packageContents": [
@@ -3786,20 +4274,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0116.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 33,
           "boxContents": [
             {
               "id": "100-01-16-fistikli-sari-burma",
               "productKey": "100-01-16-fistikli-sari-burma",
               "image": "",
-              "quantity": null
+              "quantity": 33
             }
           ],
           "packageContents": [
@@ -3827,20 +4317,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0116.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 45,
           "boxContents": [
             {
               "id": "100-01-16-fistikli-sari-burma",
               "productKey": "100-01-16-fistikli-sari-burma",
               "image": "",
-              "quantity": null
+              "quantity": 45
             }
           ],
           "packageContents": [
@@ -3868,20 +4360,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
           "sku": "100.0116.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 63,
           "boxContents": [
             {
               "id": "100-01-16-fistikli-sari-burma",
               "productKey": "100-01-16-fistikli-sari-burma",
               "image": "",
-              "quantity": null
+              "quantity": 63
             }
           ],
           "packageContents": [
@@ -3912,6 +4406,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0116.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-01-16-fistikli-sari-burma",
+              "productKey": "100-01-16-fistikli-sari-burma",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -3927,10 +4439,16 @@
       "key": "100-01-17-fistikli-sobiyet",
       "url": "urunler/baklavalar/fistikli-baklavalar/fistikli-sobiyet.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 18,
-        "sku": "100.0117.06"
+        "rows": [
+          18,
+          112,
+          113,
+          114,
+          115,
+          116
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -3954,15 +4472,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0117.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 9,
           "boxContents": [
             {
               "id": "100-01-17-fistikli-sobiyet",
               "productKey": "100-01-17-fistikli-sobiyet",
               "image": "",
-              "quantity": null
+              "quantity": 9
             }
           ],
           "packageContents": [
@@ -3990,20 +4508,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0117.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 16,
           "boxContents": [
             {
               "id": "100-01-17-fistikli-sobiyet",
               "productKey": "100-01-17-fistikli-sobiyet",
               "image": "",
-              "quantity": null
+              "quantity": 16
             }
           ],
           "packageContents": [
@@ -4031,20 +4551,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0117.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 23,
           "boxContents": [
             {
               "id": "100-01-17-fistikli-sobiyet",
               "productKey": "100-01-17-fistikli-sobiyet",
               "image": "",
-              "quantity": null
+              "quantity": 23
             }
           ],
           "packageContents": [
@@ -4072,20 +4594,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0117.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 32,
           "boxContents": [
             {
               "id": "100-01-17-fistikli-sobiyet",
               "productKey": "100-01-17-fistikli-sobiyet",
               "image": "",
-              "quantity": null
+              "quantity": 32
             }
           ],
           "packageContents": [
@@ -4113,20 +4637,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
           "sku": "100.0117.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 45,
           "boxContents": [
             {
               "id": "100-01-17-fistikli-sobiyet",
               "productKey": "100-01-17-fistikli-sobiyet",
               "image": "",
-              "quantity": null
+              "quantity": 45
             }
           ],
           "packageContents": [
@@ -4157,6 +4683,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0117.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-01-17-fistikli-sobiyet",
+              "productKey": "100-01-17-fistikli-sobiyet",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -4172,10 +4716,16 @@
       "key": "100-02-01-cevizli-ankara-baklavasi",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-ankara-baklavasi.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 19,
-        "sku": "100.0201.06"
+        "rows": [
+          19,
+          117,
+          118,
+          119,
+          120,
+          121
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -4199,15 +4749,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0201.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 8,
           "boxContents": [
             {
               "id": "100-02-01-cevizli-ankara-baklavasi",
               "productKey": "100-02-01-cevizli-ankara-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 8
             }
           ],
           "packageContents": [
@@ -4235,20 +4785,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0201.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 15,
           "boxContents": [
             {
               "id": "100-02-01-cevizli-ankara-baklavasi",
               "productKey": "100-02-01-cevizli-ankara-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 15
             }
           ],
           "packageContents": [
@@ -4276,20 +4828,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0201.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 22,
           "boxContents": [
             {
               "id": "100-02-01-cevizli-ankara-baklavasi",
               "productKey": "100-02-01-cevizli-ankara-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 22
             }
           ],
           "packageContents": [
@@ -4317,20 +4871,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0201.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 30,
           "boxContents": [
             {
               "id": "100-02-01-cevizli-ankara-baklavasi",
               "productKey": "100-02-01-cevizli-ankara-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 30
             }
           ],
           "packageContents": [
@@ -4358,7 +4914,9 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
@@ -4402,6 +4960,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0201.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-02-01-cevizli-ankara-baklavasi",
+              "productKey": "100-02-01-cevizli-ankara-baklavasi",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -4417,10 +4993,16 @@
       "key": "100-02-02-cevizli-baklava",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-baklava.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 20,
-        "sku": "100.0202.07"
+        "rows": [
+          20,
+          122,
+          123,
+          124,
+          125,
+          126
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -4444,15 +5026,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0202.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 8,
           "boxContents": [
             {
               "id": "100-02-02-cevizli-baklava",
               "productKey": "100-02-02-cevizli-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 8
             }
           ],
           "packageContents": [
@@ -4480,20 +5062,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0202.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 15,
           "boxContents": [
             {
               "id": "100-02-02-cevizli-baklava",
               "productKey": "100-02-02-cevizli-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 15
             }
           ],
           "packageContents": [
@@ -4521,20 +5105,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0202.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 22,
           "boxContents": [
             {
               "id": "100-02-02-cevizli-baklava",
               "productKey": "100-02-02-cevizli-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 22
             }
           ],
           "packageContents": [
@@ -4562,20 +5148,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0202.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 30,
           "boxContents": [
             {
               "id": "100-02-02-cevizli-baklava",
               "productKey": "100-02-02-cevizli-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 30
             }
           ],
           "packageContents": [
@@ -4603,12 +5191,14 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
-          "sku": "100.0202.07",
+          "sku": "100.0202.06",
           "images": [],
           "sliceCount": 42,
           "boxContents": [
@@ -4647,6 +5237,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0202.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 4,
+          "boxContents": [
+            {
+              "id": "100-02-02-cevizli-baklava",
+              "productKey": "100-02-02-cevizli-baklava",
+              "image": "",
+              "quantity": 4
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -4662,10 +5270,16 @@
       "key": "100-02-03-cevizli-cimcik-baklava",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-cimcik-baklava.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 21,
-        "sku": "100.0203.08"
+        "rows": [
+          21,
+          127,
+          128,
+          129,
+          130,
+          131
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -4689,15 +5303,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0203.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 17,
           "boxContents": [
             {
               "id": "100-02-03-cevizli-cimcik-baklava",
               "productKey": "100-02-03-cevizli-cimcik-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 17
             }
           ],
           "packageContents": [
@@ -4725,20 +5339,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0203.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 30,
           "boxContents": [
             {
               "id": "100-02-03-cevizli-cimcik-baklava",
               "productKey": "100-02-03-cevizli-cimcik-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 30
             }
           ],
           "packageContents": [
@@ -4766,20 +5382,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0203.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 43,
           "boxContents": [
             {
               "id": "100-02-03-cevizli-cimcik-baklava",
               "productKey": "100-02-03-cevizli-cimcik-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 43
             }
           ],
           "packageContents": [
@@ -4807,20 +5425,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0203.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 60,
           "boxContents": [
             {
               "id": "100-02-03-cevizli-cimcik-baklava",
               "productKey": "100-02-03-cevizli-cimcik-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 60
             }
           ],
           "packageContents": [
@@ -4848,20 +5468,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
-          "sku": "100.0203.08",
+          "sku": "100.0203.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 83,
           "boxContents": [
             {
               "id": "100-02-03-cevizli-cimcik-baklava",
               "productKey": "100-02-03-cevizli-cimcik-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 83
             }
           ],
           "packageContents": [
@@ -4892,6 +5514,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0203.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 4,
+          "boxContents": [
+            {
+              "id": "100-02-03-cevizli-cimcik-baklava",
+              "productKey": "100-02-03-cevizli-cimcik-baklava",
+              "image": "",
+              "quantity": 4
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -4907,10 +5547,16 @@
       "key": "100-02-04-cevizli-cikolatali-baklava",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-cikolatali-baklava.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 22,
-        "sku": "100.0204.09"
+        "rows": [
+          22,
+          132,
+          133,
+          134,
+          135,
+          136
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -4934,15 +5580,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0204.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 9,
           "boxContents": [
             {
               "id": "100-02-04-cevizli-cikolatali-baklava",
               "productKey": "100-02-04-cevizli-cikolatali-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 9
             }
           ],
           "packageContents": [
@@ -4970,20 +5616,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0204.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 16,
           "boxContents": [
             {
               "id": "100-02-04-cevizli-cikolatali-baklava",
               "productKey": "100-02-04-cevizli-cikolatali-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 16
             }
           ],
           "packageContents": [
@@ -5011,20 +5659,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0204.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 23,
           "boxContents": [
             {
               "id": "100-02-04-cevizli-cikolatali-baklava",
               "productKey": "100-02-04-cevizli-cikolatali-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 23
             }
           ],
           "packageContents": [
@@ -5052,20 +5702,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0204.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 32,
           "boxContents": [
             {
               "id": "100-02-04-cevizli-cikolatali-baklava",
               "productKey": "100-02-04-cevizli-cikolatali-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 32
             }
           ],
           "packageContents": [
@@ -5093,20 +5745,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
-          "sku": "100.0204.09",
+          "sku": "100.0204.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 45,
           "boxContents": [
             {
               "id": "100-02-04-cevizli-cikolatali-baklava",
               "productKey": "100-02-04-cevizli-cikolatali-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 45
             }
           ],
           "packageContents": [
@@ -5137,6 +5791,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0204.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-02-04-cevizli-cikolatali-baklava",
+              "productKey": "100-02-04-cevizli-cikolatali-baklava",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -5152,10 +5824,16 @@
       "key": "100-02-05-cevizli-durum",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-durum.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 23,
-        "sku": "100.0205.10"
+        "rows": [
+          23,
+          137,
+          138,
+          139,
+          140,
+          141
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -5179,15 +5857,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0205.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 6,
           "boxContents": [
             {
               "id": "100-02-05-cevizli-durum",
               "productKey": "100-02-05-cevizli-durum",
               "image": "",
-              "quantity": null
+              "quantity": 6
             }
           ],
           "packageContents": [
@@ -5215,20 +5893,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0205.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 12,
           "boxContents": [
             {
               "id": "100-02-05-cevizli-durum",
               "productKey": "100-02-05-cevizli-durum",
               "image": "",
-              "quantity": null
+              "quantity": 12
             }
           ],
           "packageContents": [
@@ -5256,20 +5936,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0205.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 17,
           "boxContents": [
             {
               "id": "100-02-05-cevizli-durum",
               "productKey": "100-02-05-cevizli-durum",
               "image": "",
-              "quantity": null
+              "quantity": 17
             }
           ],
           "packageContents": [
@@ -5297,20 +5979,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0205.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 23,
           "boxContents": [
             {
               "id": "100-02-05-cevizli-durum",
               "productKey": "100-02-05-cevizli-durum",
               "image": "",
-              "quantity": null
+              "quantity": 23
             }
           ],
           "packageContents": [
@@ -5338,20 +6022,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
-          "sku": "100.0205.10",
+          "sku": "100.0205.06",
           "images": [],
-          "sliceCount": "30/34",
+          "sliceCount": 30,
           "boxContents": [
             {
               "id": "100-02-05-cevizli-durum",
               "productKey": "100-02-05-cevizli-durum",
               "image": "",
-              "quantity": "30/34"
+              "quantity": 30
             }
           ],
           "packageContents": [
@@ -5382,6 +6068,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0205.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 4,
+          "boxContents": [
+            {
+              "id": "100-02-05-cevizli-durum",
+              "productKey": "100-02-05-cevizli-durum",
+              "image": "",
+              "quantity": 4
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -5397,10 +6101,16 @@
       "key": "100-02-06-cevizli-ev-baklavasi",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-ev-baklavasi.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 24,
-        "sku": "100.0206.11"
+        "rows": [
+          24,
+          142,
+          143,
+          144,
+          145,
+          146
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -5424,15 +6134,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0206.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 11,
           "boxContents": [
             {
               "id": "100-02-06-cevizli-ev-baklavasi",
               "productKey": "100-02-06-cevizli-ev-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 11
             }
           ],
           "packageContents": [
@@ -5460,20 +6170,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0206.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 20,
           "boxContents": [
             {
               "id": "100-02-06-cevizli-ev-baklavasi",
               "productKey": "100-02-06-cevizli-ev-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 20
             }
           ],
           "packageContents": [
@@ -5501,20 +6213,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0206.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 29,
           "boxContents": [
             {
               "id": "100-02-06-cevizli-ev-baklavasi",
               "productKey": "100-02-06-cevizli-ev-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 29
             }
           ],
           "packageContents": [
@@ -5542,20 +6256,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0206.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 40,
           "boxContents": [
             {
               "id": "100-02-06-cevizli-ev-baklavasi",
               "productKey": "100-02-06-cevizli-ev-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 40
             }
           ],
           "packageContents": [
@@ -5583,20 +6299,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
-          "sku": "100.0206.11",
+          "sku": "100.0206.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 56,
           "boxContents": [
             {
               "id": "100-02-06-cevizli-ev-baklavasi",
               "productKey": "100-02-06-cevizli-ev-baklavasi",
               "image": "",
-              "quantity": null
+              "quantity": 56
             }
           ],
           "packageContents": [
@@ -5627,6 +6345,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0206.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-02-06-cevizli-ev-baklavasi",
+              "productKey": "100-02-06-cevizli-ev-baklavasi",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -5642,10 +6378,16 @@
       "key": "100-02-07-cevizli-kare-baklava",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-kare-baklava.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 25,
-        "sku": "100.0207.12"
+        "rows": [
+          25,
+          147,
+          148,
+          149,
+          150,
+          151
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -5669,15 +6411,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0207.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 8,
           "boxContents": [
             {
               "id": "100-02-07-cevizli-kare-baklava",
               "productKey": "100-02-07-cevizli-kare-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 8
             }
           ],
           "packageContents": [
@@ -5705,20 +6447,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0207.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 15,
           "boxContents": [
             {
               "id": "100-02-07-cevizli-kare-baklava",
               "productKey": "100-02-07-cevizli-kare-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 15
             }
           ],
           "packageContents": [
@@ -5746,20 +6490,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0207.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 21,
           "boxContents": [
             {
               "id": "100-02-07-cevizli-kare-baklava",
               "productKey": "100-02-07-cevizli-kare-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 21
             }
           ],
           "packageContents": [
@@ -5787,20 +6533,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0207.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 30,
           "boxContents": [
             {
               "id": "100-02-07-cevizli-kare-baklava",
               "productKey": "100-02-07-cevizli-kare-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 30
             }
           ],
           "packageContents": [
@@ -5828,20 +6576,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
-          "sku": "100.0207.12",
+          "sku": "100.0207.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 41,
           "boxContents": [
             {
               "id": "100-02-07-cevizli-kare-baklava",
               "productKey": "100-02-07-cevizli-kare-baklava",
               "image": "",
-              "quantity": null
+              "quantity": 41
             }
           ],
           "packageContents": [
@@ -5872,6 +6622,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0207.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-02-07-cevizli-kare-baklava",
+              "productKey": "100-02-07-cevizli-kare-baklava",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -5887,10 +6655,16 @@
       "key": "100-02-08-cevizli-kelebek",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-kelebek.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 26,
-        "sku": "100.0208.13"
+        "rows": [
+          26,
+          152,
+          153,
+          154,
+          155,
+          156
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -5914,15 +6688,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0208.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 9,
           "boxContents": [
             {
               "id": "100-02-08-cevizli-kelebek",
               "productKey": "100-02-08-cevizli-kelebek",
               "image": "",
-              "quantity": null
+              "quantity": 9
             }
           ],
           "packageContents": [
@@ -5950,20 +6724,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0208.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 16,
           "boxContents": [
             {
               "id": "100-02-08-cevizli-kelebek",
               "productKey": "100-02-08-cevizli-kelebek",
               "image": "",
-              "quantity": null
+              "quantity": 16
             }
           ],
           "packageContents": [
@@ -5991,20 +6767,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0208.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 23,
           "boxContents": [
             {
               "id": "100-02-08-cevizli-kelebek",
               "productKey": "100-02-08-cevizli-kelebek",
               "image": "",
-              "quantity": null
+              "quantity": 23
             }
           ],
           "packageContents": [
@@ -6032,20 +6810,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0208.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 32,
           "boxContents": [
             {
               "id": "100-02-08-cevizli-kelebek",
               "productKey": "100-02-08-cevizli-kelebek",
               "image": "",
-              "quantity": null
+              "quantity": 32
             }
           ],
           "packageContents": [
@@ -6073,12 +6853,14 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
-          "sku": "100.0208.13",
+          "sku": "100.0208.06",
           "images": [],
           "sliceCount": 45,
           "boxContents": [
@@ -6117,6 +6899,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0208.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-02-08-cevizli-kelebek",
+              "productKey": "100-02-08-cevizli-kelebek",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -6132,10 +6932,16 @@
       "key": "100-02-09-cevizli-kivrim",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-kivrim.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 27,
-        "sku": "100.0209.14"
+        "rows": [
+          27,
+          157,
+          158,
+          159,
+          160,
+          161
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -6159,15 +6965,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0209.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 7,
           "boxContents": [
             {
               "id": "100-02-09-cevizli-kivrim",
               "productKey": "100-02-09-cevizli-kivrim",
               "image": "",
-              "quantity": null
+              "quantity": 7
             }
           ],
           "packageContents": [
@@ -6195,20 +7001,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0209.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 13,
           "boxContents": [
             {
               "id": "100-02-09-cevizli-kivrim",
               "productKey": "100-02-09-cevizli-kivrim",
               "image": "",
-              "quantity": null
+              "quantity": 13
             }
           ],
           "packageContents": [
@@ -6236,20 +7044,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0209.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 19,
           "boxContents": [
             {
               "id": "100-02-09-cevizli-kivrim",
               "productKey": "100-02-09-cevizli-kivrim",
               "image": "",
-              "quantity": null
+              "quantity": 19
             }
           ],
           "packageContents": [
@@ -6277,20 +7087,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0209.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 26,
           "boxContents": [
             {
               "id": "100-02-09-cevizli-kivrim",
               "productKey": "100-02-09-cevizli-kivrim",
               "image": "",
-              "quantity": null
+              "quantity": 26
             }
           ],
           "packageContents": [
@@ -6318,12 +7130,14 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
-          "sku": "100.0209.14",
+          "sku": "100.0209.06",
           "images": [],
           "sliceCount": 36,
           "boxContents": [
@@ -6362,6 +7176,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0209.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-02-09-cevizli-kivrim",
+              "productKey": "100-02-09-cevizli-kivrim",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -6377,10 +7209,16 @@
       "key": "100-02-10-cevizli-padisah",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-padisah.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 28,
-        "sku": "100.0210.15"
+        "rows": [
+          28,
+          162,
+          163,
+          164,
+          165,
+          166
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -6404,15 +7242,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0210.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 8,
           "boxContents": [
             {
               "id": "100-02-10-cevizli-padisah",
               "productKey": "100-02-10-cevizli-padisah",
               "image": "",
-              "quantity": null
+              "quantity": 8
             }
           ],
           "packageContents": [
@@ -6440,20 +7278,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0210.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 15,
           "boxContents": [
             {
               "id": "100-02-10-cevizli-padisah",
               "productKey": "100-02-10-cevizli-padisah",
               "image": "",
-              "quantity": null
+              "quantity": 15
             }
           ],
           "packageContents": [
@@ -6481,20 +7321,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0210.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 22,
           "boxContents": [
             {
               "id": "100-02-10-cevizli-padisah",
               "productKey": "100-02-10-cevizli-padisah",
               "image": "",
-              "quantity": null
+              "quantity": 22
             }
           ],
           "packageContents": [
@@ -6522,20 +7364,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0210.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 30,
           "boxContents": [
             {
               "id": "100-02-10-cevizli-padisah",
               "productKey": "100-02-10-cevizli-padisah",
               "image": "",
-              "quantity": null
+              "quantity": 30
             }
           ],
           "packageContents": [
@@ -6563,12 +7407,14 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
-          "sku": "100.0210.15",
+          "sku": "100.0210.06",
           "images": [],
           "sliceCount": 42,
           "boxContents": [
@@ -6607,6 +7453,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0210.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-02-10-cevizli-padisah",
+              "productKey": "100-02-10-cevizli-padisah",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -6622,10 +7486,16 @@
       "key": "100-02-11-cevizli-prenses",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-prenses.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 29,
-        "sku": "100.0211.16"
+        "rows": [
+          29,
+          167,
+          168,
+          169,
+          170,
+          171
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -6649,15 +7519,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0211.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 8,
           "boxContents": [
             {
               "id": "100-02-11-cevizli-prenses",
               "productKey": "100-02-11-cevizli-prenses",
               "image": "",
-              "quantity": null
+              "quantity": 8
             }
           ],
           "packageContents": [
@@ -6685,20 +7555,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0211.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 15,
           "boxContents": [
             {
               "id": "100-02-11-cevizli-prenses",
               "productKey": "100-02-11-cevizli-prenses",
               "image": "",
-              "quantity": null
+              "quantity": 15
             }
           ],
           "packageContents": [
@@ -6726,20 +7598,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0211.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 22,
           "boxContents": [
             {
               "id": "100-02-11-cevizli-prenses",
               "productKey": "100-02-11-cevizli-prenses",
               "image": "",
-              "quantity": null
+              "quantity": 22
             }
           ],
           "packageContents": [
@@ -6767,20 +7641,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0211.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 30,
           "boxContents": [
             {
               "id": "100-02-11-cevizli-prenses",
               "productKey": "100-02-11-cevizli-prenses",
               "image": "",
-              "quantity": null
+              "quantity": 30
             }
           ],
           "packageContents": [
@@ -6808,12 +7684,14 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
-          "sku": "100.0211.16",
+          "sku": "100.0211.06",
           "images": [],
           "sliceCount": 42,
           "boxContents": [
@@ -6852,6 +7730,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0211.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-02-11-cevizli-prenses",
+              "productKey": "100-02-11-cevizli-prenses",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -6867,10 +7763,16 @@
       "key": "100-02-12-cevizli-saray-sarma",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-saray-sarma.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 30,
-        "sku": "100.0212.17"
+        "rows": [
+          30,
+          172,
+          173,
+          174,
+          175,
+          176
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -6894,15 +7796,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0212.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 16,
           "boxContents": [
             {
               "id": "100-02-12-cevizli-saray-sarma",
               "productKey": "100-02-12-cevizli-saray-sarma",
               "image": "",
-              "quantity": null
+              "quantity": 16
             }
           ],
           "packageContents": [
@@ -6930,20 +7832,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0212.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 29,
           "boxContents": [
             {
               "id": "100-02-12-cevizli-saray-sarma",
               "productKey": "100-02-12-cevizli-saray-sarma",
               "image": "",
-              "quantity": null
+              "quantity": 29
             }
           ],
           "packageContents": [
@@ -6971,20 +7875,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0212.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 42,
           "boxContents": [
             {
               "id": "100-02-12-cevizli-saray-sarma",
               "productKey": "100-02-12-cevizli-saray-sarma",
               "image": "",
-              "quantity": null
+              "quantity": 42
             }
           ],
           "packageContents": [
@@ -7012,20 +7918,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0212.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 58,
           "boxContents": [
             {
               "id": "100-02-12-cevizli-saray-sarma",
               "productKey": "100-02-12-cevizli-saray-sarma",
               "image": "",
-              "quantity": null
+              "quantity": 58
             }
           ],
           "packageContents": [
@@ -7053,20 +7961,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
-          "sku": "100.0212.17",
+          "sku": "100.0212.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 40,
           "boxContents": [
             {
               "id": "100-02-12-cevizli-saray-sarma",
               "productKey": "100-02-12-cevizli-saray-sarma",
               "image": "",
-              "quantity": null
+              "quantity": 40
             }
           ],
           "packageContents": [
@@ -7097,6 +8007,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0212.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 4,
+          "boxContents": [
+            {
+              "id": "100-02-12-cevizli-saray-sarma",
+              "productKey": "100-02-12-cevizli-saray-sarma",
+              "image": "",
+              "quantity": 4
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [
@@ -7112,10 +8040,16 @@
       "key": "100-02-13-cevizli-sari-burma",
       "url": "urunler/baklavalar/cevizli-baklavalar/cevizli-sari-burma.html",
       "variant_source": {
-        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx",
+        "file": "ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx",
         "sheet": "100_BAKLAVALAR",
-        "row": 31,
-        "sku": "100.0213.18"
+        "rows": [
+          31,
+          177,
+          178,
+          179,
+          180,
+          181
+        ]
       },
       "currency": "TRY",
       "images": [],
@@ -7139,15 +8073,15 @@
         {
           "code": "XS",
           "stock": null,
-          "sku": "",
+          "sku": "100.0213.02",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 13,
           "boxContents": [
             {
               "id": "100-02-13-cevizli-sari-burma",
               "productKey": "100-02-13-cevizli-sari-burma",
               "image": "",
-              "quantity": null
+              "quantity": 13
             }
           ],
           "packageContents": [
@@ -7175,20 +8109,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "S",
           "stock": null,
-          "sku": "",
+          "sku": "100.0213.03",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 23,
           "boxContents": [
             {
               "id": "100-02-13-cevizli-sari-burma",
               "productKey": "100-02-13-cevizli-sari-burma",
               "image": "",
-              "quantity": null
+              "quantity": 23
             }
           ],
           "packageContents": [
@@ -7216,20 +8152,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "M",
           "stock": null,
-          "sku": "",
+          "sku": "100.0213.04",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 33,
           "boxContents": [
             {
               "id": "100-02-13-cevizli-sari-burma",
               "productKey": "100-02-13-cevizli-sari-burma",
               "image": "",
-              "quantity": null
+              "quantity": 33
             }
           ],
           "packageContents": [
@@ -7257,20 +8195,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "L",
           "stock": null,
-          "sku": "",
+          "sku": "100.0213.05",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 45,
           "boxContents": [
             {
               "id": "100-02-13-cevizli-sari-burma",
               "productKey": "100-02-13-cevizli-sari-burma",
               "image": "",
-              "quantity": null
+              "quantity": 45
             }
           ],
           "packageContents": [
@@ -7298,20 +8238,22 @@
               },
               "quantity": null
             }
-          ]
+          ],
+          "onlineSale": true,
+          "commonMarket": true
         },
         {
           "code": "XL",
           "stock": null,
-          "sku": "100.0213.18",
+          "sku": "100.0213.06",
           "images": [],
-          "sliceCount": null,
+          "sliceCount": 32,
           "boxContents": [
             {
               "id": "100-02-13-cevizli-sari-burma",
               "productKey": "100-02-13-cevizli-sari-burma",
               "image": "",
-              "quantity": null
+              "quantity": 32
             }
           ],
           "packageContents": [
@@ -7342,6 +8284,24 @@
           ],
           "onlineSale": true,
           "commonMarket": true
+        },
+        {
+          "code": "porsiyon",
+          "stock": null,
+          "images": [],
+          "sku": "100.0213.01",
+          "onlineSale": false,
+          "commonMarket": true,
+          "sliceCount": 3,
+          "boxContents": [
+            {
+              "id": "100-02-13-cevizli-sari-burma",
+              "productKey": "100-02-13-cevizli-sari-burma",
+              "image": "",
+              "quantity": 3
+            }
+          ],
+          "packageContents": []
         }
       ],
       "legacyCodes": [

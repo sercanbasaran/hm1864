@@ -27,7 +27,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -40,7 +40,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -53,7 +53,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -66,7 +66,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -82,6 +82,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "123 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "İncecik el açması yufkası, bol antep fıstığı ve gerçek sadeyağ ile sofralarınıza taşıdığımız geleneksel lezzet.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (Antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -132,7 +145,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -145,7 +158,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -158,7 +171,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -171,7 +184,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -187,6 +200,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "140 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Geleneksel lezzetin en klasik hali; incecik el açması yufkalar, bol antep fıstığı ve gerçek sadeyağ buluşması.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), süt, antep fıstığı, buğday irmiği, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, süt) ve sert kabuklu meyveler (antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -237,7 +263,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -250,7 +276,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -263,7 +289,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -276,7 +302,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -292,6 +318,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "132 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "El emeğiyle özel form verilen, çıtır dokusu ve bol fıstığıyla damaklarda iz bırakan eşsiz zanaat ürünü.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, süt) ve sert kabuklu meyveler (antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -342,7 +381,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -355,7 +394,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -368,7 +407,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -381,7 +420,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -397,6 +436,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "114 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Geleneksel el açması baklavanın premium bitter çikolata ve kakao notalarıyla modern ve nefis buluşması.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, su, yumurta, buğday nişastası, kakao tozu, bitter çikolata, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (Antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -447,7 +499,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -460,7 +512,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -473,7 +525,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -486,7 +538,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -502,6 +554,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "140 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Üçgen kesimi, ekstra bol fıstığı ve çıtır çıtır dokusuyla tatlı anlarınıza görkemli bir lezzet katın.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, su, yumurta, buğday nişastası, kakao tozu, bitter çikolata, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, çikolata) ve sert kabuklu meyveler (Antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -552,7 +617,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -565,7 +630,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -578,7 +643,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -591,7 +656,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -607,6 +672,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "140 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Zarif şekli ve ağızda dağılan çıtır yufkasıyla geleneksel tatlı keyfini zirveye taşıyan özel lezzet.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -657,7 +735,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -670,7 +748,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -683,7 +761,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -696,7 +774,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -712,6 +790,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "104 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Tek yufkaya sarılan yoğun Antep fıstığı ve hafif şerbetiyle fıstık severlerin vazgeçilmez tutkusu.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -762,7 +853,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -775,7 +866,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -788,7 +879,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -801,7 +892,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -817,6 +908,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "140 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Üçgen kesimi, ekstra bol fıstığı ve çıtır çıtır dokusuyla tatlı anlarınıza görkemli bir lezzet katın.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), süt, antep fıstığı, buğday irmiği, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, süt) ve sert kabuklu meyveler (antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -867,7 +971,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -880,7 +984,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -893,7 +997,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -906,7 +1010,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -922,6 +1026,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "165 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Klasik kare kesimi ve yoğun malzeme dengesiyle geleneksel lezzetten vazgeçmeyenler için ideal seçim.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -972,7 +1089,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -985,7 +1102,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -998,7 +1115,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1011,7 +1128,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1027,6 +1144,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "126 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "El emeğiyle sarılan özel kıvrımlı yapısı ve çıtırlığıyla her lokmada ayrı bir lezzet sunan zanaat ürünü.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -1077,7 +1207,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1090,7 +1220,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1103,7 +1233,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1116,7 +1246,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1132,6 +1262,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "111 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Daha az şerbetli yapısı, yoğun fıstık aroması ve üstün çıtırlığıyla hafif ve doyurucu lezzet arayanlara.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (Antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -1182,7 +1325,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1195,7 +1338,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1208,7 +1351,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1221,7 +1364,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1237,6 +1380,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "140 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "İçerisindeki özel kaymağı, bol Antep fıstığı ve zarif üçgen yapısıyla damaklarda iz bırakan saray usulü lezzet.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), süt, antep fıstığı, buğday irmiği, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, süt) ve sert kabuklu meyveler (antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -1287,7 +1443,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1300,7 +1456,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1313,7 +1469,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1326,7 +1482,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1342,6 +1498,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "126 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Hazırlanıyor.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -1392,7 +1561,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1405,7 +1574,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1418,7 +1587,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1431,7 +1600,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1447,6 +1616,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "147 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "İncecik yufkası, zengin fıstık dolgusu ve zarif dokunuşlarıyla tatlı keyfinize asil bir lezzet katın.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, beyaz çikolata (süt ürünü), su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, beyaz çikolata) ve sert kabuklu meyveler (Antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -1497,7 +1679,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1510,7 +1692,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1523,7 +1705,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1536,7 +1718,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1552,6 +1734,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "120 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Bol fıstıklı iç harcı ve ipeksi sargı dokusuyla saray mutfağının ihtişamını günümüze taşıyan özel tatlı.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, süt) ve sert kabuklu meyveler (antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -1602,7 +1797,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1615,7 +1810,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1628,7 +1823,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1641,7 +1836,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1657,6 +1852,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "120 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Maharetli ellerde burularak şekillendirilen, çıtırlığı ve bol antep fıstığıyla akıllarda kalıcı geleneksel lezzet.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), antep fıstığı, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, süt) ve sert kabuklu meyveler (antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -1707,7 +1915,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1720,7 +1928,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1733,7 +1941,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1746,7 +1954,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1762,6 +1970,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "168 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Kendine has kaymağı ve bol Antep fıstığıyla ağızda eriyen, geleneksel saray lezzetinin en popüler hali.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), süt, antep fıstığı, buğday irmiği, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, süt) ve sert kabuklu meyveler (antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda ceviz içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -1812,7 +2033,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1825,7 +2046,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1838,7 +2059,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1851,7 +2072,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1867,6 +2088,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "144 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "El açması incecik yufkaları, bol ceviz içi ve otantik sadeyağı ile Ankara’nın geleneksel tatlı geleneği.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), ceviz, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, süt) ve sert kabuklu meyveler (Antep fıstığı) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -1917,7 +2151,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1930,7 +2164,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1943,7 +2177,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1956,7 +2190,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -1972,6 +2206,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "144 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Kat kat incecik yufkalar arasında saklı bol ceviz ve gerçek sadeyağın eşsiz uyumu.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), süt, ceviz, buğday irmiği, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (ceviz) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -2022,7 +2269,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2035,7 +2282,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2048,7 +2295,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2061,7 +2308,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2077,6 +2324,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "120 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "El emeğiyle bükülen özel cimcik formu ve bol ceviz dolgusuyla her lokmada ayrı bir çıtırlık.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), ceviz, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (ceviz) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -2127,7 +2387,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2140,7 +2400,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2153,7 +2413,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2166,7 +2426,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2182,6 +2442,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "168 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Geleneksel cevizli baklavanın zengin bitter çikolata ve kakao aromalarıyla harmanlanmış modern yorumu.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), ceviz, su, yumurta, buğday nişastası, kakao tozu, bitter çikolata, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, çikolata) ve sert kabuklu meyveler (ceviz) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -2232,7 +2505,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2245,7 +2518,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2258,7 +2531,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2271,7 +2544,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2287,6 +2560,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "112 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Tek kat yufkaya sarılan yoğun ceviz dolgusu ve hafif şerbetiyle ceviz severlerin favorisi.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), ceviz, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (ceviz) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -2337,7 +2623,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2350,7 +2636,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2363,7 +2649,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2376,7 +2662,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2392,6 +2678,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "135 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Anne eli değmişçesine samimi, bol cevizli ve geleneksel ev yapımı baklava lezzeti.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), ceviz, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (ceviz) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -2442,7 +2741,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2455,7 +2754,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2468,7 +2767,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2481,7 +2780,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2497,6 +2796,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "183 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Dengeli ceviz oranı ve klasik kare kesimiyle geleneksel tatlardan vazgeçmeyenlere özel.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), ceviz, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (ceviz) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -2547,7 +2859,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2560,7 +2872,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2573,7 +2885,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2586,7 +2898,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2602,6 +2914,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "180 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Zarif kelebek tasarımı, hafif yapısı ve bol ceviz içiyle sofralara zarafet katan tatlı.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), süt, ceviz, buğday irmiği, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, süt) ve sert kabuklu meyveler (ceviz) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -2652,7 +2977,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2665,7 +2990,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2678,7 +3003,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2691,7 +3016,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2707,6 +3032,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "132 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Maharetli ellerde sarılarak hazırlanan kıvrımlı yapısı ve bol ceviziyle çıtır çıtır bir lezzet.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), ceviz, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (ceviz) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -2757,7 +3095,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2770,7 +3108,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2783,7 +3121,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2796,7 +3134,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2812,6 +3150,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "162 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Zengin ceviz içeriği ve görkemli yapısıyla saray mutfağından bugüne uzanan özel bir lezzet.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), ceviz, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (ceviz) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -2862,7 +3213,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2875,7 +3226,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2888,7 +3239,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2901,7 +3252,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2917,6 +3268,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "162 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "İncecik yufkası, zengin ceviz içi ve zarif çikolata dokunuşuyla tatlı keyfinize asil bir dokunuş.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), ceviz, fındıklı sütlü çikolata (süt ürünü, fındık), su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ, sütlü çikolata) ve sert kabuklu meyveler (ceviz, fındık) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -2967,7 +3331,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2980,7 +3344,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -2993,7 +3357,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -3006,7 +3370,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -3022,6 +3386,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "124 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "İpeksi sargı dokusu ve yoğun cevizli harcıyla Osmanlı saray mutfağının seçkin mirası.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), ceviz, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (ceviz) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {
@@ -3072,7 +3449,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "500 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -3085,7 +3462,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "900 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -3098,7 +3475,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1300 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -3111,7 +3488,7 @@
           "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
           "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
           "portion": "",
-          "weight": "",
+          "weight": "1800 gram",
           "delivery": "",
           "packaging": ""
         },
@@ -3127,6 +3504,19 @@
           "weight": "2500 gram",
           "delivery": "",
           "packaging": ""
+        },
+        "porsiyon": {
+          "label": "Porsiyon",
+          "portion": "",
+          "weight": "120 gram",
+          "delivery": "",
+          "packaging": "",
+          "description": "Altın sarısı rengi, burma formu ve bol ceviz dolgusuyla akıllarda kalıcı geleneksel tat.",
+          "ingredients": "Buğday unu, şeker, sadeyağ (süt ürünü), ceviz, su, yumurta, buğday nişastası, sofra tuzu, limon suyu.",
+          "allergenInfo": "Gluten (buğday), yumurta, süt ürünleri (sadeyağ) ve sert kabuklu meyveler (ceviz) içerir. Aynı üretim hattında işlendiğinden eser miktarda antep fıstığı içerebilir.",
+          "storage": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "servingSuggestion": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız."
         }
       },
       "editorial": {

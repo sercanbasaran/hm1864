@@ -2,9 +2,9 @@
 
 ## Kaynak ve mevcut veri
 
-Kaynak: ÜRÜN LİSTESİ (100_BAKLAVALAR).xlsx / 100_BAKLAVALAR, 30 ürün (17 fıstıklı, 13 cevizli). Tüm satırlar XL varyantıdır. 9 para biriminin fiyatları doğrudan dosyadan aktarılmıştır; kur hesabı yapılmaz. Kaynak SKU son ekleri (cevizlilerde .07–.18 dahil) aynen korunur.
+Kaynak: ÜRÜN LİSTESİ (100_BAKLAVALAR)(1).xlsx / 100_BAKLAVALAR. 30 ürün (17 fıstıklı, 13 cevizli), her ürün için XS, S, M, L, XL ve Porsiyon olmak üzere toplam 180 varyant satırı aktarılmıştır. SKU, dilim sayısı, gramaj ve 9 para biriminin fiyatları dosyadaki değerlerle korunur; yeniden fiyat veya kur hesabı yapılmaz.
 
-Mevcut ürün anahtarları ve URL'leri korunmuştur. code güncel ana ürün kodu, variants[].sku Excel'deki varyant SKU'sudur. Eski kodlar legacyCodes içinde bulunur. XS/S/M/L varyantları korunmuştur; dosyada bulunmayan SKU, gramaj, fiyat ve adetler tahmin edilmemiştir. Varsayılan seçim defaultVariant: "XL" olduğundan ziyaretçi dolu varyantı görür.
+Mevcut ürün anahtarları ve URL’leri korunmuştur. code ana ürün kodu, variants[].sku Excel’deki varyant SKU’sudur. Eski ana kodlar legacyCodes içinde bulunur. Varsayılan seçim defaultVariant: "XL" olarak korunmuştur. Varyant sırası XS, S, M, L, XL, Porsiyon şeklindedir. Porsiyonun teknik kodu porsiyon, etiketiyse Porsiyon’dur. Diğer boyutlar kendi adlarını kullanır.
 
 ## Düzenleme dosyaları
 
@@ -15,7 +15,7 @@ Mevcut ürün anahtarları ve URL'leri korunmuştur. code güncel ana ürün kod
 
 ## Dilim sayısı ve kutu içeriği
 
-quantityUnit: "slice" porsiyon yerine dilim sayısını gösterir. Varyantın sliceCount alanı sayı, "46/48" gibi kaynak metni veya null olabilir. 14 ürünün XL dilim bilgisi dolu, 16'sının bilgisi kaynakta boştur. Eksik değer sıfır olarak gösterilmez.
+quantityUnit: "slice" tüm baklava varyantlarında porsiyon adedi yerine dilim sayısını gösterir. Varyantın sliceCount alanı sayı, "46/48" gibi kaynak metni veya null olabilir. Güncel dosyadaki 180 varyantın dilim sayısı ve gramajı doludur. XS/S/M/L/XL gramajları sırasıyla 500/900/1300/1800/2500 gramdır; Porsiyon gramajı ürüne göre değişir. Gelecekte eksik bırakılan değerler sıfıra çevrilmez.
 
 Her varyantın boxContents listesinde görsel, isim ve adet tablosu bulunur:
 
@@ -31,7 +31,7 @@ sliceCount toplam dilim bilgisidir; boxContents[].quantity her çeşidin adedidi
 
 ## Kargo paketine dahil olanlar
 
-variants[].packageContents listesi varyanta özeldir. XL'de kolonyalı mendil, peçete ve HM 1864 Kürdan Bayrak adetlerinin her biri 8'dir. XS/S/M/L için adetler null bırakılmıştır; gerçek sayıları bu alanlara girin. Bir varyantın değerleri diğerine miras kalmaz.
+variants[].packageContents listesi varyanta özeldir. XL’de kolonyalı mendil, peçete ve HM 1864 Kürdan Bayrak adetlerinin her biri 8’dir. Güncel dosyada diğer boyutların yardımcı malzeme adetleri bulunmadığından XS/S/M/L için mevcut null değerler korunmuştur. Porsiyon satırları onlineSale: false ve commonMarket: true olarak aktarılır; mağazadan sipariş mesajı gösterilir ve kargo malzemeleri akordiyonu gizlenir (packageContents: []). Bir varyantın değerleri diğerine miras kalmaz.
 
 ~~~json
 {"id":"napkin","name":{"tr":"Peçete","en":"Napkin"},"quantity":8}

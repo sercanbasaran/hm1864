@@ -16,48 +16,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1190,
+          "USD": 24,
+          "EUR": 21,
+          "AED": 88,
+          "GBP": 18,
+          "DKK": 160,
+          "SEK": 239,
+          "CNY": 161,
+          "JPY": 3802
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2950,
+          "USD": 60,
+          "EUR": 53,
+          "AED": 219,
+          "GBP": 45,
+          "DKK": 397,
+          "SEK": 593,
+          "CNY": 399,
+          "JPY": 9425
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3094,
+          "USD": 63,
+          "EUR": 56,
+          "AED": 230,
+          "GBP": 47,
+          "DKK": 417,
+          "SEK": 622,
+          "CNY": 419,
+          "JPY": 9885
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 4284,
+          "USD": 87,
+          "EUR": 77,
+          "AED": 318,
+          "GBP": 65,
+          "DKK": 577,
+          "SEK": 862,
+          "CNY": 580,
+          "JPY": 13687
         },
         "XL": {
           "TRY": 5950,
@@ -69,6 +69,17 @@
           "SEK": 1197,
           "CNY": 805,
           "JPY": 19010
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -86,48 +97,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1000,
+          "USD": 20,
+          "EUR": 18,
+          "AED": 74,
+          "GBP": 15,
+          "DKK": 135,
+          "SEK": 201,
+          "CNY": 135,
+          "JPY": 3195
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2350,
+          "USD": 48,
+          "EUR": 42,
+          "AED": 175,
+          "GBP": 36,
+          "DKK": 317,
+          "SEK": 473,
+          "CNY": 318,
+          "JPY": 7508
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2600,
+          "USD": 53,
+          "EUR": 47,
+          "AED": 193,
+          "GBP": 40,
+          "DKK": 350,
+          "SEK": 523,
+          "CNY": 352,
+          "JPY": 8307
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3600,
+          "USD": 73,
+          "EUR": 65,
+          "AED": 267,
+          "GBP": 55,
+          "DKK": 485,
+          "SEK": 724,
+          "CNY": 487,
+          "JPY": 11502
         },
         "XL": {
           "TRY": 5000,
@@ -139,6 +150,17 @@
           "SEK": 1006,
           "CNY": 676,
           "JPY": 15974
+        },
+        "porsiyon": {
+          "TRY": 460,
+          "USD": 9,
+          "EUR": 8,
+          "AED": 34,
+          "GBP": 7,
+          "DKK": 62,
+          "SEK": 93,
+          "CNY": 62,
+          "JPY": 1470
         }
       }
     },
@@ -156,48 +178,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1126,
+          "USD": 23,
+          "EUR": 20,
+          "AED": 84,
+          "GBP": 17,
+          "DKK": 152,
+          "SEK": 227,
+          "CNY": 152,
+          "JPY": 3597
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2027,
+          "USD": 41,
+          "EUR": 37,
+          "AED": 151,
+          "GBP": 31,
+          "DKK": 273,
+          "SEK": 408,
+          "CNY": 274,
+          "JPY": 6476
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2928,
+          "USD": 59,
+          "EUR": 53,
+          "AED": 217,
+          "GBP": 45,
+          "DKK": 394,
+          "SEK": 589,
+          "CNY": 396,
+          "JPY": 9355
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 4054,
+          "USD": 82,
+          "EUR": 73,
+          "AED": 301,
+          "GBP": 62,
+          "DKK": 546,
+          "SEK": 816,
+          "CNY": 548,
+          "JPY": 12952
         },
         "XL": {
           "TRY": 5630,
@@ -209,6 +231,17 @@
           "SEK": 1133,
           "CNY": 762,
           "JPY": 17987
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -226,48 +259,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 840,
+          "USD": 17,
+          "EUR": 15,
+          "AED": 62,
+          "GBP": 13,
+          "DKK": 113,
+          "SEK": 169,
+          "CNY": 114,
+          "JPY": 2684
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2250,
+          "USD": 45,
+          "EUR": 41,
+          "AED": 167,
+          "GBP": 34,
+          "DKK": 303,
+          "SEK": 453,
+          "CNY": 304,
+          "JPY": 7188
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2184,
+          "USD": 44,
+          "EUR": 39,
+          "AED": 162,
+          "GBP": 33,
+          "DKK": 294,
+          "SEK": 439,
+          "CNY": 295,
+          "JPY": 6978
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3900,
+          "USD": 79,
+          "EUR": 70,
+          "AED": 290,
+          "GBP": 59,
+          "DKK": 525,
+          "SEK": 785,
+          "CNY": 528,
+          "JPY": 12460
         },
         "XL": {
           "TRY": 4200,
@@ -279,6 +312,17 @@
           "SEK": 845,
           "CNY": 568,
           "JPY": 13419
+        },
+        "porsiyon": {
+          "TRY": 460,
+          "USD": 9,
+          "EUR": 8,
+          "AED": 34,
+          "GBP": 7,
+          "DKK": 62,
+          "SEK": 93,
+          "CNY": 62,
+          "JPY": 1470
         }
       }
     },
@@ -296,48 +340,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 840,
+          "USD": 17,
+          "EUR": 15,
+          "AED": 62,
+          "GBP": 13,
+          "DKK": 113,
+          "SEK": 169,
+          "CNY": 114,
+          "JPY": 2684
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1512,
+          "USD": 31,
+          "EUR": 27,
+          "AED": 112,
+          "GBP": 23,
+          "DKK": 204,
+          "SEK": 304,
+          "CNY": 205,
+          "JPY": 4831
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2184,
+          "USD": 44,
+          "EUR": 39,
+          "AED": 162,
+          "GBP": 33,
+          "DKK": 294,
+          "SEK": 439,
+          "CNY": 295,
+          "JPY": 6978
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3024,
+          "USD": 61,
+          "EUR": 54,
+          "AED": 225,
+          "GBP": 46,
+          "DKK": 407,
+          "SEK": 608,
+          "CNY": 409,
+          "JPY": 9661
         },
         "XL": {
           "TRY": 4200,
@@ -349,6 +393,17 @@
           "SEK": 845,
           "CNY": 568,
           "JPY": 13419
+        },
+        "porsiyon": {
+          "TRY": 460,
+          "USD": 9,
+          "EUR": 8,
+          "AED": 34,
+          "GBP": 7,
+          "DKK": 62,
+          "SEK": 93,
+          "CNY": 62,
+          "JPY": 1470
         }
       }
     },
@@ -366,48 +421,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 975,
+          "USD": 20,
+          "EUR": 18,
+          "AED": 72,
+          "GBP": 15,
+          "DKK": 131,
+          "SEK": 196,
+          "CNY": 132,
+          "JPY": 3115
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2750,
+          "USD": 56,
+          "EUR": 50,
+          "AED": 204,
+          "GBP": 42,
+          "DKK": 370,
+          "SEK": 553,
+          "CNY": 372,
+          "JPY": 8786
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2535,
+          "USD": 51,
+          "EUR": 46,
+          "AED": 188,
+          "GBP": 39,
+          "DKK": 341,
+          "SEK": 510,
+          "CNY": 343,
+          "JPY": 8099
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3510,
+          "USD": 71,
+          "EUR": 63,
+          "AED": 261,
+          "GBP": 53,
+          "DKK": 473,
+          "SEK": 706,
+          "CNY": 475,
+          "JPY": 11214
         },
         "XL": {
           "TRY": 4875,
@@ -419,6 +474,17 @@
           "SEK": 981,
           "CNY": 660,
           "JPY": 15575
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -436,48 +502,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1100,
+          "USD": 22,
+          "EUR": 20,
+          "AED": 82,
+          "GBP": 17,
+          "DKK": 148,
+          "SEK": 221,
+          "CNY": 149,
+          "JPY": 3514
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2600,
+          "USD": 53,
+          "EUR": 47,
+          "AED": 193,
+          "GBP": 40,
+          "DKK": 350,
+          "SEK": 523,
+          "CNY": 352,
+          "JPY": 8307
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3250,
+          "USD": 66,
+          "EUR": 59,
+          "AED": 241,
+          "GBP": 50,
+          "DKK": 438,
+          "SEK": 654,
+          "CNY": 440,
+          "JPY": 10383
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3960,
+          "USD": 80,
+          "EUR": 71,
+          "AED": 294,
+          "GBP": 60,
+          "DKK": 533,
+          "SEK": 797,
+          "CNY": 536,
+          "JPY": 12652
         },
         "XL": {
           "TRY": 5500,
@@ -489,6 +555,17 @@
           "SEK": 1106,
           "CNY": 744,
           "JPY": 17572
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -506,48 +583,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 840,
+          "USD": 17,
+          "EUR": 15,
+          "AED": 62,
+          "GBP": 13,
+          "DKK": 113,
+          "SEK": 169,
+          "CNY": 114,
+          "JPY": 2684
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2200,
+          "USD": 44,
+          "EUR": 40,
+          "AED": 163,
+          "GBP": 34,
+          "DKK": 296,
+          "SEK": 443,
+          "CNY": 298,
+          "JPY": 7029
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2184,
+          "USD": 44,
+          "EUR": 39,
+          "AED": 162,
+          "GBP": 33,
+          "DKK": 294,
+          "SEK": 439,
+          "CNY": 295,
+          "JPY": 6978
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3024,
+          "USD": 61,
+          "EUR": 54,
+          "AED": 225,
+          "GBP": 46,
+          "DKK": 407,
+          "SEK": 608,
+          "CNY": 409,
+          "JPY": 9661
         },
         "XL": {
           "TRY": 4200,
@@ -559,6 +636,17 @@
           "SEK": 845,
           "CNY": 568,
           "JPY": 13419
+        },
+        "porsiyon": {
+          "TRY": 460,
+          "USD": 9,
+          "EUR": 8,
+          "AED": 34,
+          "GBP": 7,
+          "DKK": 62,
+          "SEK": 93,
+          "CNY": 62,
+          "JPY": 1470
         }
       }
     },
@@ -576,48 +664,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1100,
+          "USD": 22,
+          "EUR": 20,
+          "AED": 82,
+          "GBP": 17,
+          "DKK": 148,
+          "SEK": 221,
+          "CNY": 149,
+          "JPY": 3514
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1980,
+          "USD": 40,
+          "EUR": 36,
+          "AED": 147,
+          "GBP": 30,
+          "DKK": 267,
+          "SEK": 398,
+          "CNY": 268,
+          "JPY": 6326
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2860,
+          "USD": 58,
+          "EUR": 52,
+          "AED": 212,
+          "GBP": 44,
+          "DKK": 385,
+          "SEK": 575,
+          "CNY": 387,
+          "JPY": 9137
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3960,
+          "USD": 80,
+          "EUR": 71,
+          "AED": 294,
+          "GBP": 60,
+          "DKK": 533,
+          "SEK": 797,
+          "CNY": 536,
+          "JPY": 12652
         },
         "XL": {
           "TRY": 5500,
@@ -629,6 +717,17 @@
           "SEK": 1106,
           "CNY": 744,
           "JPY": 17572
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -646,48 +745,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1120,
+          "USD": 23,
+          "EUR": 20,
+          "AED": 83,
+          "GBP": 17,
+          "DKK": 151,
+          "SEK": 225,
+          "CNY": 152,
+          "JPY": 3578
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2300,
+          "USD": 47,
+          "EUR": 41,
+          "AED": 171,
+          "GBP": 35,
+          "DKK": 310,
+          "SEK": 463,
+          "CNY": 311,
+          "JPY": 7348
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2912,
+          "USD": 59,
+          "EUR": 52,
+          "AED": 216,
+          "GBP": 44,
+          "DKK": 392,
+          "SEK": 586,
+          "CNY": 394,
+          "JPY": 9304
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 4032,
+          "USD": 82,
+          "EUR": 73,
+          "AED": 299,
+          "GBP": 61,
+          "DKK": 543,
+          "SEK": 811,
+          "CNY": 546,
+          "JPY": 12882
         },
         "XL": {
           "TRY": 5600,
@@ -699,6 +798,17 @@
           "SEK": 1127,
           "CNY": 758,
           "JPY": 17891
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -716,48 +826,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 940,
+          "USD": 19,
+          "EUR": 17,
+          "AED": 70,
+          "GBP": 14,
+          "DKK": 127,
+          "SEK": 189,
+          "CNY": 127,
+          "JPY": 3003
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2350,
+          "USD": 48,
+          "EUR": 42,
+          "AED": 175,
+          "GBP": 36,
+          "DKK": 317,
+          "SEK": 473,
+          "CNY": 318,
+          "JPY": 7508
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2444,
+          "USD": 49,
+          "EUR": 44,
+          "AED": 181,
+          "GBP": 37,
+          "DKK": 329,
+          "SEK": 492,
+          "CNY": 331,
+          "JPY": 7808
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3384,
+          "USD": 68,
+          "EUR": 61,
+          "AED": 251,
+          "GBP": 52,
+          "DKK": 456,
+          "SEK": 681,
+          "CNY": 458,
+          "JPY": 10812
         },
         "XL": {
           "TRY": 4700,
@@ -769,6 +879,17 @@
           "SEK": 945,
           "CNY": 636,
           "JPY": 15016
+        },
+        "porsiyon": {
+          "TRY": 460,
+          "USD": 9,
+          "EUR": 8,
+          "AED": 34,
+          "GBP": 7,
+          "DKK": 62,
+          "SEK": 93,
+          "CNY": 62,
+          "JPY": 1470
         }
       }
     },
@@ -786,48 +907,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1100,
+          "USD": 22,
+          "EUR": 20,
+          "AED": 82,
+          "GBP": 17,
+          "DKK": 148,
+          "SEK": 221,
+          "CNY": 149,
+          "JPY": 3514
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1980,
+          "USD": 40,
+          "EUR": 36,
+          "AED": 147,
+          "GBP": 30,
+          "DKK": 267,
+          "SEK": 398,
+          "CNY": 268,
+          "JPY": 6326
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2860,
+          "USD": 58,
+          "EUR": 52,
+          "AED": 212,
+          "GBP": 44,
+          "DKK": 385,
+          "SEK": 575,
+          "CNY": 387,
+          "JPY": 9137
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3960,
+          "USD": 80,
+          "EUR": 71,
+          "AED": 294,
+          "GBP": 60,
+          "DKK": 533,
+          "SEK": 797,
+          "CNY": 536,
+          "JPY": 12652
         },
         "XL": {
           "TRY": 5500,
@@ -839,6 +960,17 @@
           "SEK": 1106,
           "CNY": 744,
           "JPY": 17572
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -856,48 +988,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1120,
+          "USD": 23,
+          "EUR": 20,
+          "AED": 83,
+          "GBP": 17,
+          "DKK": 151,
+          "SEK": 225,
+          "CNY": 152,
+          "JPY": 3578
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2300,
+          "USD": 47,
+          "EUR": 41,
+          "AED": 171,
+          "GBP": 35,
+          "DKK": 310,
+          "SEK": 463,
+          "CNY": 311,
+          "JPY": 7348
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2912,
+          "USD": 59,
+          "EUR": 52,
+          "AED": 216,
+          "GBP": 44,
+          "DKK": 392,
+          "SEK": 586,
+          "CNY": 394,
+          "JPY": 9304
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 4200,
+          "USD": 85,
+          "EUR": 76,
+          "AED": 312,
+          "GBP": 64,
+          "DKK": 566,
+          "SEK": 845,
+          "CNY": 568,
+          "JPY": 13419
         },
         "XL": {
           "TRY": 5600,
@@ -909,6 +1041,17 @@
           "SEK": 1127,
           "CNY": 758,
           "JPY": 17891
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -926,48 +1069,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 950,
+          "USD": 19,
+          "EUR": 17,
+          "AED": 71,
+          "GBP": 14,
+          "DKK": 128,
+          "SEK": 191,
+          "CNY": 129,
+          "JPY": 3035
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2100,
+          "USD": 42,
+          "EUR": 38,
+          "AED": 156,
+          "GBP": 32,
+          "DKK": 283,
+          "SEK": 422,
+          "CNY": 284,
+          "JPY": 6709
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2470,
+          "USD": 50,
+          "EUR": 45,
+          "AED": 183,
+          "GBP": 38,
+          "DKK": 333,
+          "SEK": 497,
+          "CNY": 334,
+          "JPY": 7891
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3575,
+          "USD": 72,
+          "EUR": 64,
+          "AED": 265,
+          "GBP": 54,
+          "DKK": 482,
+          "SEK": 719,
+          "CNY": 484,
+          "JPY": 11422
         },
         "XL": {
           "TRY": 4750,
@@ -979,6 +1122,17 @@
           "SEK": 956,
           "CNY": 643,
           "JPY": 15176
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -996,48 +1150,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1126,
+          "USD": 23,
+          "EUR": 20,
+          "AED": 84,
+          "GBP": 17,
+          "DKK": 152,
+          "SEK": 227,
+          "CNY": 152,
+          "JPY": 3597
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2470,
+          "USD": 50,
+          "EUR": 45,
+          "AED": 183,
+          "GBP": 38,
+          "DKK": 333,
+          "SEK": 497,
+          "CNY": 334,
+          "JPY": 7891
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2928,
+          "USD": 59,
+          "EUR": 53,
+          "AED": 217,
+          "GBP": 45,
+          "DKK": 394,
+          "SEK": 589,
+          "CNY": 396,
+          "JPY": 9355
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 4054,
+          "USD": 82,
+          "EUR": 73,
+          "AED": 301,
+          "GBP": 62,
+          "DKK": 546,
+          "SEK": 816,
+          "CNY": 548,
+          "JPY": 12952
         },
         "XL": {
           "TRY": 5630,
@@ -1049,6 +1203,17 @@
           "SEK": 1133,
           "CNY": 762,
           "JPY": 17987
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -1066,48 +1231,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1300,
+          "USD": 26,
+          "EUR": 23,
+          "AED": 97,
+          "GBP": 20,
+          "DKK": 175,
+          "SEK": 262,
+          "CNY": 176,
+          "JPY": 4153
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2400,
+          "USD": 49,
+          "EUR": 43,
+          "AED": 178,
+          "GBP": 37,
+          "DKK": 323,
+          "SEK": 483,
+          "CNY": 325,
+          "JPY": 7668
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3380,
+          "USD": 68,
+          "EUR": 61,
+          "AED": 251,
+          "GBP": 51,
+          "DKK": 455,
+          "SEK": 680,
+          "CNY": 457,
+          "JPY": 10799
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 4680,
+          "USD": 95,
+          "EUR": 84,
+          "AED": 348,
+          "GBP": 71,
+          "DKK": 630,
+          "SEK": 941,
+          "CNY": 633,
+          "JPY": 14952
         },
         "XL": {
           "TRY": 6500,
@@ -1119,6 +1284,17 @@
           "SEK": 1308,
           "CNY": 879,
           "JPY": 20767
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -1136,48 +1312,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 950,
+          "USD": 19,
+          "EUR": 17,
+          "AED": 71,
+          "GBP": 14,
+          "DKK": 128,
+          "SEK": 191,
+          "CNY": 129,
+          "JPY": 3035
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1710,
+          "USD": 35,
+          "EUR": 31,
+          "AED": 127,
+          "GBP": 26,
+          "DKK": 230,
+          "SEK": 344,
+          "CNY": 231,
+          "JPY": 5463
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2470,
+          "USD": 50,
+          "EUR": 45,
+          "AED": 183,
+          "GBP": 38,
+          "DKK": 333,
+          "SEK": 497,
+          "CNY": 334,
+          "JPY": 7891
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3420,
+          "USD": 69,
+          "EUR": 62,
+          "AED": 254,
+          "GBP": 52,
+          "DKK": 461,
+          "SEK": 688,
+          "CNY": 463,
+          "JPY": 10927
         },
         "XL": {
           "TRY": 4750,
@@ -1189,6 +1365,17 @@
           "SEK": 956,
           "CNY": 643,
           "JPY": 15176
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -1206,48 +1393,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 960,
+          "USD": 19,
+          "EUR": 17,
+          "AED": 71,
+          "GBP": 15,
+          "DKK": 129,
+          "SEK": 193,
+          "CNY": 130,
+          "JPY": 3067
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2300,
+          "USD": 47,
+          "EUR": 41,
+          "AED": 171,
+          "GBP": 35,
+          "DKK": 310,
+          "SEK": 463,
+          "CNY": 311,
+          "JPY": 7348
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2496,
+          "USD": 50,
+          "EUR": 45,
+          "AED": 185,
+          "GBP": 38,
+          "DKK": 336,
+          "SEK": 502,
+          "CNY": 338,
+          "JPY": 7974
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3456,
+          "USD": 70,
+          "EUR": 62,
+          "AED": 257,
+          "GBP": 53,
+          "DKK": 466,
+          "SEK": 695,
+          "CNY": 468,
+          "JPY": 11042
         },
         "XL": {
           "TRY": 4800,
@@ -1259,6 +1446,17 @@
           "SEK": 966,
           "CNY": 649,
           "JPY": 15335
+        },
+        "porsiyon": {
+          "TRY": 420,
+          "USD": 8,
+          "EUR": 8,
+          "AED": 31,
+          "GBP": 6,
+          "DKK": 57,
+          "SEK": 84,
+          "CNY": 57,
+          "JPY": 1342
         }
       }
     },
@@ -1276,48 +1474,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 940,
+          "USD": 19,
+          "EUR": 17,
+          "AED": 70,
+          "GBP": 14,
+          "DKK": 127,
+          "SEK": 189,
+          "CNY": 127,
+          "JPY": 3003
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2200,
+          "USD": 44,
+          "EUR": 40,
+          "AED": 163,
+          "GBP": 34,
+          "DKK": 296,
+          "SEK": 443,
+          "CNY": 298,
+          "JPY": 7029
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2444,
+          "USD": 49,
+          "EUR": 44,
+          "AED": 181,
+          "GBP": 37,
+          "DKK": 329,
+          "SEK": 492,
+          "CNY": 331,
+          "JPY": 7808
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3384,
+          "USD": 68,
+          "EUR": 61,
+          "AED": 251,
+          "GBP": 52,
+          "DKK": 456,
+          "SEK": 681,
+          "CNY": 458,
+          "JPY": 10812
         },
         "XL": {
           "TRY": 4700,
@@ -1329,6 +1527,17 @@
           "SEK": 945,
           "CNY": 636,
           "JPY": 15016
+        },
+        "porsiyon": {
+          "TRY": 420,
+          "USD": 8,
+          "EUR": 8,
+          "AED": 31,
+          "GBP": 6,
+          "DKK": 57,
+          "SEK": 84,
+          "CNY": 57,
+          "JPY": 1342
         }
       }
     },
@@ -1346,48 +1555,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 960,
+          "USD": 19,
+          "EUR": 17,
+          "AED": 71,
+          "GBP": 15,
+          "DKK": 129,
+          "SEK": 193,
+          "CNY": 130,
+          "JPY": 3067
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1728,
+          "USD": 35,
+          "EUR": 31,
+          "AED": 128,
+          "GBP": 26,
+          "DKK": 233,
+          "SEK": 348,
+          "CNY": 234,
+          "JPY": 5521
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2496,
+          "USD": 50,
+          "EUR": 45,
+          "AED": 185,
+          "GBP": 38,
+          "DKK": 336,
+          "SEK": 502,
+          "CNY": 338,
+          "JPY": 7974
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3456,
+          "USD": 70,
+          "EUR": 62,
+          "AED": 257,
+          "GBP": 53,
+          "DKK": 466,
+          "SEK": 695,
+          "CNY": 468,
+          "JPY": 11042
         },
         "XL": {
           "TRY": 4800,
@@ -1399,6 +1608,17 @@
           "SEK": 966,
           "CNY": 649,
           "JPY": 15335
+        },
+        "porsiyon": {
+          "TRY": 420,
+          "USD": 8,
+          "EUR": 8,
+          "AED": 31,
+          "GBP": 6,
+          "DKK": 57,
+          "SEK": 84,
+          "CNY": 57,
+          "JPY": 1342
         }
       }
     },
@@ -1416,48 +1636,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1030,
+          "USD": 21,
+          "EUR": 19,
+          "AED": 76,
+          "GBP": 16,
+          "DKK": 139,
+          "SEK": 207,
+          "CNY": 139,
+          "JPY": 3291
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1854,
+          "USD": 37,
+          "EUR": 33,
+          "AED": 138,
+          "GBP": 28,
+          "DKK": 250,
+          "SEK": 373,
+          "CNY": 251,
+          "JPY": 5923
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2678,
+          "USD": 54,
+          "EUR": 48,
+          "AED": 199,
+          "GBP": 41,
+          "DKK": 361,
+          "SEK": 539,
+          "CNY": 362,
+          "JPY": 8556
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3708,
+          "USD": 75,
+          "EUR": 67,
+          "AED": 275,
+          "GBP": 56,
+          "DKK": 499,
+          "SEK": 746,
+          "CNY": 502,
+          "JPY": 11847
         },
         "XL": {
           "TRY": 5150,
@@ -1469,6 +1689,17 @@
           "SEK": 1036,
           "CNY": 697,
           "JPY": 16454
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -1486,48 +1717,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1100,
+          "USD": 22,
+          "EUR": 20,
+          "AED": 82,
+          "GBP": 17,
+          "DKK": 148,
+          "SEK": 221,
+          "CNY": 149,
+          "JPY": 3514
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1980,
+          "USD": 40,
+          "EUR": 36,
+          "AED": 147,
+          "GBP": 30,
+          "DKK": 267,
+          "SEK": 398,
+          "CNY": 268,
+          "JPY": 6326
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2860,
+          "USD": 58,
+          "EUR": 52,
+          "AED": 212,
+          "GBP": 44,
+          "DKK": 385,
+          "SEK": 575,
+          "CNY": 387,
+          "JPY": 9137
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3960,
+          "USD": 80,
+          "EUR": 71,
+          "AED": 294,
+          "GBP": 60,
+          "DKK": 533,
+          "SEK": 797,
+          "CNY": 536,
+          "JPY": 12652
         },
         "XL": {
           "TRY": 5500,
@@ -1539,6 +1770,17 @@
           "SEK": 1106,
           "CNY": 744,
           "JPY": 17572
+        },
+        "porsiyon": {
+          "TRY": 420,
+          "USD": 8,
+          "EUR": 8,
+          "AED": 31,
+          "GBP": 6,
+          "DKK": 57,
+          "SEK": 84,
+          "CNY": 57,
+          "JPY": 1342
         }
       }
     },
@@ -1556,48 +1798,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1100,
+          "USD": 22,
+          "EUR": 20,
+          "AED": 82,
+          "GBP": 17,
+          "DKK": 148,
+          "SEK": 221,
+          "CNY": 149,
+          "JPY": 3514
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2000,
+          "USD": 40,
+          "EUR": 36,
+          "AED": 149,
+          "GBP": 30,
+          "DKK": 269,
+          "SEK": 402,
+          "CNY": 271,
+          "JPY": 6390
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2860,
+          "USD": 58,
+          "EUR": 52,
+          "AED": 212,
+          "GBP": 44,
+          "DKK": 385,
+          "SEK": 575,
+          "CNY": 387,
+          "JPY": 9137
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3960,
+          "USD": 80,
+          "EUR": 71,
+          "AED": 294,
+          "GBP": 60,
+          "DKK": 533,
+          "SEK": 797,
+          "CNY": 536,
+          "JPY": 12652
         },
         "XL": {
           "TRY": 5500,
@@ -1609,6 +1851,17 @@
           "SEK": 1106,
           "CNY": 744,
           "JPY": 17572
+        },
+        "porsiyon": {
+          "TRY": 420,
+          "USD": 8,
+          "EUR": 8,
+          "AED": 31,
+          "GBP": 6,
+          "DKK": 57,
+          "SEK": 84,
+          "CNY": 57,
+          "JPY": 1342
         }
       }
     },
@@ -1626,48 +1879,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1066,
+          "USD": 22,
+          "EUR": 19,
+          "AED": 79,
+          "GBP": 16,
+          "DKK": 144,
+          "SEK": 214,
+          "CNY": 144,
+          "JPY": 3406
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1919,
+          "USD": 39,
+          "EUR": 35,
+          "AED": 143,
+          "GBP": 29,
+          "DKK": 258,
+          "SEK": 386,
+          "CNY": 260,
+          "JPY": 6131
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2772,
+          "USD": 56,
+          "EUR": 50,
+          "AED": 206,
+          "GBP": 42,
+          "DKK": 373,
+          "SEK": 558,
+          "CNY": 375,
+          "JPY": 8856
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3838,
+          "USD": 78,
+          "EUR": 69,
+          "AED": 285,
+          "GBP": 58,
+          "DKK": 517,
+          "SEK": 772,
+          "CNY": 519,
+          "JPY": 12262
         },
         "XL": {
           "TRY": 5330,
@@ -1679,6 +1932,17 @@
           "SEK": 1072,
           "CNY": 721,
           "JPY": 17029
+        },
+        "porsiyon": {
+          "TRY": 490,
+          "USD": 10,
+          "EUR": 9,
+          "AED": 36,
+          "GBP": 7,
+          "DKK": 66,
+          "SEK": 99,
+          "CNY": 66,
+          "JPY": 1565
         }
       }
     },
@@ -1696,48 +1960,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1080,
+          "USD": 22,
+          "EUR": 19,
+          "AED": 80,
+          "GBP": 16,
+          "DKK": 145,
+          "SEK": 217,
+          "CNY": 146,
+          "JPY": 3450
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1944,
+          "USD": 39,
+          "EUR": 35,
+          "AED": 144,
+          "GBP": 30,
+          "DKK": 262,
+          "SEK": 391,
+          "CNY": 263,
+          "JPY": 6211
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2808,
+          "USD": 57,
+          "EUR": 51,
+          "AED": 209,
+          "GBP": 43,
+          "DKK": 378,
+          "SEK": 565,
+          "CNY": 380,
+          "JPY": 8971
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3888,
+          "USD": 79,
+          "EUR": 70,
+          "AED": 289,
+          "GBP": 59,
+          "DKK": 524,
+          "SEK": 782,
+          "CNY": 526,
+          "JPY": 12422
         },
         "XL": {
           "TRY": 5400,
@@ -1749,6 +2013,17 @@
           "SEK": 1086,
           "CNY": 731,
           "JPY": 17252
+        },
+        "porsiyon": {
+          "TRY": 460,
+          "USD": 9,
+          "EUR": 8,
+          "AED": 34,
+          "GBP": 7,
+          "DKK": 62,
+          "SEK": 93,
+          "CNY": 62,
+          "JPY": 1470
         }
       }
     },
@@ -1766,48 +2041,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1020,
+          "USD": 21,
+          "EUR": 18,
+          "AED": 76,
+          "GBP": 16,
+          "DKK": 137,
+          "SEK": 205,
+          "CNY": 138,
+          "JPY": 3259
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2350,
+          "USD": 48,
+          "EUR": 42,
+          "AED": 175,
+          "GBP": 36,
+          "DKK": 317,
+          "SEK": 473,
+          "CNY": 318,
+          "JPY": 7508
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2652,
+          "USD": 54,
+          "EUR": 48,
+          "AED": 197,
+          "GBP": 40,
+          "DKK": 357,
+          "SEK": 533,
+          "CNY": 359,
+          "JPY": 8473
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3672,
+          "USD": 74,
+          "EUR": 66,
+          "AED": 273,
+          "GBP": 56,
+          "DKK": 495,
+          "SEK": 739,
+          "CNY": 497,
+          "JPY": 11732
         },
         "XL": {
           "TRY": 5100,
@@ -1819,6 +2094,17 @@
           "SEK": 1026,
           "CNY": 690,
           "JPY": 16294
+        },
+        "porsiyon": {
+          "TRY": 420,
+          "USD": 8,
+          "EUR": 8,
+          "AED": 31,
+          "GBP": 6,
+          "DKK": 57,
+          "SEK": 84,
+          "CNY": 57,
+          "JPY": 1342
         }
       }
     },
@@ -1836,48 +2122,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1100,
+          "USD": 22,
+          "EUR": 20,
+          "AED": 82,
+          "GBP": 17,
+          "DKK": 148,
+          "SEK": 221,
+          "CNY": 149,
+          "JPY": 3514
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2300,
+          "USD": 47,
+          "EUR": 41,
+          "AED": 171,
+          "GBP": 35,
+          "DKK": 310,
+          "SEK": 463,
+          "CNY": 311,
+          "JPY": 7348
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2860,
+          "USD": 58,
+          "EUR": 52,
+          "AED": 212,
+          "GBP": 44,
+          "DKK": 385,
+          "SEK": 575,
+          "CNY": 387,
+          "JPY": 9137
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3960,
+          "USD": 80,
+          "EUR": 71,
+          "AED": 294,
+          "GBP": 60,
+          "DKK": 533,
+          "SEK": 797,
+          "CNY": 536,
+          "JPY": 12652
         },
         "XL": {
           "TRY": 5500,
@@ -1889,6 +2175,17 @@
           "SEK": 1106,
           "CNY": 744,
           "JPY": 17572
+        },
+        "porsiyon": {
+          "TRY": 420,
+          "USD": 8,
+          "EUR": 8,
+          "AED": 31,
+          "GBP": 6,
+          "DKK": 57,
+          "SEK": 84,
+          "CNY": 57,
+          "JPY": 1342
         }
       }
     },
@@ -1906,48 +2203,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1100,
+          "USD": 22,
+          "EUR": 20,
+          "AED": 82,
+          "GBP": 17,
+          "DKK": 148,
+          "SEK": 221,
+          "CNY": 149,
+          "JPY": 3514
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1980,
+          "USD": 40,
+          "EUR": 36,
+          "AED": 147,
+          "GBP": 30,
+          "DKK": 267,
+          "SEK": 398,
+          "CNY": 268,
+          "JPY": 6326
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2860,
+          "USD": 58,
+          "EUR": 52,
+          "AED": 212,
+          "GBP": 44,
+          "DKK": 385,
+          "SEK": 575,
+          "CNY": 387,
+          "JPY": 9137
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3960,
+          "USD": 80,
+          "EUR": 71,
+          "AED": 294,
+          "GBP": 60,
+          "DKK": 533,
+          "SEK": 797,
+          "CNY": 536,
+          "JPY": 12652
         },
         "XL": {
           "TRY": 5500,
@@ -1959,6 +2256,17 @@
           "SEK": 1106,
           "CNY": 744,
           "JPY": 17572
+        },
+        "porsiyon": {
+          "TRY": 420,
+          "USD": 8,
+          "EUR": 8,
+          "AED": 31,
+          "GBP": 6,
+          "DKK": 57,
+          "SEK": 84,
+          "CNY": 57,
+          "JPY": 1342
         }
       }
     },
@@ -1976,48 +2284,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1100,
+          "USD": 22,
+          "EUR": 20,
+          "AED": 82,
+          "GBP": 17,
+          "DKK": 148,
+          "SEK": 221,
+          "CNY": 149,
+          "JPY": 3514
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2300,
+          "USD": 47,
+          "EUR": 41,
+          "AED": 171,
+          "GBP": 35,
+          "DKK": 310,
+          "SEK": 463,
+          "CNY": 311,
+          "JPY": 7348
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2860,
+          "USD": 58,
+          "EUR": 52,
+          "AED": 212,
+          "GBP": 44,
+          "DKK": 385,
+          "SEK": 575,
+          "CNY": 387,
+          "JPY": 9137
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3960,
+          "USD": 80,
+          "EUR": 71,
+          "AED": 294,
+          "GBP": 60,
+          "DKK": 533,
+          "SEK": 797,
+          "CNY": 536,
+          "JPY": 12652
         },
         "XL": {
           "TRY": 5500,
@@ -2029,6 +2337,17 @@
           "SEK": 1106,
           "CNY": 744,
           "JPY": 17572
+        },
+        "porsiyon": {
+          "TRY": 420,
+          "USD": 8,
+          "EUR": 8,
+          "AED": 31,
+          "GBP": 6,
+          "DKK": 57,
+          "SEK": 84,
+          "CNY": 57,
+          "JPY": 1342
         }
       }
     },
@@ -2046,48 +2365,48 @@
       },
       "variants": {
         "XS": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 1100,
+          "USD": 22,
+          "EUR": 20,
+          "AED": 82,
+          "GBP": 17,
+          "DKK": 148,
+          "SEK": 221,
+          "CNY": 149,
+          "JPY": 3514
         },
         "S": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2340,
+          "USD": 47,
+          "EUR": 42,
+          "AED": 174,
+          "GBP": 36,
+          "DKK": 315,
+          "SEK": 471,
+          "CNY": 317,
+          "JPY": 7476
         },
         "M": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 2860,
+          "USD": 58,
+          "EUR": 52,
+          "AED": 212,
+          "GBP": 44,
+          "DKK": 385,
+          "SEK": 575,
+          "CNY": 387,
+          "JPY": 9137
         },
         "L": {
-          "TRY": null,
-          "USD": null,
-          "EUR": null,
-          "AED": null,
-          "GBP": null,
-          "DKK": null,
-          "SEK": null,
-          "CNY": null,
-          "JPY": null
+          "TRY": 3960,
+          "USD": 80,
+          "EUR": 71,
+          "AED": 294,
+          "GBP": 60,
+          "DKK": 533,
+          "SEK": 797,
+          "CNY": 536,
+          "JPY": 12652
         },
         "XL": {
           "TRY": 5500,
@@ -2099,6 +2418,17 @@
           "SEK": 1106,
           "CNY": 744,
           "JPY": 17572
+        },
+        "porsiyon": {
+          "TRY": 420,
+          "USD": 8,
+          "EUR": 8,
+          "AED": 31,
+          "GBP": 6,
+          "DKK": 57,
+          "SEK": 84,
+          "CNY": 57,
+          "JPY": 1342
         }
       }
     }
