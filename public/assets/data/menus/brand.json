@@ -1,0 +1,685 @@
+{
+  "schemaVersion": 1,
+  "chaptersTitle": {
+    "tr": "Bu sayfada",
+    "en": "In this chapter",
+    "ar": "في هذا الفصل",
+    "de": "",
+    "fr": "",
+    "it": "",
+    "es": "",
+    "ru": "",
+    "zh-CN": "",
+    "ja": "",
+    "hi": "",
+    "ur": "",
+    "fa": "",
+    "pt": ""
+  },
+  "relatedTitle": {
+    "tr": "Hikâyenin devamını keşfedin",
+    "en": "Continue the story",
+    "ar": "تابع اكتشاف الحكاية",
+    "de": "",
+    "fr": "",
+    "it": "",
+    "es": "",
+    "ru": "",
+    "zh-CN": "",
+    "ja": "",
+    "hi": "",
+    "ur": "",
+    "fa": "",
+    "pt": ""
+  },
+  "relatedLimit": 4,
+  "pages": [
+    {
+      "pageId": "kurumsal-home",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "bolumler",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "values",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "degerler",
+          "enabled": true
+        },
+        {
+          "sectionId": "yonumuz",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "policies",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "politika-belgeleri",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "leadership",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "temsilciler",
+          "enabled": true
+        },
+        {
+          "sectionId": "yonetim",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "ethics",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "etik-ilkeler",
+          "enabled": true
+        },
+        {
+          "sectionId": "kultur",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "careers",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "birlikte",
+          "enabled": true
+        },
+        {
+          "sectionId": "basvuru-hazirligi",
+          "enabled": true
+        },
+        {
+          "sectionId": "sorular",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "certificates",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "yonetim-sistemleri",
+          "enabled": true
+        },
+        {
+          "sectionId": "kapsam",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "media",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "haberler",
+          "enabled": true
+        },
+        {
+          "sectionId": "kesif",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "asirlik-miras-home",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "bolumler",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "president",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "mesaj",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "story",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "baslangic",
+          "enabled": true
+        },
+        {
+          "sectionId": "yasayan-miras",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "milestones",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "zaman-cizelgesi",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "awards",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "takdirler",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "medals",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "arsiv-hikayesi",
+          "enabled": true
+        },
+        {
+          "sectionId": "belgeler",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "destek-home",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "rehberler",
+          "enabled": true
+        },
+        {
+          "sectionId": "iletisim-kanallari",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "support-customer",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "talebinizi-hazirlayin",
+          "enabled": true
+        },
+        {
+          "sectionId": "iletisim-kanallari",
+          "enabled": true
+        },
+        {
+          "sectionId": "guvenli-paylasim",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "support-resolution",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "siparis-destegi",
+          "enabled": true
+        },
+        {
+          "sectionId": "talep-takibi",
+          "enabled": true
+        },
+        {
+          "sectionId": "ilgili-rehberler",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "support-guide",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "secim",
+          "enabled": true
+        },
+        {
+          "sectionId": "sepet",
+          "enabled": true
+        },
+        {
+          "sectionId": "tamamlama",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "support-security",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "dogru-adres",
+          "enabled": true
+        },
+        {
+          "sectionId": "hesap-koruma",
+          "enabled": true
+        },
+        {
+          "sectionId": "supheli-durum",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "support-faq",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "sorular",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "support-returns",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "iptal",
+          "enabled": true
+        },
+        {
+          "sectionId": "cayma",
+          "enabled": true
+        },
+        {
+          "sectionId": "kusur",
+          "enabled": true
+        },
+        {
+          "sectionId": "geri-odeme",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "support-delivery",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "bolge",
+          "enabled": true
+        },
+        {
+          "sectionId": "bae",
+          "enabled": true
+        },
+        {
+          "sectionId": "uluslararasi",
+          "enabled": true
+        },
+        {
+          "sectionId": "teslim-alma",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "sozlesmeler-home",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "metinler",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "policy-data",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "veri-sorumlusu",
+          "enabled": true
+        },
+        {
+          "sectionId": "veriler",
+          "enabled": true
+        },
+        {
+          "sectionId": "hukuki-sebep",
+          "enabled": true
+        },
+        {
+          "sectionId": "haklar",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "policy-security",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "ilkeler",
+          "enabled": true
+        },
+        {
+          "sectionId": "odeme",
+          "enabled": true
+        },
+        {
+          "sectionId": "bildirim",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "policy-privacy",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "kapsam",
+          "enabled": true
+        },
+        {
+          "sectionId": "hizmetler",
+          "enabled": true
+        },
+        {
+          "sectionId": "tercihler",
+          "enabled": true
+        },
+        {
+          "sectionId": "ilgili-politikalar",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "policy-sales",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "taraflar",
+          "enabled": true
+        },
+        {
+          "sectionId": "urun-bedel",
+          "enabled": true
+        },
+        {
+          "sectionId": "teslimat",
+          "enabled": true
+        },
+        {
+          "sectionId": "cayma-uyusmazlik",
+          "enabled": true
+        },
+        {
+          "sectionId": "alisveris-kosullari",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "policy-membership",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "uyelik",
+          "enabled": true
+        },
+        {
+          "sectionId": "kullanim",
+          "enabled": true
+        },
+        {
+          "sectionId": "sona-erme",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "pageId": "policy-cookies",
+      "enabled": true,
+      "showBackLink": true,
+      "chapters": [
+        {
+          "sectionId": "yerel-depolama",
+          "enabled": true
+        },
+        {
+          "sectionId": "saklama-kontrol",
+          "enabled": true
+        },
+        {
+          "sectionId": "ucuncu-taraf",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "groupId": "kurumsal",
+      "pages": [
+        {
+          "pageId": "values",
+          "enabled": true
+        },
+        {
+          "pageId": "policies",
+          "enabled": true
+        },
+        {
+          "pageId": "leadership",
+          "enabled": true
+        },
+        {
+          "pageId": "ethics",
+          "enabled": true
+        },
+        {
+          "pageId": "careers",
+          "enabled": true
+        },
+        {
+          "pageId": "certificates",
+          "enabled": true
+        },
+        {
+          "pageId": "media",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "groupId": "asirlik-miras",
+      "pages": [
+        {
+          "pageId": "president",
+          "enabled": true
+        },
+        {
+          "pageId": "story",
+          "enabled": true
+        },
+        {
+          "pageId": "milestones",
+          "enabled": true
+        },
+        {
+          "pageId": "awards",
+          "enabled": true
+        },
+        {
+          "pageId": "medals",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "groupId": "destek",
+      "pages": [
+        {
+          "pageId": "support-customer",
+          "enabled": true
+        },
+        {
+          "pageId": "support-resolution",
+          "enabled": true
+        },
+        {
+          "pageId": "support-guide",
+          "enabled": true
+        },
+        {
+          "pageId": "support-security",
+          "enabled": true
+        },
+        {
+          "pageId": "support-faq",
+          "enabled": true
+        },
+        {
+          "pageId": "support-returns",
+          "enabled": true
+        },
+        {
+          "pageId": "support-delivery",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "groupId": "sozlesmeler",
+      "pages": [
+        {
+          "pageId": "policy-data",
+          "enabled": true
+        },
+        {
+          "pageId": "policy-security",
+          "enabled": true
+        },
+        {
+          "pageId": "policy-privacy",
+          "enabled": true
+        },
+        {
+          "pageId": "policy-sales",
+          "enabled": true
+        },
+        {
+          "pageId": "policy-membership",
+          "enabled": true
+        },
+        {
+          "pageId": "policy-cookies",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "endLinks": [
+    {
+      "id": "top",
+      "enabled": true,
+      "label": {
+        "tr": "Sayfa başına dön",
+        "en": "Back to top",
+        "ar": "العودة إلى أعلى الصفحة",
+        "de": "",
+        "fr": "",
+        "it": "",
+        "es": "",
+        "ru": "",
+        "zh-CN": "",
+        "ja": "",
+        "hi": "",
+        "ur": "",
+        "fa": "",
+        "pt": ""
+      },
+      "url": "#main",
+      "icon": "up"
+    },
+    {
+      "id": "stores",
+      "enabled": true,
+      "label": {
+        "tr": "Mağazalarımızı keşfedin",
+        "en": "Discover our stores",
+        "ar": "اكتشف متاجرنا",
+        "de": "",
+        "fr": "",
+        "it": "",
+        "es": "",
+        "ru": "",
+        "zh-CN": "",
+        "ja": "",
+        "hi": "",
+        "ur": "",
+        "fa": "",
+        "pt": ""
+      },
+      "url": "/magazalar/index.html",
+      "icon": "store"
+    }
+  ]
+}

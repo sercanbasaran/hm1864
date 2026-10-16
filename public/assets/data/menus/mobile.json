@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "allCategoryLabel": {
+    "tr": "Tüm {name}",
+    "en": "All {name}",
+    "ar": "كل {name}"
+  },
+  "categories": [
+    {
+      "categoryId": "kahvaltiliklar",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "kahvaltiliklar/borekler",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "kahvaltiliklar/kahvaltilik",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "baklavalar",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "baklavalar/fistikli-baklavalar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "baklavalar/cevizli-baklavalar",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "ilaveler",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "ilaveler/dondurmalar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "ilaveler/kaymaklar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "ilaveler/kuruyemisler",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "ilaveler/soslar",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "lokumlar",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "lokumlar/fitil-lokumlar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "lokumlar/duble-lokumlar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "lokumlar/cifte-kavrulmus-lokumlar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "lokumlar/krokanli-lokumlar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "lokumlar/sultan-lokum",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "lokumlar/aromali-lokumlar",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "kadayiflar",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "kadayiflar/fistikli-kadayiflar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "kadayiflar/cevizli-kadayiflar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "kadayiflar/lokumlu-kadayiflar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "kadayiflar/kunefeler",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "drajeler",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "drajeler/aromali-baharatli-drajeler",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "drajeler/coklu-kaplamali-drajeler",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "drajeler/sutlu-cikolatali-drajeler",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "pastalar",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "pastalar/biskuvili-pastalar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "pastalar/cikolatali-pastalar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "pastalar/cilekli-pastalar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "pastalar/fistikli-pastalar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "pastalar/frambuazli-pastalar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "pastalar/karisik-meyveli-pastalar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "pastalar/muzlu-pastalar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "pastalar/orman-meyveli-pastalar",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "muhallebiler",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "muhallebiler/kazandibiler",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "sezonluk-tatlilar",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "sezonluk-tatlilar/geleneksel-meyve-tatlilari",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "sezonluk-tatlilar/gullaclar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "sezonluk-tatlilar/ozel-donemsel-sutluler",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "trileceler",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "trileceler/trilece",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "spesiyaller",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "spesiyaller/dubai-serisi",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "spesiyaller/afet-i-devran-serisi",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "spesiyaller/humbara",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "kahveler",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "kahveler/turk-kahvesi",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "kahveler/aromali-kahveler",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "kahveler/salepler",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "caylar",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "caylar/bitki-caylari",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "caylar/meyveli-caylari",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "categoryId": "miras-lezzetler",
+      "enabled": true,
+      "children": [
+        {
+          "subcategoryId": "miras-lezzetler/helvalar",
+          "enabled": true
+        },
+        {
+          "subcategoryId": "miras-lezzetler/ballar",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "stores",
+      "enabled": true,
+      "label": {
+        "tr": "Mağazalarımız",
+        "en": "Our Stores",
+        "ar": "متاجرنا"
+      },
+      "url": "/magazalar/index.html"
+    },
+    {
+      "id": "contact",
+      "enabled": true,
+      "label": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "url": "/iletisim/index.html"
+    }
+  ]
+}

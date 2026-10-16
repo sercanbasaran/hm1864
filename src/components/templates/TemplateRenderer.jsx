@@ -1,3 +1,4 @@
+import {footerMenuNodes} from '../../utils/menu-template.js';
 import React from "react";
 import { useApp } from "../../context/AppContext.jsx";
 import { useText } from "../../hooks/useText.js";
@@ -22,6 +23,7 @@ export default function Template({ node, skipHero = false, lhf = false, ancestor
     return <RichText value={templateText(content, language, node)} lhf={lhf} />;
   if (!node) return null;
   if (node.tag === "home-slider") return <Hero />;
+  if (node.tag === "navigation-menu") return <>{footerMenuNodes(data.menus,language,node.children).map((n,i)=><Template key={i} node={n}/>)}</>;
   const a = node.attrs || {},
     children = node.children || [];
   if (node.tag === "icon") return <Icon name={a.name} className={a.class || ""} />;

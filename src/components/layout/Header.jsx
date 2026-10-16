@@ -1,3 +1,5 @@
+import MenuItems from './MenuItems.jsx';
+import {categoryMenu,primaryMenu,visibleItems,menuText} from '../../menus.js';
 import React, { useState, useEffect, useRef } from "react";
 import { useApp } from "../../context/AppContext.jsx";
 import { useText } from "../../hooks/useText.js";
@@ -6,12 +8,7 @@ import RichText from "../../RichText.jsx";
 import { plainText } from "../../formatted-text.js";
 import Media from "../Media.jsx";
 import Icon from "../Icon.jsx";
-import {
-  slug,
-  imageUrl,
-  menuCategories,
-  menuSubcategories,
-} from "../../model.js";
+import {imageUrl} from "../../model.js";
 import { countryDefaults } from "../../market.js";
 import { translate } from "../../i18n.js";
 
@@ -27,9 +24,10 @@ export default function Header() {
     preferences?.countryName ||
     translate(content, language, "region.country." + country.code);
   const [menu, setMenu] = useState(null);
-  const [tab, setTab] = useState("online");
+  const [tab, setTab] = useState(() => visibleItems(data.menus.mega.tabs)[0].id);
   const timer = useRef();
-  const nav = menuCategories(data).filter((c) => c.highlightOnHeader);
+  const nav = primaryMenu(data,language);
+  const tabs=visibleItems(data.menus.mega.tabs);
   useEffect(() => {
     if (modal) setMenu(null);
     return () => clearTimeout(timer.current);
@@ -54,7 +52,7 @@ export default function Header() {
     const product = data.products.find(
       (p) =>
         p.category === category &&
-        p.subcategory === sub.name &&
+        p.subcategory === (sub.catalogName || sub.name) &&
         p.images?.length,
     );
     return imageUrl(sub.image || sub.images?.[0] || product?.images?.[0]);
@@ -65,8 +63,8 @@ export default function Header() {
     `${sub.name} çeşitlerini keşfedin.`;
   const cats =
     menu === "all"
-      ? menuCategories(data, tab)
-      : menuCategories(data, tab).filter((c) => c.name === menu);
+      ? categoryMenu(data,tabs.find(t=>t.id===tab)?.categories,language,tab)
+      : categoryMenu(data,tabs.find(t=>t.id===tab)?.categories,language,tab).filter((c) => c.id === menu);
   return (
     <>
       <a className="skip-link" href="#main">
@@ -101,56 +99,19 @@ export default function Header() {
               </span>
               <Icon name="chevron" />
             </button>
-            <div className="service-links">
-              <a href="/magazalar/index.html">
-                <RichText value={translate(content, language, "ui.stores")} />
-              </a>
-              <a className="service-contact" href="/iletisim/index.html">
-                <RichText value={translate(content, language, "ui.contact")} />
-              </a>
-            </div>
+            <div className="service-links"><MenuItems items={data.menus.header.service}/></div>
           </div>
         </div>
         <div className="header-brandbar">
           <div className="header-safe">
-            <div className="header-left">
-              <button
-                className="mobile-toggle icon-button"
-                aria-label={plainText(t("template.0002"))}
-                onClick={() => open("mobile")}
-              >
-                <Icon name="menu" />
-              </button>
-              <button
-                className="icon-button"
-                aria-label={plainText(t("template.0003"))}
-                onClick={() => open("search")}
-              >
-                <Icon name="search" />
-              </button>
-            </div>
+            <div className="header-left"><MenuItems items={data.menus.header.actionsLeft} onAction={open}/></div>
             <a className="header-logo" href="/index.html">
               <img
                 src="/assets/images/medya/header-logo.png"
                 alt={t("template.0005")}
               />
             </a>
-            <div className="header-right">
-              <button
-                className="icon-button"
-                aria-label={plainText(t("page.0056"))}
-                onClick={() => open("profile")}
-              >
-                <Icon name="user" />
-              </button>
-              <button
-                className="icon-button"
-                aria-label={plainText(t("page.0052"))}
-                onClick={() => open("cart")}
-              >
-                <Icon name="bag" />
-              </button>
-            </div>
+            <div className="header-right"><MenuItems items={data.menus.header.actionsRight} onAction={open}/></div>
           </div>
         </div>
         <div
@@ -163,25 +124,25 @@ export default function Header() {
             className="header-safe"
             aria-label={plainText(t("template.0009"))}
           >
-            {[null, ...nav].map((category) => (
+            {nav.map((category) => (
               <button
                 className={
-                  "nav-button " + (category === null ? "all-menu" : "")
+                  "nav-button " + (category.id === "all" ? "all-menu" : "")
                 }
-                key={category?.url || "all"}
-                aria-expanded={menu === (category?.name || "all")}
+                key={category.id}
+                aria-expanded={menu === (category.id)}
                 aria-controls="mega-menu"
                 onClick={() =>
                   setMenu(
-                    menu === (category?.name || "all")
+                    menu === (category.id)
                       ? null
-                      : category?.name || "all",
+                      : category.id,
                   )
                 }
                 onPointerEnter={(e) => {
                   if (e.pointerType === "mouse")
                     timer.current = setTimeout(
-                      () => setMenu(category?.name || "all"),
+                      () => setMenu(category.id),
                       180,
                     );
                 }}
@@ -189,13 +150,13 @@ export default function Header() {
                 onKeyDown={(e) => {
                   if (e.key === "ArrowDown") {
                     e.preventDefault();
-                    setMenu(category?.name || "all");
+                    setMenu(category.id);
                   }
                 }}
               >
                 <RichText
                   value={
-                    category?.name || translate(content, language, "ui.allMenu")
+                    category.name
                   }
                 />
                 <Icon name="chevron" />
@@ -205,9 +166,7 @@ export default function Header() {
         </div>
         <div className="header-collection">
           <div className="header-safe">
-            <a href="/koleksiyonlar/hm-1864-serisi/index.html">
-              <RichText value={t("template.0015")} />
-            </a>
+            <MenuItems items={data.menus.header.collection}/>
           </div>
         </div>
         {menu && (
@@ -221,18 +180,14 @@ export default function Header() {
           >
             <div className="mega-head">
               <div className="mega-tabs">
-                {["online", "store"].map((t) => (
+                {tabs.map((item) => (
                   <button
-                    key={t}
-                    onClick={() => setTab(t)}
-                    aria-pressed={tab === t}
+                    key={item.id}
+                    onClick={() => setTab(item.id)}
+                    aria-pressed={tab === item.id}
                   >
                     <RichText
-                      value={translate(
-                        content,
-                        language,
-                        t === "online" ? "ui.onlineMenu" : "ui.storeMenu",
-                      )}
+                      value={menuText(item.label,language)}
                     />
                   </button>
                 ))}
@@ -255,33 +210,21 @@ export default function Header() {
                   <h3>
                     <a
                       onClick={closeMenu}
-                      href={
-                        tab === "online"
-                          ? local(c.url)
-                          : "/magaza-menu/" + slug(c.name) + "/index.html"
-                      }
+                      href={local(c.url)}
                     >
                       <RichText value={c.name} />
                     </a>
                   </h3>
                   <div className="mega-subcategories">
-                    {menuSubcategories(data, c.name, tab).map((sub) => (
+                    {c.children.map((sub) => (
                       <a
                         className="mega-subcategory-card"
                         key={sub.url}
                         onClick={closeMenu}
-                        href={
-                          tab === "online"
-                            ? local(sub.url)
-                            : "/magaza-menu/" +
-                              slug(c.name) +
-                              "/" +
-                              slug(sub.name) +
-                              "/index.html"
-                        }
+                        href={local(sub.url)}
                       >
                         {menu !== "all" && (
-                          <Media src={subImage(sub, c.name)} alt={sub.name} />
+                          <Media src={subImage(sub, c.catalogName)} alt={sub.name} />
                         )}
                         <strong>{sub.name}</strong>
                         {menu !== "all" && <p>{subDescription(sub)}</p>}

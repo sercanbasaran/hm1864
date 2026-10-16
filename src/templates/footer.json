@@ -15,862 +15,170 @@
           },
           "children": [
             {
-              "tag": "details",
+              "tag": "navigation-menu",
               "attrs": {
-                "class": "footer-col",
-                "open": null
+                "group": "footer"
               },
               "children": [
-                {
-                  "tag": "summary",
-                  "attrs": {},
-                  "children": [
-                    "@text:template.0017"
-                  ]
-                },
-                {
-                  "tag": "div",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "kurumsal/ilke-ve-degerlerimiz/index.html"
-                      },
-                      "children": [
-                        "@text:template.0018"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "kurumsal/politikalarimiz/index.html"
-                      },
-                      "children": [
-                        "@text:template.0019"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "kurumsal/yonetim-kurulu/index.html"
-                      },
-                      "children": [
-                        "@text:template.0020"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "kurumsal/etik-ilkeler-ve-uyum-politikalari/index.html"
-                      },
-                      "children": [
-                        "@text:template.0021"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "kurumsal/kariyer/index.html"
-                      },
-                      "children": [
-                        "@text:template.0022"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "kurumsal/sertifikalarimiz/index.html"
-                      },
-                      "children": [
-                        "@text:template.0023"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "kurumsal/medya-merkezi/index.html"
-                      },
-                      "children": [
-                        "@text:template.0024"
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": "details",
-              "attrs": {
-                "class": "footer-col",
-                "open": null
-              },
-              "children": [
-                {
-                  "tag": "summary",
-                  "attrs": {},
-                  "children": [
-                    "@text:template.0025"
-                  ]
-                },
-                {
-                  "tag": "div",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "asirlik-miras/baskanin-mesaji/index.html"
-                      },
-                      "children": [
-                        "@text:template.0026"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "asirlik-miras/essiz-hikayemiz/index.html"
-                      },
-                      "children": [
-                        "@text:template.0027"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "asirlik-miras/donum-noktalari/index.html"
-                      },
-                      "children": [
-                        "@text:template.0028"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "asirlik-miras/basari-ve-odullerimiz/index.html"
-                      },
-                      "children": [
-                        "@text:template.0029"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "asirlik-miras/madalyalarimiz/index.html"
-                      },
-                      "children": [
-                        "@text:template.0030"
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": "details",
-              "attrs": {
-                "class": "footer-col",
-                "open": null
-              },
-              "children": [
-                {
-                  "tag": "summary",
-                  "attrs": {},
-                  "children": [
-                    "@text:template.0031"
-                  ]
-                },
-                {
-                  "tag": "div",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "urunler/baklavalar/index.html"
-                      },
-                      "children": [
-                        "@text:template.0010"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "urunler/lokumlar/index.html"
-                      },
-                      "children": [
-                        "@text:template.0011"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "urunler/kadayiflar/index.html"
-                      },
-                      "children": [
-                        "@text:template.0012"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "urunler/kahveler/index.html"
-                      },
-                      "children": [
-                        "@text:template.0013"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "urunler/caylar/index.html"
-                      },
-                      "children": [
-                        "@text:template.0014"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "urunler/kahvaltiliklar/index.html"
-                      },
-                      "children": [
-                        "@text:template.0032"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "urunler/ilaveler/index.html"
-                      },
-                      "children": [
-                        "@text:template.0033"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "urunler/index.html"
-                      },
-                      "children": [
-                        "@text:template.0034"
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": "details",
-              "attrs": {
-                "class": "footer-col",
-                "open": null
-              },
-              "children": [
-                {
-                  "tag": "summary",
-                  "attrs": {},
-                  "children": [
-                    "@text:template.0035"
-                  ]
-                },
-                {
-                  "tag": "div",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "koleksiyonlar/hm-1864-serisi/index.html"
-                      },
-                      "children": [
-                        "@text:template.0036"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "koleksiyonlar/ozel-seri-1/index.html"
-                      },
-                      "children": [
-                        "@text:template.0037"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "koleksiyonlar/ozel-seri-2/index.html"
-                      },
-                      "children": [
-                        "@text:template.0038"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "koleksiyonlar/ozel-seri-3/index.html"
-                      },
-                      "children": [
-                        "@text:template.0039"
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": "details",
-              "attrs": {
-                "class": "footer-col",
-                "open": null
-              },
-              "children": [
-                {
-                  "tag": "summary",
-                  "attrs": {},
-                  "children": [
-                    "@text:ui.stores"
-                  ]
-                },
-                {
-                  "tag": "div",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "magazalar/index.html"
-                      },
-                      "children": [
-                        "@text:ui.stores"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "deneyim-alanlari/index.html"
-                      },
-                      "children": [
-                        "@text:template.0040"
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": "details",
-              "attrs": {
-                "class": "footer-col",
-                "open": null
-              },
-              "children": [
-                {
-                  "tag": "summary",
-                  "attrs": {},
-                  "children": [
-                    "@text:template.0041"
-                  ]
-                },
-                {
-                  "tag": "div",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "destek/musteri-hizmetleri/index.html"
-                      },
-                      "children": [
-                        "@text:template.0042"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "destek/cozum-merkezi/index.html"
-                      },
-                      "children": [
-                        "@text:template.0043"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "destek/islem-rehberi/index.html"
-                      },
-                      "children": [
-                        "@text:template.0044"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "destek/guvenli-alisveris-kilavuzu/index.html"
-                      },
-                      "children": [
-                        "@text:template.0045"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "destek/sikca-sorulan-sorular/index.html"
-                      },
-                      "children": [
-                        "@text:template.0046"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "destek/iptal-iade-kosullari/index.html"
-                      },
-                      "children": [
-                        "@text:template.0047"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "destek/teslimat-kosullari/index.html"
-                      },
-                      "children": [
-                        "@text:template.0048"
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": "details",
-              "attrs": {
-                "class": "footer-col",
-                "open": null
-              },
-              "children": [
-                {
-                  "tag": "summary",
-                  "attrs": {},
-                  "children": [
-                    "@text:template.0049"
-                  ]
-                },
-                {
-                  "tag": "div",
-                  "attrs": {},
-                  "children": [
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "sozlesmeler/kisisel-verilerin-korunmasi/index.html"
-                      },
-                      "children": [
-                        "@text:template.0050"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "sozlesmeler/bilgi-guvenligi-politikasi/index.html"
-                      },
-                      "children": [
-                        "@text:template.0051"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "sozlesmeler/gizlilik-bildirgesi/index.html"
-                      },
-                      "children": [
-                        "@text:template.0052"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "class": "",
-                        "href": "sozlesmeler/satis-sozlesmesi/index.html"
-                      },
-                      "children": [
-                        "@text:template.0053"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "href": "sozlesmeler/uyelik-kosullari/index.html"
-                      },
-                      "children": [
-                        "@text:page.0048"
-                      ]
-                    },
-                    {
-                      "tag": "a",
-                      "attrs": {
-                        "href": "sozlesmeler/cerez-politikasi/index.html"
-                      },
-                      "children": [
-                        "@text:page.0049"
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": "div",
-              "attrs": {
-                "class": "footer-col"
-              },
-              "children": [
-                {
-                  "tag": "h2",
-                  "attrs": {},
-                  "children": [
-                    "@text:template.0054"
-                  ]
-                },
                 {
                   "tag": "div",
                   "attrs": {
-                    "class": "partners partner-logos shipping-logos"
+                    "class": "footer-col"
                   },
                   "children": [
                     {
-                      "tag": "span",
+                      "tag": "h2",
+                      "attrs": {},
+                      "children": [
+                        "@text:template.0054"
+                      ]
+                    },
+                    {
+                      "tag": "div",
                       "attrs": {
-                        "class": "partner-logo partner-logo--dhl-ecommerce"
+                        "class": "partners partner-logos shipping-logos"
                       },
                       "children": [
                         {
-                          "tag": "img",
+                          "tag": "span",
                           "attrs": {
-                            "src": "assets/images/partners/dhl-ecommerce.svg",
-                            "alt": "DHL eCommerce",
-                            "loading": "lazy",
-                            "decoding": "async"
+                            "class": "partner-logo partner-logo--dhl-ecommerce"
                           },
-                          "children": []
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "src": "assets/images/partners/dhl-ecommerce.svg",
+                                "alt": "DHL eCommerce",
+                                "loading": "lazy",
+                                "decoding": "async"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "span",
+                          "attrs": {
+                            "class": "partner-courier",
+                            "role": "img",
+                            "aria-label": "@text:ui.courier",
+                            "title": "@text:ui.courier"
+                          },
+                          "children": [
+                            {
+                              "tag": "icon",
+                              "attrs": {
+                                "name": "truck"
+                              },
+                              "children": []
+                            }
+                          ]
                         }
                       ]
                     },
                     {
-                      "tag": "span",
-                      "attrs": {
-                        "class": "partner-courier",
-                        "role": "img",
-                        "aria-label": "@text:ui.courier",
-                        "title": "@text:ui.courier"
-                      },
+                      "tag": "h2",
+                      "attrs": {},
                       "children": [
-                        {
-                          "tag": "icon",
-                          "attrs": {
-                            "name": "truck"
-                          },
-                          "children": []
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "tag": "h2",
-                  "attrs": {},
-                  "children": [
-                    "@text:template.0056"
-                  ]
-                },
-                {
-                  "tag": "div",
-                  "attrs": {
-                    "class": "partners payments partner-logos payment-logos"
-                  },
-                  "children": [
-                    {
-                      "tag": "span",
-                      "attrs": {
-                        "class": "partner-logo partner-logo--mastercard"
-                      },
-                      "children": [
-                        {
-                          "tag": "img",
-                          "attrs": {
-                            "src": "assets/images/partners/mastercard.svg",
-                            "alt": "Mastercard",
-                            "loading": "lazy",
-                            "decoding": "async"
-                          },
-                          "children": []
-                        }
+                        "@text:template.0056"
                       ]
                     },
                     {
-                      "tag": "span",
+                      "tag": "div",
                       "attrs": {
-                        "class": "partner-logo partner-logo--visa"
+                        "class": "partners payments partner-logos payment-logos"
                       },
                       "children": [
                         {
-                          "tag": "img",
+                          "tag": "span",
                           "attrs": {
-                            "src": "assets/images/partners/visa.svg",
-                            "alt": "Visa",
-                            "loading": "lazy",
-                            "decoding": "async"
+                            "class": "partner-logo partner-logo--mastercard"
                           },
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "tag": "span",
-                      "attrs": {
-                        "class": "partner-logo partner-logo--americanexpress"
-                      },
-                      "children": [
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "src": "assets/images/partners/mastercard.svg",
+                                "alt": "Mastercard",
+                                "loading": "lazy",
+                                "decoding": "async"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
                         {
-                          "tag": "img",
+                          "tag": "span",
                           "attrs": {
-                            "src": "assets/images/partners/americanexpress.svg",
-                            "alt": "American Express",
-                            "loading": "lazy",
-                            "decoding": "async"
+                            "class": "partner-logo partner-logo--visa"
                           },
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "tag": "span",
-                      "attrs": {
-                        "class": "partner-logo partner-logo--discover"
-                      },
-                      "children": [
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "src": "assets/images/partners/visa.svg",
+                                "alt": "Visa",
+                                "loading": "lazy",
+                                "decoding": "async"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
                         {
-                          "tag": "img",
+                          "tag": "span",
                           "attrs": {
-                            "src": "assets/images/partners/discover.svg",
-                            "alt": "Discover",
-                            "loading": "lazy",
-                            "decoding": "async"
+                            "class": "partner-logo partner-logo--americanexpress"
                           },
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "tag": "span",
-                      "attrs": {
-                        "class": "partner-logo partner-logo--tabby"
-                      },
-                      "children": [
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "src": "assets/images/partners/americanexpress.svg",
+                                "alt": "American Express",
+                                "loading": "lazy",
+                                "decoding": "async"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
                         {
-                          "tag": "img",
+                          "tag": "span",
                           "attrs": {
-                            "src": "assets/images/partners/tabby.svg",
-                            "alt": "Tabby",
-                            "loading": "lazy",
-                            "decoding": "async"
+                            "class": "partner-logo partner-logo--discover"
                           },
-                          "children": []
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": "div",
-              "attrs": {
-                "class": "footer-col"
-              },
-              "children": [
-                {
-                  "tag": "h2",
-                  "attrs": {},
-                  "children": [
-                    "@text:template.0059"
-                  ]
-                },
-                {
-                  "tag": "a",
-                  "attrs": {
-                    "class": "",
-                    "href": "iletisim/index.html"
-                  },
-                  "children": [
-                    "@text:template.0060"
-                  ]
-                },
-                {
-                  "tag": "a",
-                  "attrs": {
-                    "class": "",
-                    "href": "iletisim/index.html"
-                  },
-                  "children": [
-                    "@text:ui.contact"
-                  ]
-                },
-                {
-                  "tag": "a",
-                  "attrs": {
-                    "class": "",
-                    "href": "site-haritasi.html"
-                  },
-                  "children": [
-                    "@text:template.0061"
-                  ]
-                }
-              ]
-            },
-            {
-              "tag": "div",
-              "attrs": {
-                "class": "footer-col"
-              },
-              "children": [
-                {
-                  "tag": "h2",
-                  "attrs": {},
-                  "children": [
-                    "@text:template.0062"
-                  ]
-                },
-                {
-                  "tag": "div",
-                  "attrs": {
-                    "class": "footer-social-icons"
-                  },
-                  "children": [
-                    {
-                      "tag": "span",
-                      "attrs": {
-                        "class": "footer-social-icon",
-                        "role": "img",
-                        "aria-label": "Instagram",
-                        "title": "Instagram"
-                      },
-                      "children": [
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "src": "assets/images/partners/discover.svg",
+                                "alt": "Discover",
+                                "loading": "lazy",
+                                "decoding": "async"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
                         {
-                          "tag": "icon",
+                          "tag": "span",
                           "attrs": {
-                            "name": "instagram"
+                            "class": "partner-logo partner-logo--tabby"
                           },
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "tag": "span",
-                      "attrs": {
-                        "class": "footer-social-icon",
-                        "role": "img",
-                        "aria-label": "TikTok",
-                        "title": "TikTok"
-                      },
-                      "children": [
-                        {
-                          "tag": "icon",
-                          "attrs": {
-                            "name": "tiktok"
-                          },
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "tag": "span",
-                      "attrs": {
-                        "class": "footer-social-icon",
-                        "role": "img",
-                        "aria-label": "Facebook",
-                        "title": "Facebook"
-                      },
-                      "children": [
-                        {
-                          "tag": "icon",
-                          "attrs": {
-                            "name": "facebook"
-                          },
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "tag": "span",
-                      "attrs": {
-                        "class": "footer-social-icon",
-                        "role": "img",
-                        "aria-label": "YouTube",
-                        "title": "YouTube"
-                      },
-                      "children": [
-                        {
-                          "tag": "icon",
-                          "attrs": {
-                            "name": "youtube"
-                          },
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "tag": "span",
-                      "attrs": {
-                        "class": "footer-social-icon",
-                        "role": "img",
-                        "aria-label": "LinkedIn",
-                        "title": "LinkedIn"
-                      },
-                      "children": [
-                        {
-                          "tag": "icon",
-                          "attrs": {
-                            "name": "linkedin"
-                          },
-                          "children": []
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attrs": {
+                                "src": "assets/images/partners/tabby.svg",
+                                "alt": "Tabby",
+                                "loading": "lazy",
+                                "decoding": "async"
+                              },
+                              "children": []
+                            }
+                          ]
                         }
                       ]
                     }

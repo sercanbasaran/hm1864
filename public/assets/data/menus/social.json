@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "title": {
+    "tr": "BİZİ TAKİP EDİN"
+  },
+  "items": [
+    {
+      "id": "instagram",
+      "enabled": true,
+      "label": "Instagram",
+      "icon": "instagram",
+      "url": ""
+    },
+    {
+      "id": "tiktok",
+      "enabled": true,
+      "label": "TikTok",
+      "icon": "tiktok",
+      "url": ""
+    },
+    {
+      "id": "facebook",
+      "enabled": true,
+      "label": "Facebook",
+      "icon": "facebook",
+      "url": ""
+    },
+    {
+      "id": "youtube",
+      "enabled": true,
+      "label": "YouTube",
+      "icon": "youtube",
+      "url": ""
+    },
+    {
+      "id": "linkedin",
+      "enabled": true,
+      "label": "LinkedIn",
+      "icon": "linkedin",
+      "url": ""
+    }
+  ]
+}

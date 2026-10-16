@@ -1,3 +1,4 @@
+import {categoryMenu} from '../menus.js';
 import React, { useState } from "react";
 import { useApp } from "../context/AppContext.jsx";
 import { useText } from "../hooks/useText.js";
@@ -8,7 +9,9 @@ import Card from "../components/products/ProductCard.jsx";
 import { match } from "../model.js";
 
 export default function CategoryPage({ category: c }) {
-  const { data } = useApp();
+  const { data,preferences,regions } = useApp();
+  const language=preferences?.language||regions.defaultLanguage;
+  const menu=categoryMenu(data,data.menus.category.groups,language).find(item=>item.id===(c.categoryId||c.id));
   const t = useText();
   const [query, setQuery] = useState(""),
     [sort, setSort] = useState("default"),
@@ -33,10 +36,7 @@ export default function CategoryPage({ category: c }) {
         <p>{t("ui.countProducts", { count: products.length })}</p>
       </section>
       <nav className="catalog-tabs">
-        {[
-          ...data.categories.filter((c) => c.name === parent),
-          ...data.subcategories.filter((s) => s.category === parent),
-        ].map((s) => (
+        {(menu?[menu,...menu.children]:[]).map((s) => (
           <a
             href={local(s.url)}
             key={s.url}

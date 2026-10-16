@@ -341,3 +341,7 @@ JSON şablonunda `{ "tag": "icon", "attrs": { "name": "phone" }, "children": [] 
 Eski çizilmiş SVG’ler, yön/kapama/miktar sembolleri ve accordion işaretleri Phosphor’a taşındı. Galerilerde büyütme, mağazalarda telefon/saat/konum/yol tarifi, destek kartlarında e-posta/telefon, belge indirme ve online satış dışı ürünlerde mağaza ikonları eklendi. Marka, platform, ödeme ve Google kimlik görselleri değiştirilmedi.
 
 İkonlar varsayılan olarak dekoratiftir (`aria-hidden`, `focusable=false`); butonun erişilebilir adı mevcut çevrilmiş metin/aria-label ile sağlanır. Tek başına anlam taşıyan ikon için `label` verilir. Accordion ikonu açılınca CSS ile döner; azaltılmış hareket tercihi desteklenir.
+
+## Menü yönetimi
+
+Tüm menülerin düzenleme kaynakları `public/assets/data/menus/` klasöründedir. Dosya ve alan açıklamaları: [Menü yönetimi rehberi](docs/menu-yonetimi.md).

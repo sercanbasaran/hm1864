@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "service": [
+    {
+      "id": "stores",
+      "enabled": true,
+      "label": {
+        "tr": "Mağazalarımız",
+        "en": "Our Stores",
+        "ar": "متاجرنا"
+      },
+      "url": "/magazalar/index.html"
+    },
+    {
+      "id": "contact",
+      "enabled": true,
+      "label": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "url": "/iletisim/index.html",
+      "className": "service-contact"
+    }
+  ],
+  "actionsLeft": [
+    {
+      "id": "mobile",
+      "enabled": true,
+      "label": {
+        "tr": "Menüyü aç"
+      },
+      "action": "mobile",
+      "icon": "menu",
+      "className": "mobile-toggle icon-button"
+    },
+    {
+      "id": "search",
+      "enabled": true,
+      "label": {
+        "tr": "Arama"
+      },
+      "action": "search",
+      "icon": "search",
+      "className": "icon-button"
+    }
+  ],
+  "actionsRight": [
+    {
+      "id": "profile",
+      "enabled": true,
+      "label": {
+        "tr": "Hesabım"
+      },
+      "action": "profile",
+      "icon": "user",
+      "className": "icon-button"
+    },
+    {
+      "id": "cart",
+      "enabled": true,
+      "label": {
+        "tr": "Sepetim"
+      },
+      "action": "cart",
+      "icon": "bag",
+      "className": "icon-button"
+    }
+  ],
+  "primary": [
+    {
+      "id": "all",
+      "enabled": true,
+      "label": {
+        "tr": "TÜM MENÜ",
+        "en": "ALL MENU",
+        "ar": "القائمة الكاملة"
+      }
+    },
+    {
+      "id": "baklavalar",
+      "categoryId": "baklavalar",
+      "enabled": true
+    },
+    {
+      "id": "lokumlar",
+      "categoryId": "lokumlar",
+      "enabled": true
+    },
+    {
+      "id": "kadayiflar",
+      "categoryId": "kadayiflar",
+      "enabled": true
+    },
+    {
+      "id": "kahveler",
+      "categoryId": "kahveler",
+      "enabled": true
+    },
+    {
+      "id": "caylar",
+      "categoryId": "caylar",
+      "enabled": true
+    }
+  ],
+  "collection": [
+    {
+      "id": "hm-1864",
+      "enabled": true,
+      "label": {
+        "tr": "1864 SEÇKİSİ",
+        "en": "THE 1864 SELECTION"
+      },
+      "url": "/koleksiyonlar/hm-1864-serisi/index.html"
+    }
+  ]
+}

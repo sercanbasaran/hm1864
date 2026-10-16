@@ -1,3 +1,4 @@
+import {validateMenus} from './menus.js';
 import {validate} from './model.js';
 import {validateHomeSlider} from './utils/home-slider.js';
 import {validateBrandFiles} from './brand-content.js';
@@ -51,6 +52,8 @@ export async function loadAuthoringData(readJSON){
   catalog.storeTexts=stores.texts;
   const brand=validateBrandFiles(await Promise.all(manifest.pages.map(read)));
   catalog.brandPages=brand.pages;catalog.brandGroups=brand.groups;catalog.brandLabels=brand.labels;
+  if(!manifest.menus)throw Error('Menü dosyaları manifest içinde tanımlanmalı.');
+  catalog.menus=validateMenus(Object.fromEntries(await Promise.all(Object.entries(manifest.menus).map(async([key,path])=>[key,await read(path)]))),catalog);
   return {schemaVersion:1,catalog,content,regions:regionSettings};
 }
 

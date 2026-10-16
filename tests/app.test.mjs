@@ -64,6 +64,11 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  const hidden=edited.categories.find(c=>c.name==='Kahvaltılıklar');hidden.megaMenuOnline=false;
  edited.subcategories.find(s=>s.name==='Cevizli Baklavalar').megaMenuOnline=false;
  const featured=edited.categories.find(c=>c.name==='Drajeler');featured.highlightOnHeader=true;
+ edited.menus.mega.tabs.find(t=>t.id==='online').categories.find(c=>c.categoryId==='kahvaltiliklar').enabled=false;
+ edited.menus.mega.tabs.find(t=>t.id==='online').categories.find(c=>c.categoryId==='baklavalar').children.find(s=>s.subcategoryId==='baklavalar/cevizli-baklavalar').enabled=false;
+ edited.menus.header.primary.push({id:'drajeler',categoryId:'drajeler',enabled:true});
+ edited.menus.footer.groups[0].title={tr:'JSON Kurumsal'};
+ edited.menus.social.items[0].url='https://www.instagram.com/example/';
  assert.equal(menuCategories(edited).length,13);
  assert.equal(menuCategories(edited,'store').length,14);
  assert.equal(menuSubcategories(edited,'Baklavalar').length,1);
@@ -101,10 +106,12 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.equal(window.document.documentElement.lang,'tr');
  assert.equal(window.document.querySelector('.header-service button').textContent.includes('TRY'),true);
  assert.ok(window.document.querySelector('.header-gold'));
+ assert.match(window.document.querySelector('.footer-grid').textContent,/JSON Kurumsal/);
+ assert.equal(window.document.querySelector('.footer-social-icons a').getAttribute('href'),'https://www.instagram.com/example/');
  assert.ok([...window.document.querySelectorAll('.header-categories .nav-button')].some(b=>b.textContent.includes('Drajeler')));
  assert.ok(![...window.document.querySelectorAll('.header-categories .nav-button')].some(b=>b.textContent.includes('Kahvaltılıklar')));
  assert.equal(window.document.querySelectorAll('.react-slide').length,edited.homeSlider.slides.filter(s=>s.enabled).length);
- assert.equal(window.document.querySelector('.hero-slide').getAttribute('data-grid-scheme'),'0');
+ assert.equal(window.document.querySelector('.hero-slide').getAttribute('data-grid-scheme'),String(edited.homeSlider.slides[0].gridScheme??0));
  window.document.querySelector('.all-menu').dispatchEvent(new window.MouseEvent('click',{bubbles:true}));await new Promise(r=>setTimeout(r,600));assert.ok(window.document.querySelector('#mega-menu'));assert.equal(window.document.querySelectorAll('.mega-columns h3').length,13);
  assert.ok(!window.document.querySelector('.mega-columns').textContent.includes('Kahvaltılıklar'));
  assert.ok(!window.document.querySelector('.mega-columns').textContent.includes('Cevizli Baklavalar'));

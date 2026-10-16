@@ -1,0 +1,463 @@
+{
+  "schemaVersion": 1,
+  "groups": [
+    {
+      "id": "corporate",
+      "enabled": true,
+      "accordion": true,
+      "title": {
+        "tr": "Kurumsal"
+      },
+      "items": [
+        {
+          "id": "corporate-1",
+          "enabled": true,
+          "label": {
+            "tr": "İlke ve Değerlerimiz",
+            "en": "Principles and Values",
+            "ar": "مبادئنا وقيمنا"
+          },
+          "url": "kurumsal/ilke-ve-degerlerimiz/index.html"
+        },
+        {
+          "id": "corporate-2",
+          "enabled": true,
+          "label": {
+            "tr": "Politikalarımız",
+            "en": "Our Policies",
+            "ar": "سياساتنا"
+          },
+          "url": "kurumsal/politikalarimiz/index.html"
+        },
+        {
+          "id": "corporate-3",
+          "enabled": true,
+          "label": {
+            "tr": "Yönetim Kurulu",
+            "en": "Leadership",
+            "ar": "مجلس الإدارة"
+          },
+          "url": "kurumsal/yonetim-kurulu/index.html"
+        },
+        {
+          "id": "corporate-4",
+          "enabled": true,
+          "label": {
+            "tr": "Etik İlkeler ve Uyum",
+            "en": "Ethics and Compliance",
+            "ar": "الأخلاقيات والامتثال"
+          },
+          "url": "kurumsal/etik-ilkeler-ve-uyum-politikalari/index.html"
+        },
+        {
+          "id": "corporate-5",
+          "enabled": true,
+          "label": {
+            "tr": "Kariyer",
+            "en": "Careers",
+            "ar": "الوظائف"
+          },
+          "url": "kurumsal/kariyer/index.html"
+        },
+        {
+          "id": "corporate-6",
+          "enabled": true,
+          "label": {
+            "tr": "Sertifikalarımız",
+            "en": "Our Certificates",
+            "ar": "شهاداتنا"
+          },
+          "url": "kurumsal/sertifikalarimiz/index.html"
+        },
+        {
+          "id": "corporate-7",
+          "enabled": true,
+          "label": {
+            "tr": "Medya Merkezi",
+            "en": "Media Centre",
+            "ar": "المركز الإعلامي"
+          },
+          "url": "kurumsal/medya-merkezi/index.html"
+        }
+      ]
+    },
+    {
+      "id": "heritage",
+      "enabled": true,
+      "accordion": true,
+      "title": {
+        "tr": "Asırlık Miras"
+      },
+      "items": [
+        {
+          "id": "heritage-1",
+          "enabled": true,
+          "label": {
+            "tr": "Başkanın Mesajı",
+            "en": "Message from the President",
+            "ar": "رسالة الرئيس"
+          },
+          "url": "asirlik-miras/baskanin-mesaji/index.html"
+        },
+        {
+          "id": "heritage-2",
+          "enabled": true,
+          "label": {
+            "tr": "Eşsiz Hikâyemiz",
+            "en": "Our Distinctive Story",
+            "ar": "حكايتنا الفريدة"
+          },
+          "url": "asirlik-miras/essiz-hikayemiz/index.html"
+        },
+        {
+          "id": "heritage-3",
+          "enabled": true,
+          "label": {
+            "tr": "Dönüm Noktaları",
+            "en": "Milestones",
+            "ar": "محطات فارقة"
+          },
+          "url": "asirlik-miras/donum-noktalari/index.html"
+        },
+        {
+          "id": "heritage-4",
+          "enabled": true,
+          "label": {
+            "tr": "Başarı ve Ödüllerimiz",
+            "en": "Honours and Recognition",
+            "ar": "الإنجازات والتكريمات"
+          },
+          "url": "asirlik-miras/basari-ve-odullerimiz/index.html"
+        },
+        {
+          "id": "heritage-5",
+          "enabled": true,
+          "label": {
+            "tr": "Madalyalarımız",
+            "en": "Medals and Archive",
+            "ar": "ميدالياتنا والأرشيف"
+          },
+          "url": "asirlik-miras/madalyalarimiz/index.html"
+        }
+      ]
+    },
+    {
+      "id": "products",
+      "enabled": true,
+      "accordion": true,
+      "title": {
+        "tr": "Lezzetler"
+      },
+      "items": [
+        {
+          "id": "products-1",
+          "enabled": true,
+          "label": {
+            "tr": "Baklavalar"
+          },
+          "url": "urunler/baklavalar/index.html"
+        },
+        {
+          "id": "products-2",
+          "enabled": true,
+          "label": {
+            "tr": "Lokumlar"
+          },
+          "url": "urunler/lokumlar/index.html"
+        },
+        {
+          "id": "products-3",
+          "enabled": true,
+          "label": {
+            "tr": "Kadayıflar"
+          },
+          "url": "urunler/kadayiflar/index.html"
+        },
+        {
+          "id": "products-4",
+          "enabled": true,
+          "label": {
+            "tr": "Kahveler"
+          },
+          "url": "urunler/kahveler/index.html"
+        },
+        {
+          "id": "products-5",
+          "enabled": true,
+          "label": {
+            "tr": "Çaylar"
+          },
+          "url": "urunler/caylar/index.html"
+        },
+        {
+          "id": "products-6",
+          "enabled": true,
+          "label": {
+            "tr": "Kahvaltılıklar"
+          },
+          "url": "urunler/kahvaltiliklar/index.html"
+        },
+        {
+          "id": "products-7",
+          "enabled": true,
+          "label": {
+            "tr": "İlaveler"
+          },
+          "url": "urunler/ilaveler/index.html"
+        },
+        {
+          "id": "products-8",
+          "enabled": true,
+          "label": {
+            "tr": "Tüm Lezzetler"
+          },
+          "url": "urunler/index.html"
+        }
+      ]
+    },
+    {
+      "id": "collections",
+      "enabled": true,
+      "accordion": true,
+      "title": {
+        "tr": "Özel Koleksiyonlar"
+      },
+      "items": [
+        {
+          "id": "collections-1",
+          "enabled": true,
+          "label": {
+            "tr": "HM 1864 Serisi"
+          },
+          "url": "koleksiyonlar/hm-1864-serisi/index.html"
+        },
+        {
+          "id": "collections-2",
+          "enabled": true,
+          "label": {
+            "tr": "Özel Seri 1"
+          },
+          "url": "koleksiyonlar/ozel-seri-1/index.html"
+        },
+        {
+          "id": "collections-3",
+          "enabled": true,
+          "label": {
+            "tr": "Özel Seri 2"
+          },
+          "url": "koleksiyonlar/ozel-seri-2/index.html"
+        },
+        {
+          "id": "collections-4",
+          "enabled": true,
+          "label": {
+            "tr": "Özel Seri 3"
+          },
+          "url": "koleksiyonlar/ozel-seri-3/index.html"
+        }
+      ]
+    },
+    {
+      "id": "stores",
+      "enabled": true,
+      "accordion": true,
+      "title": {
+        "tr": "Mağazalarımız",
+        "en": "Our Stores",
+        "ar": "متاجرنا"
+      },
+      "items": [
+        {
+          "id": "stores-1",
+          "enabled": true,
+          "label": {
+            "tr": "Mağazalarımız",
+            "en": "Our Stores",
+            "ar": "متاجرنا"
+          },
+          "url": "magazalar/index.html"
+        },
+        {
+          "id": "stores-2",
+          "enabled": true,
+          "label": {
+            "tr": "Deneyim Alanları"
+          },
+          "url": "deneyim-alanlari/index.html"
+        }
+      ]
+    },
+    {
+      "id": "support",
+      "enabled": true,
+      "accordion": true,
+      "title": {
+        "tr": "Destek"
+      },
+      "items": [
+        {
+          "id": "support-1",
+          "enabled": true,
+          "label": {
+            "tr": "Müşteri Hizmetleri"
+          },
+          "url": "destek/musteri-hizmetleri/index.html"
+        },
+        {
+          "id": "support-2",
+          "enabled": true,
+          "label": {
+            "tr": "Çözüm Merkezi"
+          },
+          "url": "destek/cozum-merkezi/index.html"
+        },
+        {
+          "id": "support-3",
+          "enabled": true,
+          "label": {
+            "tr": "İşlem Rehberi"
+          },
+          "url": "destek/islem-rehberi/index.html"
+        },
+        {
+          "id": "support-4",
+          "enabled": true,
+          "label": {
+            "tr": "Güvenli Alışveriş Kılavuzu"
+          },
+          "url": "destek/guvenli-alisveris-kilavuzu/index.html"
+        },
+        {
+          "id": "support-5",
+          "enabled": true,
+          "label": {
+            "tr": "Sıkça Sorulan Sorular"
+          },
+          "url": "destek/sikca-sorulan-sorular/index.html"
+        },
+        {
+          "id": "support-6",
+          "enabled": true,
+          "label": {
+            "tr": "İptal & İade Koşulları"
+          },
+          "url": "destek/iptal-iade-kosullari/index.html"
+        },
+        {
+          "id": "support-7",
+          "enabled": true,
+          "label": {
+            "tr": "Teslimat Koşulları"
+          },
+          "url": "destek/teslimat-kosullari/index.html"
+        }
+      ]
+    },
+    {
+      "id": "agreements",
+      "enabled": true,
+      "accordion": true,
+      "title": {
+        "tr": "Sözleşme ve Politikalar"
+      },
+      "items": [
+        {
+          "id": "agreements-1",
+          "enabled": true,
+          "label": {
+            "tr": "Kişisel Verilerin Korunması"
+          },
+          "url": "sozlesmeler/kisisel-verilerin-korunmasi/index.html"
+        },
+        {
+          "id": "agreements-2",
+          "enabled": true,
+          "label": {
+            "tr": "Bilgi Güvenliği Politikası"
+          },
+          "url": "sozlesmeler/bilgi-guvenligi-politikasi/index.html"
+        },
+        {
+          "id": "agreements-3",
+          "enabled": true,
+          "label": {
+            "tr": "Gizlilik Bildirgesi"
+          },
+          "url": "sozlesmeler/gizlilik-bildirgesi/index.html"
+        },
+        {
+          "id": "agreements-4",
+          "enabled": true,
+          "label": {
+            "tr": "Satış Sözleşmesi"
+          },
+          "url": "sozlesmeler/satis-sozlesmesi/index.html"
+        },
+        {
+          "id": "agreements-5",
+          "enabled": true,
+          "label": {
+            "tr": "Üyelik Koşulları"
+          },
+          "url": "sozlesmeler/uyelik-kosullari/index.html"
+        },
+        {
+          "id": "agreements-6",
+          "enabled": true,
+          "label": {
+            "tr": "Çerez Politikası"
+          },
+          "url": "sozlesmeler/cerez-politikasi/index.html"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "enabled": true,
+      "accordion": false,
+      "title": {
+        "tr": "İLETİŞİM"
+      },
+      "items": [
+        {
+          "id": "contact-0",
+          "enabled": true,
+          "label": {
+            "tr": "WhatsApp’dan yazın"
+          },
+          "url": "iletisim/index.html"
+        },
+        {
+          "id": "contact-1",
+          "enabled": true,
+          "label": {
+            "tr": "İletişim",
+            "en": "Contact",
+            "ar": "اتصل بنا"
+          },
+          "url": "iletisim/index.html"
+        },
+        {
+          "id": "contact-2",
+          "enabled": true,
+          "label": {
+            "tr": "Site Haritası"
+          },
+          "url": "site-haritasi.html"
+        }
+      ]
+    }
+  ],
+  "order": [
+    "corporate",
+    "heritage",
+    "products",
+    "collections",
+    "stores",
+    "support",
+    "agreements",
+    "partners",
+    "contact",
+    "social"
+  ]
+}

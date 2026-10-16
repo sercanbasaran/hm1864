@@ -1,3 +1,5 @@
+import {menuText,visibleItems} from '../menus.js';
+import MenuItems from '../components/layout/MenuItems.jsx';
 import Icon from "../components/Icon.jsx";
 import React from "react";
 import { useApp } from "../context/AppContext.jsx";
@@ -10,9 +12,9 @@ export default function BrandPage({ page }) {
     text = (v) => brandText(v, language);
   const group = data.brandGroups.find((g) => g.id === page.groupId),
     labels = data.brandLabels;
-  const siblings = data.brandPages.filter(
-    (p) => p.groupId === page.groupId && p.url !== group.url,
-  );
+  const menu=data.menus.brand,settings=menu.pages.find(p=>p.pageId===page.id);
+  const chapters=settings?.enabled===false?[]:visibleItems(settings?.chapters).flatMap(item=>{const s=page.sections.find(s=>s.id===item.sectionId);return s?[{...s,title:item.label||s.title}]:[]});
+  const siblings=visibleItems(visibleItems(menu.groups).find(g=>g.groupId===page.groupId)?.pages).flatMap(item=>{const p=data.brandPages.find(p=>p.id===item.pageId);return p?[{...p,title:item.label||p.title}]:[]});
   return (
     <article className={"brand-page brand-theme-" + page.groupId}>
       <header className={"brand-hero" + (!page.hero.image ? " brand-hero-text" : "")}>
@@ -41,31 +43,31 @@ export default function BrandPage({ page }) {
       </header>
       <div className="brand-reading-layout">
         <aside className="brand-chapters">
-          <p>{text(labels.onThisPage)}</p>
-          <nav aria-label={text(labels.onThisPage)}>
-            {page.sections.map((s) => (
+          <p>{menuText(menu.chaptersTitle,language)}</p>
+          <nav aria-label={menuText(menu.chaptersTitle,language)}>
+            {chapters.map((s) => (
               <a key={s.id} href={"#" + s.id}>
                 {text(s.title)}
               </a>
             ))}
           </nav>
-          <a className="brand-back-link" href={local(group.url)}>
+          {settings?.showBackLink!==false && <a className="brand-back-link" href={local(group.url)}>
             {text(group.title)} <Icon name="external" size={18} />
-          </a>
+          </a>}
         </aside>
         <div className="brand-main-content">
           <BrandSections page={page} language={language} labels={labels} />
         </div>
       </div>
-      <section className="brand-related" aria-label={text(labels.continue)}>
+      <section className="brand-related" aria-label={menuText(menu.relatedTitle,language)}>
         <div>
           <p className="brand-eyebrow">1864 — {new Date().getFullYear()}</p>
-          <h2>{text(labels.continue)}</h2>
+          <h2>{menuText(menu.relatedTitle,language)}</h2>
         </div>
         <div className="brand-related-links">
           {siblings
             .filter((p) => p.id !== page.id)
-            .slice(0, 4)
+            .slice(0, menu.relatedLimit)
             .map((p) => (
               <a key={p.id} href={local(p.url)}>
                 {text(p.title)} <Icon name="external" size={18} />
@@ -74,8 +76,7 @@ export default function BrandPage({ page }) {
         </div>
       </section>
       <footer className="brand-page-end">
-        <a href="#main">{text(labels.top)} <Icon name="up" size={18} /></a>
-        <a href="/magazalar/index.html">{text(labels.stores)} <Icon name="store" size={18} /></a>
+        <MenuItems items={menu.endLinks}/>
       </footer>
     </article>
   );

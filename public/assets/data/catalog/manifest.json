@@ -341,5 +341,14 @@
     "pages/destek.json",
     "pages/sozlesmeler.json"
   ],
-  "homeSlider": "home/slider.json"
+  "homeSlider": "home/slider.json",
+  "menus": {
+    "header": "menus/header.json",
+    "mega": "menus/mega.json",
+    "mobile": "menus/mobile.json",
+    "footer": "menus/footer.json",
+    "social": "menus/social.json",
+    "category": "menus/category.json",
+    "brand": "menus/brand.json"
+  }
 }
