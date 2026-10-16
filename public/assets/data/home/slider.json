@@ -10,6 +10,24 @@
       "enabled": true,
       "backgroundColor": "#9A0002",
       "image": "assets/images/medya/slider/slide_1.png",
+      "backgroundImage": "assets/images/medya/slide_0_bg.png",
+      "buttonLink": "urunler/baklavalar/index.html",
+      "content": {
+        "tr": {
+          "eyebrow": "1864'ten Günümüze Asırlık Zanaat",
+          "title": "istanbul'un tatli mirasi",
+          "description": "İstanbul’dan Dünyaya Taşınan Zarafet: Şehrin Tatlı Mirasını Paylaşın.",
+          "buttonLabel": "MİRASI KEŞFEDİN",
+          "imageAlt": "Hafız Mustafa 1864",
+          "backgroundImageAlt": "Kırmızı doku"
+        }
+      }
+    },
+    {
+      "id": "hero-slide-1",
+      "enabled": true,
+      "backgroundColor": "#9A0002",
+      "image": "assets/images/medya/slider/slide_1.png",
       "backgroundImage": "assets/images/medya/a41ba.png",
       "buttonLink": "urunler/baklavalar/index.html",
       "content": {
