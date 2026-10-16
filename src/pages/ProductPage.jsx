@@ -80,7 +80,7 @@ export default function ProductPage({ product: p }) {
             </div>
 
             <p className="muted" aria-live="polite">
-              {v.portion && (
+              {p.quantityUnit === "slice" ? (v.sliceCount != null && <><RichText value={t("ui.sliceCount",{count:v.sliceCount})}/> ·{" "}</>) : v.portion && (
                 <>
                   <RichText value={v.portion} /> ·{" "}
                 </>

@@ -1,3 +1,5 @@
+import ProductContents from './ProductContents.jsx';
+import {resolveContents} from '../../utils/product-contents.js';
 import Icon from "../Icon.jsx";
 import React from "react";
 import { useApp } from "../../context/AppContext.jsx";
@@ -8,7 +10,10 @@ import Text from "./ProductText.jsx";
 
 export default function ProductAccordions({ product, variant }) {
   const t = useText(),
-    { content } = useApp();
+    { content,data,preferences,regions } = useApp();
+  const language=preferences?.language||regions.defaultLanguage;
+  const boxRows=resolveContents(variant.boxContents,data.products,language);
+  const packageRows=resolveContents(variant.packageContents,data.products,language);
   const placeholders = ["ui.copy.039", "ui.copy.043", "ui.infoPending"].flatMap(
     (key) => Object.values(content.texts[key] || {}),
   );
@@ -36,11 +41,14 @@ export default function ProductAccordions({ product, variant }) {
     !rows.length &&
     !summary &&
     !note &&
-    !sections.length
+    !sections.length &&
+    !boxRows.length &&
+    !packageRows.length
   )
     return null;
   return (
     <div className="accordions">
+      <ProductContents boxRows={boxRows} packageRows={packageRows} t={t}/>
       {(ingredients || allergens) && (
         <details>
           <summary>

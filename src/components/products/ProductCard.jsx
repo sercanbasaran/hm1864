@@ -14,7 +14,7 @@ export default function Card({ product: p }) {
     { currency, language, missing } = usePrice();
   const { content } = useApp();
   const placeholders = ["ui.copy.039", "ui.copy.043", "ui.infoPending"].flatMap(key => Object.values(content.texts[key] || {}));
-  const { description, variants } = productCardContent(p, placeholders);
+  const { description, variants } = productCardContent(p, placeholders, count => t("ui.sliceCount", {count}));
   return (
     <article className="product-card">
       <a className="product-picture" href={local(p.url)}>

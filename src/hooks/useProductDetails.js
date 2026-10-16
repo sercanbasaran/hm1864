@@ -8,7 +8,7 @@ export function useProductDetails(p) {
   const t = useText();
   const { currency, language, missing } = usePrice();
 
-  const [variant, setVariant] = useState(p.variants[0]?.code || "");
+  const [variant, setVariant] = useState(p.defaultVariant || p.variants[0]?.code || "");
   const [qty, setQty] = useState(1);
   const [selectedImage, setSelectedImage] = useState(null);
 

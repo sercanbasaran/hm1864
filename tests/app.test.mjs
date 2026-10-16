@@ -17,7 +17,7 @@ const content=validateContent(authored.content);
 const regions=validateRegions(rawRegions,content.languages);
 const routes=JSON.parse(await fs.readFile('src/routes.json','utf8'));
 const templateJSON=JSON.stringify(Object.fromEntries(await Promise.all(['header','footer','home','stores'].map(async name=>[name,JSON.parse(await fs.readFile('src/templates/'+name+'.json','utf8'))]))));
-test('catalogue, legacy routes, and variant data are retained',()=>{validate(data);assert.equal(data.products.length,164);assert.equal(data.products.filter(p=>p.variants.length).length,123);for(const url of Object.keys(routes))assert.ok(resolve('/'+url,data,routes));for(const p of data.products){assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);assert.equal(resolve('/'+p.url.replace(/\.html$/,''),data,routes).product.key,p.key);}assert.equal(resolve('/unknown.html',data,routes).kind,'404');assert.ok(match(data.products.find(p=>p.code==='100-01-02'),'FISTIKLI'));const p={...data.products[0],price:100,stock:5,variants:[{code:'S',price:0,stock:0}]};assert.equal(choice(p,'S').price,0);assert.equal(choice(p,'S').stock,0);});
+test('catalogue, legacy routes, and variant data are retained',()=>{validate(data);assert.equal(data.products.length,164);assert.equal(data.products.filter(p=>p.variants.length).length,123);for(const url of Object.keys(routes))assert.ok(resolve('/'+url,data,routes));for(const p of data.products){assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);assert.equal(resolve('/'+p.url.replace(/\.html$/,''),data,routes).product.key,p.key);}assert.equal(resolve('/unknown.html',data,routes).kind,'404');assert.ok(match(data.products.find(p=>p.code==='100.0102'),'FISTIKLI'));const p={...data.products[0],price:100,stock:5,variants:[{code:'S',price:0,stock:0}]};assert.equal(choice(p,'S').price,0);assert.equal(choice(p,'S').stock,0);});
 test('region preferences, localized names and explicit product availability',()=>{
  validateRegions(rawRegions,content.languages);
  assert.deepEqual(normalizePreferences({country:'Türkiye',language:'Türkçe'},regions,content),{group:'turkey',country:'TR',language:'tr',currency:'TRY'});
@@ -57,7 +57,7 @@ test('returning visitor retains the selection without another first-visit dialog
 test('built React application: navigation, variant update, dialogs, menu and slider',async()=>{
  const window=new Window({url:'http://localhost/index.html',settings:{enableJavaScriptEvaluation:true}});
  const editedTexts=structuredClone(content);
- const edited=structuredClone(data);edited.homeSlider.slides[0].content.tr.title='<strong>İSTANBUL IŞIĞI</strong>';edited.homeSlider.slides[0].content.tr.description='İıŞşĞğ korunur';edited.stores.find(s=>s.id==='dubai-mall-of-the-emirates').google.businessProfileLocation='accounts/123/locations/456';const p=edited.products.find(p=>p.code==='100-01-02');p.variants[0].price=111;p.variants[1].price=222;p.variants[1].pricesByCurrency={USD:9.99};p.variants[1].description='<strong onclick="window.bad=1">Deneme</strong><br><b>Kalın</b><script>window.bad=1</script>';p.variants[1].weight='500 g';p.variants[0].images=['pastalar/test-xs.png','pastalar/test-xs-2.png'];p.variants[1].images=['pastalar/test-s.png','pastalar/test-s-2.png'];p.variants[0].ingredients='Lorem ipsum dolor sit amet.';p.variants[1].storage='Serin yerde saklayınız.';p.variants[1].delivery='Bilgi eklenecek';
+ const edited=structuredClone(data);edited.homeSlider.slides[0].content.tr.title='<strong>İSTANBUL IŞIĞI</strong>';edited.homeSlider.slides[0].content.tr.description='İıŞşĞğ korunur';edited.stores.find(s=>s.id==='dubai-mall-of-the-emirates').google.businessProfileLocation='accounts/123/locations/456';const p=edited.products.find(p=>p.code==='100.0102');p.defaultVariant='XS';for(const field of ['ingredients','allergenInfo','storage','servingSuggestion','longTermStorage','delivery','packaging'])p[field]='';for(const v of p.variants){v.boxContents=[];v.packageContents=[];for(const field of ['ingredients','allergenInfo','storage','servingSuggestion','longTermStorage','delivery','packaging'])v[field]='';}p.variants[0].price=111;p.variants[1].price=222;p.variants[1].pricesByCurrency={USD:9.99};p.variants[1].description='<strong onclick="window.bad=1">Deneme</strong><br><b>Kalın</b><script>window.bad=1</script>';p.variants[1].weight='500 g';p.variants[0].images=['pastalar/test-xs.png','pastalar/test-xs-2.png'];p.variants[1].images=['pastalar/test-s.png','pastalar/test-s-2.png'];p.variants[0].ingredients='Lorem ipsum dolor sit amet.';p.variants[1].storage='Serin yerde saklayınız.';p.variants[1].delivery='Bilgi eklenecek';
  edited.products.find(x=>x.name==='Lotus Kulesi').editorial[0].enabled=false;
  Object.assign(edited.products.find(x=>x.name==='Lotus Kulesi').editorial[1],{image:'/assets/images/medya/test-box.png',paragraphs:['Kutuyu saklama alanı olarak değerlendirin.']});
  edited.products[0].markets=['TR'];
@@ -128,7 +128,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
    const nav=window.document.createElement('a');nav.href=href;window.document.querySelector('#main').appendChild(nav);nav.click();await wait();
    assert.equal(window.document.querySelectorAll('header.site-header').length,1,`Header repeated at ${href}`);
  }
- assert.equal(window.document.querySelector('.accordions'),null);
+ assert.equal(window.document.querySelector('.accordions')===null,true,'empty product accordions should be absent');
  assert.match(window.document.querySelector('.product-main-image img').src,/test-xs\.png$/);
  window.document.querySelectorAll('.gallery-thumb')[1].click();await wait();
  assert.match(window.document.querySelector('.product-main-image img').src,/test-xs-2\.png$/);
@@ -246,7 +246,7 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  const listedCard=[...window.document.querySelectorAll('.product-card')].find(card=>card.querySelector('.product-picture').getAttribute('href')==='/'+p.url);
  assert.ok(listedCard);assert.equal(listedCard.querySelectorAll('.card-variants li').length,p.variants.length);
  assert.equal(listedCard.querySelector('.card-store-only'),null);
- assert.equal(listedCard.querySelector('.card-description'),null);
+ assert.equal(listedCard.querySelector('.card-description').textContent,p.description);
  assert.equal(listedCard.querySelector('.card-variant-description strong').textContent,'Deneme');
  assert.equal(listedCard.querySelector('.card-variant-description script'),null);assert.equal(window.bad,undefined);
  const cakeListingLink=window.document.createElement('a');cakeListingLink.href='/'+edited.categories.find(c=>c.id==='pastalar').url;window.document.querySelector('#main').appendChild(cakeListingLink);cakeListingLink.click();await wait();
@@ -318,7 +318,7 @@ test('modular data sources and static editorial content',async()=>{
 });
 
 test('current product codes and variant image fallback',()=>{
- for(const p of data.products){assert.ok(p.key.startsWith(slug(p.code)+'-'),p.key);for(const old of p.legacyKeys||[])assert.notEqual(old,p.key)}
+ for(const p of data.products){assert.ok([p.code,...(p.legacyCodes||[])].some(code=>p.key.startsWith(slug(code)+'-')),p.key);for(const old of p.legacyKeys||[])assert.notEqual(old,p.key)}
  const cake=data.products.find(p=>p.name==='Son Aşk');assert.equal(cake.key,'500-0304-son-ask');assert.ok(cake.legacyKeys.includes('500-01-17-son-ask'));
  const p={...data.products[0],images:['general.png'],variants:[{code:'a',images:['a.png','a-2.png']},{code:'b',images:[]}]};
  assert.deepEqual(variantImages(p,'a'),['a.png','a-2.png']);assert.deepEqual(variantImages(p,'b'),['general.png']);assert.equal(choice(p,'a').image,'a.png');
@@ -337,7 +337,7 @@ test('formatting supports nested inline tags and removes active HTML',()=>{
  test('breadcrumb hierarchy follows product taxonomy and sitemap for every route',()=>{
  const t=key=>translate(content,'tr',key);
  const make=(path,route=resolve(path,data,routes),catalog=data)=>buildBreadcrumbs({path,route,data:catalog,rawData:data,routes,t});
- const product=data.products.find(p=>p.code==='100-01-02');
+ const product=data.products.find(p=>p.code==='100.0102');
  const cat=data.categories.find(c=>c.id===product.categoryId);
  const sub=data.subcategories.find(c=>c.id===product.subcategoryId);
  assert.deepEqual(make('/'+product.url).map(c=>c.label),[t('template.0165'),cat.name,sub.name,product.name]);

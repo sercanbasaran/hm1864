@@ -4,661 +4,2101 @@
   "products": {
     "100-01-01-fistikli-ankara-baklavasi": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5950,
+          "USD": 120,
+          "EUR": 107,
+          "AED": 442,
+          "GBP": 91,
+          "DKK": 801,
+          "SEK": 1197,
+          "CNY": 805,
+          "JPY": 19010
         }
       }
     },
     "100-01-02-fistikli-baklava": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5000,
+          "USD": 101,
+          "EUR": 90,
+          "AED": 371,
+          "GBP": 76,
+          "DKK": 674,
+          "SEK": 1006,
+          "CNY": 676,
+          "JPY": 15974
         }
       }
     },
     "100-01-03-fistikli-cimcik-baklava": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5630,
+          "USD": 114,
+          "EUR": 101,
+          "AED": 418,
+          "GBP": 86,
+          "DKK": 758,
+          "SEK": 1133,
+          "CNY": 762,
+          "JPY": 17987
         }
       }
     },
     "100-01-04-fistikli-cikolatali-baklava": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 4200,
+          "USD": 85,
+          "EUR": 76,
+          "AED": 312,
+          "GBP": 64,
+          "DKK": 566,
+          "SEK": 845,
+          "CNY": 568,
+          "JPY": 13419
         }
       }
     },
     "100-01-05-fistikli-cikolatali-havuc-dilim": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 4200,
+          "USD": 85,
+          "EUR": 76,
+          "AED": 312,
+          "GBP": 64,
+          "DKK": 566,
+          "SEK": 845,
+          "CNY": 568,
+          "JPY": 13419
         }
       }
     },
     "100-01-06-fistikli-dilber-dudagi": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 4875,
+          "USD": 99,
+          "EUR": 88,
+          "AED": 362,
+          "GBP": 74,
+          "DKK": 657,
+          "SEK": 981,
+          "CNY": 660,
+          "JPY": 15575
         }
       }
     },
     "100-01-07-fistikli-durum": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5500,
+          "USD": 111,
+          "EUR": 99,
+          "AED": 408,
+          "GBP": 84,
+          "DKK": 741,
+          "SEK": 1106,
+          "CNY": 744,
+          "JPY": 17572
         }
       }
     },
     "100-01-08-fistikli-havuc-dilim": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 4200,
+          "USD": 85,
+          "EUR": 76,
+          "AED": 312,
+          "GBP": 64,
+          "DKK": 566,
+          "SEK": 845,
+          "CNY": 568,
+          "JPY": 13419
         }
       }
     },
     "100-01-09-fistikli-kare-baklava": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5500,
+          "USD": 111,
+          "EUR": 99,
+          "AED": 408,
+          "GBP": 84,
+          "DKK": 741,
+          "SEK": 1106,
+          "CNY": 744,
+          "JPY": 17572
         }
       }
     },
     "100-01-10-fistikli-kivrim-baklava": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5600,
+          "USD": 113,
+          "EUR": 101,
+          "AED": 416,
+          "GBP": 85,
+          "DKK": 754,
+          "SEK": 1127,
+          "CNY": 758,
+          "JPY": 17891
         }
       }
     },
     "100-01-11-fistikli-kuru-baklava": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 4700,
+          "USD": 95,
+          "EUR": 85,
+          "AED": 349,
+          "GBP": 72,
+          "DKK": 633,
+          "SEK": 945,
+          "CNY": 636,
+          "JPY": 15016
         }
       }
     },
     "100-01-12-fistikli-ozel-sobiyet": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5500,
+          "USD": 111,
+          "EUR": 99,
+          "AED": 408,
+          "GBP": 84,
+          "DKK": 741,
+          "SEK": 1106,
+          "CNY": 744,
+          "JPY": 17572
         }
       }
     },
     "100-01-13-fistikli-padisah": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5600,
+          "USD": 113,
+          "EUR": 101,
+          "AED": 416,
+          "GBP": 85,
+          "DKK": 754,
+          "SEK": 1127,
+          "CNY": 758,
+          "JPY": 17891
         }
       }
     },
     "100-01-14-fistikli-prenses": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 4750,
+          "USD": 96,
+          "EUR": 86,
+          "AED": 353,
+          "GBP": 72,
+          "DKK": 640,
+          "SEK": 956,
+          "CNY": 643,
+          "JPY": 15176
         }
       }
     },
     "100-01-15-fistikli-saray-sarmasi": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5630,
+          "USD": 114,
+          "EUR": 101,
+          "AED": 418,
+          "GBP": 86,
+          "DKK": 758,
+          "SEK": 1133,
+          "CNY": 762,
+          "JPY": 17987
         }
       }
     },
     "100-01-16-fistikli-sari-burma": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 6500,
+          "USD": 131,
+          "EUR": 117,
+          "AED": 483,
+          "GBP": 99,
+          "DKK": 876,
+          "SEK": 1308,
+          "CNY": 879,
+          "JPY": 20767
         }
       }
     },
     "100-01-17-fistikli-sobiyet": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 4750,
+          "USD": 96,
+          "EUR": 86,
+          "AED": 353,
+          "GBP": 72,
+          "DKK": 640,
+          "SEK": 956,
+          "CNY": 643,
+          "JPY": 15176
         }
       }
     },
     "100-02-01-cevizli-ankara-baklavasi": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 4800,
+          "USD": 97,
+          "EUR": 87,
+          "AED": 356,
+          "GBP": 73,
+          "DKK": 647,
+          "SEK": 966,
+          "CNY": 649,
+          "JPY": 15335
         }
       }
     },
     "100-02-02-cevizli-baklava": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 4700,
+          "USD": 95,
+          "EUR": 85,
+          "AED": 349,
+          "GBP": 72,
+          "DKK": 633,
+          "SEK": 945,
+          "CNY": 636,
+          "JPY": 15016
         }
       }
     },
     "100-02-03-cevizli-cimcik-baklava": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 4800,
+          "USD": 97,
+          "EUR": 87,
+          "AED": 356,
+          "GBP": 73,
+          "DKK": 647,
+          "SEK": 966,
+          "CNY": 649,
+          "JPY": 15335
         }
       }
     },
     "100-02-04-cevizli-cikolatali-baklava": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5150,
+          "USD": 104,
+          "EUR": 93,
+          "AED": 382,
+          "GBP": 78,
+          "DKK": 694,
+          "SEK": 1036,
+          "CNY": 697,
+          "JPY": 16454
         }
       }
     },
     "100-02-05-cevizli-durum": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5500,
+          "USD": 111,
+          "EUR": 99,
+          "AED": 408,
+          "GBP": 84,
+          "DKK": 741,
+          "SEK": 1106,
+          "CNY": 744,
+          "JPY": 17572
         }
       }
     },
     "100-02-06-cevizli-ev-baklavasi": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5500,
+          "USD": 111,
+          "EUR": 99,
+          "AED": 408,
+          "GBP": 84,
+          "DKK": 741,
+          "SEK": 1106,
+          "CNY": 744,
+          "JPY": 17572
         }
       }
     },
     "100-02-07-cevizli-kare-baklava": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5330,
+          "USD": 108,
+          "EUR": 96,
+          "AED": 396,
+          "GBP": 81,
+          "DKK": 718,
+          "SEK": 1072,
+          "CNY": 721,
+          "JPY": 17029
         }
       }
     },
     "100-02-08-cevizli-kelebek": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5400,
+          "USD": 109,
+          "EUR": 97,
+          "AED": 401,
+          "GBP": 82,
+          "DKK": 727,
+          "SEK": 1086,
+          "CNY": 731,
+          "JPY": 17252
         }
       }
     },
     "100-02-09-cevizli-kivrim": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5100,
+          "USD": 103,
+          "EUR": 92,
+          "AED": 379,
+          "GBP": 78,
+          "DKK": 687,
+          "SEK": 1026,
+          "CNY": 690,
+          "JPY": 16294
         }
       }
     },
     "100-02-10-cevizli-padisah": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5500,
+          "USD": 111,
+          "EUR": 99,
+          "AED": 408,
+          "GBP": 84,
+          "DKK": 741,
+          "SEK": 1106,
+          "CNY": 744,
+          "JPY": 17572
         }
       }
     },
     "100-02-11-cevizli-prenses": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5500,
+          "USD": 111,
+          "EUR": 99,
+          "AED": 408,
+          "GBP": 84,
+          "DKK": 741,
+          "SEK": 1106,
+          "CNY": 744,
+          "JPY": 17572
         }
       }
     },
     "100-02-12-cevizli-saray-sarma": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5500,
+          "USD": 111,
+          "EUR": 99,
+          "AED": 408,
+          "GBP": 84,
+          "DKK": 741,
+          "SEK": 1106,
+          "CNY": 744,
+          "JPY": 17572
         }
       }
     },
     "100-02-13-cevizli-sari-burma": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "USD": null,
+        "EUR": null,
+        "AED": null,
+        "GBP": null,
+        "DKK": null,
+        "SEK": null,
+        "CNY": null,
+        "JPY": null
       },
       "variants": {
         "XS": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "S": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "M": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "L": {
-          "TRY": null
+          "TRY": null,
+          "USD": null,
+          "EUR": null,
+          "AED": null,
+          "GBP": null,
+          "DKK": null,
+          "SEK": null,
+          "CNY": null,
+          "JPY": null
         },
         "XL": {
-          "TRY": null
+          "TRY": 5500,
+          "USD": 111,
+          "EUR": 99,
+          "AED": 408,
+          "GBP": 84,
+          "DKK": 741,
+          "SEK": 1106,
+          "CNY": 744,
+          "JPY": 17572
         }
       }
     }
