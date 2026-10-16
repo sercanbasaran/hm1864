@@ -25,7 +25,7 @@ Her varyantın boxContents listesinde görsel, isim ve adet tablosu bulunur:
 
 productKey katalogdaki ürün anahtarına bağlanır; isim seçili dilde katalogdan gelir. Karışık kutulara birden fazla satır eklenebilir. Harici ürün için productKey yerine name: {"tr":"Ürün adı","en":"Product name"} kullanılabilir.
 
-image, assets/images/urunler/ altındaki gerçek dilim görselinin göreli yoludur. Örnek: baklavalar/fistikli-baklava-dilim.png. Boşsa ürünün sliceImage alanı kullanılır; bu da boşsa görsel alanında mevcut yer tutucu gösterilir. Excel'de veya depoda baklava dilimi görselleri bulunmadığından gerçek görsel uydurulmamıştır. Yeni görselleri ilgili klasöre ekleyip yolu tanımlayın.
+image, assets/images/urunler/ altındaki ürün görselinin göreli yoludur. Örnek: baklavalar/100.0102.06.webp. Boşsa ürünün sliceImage alanı kullanılır; bu da boşsa görsel alanında mevcut yer tutucu gösterilir. Yüklenen 30 WebP fotoğrafı özgün SKU dosya adlarıyla bu klasöre eklenmiştir. Ana ürün görseli ve XL galerisinin yanında sliceImage alanına da bağlanır; böylece kutu içeriği tablosunda aynı ürünün fotoğrafı gösterilir. Farklı bir dilim görseli kullanmak için sliceImage veya satırın image alanını değiştirin.
 
 sliceCount toplam dilim bilgisidir; boxContents[].quantity her çeşidin adedidir. Kaynak yalnızca toplamı verdiği için tek çeşit kutularda aynı değerle başlatılmıştır. Karışık kutularda toplamı ve satır adetlerini birlikte güncelleyin. null adet tabloda — görünür. enabled: false veya quantity: 0 satırı gizler. Boş [] liste akordiyonu gizler.
 
