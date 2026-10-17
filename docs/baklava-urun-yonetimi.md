@@ -38,3 +38,9 @@ variants[].packageContents listesi varyanta özeldir. XL’de kolonyalı mendil,
 ~~~
 
 Besin değerleri dosyada yer almadığı için eklenmemiştir. Mevcut ürün şablonunda bilgi girilince besin değeri akordiyonu otomatik görünür. Değişiklikler npm run build ile doğrulanır ve yeni dağıtıma dahil olur.
+
+## Beyaz fonlu dilim fotoğrafları
+
+16 düzenlenmiş dilim fotoğrafı public/assets/images/urunler/baklavalar/studio/ klasöründedir. Her dosya 800×600 px WebP; ürün sınırları tuvalin merkezine hizalanır ve en fazla 320×280 px alan kaplar. 2,5 metre uzaklık ortak kadraj hissi olarak uygulanmıştır; fiziksel kamera mesafesi ölçülmemiştir.
+
+15 ürünün images ve sliceImage alanları güncellenmiştir. Görseli olan varyant galerilerine de dilim fotoğrafları eklenmiştir; eski kutu fotoğrafları korunur. Cevizli Ankara için 14 numaralı rulo ana görsel, 03 numaralı kare ek galeri görselidir. Dosya adı Havuç Dilim olan 01 numaralı koyu fotoğraf, görünümüne göre Fıstıklı Çikolatalı Havuç Dilim (100.0105) ürününe bağlanmıştır. Diğer eşleştirmeler dosya adlarıyla yapılmıştır.
