@@ -3974,6 +3974,46 @@ dialog[open] {
   object-fit: contain
 }
 
+.product-image-stage {
+  position: relative;
+  min-width: 0;
+  max-width: 100%;
+}
+
+.product-image-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 1px solid #ddd;
+  background: #fffffff2;
+  color: #171512;
+  cursor: pointer;
+}
+
+.product-image-previous { left: 10px; }
+.product-image-next { right: 10px; }
+.product-image-arrow:hover { background: #fff; border-color: #171512; }
+.product-image-arrow:focus-visible { outline: 2px solid #a50000; outline-offset: 2px; }
+.product-image-count {
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 4px 8px;
+  background: #fffffff2;
+  color: #171512;
+  font-size: 12px;
+  pointer-events: none;
+}
+.gallery-thumb[aria-current=true] { border-color: #171512; }
+
 .data-warning {
   padding: 16px;
   background: #fff4d7;
