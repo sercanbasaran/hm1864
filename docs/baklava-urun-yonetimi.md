@@ -44,3 +44,5 @@ Besin değerleri dosyada yer almadığı için eklenmemiştir. Mevcut ürün şa
 16 düzenlenmiş dilim fotoğrafı public/assets/images/urunler/baklavalar/studio/ klasöründedir. Her dosya 800×600 px WebP; ürün sınırları tuvalin merkezine hizalanır ve en fazla 320×280 px alan kaplar. 2,5 metre uzaklık ortak kadraj hissi olarak uygulanmıştır; fiziksel kamera mesafesi ölçülmemiştir.
 
 15 ürünün images ve sliceImage alanları güncellenmiştir. Görseli olan varyant galerilerine de dilim fotoğrafları eklenmiştir; eski kutu fotoğrafları korunur. Cevizli Ankara için 14 numaralı rulo ana görsel, 03 numaralı kare ek galeri görselidir. Dosya adı Havuç Dilim olan 01 numaralı koyu fotoğraf, görünümüne göre Fıstıklı Çikolatalı Havuç Dilim (100.0105) ürününe bağlanmıştır. Diğer eşleştirmeler dosya adlarıyla yapılmıştır.
+
+17–25 numaralı ikinci seri de aynı ölçülerle eklendi: Fıstıklı/Cevizli Saray Sarma, Fıstıklı/Cevizli Cimcik, Fıstıklı/Cevizli Prenses, Fıstıklı/Cevizli Çikolatalı Baklava ve Cevizli Sarı Burma. Yeni 9 fotoğraf 9 ayrı ürünle dosya adlarına göre eşleştirilir. Böylece studio klasöründe toplam 25 dilim fotoğrafı, 24 ürün için kullanılır.

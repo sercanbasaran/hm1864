@@ -586,6 +586,7 @@
       },
       "currency": "TRY",
       "images": [
+        "baklavalar/studio/100.0103-20.webp",
         "baklavalar/100.0103.06.png"
       ],
       "stock": null,
@@ -782,6 +783,7 @@
           "stock": null,
           "sku": "100.0103.06",
           "images": [
+            "baklavalar/studio/100.0103-20.webp",
             "baklavalar/100.0103.06.png"
           ],
           "sliceCount": "46/48",
@@ -847,7 +849,7 @@
       "defaultVariant": "XL",
       "quantityUnit": "slice",
       "commonMarket": true,
-      "sliceImage": "baklavalar/100.0103.06.png"
+      "sliceImage": "baklavalar/studio/100.0103-20.webp"
     },
     {
       "code": "100.0104",
@@ -867,6 +869,7 @@
       },
       "currency": "TRY",
       "images": [
+        "baklavalar/studio/100.0104-23.webp",
         "baklavalar/100.0104.06.png"
       ],
       "stock": null,
@@ -1063,6 +1066,7 @@
           "stock": null,
           "sku": "100.0104.06",
           "images": [
+            "baklavalar/studio/100.0104-23.webp",
             "baklavalar/100.0104.06.png"
           ],
           "sliceCount": "46/48",
@@ -1128,7 +1132,7 @@
       "defaultVariant": "XL",
       "quantityUnit": "slice",
       "commonMarket": true,
-      "sliceImage": "baklavalar/100.0104.06.png"
+      "sliceImage": "baklavalar/studio/100.0104-23.webp"
     },
     {
       "code": "100.0105",
@@ -3691,6 +3695,7 @@
       },
       "currency": "TRY",
       "images": [
+        "baklavalar/studio/100.0114-22.webp",
         "baklavalar/100.0114.06.png"
       ],
       "stock": null,
@@ -3887,6 +3892,7 @@
           "stock": null,
           "sku": "100.0114.06",
           "images": [
+            "baklavalar/studio/100.0114-22.webp",
             "baklavalar/100.0114.06.png"
           ],
           "sliceCount": 30,
@@ -3952,7 +3958,7 @@
       "defaultVariant": "XL",
       "quantityUnit": "slice",
       "commonMarket": true,
-      "sliceImage": "baklavalar/100.0114.06.png"
+      "sliceImage": "baklavalar/studio/100.0114-22.webp"
     },
     {
       "code": "100.0115",
@@ -3972,6 +3978,7 @@
       },
       "currency": "TRY",
       "images": [
+        "baklavalar/studio/100.0115-17.webp",
         "baklavalar/100.0115.06.png"
       ],
       "stock": null,
@@ -4168,6 +4175,7 @@
           "stock": null,
           "sku": "100.0115.06",
           "images": [
+            "baklavalar/studio/100.0115-17.webp",
             "baklavalar/100.0115.06.png"
           ],
           "sliceCount": 83,
@@ -4233,7 +4241,7 @@
       "defaultVariant": "XL",
       "quantityUnit": "slice",
       "commonMarket": true,
-      "sliceImage": "baklavalar/100.0115.06.png"
+      "sliceImage": "baklavalar/studio/100.0115-17.webp"
     },
     {
       "code": "100.0116",
@@ -5385,6 +5393,7 @@
       },
       "currency": "TRY",
       "images": [
+        "baklavalar/studio/100.0203-19.webp",
         "baklavalar/100.0203.06.png"
       ],
       "stock": null,
@@ -5581,6 +5590,7 @@
           "stock": null,
           "sku": "100.0203.06",
           "images": [
+            "baklavalar/studio/100.0203-19.webp",
             "baklavalar/100.0203.06.png"
           ],
           "sliceCount": 83,
@@ -5646,7 +5656,7 @@
       "defaultVariant": "XL",
       "quantityUnit": "slice",
       "commonMarket": true,
-      "sliceImage": "baklavalar/100.0203.06.png"
+      "sliceImage": "baklavalar/studio/100.0203-19.webp"
     },
     {
       "code": "100.0204",
@@ -5666,6 +5676,7 @@
       },
       "currency": "TRY",
       "images": [
+        "baklavalar/studio/100.0204-24.webp",
         "baklavalar/100.0204.06.png"
       ],
       "stock": null,
@@ -5862,6 +5873,7 @@
           "stock": null,
           "sku": "100.0204.06",
           "images": [
+            "baklavalar/studio/100.0204-24.webp",
             "baklavalar/100.0204.06.png"
           ],
           "sliceCount": 45,
@@ -5927,7 +5939,7 @@
       "defaultVariant": "XL",
       "quantityUnit": "slice",
       "commonMarket": true,
-      "sliceImage": "baklavalar/100.0204.06.png"
+      "sliceImage": "baklavalar/studio/100.0204-24.webp"
     },
     {
       "code": "100.0205",
@@ -7639,6 +7651,7 @@
       },
       "currency": "TRY",
       "images": [
+        "baklavalar/studio/100.0211-21.webp",
         "baklavalar/100.0211.06.png"
       ],
       "stock": null,
@@ -7835,6 +7848,7 @@
           "stock": null,
           "sku": "100.0211.06",
           "images": [
+            "baklavalar/studio/100.0211-21.webp",
             "baklavalar/100.0211.06.png"
           ],
           "sliceCount": 42,
@@ -7900,7 +7914,7 @@
       "defaultVariant": "XL",
       "quantityUnit": "slice",
       "commonMarket": true,
-      "sliceImage": "baklavalar/100.0211.06.png"
+      "sliceImage": "baklavalar/studio/100.0211-21.webp"
     },
     {
       "code": "100.0212",
@@ -7920,6 +7934,7 @@
       },
       "currency": "TRY",
       "images": [
+        "baklavalar/studio/100.0212-18.webp",
         "baklavalar/100.0212.06.png"
       ],
       "stock": null,
@@ -8116,6 +8131,7 @@
           "stock": null,
           "sku": "100.0212.06",
           "images": [
+            "baklavalar/studio/100.0212-18.webp",
             "baklavalar/100.0212.06.png"
           ],
           "sliceCount": 40,
@@ -8181,7 +8197,7 @@
       "defaultVariant": "XL",
       "quantityUnit": "slice",
       "commonMarket": true,
-      "sliceImage": "baklavalar/100.0212.06.png"
+      "sliceImage": "baklavalar/studio/100.0212-18.webp"
     },
     {
       "code": "100.0213",
@@ -8201,6 +8217,7 @@
       },
       "currency": "TRY",
       "images": [
+        "baklavalar/studio/100.0213-25.webp",
         "baklavalar/100.0213.06.png"
       ],
       "stock": null,
@@ -8397,6 +8414,7 @@
           "stock": null,
           "sku": "100.0213.06",
           "images": [
+            "baklavalar/studio/100.0213-25.webp",
             "baklavalar/100.0213.06.png"
           ],
           "sliceCount": 32,
@@ -8462,7 +8480,7 @@
       "defaultVariant": "XL",
       "quantityUnit": "slice",
       "commonMarket": true,
-      "sliceImage": "baklavalar/100.0213.06.png"
+      "sliceImage": "baklavalar/studio/100.0213-25.webp"
     }
   ]
 }
