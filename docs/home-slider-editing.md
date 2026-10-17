@@ -1,7 +1,7 @@
 # Ana sayfa slider içerikleri
 
 Tek düzenleme dosyası: `public/assets/data/home/slider.json`.
-`src/templates/home.json` yalnızca slider'ın sayfadaki konumunu belirler.
+`src/pages/HomePage.jsx` yalnızca slider'ın sayfadaki konumunu belirler.
 `runtime.json` derleme sırasında üretilir; doğrudan düzenlenmez.
 
 - `intervalMs`: otomatik geçiş süresi, milisaniye (5000 = 5 saniye).

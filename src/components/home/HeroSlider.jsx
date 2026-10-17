@@ -8,10 +8,10 @@ import Media from "../Media.jsx";
 import RichText from "../../RichText.jsx";
 import { plainText } from "../../formatted-text.js";
 
-export default function Hero() {
+export default function HeroSlider({ config: suppliedConfig } = {}) {
   const t = useText();
   const { data, preferences } = useApp();
-  const config = data.homeSlider;
+  const config = suppliedConfig || data.homeSlider;
   const language = preferences?.language || "tr";
   const slides = config.slides.filter(slide => slide.enabled);
   const [current, setCurrent] = useState(0),

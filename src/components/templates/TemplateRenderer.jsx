@@ -1,28 +1,24 @@
 import {footerMenuNodes} from '../../utils/menu-template.js';
 import React from "react";
 import { useApp } from "../../context/AppContext.jsx";
-import { useText } from "../../hooks/useText.js";
 import { local } from "../../utils/urls.js";
 import RichText from "../../RichText.jsx";
 import { plainText } from "../../formatted-text.js";
 import Media from "../Media.jsx";
 import Card from "../products/ProductCard.jsx";
 import Disclosure from "./Disclosure.jsx";
-import Hero from "../home/HeroSlider.jsx";
 import { countryDefaults } from "../../market.js";
 import { translate, templateText } from "../../i18n.js";
 import { isLhfHeading } from "../../utils/lhf-text.js";
 import Icon from "../Icon.jsx";
 
-export default function Template({ node, skipHero = false, lhf = false, ancestorClasses = [] }) {
-  const { data, preferences, regions, content, setModal, year, setYear } =
+export default function Template({ node, lhf = false, ancestorClasses = [] }) {
+  const { data, preferences, regions, content, setModal } =
     useApp();
-  const t = useText();
   const language = preferences?.language || regions.defaultLanguage;
   if (typeof node === "string")
     return <RichText value={templateText(content, language, node)} lhf={lhf} />;
   if (!node) return null;
-  if (node.tag === "home-slider") return <Hero />;
   if (node.tag === "navigation-menu") return <>{footerMenuNodes(data.menus,language,node.children).map((n,i)=><Template key={i} node={n}/>)}</>;
   const a = node.attrs || {},
     children = node.children || [];
@@ -100,51 +96,6 @@ export default function Template({ node, skipHero = false, lhf = false, ancestor
   }
   if (a["data-open"])
     props.onClick = () => setModal(a["data-open"].replace("-dialog", ""));
-  if (a["data-scroll"])
-    props.onClick = (e) =>
-      e.currentTarget
-        .closest(".product-section")
-        ?.querySelector(".carousel")
-        ?.scrollBy({
-          left: Number(a["data-scroll"]) * 400,
-          behavior: "smooth",
-        });
-  if (a["data-year"]) {
-    props["aria-selected"] = year === a["data-year"];
-    props.tabIndex = year === a["data-year"] ? 0 : -1;
-    props.onClick = () => setYear(a["data-year"]);
-    props.onKeyDown = (e) => {
-      const years = ["1864", "1888", "1923", "1925", "1926"];
-      if (["ArrowRight", "ArrowLeft", "Home", "End"].includes(e.key)) {
-        e.preventDefault();
-        const i = years.indexOf(year),
-          next =
-            e.key === "Home"
-              ? 0
-              : e.key === "End"
-                ? 4
-                : (i + (e.key === "ArrowRight" ? 1 : -1) + 5) % 5;
-        setYear(years[next]);
-        document.getElementById("year-" + years[next])?.focus();
-      }
-    };
-  }
-  if (a.id === "heritage-content" && year !== "1864")
-    return (
-      <div
-        id="heritage-content"
-        role="tabpanel"
-        aria-labelledby={"year-" + year}
-      >
-        <h3>{year}</h3>
-        <p>
-          <RichText value={t("ui.copy.002")} />
-        </p>
-        <a href="/asirlik-miras/donum-noktalari/index.html">
-          <RichText value={t("page.0032")} />
-        </a>
-      </div>
-    );
   if (node.tag === "main")
     return (
       <>

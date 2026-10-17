@@ -16,7 +16,7 @@ const rawRegions=authored.regions;
 const content=validateContent(authored.content);
 const regions=validateRegions(rawRegions,content.languages);
 const routes=JSON.parse(await fs.readFile('src/routes.json','utf8'));
-const templateJSON=JSON.stringify(Object.fromEntries(await Promise.all(['header','footer','home','stores'].map(async name=>[name,JSON.parse(await fs.readFile('src/templates/'+name+'.json','utf8'))]))));
+const templateJSON=JSON.stringify({...Object.fromEntries(await Promise.all(['header','footer','stores'].map(async name=>[name,JSON.parse(await fs.readFile('src/templates/'+name+'.json','utf8'))]))),home:JSON.parse(await fs.readFile('src/components/home/sections.json','utf8'))});
 test('catalogue, legacy routes, and variant data are retained',()=>{validate(data);assert.equal(data.products.length,164);assert.equal(data.products.filter(p=>p.variants.length).length,123);for(const url of Object.keys(routes))assert.ok(resolve('/'+url,data,routes));for(const p of data.products){assert.equal(resolve('/'+p.url,data,routes).product.key,p.key);assert.equal(resolve('/'+p.url.replace(/\.html$/,''),data,routes).product.key,p.key);}assert.equal(resolve('/unknown.html',data,routes).kind,'404');assert.ok(match(data.products.find(p=>p.code==='100.0102'),'FISTIKLI'));const p={...data.products[0],price:100,stock:5,variants:[{code:'S',price:0,stock:0}]};assert.equal(choice(p,'S').price,0);assert.equal(choice(p,'S').stock,0);});
 test('region preferences, localized names and explicit product availability',()=>{
  validateRegions(rawRegions,content.languages);
@@ -264,7 +264,7 @@ test('centralized static text keys and language fallback',()=>{
  assert.equal(formatText(content,'en','ui.countProducts',{count:12}),'12 products');
  assert.equal(templateText(content,'en','@text:ui.allMenu'),'ALL MENU');
  const templates=JSON.parse(templateJSON);
- const used=new Set();const scan=v=>{if(typeof v==='string'){const m=v.match(/^\s*@text:([\w.]+)\s*$/);if(m)used.add(m[1])}else if(Array.isArray(v))v.forEach(scan);else if(v&&typeof v==='object')Object.values(v).forEach(scan)};scan(templates);
+ const used=new Set();const scan=v=>{if(typeof v==='string'){const m=v.match(/^\s*@text:([\w.]+)\s*$/);if(m)used.add(m[1]);else if(/^(template|ui|page)\.[\w.]+$/.test(v))used.add(v)}else if(Array.isArray(v))v.forEach(scan);else if(v&&typeof v==='object')Object.values(v).forEach(scan)};scan(templates);
  for(const r of Object.values(routes))if(r.titleKey)used.add(r.titleKey);
  for(const key of used)assert.ok(content.texts[key],`Missing static text: ${key}`);
  assert.ok(used.size>200);

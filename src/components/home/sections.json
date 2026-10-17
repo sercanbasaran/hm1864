@@ -1,0 +1,62 @@
+{
+  "collection": {
+    "logo": "assets/images/medya/964ee.png",
+    "logoAltKey": "template.0117",
+    "image": "assets/images/medya/ff30e.png",
+    "imageAltKey": "template.0088",
+    "titleKey": "template.0118",
+    "subtitleKey": "template.0119",
+    "paragraphKeys": ["template.0120", "template.0121"],
+    "buttonKey": "template.0087",
+    "href": "koleksiyonlar/hm-1864-serisi/index.html"
+  },
+  "featuredProducts": {
+    "titleKey": "template.0122",
+    "descriptionKey": "template.0123",
+    "previousKey": "template.0134",
+    "nextKey": "template.0135",
+    "productKeys": [
+      "100-01-07-fistikli-durum",
+      "100-02-10-cevizli-padisah",
+      "200-02-03-gul-yaprakli-fistikli-duble-lokum",
+      "800-01-01-turk-kahvesi"
+    ]
+  },
+  "corporateGifts": {
+    "eyebrowKey": "template.0136",
+    "titleKey": "template.0137",
+    "descriptionKey": "template.0138",
+    "image": "assets/images/medya/55a35.png",
+    "imageAltKey": "template.0103",
+    "features": [
+      {"titleKey": "template.0139", "descriptionKey": "template.0140"},
+      {"titleKey": "template.0141", "descriptionKey": "template.0142"},
+      {"titleKey": "template.0143", "descriptionKey": "template.0144"}
+    ],
+    "buttonKey": "template.0145",
+    "href": "kurumsal-hediyeler/index.html"
+  },
+  "stores": {
+    "image": "assets/images/medya/c41f2.png",
+    "imageAltKey": "template.0146",
+    "captionKey": "template.0147",
+    "titleKeys": ["template.0148", "template.0149"],
+    "paragraphKeys": ["template.0150", "template.0151"],
+    "buttonKey": "template.0152",
+    "href": "magazalar/index.html"
+  },
+  "heritage": {
+    "titleKey": "template.0153",
+    "descriptionKey": "template.0154",
+    "image": "assets/images/medya/5f4d0.png",
+    "imageAltKey": "template.0155",
+    "tabsLabelKey": "template.0156",
+    "years": [
+      {"year": "1864", "labelKey": "template.0157", "titleKey": "template.0162", "descriptionKey": "template.0163"},
+      {"year": "1888", "labelKey": "template.0158", "descriptionKey": "ui.copy.002", "buttonKey": "page.0032", "href": "asirlik-miras/donum-noktalari/index.html"},
+      {"year": "1923", "labelKey": "template.0159", "descriptionKey": "ui.copy.002", "buttonKey": "page.0032", "href": "asirlik-miras/donum-noktalari/index.html"},
+      {"year": "1925", "labelKey": "template.0160", "descriptionKey": "ui.copy.002", "buttonKey": "page.0032", "href": "asirlik-miras/donum-noktalari/index.html"},
+      {"year": "1926", "labelKey": "template.0161", "descriptionKey": "ui.copy.002", "buttonKey": "page.0032", "href": "asirlik-miras/donum-noktalari/index.html"}
+    ]
+  }
+}

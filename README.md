@@ -125,7 +125,7 @@ Aynı biçimlendirme diğer dil dosyalarındaki metinlerde de kullanılabilir. H
 | Ürün detay sayfası | `src/pages/ProductPage.jsx` |
 | Kategori ve alt kategori sayfası | `src/pages/CategoryPage.jsx` |
 | Tüm ürün kategorileri | `src/pages/ProductsPage.jsx` |
-| Anasayfa | `src/pages/HomePage.jsx`, `src/templates/home.json` |
+| Anasayfa | `src/pages/HomePage.jsx`, `src/components/home/` ([düzenleme rehberi](docs/home-components.md)) |
 | Mağazalar sayfası | `src/pages/StoresPage.jsx` |
 | Site haritası | `src/pages/SitemapPage.jsx` |
 | Boş / bulunamadı / erişilemeyen sayfalar | `src/pages/PlaceholderPage.jsx` |

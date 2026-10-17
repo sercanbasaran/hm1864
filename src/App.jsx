@@ -29,7 +29,6 @@ export default function App() {
     read("hm1864.react.preferences", null) ? null : "region",
   );
   const [lightbox, setLightbox] = useState(null);
-  const [year, setYear] = useState("1864");
   const { path, navigate } = useNavigation(setModal);
   const route = useResolvedRoute({
     data,
@@ -84,8 +83,6 @@ export default function App() {
         requiredSelection: !preferences,
         lightbox,
         setLightbox,
-        year,
-        setYear,
       }}
     >
       <div onClick={navigate}>
