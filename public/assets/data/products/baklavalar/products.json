@@ -218,7 +218,8 @@
           "sku": "100.0101.06",
           "images": [
             "baklavalar/studio/100.0101-13.webp",
-            "baklavalar/100.0101.06.png"
+            "baklavalar/100.0101.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 42,
           "boxContents": [
@@ -501,7 +502,8 @@
           "sku": "100.0102.06",
           "images": [
             "baklavalar/studio/100.0102-05.webp",
-            "baklavalar/100.0102.06.png"
+            "baklavalar/100.0102.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": "46/48",
           "boxContents": [
@@ -784,7 +786,8 @@
           "sku": "100.0103.06",
           "images": [
             "baklavalar/studio/100.0103-20.webp",
-            "baklavalar/100.0103.06.png"
+            "baklavalar/100.0103.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": "46/48",
           "boxContents": [
@@ -1067,7 +1070,8 @@
           "sku": "100.0104.06",
           "images": [
             "baklavalar/studio/100.0104-23.webp",
-            "baklavalar/100.0104.06.png"
+            "baklavalar/100.0104.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": "46/48",
           "boxContents": [
@@ -1350,7 +1354,8 @@
           "sku": "100.0105.06",
           "images": [
             "baklavalar/studio/100.0105-01.webp",
-            "baklavalar/100.0105.06.png"
+            "baklavalar/100.0105.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 10,
           "boxContents": [
@@ -1631,7 +1636,8 @@
           "stock": null,
           "sku": "100.0106.06",
           "images": [
-            "baklavalar/100.0106.06.png"
+            "baklavalar/100.0106.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 71,
           "boxContents": [
@@ -1914,7 +1920,8 @@
           "sku": "100.0107.06",
           "images": [
             "baklavalar/studio/100.0107-09.webp",
-            "baklavalar/100.0107.06.png"
+            "baklavalar/100.0107.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 96,
           "boxContents": [
@@ -2197,7 +2204,8 @@
           "sku": "100.0108.06",
           "images": [
             "baklavalar/studio/100.0108-02.webp",
-            "baklavalar/100.0108.06.png"
+            "baklavalar/100.0108.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 10,
           "boxContents": [
@@ -2480,7 +2488,8 @@
           "sku": "100.0109.06",
           "images": [
             "baklavalar/studio/100.0109-04.webp",
-            "baklavalar/100.0109.06.png"
+            "baklavalar/100.0109.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 45,
           "boxContents": [
@@ -2763,7 +2772,8 @@
           "sku": "100.0110.06",
           "images": [
             "baklavalar/studio/100.0110-15.webp",
-            "baklavalar/100.0110.06.png"
+            "baklavalar/100.0110.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 60,
           "boxContents": [
@@ -3044,7 +3054,8 @@
           "stock": null,
           "sku": "100.0111.06",
           "images": [
-            "baklavalar/100.0111.06.png"
+            "baklavalar/100.0111.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 68,
           "boxContents": [
@@ -3327,7 +3338,8 @@
           "sku": "100.0112.06",
           "images": [
             "baklavalar/studio/100.0112-11.webp",
-            "baklavalar/100.0112.06.png"
+            "baklavalar/100.0112.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 36,
           "boxContents": [
@@ -3610,7 +3622,8 @@
           "sku": "100.0113.06",
           "images": [
             "baklavalar/studio/100.0113-07.webp",
-            "baklavalar/100.0113.06.png"
+            "baklavalar/100.0113.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 60,
           "boxContents": [
@@ -3893,7 +3906,8 @@
           "sku": "100.0114.06",
           "images": [
             "baklavalar/studio/100.0114-22.webp",
-            "baklavalar/100.0114.06.png"
+            "baklavalar/100.0114.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 30,
           "boxContents": [
@@ -4176,7 +4190,8 @@
           "sku": "100.0115.06",
           "images": [
             "baklavalar/studio/100.0115-17.webp",
-            "baklavalar/100.0115.06.png"
+            "baklavalar/100.0115.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 83,
           "boxContents": [
@@ -4457,7 +4472,8 @@
           "stock": null,
           "sku": "100.0116.06",
           "images": [
-            "baklavalar/100.0116.06.png"
+            "baklavalar/100.0116.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 63,
           "boxContents": [
@@ -4740,7 +4756,8 @@
           "sku": "100.0117.06",
           "images": [
             "baklavalar/studio/100.0117-12.webp",
-            "baklavalar/100.0117.06.png"
+            "baklavalar/100.0117.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 45,
           "boxContents": [
@@ -5025,7 +5042,8 @@
           "images": [
             "baklavalar/studio/100.0201-14.webp",
             "baklavalar/studio/100.0201-03.webp",
-            "baklavalar/100.0201.06.png"
+            "baklavalar/100.0201.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 42,
           "boxContents": [
@@ -5308,7 +5326,8 @@
           "sku": "100.0202.06",
           "images": [
             "baklavalar/studio/100.0202-08.webp",
-            "baklavalar/100.0202.06.png"
+            "baklavalar/100.0202.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 42,
           "boxContents": [
@@ -5591,7 +5610,8 @@
           "sku": "100.0203.06",
           "images": [
             "baklavalar/studio/100.0203-19.webp",
-            "baklavalar/100.0203.06.png"
+            "baklavalar/100.0203.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 83,
           "boxContents": [
@@ -5874,7 +5894,8 @@
           "sku": "100.0204.06",
           "images": [
             "baklavalar/studio/100.0204-24.webp",
-            "baklavalar/100.0204.06.png"
+            "baklavalar/100.0204.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 45,
           "boxContents": [
@@ -6157,7 +6178,8 @@
           "sku": "100.0205.06",
           "images": [
             "baklavalar/studio/100.0205-10.webp",
-            "baklavalar/100.0205.06.png"
+            "baklavalar/100.0205.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 30,
           "boxContents": [
@@ -6438,7 +6460,8 @@
           "stock": null,
           "sku": "100.0206.06",
           "images": [
-            "baklavalar/100.0206.06.png"
+            "baklavalar/100.0206.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 56,
           "boxContents": [
@@ -6719,7 +6742,8 @@
           "stock": null,
           "sku": "100.0207.06",
           "images": [
-            "baklavalar/100.0207.06.png"
+            "baklavalar/100.0207.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 41,
           "boxContents": [
@@ -7000,7 +7024,8 @@
           "stock": null,
           "sku": "100.0208.06",
           "images": [
-            "baklavalar/100.0208.06.png"
+            "baklavalar/100.0208.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 45,
           "boxContents": [
@@ -7283,7 +7308,8 @@
           "sku": "100.0209.06",
           "images": [
             "baklavalar/studio/100.0209-16.webp",
-            "baklavalar/100.0209.06.png"
+            "baklavalar/100.0209.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 36,
           "boxContents": [
@@ -7566,7 +7592,8 @@
           "sku": "100.0210.06",
           "images": [
             "baklavalar/studio/100.0210-06.webp",
-            "baklavalar/100.0210.06.png"
+            "baklavalar/100.0210.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 42,
           "boxContents": [
@@ -7849,7 +7876,8 @@
           "sku": "100.0211.06",
           "images": [
             "baklavalar/studio/100.0211-21.webp",
-            "baklavalar/100.0211.06.png"
+            "baklavalar/100.0211.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 42,
           "boxContents": [
@@ -8132,7 +8160,8 @@
           "sku": "100.0212.06",
           "images": [
             "baklavalar/studio/100.0212-18.webp",
-            "baklavalar/100.0212.06.png"
+            "baklavalar/100.0212.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 40,
           "boxContents": [
@@ -8415,7 +8444,8 @@
           "sku": "100.0213.06",
           "images": [
             "baklavalar/studio/100.0213-25.webp",
-            "baklavalar/100.0213.06.png"
+            "baklavalar/100.0213.06.png",
+            "baklavalar/packaging/hm1864-xl-closed-front-left.webp"
           ],
           "sliceCount": 32,
           "boxContents": [
