@@ -3961,8 +3961,8 @@ dialog[open] {
 }
 
 .gallery-thumb {
-  width: 72px;
-  height: 72px;
+  width: 80px;
+  height: 62px;
   flex-shrink: 0;
   border: 1px solid #ddd;
   padding: 4px
@@ -3971,7 +3971,7 @@ dialog[open] {
 .gallery-thumb img {
   width: 100%;
   height: 100%;
-  object-fit: contain
+  object-fit:fill;
 }
 
 .product-image-stage {
