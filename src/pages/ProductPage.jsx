@@ -9,9 +9,11 @@ import Card from "../components/products/ProductCard.jsx";
 import Text from "../components/products/ProductText.jsx";
 import OrderAvailability from "../components/products/OrderAvailability.jsx";
 import EditorialSections from "../components/products/EditorialSections.jsx";
-import { money, storeOnly } from "../model.js";
+import { money, storeOnly, validPrice } from "../model.js";
+import { useApp } from "../context/AppContext.jsx";
 
 export default function ProductPage({ product: p }) {
+  const { commerce, setModal } = useApp();
   const {
     t,
     currency,
@@ -98,7 +100,6 @@ export default function ProductPage({ product: p }) {
             <OrderAvailability />
           ) : (
             <>
-              {/* Purchase integration is not connected yet. */}
               <div className="purchase-row">
                 <div className="quantity">
                   <button
@@ -122,12 +123,13 @@ export default function ProductPage({ product: p }) {
                     <Icon name="plus" size={16} />
                   </button>
                 </div>
-                <button className="button button-grey" disabled>
-                  <RichText value={t("ui.copy.005")} />
+                <button className="button" disabled={!validPrice(v.price) || v.onlineSale === false || (v.stock != null && v.stock < qty)}
+                  onClick={() => { if (commerce.addToCart(p, variant, qty)) setModal('cart'); }}>
+                  <RichText value={t("commerce.add")} />
                 </button>
               </div>
               <p className="muted">
-                <RichText value={t("ui.copy.006")} />
+                <RichText value={t("commerce.demoNotice")} />
               </p>
             </>
           )}

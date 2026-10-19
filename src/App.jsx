@@ -13,6 +13,7 @@ import Header from "./components/layout/Header.jsx";
 import Footer from "./components/layout/Footer.jsx";
 import Dialogs from "./components/dialogs/Dialogs.jsx";
 import Page from "./routing/PageRouter.jsx";
+import { useDemoCommerce } from "./hooks/useDemoCommerce.js";
 export default function App() {
   const {
     rawData,
@@ -29,7 +30,8 @@ export default function App() {
     read("hm1864.react.preferences", null) ? null : "region",
   );
   const [lightbox, setLightbox] = useState(null);
-  const { path, navigate } = useNavigation(setModal);
+  const { path, navigate, goTo } = useNavigation(setModal);
+  const commerce = useDemoCommerce(data, preferences?.currency || regions?.defaultCurrency || 'TRY');
   const route = useResolvedRoute({
     data,
     path,
@@ -83,6 +85,8 @@ export default function App() {
         requiredSelection: !preferences,
         lightbox,
         setLightbox,
+        commerce,
+        goTo,
       }}
     >
       <div onClick={navigate}>

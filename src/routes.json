@@ -531,15 +531,15 @@
     "titleKey": "page.0051"
   },
   "sepet/index.html": {
-    "kind": "placeholder",
+    "kind": "cart",
     "titleKey": "page.0052"
   },
   "odeme/index.html": {
-    "kind": "placeholder",
+    "kind": "checkout",
     "titleKey": "page.0053"
   },
   "siparis/sonuc.html": {
-    "kind": "placeholder",
+    "kind": "order-result",
     "titleKey": "page.0054"
   },
   "siparis/takip.html": {
@@ -547,15 +547,15 @@
     "titleKey": "page.0055"
   },
   "hesabim/index.html": {
-    "kind": "placeholder",
+    "kind": "account",
     "titleKey": "page.0056"
   },
   "hesabim/kayit.html": {
-    "kind": "placeholder",
+    "kind": "register",
     "titleKey": "page.0057"
   },
   "hesabim/sifremi-unuttum.html": {
-    "kind": "placeholder",
+    "kind": "password-reset",
     "titleKey": "page.0058"
   },
   "hesabim/adreslerim.html": {
@@ -563,7 +563,7 @@
     "titleKey": "page.0059"
   },
   "hesabim/siparislerim.html": {
-    "kind": "placeholder",
+    "kind": "account",
     "titleKey": "page.0060"
   },
   "hesabim/bilgilerim.html": {

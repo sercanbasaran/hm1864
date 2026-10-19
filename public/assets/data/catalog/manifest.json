@@ -310,7 +310,8 @@
     "ui/product-page.json",
     "ui/dialogs.json",
     "ui/pages.json",
-    "ui/common.json"
+    "ui/common.json",
+    "ui/commerce.json"
   ],
   "catalogMeta": {
     "currency": "TRY",

@@ -10,6 +10,13 @@ export function useNavigation(setModal) {
     window.addEventListener("popstate", pop);
     return () => window.removeEventListener("popstate", pop);
   }, []);
+  const goTo = path => {
+    document.querySelector("dialog[open]")?.close();
+    history.pushState(null, "", path);
+    setPath(new URL(path, location.href).pathname);
+    setModal(null);
+    window.scrollTo(0, 0);
+  };
   const navigate = (e) => {
     const a = e.target.closest("a");
     if (
@@ -28,11 +35,7 @@ export function useNavigation(setModal) {
     if (url.origin !== location.origin || url.hash) return;
     if (!/\.html$|\/$/.test(url.pathname)) return;
     e.preventDefault();
-    document.querySelector("dialog[open]")?.close();
-    history.pushState(null, "", url.pathname + url.search);
-    setPath(url.pathname);
-    setModal(null);
-    window.scrollTo(0, 0);
+    goTo(url.pathname + url.search);
   };
-  return { path, navigate };
+  return { path, navigate, goTo };
 }

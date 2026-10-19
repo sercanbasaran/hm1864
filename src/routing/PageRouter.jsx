@@ -8,9 +8,19 @@ import StoreDetailPage from "../pages/StoreDetailPage.jsx";
 import StoresPage from "../pages/StoresPage.jsx";
 import SitemapPage from "../pages/SitemapPage.jsx";
 import PlaceholderPage from "../pages/PlaceholderPage.jsx";
+import CartPage from "../pages/CartPage.jsx";
+import CheckoutPage from "../pages/CheckoutPage.jsx";
+import OrderResultPage from "../pages/OrderResultPage.jsx";
+import AccountPage from "../pages/AccountPage.jsx";
 
 export default function PageRouter({ route }) {
   switch (route.kind) {
+    case "cart": return <CartPage />;
+    case "checkout": return <CheckoutPage />;
+    case "order-result": return <OrderResultPage />;
+    case "account": return <AccountPage />;
+    case "register": return <AccountPage mode="register" />;
+    case "password-reset": return <AccountPage mode="reset" />;
     case "brand":
       return <BrandPage key={route.page.id} page={route.page} />;
     case "home":
