@@ -6,7 +6,7 @@ import { usePrice } from "../../hooks/usePrice.js";
 import { local } from "../../utils/urls.js";
 import RichText from "../../RichText.jsx";
 import Media from "../Media.jsx";
-import { cardPrice, choice, imageUrl, money } from "../../model.js";
+import { cardPrice, choice, imageUrl, money, validPrice } from "../../model.js";
 import { plainText } from "../../formatted-text.js";
 import { useApp } from "../../context/AppContext.jsx";
 import { productCardContent, isOnlineSaleUnavailable } from "../../utils/product-card-content.js";
@@ -14,9 +14,14 @@ import { productCardContent, isOnlineSaleUnavailable } from "../../utils/product
 export default function Card({ product: p }) {
   const t = useText(),
     { currency, language, missing } = usePrice();
-  const { content } = useApp();
+  const { content, commerce, setModal } = useApp();
   const [selection, setSelection] = useState(null);
   const selectedCode = selection?.productKey === p.key && p.variants.some(variant => variant.code === selection.code) ? selection.code : null;
+  const cartCode = selectedCode ?? (p.variants.length === 1 ? p.variants[0].code : p.variants.length === 0 ? '' : null);
+  const cartChoice = cartCode === null ? null : choice(p, cartCode, currency);
+  const cartQuantity = commerce?.items.find(item => item.key === p.key && item.variant === cartCode)?.quantity || 0;
+  const canAdd = !!cartChoice && cartChoice.onlineSale !== false && validPrice(cartChoice.price)
+    && cartQuantity < 99 && (cartChoice.stock == null || cartChoice.stock > cartQuantity);
   const selected = selectedCode === null ? null : choice(p, selectedCode, currency);
   const placeholders = ["ui.copy.039", "ui.copy.043", "ui.infoPending"].flatMap(key => Object.values(content.texts[key] || {}));
   const { description, variants } = productCardContent(p, placeholders, count => t("ui.sliceCount", {count}));
@@ -54,9 +59,16 @@ export default function Card({ product: p }) {
         <div className="card-meta" aria-live="polite" aria-atomic="true">
           <span>{selected ? money(selected.price, currency, missing, language) : cardPrice(p, missing, t("ui.from"), currency, language)}</span>
         </div>
-        <a className="button" href={local(p.url)}>
-          <RichText value={t("template.0127")} />
-        </a>
+        <div className="card-actions">
+          {cartCode === null && !isOnlineSaleUnavailable(p) && <p className="card-cart-hint"><RichText value={t("commerce.chooseVariant")} /></p>}
+          <button type="button" className="button card-add-to-cart" disabled={!canAdd}
+            onClick={() => { if (canAdd && commerce.addToCart(p, cartCode, 1)) setModal('cart'); }}>
+            <RichText value={t("commerce.add")} />
+          </button>
+          <a className="button card-view-product" href={local(p.url)}>
+            <RichText value={t("template.0127")} />
+          </a>
+        </div>
       </div>
     </article>
   );

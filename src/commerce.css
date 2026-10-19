@@ -77,3 +77,12 @@
 .commerce-billing { border: 1px solid #ded8cf; padding: 18px; margin: 20px 0; min-width: 0; }
 .commerce-receipt { overflow-wrap: anywhere; }
 .commerce-receipt li strong { flex-shrink: 0; }
+
+.product-card .card-actions { display: grid; gap: 8px; }
+.product-card .card-actions .button { min-height: 44px; margin: 0; }
+.product-card .card-actions .card-view-product { background: transparent; color: #242424; border: 1px solid #d6d6d6; }
+.product-card .card-actions .card-view-product:hover { background: #f3f0eb; border-color: #cba052; }
+.product-card .card-actions .card-cart-hint { font-size: 12px; margin: 0; }
+@supports (grid-template-rows: subgrid) {
+  .product-card-body > .card-actions { grid-row: 6; align-self: end; }
+}

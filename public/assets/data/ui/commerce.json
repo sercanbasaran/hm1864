@@ -1456,6 +1456,22 @@
       "ur": "Your favorites are saved in this browser; no account is required.",
       "fa": "Your favorites are saved in this browser; no account is required.",
       "pt": "Your favorites are saved in this browser; no account is required."
+    },
+    "commerce.chooseVariant": {
+      "tr": "Sepete eklemek için bir seçenek seçin.",
+      "en": "Choose an option to add to your bag.",
+      "ar": "Choose an option to add to your bag.",
+      "de": "Choose an option to add to your bag.",
+      "fr": "Choose an option to add to your bag.",
+      "it": "Choose an option to add to your bag.",
+      "es": "Choose an option to add to your bag.",
+      "ru": "Choose an option to add to your bag.",
+      "zh-CN": "Choose an option to add to your bag.",
+      "ja": "Choose an option to add to your bag.",
+      "hi": "Choose an option to add to your bag.",
+      "ur": "Choose an option to add to your bag.",
+      "fa": "Choose an option to add to your bag.",
+      "pt": "Choose an option to add to your bag."
     }
   }
 }

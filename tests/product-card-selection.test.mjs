@@ -64,3 +64,34 @@ for (const currency of ['TRY', 'USD']) {
     } finally { window.happyDOM.abort(); }
   });
 }
+
+test('card adds selected variant to cart and blocks missing selection, unavailable variants and stock overflow', async () => {
+  const fixture = structuredClone(authored), product = fixture.catalog.products.find(p => p.code === '100.0102');
+  product.variants.forEach(v => { v.price = 100; v.onlineSale = true; v.stock = 4; });
+  product.variants.find(v => v.code === 'S').stock = 2;
+  product.variants.find(v => v.code === 'XS').stock = 0;
+  product.variants.find(v => v.code === 'porsiyon').onlineSale = false;
+  const route = '/' + fixture.catalog.categories.find(c => c.id === 'baklavalar').url;
+  const window = new Window({url:'http://localhost'+route,settings:{enableJavaScriptEvaluation:true}});
+  window.localStorage.setItem('hm1864.react.preferences',JSON.stringify({country:'TR',language:'tr',currency:'TRY'}));
+  window.fetch = async () => ({ok:true,json:async()=>fixture}); window.scrollTo=()=>{};
+  window.document.body.innerHTML='<div id="root"></div>';
+  try {
+    window.eval(script);
+    const card = () => [...window.document.querySelectorAll('.product-card')].find(c => c.querySelector('.product-picture').getAttribute('href') === '/'+product.url);
+    await ready(card);
+    const add=()=>card().querySelector('.card-add-to-cart');
+    const select=async code=>{card().querySelectorAll('.card-variant-label')[product.variants.findIndex(v=>v.code===code)].click();await wait();};
+    assert.equal(add().disabled,true);assert.ok(card().querySelector('.card-cart-hint'));
+    await select('XS');assert.equal(add().disabled,true);
+    await select('porsiyon');assert.equal(add().disabled,true);
+    await select('S');assert.equal(add().disabled,false);
+    add().click();await ready(()=>window.document.querySelector('.commerce-cart-dialog'));
+    assert.deepEqual(JSON.parse(window.localStorage.getItem('hm1864.demo.cart')),[{key:product.key,variant:'S',quantity:1}]);
+    assert.equal(window.location.pathname,route);
+    window.document.querySelector('dialog').close();await wait();
+    add().click();await wait();assert.equal(add().disabled,true);
+    assert.equal(JSON.parse(window.localStorage.getItem('hm1864.demo.cart'))[0].quantity,2);
+    assert.ok(card().querySelector('.card-view-product'));
+  } finally { await window.happyDOM.abort(); }
+});
