@@ -14,6 +14,7 @@ import Footer from "./components/layout/Footer.jsx";
 import Dialogs from "./components/dialogs/Dialogs.jsx";
 import Page from "./routing/PageRouter.jsx";
 import { useDemoCommerce } from "./hooks/useDemoCommerce.js";
+import { useFavorites } from "./hooks/useFavorites.js";
 export default function App() {
   const {
     rawData,
@@ -29,6 +30,7 @@ export default function App() {
   const [modal, setModal] = useState(() =>
     read("hm1864.react.preferences", null) ? null : "region",
   );
+  const favorites = useFavorites();
   const [lightbox, setLightbox] = useState(null);
   const { path, navigate, goTo } = useNavigation(setModal);
   const commerce = useDemoCommerce(data, preferences?.currency || regions?.defaultCurrency || 'TRY');
@@ -86,6 +88,7 @@ export default function App() {
         lightbox,
         setLightbox,
         commerce,
+        favorites,
         goTo,
       }}
     >

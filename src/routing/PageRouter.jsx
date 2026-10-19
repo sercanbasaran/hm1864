@@ -13,8 +13,11 @@ import CheckoutPage from "../pages/CheckoutPage.jsx";
 import OrderResultPage from "../pages/OrderResultPage.jsx";
 import AccountPage from "../pages/AccountPage.jsx";
 
+import FavoritesPage from "../pages/FavoritesPage.jsx";
+
 export default function PageRouter({ route }) {
   switch (route.kind) {
+    case "favorites": return <FavoritesPage />;
     case "cart": return <CartPage />;
     case "checkout": return <CheckoutPage />;
     case "order-result": return <OrderResultPage />;

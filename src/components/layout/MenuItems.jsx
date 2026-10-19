@@ -8,7 +8,7 @@ import {menuText,visibleItems} from '../../menus.js';
 export default function MenuItems({items,onAction,onNavigate}){
   const {preferences,regions,commerce}=useApp();const language=preferences?.language||regions.defaultLanguage;
   return visibleItems(items).map(item=>{
-    const label=menuText(item.label,language),children=<>{item.icon&&<Icon name={item.icon}/>}{!item.action&&<RichText value={label}/>} {item.action==='cart'&&commerce?.cartCount>0&&<span className="commerce-cart-count">{commerce.cartCount}</span>}</>;
-    return item.action?<button key={item.id} className={item.className} aria-label={plainText(label)} onClick={()=>onAction?.(item.action)}>{children}</button>:<a key={item.id} className={item.className} href={local(item.url)} onClick={onNavigate}>{children}</a>;
+    const label=menuText(item.label,language),children=<>{item.icon&&<Icon name={item.icon}/>}{!item.action&&!item.className?.split(" ").includes("icon-button")&&<RichText value={label}/>} {item.action==='cart'&&commerce?.cartCount>0&&<span className="commerce-cart-count">{commerce.cartCount}</span>}</>;
+    return item.action?<button key={item.id} className={item.className} aria-label={plainText(label)} onClick={()=>onAction?.(item.action)}>{children}</button>:<a key={item.id} className={item.className} aria-label={item.icon ? plainText(label) : undefined} href={local(item.url)} onClick={onNavigate}>{children}</a>;
   });
 }

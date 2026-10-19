@@ -1,0 +1,8 @@
+.product-card { position: relative; }
+.favorite-button { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-width: 44px; min-height: 44px; padding: 9px 12px; border: 1px solid #d9d9d9; background: #fff; color: #292929; cursor: pointer; font: inherit; }
+.favorite-button:hover, .favorite-button[aria-pressed="true"] { color: #89662a; border-color: #cba052; background: #faf6ee; }
+.favorite-button:focus-visible { outline: 2px solid #89662a; outline-offset: 3px; }
+.favorite-compact { position: absolute; inset-inline-end: 12px; top: 12px; z-index: 1; padding: 9px; border-radius: 50%; }
+.product-info > .favorite-button { margin-bottom: 18px; }
+.favorites-page > p { margin-bottom: 24px; }
+@media (max-width: 767px) { .header-gold .header-brandbar .header-safe { grid-template-columns: minmax(72px, 1fr) auto auto; } .header-gold .header-right { gap: 2px; } .header-gold .header-right .icon-button { min-width: 32px; width: 32px; padding: 8px 4px; } }

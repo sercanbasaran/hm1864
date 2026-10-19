@@ -1,3 +1,4 @@
+import FavoriteButton from "../components/products/FavoriteButton.jsx";
 import ProductAccordions from "../components/products/ProductAccordions.jsx";
 import { useProductDetails } from "../hooks/useProductDetails.js";
 import ProductGallery from "../components/products/ProductGallery.jsx";
@@ -51,6 +52,7 @@ export default function ProductPage({ product: p }) {
             <RichText value={p.name} />
           </h1>
 
+          <FavoriteButton product={p} />
           <Text value={v.description} />
 
           <div className="detail-price">

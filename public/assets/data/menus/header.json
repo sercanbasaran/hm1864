@@ -47,6 +47,18 @@
   ],
   "actionsRight": [
     {
+      "id": "favorites",
+      "enabled": true,
+      "label": {
+        "tr": "Favorilerim",
+        "en": "My favorites",
+        "ar": "المفضلة"
+      },
+      "url": "/hesabim/favorilerim.html",
+      "icon": "heart",
+      "className": "icon-button favorites-link"
+    },
+    {
       "id": "profile",
       "enabled": true,
       "label": {

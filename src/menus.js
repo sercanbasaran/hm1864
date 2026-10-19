@@ -27,7 +27,7 @@ export function validateMenus(menus,catalog){
   const categories=(items,key)=>{for(const entry of list(items,key,'categoryId')){if(!catalog.categories.some(c=>c.id===entry.categoryId))fail(key+' kategori: '+entry.categoryId);for(const sub of list(entry.children,key+'/children','subcategoryId'))if(!catalog.subcategories.some(s=>s.id===sub.subcategoryId&&s.categoryId===entry.categoryId))fail(key+' alt kategori: '+sub.subcategoryId)}};
   for(const key of ['header','mega','mobile','footer','social','category','brand'])if(menus[key]?.schemaVersion!==1)fail(key+' dosyası');
   links(menus.header.service,'header.service');links(menus.header.collection,'header.collection');
-  for(const key of ['actionsLeft','actionsRight'])for(const item of list(menus.header[key],key))if(!['mobile','search','profile','cart','region'].includes(item.action)||!text(item.label)||!item.icon)fail(key+' action');
+  for(const key of ['actionsLeft','actionsRight'])for(const item of list(menus.header[key],key))if((item.action ? !['mobile','search','profile','cart','region'].includes(item.action) : !url(item.url))||!text(item.label)||!item.icon)fail(key+' action');
   for(const item of list(menus.header.primary,'header.primary'))if(item.id==='all'?!text(item.label):!catalog.categories.some(c=>c.id===item.categoryId))fail('header.primary kategori');
   const tabs=list(menus.mega.tabs,'mega.tabs');if(!visibleItems(tabs).length)fail('En az bir mega menü sekmesi açık olmalı');for(const tab of tabs){if(!['online','store'].includes(tab.id)||!text(tab.label))fail('mega.tabs');categories(tab.categories,'mega.'+tab.id)}
   categories(menus.mobile.categories,'mobile.categories');links(menus.mobile.links,'mobile.links');if(!text(menus.mobile.allCategoryLabel))fail('mobile.allCategoryLabel');

@@ -2129,5 +2129,9 @@
   "urunler/pastalar/orman-meyveli-pastalar/amazon-hikayesi.html": {
     "kind": "catalog-product",
     "product": "500-0802-amazon-hikayesi"
+  },
+  "hesabim/favorilerim.html": {
+    "kind": "favorites",
+    "titleKey": "favorites.title"
   }
 }

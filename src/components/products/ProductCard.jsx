@@ -1,3 +1,4 @@
+import FavoriteButton from "./FavoriteButton.jsx";
 import Icon from "../Icon.jsx";
 import React, { useState } from "react";
 import { useText } from "../../hooks/useText.js";
@@ -21,6 +22,7 @@ export default function Card({ product: p }) {
   const { description, variants } = productCardContent(p, placeholders, count => t("ui.sliceCount", {count}));
   return (
     <article className="product-card">
+      <FavoriteButton product={p} compact />
       <a className="product-picture" href={local(p.url)}>
         <Media src={imageUrl(p.images[0])} alt={p.name} />
       </a>
