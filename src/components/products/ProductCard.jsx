@@ -16,7 +16,13 @@ export default function Card({ product: p }) {
     { currency, language, missing } = usePrice();
   const { content, commerce, setModal } = useApp();
   const [selection, setSelection] = useState(null);
-  const selectedCode = selection?.productKey === p.key && p.variants.some(variant => variant.code === selection.code) ? selection.code : null;
+  const defaultCode = p.variants.reduce((best, variant) => {
+    const option = choice(p, variant.code, currency);
+    const quantity = commerce?.items.find(item => item.key === p.key && item.variant === variant.code)?.quantity || 0;
+    if (option.onlineSale === false || !validPrice(option.price) || quantity >= 99 || (option.stock != null && option.stock <= quantity)) return best;
+    return best === null || option.price < choice(p, best, currency).price ? variant.code : best;
+  }, null);
+  const selectedCode = selection?.productKey === p.key && p.variants.some(variant => variant.code === selection.code) ? selection.code : defaultCode;
   const cartCode = selectedCode ?? (p.variants.length === 1 ? p.variants[0].code : p.variants.length === 0 ? '' : null);
   const cartChoice = cartCode === null ? null : choice(p, cartCode, currency);
   const cartQuantity = commerce?.items.find(item => item.key === p.key && item.variant === cartCode)?.quantity || 0;

@@ -21,7 +21,7 @@ for (const currency of ['TRY', 'USD']) {
     const product = fixture.catalog.products.find(p => p.code === '100.0102');
     product.price = null;
     product.pricesByCurrency = {};
-    for (const variant of product.variants) { variant.price = null; variant.pricesByCurrency = {}; }
+    for (const variant of product.variants) { variant.price = null; variant.pricesByCurrency = {}; variant.stock = null; variant.onlineSale = true; }
     Object.assign(product.variants.find(v => v.code === 'XS'), { price: 0, pricesByCurrency: { USD: 0 } });
     Object.assign(product.variants.find(v => v.code === 'S'), { price: 222, pricesByCurrency: { USD: 9.99 } });
     product.variants.find(v => v.code === 'XL').price = 444;
@@ -38,12 +38,16 @@ for (const currency of ['TRY', 'USD']) {
       await ready(findCard);
       const card = findCard(), other = [...window.document.querySelectorAll('.product-card')].find(item => item !== card);
       const otherPrice = other.querySelector('.card-meta').textContent;
+      const otherSelection = [...other.querySelectorAll('.card-variant-label')].map(b => b.getAttribute('aria-pressed'));
       const buttons = [...card.querySelectorAll('.card-variant-label')];
       const button = code => buttons[product.variants.findIndex(v => v.code === code)];
       const price = () => card.querySelector('.card-meta').textContent;
       assert.equal(card.querySelector('.card-variants-title').textContent, 'Porsiyon Seçenekleri');
       assert.equal(buttons.length, product.variants.length);
-      assert.ok(buttons.every(button => button.tagName === 'BUTTON' && button.getAttribute('aria-pressed') === 'false' && button.textContent.trim()));
+      assert.ok(buttons.every(button => button.tagName === 'BUTTON' && button.textContent.trim()));
+      assert.equal(button('XS').getAttribute('aria-pressed'), 'true');
+      assert.equal(price(), money(0, currency, '', 'tr'));
+      assert.equal(card.querySelector('.card-add-to-cart').disabled, false);
       button('S').click(); await wait();
       assert.equal(price(), money(currency === 'TRY' ? 222 : 9.99, currency, '', 'tr'));
       assert.equal(button('S').getAttribute('aria-pressed'), 'true');
@@ -60,15 +64,20 @@ for (const currency of ['TRY', 'USD']) {
       assert.equal(card.querySelector('.card-store-only'), null);
       assert.equal(window.location.pathname, route);
       assert.equal(other.querySelector('.card-meta').textContent, otherPrice);
-      assert.equal(other.querySelectorAll('[aria-pressed="true"]').length, 0);
+      assert.deepEqual([...other.querySelectorAll('.card-variant-label')].map(b => b.getAttribute('aria-pressed')), otherSelection);
     } finally { window.happyDOM.abort(); }
   });
 }
 
-test('card adds selected variant to cart and blocks missing selection, unavailable variants and stock overflow', async () => {
+test('card adds selected variant to cart and automatically selects lowest purchasable variant and blocks unavailable variants and stock overflow', async () => {
   const fixture = structuredClone(authored), product = fixture.catalog.products.find(p => p.code === '100.0102');
   product.variants.forEach(v => { v.price = 100; v.onlineSale = true; v.stock = 4; });
-  product.variants.find(v => v.code === 'S').stock = 2;
+  product.price = null;
+  product.variants.forEach(v => { v.price = 300; });
+  Object.assign(product.variants.find(v => v.code === 'S'), { stock: 2, price: 200 });
+  product.variants.find(v => v.code === 'XS').price = 0;
+  product.variants.find(v => v.code === 'porsiyon').price = 1;
+  product.variants.find(v => v.code === 'L').price = null;
   product.variants.find(v => v.code === 'XS').stock = 0;
   product.variants.find(v => v.code === 'porsiyon').onlineSale = false;
   const route = '/' + fixture.catalog.categories.find(c => c.id === 'baklavalar').url;
@@ -82,7 +91,9 @@ test('card adds selected variant to cart and blocks missing selection, unavailab
     await ready(card);
     const add=()=>card().querySelector('.card-add-to-cart');
     const select=async code=>{card().querySelectorAll('.card-variant-label')[product.variants.findIndex(v=>v.code===code)].click();await wait();};
-    assert.equal(add().disabled,true);assert.ok(card().querySelector('.card-cart-hint'));
+    assert.equal(add().disabled,false);assert.equal(card().querySelector('.card-cart-hint'),null);
+    assert.equal(card().querySelectorAll('.card-variant-label')[product.variants.findIndex(v=>v.code==='S')].getAttribute('aria-pressed'),'true');
+    assert.equal(card().querySelector('.card-meta').textContent, money(200,'TRY','','tr'));
     await select('XS');assert.equal(add().disabled,true);
     await select('porsiyon');assert.equal(add().disabled,true);
     await select('S');assert.equal(add().disabled,false);
