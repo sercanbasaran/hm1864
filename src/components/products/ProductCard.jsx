@@ -1,3 +1,4 @@
+import { cardBoxImage } from "../../utils/card-box-image.js";
 import FavoriteButton from "./FavoriteButton.jsx";
 import Icon from "../Icon.jsx";
 import React, { useState } from "react";
@@ -28,14 +29,16 @@ export default function Card({ product: p }) {
   const cartQuantity = commerce?.items.find(item => item.key === p.key && item.variant === cartCode)?.quantity || 0;
   const canAdd = !!cartChoice && cartChoice.onlineSale !== false && validPrice(cartChoice.price)
     && cartQuantity < 99 && (cartChoice.stock == null || cartChoice.stock > cartQuantity);
+  const boxPhoto = imageUrl(cardBoxImage(p, cartCode));
   const selected = selectedCode === null ? null : choice(p, selectedCode, currency);
   const placeholders = ["ui.copy.039", "ui.copy.043", "ui.infoPending"].flatMap(key => Object.values(content.texts[key] || {}));
   const { description, variants } = productCardContent(p, placeholders, count => t("ui.sliceCount", {count}));
   return (
     <article className="product-card">
       <FavoriteButton product={p} compact />
-      <a className="product-picture" href={local(p.url)}>
-        <Media src={imageUrl(p.images[0])} alt={p.name} />
+      <a className={'product-picture' + (boxPhoto ? ' has-box-preview' : '')} href={local(p.url)}>
+        <Media src={imageUrl(p.images[0])} alt={p.name} className="card-studio-photo" />
+        {boxPhoto && <span className="card-box-photo" aria-hidden="true" key={boxPhoto}><Media src={boxPhoto} alt="" /></span>}
       </a>
       <small className="muted">
         <RichText value={t("ui.productCode")} /> {p.code}

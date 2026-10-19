@@ -1,3 +1,4 @@
+import "./product-motion.css";
 import "./commerce.css";
 import "./favorites.css";
 import React from "react";

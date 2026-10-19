@@ -92,9 +92,14 @@ test('card adds selected variant to cart and automatically selects lowest purcha
     const add=()=>card().querySelector('.card-add-to-cart');
     const select=async code=>{card().querySelectorAll('.card-variant-label')[product.variants.findIndex(v=>v.code===code)].click();await wait();};
     assert.equal(add().disabled,false);assert.equal(card().querySelector('.card-cart-hint'),null);
+    assert.equal(card().querySelector('.card-box-photo'), null);
     assert.equal(card().querySelectorAll('.card-variant-label')[product.variants.findIndex(v=>v.code==='S')].getAttribute('aria-pressed'),'true');
     assert.equal(card().querySelector('.card-meta').textContent, money(200,'TRY','','tr'));
+    await select('XL');
+    assert.ok(card().querySelector('.has-box-preview'));
+    assert.equal(card().querySelector('.card-box-photo img').getAttribute('src'), '/assets/images/urunler/baklavalar/packaging/hm1864-xl-closed-front-left.webp');
     await select('XS');assert.equal(add().disabled,true);
+    assert.equal(card().querySelector('.card-box-photo'), null);
     await select('porsiyon');assert.equal(add().disabled,true);
     await select('S');assert.equal(add().disabled,false);
     add().click();await ready(()=>window.document.querySelector('.commerce-cart-dialog'));

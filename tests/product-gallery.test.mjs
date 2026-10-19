@@ -48,6 +48,9 @@ test('product gallery arrows, five-second autoplay, hover pause and variant chan
     };
     expectPhoto(0);
     doc.querySelector('.product-image-previous').click(); await wait(); expectPhoto(2);
+    assert.ok(doc.querySelector('.gallery-slide-in'));
+    assert.equal(doc.querySelector('.gallery-outgoing-frame img').getAttribute('src'), '/assets/images/urunler/' + photos[0]);
+    assert.equal(doc.querySelector('.gallery-outgoing-frame').getAttribute('aria-hidden'), 'true');
     doc.querySelector('.product-image-next').click(); await wait(); expectPhoto(0);
     assert.equal(doc.querySelector('[role="dialog"]'), null, 'arrows do not enlarge the image');
     await tick(); expectPhoto(1);

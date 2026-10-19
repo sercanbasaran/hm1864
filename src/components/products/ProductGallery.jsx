@@ -1,5 +1,5 @@
 import Icon from "../Icon.jsx";
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import { useApp } from "../../context/AppContext.jsx";
 import { useText } from "../../hooks/useText.js";
 import { plainText } from "../../formatted-text.js";
@@ -13,6 +13,16 @@ export default function ProductGallery({
 }) {
   const { modal, setLightbox, setModal } = useApp();
   const t = useText();
+  const previousSrc = useRef(src);
+  const [transition, setTransition] = useState(null);
+  useLayoutEffect(() => {
+    const from = previousSrc.current;
+    previousSrc.current = src;
+    if (from === src) return;
+    setTransition({ from, to: src });
+    const timer = setTimeout(() => setTransition(null), 1600);
+    return () => clearTimeout(timer);
+  }, [src]);
   const [hover, setHover] = useState(false);
   const [hidden, setHidden] = useState(() => document.hidden);
   const galleryKey = JSON.stringify(gallery);
@@ -55,7 +65,12 @@ export default function ProductGallery({
         }}
         aria-label={plainText(t("ui.copy.029"))}
       >
-        <Media src={src} alt={p.name} />
+        <span key={src} className={'gallery-current-frame' + (transition?.to === src ? ' gallery-slide-in' : '')}>
+          <Media src={src} alt={p.name} />
+        </span>
+        {transition?.to === src && <span key={'out-' + transition.from} className="gallery-outgoing-frame" aria-hidden="true">
+          <Media src={transition.from} alt="" />
+        </span>}
           <span className="image-zoom-cue"><Icon name="zoom" size={20} /></span>
       </button>
       {multiple && <>
