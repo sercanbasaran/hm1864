@@ -513,6 +513,22 @@
       "fa": "یافتن نزدیک‌ترین فروشگاه",
       "pt": "Encontre a loja mais próxima"
     },
+    "ui.portionOptions": {
+      "tr": "Porsiyon Seçenekleri",
+      "en": "Portion Options",
+      "ar": "خيارات الحصص",
+      "de": "Portionsoptionen",
+      "fr": "Options de portions",
+      "it": "Opzioni di porzione",
+      "es": "Opciones de porción",
+      "ru": "Варианты порций",
+      "zh-CN": "份量选项",
+      "ja": "ポーションの選択",
+      "hi": "परोसने के विकल्प",
+      "ur": "پورشن کے اختیارات",
+      "fa": "گزینه‌های اندازه سرو",
+      "pt": "Opções de porção"
+    },
     "ui.availableVariants": {
       "tr": "Mevcut varyantlar",
       "en": "Available variants",

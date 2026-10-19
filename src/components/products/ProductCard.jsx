@@ -1,11 +1,12 @@
 import Icon from "../Icon.jsx";
-import React from "react";
+import React, { useState } from "react";
 import { useText } from "../../hooks/useText.js";
 import { usePrice } from "../../hooks/usePrice.js";
 import { local } from "../../utils/urls.js";
 import RichText from "../../RichText.jsx";
 import Media from "../Media.jsx";
-import { cardPrice, imageUrl } from "../../model.js";
+import { cardPrice, choice, imageUrl, money } from "../../model.js";
+import { plainText } from "../../formatted-text.js";
 import { useApp } from "../../context/AppContext.jsx";
 import { productCardContent, isOnlineSaleUnavailable } from "../../utils/product-card-content.js";
 
@@ -13,6 +14,9 @@ export default function Card({ product: p }) {
   const t = useText(),
     { currency, language, missing } = usePrice();
   const { content } = useApp();
+  const [selection, setSelection] = useState(null);
+  const selectedCode = selection?.productKey === p.key && p.variants.some(variant => variant.code === selection.code) ? selection.code : null;
+  const selected = selectedCode === null ? null : choice(p, selectedCode, currency);
   const placeholders = ["ui.copy.039", "ui.copy.043", "ui.infoPending"].flatMap(key => Object.values(content.texts[key] || {}));
   const { description, variants } = productCardContent(p, placeholders, count => t("ui.sliceCount", {count}));
   return (
@@ -30,17 +34,23 @@ export default function Card({ product: p }) {
           </a>
         </h3>
         {description && <p className="card-description" dir="auto"><RichText value={description} /></p>}
-        {variants.length > 0 && <ul className="card-variants" aria-label={t("ui.availableVariants")}>
+        {variants.length > 0 && <div className="card-variant-options">
+          <p className="card-variants-title"><RichText value={t("ui.portionOptions")} /></p>
+          <ul className="card-variants" aria-label={plainText(t("ui.portionOptions"))}>
           {variants.map(variant => <li key={variant.code}>
-            <span className="card-variant-label">{/* <RichText value={variant.label} /> */}
-              {variant.dimensions.length > 0 && <span className="card-variant-size"> <RichText value={variant.dimensions.join(" · ")} /></span>}
-            </span>
+            <button type="button" className="card-variant-label"
+              aria-label={plainText([variant.label, ...variant.dimensions].join(" · "))}
+              aria-pressed={selectedCode === variant.code}
+              onClick={() => setSelection({ productKey: p.key, code: variant.code })}>
+              <span className="card-variant-size"><RichText value={variant.dimensions.length ? variant.dimensions.join(" · ") : variant.label} /></span>
+            </button>
             {variant.description && <p className="card-variant-description" dir="auto"><RichText value={variant.description} /></p>}
           </li>)}
-        </ul>}
-        {isOnlineSaleUnavailable(p) && <p className="card-store-only" dir="auto"><Icon name="info" size={16} /> <RichText value={t("ui.cardStoreOnly")} /></p>}
-        <div className="card-meta">
-          <span>{cardPrice(p, missing, t("ui.from"), currency, language)}</span>
+          </ul>
+        </div>}
+        {(selected ? selected.onlineSale === false : isOnlineSaleUnavailable(p)) && <p className="card-store-only" dir="auto"><Icon name="info" size={16} /> <RichText value={t("ui.cardStoreOnly")} /></p>}
+        <div className="card-meta" aria-live="polite" aria-atomic="true">
+          <span>{selected ? money(selected.price, currency, missing, language) : cardPrice(p, missing, t("ui.from"), currency, language)}</span>
         </div>
         <a className="button" href={local(p.url)}>
           <RichText value={t("template.0127")} />

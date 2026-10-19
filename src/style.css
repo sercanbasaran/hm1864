@@ -5730,8 +5730,34 @@ html:has(.brand-page) {
   overflow-wrap: anywhere;
 }
 
+.product-card-body .card-variants-title {
+  margin: 0 0 8px;
+  color: #171512;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+button.card-variant-label {
+  font-family: inherit;
+  text-align: start;
+  cursor: pointer;
+  transition: background-color .15s ease, border-color .15s ease, color .15s ease;
+}
+
+button.card-variant-label:hover,
+button.card-variant-label[aria-pressed=true] {
+  background: #171512;
+  border-color: #171512;
+  color: #fff;
+}
+
+button.card-variant-label:focus-visible {
+  outline: 2px solid #a50000;
+  outline-offset: 3px;
+}
+
 .card-variant-size {
-  color: #555;
+  color: inherit;
 }
 
 .product-card-body .card-variant-description {
@@ -5980,7 +6006,7 @@ details[open]>summary .disclosure-icon {
     align-self: start;
   }
 
-  .product-card-body>.card-variants {
+  .product-card-body>.card-variant-options {
     grid-row: 3;
     align-self: start;
   }
