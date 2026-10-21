@@ -10,20 +10,7 @@
         "ar": "القائمة الإلكترونية"
       },
       "categories": [
-        {
-          "categoryId": "kahvaltiliklar",
-          "enabled": true,
-          "children": [
-            {
-              "subcategoryId": "kahvaltiliklar/borekler",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "kahvaltiliklar/kahvaltilik",
-              "enabled": true
-            }
-          ]
-        },
+       
         {
           "categoryId": "baklavalar",
           "enabled": true,
@@ -34,28 +21,6 @@
             },
             {
               "subcategoryId": "baklavalar/cevizli-baklavalar",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "categoryId": "ilaveler",
-          "enabled": true,
-          "children": [
-            {
-              "subcategoryId": "ilaveler/dondurmalar",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "ilaveler/kaymaklar",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "ilaveler/kuruyemisler",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "ilaveler/soslar",
               "enabled": true
             }
           ]
@@ -130,113 +95,7 @@
             }
           ]
         },
-        {
-          "categoryId": "pastalar",
-          "enabled": true,
-          "children": [
-            {
-              "subcategoryId": "pastalar/biskuvili-pastalar",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "pastalar/cikolatali-pastalar",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "pastalar/cilekli-pastalar",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "pastalar/fistikli-pastalar",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "pastalar/frambuazli-pastalar",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "pastalar/karisik-meyveli-pastalar",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "pastalar/muzlu-pastalar",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "pastalar/orman-meyveli-pastalar",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "categoryId": "muhallebiler",
-          "enabled": true,
-          "children": [
-            {
-              "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "muhallebiler/kazandibiler",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "categoryId": "sezonluk-tatlilar",
-          "enabled": true,
-          "children": [
-            {
-              "subcategoryId": "sezonluk-tatlilar/geleneksel-meyve-tatlilari",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "sezonluk-tatlilar/gullaclar",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "sezonluk-tatlilar/ozel-donemsel-sutluler",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "categoryId": "trileceler",
-          "enabled": true,
-          "children": [
-            {
-              "subcategoryId": "trileceler/trilece",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "categoryId": "spesiyaller",
-          "enabled": true,
-          "children": [
-            {
-              "subcategoryId": "spesiyaller/dubai-serisi",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "spesiyaller/afet-i-devran-serisi",
-              "enabled": true
-            },
-            {
-              "subcategoryId": "spesiyaller/humbara",
-              "enabled": true
-            }
-          ]
-        },
-        {
+               {
           "categoryId": "kahveler",
           "enabled": true,
           "children": [
