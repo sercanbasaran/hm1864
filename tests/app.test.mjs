@@ -64,7 +64,9 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  const hidden=edited.categories.find(c=>c.name==='Kahvaltılıklar');hidden.megaMenuOnline=false;
  edited.subcategories.find(s=>s.name==='Cevizli Baklavalar').megaMenuOnline=false;
  const featured=edited.categories.find(c=>c.name==='Drajeler');featured.highlightOnHeader=true;
- edited.menus.mega.tabs.find(t=>t.id==='online').categories.find(c=>c.categoryId==='kahvaltiliklar').enabled=false;
+ const onlineMenu=edited.menus.mega.tabs.find(t=>t.id==='online');
+ if(!onlineMenu.categories.some(c=>c.categoryId==='kahvaltiliklar')) onlineMenu.categories.push(structuredClone(edited.menus.mega.tabs.find(t=>t.id==='store').categories.find(c=>c.categoryId==='kahvaltiliklar')));
+ onlineMenu.categories.find(c=>c.categoryId==='kahvaltiliklar').enabled=false;
  edited.menus.mega.tabs.find(t=>t.id==='online').categories.find(c=>c.categoryId==='baklavalar').children.find(s=>s.subcategoryId==='baklavalar/cevizli-baklavalar').enabled=false;
  edited.menus.header.primary.push({id:'drajeler',categoryId:'drajeler',enabled:true});
  edited.menus.footer.groups[0].title={tr:'JSON Kurumsal'};
@@ -112,10 +114,10 @@ test('built React application: navigation, variant update, dialogs, menu and sli
  assert.ok(![...window.document.querySelectorAll('.header-categories .nav-button')].some(b=>b.textContent.includes('Kahvaltılıklar')));
  assert.equal(window.document.querySelectorAll('.react-slide').length,edited.homeSlider.slides.filter(s=>s.enabled).length);
  assert.equal(window.document.querySelector('.hero-slide').getAttribute('data-grid-scheme'),String(edited.homeSlider.slides[0].gridScheme??0));
- window.document.querySelector('.all-menu').dispatchEvent(new window.MouseEvent('click',{bubbles:true}));await new Promise(r=>setTimeout(r,600));assert.ok(window.document.querySelector('#mega-menu'));assert.equal(window.document.querySelectorAll('.mega-columns h3').length,13);
+ window.document.querySelector('.all-menu').dispatchEvent(new window.MouseEvent('click',{bubbles:true}));await new Promise(r=>setTimeout(r,600));assert.ok(window.document.querySelector('#mega-menu'));assert.equal(window.document.querySelectorAll('.mega-columns h3').length,onlineMenu.categories.filter(c=>c.enabled!==false).length);
  assert.ok(!window.document.querySelector('.mega-columns').textContent.includes('Kahvaltılıklar'));
  assert.ok(!window.document.querySelector('.mega-columns').textContent.includes('Cevizli Baklavalar'));
- window.document.querySelectorAll('.mega-tabs button')[1].click();await wait();assert.equal(window.document.querySelectorAll('.mega-columns h3').length,14);
+ window.document.querySelectorAll('.mega-tabs button')[1].click();await wait();assert.equal(window.document.querySelectorAll('.mega-columns h3').length,edited.menus.mega.tabs.find(t=>t.id==='store').categories.filter(c=>c.enabled!==false).length);
  window.document.querySelector('.menu-scrim').click();await wait();
  const beforeSlide=Number(window.document.querySelector('.hero-track').style.transform.match(/-(\d+)%/)[1])/100;window.document.querySelector('[aria-label="Sonraki slayt"]').click();await wait();assert.equal(Number(window.document.querySelector('.hero-track').style.transform.match(/-(\d+)%/)[1])/100,(beforeSlide+1)%edited.homeSlider.slides.filter(s=>s.enabled).length);
  window.document.getElementById('year-1888').click();await wait();assert.match(window.document.getElementById('heritage-content').textContent,/1888/);

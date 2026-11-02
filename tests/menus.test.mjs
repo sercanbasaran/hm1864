@@ -16,7 +16,7 @@ test('independent menu sources control ordering, visibility and labels without c
  const category=copy.menus.mega.tabs[0].categories[0];category.label={tr:'Özel başlık'};category.children[0].url='/custom/index.html';
  assert.equal(categoryMenu(copy,[category])[0].name,'Özel başlık');
  assert.equal(categoryMenu(copy,[category])[0].children[0].url,'/custom/index.html');
- assert.equal(categoryMenu(copy,[category],'en','store')[0].url,'/magaza-menu/'+category.categoryId+'/index.html');
+ assert.equal(categoryMenu(copy,[category],'en','store')[0].url,copy.categories.find(c=>c.id===category.categoryId).url);
  assert.equal(menuText({tr:'Yedek',en:''},'en'),'Yedek');
 });
 test('footer order, titles, disabled links and social destinations are authored',()=>{
@@ -34,4 +34,27 @@ test('invalid destinations, duplicate IDs and broken category/page references st
  for(const mutate of [m=>m.header.service[0].url='javascript:alert(1)',m=>m.header.service.push(m.header.service[0]),m=>m.mobile.categories[0].categoryId='missing',m=>m.mobile.categories[0].children[0].subcategoryId='missing',m=>m.brand.pages[0].chapters[0].sectionId='missing',m=>m.footer.order.push('unknown'),m=>m.mega.tabs.forEach(t=>t.enabled=false)]){
  const menus=structuredClone(data.menus);mutate(menus);assert.throws(()=>validateMenus(menus,data),/Menü ayarı geçersiz/);
  }
+});
+
+
+test('both mega menu tabs link to the canonical product hierarchy', async()=>{
+ for(const tab of data.menus.mega.tabs){
+  for(const category of categoryMenu(data,tab.categories,'tr',tab.id)){
+   assert.equal(category.url,data.categories.find(c=>c.id===category.id).url);
+   assert.match(category.url,/^urunler\//);
+   await fs.access('dist/'+category.url);
+   for(const sub of category.children){
+    assert.equal(sub.url,data.subcategories.find(s=>s.id===sub.id).url);
+    assert.ok(sub.url.startsWith('urunler/'+category.id+'/'));
+    await fs.access('dist/'+sub.url);
+   }
+  }
+ }
+});
+test('old store-menu URL overrides fall back to the matching catalog destination',()=>{
+ const entry=structuredClone(data.menus.mega.tabs[1].categories[0]);
+ entry.url='/magaza-menu/old/index.html';entry.children[0].url='/magaza-menu/old/sub/index.html';
+ const result=categoryMenu(data,[entry],'tr','store')[0];
+ assert.equal(result.url,data.categories.find(c=>c.id===entry.categoryId).url);
+ assert.equal(result.children[0].url,data.subcategories.find(s=>s.id===entry.children[0].subcategoryId).url);
 });

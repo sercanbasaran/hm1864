@@ -53,3 +53,8 @@ Breadcrumb izi ve site haritası mevcut sayfa/katalog hiyerarşisinden otomatik 
 ## Yayına alma
 
 Geliştirmede JSON değişince sayfa yenilenir. Yayında değişikliklerin görünmesi için yeniden build/deploy gerekir. runtime.json üretilmiş dosyadır; elle düzenlemeyin. npm run build hatalı kimlikleri, tekrarlı öğeleri ve geçersiz bağlantıları kontrol eder.
+
+
+## Kategori bağlantı yapısı
+
+Online ve mağaza menü sekmeleri aynı katalog yollarını kullanır: `/urunler/{kategori}/index.html`, `/urunler/{kategori}/{alt-kategori}/index.html`, `/urunler/{kategori}/{alt-kategori}/{urun}.html`. Sekmeler yalnızca kategori gruplarını belirler; ayrı bir `magaza-menu` sayfa alanı oluşturulmaz. Eski `magaza-menu` URL değerleri varsa ilgili kategori veya alt kategorinin katalog yolu kullanılır.

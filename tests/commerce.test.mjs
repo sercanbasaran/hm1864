@@ -87,6 +87,8 @@ test('guest checkout supports shipping changes, declined/retry, result and never
     assert.equal(window.location.pathname, '/siparis/sonuc.html');
     assert.match(doc.querySelector('.commerce-receipt').textContent, /DEMO-/);
     assert.match(doc.querySelector('.commerce-receipt').textContent, /Hızlı kargo/);
+    // The receipt can render before the cart persistence effect runs.
+    await ready(() => JSON.parse(window.localStorage.getItem('hm1864.demo.cart'))?.length === 0);
     assert.deepEqual(JSON.parse(window.localStorage.getItem('hm1864.demo.cart')), []);
     const stored = [...Array(window.localStorage.length)].map((_, i) => window.localStorage.getItem(window.localStorage.key(i))).join('');
     assert.ok(!stored.includes(DEMO_CARDS.approved)); assert.ok(!stored.includes('guest@example.test')); assert.ok(!stored.includes('demoCvc'));

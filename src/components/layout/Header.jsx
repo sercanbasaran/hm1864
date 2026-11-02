@@ -63,8 +63,8 @@ export default function Header() {
     `${sub.name} çeşitlerini keşfedin.`;
   const cats =
     menu === "all"
-      ? categoryMenu(data,tabs.find(t=>t.id===tab)?.categories,language,tab)
-      : categoryMenu(data,tabs.find(t=>t.id===tab)?.categories,language,tab).filter((c) => c.id === menu);
+      ? categoryMenu(data,tabs.find(t=>t.id===tab)?.categories,language)
+      : categoryMenu(data,tabs.find(t=>t.id===tab)?.categories,language).filter((c) => c.id === menu);
   return (
     <>
       <a className="skip-link" href="#main">
