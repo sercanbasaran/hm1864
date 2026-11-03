@@ -107,13 +107,49 @@
   ],
   "collection": [
     {
-      "id": "hm-1864",
+      "id": "pierre-loti",
       "enabled": true,
       "label": {
-        "tr": "1864 SEÇKİSİ",
-        "en": "THE 1864 SELECTION"
+        "tr": "PIERRE LOTI SEÇKİSİ",
+        "en": "PIERRE LOTI SELECTION"
       },
-      "url": "/koleksiyonlar/hm-1864-serisi/index.html"
+      "url": "/koleksiyonlar/pierre-loti-seckisi/index.html"
+    },
+    {
+      "id": "lale",
+      "enabled": true,
+      "label": {
+        "tr": "LALE SEÇKİSİ",
+        "en": "LALE SELECTION"
+      },
+      "url": "/koleksiyonlar/lale-seckisi/index.html"
+    },
+    {
+      "id": "haydarpasa",
+      "enabled": true,
+      "label": {
+        "tr": "HAYDARPAŞA SEÇKİSİ",
+        "en": "HAYDARPAŞA SELECTION"
+      },
+      "url": "/koleksiyonlar/haydarpasa-seckisi/index.html"
+    },
+    {
+      "id": "saray",
+      "enabled": true,
+      "label": {
+        "tr": "SARAY SEÇKİSİ",
+        "en": "SARAY SELECTION"
+      },
+      "url": "/koleksiyonlar/saray-seckisi/index.html"
+    },
+    {
+      "id": "ayasofya",
+      "enabled": true,
+      "label": {
+        "tr": "AYASOFYA SEÇKİSİ",
+        "en": "AYASOFYA SELECTION"
+      },
+      "url": "/koleksiyonlar/ayasofya-seckisi/index.html"
     }
   ]
 }

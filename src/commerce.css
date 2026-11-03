@@ -89,3 +89,13 @@
 .mobile-channel-tabs { display: flex; gap: 8px; margin-bottom: 20px; }
 .mobile-channel-tabs button { flex: 1; padding: 12px; border: 1px solid #ddd; }
 .mobile-channel-tabs button[aria-pressed="true"] { background: #111; color: #fff; border-color: #cba052; }
+
+.commerce-form label.commerce-checkbox { display: flex; justify-content: flex-start; }
+.commerce-checkbox input { margin-top: 3px; }
+.commerce-shipping label { display: grid; grid-template-columns: 20px minmax(0, 1fr) auto; gap: 16px; }
+.commerce-shipping label > strong { white-space: nowrap; }
+.commerce-form-grid > *, .commerce-card-fields > * { min-width: 0; }
+@media(max-width: 420px) {
+ .commerce-shipping label { padding: 14px; gap: 12px; }
+ .commerce-shipping label > strong { grid-column: 2; }
+}

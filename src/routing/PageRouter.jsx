@@ -1,4 +1,5 @@
 import React from "react";
+import SelectionPage from "../pages/SelectionPage.jsx";
 import BrandPage from "../pages/BrandPage.jsx";
 import HomePage from "../pages/HomePage.jsx";
 import ProductPage from "../pages/ProductPage.jsx";
@@ -17,6 +18,7 @@ import FavoritesPage from "../pages/FavoritesPage.jsx";
 
 export default function PageRouter({ route }) {
   switch (route.kind) {
+    case "selection": return <SelectionPage route={route} />;
     case "favorites": return <FavoritesPage />;
     case "cart": return <CartPage />;
     case "checkout": return <CheckoutPage />;

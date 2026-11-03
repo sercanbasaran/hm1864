@@ -1,3 +1,4 @@
+import { catalogForChannel } from "../../catalog-channel.js";
 import MenuItems from './MenuItems.jsx';
 import {categoryMenu,primaryMenu,visibleItems,menuText} from '../../menus.js';
 import React, { useState, useEffect, useRef } from "react";
@@ -51,7 +52,7 @@ export default function Header() {
     setMenu(null);
   };
   const subImage = (sub, category) => {
-    const product = (catalogData || data).products.find(
+    const product = catalogForChannel(catalogData || data, tab).products.find(
       (p) =>
         p.category === category &&
         p.subcategory === (sub.catalogName || sub.name) &&

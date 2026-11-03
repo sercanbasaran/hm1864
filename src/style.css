@@ -6368,3 +6368,38 @@ details[open]>summary .disclosure-icon {
 .heritage-section .heritage-tabs button { flex: 0 0 auto; min-width: 58px; padding-inline: 10px; white-space: nowrap; }
 .heritage-event + .heritage-event { margin-top: 24px; }
 .heritage-section .heritage-event p { min-height: 0; line-height: 1.7; }
+
+/* Intrinsic control sizes must never inherit full-width text-field geometry. */
+input:is([type="checkbox"], [type="radio"]) {
+  width: 20px; height: 20px; min-height: 20px; padding: 0;
+  flex: 0 0 20px; margin: 0; accent-color: var(--primary, #da291c);
+}
+.header-categories .header-safe { min-height: 44px; height: auto; overflow-y: hidden; }
+.header-categories { height: auto; min-height: 44px; }
+.header-collection { height: auto; min-height: 60px; }
+.header-collection .header-safe { flex-wrap: wrap; gap: 8px 24px; padding-block: 8px; }
+.header-collection a { white-space: nowrap; }
+.product-grid > *, .catalog-tools > *, .mega-columns > * { min-width: 0; }
+.product-grid .product-picture { width: 100%; aspect-ratio: 1; }
+.product-grid .product-picture .media img { object-fit: contain; }
+.catalog-tools { flex-wrap: wrap; gap: 16px; }
+.catalog-tools input { max-width: 100%; }
+.mega-subcategory-card { overflow-wrap: anywhere; }
+.selection-page { max-width: 1280px; margin: auto; padding: 48px 24px 80px; }
+.selection-hero { display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 48px; }
+.selection-page h1 { font-size: clamp(36px, 5vw, 68px); line-height: 1.1; margin: 20px 0; }
+.selection-page p { line-height: 1.8; max-width: 65ch; }
+.selection-page img { display: block; width: 100%; height: auto; }
+.selection-page .eyebrow { color: #976c27; letter-spacing: .15em; }
+.selection-story { margin-block: 64px; }
+.selection-story > img { max-height: 540px; object-fit: cover; margin-bottom: 32px; }
+.selection-features { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; margin: 32px 0; }
+.selection-features article { padding: 24px; border-top: 1px solid var(--gold); background: #faf8f3; }
+.selection-features h3 { font-size: 20px; }
+@media(max-width: 767px) {
+ .selection-hero, .selection-features { grid-template-columns: minmax(0, 1fr); gap: 24px; }
+ .selection-page { padding: 32px 20px 48px; }
+ .header-collection .header-safe { flex-wrap: nowrap; overflow-x: auto; justify-content: flex-start; }
+ .header-collection a { flex-shrink: 0; }
+ .catalog-tools input, .catalog-tools select { width: 100%; max-width: 100%; }
+}

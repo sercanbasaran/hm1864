@@ -1,9 +1,11 @@
 import "./product-motion.css";
-import "./commerce.css";
-import "./favorites.css";
+
+
 import React from "react";
 import { createRoot } from "react-dom/client";
 import App from "./App.jsx";
 import "./style.css";
+import "./commerce.css";
+import "./favorites.css";
 
 createRoot(document.getElementById("root")).render(<App />);
