@@ -77,8 +77,8 @@ test('homepage retains six ordered sections, catalogue cards, carousel controls 
     assert.deepEqual([...doc.querySelectorAll('main > section')].map(section => section.className), [
       'hero-slider', 'collection-section', 'product-section', 'corporate', 'split stores-teaser', 'heritage-section',
     ]);
-    assert.equal(doc.querySelectorAll('.product-section .product-card').length, 4);
-    const expectedLinks = sections.featuredProducts.productKeys.map(key => '/' + authored.catalog.products.find(p => p.key === key).url);
+    assert.equal(doc.querySelectorAll('.product-section .product-card').length, 3);
+    const expectedLinks = sections.featuredProducts.productKeys.filter(key => authored.catalog.products.find(p => p.key === key)?.onlineSale !== false).map(key => '/' + authored.catalog.products.find(p => p.key === key).url);
     assert.deepEqual([...doc.querySelectorAll('.product-section .product-card .product-picture')].map(a => a.getAttribute('href')), expectedLinks);
     const scrolled = [];
     doc.querySelector('.carousel').scrollBy = value => scrolled.push(value);

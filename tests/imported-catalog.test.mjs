@@ -15,19 +15,19 @@ test('production catalogue contains only the 117 exported products and all 390 v
  assert.equal(new Set(allVariants.map(x=>x.variant.sku)).size,390);
  assert.ok(data.products.every(p=>p.key.startsWith('usta-')&&/^\d+$/.test(p.code)&&p.variants.length));
  assert.deepEqual(new Set(allVariants.map(x=>x.variant.sourceVariantId)),new Set(report.variantsBySku.map(v=>v.sourceVariantId)));
- for(const expected of report.variantsBySku){const {product,variant}=allVariants.find(x=>x.variant.sku===expected.sku);assert.equal(product.key,expected.productKey);assert.equal(variant.price,expected.price);assert.equal(variant.onlineSale,expected.online);assert.equal(variant.storeSale,expected.store);}
+ for(const expected of report.variantsBySku){const {product,variant}=allVariants.find(x=>x.variant.sku===expected.sku);assert.equal(product.key,expected.productKey);assert.equal(variant.price,expected.price);assert.equal(variant.onlineSale,['pastalar','muhallebiler'].includes(product.categoryId)?false:expected.online);assert.equal(variant.storeSale,expected.store);}
  const sample=allVariants.find(x=>x.variant.sku==='1011.11201');assert.equal(sample.product.name,'Cevizli Sarı Burma');assert.equal(sample.variant.price,6720);assert.equal(sample.variant.netWeight,1920);assert.equal(sample.variant.sliceCount,48);
  assert.ok(sample.variant.ingredients.includes('ceviz'));assert.equal(sample.variant.boxContents[0].quantity,48);assert.equal(sample.variant.boxContents[0].unitWeight,40);
  assert.equal(sample.variant.dimensions.length,345);assert.ok(sample.variant.sourceImageUrls[0].startsWith('https://1864usta.netlify.app/'));
  assert.equal(allVariants.filter(x=>x.variant.boxContents.length>1).length,7);
  assert.ok(allVariants.every(({variant})=>variant.boxContents.every(row=>data.products.some(p=>p.key===row.productKey))));
 });
-test('online has 104 products / 332 variants; store has 117 / 390 and closed variants cannot be purchased',()=>{
+test('online has 70 products / 280 variants; store has 117 / 390 and closed variants cannot be purchased',()=>{
  const online=catalogForChannel(data),store=catalogForChannel(data,'store');
- assert.equal(online.products.length,104);assert.equal(online.products.flatMap(p=>p.variants).length,332);
+ assert.equal(online.products.length,70);assert.equal(online.products.flatMap(p=>p.variants).length,280);
  assert.equal(store.products.length,117);assert.equal(store.products.flatMap(p=>p.variants).length,390);
  for(const {product,variant} of allVariants){const present=online.products.find(p=>p.key===product.key)?.variants.some(v=>v.code===variant.code)||false;assert.equal(present,variant.onlineSale);if(!variant.onlineSale)assert.equal(cartRows([{key:product.key,variant:variant.code,quantity:1}],data,'TRY')[0].available,false);}
- assert.equal(allVariants.filter(x=>!x.variant.onlineSale).length,58);
+ assert.equal(allVariants.filter(x=>!x.variant.onlineSale).length,110);
  for(const tab of data.menus.mega.tabs){for(const category of categoryMenu(data,tab.categories,'tr',tab.id)){assert.ok((tab.id==='store'?store:online).categories.some(c=>c.id===category.id));assert.equal(menuChannel(new URL(category.url,'https://x/').search),tab.id);}}
  assert.equal(channelUrl('urunler/baklavalar/index.html','store'),'urunler/baklavalar/index.html?menu=store');
  assert.equal(channelUrl('urunler/baklavalar/index.html?menu=store','online'),'urunler/baklavalar/index.html');

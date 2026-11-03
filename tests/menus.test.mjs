@@ -11,7 +11,7 @@ test('independent menu sources control ordering, visibility and labels without c
  first.enabled=false;copy.menus.mobile.categories.reverse();
  assert.notEqual(categoryMenu(copy,copy.menus.mobile.categories)[0].id,first.categoryId);
  assert.equal(categoryMenu(copy,copy.menus.mobile.categories).length,catalogForChannel(copy).categories.filter(c=>c.id!==first.categoryId).length);
- assert.equal(categoryMenu(copy,copy.menus.mega.tabs[0].categories).length,copy.menus.mega.tabs[0].categories.length);
+ assert.equal(categoryMenu(copy,copy.menus.mega.tabs[0].categories).length,catalogForChannel(copy).categories.length);
  copy.menus.header.primary[1].label={tr:'Yeni başlık',en:'New title'};
  assert.equal(primaryMenu(copy,'en')[1].name,'New title');
  const category=copy.menus.mega.tabs[0].categories[0];category.label={tr:'Özel başlık'};category.children[0].url='/custom/index.html';
