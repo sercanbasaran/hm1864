@@ -72,7 +72,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -129,7 +129,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -224,7 +224,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -281,7 +281,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -368,7 +368,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -421,7 +421,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -516,7 +516,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -573,7 +573,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -668,7 +668,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -725,7 +725,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -812,7 +812,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -865,7 +865,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -960,7 +960,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1017,7 +1017,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1112,7 +1112,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1169,7 +1169,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1264,7 +1264,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1321,7 +1321,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1416,7 +1416,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1475,7 +1475,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1570,7 +1570,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1627,7 +1627,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1722,7 +1722,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1779,7 +1779,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1874,7 +1874,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -1931,7 +1931,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -2026,7 +2026,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -2083,7 +2083,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -2178,7 +2178,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -2235,7 +2235,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -2322,7 +2322,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -2375,7 +2375,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -2462,7 +2462,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -2515,7 +2515,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -2610,7 +2610,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [
@@ -2667,7 +2667,7 @@
           ],
           "salesChannels": {
             "store": true,
-            "online": true,
+            "online": false,
             "foodDelivery": true
           },
           "boxContents": [

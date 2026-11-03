@@ -27,7 +27,7 @@
         "Karışık Meyveli Pastalar",
         "Frambuazlı Pastalar"
       ],
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "highlightOnHeader": false,
       "translations": {
         "en": {
@@ -81,7 +81,7 @@
         "Özel Kup & Çikolatalı Tatlılar",
         "Meyveli & Aromalı Muhallebiler"
       ],
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "highlightOnHeader": false,
       "translations": {
         "en": {
@@ -192,7 +192,7 @@
       "name": "Fıstıklı Pastalar",
       "category": "Pastalar",
       "url": "urunler/pastalar/fistikli-pastalar/index.html",
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "translations": {
         "en": {
           "name": ""
@@ -241,7 +241,7 @@
       "name": "Muzlu Pastalar",
       "category": "Pastalar",
       "url": "urunler/pastalar/muzlu-pastalar/index.html",
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "translations": {
         "en": {
           "name": ""
@@ -290,7 +290,7 @@
       "name": "Bisküvili Pastalar",
       "category": "Pastalar",
       "url": "urunler/pastalar/biskuvili-pastalar/index.html",
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "translations": {
         "en": {
           "name": ""
@@ -339,7 +339,7 @@
       "name": "Orman Meyveli Pastalar",
       "category": "Pastalar",
       "url": "urunler/pastalar/orman-meyveli-pastalar/index.html",
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "translations": {
         "en": {
           "name": ""
@@ -388,7 +388,7 @@
       "name": "Çikolatalı Pastalar",
       "category": "Pastalar",
       "url": "urunler/pastalar/cikolatali-pastalar/index.html",
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "translations": {
         "en": {
           "name": ""
@@ -437,7 +437,7 @@
       "name": "Çilekli Pastalar",
       "category": "Pastalar",
       "url": "urunler/pastalar/cilekli-pastalar/index.html",
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "translations": {
         "en": {
           "name": ""
@@ -486,7 +486,7 @@
       "name": "Karışık Meyveli Pastalar",
       "category": "Pastalar",
       "url": "urunler/pastalar/karisik-meyveli-pastalar/index.html",
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "translations": {
         "en": {
           "name": ""
@@ -535,7 +535,7 @@
       "name": "Frambuazlı Pastalar",
       "category": "Pastalar",
       "url": "urunler/pastalar/frambuazli-pastalar/index.html",
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "translations": {
         "en": {
           "name": ""
@@ -678,7 +678,7 @@
       "name": "Geleneksel Sütlü Tatlılar",
       "category": "Muhallebiler",
       "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/index.html",
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "translations": {
         "en": {
           "name": "Traditional Milk Desserts"
@@ -763,7 +763,7 @@
       "name": "Özel Kup & Çikolatalı Tatlılar",
       "category": "Muhallebiler",
       "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/index.html",
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "translations": {
         "en": {
           "name": "Special Cups & Chocolate Desserts"
@@ -812,7 +812,7 @@
       "name": "Meyveli & Aromalı Muhallebiler",
       "category": "Muhallebiler",
       "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/index.html",
-      "megaMenuOnline": true,
+      "megaMenuOnline": false,
       "translations": {
         "en": {
           "name": "Fruit & Flavored Milk Puddings"
