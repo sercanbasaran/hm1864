@@ -1,697 +1,966 @@
 {
   "schemaVersion": 1,
+  "categoryId": "kadayiflar",
   "language": "tr",
   "products": {
-    "300-01-01-fistikli-kadayif": {
-      "name": "Fıstıklı Kadayıf",
-      "description": "",
-      "ingredients": "",
-      "allergens": null,
-      "nutrition": {
-        "basis": "",
-        "values": []
-      },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
-      "delivery": "",
-      "packaging": "",
-      "weight": null,
-      "variants": {
-        "XS": {
-          "label": "XS",
-          "description": "",
-          "weight": null
-        },
-        "S": {
-          "label": "S",
-          "description": "",
-          "weight": null
-        },
-        "M": {
-          "label": "M",
-          "description": "",
-          "weight": null
-        },
-        "L": {
-          "label": "L",
-          "description": "",
-          "weight": null
-        },
-        "XL": {
-          "label": "XL",
-          "description": "",
-          "weight": null
-        }
-      },
-      "editorial": {
-        "story": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        },
-        "boxReuse": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        }
-      }
-    },
-    "300-01-02-fistikli-sultaniye-kadayif": {
-      "name": "Fıstıklı Sultaniye Kadayıf",
-      "description": "",
-      "ingredients": "",
-      "allergens": null,
-      "nutrition": {
-        "basis": "",
-        "values": []
-      },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
-      "delivery": "",
-      "packaging": "",
-      "weight": null,
-      "variants": {
-        "XS": {
-          "label": "XS",
-          "description": "",
-          "weight": null
-        },
-        "S": {
-          "label": "S",
-          "description": "",
-          "weight": null
-        },
-        "M": {
-          "label": "M",
-          "description": "",
-          "weight": null
-        },
-        "L": {
-          "label": "L",
-          "description": "",
-          "weight": null
-        },
-        "XL": {
-          "label": "XL",
-          "description": "",
-          "weight": null
-        }
-      },
-      "editorial": {
-        "story": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        },
-        "boxReuse": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        }
-      }
-    },
-    "300-01-03-fistikli-halep-burma": {
-      "name": "Fıstıklı Halep Burma",
-      "description": "",
-      "ingredients": "",
-      "allergens": null,
-      "nutrition": {
-        "basis": "",
-        "values": []
-      },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
-      "delivery": "",
-      "packaging": "",
-      "weight": null,
-      "variants": {
-        "XS": {
-          "label": "XS",
-          "description": "",
-          "weight": null
-        },
-        "S": {
-          "label": "S",
-          "description": "",
-          "weight": null
-        },
-        "M": {
-          "label": "M",
-          "description": "",
-          "weight": null
-        },
-        "L": {
-          "label": "L",
-          "description": "",
-          "weight": null
-        },
-        "XL": {
-          "label": "XL",
-          "description": "",
-          "weight": null
-        }
-      },
-      "editorial": {
-        "story": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        },
-        "boxReuse": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        }
-      }
-    },
-    "300-01-04-fistikli-burma-kadayif": {
-      "name": "Fıstıklı Burma Kadayıf",
-      "description": "",
-      "ingredients": "",
-      "allergens": null,
-      "nutrition": {
-        "basis": "",
-        "values": []
-      },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
-      "delivery": "",
-      "packaging": "",
-      "weight": null,
-      "variants": {
-        "XS": {
-          "label": "XS",
-          "description": "",
-          "weight": null
-        },
-        "S": {
-          "label": "S",
-          "description": "",
-          "weight": null
-        },
-        "M": {
-          "label": "M",
-          "description": "",
-          "weight": null
-        },
-        "L": {
-          "label": "L",
-          "description": "",
-          "weight": null
-        },
-        "XL": {
-          "label": "XL",
-          "description": "",
-          "weight": null
-        }
-      },
-      "editorial": {
-        "story": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        },
-        "boxReuse": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        }
-      }
-    },
-    "300-01-05-fistikli-osmanli-saray-kadayifi": {
-      "name": "Fıstıklı Osmanlı Saray Kadayıfı",
-      "description": "",
-      "ingredients": "",
-      "allergens": null,
-      "nutrition": {
-        "basis": "",
-        "values": []
-      },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
-      "delivery": "",
-      "packaging": "",
-      "weight": null,
-      "variants": {
-        "XS": {
-          "label": "XS",
-          "description": "",
-          "weight": null
-        },
-        "S": {
-          "label": "S",
-          "description": "",
-          "weight": null
-        },
-        "M": {
-          "label": "M",
-          "description": "",
-          "weight": null
-        },
-        "L": {
-          "label": "L",
-          "description": "",
-          "weight": null
-        },
-        "XL": {
-          "label": "XL",
-          "description": "",
-          "weight": null
-        }
-      },
-      "editorial": {
-        "story": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        },
-        "boxReuse": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        }
-      }
-    },
-    "300-02-01-cevizli-osmanli-saray-kadayifi": {
-      "name": "Cevizli Osmanlı Saray Kadayıfı",
-      "description": "",
-      "ingredients": "",
-      "allergens": null,
-      "nutrition": {
-        "basis": "",
-        "values": []
-      },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
-      "delivery": "",
-      "packaging": "",
-      "weight": null,
-      "variants": {
-        "XS": {
-          "label": "XS",
-          "description": "",
-          "weight": null
-        },
-        "S": {
-          "label": "S",
-          "description": "",
-          "weight": null
-        },
-        "M": {
-          "label": "M",
-          "description": "",
-          "weight": null
-        },
-        "L": {
-          "label": "L",
-          "description": "",
-          "weight": null
-        },
-        "XL": {
-          "label": "XL",
-          "description": "",
-          "weight": null
-        }
-      },
-      "editorial": {
-        "story": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        },
-        "boxReuse": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        }
-      }
-    },
-    "300-03-01-narli-lokumlu-osmanli-saray-kadayifi": {
-      "name": "Narlı Lokumlu Osmanlı Saray Kadayıfı",
-      "description": "",
-      "ingredients": "",
-      "allergens": null,
-      "nutrition": {
-        "basis": "",
-        "values": []
-      },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
-      "delivery": "",
-      "packaging": "",
-      "weight": null,
-      "variants": {
-        "XS": {
-          "label": "XS",
-          "description": "",
-          "weight": null
-        },
-        "S": {
-          "label": "S",
-          "description": "",
-          "weight": null
-        },
-        "M": {
-          "label": "M",
-          "description": "",
-          "weight": null
-        },
-        "L": {
-          "label": "L",
-          "description": "",
-          "weight": null
-        },
-        "XL": {
-          "label": "XL",
-          "description": "",
-          "weight": null
-        }
-      },
-      "editorial": {
-        "story": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        },
-        "boxReuse": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        }
-      }
-    },
-    "300-03-02-sultan-lokumlu-osmanli-saray-kadayifi": {
-      "name": "Sultan Lokumlu Osmanlı Saray Kadayıfı",
-      "description": "",
-      "ingredients": "",
-      "allergens": null,
-      "nutrition": {
-        "basis": "",
-        "values": []
-      },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
-      "delivery": "",
-      "packaging": "",
-      "weight": null,
-      "variants": {
-        "XS": {
-          "label": "XS",
-          "description": "",
-          "weight": null
-        },
-        "S": {
-          "label": "S",
-          "description": "",
-          "weight": null
-        },
-        "M": {
-          "label": "M",
-          "description": "",
-          "weight": null
-        },
-        "L": {
-          "label": "L",
-          "description": "",
-          "weight": null
-        },
-        "XL": {
-          "label": "XL",
-          "description": "",
-          "weight": null
-        }
-      },
-      "editorial": {
-        "story": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        },
-        "boxReuse": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        }
-      }
-    },
-    "300-04-01-kunefe": {
+    "usta-1213102": {
       "name": "Künefe",
-      "description": "",
-      "ingredients": "",
-      "allergens": null,
+      "description": "Bir Hafız Mustafa 1864 keşfi, çıtır kadayıf ve peynirin lezzeti",
+      "ingredients": "Su, buğday unu, şeker, Antep fıstığı, peynir, bitkisel yağ, limon suyu.",
+      "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+      "servingSuggestion": "Künefeyi, peynirinin uzayan dokusunu ve kadayıfın çıtırlığını korumak için sıcak servis ediniz. İsteğe göre üzerine Antep fıstığı ekleyebilir, yanında kaymak veya sade dondurma ile sunabilirsiniz.",
+      "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+      "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [],
+        "summary": "100 g için: Enerji 298 kcal / 1246,832 kJ; Yağ 6,42 g; Doymuş yağ 3,36 g; Karbonhidrat 58,43 g; Şeker 54,34 g; Lif 0 g; Protein 1,59 g; Tuz 0,04 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
-      "delivery": "",
-      "packaging": "",
-      "weight": null,
       "variants": {
-        "XS": {
-          "label": "XS",
-          "description": "",
-          "weight": null
-        },
-        "S": {
-          "label": "S",
-          "description": "",
-          "weight": null
-        },
-        "M": {
-          "label": "M",
-          "description": "",
-          "weight": null
-        },
-        "L": {
-          "label": "L",
-          "description": "",
-          "weight": null
-        },
-        "XL": {
-          "label": "XL",
-          "description": "",
-          "weight": null
-        }
-      },
-      "editorial": {
-        "story": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        },
-        "boxReuse": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
+        "1213.10201": {
+          "label": "Tabakta Servis",
+          "description": "Bir Hafız Mustafa 1864 keşfi, çıtır kadayıf ve peynirin lezzeti",
+          "weight": "240 g",
+          "portion": "≈ 1 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, peynir, bitkisel yağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 298 kcal / 1246,832 kJ; Yağ 6,42 g; Doymuş yağ 3,36 g; Karbonhidrat 58,43 g; Şeker 54,34 g; Lif 0 g; Protein 1,59 g; Tuz 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Künefeyi, peynirinin uzayan dokusunu ve kadayıfın çıtırlığını korumak için sıcak servis ediniz. İsteğe göre üzerine Antep fıstığı ekleyebilir, yanında kaymak veya sade dondurma ile sunabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "Tabakta servis"
         }
       }
     },
-    "300-04-02-cikolatali-kunefe": {
-      "name": "Çikolatalı Künefe",
-      "description": "",
-      "ingredients": "",
-      "allergens": null,
-      "nutrition": {
-        "basis": "",
-        "values": []
-      },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
-      "delivery": "",
-      "packaging": "",
-      "weight": null,
-      "variants": {
-        "XS": {
-          "label": "XS",
-          "description": "",
-          "weight": null
-        },
-        "S": {
-          "label": "S",
-          "description": "",
-          "weight": null
-        },
-        "M": {
-          "label": "M",
-          "description": "",
-          "weight": null
-        },
-        "L": {
-          "label": "L",
-          "description": "",
-          "weight": null
-        },
-        "XL": {
-          "label": "XL",
-          "description": "",
-          "weight": null
-        }
-      },
-      "editorial": {
-        "story": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        },
-        "boxReuse": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
-        }
-      }
-    },
-    "300-04-03-balli-kunefe": {
+    "usta-1213101": {
       "name": "Ballı Künefe",
-      "description": "",
-      "ingredients": "",
-      "allergens": null,
+      "description": "Balın, kadayıf ve pernirle buluştuğu çifte lezzet",
+      "ingredients": "Su, buğday unu, şeker, sadeyağ, Antep fıstığı, bitkisel yağ, limon suyu.",
+      "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+      "servingSuggestion": "Künefeyi, peynirinin uzayan dokusunu ve kadayıfın çıtırlığını korumak için sıcak servis ediniz. İsteğe göre üzerine Antep fıstığı ekleyebilir, yanında kaymak veya sade dondurma ile sunabilirsiniz.",
+      "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+      "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
       "nutrition": {
-        "basis": "",
-        "values": []
+        "basis": "100 g için",
+        "values": [],
+        "summary": "100 g için: Enerji 288 kcal / 1204,992 kJ; Yağ 4,61 g; Doymuş yağ 2,66 g; Karbonhidrat 59,67 g; Şeker 55,7 g; Lif 0,23 g; Protein 1,78 g; Tuz 0,08 g.",
+        "note": ""
       },
-      "servingSuggestion": "",
-      "storage": "",
-      "longTermStorage": "",
-      "delivery": "",
-      "packaging": "",
-      "weight": null,
       "variants": {
-        "XS": {
-          "label": "XS",
-          "description": "",
-          "weight": null
-        },
-        "S": {
-          "label": "S",
-          "description": "",
-          "weight": null
-        },
-        "M": {
-          "label": "M",
-          "description": "",
-          "weight": null
-        },
-        "L": {
-          "label": "L",
-          "description": "",
-          "weight": null
-        },
-        "XL": {
-          "label": "XL",
-          "description": "",
-          "weight": null
+        "1213.10101": {
+          "label": "Tabakta Servis",
+          "description": "Balın, kadayıf ve pernirle buluştuğu çifte lezzet",
+          "weight": "240 g",
+          "portion": "≈ 1 kişilik",
+          "ingredients": "Su, buğday unu, şeker, sadeyağ, Antep fıstığı, bitkisel yağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 288 kcal / 1204,992 kJ; Yağ 4,61 g; Doymuş yağ 2,66 g; Karbonhidrat 59,67 g; Şeker 55,7 g; Lif 0,23 g; Protein 1,78 g; Tuz 0,08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Künefeyi, peynirinin uzayan dokusunu ve kadayıfın çıtırlığını korumak için sıcak servis ediniz. İsteğe göre üzerine Antep fıstığı ekleyebilir, yanında kaymak veya sade dondurma ile sunabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "Tabakta servis"
         }
+      }
+    },
+    "usta-1213100": {
+      "name": "Çikolatalı Künefe",
+      "description": "Çikolatalı ve künefenin eşsiz uyumu",
+      "ingredients": "Su, buğday unu, şeker, Antep fıstığı, peynir, toz kakao, bitter çikolata tozu, bitkisel yağ, limon suyu.",
+      "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+      "servingSuggestion": "Künefeyi, peynirinin uzayan dokusunu ve kadayıfın çıtırlığını korumak için sıcak servis ediniz. İsteğe göre üzerine Antep fıstığı ekleyebilir, yanında kaymak veya sade dondurma ile sunabilirsiniz.",
+      "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+      "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+      "nutrition": {
+        "basis": "100 g için",
+        "values": [],
+        "summary": "100 g için: Enerji 288 kcal / 1204,992 kJ; Yağ 4,61 g; Doymuş yağ 2,66 g; Karbonhidrat 59,67 g; Şeker 55,7 g; Lif 0,23 g; Protein 1,78 g; Tuz 0,08 g.",
+        "note": ""
       },
-      "editorial": {
-        "story": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
+      "variants": {
+        "1213.10001": {
+          "label": "Tabakta Servis",
+          "description": "Çikolatalı ve künefenin eşsiz uyumu",
+          "weight": "240 g",
+          "portion": "≈ 1 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, peynir, toz kakao, bitter çikolata tozu, bitkisel yağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 288 kcal / 1204,992 kJ; Yağ 4,61 g; Doymuş yağ 2,66 g; Karbonhidrat 59,67 g; Şeker 55,7 g; Lif 0,23 g; Protein 1,78 g; Tuz 0,08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Künefeyi, peynirinin uzayan dokusunu ve kadayıfın çıtırlığını korumak için sıcak servis ediniz. İsteğe göre üzerine Antep fıstığı ekleyebilir, yanında kaymak veya sade dondurma ile sunabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "Tabakta servis"
+        }
+      }
+    },
+    "usta-1212101": {
+      "name": "Sultan Lokumlu Osmanlı Saray Kadayıfı",
+      "description": "Kadayıf ve lokumun üstün lezzet ödüllü hali",
+      "ingredients": "Lokum (su, şeker, mısır nişastası, asitlik düzenleyici (sitrik asit), Antep fıstığı (%14), çeşidine göre vanilin ve çöğen ekstraktı), şerbetli kadayıf (buğday unu, su, sadeyağ, hidrojene bitkisel yağ, limon suyu, şeker).",
+      "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+      "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+      "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+      "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+      "nutrition": {
+        "basis": "100 g için",
+        "values": [],
+        "summary": "100 g için: Enerji 270 kcal / 1129,68 kJ; Yağ 9,51 g; Doymuş yağ 1,36 g; Karbonhidrat 41,9 g; Şeker 25,88 g; Lif 0,9 g; Protein 3,61 g; Tuz 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10101": {
+          "label": "Tabakta Servis",
+          "description": "Kadayıf ve lokumun üstün lezzet ödüllü hali",
+          "weight": "100 g",
+          "portion": "≈ 1 kişilik",
+          "ingredients": "Lokum (su, şeker, mısır nişastası, asitlik düzenleyici (sitrik asit), Antep fıstığı (%14), çeşidine göre vanilin ve çöğen ekstraktı), şerbetli kadayıf (buğday unu, su, sadeyağ, hidrojene bitkisel yağ, limon suyu, şeker).",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 270 kcal / 1129,68 kJ; Yağ 9,51 g; Doymuş yağ 1,36 g; Karbonhidrat 41,9 g; Şeker 25,88 g; Lif 0,9 g; Protein 3,61 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "Tabakta servis"
         },
-        "boxReuse": {
-          "title": "",
-          "imageAlt": "",
-          "paragraphs": [
-            "",
-            "",
-            ""
-          ]
+        "1212.10102": {
+          "label": "XL",
+          "description": "Kadayıf ve lokumun üstün lezzet ödüllü hali",
+          "weight": "1200 g",
+          "portion": "≈ 12 kişilik",
+          "ingredients": "Lokum (su, şeker, mısır nişastası, asitlik düzenleyici (sitrik asit), Antep fıstığı (%14), çeşidine göre vanilin ve çöğen ekstraktı), şerbetli kadayıf (buğday unu, su, sadeyağ, hidrojene bitkisel yağ, limon suyu, şeker).",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 270 kcal / 1129,68 kJ; Yağ 9,51 g; Doymuş yağ 1,36 g; Karbonhidrat 41,9 g; Şeker 25,88 g; Lif 0,9 g; Protein 3,61 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "XL Metal Baklava Kutusu\nKutu ölçüleri: 345 × 225 × 45 mm"
+        },
+        "1212.10103": {
+          "label": "L",
+          "description": "Kadayıf ve lokumun üstün lezzet ödüllü hali",
+          "weight": "800 g",
+          "portion": "≈ 8 kişilik",
+          "ingredients": "Lokum (su, şeker, mısır nişastası, asitlik düzenleyici (sitrik asit), Antep fıstığı (%14), çeşidine göre vanilin ve çöğen ekstraktı), şerbetli kadayıf (buğday unu, su, sadeyağ, hidrojene bitkisel yağ, limon suyu, şeker).",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 270 kcal / 1129,68 kJ; Yağ 9,51 g; Doymuş yağ 1,36 g; Karbonhidrat 41,9 g; Şeker 25,88 g; Lif 0,9 g; Protein 3,61 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "L Metal Baklava Kutusu\nKutu ölçüleri: 265 × 175 × 45 mm"
+        },
+        "1212.10104": {
+          "label": "M",
+          "description": "Kadayıf ve lokumun üstün lezzet ödüllü hali",
+          "weight": "400 g",
+          "portion": "≈ 4 kişilik",
+          "ingredients": "Lokum (su, şeker, mısır nişastası, asitlik düzenleyici (sitrik asit), Antep fıstığı (%14), çeşidine göre vanilin ve çöğen ekstraktı), şerbetli kadayıf (buğday unu, su, sadeyağ, hidrojene bitkisel yağ, limon suyu, şeker).",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 270 kcal / 1129,68 kJ; Yağ 9,51 g; Doymuş yağ 1,36 g; Karbonhidrat 41,9 g; Şeker 25,88 g; Lif 0,9 g; Protein 3,61 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "M Metal Baklava Kutusu\nKutu ölçüleri: 270 × 180 × 45 mm"
+        },
+        "1212.10105": {
+          "label": "S",
+          "description": "Kadayıf ve lokumun üstün lezzet ödüllü hali",
+          "weight": "200 g",
+          "portion": "≈ 2 kişilik",
+          "ingredients": "Lokum (su, şeker, mısır nişastası, asitlik düzenleyici (sitrik asit), Antep fıstığı (%14), çeşidine göre vanilin ve çöğen ekstraktı), şerbetli kadayıf (buğday unu, su, sadeyağ, hidrojene bitkisel yağ, limon suyu, şeker).",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 270 kcal / 1129,68 kJ; Yağ 9,51 g; Doymuş yağ 1,36 g; Karbonhidrat 41,9 g; Şeker 25,88 g; Lif 0,9 g; Protein 3,61 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "S Metal Baklava Kutusu\nKutu ölçüleri: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1212100": {
+      "name": "Narlı Lokumlu Osmanlı Saray Kadayıfı",
+      "description": "Fıstığın geleneksel nar lokumu ve kadayıfla buluştuğukültürel tat",
+      "ingredients": "Lokum (su, şeker, mısır nişastası, Antep fıstığı (%20), asitlik düzenleyici (sitrik asit), çeşidine göre nar aroma verici ve renklendirici (antosiyanin)), şerbetli kadayıf (buğday unu, su, sadeyağ, hidrojene bitkisel yağ, limon suyu, şeker).",
+      "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+      "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+      "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+      "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+      "nutrition": {
+        "basis": "100 g için",
+        "values": [],
+        "summary": "100 g için: Enerji 284,45 kcal / 1190,1388 kJ; Yağ 9,73 g; Doymuş yağ 1,36 g; Karbonhidrat 44,94 g; Şeker 30,08 g; Lif 1,03 g; Protein 3,74 g; Tuz 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10001": {
+          "label": "Tabakta Servis",
+          "description": "Fıstığın geleneksel nar lokumu ve kadayıfla buluştuğukültürel tat",
+          "weight": "100 g",
+          "portion": "≈ 1 kişilik",
+          "ingredients": "Lokum (su, şeker, mısır nişastası, Antep fıstığı (%20), asitlik düzenleyici (sitrik asit), çeşidine göre nar aroma verici ve renklendirici (antosiyanin)), şerbetli kadayıf (buğday unu, su, sadeyağ, hidrojene bitkisel yağ, limon suyu, şeker).",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 284,45 kcal / 1190,1388 kJ; Yağ 9,73 g; Doymuş yağ 1,36 g; Karbonhidrat 44,94 g; Şeker 30,08 g; Lif 1,03 g; Protein 3,74 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "Tabakta servis"
+        },
+        "1212.10002": {
+          "label": "XL",
+          "description": "Fıstığın geleneksel nar lokumu ve kadayıfla buluştuğukültürel tat",
+          "weight": "1200 g",
+          "portion": "≈ 12 kişilik",
+          "ingredients": "Lokum (su, şeker, mısır nişastası, Antep fıstığı (%20), asitlik düzenleyici (sitrik asit), çeşidine göre nar aroma verici ve renklendirici (antosiyanin)), şerbetli kadayıf (buğday unu, su, sadeyağ, hidrojene bitkisel yağ, limon suyu, şeker).",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 284,45 kcal / 1190,1388 kJ; Yağ 9,73 g; Doymuş yağ 1,36 g; Karbonhidrat 44,94 g; Şeker 30,08 g; Lif 1,03 g; Protein 3,74 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "XL Metal Baklava Kutusu\nKutu ölçüleri: 345 × 225 × 45 mm"
+        },
+        "1212.10003": {
+          "label": "L",
+          "description": "Fıstığın geleneksel nar lokumu ve kadayıfla buluştuğukültürel tat",
+          "weight": "800 g",
+          "portion": "≈ 8 kişilik",
+          "ingredients": "Lokum (su, şeker, mısır nişastası, Antep fıstığı (%20), asitlik düzenleyici (sitrik asit), çeşidine göre nar aroma verici ve renklendirici (antosiyanin)), şerbetli kadayıf (buğday unu, su, sadeyağ, hidrojene bitkisel yağ, limon suyu, şeker).",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 284,45 kcal / 1190,1388 kJ; Yağ 9,73 g; Doymuş yağ 1,36 g; Karbonhidrat 44,94 g; Şeker 30,08 g; Lif 1,03 g; Protein 3,74 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "L Metal Baklava Kutusu\nKutu ölçüleri: 265 × 175 × 45 mm"
+        },
+        "1212.10004": {
+          "label": "M",
+          "description": "Fıstığın geleneksel nar lokumu ve kadayıfla buluştuğukültürel tat",
+          "weight": "400 g",
+          "portion": "≈ 4 kişilik",
+          "ingredients": "Lokum (su, şeker, mısır nişastası, Antep fıstığı (%20), asitlik düzenleyici (sitrik asit), çeşidine göre nar aroma verici ve renklendirici (antosiyanin)), şerbetli kadayıf (buğday unu, su, sadeyağ, hidrojene bitkisel yağ, limon suyu, şeker).",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 284,45 kcal / 1190,1388 kJ; Yağ 9,73 g; Doymuş yağ 1,36 g; Karbonhidrat 44,94 g; Şeker 30,08 g; Lif 1,03 g; Protein 3,74 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "M Metal Baklava Kutusu\nKutu ölçüleri: 270 × 180 × 45 mm"
+        },
+        "1212.10005": {
+          "label": "S",
+          "description": "Fıstığın geleneksel nar lokumu ve kadayıfla buluştuğukültürel tat",
+          "weight": "200 g",
+          "portion": "≈ 2 kişilik",
+          "ingredients": "Lokum (su, şeker, mısır nişastası, Antep fıstığı (%20), asitlik düzenleyici (sitrik asit), çeşidine göre nar aroma verici ve renklendirici (antosiyanin)), şerbetli kadayıf (buğday unu, su, sadeyağ, hidrojene bitkisel yağ, limon suyu, şeker).",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 284,45 kcal / 1190,1388 kJ; Yağ 9,73 g; Doymuş yağ 1,36 g; Karbonhidrat 44,94 g; Şeker 30,08 g; Lif 1,03 g; Protein 3,74 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "S Metal Baklava Kutusu\nKutu ölçüleri: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1211100": {
+      "name": "Cevizli Osmanlı Saray Kadayıfı",
+      "description": "Ceviz ve kadayıfa uzmanlıkla yapılan gurme bir dokunuş",
+      "ingredients": "Su, buğday unu, şeker, ceviz, bitkisel yağ, sadeyağ, limon suyu.",
+      "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, ceviz. Aynı üretim hattında Antep fıstığı içeren ürünler de üretildiği için iz miktarda Antep fıstığı bulunabilir.",
+      "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+      "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+      "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+      "nutrition": {
+        "basis": "100 g için",
+        "values": [],
+        "summary": "100 g için: Enerji 423,34 kcal / 1771,25456 kJ; Yağ 26,9 g; Doymuş yağ 3,31 g; Karbonhidrat 36,4 g; Şeker 25,52 g; Lif 2,34 g; Protein 7,7 g; Tuz 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1211.10001": {
+          "label": "Tabakta Servis",
+          "description": "Ceviz ve kadayıfa uzmanlıkla yapılan gurme bir dokunuş",
+          "weight": "100 g",
+          "portion": "≈ 1 kişilik",
+          "ingredients": "Su, buğday unu, şeker, ceviz, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, ceviz. Aynı üretim hattında Antep fıstığı içeren ürünler de üretildiği için iz miktarda Antep fıstığı bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 423,34 kcal / 1771,25456 kJ; Yağ 26,9 g; Doymuş yağ 3,31 g; Karbonhidrat 36,4 g; Şeker 25,52 g; Lif 2,34 g; Protein 7,7 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "Tabakta servis"
+        },
+        "1211.10002": {
+          "label": "XL",
+          "description": "Ceviz ve kadayıfa uzmanlıkla yapılan gurme bir dokunuş",
+          "weight": "1200 g",
+          "portion": "≈ 12 kişilik",
+          "ingredients": "Su, buğday unu, şeker, ceviz, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, ceviz. Aynı üretim hattında Antep fıstığı içeren ürünler de üretildiği için iz miktarda Antep fıstığı bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 423,34 kcal / 1771,25456 kJ; Yağ 26,9 g; Doymuş yağ 3,31 g; Karbonhidrat 36,4 g; Şeker 25,52 g; Lif 2,34 g; Protein 7,7 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "XL Metal Baklava Kutusu\nKutu ölçüleri: 345 × 225 × 45 mm"
+        },
+        "1211.10003": {
+          "label": "L",
+          "description": "Ceviz ve kadayıfa uzmanlıkla yapılan gurme bir dokunuş",
+          "weight": "800 g",
+          "portion": "≈ 8 kişilik",
+          "ingredients": "Su, buğday unu, şeker, ceviz, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, ceviz. Aynı üretim hattında Antep fıstığı içeren ürünler de üretildiği için iz miktarda Antep fıstığı bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 423,34 kcal / 1771,25456 kJ; Yağ 26,9 g; Doymuş yağ 3,31 g; Karbonhidrat 36,4 g; Şeker 25,52 g; Lif 2,34 g; Protein 7,7 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "L Metal Baklava Kutusu\nKutu ölçüleri: 265 × 175 × 45 mm"
+        },
+        "1211.10004": {
+          "label": "M",
+          "description": "Ceviz ve kadayıfa uzmanlıkla yapılan gurme bir dokunuş",
+          "weight": "400 g",
+          "portion": "≈ 4 kişilik",
+          "ingredients": "Su, buğday unu, şeker, ceviz, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, ceviz. Aynı üretim hattında Antep fıstığı içeren ürünler de üretildiği için iz miktarda Antep fıstığı bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 423,34 kcal / 1771,25456 kJ; Yağ 26,9 g; Doymuş yağ 3,31 g; Karbonhidrat 36,4 g; Şeker 25,52 g; Lif 2,34 g; Protein 7,7 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "M Metal Baklava Kutusu\nKutu ölçüleri: 270 × 180 × 45 mm"
+        },
+        "1211.10005": {
+          "label": "S",
+          "description": "Ceviz ve kadayıfa uzmanlıkla yapılan gurme bir dokunuş",
+          "weight": "200 g",
+          "portion": "≈ 2 kişilik",
+          "ingredients": "Su, buğday unu, şeker, ceviz, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, ceviz. Aynı üretim hattında Antep fıstığı içeren ürünler de üretildiği için iz miktarda Antep fıstığı bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 423,34 kcal / 1771,25456 kJ; Yağ 26,9 g; Doymuş yağ 3,31 g; Karbonhidrat 36,4 g; Şeker 25,52 g; Lif 2,34 g; Protein 7,7 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "S Metal Baklava Kutusu\nKutu ölçüleri: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210104": {
+      "name": "Fıstıklı Osmanlı Saray Kadayıfı",
+      "description": "Yoğun kadayıf ve dolu dolu fıstığın buluştuğu bir şölen",
+      "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+      "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+      "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+      "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+      "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+      "nutrition": {
+        "basis": "100 g için",
+        "values": [],
+        "summary": "100 g için: Enerji 401 kcal / 1677,784 kJ; Yağ 23,34 g; Doymuş yağ 1,2 g; Karbonhidrat 37,1 g; Şeker 21,2 g; Lif 3,89 g; Protein 8,5 g; Tuz 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10401": {
+          "label": "Tabakta Servis",
+          "description": "Yoğun kadayıf ve dolu dolu fıstığın buluştuğu bir şölen",
+          "weight": "100 g",
+          "portion": "≈ 1 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 401 kcal / 1677,784 kJ; Yağ 23,34 g; Doymuş yağ 1,2 g; Karbonhidrat 37,1 g; Şeker 21,2 g; Lif 3,89 g; Protein 8,5 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "Tabakta servis"
+        },
+        "1210.10402": {
+          "label": "XL",
+          "description": "Yoğun kadayıf ve dolu dolu fıstığın buluştuğu bir şölen",
+          "weight": "1200 g",
+          "portion": "≈ 12 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 401 kcal / 1677,784 kJ; Yağ 23,34 g; Doymuş yağ 1,2 g; Karbonhidrat 37,1 g; Şeker 21,2 g; Lif 3,89 g; Protein 8,5 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "XL Metal Baklava Kutusu\nKutu ölçüleri: 345 × 225 × 45 mm"
+        },
+        "1210.10403": {
+          "label": "L",
+          "description": "Yoğun kadayıf ve dolu dolu fıstığın buluştuğu bir şölen",
+          "weight": "800 g",
+          "portion": "≈ 8 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 401 kcal / 1677,784 kJ; Yağ 23,34 g; Doymuş yağ 1,2 g; Karbonhidrat 37,1 g; Şeker 21,2 g; Lif 3,89 g; Protein 8,5 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "L Metal Baklava Kutusu\nKutu ölçüleri: 265 × 175 × 45 mm"
+        },
+        "1210.10404": {
+          "label": "M",
+          "description": "Yoğun kadayıf ve dolu dolu fıstığın buluştuğu bir şölen",
+          "weight": "400 g",
+          "portion": "≈ 4 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 401 kcal / 1677,784 kJ; Yağ 23,34 g; Doymuş yağ 1,2 g; Karbonhidrat 37,1 g; Şeker 21,2 g; Lif 3,89 g; Protein 8,5 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "M Metal Baklava Kutusu\nKutu ölçüleri: 270 × 180 × 45 mm"
+        },
+        "1210.10405": {
+          "label": "S",
+          "description": "Yoğun kadayıf ve dolu dolu fıstığın buluştuğu bir şölen",
+          "weight": "200 g",
+          "portion": "≈ 2 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 401 kcal / 1677,784 kJ; Yağ 23,34 g; Doymuş yağ 1,2 g; Karbonhidrat 37,1 g; Şeker 21,2 g; Lif 3,89 g; Protein 8,5 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "S Metal Baklava Kutusu\nKutu ölçüleri: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210103": {
+      "name": "Fıstıklı Antep Burma Kadayıf",
+      "description": "Lezzeti kadayıfla kaplı özel fıstıkla çıkılan lezzet yolculuğu",
+      "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+      "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+      "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+      "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+      "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+      "nutrition": {
+        "basis": "100 g için",
+        "values": [],
+        "summary": "100 g için: Enerji 338,5 kcal / 1416,284 kJ; Yağ 16 g; Doymuş yağ 0,16 g; Karbonhidrat 41,91 g; Şeker 24,4 g; Lif 1,8 g; Protein 5,7 g; Tuz 0,04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10301": {
+          "label": "Tabakta Servis",
+          "description": "Lezzeti kadayıfla kaplı özel fıstıkla çıkılan lezzet yolculuğu",
+          "weight": "62.5 g",
+          "portion": "1 kişilik porsiyondan az",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 338,5 kcal / 1416,284 kJ; Yağ 16 g; Doymuş yağ 0,16 g; Karbonhidrat 41,91 g; Şeker 24,4 g; Lif 1,8 g; Protein 5,7 g; Tuz 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "Tabakta servis"
+        },
+        "1210.10302": {
+          "label": "XL",
+          "description": "Lezzeti kadayıfla kaplı özel fıstıkla çıkılan lezzet yolculuğu",
+          "weight": "750 g",
+          "portion": "≈ 4 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 338,5 kcal / 1416,284 kJ; Yağ 16 g; Doymuş yağ 0,16 g; Karbonhidrat 41,91 g; Şeker 24,4 g; Lif 1,8 g; Protein 5,7 g; Tuz 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "XL Metal Baklava Kutusu\nKutu ölçüleri: 345 × 225 × 45 mm"
+        },
+        "1210.10303": {
+          "label": "L",
+          "description": "Lezzeti kadayıfla kaplı özel fıstıkla çıkılan lezzet yolculuğu",
+          "weight": "500 g",
+          "portion": "≈ 3 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 338,5 kcal / 1416,284 kJ; Yağ 16 g; Doymuş yağ 0,16 g; Karbonhidrat 41,91 g; Şeker 24,4 g; Lif 1,8 g; Protein 5,7 g; Tuz 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "L Metal Baklava Kutusu\nKutu ölçüleri: 265 × 175 × 45 mm"
+        },
+        "1210.10304": {
+          "label": "M",
+          "description": "Lezzeti kadayıfla kaplı özel fıstıkla çıkılan lezzet yolculuğu",
+          "weight": "250 g",
+          "portion": "≈ 1 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 338,5 kcal / 1416,284 kJ; Yağ 16 g; Doymuş yağ 0,16 g; Karbonhidrat 41,91 g; Şeker 24,4 g; Lif 1,8 g; Protein 5,7 g; Tuz 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "M Metal Baklava Kutusu\nKutu ölçüleri: 270 × 180 × 45 mm"
+        },
+        "1210.10305": {
+          "label": "S",
+          "description": "Lezzeti kadayıfla kaplı özel fıstıkla çıkılan lezzet yolculuğu",
+          "weight": "125 g",
+          "portion": "≈ 1 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 338,5 kcal / 1416,284 kJ; Yağ 16 g; Doymuş yağ 0,16 g; Karbonhidrat 41,91 g; Şeker 24,4 g; Lif 1,8 g; Protein 5,7 g; Tuz 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "S Metal Baklava Kutusu\nKutu ölçüleri: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210102": {
+      "name": "Fıstıklı Halep Burma Kadayıf",
+      "description": "Kadayıfın lezzeti ile kaplı özel hasat fıstığın uyumu",
+      "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, limon suyu.",
+      "allergenInfo": "Gluten (buğday), Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+      "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+      "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+      "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+      "nutrition": {
+        "basis": "100 g için",
+        "values": [],
+        "summary": "100 g için: Enerji 389,5 kcal / 1629,668 kJ; Yağ 23,2 g; Doymuş yağ 4,79 g; Karbonhidrat 36,73 g; Şeker 18,8 g; Lif 2,69 g; Protein 7,06 g; Tuz 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10201": {
+          "label": "Tabakta Servis",
+          "description": "Kadayıfın lezzeti ile kaplı özel hasat fıstığın uyumu",
+          "weight": "170 g",
+          "portion": "≈ 1 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 389,5 kcal / 1629,668 kJ; Yağ 23,2 g; Doymuş yağ 4,79 g; Karbonhidrat 36,73 g; Şeker 18,8 g; Lif 2,69 g; Protein 7,06 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "Tabakta servis"
+        },
+        "1210.10202": {
+          "label": "XL",
+          "description": "Kadayıfın lezzeti ile kaplı özel hasat fıstığın uyumu",
+          "weight": "2040 g",
+          "portion": "≈ 12 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 389,5 kcal / 1629,668 kJ; Yağ 23,2 g; Doymuş yağ 4,79 g; Karbonhidrat 36,73 g; Şeker 18,8 g; Lif 2,69 g; Protein 7,06 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "XL Metal Baklava Kutusu\nKutu ölçüleri: 345 × 225 × 45 mm"
+        },
+        "1210.10203": {
+          "label": "L",
+          "description": "Kadayıfın lezzeti ile kaplı özel hasat fıstığın uyumu",
+          "weight": "1360 g",
+          "portion": "≈ 8 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 389,5 kcal / 1629,668 kJ; Yağ 23,2 g; Doymuş yağ 4,79 g; Karbonhidrat 36,73 g; Şeker 18,8 g; Lif 2,69 g; Protein 7,06 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "L Metal Baklava Kutusu\nKutu ölçüleri: 265 × 175 × 45 mm"
+        },
+        "1210.10204": {
+          "label": "M",
+          "description": "Kadayıfın lezzeti ile kaplı özel hasat fıstığın uyumu",
+          "weight": "680 g",
+          "portion": "≈ 4 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 389,5 kcal / 1629,668 kJ; Yağ 23,2 g; Doymuş yağ 4,79 g; Karbonhidrat 36,73 g; Şeker 18,8 g; Lif 2,69 g; Protein 7,06 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "M Metal Baklava Kutusu\nKutu ölçüleri: 270 × 180 × 45 mm"
+        },
+        "1210.10205": {
+          "label": "S",
+          "description": "Kadayıfın lezzeti ile kaplı özel hasat fıstığın uyumu",
+          "weight": "340 g",
+          "portion": "≈ 2 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 389,5 kcal / 1629,668 kJ; Yağ 23,2 g; Doymuş yağ 4,79 g; Karbonhidrat 36,73 g; Şeker 18,8 g; Lif 2,69 g; Protein 7,06 g; Tuz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "S Metal Baklava Kutusu\nKutu ölçüleri: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210101": {
+      "name": "Fıstıklı Sultaniye Kadayıf",
+      "description": "Fıstıklı Kaplı yumuşak ve çıtır kadayıf rüyası",
+      "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+      "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+      "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+      "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+      "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+      "nutrition": {
+        "basis": "100 g için",
+        "values": [],
+        "summary": "100 g için: Enerji 348,3 kcal / 1457,2872 kJ; Yağ 16,41 g; Doymuş yağ 2,28 g; Karbonhidrat 44,61 g; Şeker 31,12 g; Lif 1,64 g; Protein 4,71 g; Tuz 0,03 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10101": {
+          "label": "XL",
+          "description": "Fıstıklı Kaplı yumuşak ve çıtır kadayıf rüyası",
+          "weight": "2400 g",
+          "portion": "≈ 12 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 348,3 kcal / 1457,2872 kJ; Yağ 16,41 g; Doymuş yağ 2,28 g; Karbonhidrat 44,61 g; Şeker 31,12 g; Lif 1,64 g; Protein 4,71 g; Tuz 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "XL Metal Baklava Kutusu\nKutu ölçüleri: 345 × 225 × 45 mm"
+        },
+        "1210.10102": {
+          "label": "L",
+          "description": "Fıstıklı Kaplı yumuşak ve çıtır kadayıf rüyası",
+          "weight": "1600 g",
+          "portion": "≈ 8 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 348,3 kcal / 1457,2872 kJ; Yağ 16,41 g; Doymuş yağ 2,28 g; Karbonhidrat 44,61 g; Şeker 31,12 g; Lif 1,64 g; Protein 4,71 g; Tuz 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "L Metal Baklava Kutusu\nKutu ölçüleri: 265 × 175 × 45 mm"
+        },
+        "1210.10103": {
+          "label": "M",
+          "description": "Fıstıklı Kaplı yumuşak ve çıtır kadayıf rüyası",
+          "weight": "800 g",
+          "portion": "≈ 4 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 348,3 kcal / 1457,2872 kJ; Yağ 16,41 g; Doymuş yağ 2,28 g; Karbonhidrat 44,61 g; Şeker 31,12 g; Lif 1,64 g; Protein 4,71 g; Tuz 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "M Metal Baklava Kutusu\nKutu ölçüleri: 270 × 180 × 45 mm"
+        },
+        "1210.10104": {
+          "label": "S",
+          "description": "Fıstıklı Kaplı yumuşak ve çıtır kadayıf rüyası",
+          "weight": "400 g",
+          "portion": "≈ 2 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 348,3 kcal / 1457,2872 kJ; Yağ 16,41 g; Doymuş yağ 2,28 g; Karbonhidrat 44,61 g; Şeker 31,12 g; Lif 1,64 g; Protein 4,71 g; Tuz 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "S Metal Baklava Kutusu\nKutu ölçüleri: 195 × 145 × 45 mm"
+        },
+        "1210.10105": {
+          "label": "Dilim",
+          "description": "Fıstıklı Kaplı yumuşak ve çıtır kadayıf rüyası",
+          "weight": "200 g",
+          "portion": "≈ 1 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 348,3 kcal / 1457,2872 kJ; Yağ 16,41 g; Doymuş yağ 2,28 g; Karbonhidrat 44,61 g; Şeker 31,12 g; Lif 1,64 g; Protein 4,71 g; Tuz 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "Tabakta servis"
+        }
+      }
+    },
+    "usta-1210100": {
+      "name": "Fıstıklı Kadayıf",
+      "description": "Kadayıf ve boz fıstığın senfonisi",
+      "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+      "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+      "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+      "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+      "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+      "nutrition": {
+        "basis": "100 g için",
+        "values": [],
+        "summary": "100 g için: Enerji 353,33 kcal / 1478,33272 kJ; Yağ 17,33 g; Doymuş yağ 3,1 g; Karbonhidrat 44,63 g; Şeker 30,9 g; Lif 1,2 g; Protein 4 g; Tuz 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10001": {
+          "label": "Tabakta Servis",
+          "description": "Kadayıf ve boz fıstığın senfonisi",
+          "weight": "166.6 g",
+          "portion": "≈ 1 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 353,33 kcal / 1478,33272 kJ; Yağ 17,33 g; Doymuş yağ 3,1 g; Karbonhidrat 44,63 g; Şeker 30,9 g; Lif 1,2 g; Protein 4 g; Tuz 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "Tabakta servis"
+        },
+        "1210.10002": {
+          "label": "XL",
+          "description": "Kadayıf ve boz fıstığın senfonisi",
+          "weight": "1999.2 g",
+          "portion": "≈ 12 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 353,33 kcal / 1478,33272 kJ; Yağ 17,33 g; Doymuş yağ 3,1 g; Karbonhidrat 44,63 g; Şeker 30,9 g; Lif 1,2 g; Protein 4 g; Tuz 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "XL Metal Baklava Kutusu\nKutu ölçüleri: 345 × 225 × 45 mm"
+        },
+        "1210.10003": {
+          "label": "L",
+          "description": "Kadayıf ve boz fıstığın senfonisi",
+          "weight": "1332.8 g",
+          "portion": "≈ 8 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 353,33 kcal / 1478,33272 kJ; Yağ 17,33 g; Doymuş yağ 3,1 g; Karbonhidrat 44,63 g; Şeker 30,9 g; Lif 1,2 g; Protein 4 g; Tuz 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "L Metal Baklava Kutusu\nKutu ölçüleri: 265 × 175 × 45 mm"
+        },
+        "1210.10004": {
+          "label": "M",
+          "description": "Kadayıf ve boz fıstığın senfonisi",
+          "weight": "666.4 g",
+          "portion": "≈ 4 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 353,33 kcal / 1478,33272 kJ; Yağ 17,33 g; Doymuş yağ 3,1 g; Karbonhidrat 44,63 g; Şeker 30,9 g; Lif 1,2 g; Protein 4 g; Tuz 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "M Metal Baklava Kutusu\nKutu ölçüleri: 270 × 180 × 45 mm"
+        },
+        "1210.10005": {
+          "label": "S",
+          "description": "Kadayıf ve boz fıstığın senfonisi",
+          "weight": "333.2 g",
+          "portion": "≈ 2 kişilik",
+          "ingredients": "Su, buğday unu, şeker, Antep fıstığı, bitkisel yağ, sadeyağ, limon suyu.",
+          "allergenInfo": "Gluten (buğday), süt ve süt ürünleri, Antep fıstığı. Aynı üretim hattında ceviz içeren ürünler de üretildiği için iz miktarda ceviz bulunabilir.",
+          "nutrition": {
+            "basis": "100 g için",
+            "values": [],
+            "summary": "100 g için: Enerji 353,33 kcal / 1478,33272 kJ; Yağ 17,33 g; Doymuş yağ 3,1 g; Karbonhidrat 44,63 g; Şeker 30,9 g; Lif 1,2 g; Protein 4 g; Tuz 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serin, kuru ve doğrudan güneş ışığı almayan yerlerde muhafaza edebilirsiniz.\n\nGünlük tüketim için buzdolabında saklamamanızı tavsiye ederiz, aksi takdirde şerbetinde kıvam bozukluğu yaşayabilirsiniz.",
+          "storage": "En ideal lezzet deneyimi için ürününüzü oda sıcaklığında tüketebilirsiniz.\n\nDilerseniz fırında hafifçe ısıtarak da servis edebilirsiniz.",
+          "longTermStorage": "Ürünlerinizi -18 °C'de (dondurucuda) 30 güne kadar güvenle saklayabilirsiniz.\n\nEn ideal lezzet deneyimi için; önce +4 °C'de 2 saat çözündürmenizi, ardından oda sıcaklığında 30 dakika dinlendirerek tüketmenizi tavsiye ederiz.  Doğrudan oda sıcaklığında çözündürülen ürünlerde çıtırlık kaybı ve kuruluk yaşayanabilir.\n\nÇözünen ürünlerinizi tekrar dondurmamalısınız.",
+          "packaging": "S Metal Baklava Kutusu\nKutu ölçüleri: 195 × 145 × 45 mm"
         }
       }
     }

@@ -86,3 +86,6 @@
 @supports (grid-template-rows: subgrid) {
   .product-card-body > .card-actions { grid-row: 6; align-self: end; }
 }
+.mobile-channel-tabs { display: flex; gap: 8px; margin-bottom: 20px; }
+.mobile-channel-tabs button { flex: 1; padding: 12px; border: 1px solid #ddd; }
+.mobile-channel-tabs button[aria-pressed="true"] { background: #111; color: #fff; border-color: #cba052; }

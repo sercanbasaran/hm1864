@@ -13,7 +13,7 @@ import { countryDefaults } from "../../market.js";
 import { translate } from "../../i18n.js";
 
 export default function Header() {
-  const { data, modal, setModal, preferences, regions, content } = useApp();
+  const { data, catalogData, channel, modal, setModal, preferences, regions, content } = useApp();
   const t = useText();
   const language = preferences?.language || regions.defaultLanguage;
   const country =
@@ -24,10 +24,12 @@ export default function Header() {
     preferences?.countryName ||
     translate(content, language, "region.country." + country.code);
   const [menu, setMenu] = useState(null);
-  const [tab, setTab] = useState(() => visibleItems(data.menus.mega.tabs)[0].id);
+  const [tab, setTab] = useState(() => channel || visibleItems(data.menus.mega.tabs)[0].id);
   const timer = useRef();
   const nav = primaryMenu(data,language);
+  useEffect(() => { if (channel) setTab(channel); }, [channel]);
   const tabs=visibleItems(data.menus.mega.tabs);
+  const menuData=catalogData || data;
   useEffect(() => {
     if (modal) setMenu(null);
     return () => clearTimeout(timer.current);
@@ -49,7 +51,7 @@ export default function Header() {
     setMenu(null);
   };
   const subImage = (sub, category) => {
-    const product = data.products.find(
+    const product = (catalogData || data).products.find(
       (p) =>
         p.category === category &&
         p.subcategory === (sub.catalogName || sub.name) &&
@@ -63,8 +65,8 @@ export default function Header() {
     `${sub.name} çeşitlerini keşfedin.`;
   const cats =
     menu === "all"
-      ? categoryMenu(data,tabs.find(t=>t.id===tab)?.categories,language)
-      : categoryMenu(data,tabs.find(t=>t.id===tab)?.categories,language).filter((c) => c.id === menu);
+      ? categoryMenu(menuData,tabs.find(t=>t.id===tab)?.categories,language,tab)
+      : categoryMenu(menuData,tabs.find(t=>t.id===tab)?.categories,language,tab).filter((c) => c.id === menu);
   return (
     <>
       <a className="skip-link" href="#main">
@@ -210,7 +212,7 @@ export default function Header() {
                   <h3>
                     <a
                       onClick={closeMenu}
-                      href={local(c.url)}
+                      href={local(c.url)} data-menu-channel={tab}
                     >
                       <RichText value={c.name} />
                     </a>
@@ -221,7 +223,7 @@ export default function Header() {
                         className="mega-subcategory-card"
                         key={sub.url}
                         onClick={closeMenu}
-                        href={local(sub.url)}
+                        href={local(sub.url)} data-menu-channel={tab}
                       >
                         {menu !== "all" && (
                           <Media src={subImage(sub, c.catalogName)} alt={sub.name} />

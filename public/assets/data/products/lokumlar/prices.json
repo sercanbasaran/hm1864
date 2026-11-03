@@ -2,707 +2,611 @@
   "schemaVersion": 1,
   "categoryId": "lokumlar",
   "products": {
-    "200-01-01-balli-fistikli-fitil-lokum": {
+    "usta-1114101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1114.10101": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1114.10102": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1114.10103": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1114.10104": {
+          "TRY": 800
         }
       }
     },
-    "200-01-02-cevizli-fitil-lokum": {
+    "usta-1115101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1115.10101": {
+          "TRY": 2700
         },
-        "S": {
-          "TRY": null
+        "1115.10102": {
+          "TRY": 1500
         },
-        "M": {
-          "TRY": null
+        "1115.10103": {
+          "TRY": 1080
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1115.10104": {
+          "TRY": 600
         }
       }
     },
-    "200-01-03-findikli-fitil-lokum": {
+    "usta-1115105": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1115.10501": {
+          "TRY": 2700
         },
-        "S": {
-          "TRY": null
+        "1115.10502": {
+          "TRY": 1500
         },
-        "M": {
-          "TRY": null
+        "1115.10503": {
+          "TRY": 1080
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1115.10504": {
+          "TRY": 600
         }
       }
     },
-    "200-01-04-fistikli-sultan-fitil-lokum": {
+    "usta-1115108": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1115.10801": {
+          "TRY": 2700
         },
-        "S": {
-          "TRY": null
+        "1115.10802": {
+          "TRY": 1500
         },
-        "M": {
-          "TRY": null
+        "1115.10803": {
+          "TRY": 1080
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1115.10804": {
+          "TRY": 600
         }
       }
     },
-    "200-01-05-incirli-cevizli-fitil-lokum": {
+    "usta-1115100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1115.10001": {
+          "TRY": 2700
         },
-        "S": {
-          "TRY": null
+        "1115.10002": {
+          "TRY": 1500
         },
-        "M": {
-          "TRY": null
+        "1115.10003": {
+          "TRY": 1080
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1115.10004": {
+          "TRY": 600
         }
       }
     },
-    "200-01-06-kivili-fistikli-fitil-lokum": {
+    "usta-1115107": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1115.10701": {
+          "TRY": 2700
         },
-        "S": {
-          "TRY": null
+        "1115.10702": {
+          "TRY": 1500
         },
-        "M": {
-          "TRY": null
+        "1115.10703": {
+          "TRY": 1080
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1115.10704": {
+          "TRY": 600
         }
       }
     },
-    "200-01-07-narli-fistikli-fitil-lokum": {
+    "usta-1115103": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1115.10301": {
+          "TRY": 2700
         },
-        "S": {
-          "TRY": null
+        "1115.10302": {
+          "TRY": 1500
         },
-        "M": {
-          "TRY": null
+        "1115.10303": {
+          "TRY": 1080
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1115.10304": {
+          "TRY": 600
         }
       }
     },
-    "200-01-08-portakalli-findikli-fitil-lokum": {
+    "usta-1115104": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1115.10401": {
+          "TRY": 2700
         },
-        "S": {
-          "TRY": null
+        "1115.10402": {
+          "TRY": 1500
         },
-        "M": {
-          "TRY": null
+        "1115.10403": {
+          "TRY": 1080
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1115.10404": {
+          "TRY": 600
         }
       }
     },
-    "200-02-01-fistikli-duble-lokum": {
+    "usta-1115102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1115.10201": {
+          "TRY": 2700
         },
-        "S": {
-          "TRY": null
+        "1115.10202": {
+          "TRY": 1500
         },
-        "M": {
-          "TRY": null
+        "1115.10203": {
+          "TRY": 1080
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1115.10204": {
+          "TRY": 600
         }
       }
     },
-    "200-02-02-fistikli-sultan-duble-lokum": {
+    "usta-1113100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1113.10001": {
+          "TRY": 4050
         },
-        "S": {
-          "TRY": null
+        "1113.10002": {
+          "TRY": 2250
         },
-        "M": {
-          "TRY": null
+        "1113.10003": {
+          "TRY": 1620
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1113.10004": {
+          "TRY": 900
         }
       }
     },
-    "200-02-03-gul-yaprakli-fistikli-duble-lokum": {
+    "usta-1113101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1113.10101": {
+          "TRY": 4050
         },
-        "S": {
-          "TRY": null
+        "1113.10102": {
+          "TRY": 2250
         },
-        "M": {
-          "TRY": null
+        "1113.10103": {
+          "TRY": 1620
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1113.10104": {
+          "TRY": 900
         }
       }
     },
-    "200-02-04-kivili-fistikli-duble-lokum": {
+    "usta-1115106": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1115.10601": {
+          "TRY": 2700
         },
-        "S": {
-          "TRY": null
+        "1115.10602": {
+          "TRY": 1500
         },
-        "M": {
-          "TRY": null
+        "1115.10603": {
+          "TRY": 1080
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1115.10604": {
+          "TRY": 600
         }
       }
     },
-    "200-02-05-narli-fistikli-duble-lokum": {
+    "usta-1112100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1112.10001": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1112.10002": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1112.10003": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1112.10004": {
+          "TRY": 800
         }
       }
     },
-    "200-02-06-portakalli-findikli-duble-lokum": {
+    "usta-1112101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1112.10101": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1112.10102": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1112.10103": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1112.10104": {
+          "TRY": 800
         }
       }
     },
-    "200-03-01-cifte-kavrulmus-fistikli-lokum": {
+    "usta-1112102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1112.10201": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1112.10202": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1112.10203": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1112.10204": {
+          "TRY": 800
         }
       }
     },
-    "200-03-02-cifte-kavrulmus-narli-fistikli-lokum": {
+    "usta-1114103": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1114.10301": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1114.10302": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1114.10303": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1114.10304": {
+          "TRY": 800
         }
       }
     },
-    "200-03-03-ekstra-cifte-kavrulmus-fistikli-lokum": {
+    "usta-1114100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1114.10001": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1114.10002": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1114.10003": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1114.10004": {
+          "TRY": 800
         }
       }
     },
-    "200-04-01-narli-fistikli-krokan-lokum": {
+    "usta-1114102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1114.10201": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1114.10202": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1114.10203": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1114.10204": {
+          "TRY": 800
         }
       }
     },
-    "200-04-02-portakalli-findikli-krokan-lokum": {
+    "usta-1111101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1111.10101": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1111.10102": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1111.10103": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1111.10105": {
+          "TRY": 800
         }
       }
     },
-    "200-05-01-baharatli-kudret-lokum": {
+    "usta-1110100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1110.10001": {
+          "TRY": 4050
         },
-        "S": {
-          "TRY": null
+        "1110.10002": {
+          "TRY": 2250
         },
-        "M": {
-          "TRY": null
+        "1110.10003": {
+          "TRY": 1620
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1110.10004": {
+          "TRY": 900
         }
       }
     },
-    "200-05-02-cevizli-bandirma": {
+    "usta-1110102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1110.10201": {
+          "TRY": 4050
         },
-        "S": {
-          "TRY": null
+        "1110.10202": {
+          "TRY": 2250
         },
-        "M": {
-          "TRY": null
+        "1110.10203": {
+          "TRY": 1620
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1110.10204": {
+          "TRY": 900
         }
       }
     },
-    "200-05-03-cikolatali-sultan-lokum": {
+    "usta-1110103": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1110.10301": {
+          "TRY": 4050
         },
-        "S": {
-          "TRY": null
+        "1110.10302": {
+          "TRY": 2250
         },
-        "M": {
-          "TRY": null
+        "1110.10303": {
+          "TRY": 1620
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1110.10304": {
+          "TRY": 900
         }
       }
     },
-    "200-05-04-fistikli-sultan-lokum": {
+    "usta-1110104": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1110.10401": {
+          "TRY": 4050
         },
-        "S": {
-          "TRY": null
+        "1110.10402": {
+          "TRY": 2250
         },
-        "M": {
-          "TRY": null
+        "1110.10403": {
+          "TRY": 1620
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1110.10404": {
+          "TRY": 900
         }
       }
     },
-    "200-06-01-damla-sakizli-lokum": {
+    "usta-1110105": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1110.10501": {
+          "TRY": 4050
         },
-        "S": {
-          "TRY": null
+        "1110.10502": {
+          "TRY": 2250
         },
-        "M": {
-          "TRY": null
+        "1110.10503": {
+          "TRY": 1620
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1110.10504": {
+          "TRY": 900
         }
       }
     },
-    "200-06-02-gullu-lokum": {
+    "usta-1110107": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1110.10701": {
+          "TRY": 4050
         },
-        "S": {
-          "TRY": null
+        "1110.10702": {
+          "TRY": 2250
         },
-        "M": {
-          "TRY": null
+        "1110.10703": {
+          "TRY": 1620
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1110.10704": {
+          "TRY": 900
         }
       }
     },
-    "200-06-03-kus-lokumu": {
+    "usta-1111104": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1111.10401": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1111.10402": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1111.10403": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1111.10404": {
+          "TRY": 800
         }
       }
     },
-    "200-06-04-limonlu-lokum": {
+    "usta-1111100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1111.10001": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1111.10002": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1111.10003": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1111.10004": {
+          "TRY": 800
         }
       }
     },
-    "200-06-05-naneli-lokum": {
+    "usta-1111102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1111.10201": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1111.10202": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1111.10203": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1111.10204": {
+          "TRY": 800
         }
       }
     },
-    "200-06-06-narli-lokum": {
+    "usta-1110101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1110.10101": {
+          "TRY": 4050
         },
-        "S": {
-          "TRY": null
+        "1110.10102": {
+          "TRY": 2250
         },
-        "M": {
-          "TRY": null
+        "1110.10103": {
+          "TRY": 1620
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1110.10104": {
+          "TRY": 900
         }
       }
     },
-    "200-06-07-portakalli-lokum": {
+    "usta-1110106": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1110.10601": {
+          "TRY": 4050
         },
-        "S": {
-          "TRY": null
+        "1110.10602": {
+          "TRY": 2250
         },
-        "M": {
-          "TRY": null
+        "1110.10603": {
+          "TRY": 1620
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1110.10604": {
+          "TRY": 900
         }
       }
     },
-    "200-06-08-sade-lokum": {
+    "usta-1111103": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1111.10301": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1111.10302": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1111.10303": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1111.10304": {
+          "TRY": 800
         }
       }
     },
-    "200-06-09-tarcinli-lokum": {
+    "usta-1111105": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1111.10501": {
+          "TRY": 3600
         },
-        "S": {
-          "TRY": null
+        "1111.10502": {
+          "TRY": 2000
         },
-        "M": {
-          "TRY": null
+        "1111.10503": {
+          "TRY": 1440
         },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1111.10504": {
+          "TRY": 800
         }
       }
     }

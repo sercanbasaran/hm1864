@@ -150,7 +150,7 @@
       },
       "items": [
         {
-          "id": "products-1",
+          "id": "baklavalar",
           "enabled": true,
           "label": {
             "tr": "Baklavalar"
@@ -158,15 +158,23 @@
           "url": "urunler/baklavalar/index.html"
         },
         {
-          "id": "products-2",
+          "id": "pastalar",
           "enabled": true,
           "label": {
-            "tr": "Lokumlar"
+            "tr": "Pastalar"
           },
-          "url": "urunler/lokumlar/index.html"
+          "url": "urunler/pastalar/index.html"
         },
         {
-          "id": "products-3",
+          "id": "muhallebiler",
+          "enabled": true,
+          "label": {
+            "tr": "Muhallebiler"
+          },
+          "url": "urunler/muhallebiler/index.html"
+        },
+        {
+          "id": "kadayiflar",
           "enabled": true,
           "label": {
             "tr": "Kadayıflar"
@@ -174,44 +182,20 @@
           "url": "urunler/kadayiflar/index.html"
         },
         {
-          "id": "products-4",
+          "id": "trileceler",
           "enabled": true,
           "label": {
-            "tr": "Kahveler"
+            "tr": "Trileçeler"
           },
-          "url": "urunler/kahveler/index.html"
+          "url": "urunler/trileceler/index.html"
         },
         {
-          "id": "products-5",
+          "id": "lokumlar",
           "enabled": true,
           "label": {
-            "tr": "Çaylar"
+            "tr": "Lokumlar"
           },
-          "url": "urunler/caylar/index.html"
-        },
-        {
-          "id": "products-6",
-          "enabled": true,
-          "label": {
-            "tr": "Kahvaltılıklar"
-          },
-          "url": "urunler/kahvaltiliklar/index.html"
-        },
-        {
-          "id": "products-7",
-          "enabled": true,
-          "label": {
-            "tr": "İlaveler"
-          },
-          "url": "urunler/ilaveler/index.html"
-        },
-        {
-          "id": "products-8",
-          "enabled": true,
-          "label": {
-            "tr": "Tüm Lezzetler"
-          },
-          "url": "urunler/index.html"
+          "url": "urunler/lokumlar/index.html"
         }
       ]
     },

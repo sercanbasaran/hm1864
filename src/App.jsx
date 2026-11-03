@@ -1,3 +1,5 @@
+import { useMemo } from "react";
+import { catalogForChannel } from "./catalog-channel.js";
 import Breadcrumb from "./components/Breadcrumb.jsx";
 import { buildBreadcrumbs } from "./routing/breadcrumbs.js";
 import routes from "./routes.json";
@@ -23,17 +25,18 @@ export default function App() {
     error,
     loading,
     preferences,
-    data,
+    data: catalogData,
     setPreferences,
     t,
   } = useCatalog();
   const [modal, setModal] = useState(() =>
     read("hm1864.react.preferences", null) ? null : "region",
   );
-  const favorites = useFavorites();
+  const favorites = useFavorites(catalogData);
   const [lightbox, setLightbox] = useState(null);
-  const { path, navigate, goTo } = useNavigation(setModal);
-  const commerce = useDemoCommerce(data, preferences?.currency || regions?.defaultCurrency || 'TRY');
+  const { path, locationKey, channel, navigate, goTo } = useNavigation(setModal);
+  const data = useMemo(() => catalogForChannel(catalogData, channel), [catalogData, channel]);
+  const commerce = useDemoCommerce(catalogData, preferences?.currency || regions?.defaultCurrency || 'TRY');
   const route = useResolvedRoute({
     data,
     path,
@@ -78,6 +81,8 @@ export default function App() {
     <AppContext.Provider
       value={{
         data,
+        catalogData,
+        channel,
         regions,
         content,
         modal,
@@ -94,7 +99,7 @@ export default function App() {
     >
       <div onClick={navigate}>
         <Header />
-        <main id="main" key={path}>
+        <main id="main" key={locationKey}>
           <Breadcrumb items={breadcrumbs} />
           <Page route={route} />
         </main>

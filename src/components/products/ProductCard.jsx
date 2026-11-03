@@ -1,3 +1,4 @@
+import { channelUrl } from "../../catalog-channel.js";
 import { cardBoxImage } from "../../utils/card-box-image.js";
 import FavoriteButton from "./FavoriteButton.jsx";
 import Icon from "../Icon.jsx";
@@ -15,7 +16,7 @@ import { productCardContent, isOnlineSaleUnavailable } from "../../utils/product
 export default function Card({ product: p }) {
   const t = useText(),
     { currency, language, missing } = usePrice();
-  const { content, commerce, setModal } = useApp();
+  const { content, commerce, setModal, channel } = useApp();
   const [selection, setSelection] = useState(null);
   const defaultCode = p.variants.reduce((best, variant) => {
     const option = choice(p, variant.code, currency);
@@ -36,7 +37,7 @@ export default function Card({ product: p }) {
   return (
     <article className="product-card">
       <FavoriteButton product={p} compact />
-      <a className={'product-picture' + (boxPhoto ? ' has-box-preview' : '')} href={local(p.url)}>
+      <a className={'product-picture' + (boxPhoto ? ' has-box-preview' : '')} href={local(channelUrl(p.url, channel))}>
         <Media src={imageUrl(p.images[0])} alt={p.name} className="card-studio-photo" />
         {boxPhoto && <span className="card-box-photo" aria-hidden="true" key={boxPhoto}><Media src={boxPhoto} alt="" /></span>}
       </a>
@@ -45,7 +46,7 @@ export default function Card({ product: p }) {
       </small>
       <div className="product-card-body">
         <h3>
-          <a href={local(p.url)}>
+          <a href={local(channelUrl(p.url, channel))}>
             <RichText value={p.name} />
           </a>
         </h3>
@@ -74,7 +75,7 @@ export default function Card({ product: p }) {
             onClick={() => { if (canAdd && commerce.addToCart(p, cartCode, 1)) setModal('cart'); }}>
             <RichText value={t("commerce.add")} />
           </button>
-          <a className="button card-view-product" href={local(p.url)}>
+          <a className="button card-view-product" href={local(channelUrl(p.url, channel))}>
             <RichText value={t("template.0127")} />
           </a>
         </div>

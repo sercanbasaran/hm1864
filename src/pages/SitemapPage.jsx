@@ -1,3 +1,4 @@
+import { channelUrl } from "../catalog-channel.js";
 import React from "react";
 import { brandText } from "../brand-content.js";
 import { useApp } from "../context/AppContext.jsx";
@@ -7,7 +8,7 @@ import RichText from "../RichText.jsx";
 import routes from "../routes.json";
 
 export default function SitemapPage() {
-  const { data, preferences } = useApp();
+  const { data, preferences, channel } = useApp();
   const t = useText();
   return (
     <section className="sitemap">
@@ -17,6 +18,7 @@ export default function SitemapPage() {
       <ul>
         {Object.entries({
           ...routes,
+          ...Object.fromEntries([...data.categories,...data.subcategories,...data.products].map(item=>[item.url,{title:item.name}])),
           ...Object.fromEntries(
             (data.brandPages || []).map((page) => [
               page.url,
@@ -35,7 +37,7 @@ export default function SitemapPage() {
           ),
         }).map(([url, r]) => (
           <li key={url}>
-            <a href={local(url)}>
+            <a href={local(channelUrl(url,channel))}>
               {r.titleKey
                 ? t(r.titleKey)
                 : r.product

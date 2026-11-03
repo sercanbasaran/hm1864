@@ -1,9 +1,12 @@
 import { useState, useEffect } from "react";
+import { menuChannel, channelUrl } from "../catalog-channel.js";
 export function useNavigation(setModal) {
-  const [path, setPath] = useState(location.pathname);
+  const [locationKey, setPath] = useState(location.pathname + location.search);
+  const path = locationKey.split("?")[0];
+  const channel = menuChannel(locationKey.includes("?") ? locationKey.slice(locationKey.indexOf("?")) : "");
   useEffect(() => {
     const pop = () => {
-      setPath(location.pathname);
+      setPath(location.pathname + location.search);
       setModal(null);
       window.scrollTo(0, 0);
     };
@@ -13,7 +16,7 @@ export function useNavigation(setModal) {
   const goTo = path => {
     document.querySelector("dialog[open]")?.close();
     history.pushState(null, "", path);
-    setPath(new URL(path, location.href).pathname);
+    setPath(new URL(path, location.href).pathname + new URL(path, location.href).search);
     setModal(null);
     window.scrollTo(0, 0);
   };
@@ -35,7 +38,10 @@ export function useNavigation(setModal) {
     if (url.origin !== location.origin || url.hash) return;
     if (!/\.html$|\/$/.test(url.pathname)) return;
     e.preventDefault();
-    goTo(url.pathname + url.search);
+    // Preserve store context for product/category links; explicit online links can opt out.
+    const requested = a.getAttribute("data-menu-channel");
+    const destination = requested === "online" ? channelUrl(url.pathname + url.search, "online") : url.searchParams.has("menu") ? url.pathname + url.search : channelUrl(url.pathname + url.search, channel);
+    goTo(destination);
   };
-  return { path, navigate, goTo };
+  return { path, locationKey, channel, navigate, goTo };
 }

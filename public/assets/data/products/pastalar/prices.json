@@ -2,525 +2,237 @@
   "schemaVersion": 1,
   "categoryId": "pastalar",
   "products": {
-    "500-0101-lotus-kulesi": {
+    "usta-1613100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1613.10001": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1613.10002": {
+          "TRY": 2750
         }
       }
     },
-    "500-0201-diplomat": {
+    "usta-1615100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1615.10001": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1615.10002": {
+          "TRY": 2750
         }
       }
     },
-    "500-0202-kara-sevda": {
+    "usta-1610100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1610.10001": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1610.10002": {
+          "TRY": 2750
         }
       }
     },
-    "500-0203-siyah-inci": {
+    "usta-1616100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1616.10001": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1616.10002": {
+          "TRY": 2750
         }
       }
     },
-    "500-0301-cilek-ruyasi": {
+    "usta-1615102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1615.10201": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1615.10202": {
+          "TRY": 2750
         }
       }
     },
-    "500-0302-ilk-ask": {
+    "usta-1611100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1611.10001": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1611.10002": {
+          "TRY": 2750
         }
       }
     },
-    "500-0303-pembe-ruya": {
+    "usta-1611103": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1611.10301": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1611.10302": {
+          "TRY": 2750
         }
       }
     },
-    "500-0304-son-ask": {
+    "usta-1616101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1616.10101": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1616.10102": {
+          "TRY": 2750
         }
       }
     },
-    "500-0401-istanbul-hikayesi": {
+    "usta-1615101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1615.10101": {
+          "TRY": 2750
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1615.10102": {
+          "TRY": 460
         }
       }
     },
-    "500-05-01-cikolat-ahu": {
+    "usta-1612101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1612.10101": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1612.10102": {
+          "TRY": 2750
         }
       }
     },
-    "500-0502-tatli-ahu": {
+    "usta-1617101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1617.10101": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1617.10102": {
+          "TRY": 2750
         }
       }
     },
-    "500-0601-cikolatali-meyve-bahcesi": {
+    "usta-1617100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1617.10001": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1617.10002": {
+          "TRY": 2750
         }
       }
     },
-    "500-0602-meyve-bahcesi": {
+    "usta-1614101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1614.10101": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1614.10102": {
+          "TRY": 2750
         }
       }
     },
-    "500-0701-beyaz-inci": {
+    "usta-1612102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1612.10201": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1612.10202": {
+          "TRY": 2750
         }
       }
     },
-    "500-0702-buyuk-ask": {
+    "usta-1612100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1612.10001": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1612.10002": {
+          "TRY": 2750
         }
       }
     },
-    "500-0703-sonsuz-ask": {
+    "usta-1611102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1611.10201": {
+          "TRY": 2750
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1611.10202": {
+          "TRY": 460
         }
       }
     },
-    "500-0801-amazon-buyusu": {
+    "usta-1611101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1611.10101": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1611.10102": {
+          "TRY": 2750
         }
       }
     },
-    "500-0802-amazon-hikayesi": {
+    "usta-1614100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "dilim": {
-          "TRY": 460,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 62,
-          "SEK": 93,
-          "CNY": 62,
-          "JPY": 1479
+        "1614.10001": {
+          "TRY": 460
         },
-        "baton": {
-          "TRY": 2750,
-          "USD": 56,
-          "EUR": 50,
-          "AED": 205,
-          "GBP": 42,
-          "DKK": 373,
-          "SEK": 558,
-          "CNY": 374,
-          "JPY": 8840
+        "1614.10002": {
+          "TRY": 2750
         }
       }
     }

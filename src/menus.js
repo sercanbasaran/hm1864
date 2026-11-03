@@ -1,16 +1,19 @@
 
+import { catalogForChannel, channelUrl } from "./catalog-channel.js";
 export const visibleItems=items=>(items||[]).filter(item=>item.enabled!==false);
 export const menuText=(value,language='tr')=>typeof value==='string'?value:value?.[language]||value?.tr||'';
 const catalogMenuUrl=(override,fallback)=>override&&!/^\/?magaza-menu(?:\/|$)/.test(override)?override:fallback;
-export function categoryMenu(data,entries,language='tr'){
+export function categoryMenu(data,entries,language='tr',channel='online'){
+  const scoped = catalogForChannel(data, channel);
+  const url = value => data.catalogChannels ? channelUrl(value, channel) : value;
   return visibleItems(entries).flatMap(entry=>{
-    const category=data.categories.find(c=>c.id===entry.categoryId);
+    const category=scoped.categories.find(c=>c.id===entry.categoryId);
     if(!category)return [];
     const children=visibleItems(entry.children).flatMap(item=>{
-      const sub=data.subcategories.find(s=>s.id===item.subcategoryId&&s.categoryId===category.id);
-      return sub?[{...sub,catalogName:sub.name,name:menuText(item.label,language)||sub.name,url:catalogMenuUrl(item.url,sub.url)}]:[];
+      const sub=scoped.subcategories.find(s=>s.id===item.subcategoryId&&s.categoryId===category.id);
+      return sub?[{...sub,catalogName:sub.name,name:menuText(item.label,language)||sub.name,url:url(catalogMenuUrl(item.url,sub.url))}]:[];
     });
-    return [{...category,catalogName:category.name,name:menuText(entry.label,language)||category.name,url:catalogMenuUrl(entry.url,category.url),children}];
+    return [{...category,catalogName:category.name,name:menuText(entry.label,language)||category.name,url:url(catalogMenuUrl(entry.url,category.url)),children}];
   });
 }
 export function primaryMenu(data,language){

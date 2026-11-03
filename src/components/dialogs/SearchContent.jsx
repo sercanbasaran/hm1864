@@ -1,3 +1,4 @@
+import { channelUrl } from "../../catalog-channel.js";
 import React from "react";
 import { useApp } from "../../context/AppContext.jsx";
 import { useText } from "../../hooks/useText.js";
@@ -9,7 +10,7 @@ import { match, cardPrice, imageUrl } from "../../model.js";
 import Media from "../Media.jsx";
 
 export default function SearchContent({ query, setQuery }) {
-  const { data } = useApp();
+  const { data, channel } = useApp();
   const t = useText();
   const { currency, language, missing } = usePrice();
   const matches = data.products.filter((p) => match(p, query));
@@ -27,10 +28,10 @@ export default function SearchContent({ query, setQuery }) {
       <div>
         {matches.map((p) => (
           <article className="search-result" key={p.key}>
-            <a href={local(p.url)}>
+            <a href={local(channelUrl(p.url, channel))}>
               <Media src={imageUrl(p.images[0])} alt={p.name} />
             </a>
-            <a href={local(p.url)}>
+            <a href={local(channelUrl(p.url, channel))}>
               <h4>
                 <RichText value={p.name} />
               </h4>
@@ -38,7 +39,7 @@ export default function SearchContent({ query, setQuery }) {
                 {cardPrice(p, missing, t("ui.from"), currency, language)}
               </small>
             </a>
-            <a href={local(p.url)}>
+            <a href={local(channelUrl(p.url, channel))}>
               <RichText value={t("ui.copy.011")} />
             </a>
           </article>

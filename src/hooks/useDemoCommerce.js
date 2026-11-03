@@ -9,6 +9,10 @@ export function useDemoCommerce(data, currency) {
   const accounts = useRef(new Map());
   const rows = useMemo(() => cartRows(items, data, currency), [items, data, currency]);
   useEffect(() => save('hm1864.demo.cart', items), [items]);
+  useEffect(() => {
+    if (!data?.catalogChannels) return;
+    setItems(previous => { const next = previous.filter(item => data.products.some(p => p.key === item.key && p.variants.some(v => v.code === item.variant))); return next.length === previous.length ? previous : next; });
+  }, [data]);
   const addToCart = (product, variant, quantity) => {
     const selected = choice(product, variant, currency);
     if (selected.onlineSale === false || !validPrice(selected.price) || (selected.stock != null && selected.stock < quantity)) return false;

@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import fs from 'node:fs/promises';
+import fs from './fixture-fs.js';
 import { Window } from 'happy-dom';
 import { loadAuthoringData } from '../src/data-loader.js';
 import { cleanFavorites } from '../src/hooks/useFavorites.js';

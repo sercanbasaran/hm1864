@@ -3,20 +3,21 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import {loadAuthoringData} from '../src/data-loader.js';
 import {categoryMenu,primaryMenu,menuText,validateMenus} from '../src/menus.js';
+import {catalogForChannel,channelUrl} from '../src/catalog-channel.js';
 import {footerMenuNodes} from '../src/utils/menu-template.js';
 const {catalog:data}=await loadAuthoringData(async file=>JSON.parse(await fs.readFile('public/assets/data/'+file,'utf8')));
 test('independent menu sources control ordering, visibility and labels without changing taxonomy',()=>{
  const copy=structuredClone(data),first=copy.menus.mobile.categories[0];
  first.enabled=false;copy.menus.mobile.categories.reverse();
  assert.notEqual(categoryMenu(copy,copy.menus.mobile.categories)[0].id,first.categoryId);
- assert.equal(categoryMenu(copy,copy.menus.mobile.categories).length,copy.menus.mobile.categories.length-1);
+ assert.equal(categoryMenu(copy,copy.menus.mobile.categories).length,catalogForChannel(copy).categories.filter(c=>c.id!==first.categoryId).length);
  assert.equal(categoryMenu(copy,copy.menus.mega.tabs[0].categories).length,copy.menus.mega.tabs[0].categories.length);
  copy.menus.header.primary[1].label={tr:'Yeni başlık',en:'New title'};
  assert.equal(primaryMenu(copy,'en')[1].name,'New title');
  const category=copy.menus.mega.tabs[0].categories[0];category.label={tr:'Özel başlık'};category.children[0].url='/custom/index.html';
  assert.equal(categoryMenu(copy,[category])[0].name,'Özel başlık');
  assert.equal(categoryMenu(copy,[category])[0].children[0].url,'/custom/index.html');
- assert.equal(categoryMenu(copy,[category],'en','store')[0].url,copy.categories.find(c=>c.id===category.categoryId).url);
+ assert.equal(categoryMenu(copy,[category],'en','store')[0].url,channelUrl(copy.categories.find(c=>c.id===category.categoryId).url,'store'));
  assert.equal(menuText({tr:'Yedek',en:''},'en'),'Yedek');
 });
 test('footer order, titles, disabled links and social destinations are authored',()=>{
@@ -40,13 +41,13 @@ test('invalid destinations, duplicate IDs and broken category/page references st
 test('both mega menu tabs link to the canonical product hierarchy', async()=>{
  for(const tab of data.menus.mega.tabs){
   for(const category of categoryMenu(data,tab.categories,'tr',tab.id)){
-   assert.equal(category.url,data.categories.find(c=>c.id===category.id).url);
+   assert.equal(category.url,channelUrl(data.categories.find(c=>c.id===category.id).url,tab.id));
    assert.match(category.url,/^urunler\//);
-   await fs.access('dist/'+category.url);
+   await fs.access('dist/'+category.url.split('?')[0]);
    for(const sub of category.children){
-    assert.equal(sub.url,data.subcategories.find(s=>s.id===sub.id).url);
+    assert.equal(sub.url,channelUrl(data.subcategories.find(s=>s.id===sub.id).url,tab.id));
     assert.ok(sub.url.startsWith('urunler/'+category.id+'/'));
-    await fs.access('dist/'+sub.url);
+    await fs.access('dist/'+sub.url.split('?')[0]);
    }
   }
  }
@@ -55,6 +56,6 @@ test('old store-menu URL overrides fall back to the matching catalog destination
  const entry=structuredClone(data.menus.mega.tabs[1].categories[0]);
  entry.url='/magaza-menu/old/index.html';entry.children[0].url='/magaza-menu/old/sub/index.html';
  const result=categoryMenu(data,[entry],'tr','store')[0];
- assert.equal(result.url,data.categories.find(c=>c.id===entry.categoryId).url);
- assert.equal(result.children[0].url,data.subcategories.find(s=>s.id===entry.children[0].subcategoryId).url);
+ assert.equal(result.url,channelUrl(data.categories.find(c=>c.id===entry.categoryId).url,'store'));
+ assert.equal(result.children[0].url,channelUrl(data.subcategories.find(s=>s.id===entry.children[0].subcategoryId).url,'store'));
 });

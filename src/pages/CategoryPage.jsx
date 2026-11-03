@@ -9,9 +9,9 @@ import Card from "../components/products/ProductCard.jsx";
 import { match } from "../model.js";
 
 export default function CategoryPage({ category: c }) {
-  const { data,preferences,regions } = useApp();
+  const { data,preferences,regions,channel } = useApp();
   const language=preferences?.language||regions.defaultLanguage;
-  const menu=categoryMenu(data,data.menus.category.groups,language).find(item=>item.id===(c.categoryId||c.id));
+  const menu=categoryMenu(data,data.menus.category.groups,language,channel).find(item=>item.id===(c.categoryId||c.id));
   const t = useText();
   const [query, setQuery] = useState(""),
     [sort, setSort] = useState("default"),

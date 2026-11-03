@@ -3,853 +3,1537 @@
   "categoryId": "muhallebiler",
   "products": [
     {
-      "code": "600-01-01",
-      "key": "600-01-01-asure",
-      "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/asure.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0101_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-01-01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0101_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true
-    },
-    {
-      "code": "600-01-02",
-      "key": "600-01-02-firin-sutlac",
-      "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/firin-sutlac.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0102_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-01-02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0102_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true
-    },
-    {
-      "code": "600-01-03",
-      "key": "600-01-03-tavukgogsu",
-      "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/tavukgogsu.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0103_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-01-03",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0103_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true
-    },
-    {
-      "code": "600-01-04",
-      "key": "600-01-04-zerde",
-      "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/zerde.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0104_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-01-04",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0104_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true
-    },
-    {
-      "code": "600-02-01",
-      "key": "600-02-01-fistikli-kazandibi",
+      "key": "usta-1811100",
+      "code": "1811100",
+      "sourceProductId": 68,
       "url": "urunler/muhallebiler/kazandibiler/fistikli-kazandibi.html",
       "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0201_01.webp"
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/kazandibiler",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/9aaea56c-c20e-43e8-9874-2427e0a0700a/content"
       ],
       "stock": null,
       "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/kazandibiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.66,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
       "variants": [
         {
-          "code": "porsiyon",
-          "sku": "600-02-01",
-          "stock": null,
+          "code": "1811.10001",
+          "sku": "1811.10001",
+          "sourceVariantId": "7cb46e18-fb0d-4576-ba31-b71ed9e49e41",
+          "name": "Fıstıklı Kazandibi [Tabakta Servis]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/9aaea56c-c20e-43e8-9874-2427e0a0700a/content"
+          ],
+          "sourceBoxImageUrls": [],
           "onlineSale": false,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0201_01.webp"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Fıstıklı Kazandibi",
+          "type": "Tabakta Servis",
+          "unit": "Gram",
+          "quantity": 270,
+          "netWeight": 270,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": false,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "68",
+              "productKey": "usta-1811100",
+              "name": "Fıstıklı Kazandibi",
+              "quantity": 270,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.66,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 270
+              }
+            }
+          ],
+          "packageContents": []
         }
       ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-05-fistikli-kazandibi"
-      ]
+      "defaultVariant": "1811.10001"
     },
     {
-      "code": "600-02-02",
-      "key": "600-02-02-safranli-kazandibi",
+      "key": "usta-1811101",
+      "code": "1811101",
+      "sourceProductId": 69,
       "url": "urunler/muhallebiler/kazandibiler/safranli-kazandibi.html",
       "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0202_01.webp"
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/kazandibiler",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/cb5c4c71-68f6-448b-b0ec-0336cf950f6d/content"
       ],
       "stock": null,
       "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/kazandibiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.63,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
       "variants": [
         {
-          "code": "porsiyon",
-          "sku": "600-02-02",
-          "stock": null,
+          "code": "1811.10101",
+          "sku": "1811.10101",
+          "sourceVariantId": "4090944f-af72-4294-978f-a3dbddae7720",
+          "name": "Safranlı Kazandibi [Tabakta Servis]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/cb5c4c71-68f6-448b-b0ec-0336cf950f6d/content"
+          ],
+          "sourceBoxImageUrls": [],
           "onlineSale": false,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0202_01.webp"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Safranlı Kazandibi",
+          "type": "Tabakta Servis",
+          "unit": "Gram",
+          "quantity": 275,
+          "netWeight": 275,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": false,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "69",
+              "productKey": "usta-1811101",
+              "name": "Safranlı Kazandibi",
+              "quantity": 275,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.63,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 275
+              }
+            }
+          ],
+          "packageContents": []
         }
       ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-06-safranli-kazandibi"
-      ]
+      "defaultVariant": "1811.10101"
     },
     {
-      "code": "600-02-03",
-      "key": "600-02-03-damla-sakizli-kazandibi",
-      "url": "urunler/muhallebiler/kazandibiler/sakizli-kazandibi.html",
+      "key": "usta-1811102",
+      "code": "1811102",
+      "sourceProductId": 70,
+      "url": "urunler/muhallebiler/kazandibiler/damla-sakizli-kazandibi.html",
       "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0203_01.webp"
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/kazandibiler",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/583d1cf9-8d1a-42ba-9689-29720b66108f/content"
       ],
       "stock": null,
       "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/kazandibiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.66,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
       "variants": [
         {
-          "code": "porsiyon",
-          "sku": "600-02-03",
-          "stock": null,
+          "code": "1811.10201",
+          "sku": "1811.10201",
+          "sourceVariantId": "3d6e2f20-66c2-4575-a751-f2994c8948af",
+          "name": "Damla Sakızlı Kazandibi [Tabakta Servis]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/583d1cf9-8d1a-42ba-9689-29720b66108f/content"
+          ],
+          "sourceBoxImageUrls": [],
           "onlineSale": false,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0203_01.webp"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Damla Sakızlı Kazandibi",
+          "type": "Tabakta Servis",
+          "unit": "Gram",
+          "quantity": 270,
+          "netWeight": 270,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": false,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "70",
+              "productKey": "usta-1811102",
+              "name": "Damla Sakızlı Kazandibi",
+              "quantity": 270,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.66,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 270
+              }
+            }
+          ],
+          "packageContents": []
         }
       ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-07-sakizli-kazandibi"
-      ]
+      "defaultVariant": "1811.10201"
     },
     {
-      "code": "600-02-04",
-      "key": "600-02-04-tavukgogsu-kazandibi",
+      "key": "usta-1811103",
+      "code": "1811103",
+      "sourceProductId": 71,
       "url": "urunler/muhallebiler/kazandibiler/tavukgogsu-kazandibi.html",
       "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0204_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/kazandibiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-02-04",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0204_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-08-tavukgogsu-kazandibi"
-      ]
-    },
-    {
-      "code": "600-03-01",
-      "key": "600-03-01-ahududulu-sut-muhallebisi",
-      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/ahududulu-sut-muhallebisi.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0301_01.webp"
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/4a32f4ff-4ed2-4bdf-a788-758deb585cca/content"
       ],
       "stock": null,
       "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.73,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
       "variants": [
         {
-          "code": "porsiyon",
-          "sku": "600-03-01",
-          "stock": null,
+          "code": "1811.10301",
+          "sku": "1811.10301",
+          "sourceVariantId": "2d6da54d-6ded-4e81-a92c-4a1fb91b8560",
+          "name": "Tavukgöğsü Kazandibi [Tabakta Servis]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/4a32f4ff-4ed2-4bdf-a788-758deb585cca/content"
+          ],
+          "sourceBoxImageUrls": [],
           "onlineSale": false,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0301_01.webp"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Tavukgöğsü Kazandibi",
+          "type": "Tabakta Servis",
+          "unit": "Gram",
+          "quantity": 260,
+          "netWeight": 260,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": false,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "71",
+              "productKey": "usta-1811103",
+              "name": "Tavukgöğsü Kazandibi",
+              "quantity": 260,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.73,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 260
+              }
+            }
+          ],
+          "packageContents": []
         }
       ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-09-ahududulu-sut-muhallebisi"
-      ]
+      "defaultVariant": "1811.10301"
     },
     {
-      "code": "600-03-02",
-      "key": "600-03-02-cilekli-cikolatali-muhallebi",
-      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/cilekli-cikolatali-muhallebi.html",
+      "key": "usta-1810102",
+      "code": "1810102",
+      "sourceProductId": 66,
+      "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/tavukgogsu.html",
       "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0302_01.webp"
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/32427dca-16aa-470c-b304-d3f5464fdc0b/content"
       ],
       "stock": null,
       "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.73,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
       "variants": [
         {
-          "code": "porsiyon",
-          "sku": "600-03-02",
-          "stock": null,
+          "code": "1810.10201",
+          "sku": "1810.10201",
+          "sourceVariantId": "5fd372c8-0302-4fcd-8268-236ad891af01",
+          "name": "Tavukgöğsü [Tabakta Servis]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/32427dca-16aa-470c-b304-d3f5464fdc0b/content"
+          ],
+          "sourceBoxImageUrls": [],
           "onlineSale": false,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0302_01.webp"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Tavukgöğsü",
+          "type": "Tabakta Servis",
+          "unit": "Gram",
+          "quantity": 260,
+          "netWeight": 260,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": false,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "66",
+              "productKey": "usta-1810102",
+              "name": "Tavukgöğsü",
+              "quantity": 260,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.73,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 260
+              }
+            }
+          ],
+          "packageContents": []
         }
       ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-10-cilekli-cikolatali-muhallebi"
-      ]
+      "defaultVariant": "1810.10201"
     },
     {
-      "code": "600-03-03",
-      "key": "600-03-03-cilekli-sut-muhallebisi",
-      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/cilekli-sut-muhallebisi.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0303_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-03-03",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0303_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-11-cilekli-sut-muhallebisi"
-      ]
-    },
-    {
-      "code": "600-03-04",
-      "key": "600-03-04-damla-sakizli-sut-muhallebisi",
-      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/damla-sakizli-sut-muhallebisi.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0304_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-03-04",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0304_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-12-damla-sakizli-sut-muhallebisi"
-      ]
-    },
-    {
-      "code": "600-03-05",
-      "key": "600-03-05-fistikli-sut-muhallebisi",
-      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/fistikli-sut-muhallebisi.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0305_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-03-05",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0305_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-13-fistikli-sut-muhallebisi"
-      ]
-    },
-    {
-      "code": "600-03-06",
-      "key": "600-03-06-incirli-sut-muhallebisi",
-      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/incirli-sut-muhallebisi.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0306_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-03-06",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0306_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-14-incirli-sut-muhallebisi"
-      ]
-    },
-    {
-      "code": "600-03-07",
-      "key": "600-03-07-karamelli-findikli-sut-muhallebisi",
-      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/karamelli-findikli-sut-muhallebisi.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0307_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-03-07",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0307_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-15-karamelli-findikli-sut-muhallebisi"
-      ]
-    },
-    {
-      "code": "600-03-08",
-      "key": "600-03-08-keskul-u-fukara",
-      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/keskul-u-fukara.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0308_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-03-08",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0308_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-16-keskul-u-fukara"
-      ]
-    },
-    {
-      "code": "600-03-09",
-      "key": "600-03-09-orman-meyveli-sut-muhallebisi",
-      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/orman-meyveli-sut-muhallebisi.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0309_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-03-09",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0309_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-17-orman-meyveli-sut-muhallebisi"
-      ]
-    },
-    {
-      "code": "600-04-01",
-      "key": "600-04-01-lotuslu-kasik-pasta",
-      "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/lotuslu-kasik-pasta.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0401_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-04-01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0401_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-18-lotuslu-kasik-pasta"
-      ]
-    },
-    {
-      "code": "600-04-02",
-      "key": "600-04-02-profiterol",
-      "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/profiterol.html",
-      "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0402_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "categoryId": "muhallebiler",
-      "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [
-        {
-          "code": "porsiyon",
-          "sku": "600-04-02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0402_01.webp"
-          ]
-        }
-      ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-19-profiterol"
-      ]
-    },
-    {
-      "code": "600-04-03",
-      "key": "600-04-03-supangle",
+      "key": "usta-1813102",
+      "code": "1813102",
+      "sourceProductId": 83,
       "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/supangle.html",
       "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0403_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/8628bccd-0c80-450d-9857-c7d895e0c26d/content"
       ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.12,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
       "variants": [
         {
-          "code": "porsiyon",
-          "sku": "600-04-03",
-          "stock": null,
-          "onlineSale": false,
+          "code": "1813.10201",
+          "sku": "1813.10201",
+          "sourceVariantId": "96bb6be1-0d97-4fa7-9623-4c396eec6181",
+          "name": "Supangle [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/8628bccd-0c80-450d-9857-c7d895e0c26d/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0403_01.webp"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Supangle",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 400,
+          "netWeight": 400,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "83",
+              "productKey": "usta-1813102",
+              "name": "Supangle",
+              "quantity": 400,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.12,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 400
+              }
+            }
+          ],
+          "packageContents": []
         }
       ],
-      "commonMarket": true,
-      "legacyKeys": [
-        "600-01-20-supangle"
-      ]
+      "defaultVariant": "1813.10201"
     },
     {
-      "code": "600-04-04",
-      "key": "600-04-04-sah-mat",
+      "key": "usta-1813103",
+      "code": "1813103",
+      "sourceProductId": 84,
       "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/sah-mat.html",
       "currency": "TRY",
-      "images": [
-        "muhallebiler/600_0404_01.webp"
-      ],
-      "stock": null,
-      "onlineSale": false,
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
-      "editorial": [
-        {
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/e13311ca-79ce-44f1-a5c8-9ad1cfe6a446/content"
       ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.12,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
       "variants": [
         {
-          "code": "porsiyon",
-          "sku": "600-04-04",
-          "stock": null,
-          "onlineSale": false,
+          "code": "1813.10301",
+          "sku": "1813.10301",
+          "sourceVariantId": "d11f6fa0-317f-459d-a1a9-5998e1ab1db9",
+          "name": "Şah Mat [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/e13311ca-79ce-44f1-a5c8-9ad1cfe6a446/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "muhallebiler/600_0404_01.webp"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Şah Mat",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 400,
+          "netWeight": 400,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "84",
+              "productKey": "usta-1813103",
+              "name": "Şah Mat",
+              "quantity": 400,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.12,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 400
+              }
+            }
+          ],
+          "packageContents": []
         }
       ],
+      "defaultVariant": "1813.10301"
+    },
+    {
+      "key": "usta-1813101",
+      "code": "1813101",
+      "sourceProductId": 82,
+      "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/profiterol.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/1d5d7e05-4af6-44b5-9697-f11e88033432/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
       "commonMarket": true,
-      "legacyKeys": [
-        "600-01-21-sah-mat"
-      ]
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.18,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1813.10101",
+          "sku": "1813.10101",
+          "sourceVariantId": "466318d1-472b-4937-8e8f-6367e7d4e044",
+          "name": "Profiterol [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/1d5d7e05-4af6-44b5-9697-f11e88033432/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Profiterol",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 380,
+          "netWeight": 380,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "82",
+              "productKey": "usta-1813101",
+              "name": "Profiterol",
+              "quantity": 380,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.18,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 380
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1813.10101"
+    },
+    {
+      "key": "usta-1813100",
+      "code": "1813100",
+      "sourceProductId": 81,
+      "url": "urunler/muhallebiler/ozel-kup-cikolatali-tatlilar/lotuslu-kasik-pasta.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/6a49baf2-0f08-4b7d-8f9b-f5181de6ce37/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.15,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1813.10001",
+          "sku": "1813.10001",
+          "sourceVariantId": "3e21e381-db35-41ff-ab59-e9e8481e5ef1",
+          "name": "Lotuslu Kaşık Pasta [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/6a49baf2-0f08-4b7d-8f9b-f5181de6ce37/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Lotuslu Kaşık Pasta",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 390,
+          "netWeight": 390,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "81",
+              "productKey": "usta-1813100",
+              "name": "Lotuslu Kaşık Pasta",
+              "quantity": 390,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.15,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 390
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1813.10001"
+    },
+    {
+      "key": "usta-1812105",
+      "code": "1812105",
+      "sourceProductId": 77,
+      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/incirli-sut-muhallebisi.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/3b0318fa-02f0-419a-a4d3-9e9daf8d608d/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.12,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1812.10501",
+          "sku": "1812.10501",
+          "sourceVariantId": "74e7d968-57b7-4025-b49d-215cee15a747",
+          "name": "İncirli Süt Muhallebisi [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/3b0318fa-02f0-419a-a4d3-9e9daf8d608d/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "İncirli Süt Muhallebisi",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 400,
+          "netWeight": 400,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "77",
+              "productKey": "usta-1812105",
+              "name": "İncirli Süt Muhallebisi",
+              "quantity": 400,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.12,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 400
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1812.10501"
+    },
+    {
+      "key": "usta-1812104",
+      "code": "1812104",
+      "sourceProductId": 76,
+      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/fistikli-sut-muhallebisi.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/3cf303d1-4eac-4431-935c-48647a915c07/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.12,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1812.10401",
+          "sku": "1812.10401",
+          "sourceVariantId": "4903518a-1ff8-41a2-b455-32b22612691c",
+          "name": "Fıstıklı Süt Muhallebisi [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/3cf303d1-4eac-4431-935c-48647a915c07/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Fıstıklı Süt Muhallebisi",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 400,
+          "netWeight": 400,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "76",
+              "productKey": "usta-1812104",
+              "name": "Fıstıklı Süt Muhallebisi",
+              "quantity": 400,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.12,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 400
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1812.10401"
+    },
+    {
+      "key": "usta-1810101",
+      "code": "1810101",
+      "sourceProductId": 65,
+      "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/firin-sutlac.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/aa42b555-ae41-4fc2-a4a7-a9041b080cd4/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.12,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1810.10101",
+          "sku": "1810.10101",
+          "sourceVariantId": "6f13b0b7-bd10-4cc2-94e1-d8b0025a54b5",
+          "name": "Fırın Sütlaç [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/aa42b555-ae41-4fc2-a4a7-a9041b080cd4/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Fırın Sütlaç",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 400,
+          "netWeight": 400,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "65",
+              "productKey": "usta-1810101",
+              "name": "Fırın Sütlaç",
+              "quantity": 400,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.12,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 400
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1810.10101"
+    },
+    {
+      "key": "usta-1812103",
+      "code": "1812103",
+      "sourceProductId": 75,
+      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/damla-sakizli-sut-muhallebisi.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/64a0199b-ba6f-4db9-8d30-17ce8493a0f1/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.66,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1812.10301",
+          "sku": "1812.10301",
+          "sourceVariantId": "25ea00c4-bc65-4520-9ba1-7ebf59fefb28",
+          "name": "Damla Sakızlı Süt Muhallebisi [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/64a0199b-ba6f-4db9-8d30-17ce8493a0f1/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Damla Sakızlı Süt Muhallebisi",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 270,
+          "netWeight": 270,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "75",
+              "productKey": "usta-1812103",
+              "name": "Damla Sakızlı Süt Muhallebisi",
+              "quantity": 270,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.66,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 270
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1812.10301"
+    },
+    {
+      "key": "usta-1812101",
+      "code": "1812101",
+      "sourceProductId": 73,
+      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/cilekli-cikolatali-muhallebi.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/aad624c6-5fd7-4557-beed-ae75eaea3670/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.15,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1812.10101",
+          "sku": "1812.10101",
+          "sourceVariantId": "9a90b8ad-98b3-4f3f-81b2-e32663a0a479",
+          "name": "Çilekli Çikolatalı Muhallebi [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/aad624c6-5fd7-4557-beed-ae75eaea3670/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Çilekli Çikolatalı Muhallebi",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 390,
+          "netWeight": 390,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "73",
+              "productKey": "usta-1812101",
+              "name": "Çilekli Çikolatalı Muhallebi",
+              "quantity": 390,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.15,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 390
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1812.10101"
+    },
+    {
+      "key": "usta-1812102",
+      "code": "1812102",
+      "sourceProductId": 74,
+      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/cilekli-sut-muhallebisi.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/dc934e8d-c45a-427c-ae90-7075877bfe48/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.13,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1812.10201",
+          "sku": "1812.10201",
+          "sourceVariantId": "3a80028e-f108-42c3-b4b5-47b8f1911bd7",
+          "name": "Çilekli Süt Muhallebisi [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/dc934e8d-c45a-427c-ae90-7075877bfe48/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Çilekli Süt Muhallebisi",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 395,
+          "netWeight": 395,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "74",
+              "productKey": "usta-1812102",
+              "name": "Çilekli Süt Muhallebisi",
+              "quantity": 395,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.13,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 395
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1812.10201"
+    },
+    {
+      "key": "usta-1810103",
+      "code": "1810103",
+      "sourceProductId": 67,
+      "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/zerde.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/bb44f848-aabf-4b76-abdb-2376f4a435c3/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.13,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1810.10301",
+          "sku": "1810.10301",
+          "sourceVariantId": "519c038b-3000-41cc-aa9b-9709b6ff377a",
+          "name": "Zerde [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/bb44f848-aabf-4b76-abdb-2376f4a435c3/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Zerde",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 395,
+          "netWeight": 395,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "67",
+              "productKey": "usta-1810103",
+              "name": "Zerde",
+              "quantity": 395,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.13,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 395
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1810.10301"
+    },
+    {
+      "key": "usta-1812108",
+      "code": "1812108",
+      "sourceProductId": 80,
+      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/orman-meyveli-sut-muhallebisi.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/a3b316ca-7f83-4535-8550-8281256f95af/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.13,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1812.10801",
+          "sku": "1812.10801",
+          "sourceVariantId": "0d962be8-e2e9-48ee-a415-2764afef1a1c",
+          "name": "Orman Meyveli Süt Muhallebisi [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/a3b316ca-7f83-4535-8550-8281256f95af/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Orman Meyveli Süt Muhallebisi",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 395,
+          "netWeight": 395,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "80",
+              "productKey": "usta-1812108",
+              "name": "Orman Meyveli Süt Muhallebisi",
+              "quantity": 395,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.13,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 395
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1812.10801"
+    },
+    {
+      "key": "usta-1812107",
+      "code": "1812107",
+      "sourceProductId": 79,
+      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/keskul-u-fukara.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/10147ad8-9062-4aff-b4ed-1550a2e61ce9/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.12,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1812.10701",
+          "sku": "1812.10701",
+          "sourceVariantId": "60e46787-0352-4ca4-9790-410d3a62d93b",
+          "name": "Keşkül-ü Fukara [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/10147ad8-9062-4aff-b4ed-1550a2e61ce9/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Keşkül-ü Fukara",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 400,
+          "netWeight": 400,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "79",
+              "productKey": "usta-1812107",
+              "name": "Keşkül-ü Fukara",
+              "quantity": 400,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.12,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 400
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1812.10701"
+    },
+    {
+      "key": "usta-1812106",
+      "code": "1812106",
+      "sourceProductId": 78,
+      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/karamelli-findikli-sut-muhallebisi.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/34154f60-7042-4139-8673-1e0be264fff7/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.25,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1812.10601",
+          "sku": "1812.10601",
+          "sourceVariantId": "122a22d8-6572-4b76-b244-4b00e59682fc",
+          "name": "Karamelli Fındıklı Süt Muhallebisi [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/34154f60-7042-4139-8673-1e0be264fff7/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Karamelli Fındıklı Süt Muhallebisi",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 360,
+          "netWeight": 360,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "78",
+              "productKey": "usta-1812106",
+              "name": "Karamelli Fındıklı Süt Muhallebisi",
+              "quantity": 360,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.25,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 360
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1812.10601"
+    },
+    {
+      "key": "usta-1810100",
+      "code": "1810100",
+      "sourceProductId": 64,
+      "url": "urunler/muhallebiler/geleneksel-sutlu-tatlilar/asure.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/a9135bed-434a-4710-8aa1-4747b696bb91/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.1,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1810.10001",
+          "sku": "1810.10001",
+          "sourceVariantId": "82e07556-6d61-4d2b-a12a-6a64e57e40af",
+          "name": "Aşure [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/a9135bed-434a-4710-8aa1-4747b696bb91/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Aşure",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 410,
+          "netWeight": 410,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "64",
+              "productKey": "usta-1810100",
+              "name": "Aşure",
+              "quantity": 410,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.1,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 410
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1810.10001"
+    },
+    {
+      "key": "usta-1812100",
+      "code": "1812100",
+      "sourceProductId": 72,
+      "url": "urunler/muhallebiler/meyveli-aromali-muhallebiler/ahududulu-sut-muhallebisi.html",
+      "currency": "TRY",
+      "categoryId": "muhallebiler",
+      "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/c0f6b19a-fe52-4ffd-8d9a-a4d6eb4f183f/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Gram",
+        "price": 1.15,
+        "weight": 1
+      },
+      "dimensions": null,
+      "satiety": [],
+      "variants": [
+        {
+          "code": "1812.10001",
+          "sku": "1812.10001",
+          "sourceVariantId": "ba462764-d234-4d1b-a6b9-755a58202035",
+          "name": "Ahududulu Süt Muhallebisi [Cam Kase]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/c0f6b19a-fe52-4ffd-8d9a-a4d6eb4f183f/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Ahududulu Süt Muhallebisi",
+          "type": "Cam Kase",
+          "unit": "Gram",
+          "quantity": 390,
+          "netWeight": 390,
+          "dimensions": {},
+          "satiety": [],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "72",
+              "productKey": "usta-1812100",
+              "name": "Ahududulu Süt Muhallebisi",
+              "quantity": 390,
+              "unit": "Gram",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 1,
+              "unitPrice": 1.15,
+              "portion": {
+                "unit": "Gram",
+                "quantity": 390
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1812.10001"
     }
   ]
 }

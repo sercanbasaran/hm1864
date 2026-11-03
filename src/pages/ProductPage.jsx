@@ -99,7 +99,7 @@ export default function ProductPage({ product: p }) {
           </fieldset>
 
           {storeOnly(p, variant) ? (
-            <OrderAvailability />
+            <OrderAvailability variant={v} />
           ) : (
             <>
               <div className="purchase-row">

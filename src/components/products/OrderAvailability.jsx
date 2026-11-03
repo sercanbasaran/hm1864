@@ -5,7 +5,7 @@ import { useText } from "../../hooks/useText.js";
 import RichText from "../../RichText.jsx";
 import { plainText } from "../../formatted-text.js";
 
-export default function OrderAvailability() {
+export default function OrderAvailability({ variant }) {
   const { data, setModal } = useApp(),
     t = useText();
   return (
@@ -20,7 +20,7 @@ export default function OrderAvailability() {
         <RichText value={t("ui.storeOnlyNote")} />
       </small>
       <div className="order-platforms">
-        {(data.orderPlatforms || []).map((platform) => {
+        {(variant?.foodDeliverySale === false ? [] : data.orderPlatforms || []).map((platform) => {
           const logo = (
             <>
               <img src={platform.logo} alt={platform.name} />

@@ -95,23 +95,13 @@
       "enabled": true
     },
     {
-      "id": "lokumlar",
-      "categoryId": "lokumlar",
-      "enabled": true
-    },
-    {
       "id": "kadayiflar",
       "categoryId": "kadayiflar",
       "enabled": true
     },
     {
-      "id": "kahveler",
-      "categoryId": "kahveler",
-      "enabled": true
-    },
-    {
-      "id": "caylar",
-      "categoryId": "caylar",
+      "id": "lokumlar",
+      "categoryId": "lokumlar",
       "enabled": true
     }
   ],

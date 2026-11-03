@@ -2,381 +2,213 @@
   "schemaVersion": 1,
   "categoryId": "muhallebiler",
   "products": {
-    "600-01-01-asure": {
+    "usta-1811100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1811.10001": {
+          "TRY": 450
         }
       }
     },
-    "600-01-02-firin-sutlac": {
+    "usta-1811101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1811.10101": {
+          "TRY": 450
         }
       }
     },
-    "600-01-03-tavukgogsu": {
+    "usta-1811102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1811.10201": {
+          "TRY": 450
         }
       }
     },
-    "600-01-04-zerde": {
+    "usta-1811103": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1811.10301": {
+          "TRY": 450
         }
       }
     },
-    "600-02-01-fistikli-kazandibi": {
+    "usta-1810102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1810.10201": {
+          "TRY": 450
         }
       }
     },
-    "600-02-02-safranli-kazandibi": {
+    "usta-1813102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1813.10201": {
+          "TRY": 450
         }
       }
     },
-    "600-02-03-damla-sakizli-kazandibi": {
+    "usta-1813103": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1813.10301": {
+          "TRY": 450
         }
       }
     },
-    "600-02-04-tavukgogsu-kazandibi": {
+    "usta-1813101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1813.10101": {
+          "TRY": 448.4
         }
       }
     },
-    "600-03-01-ahududulu-sut-muhallebisi": {
+    "usta-1813100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1813.10001": {
+          "TRY": 450
         }
       }
     },
-    "600-03-02-cilekli-cikolatali-muhallebi": {
+    "usta-1812105": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1812.10501": {
+          "TRY": 450
         }
       }
     },
-    "600-03-03-cilekli-sut-muhallebisi": {
+    "usta-1812104": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1812.10401": {
+          "TRY": 450
         }
       }
     },
-    "600-03-04-damla-sakizli-sut-muhallebisi": {
+    "usta-1810101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1810.10101": {
+          "TRY": 450
         }
       }
     },
-    "600-03-05-fistikli-sut-muhallebisi": {
+    "usta-1812103": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1812.10301": {
+          "TRY": 450
         }
       }
     },
-    "600-03-06-incirli-sut-muhallebisi": {
+    "usta-1812101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1812.10101": {
+          "TRY": 450
         }
       }
     },
-    "600-03-07-karamelli-findikli-sut-muhallebisi": {
+    "usta-1812102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1812.10201": {
+          "TRY": 450
         }
       }
     },
-    "600-03-08-keskul-u-fukara": {
+    "usta-1810103": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1810.10301": {
+          "TRY": 450
         }
       }
     },
-    "600-03-09-orman-meyveli-sut-muhallebisi": {
+    "usta-1812108": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1812.10801": {
+          "TRY": 450
         }
       }
     },
-    "600-04-01-lotuslu-kasik-pasta": {
+    "usta-1812107": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1812.10701": {
+          "TRY": 450
         }
       }
     },
-    "600-04-02-profiterol": {
+    "usta-1812106": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1812.10601": {
+          "TRY": 450
         }
       }
     },
-    "600-04-03-supangle": {
+    "usta-1810100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1810.10001": {
+          "TRY": 450
         }
       }
     },
-    "600-04-04-sah-mat": {
+    "usta-1812100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "porsiyon": {
-          "TRY": 450,
-          "USD": 9,
-          "EUR": 8,
-          "AED": 34,
-          "GBP": 7,
-          "DKK": 61,
-          "SEK": 92,
-          "CNY": 61,
-          "JPY": 1448
+        "1812.10001": {
+          "TRY": 450
         }
       }
     }

@@ -1,3 +1,5 @@
+import { useApp } from "../context/AppContext.jsx";
+import { channelUrl } from "../catalog-channel.js";
 import React from "react";
 import Icon from "./Icon.jsx";
 import { useText } from "../hooks/useText.js";
@@ -7,6 +9,7 @@ import { local } from "../utils/urls.js";
 
 export default function Breadcrumb({ items = [] }) {
   const t = useText();
+  const { channel } = useApp();
   if (!items.length) return null;
   return (
     <nav className="breadcrumb" aria-label={plainText(t("template.0164"))}>
@@ -18,7 +21,7 @@ export default function Breadcrumb({ items = [] }) {
               <RichText value={item.label} />
             </span>
           ) : (
-            <a href={local(item.url)}>
+            <a href={local(channelUrl(item.url, channel))}>
               <RichText value={item.label} />
             </a>
           )}

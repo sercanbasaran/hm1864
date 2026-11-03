@@ -4,7 +4,7 @@ import Media from '../Media.jsx';
 import RichText from '../../RichText.jsx';
 import {imageUrl} from '../../model.js';
 export default function ProductContents({boxRows,packageRows,t}){
-  const quantity=row=>row.quantity==null?<span aria-label={t('ui.quantityUnspecified')}>—</span>:<RichText value={row.quantity}/>;
+  const quantity=row=>row.quantity==null?<span aria-label={t('ui.quantityUnspecified')}>—</span>:<><RichText value={row.quantity}/>{row.unit && <> <RichText value={row.unit}/></>}</>;
   return <>
     {boxRows.length>0&&<details className="box-contents" key="box">
       <summary><RichText value={t('ui.boxContents')}/><Icon name="chevron" className="disclosure-icon" size={18}/></summary>

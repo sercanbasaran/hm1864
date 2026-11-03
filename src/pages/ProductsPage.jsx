@@ -1,3 +1,4 @@
+import { channelUrl } from "../catalog-channel.js";
 import React from "react";
 import { useApp } from "../context/AppContext.jsx";
 import { useText } from "../hooks/useText.js";
@@ -5,7 +6,7 @@ import { local } from "../utils/urls.js";
 import RichText from "../RichText.jsx";
 
 export default function ProductsPage() {
-  const { data } = useApp();
+  const { data, channel } = useApp();
   const t = useText();
   return (
     <>
@@ -25,7 +26,7 @@ export default function ProductsPage() {
       </section>
       <section className="catalog-category-grid">
         {data.categories.map((c) => (
-          <a className="catalog-category" href={local(c.url)} key={c.url}>
+          <a className="catalog-category" href={local(channelUrl(c.url, channel))} key={c.url}>
             <h2>
               <RichText value={c.name} />
             </h2>

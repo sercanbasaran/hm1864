@@ -1,0 +1,3320 @@
+{
+  "sourceFile": "varyantlar (3).json",
+  "sourceSha256": "b4243506d7bf22d8e82f24f1df292246a3140500854a10e04860d4b06af0d576",
+  "products": 117,
+  "variants": 390,
+  "onlineVariants": 332,
+  "storeOnlyVariants": 58,
+  "categories": 6,
+  "subcategories": 25,
+  "mediaUrls": [
+    "https://1864usta.netlify.app/api/media/044522ae-e0c2-40e0-b495-b8459ee8652d/content",
+    "https://1864usta.netlify.app/api/media/0707b27c-7dce-47fd-8c0f-1400dc7fbf88/content",
+    "https://1864usta.netlify.app/api/media/0791cf84-5610-4075-809a-25fbf2987349/content",
+    "https://1864usta.netlify.app/api/media/082b5da1-3762-43f4-8744-47cbeca7a47e/content",
+    "https://1864usta.netlify.app/api/media/0a4d44d6-7fc0-41a2-a489-5487aff9761e/content",
+    "https://1864usta.netlify.app/api/media/0acbaba4-bcdf-4198-ac09-4b3fc55f8bad/content",
+    "https://1864usta.netlify.app/api/media/0d62c5d9-7007-4ac3-852f-b1e4bf52e27f/content",
+    "https://1864usta.netlify.app/api/media/0d951f7f-0eaf-4c3d-a90b-843adc67a824/content",
+    "https://1864usta.netlify.app/api/media/0ec34759-542f-4bb1-bbf1-37a6a34bde5c/content",
+    "https://1864usta.netlify.app/api/media/0ffb0abd-c9ac-4313-9469-160ed1b85379/content",
+    "https://1864usta.netlify.app/api/media/10147ad8-9062-4aff-b4ed-1550a2e61ce9/content",
+    "https://1864usta.netlify.app/api/media/11d97407-ebfe-440a-beca-cda3edfd5d20/content",
+    "https://1864usta.netlify.app/api/media/16194cdc-b556-484e-9945-b840cab63e94/content",
+    "https://1864usta.netlify.app/api/media/16e73408-804f-43f8-8472-ef935c175d0c/content",
+    "https://1864usta.netlify.app/api/media/188ef811-99d3-4b5c-8c32-60101926b2ab/content",
+    "https://1864usta.netlify.app/api/media/1944a250-13d7-4cca-a4fe-e55d8e91408e/content",
+    "https://1864usta.netlify.app/api/media/1a448ff7-6d66-4f0f-b994-cdc5012e6ef5/content",
+    "https://1864usta.netlify.app/api/media/1b3347c2-0b51-4faf-a2a9-08d21d53d45f/content",
+    "https://1864usta.netlify.app/api/media/1b959624-b035-465e-a944-99d50860a5fe/content",
+    "https://1864usta.netlify.app/api/media/1d5d7e05-4af6-44b5-9697-f11e88033432/content",
+    "https://1864usta.netlify.app/api/media/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8/content",
+    "https://1864usta.netlify.app/api/media/1ef79e15-69c2-4ced-b189-efeadd670f0d/content",
+    "https://1864usta.netlify.app/api/media/21a67f31-5489-4068-9dd7-2624650b50d2/content",
+    "https://1864usta.netlify.app/api/media/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8/content",
+    "https://1864usta.netlify.app/api/media/24749bad-d1d2-406c-a49b-f5de626913fe/content",
+    "https://1864usta.netlify.app/api/media/28e81bf3-b104-4f39-ab8d-d75c2358368d/content",
+    "https://1864usta.netlify.app/api/media/2a73bad4-e35d-4205-99a1-84bde58a2979/content",
+    "https://1864usta.netlify.app/api/media/2ebce3a3-3878-4a2a-a248-46e48059f78a/content",
+    "https://1864usta.netlify.app/api/media/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a/content",
+    "https://1864usta.netlify.app/api/media/310dcef3-cdf8-42d7-a624-6b8190632e45/content",
+    "https://1864usta.netlify.app/api/media/32427dca-16aa-470c-b304-d3f5464fdc0b/content",
+    "https://1864usta.netlify.app/api/media/32c4289c-1a1c-4c0f-83ae-277d6dc4b4c6/content",
+    "https://1864usta.netlify.app/api/media/34154f60-7042-4139-8673-1e0be264fff7/content",
+    "https://1864usta.netlify.app/api/media/3439ccdb-f667-45f9-9303-26eefb48ddc9/content",
+    "https://1864usta.netlify.app/api/media/3447abe5-4aa4-4d62-9135-e57af7b333b3/content",
+    "https://1864usta.netlify.app/api/media/34845876-ea6f-4ffa-b526-6e40b6af1982/content",
+    "https://1864usta.netlify.app/api/media/34ab7fa9-a870-4ed2-a043-6a8b6834dc64/content",
+    "https://1864usta.netlify.app/api/media/36198001-25e4-4078-8613-74f05eaae425/content",
+    "https://1864usta.netlify.app/api/media/3708c5e1-b70e-45d7-990f-9a04fb3cdf79/content",
+    "https://1864usta.netlify.app/api/media/39721e4b-98c0-411a-bd9b-c31e2df8a57d/content",
+    "https://1864usta.netlify.app/api/media/3aec9dbe-ae99-4911-a1b4-78cbb9ddae61/content",
+    "https://1864usta.netlify.app/api/media/3b0318fa-02f0-419a-a4d3-9e9daf8d608d/content",
+    "https://1864usta.netlify.app/api/media/3ba1d674-6923-4738-8173-eac384057fd5/content",
+    "https://1864usta.netlify.app/api/media/3c6e5c16-861b-44ef-a1b3-a3d2b7c6c4c8/content",
+    "https://1864usta.netlify.app/api/media/3cf303d1-4eac-4431-935c-48647a915c07/content",
+    "https://1864usta.netlify.app/api/media/3da53808-1e4d-4a32-b066-4bc5aea7fff0/content",
+    "https://1864usta.netlify.app/api/media/3ddaa81c-b890-42a4-947c-2fe2c8b7cae2/content",
+    "https://1864usta.netlify.app/api/media/402e28fc-5815-433f-9fb6-4c7bad02e0e6/content",
+    "https://1864usta.netlify.app/api/media/40e4f053-b71e-404c-ab15-fab52edf04c7/content",
+    "https://1864usta.netlify.app/api/media/41030438-ca9e-4ea9-94de-70a67341d70e/content",
+    "https://1864usta.netlify.app/api/media/443a33c1-b2ac-4aa1-bc1f-c7efc1921e6a/content",
+    "https://1864usta.netlify.app/api/media/475b34c0-b18e-43fb-923b-92151657cb08/content",
+    "https://1864usta.netlify.app/api/media/476846b2-6f1c-4539-b050-c1af066d224f/content",
+    "https://1864usta.netlify.app/api/media/49ccadbd-3f10-4ddb-9170-ac677f71ea39/content",
+    "https://1864usta.netlify.app/api/media/4a32f4ff-4ed2-4bdf-a788-758deb585cca/content",
+    "https://1864usta.netlify.app/api/media/4a5cec9c-8c1c-4b1d-9d3a-fe122662a8d0/content",
+    "https://1864usta.netlify.app/api/media/4d43c3cc-4b96-4349-9fb6-476441de6427/content",
+    "https://1864usta.netlify.app/api/media/4d9ab5a0-57f0-49c4-84e6-5364a9c84830/content",
+    "https://1864usta.netlify.app/api/media/4db3922c-c453-47f0-90ea-1d83af4483c2/content",
+    "https://1864usta.netlify.app/api/media/4dfcd6aa-d1a8-4e1c-ac9c-1ed44e86cf21/content",
+    "https://1864usta.netlify.app/api/media/4e9fb961-9c22-4c30-80b7-38c63aa2890f/content",
+    "https://1864usta.netlify.app/api/media/51249451-563f-4d15-99d2-b68ceb51a45f/content",
+    "https://1864usta.netlify.app/api/media/518091a1-c189-4b7a-a5c2-e743b0684274/content",
+    "https://1864usta.netlify.app/api/media/583d1cf9-8d1a-42ba-9689-29720b66108f/content",
+    "https://1864usta.netlify.app/api/media/5c09431f-cba2-4c91-9e99-14793745b81f/content",
+    "https://1864usta.netlify.app/api/media/5ec37b49-9129-48eb-b2a2-241ab23d2e76/content",
+    "https://1864usta.netlify.app/api/media/5f4091c2-dd3f-4eb4-a674-484db122c007/content",
+    "https://1864usta.netlify.app/api/media/625e9933-0f69-47c2-b5e9-100c515cb827/content",
+    "https://1864usta.netlify.app/api/media/62aded8b-490d-409c-afa1-c7f5b0d70016/content",
+    "https://1864usta.netlify.app/api/media/633ca302-dc58-48a1-a472-95776709ba36/content",
+    "https://1864usta.netlify.app/api/media/63d31c2f-87ab-49e4-a84c-17722edcf61f/content",
+    "https://1864usta.netlify.app/api/media/63e2e92d-e8ca-4bea-acea-b32b3f03c41a/content",
+    "https://1864usta.netlify.app/api/media/64a0199b-ba6f-4db9-8d30-17ce8493a0f1/content",
+    "https://1864usta.netlify.app/api/media/64e570ce-7b09-495a-a738-ffc5ac115589/content",
+    "https://1864usta.netlify.app/api/media/652c273b-2c64-4508-8392-96473c1925e3/content",
+    "https://1864usta.netlify.app/api/media/66dace15-7fd1-4274-ada2-162cb2e1be86/content",
+    "https://1864usta.netlify.app/api/media/670f33d0-78e4-4155-9e32-0fd1c6b88729/content",
+    "https://1864usta.netlify.app/api/media/67e90f73-67e6-452b-80db-e82dabc336ec/content",
+    "https://1864usta.netlify.app/api/media/691d5721-395f-4a7a-8a9b-223ff15f6004/content",
+    "https://1864usta.netlify.app/api/media/6a49baf2-0f08-4b7d-8f9b-f5181de6ce37/content",
+    "https://1864usta.netlify.app/api/media/6a93a5c1-7388-452f-a7e3-a4acf4002d1f/content",
+    "https://1864usta.netlify.app/api/media/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64/content",
+    "https://1864usta.netlify.app/api/media/6b278343-2c21-4d4e-8e7a-04e997f2999c/content",
+    "https://1864usta.netlify.app/api/media/6c8450b5-a8c6-4e3a-bb09-442a40b81512/content",
+    "https://1864usta.netlify.app/api/media/704576f3-ee3c-4e3d-8d75-2caeacdddba1/content",
+    "https://1864usta.netlify.app/api/media/71c3e36c-56a8-4747-9d48-8f9f74a964e0/content",
+    "https://1864usta.netlify.app/api/media/7293b3a8-d57e-447f-821f-c3be74fdb0fd/content",
+    "https://1864usta.netlify.app/api/media/73352431-cce2-47d1-ba25-0aa41fba80cc/content",
+    "https://1864usta.netlify.app/api/media/7389ead2-a35a-4860-bc7b-3836f0cce83e/content",
+    "https://1864usta.netlify.app/api/media/74910703-4702-465c-8c4c-ed226c49889a/content",
+    "https://1864usta.netlify.app/api/media/7545685c-2788-457c-bc40-dd377b4f1044/content",
+    "https://1864usta.netlify.app/api/media/7659fa98-06d5-4357-a978-3ec87474c8fd/content",
+    "https://1864usta.netlify.app/api/media/7887d23e-f5e3-4aa9-99bc-be8092092024/content",
+    "https://1864usta.netlify.app/api/media/79b813c3-e6a9-4707-b662-9ced73031ad2/content",
+    "https://1864usta.netlify.app/api/media/79ce9bc2-6372-4641-959a-6b21e752325d/content",
+    "https://1864usta.netlify.app/api/media/84050be5-e24a-4f84-803b-7088fe79a2a1/content",
+    "https://1864usta.netlify.app/api/media/8628bccd-0c80-450d-9857-c7d895e0c26d/content",
+    "https://1864usta.netlify.app/api/media/89d8fd0e-35d9-4b9a-81d9-84634f8476f3/content",
+    "https://1864usta.netlify.app/api/media/89de6d19-9da6-42ee-952c-f23c602ce826/content",
+    "https://1864usta.netlify.app/api/media/8b8e63ec-39e5-4724-a96a-ca0a8ecbcd38/content",
+    "https://1864usta.netlify.app/api/media/8c3d029a-e000-4cef-8121-e89e83eb1993/content",
+    "https://1864usta.netlify.app/api/media/9054585b-863b-435f-b19d-3aa1f9737fc6/content",
+    "https://1864usta.netlify.app/api/media/907f7f5f-70d3-40a3-b7de-675c4a188f35/content",
+    "https://1864usta.netlify.app/api/media/90e07aae-c185-4fe0-9737-ae6bbf10f648/content",
+    "https://1864usta.netlify.app/api/media/92ba5db2-8f1a-487d-9e08-469f49afc9e2/content",
+    "https://1864usta.netlify.app/api/media/9330d82d-bb76-434a-81c0-e795bd53f7ae/content",
+    "https://1864usta.netlify.app/api/media/93b1c3f3-94f6-49c5-929e-469aaf2c4f0a/content",
+    "https://1864usta.netlify.app/api/media/94b10ef5-3d0c-415d-b054-94de3b870445/content",
+    "https://1864usta.netlify.app/api/media/97ba8b2f-20f5-43e3-b692-39b63c498965/content",
+    "https://1864usta.netlify.app/api/media/9aaea56c-c20e-43e8-9874-2427e0a0700a/content",
+    "https://1864usta.netlify.app/api/media/9b4cbbcc-6285-4112-bd58-f45cf068d723/content",
+    "https://1864usta.netlify.app/api/media/9d8a5a3d-3c12-4451-8e8c-20ccfddbbfbc/content",
+    "https://1864usta.netlify.app/api/media/9e104c52-8468-4f9a-afb8-5d7faf8c459c/content",
+    "https://1864usta.netlify.app/api/media/9f596b82-139b-4165-b331-7e92942f8926/content",
+    "https://1864usta.netlify.app/api/media/a0188c7c-c171-46e7-b58e-01c865cee355/content",
+    "https://1864usta.netlify.app/api/media/a0a3b234-b663-42af-91e4-714b19905ffe/content",
+    "https://1864usta.netlify.app/api/media/a1061d33-4aec-4130-9c2a-819f9556ab6b/content",
+    "https://1864usta.netlify.app/api/media/a1c65606-6510-4a44-9c43-3bc8c85717d8/content",
+    "https://1864usta.netlify.app/api/media/a2f87709-2cb4-4094-b9d0-487f89b7644f/content",
+    "https://1864usta.netlify.app/api/media/a3b316ca-7f83-4535-8550-8281256f95af/content",
+    "https://1864usta.netlify.app/api/media/a76dca48-b1eb-4721-bf02-aed931992dab/content",
+    "https://1864usta.netlify.app/api/media/a9135bed-434a-4710-8aa1-4747b696bb91/content",
+    "https://1864usta.netlify.app/api/media/a9caf33f-57b4-402a-81f8-652b7f7e77a7/content",
+    "https://1864usta.netlify.app/api/media/aa42b555-ae41-4fc2-a4a7-a9041b080cd4/content",
+    "https://1864usta.netlify.app/api/media/aa9cb301-2c00-4a26-81bf-4a7a5cfbf061/content",
+    "https://1864usta.netlify.app/api/media/aad624c6-5fd7-4557-beed-ae75eaea3670/content",
+    "https://1864usta.netlify.app/api/media/ac10b398-3f67-4402-ba7c-c55a74bd6d45/content",
+    "https://1864usta.netlify.app/api/media/ad03250f-9da3-4887-a4a9-d2b30fe39055/content",
+    "https://1864usta.netlify.app/api/media/aefa40ff-4598-4d89-bce8-b546d2f1959b/content",
+    "https://1864usta.netlify.app/api/media/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4/content",
+    "https://1864usta.netlify.app/api/media/b1b1aa73-cce3-40c5-8d03-f96a2308f687/content",
+    "https://1864usta.netlify.app/api/media/b6a44e8d-b7f9-4149-8c13-3c37ea377229/content",
+    "https://1864usta.netlify.app/api/media/b78902c5-5225-442c-9f56-635299791570/content",
+    "https://1864usta.netlify.app/api/media/b80149c4-85ae-4d28-8c61-f1089f5bb6cb/content",
+    "https://1864usta.netlify.app/api/media/ba632662-09ac-4deb-9ef7-67f42ae53b20/content",
+    "https://1864usta.netlify.app/api/media/ba9431dd-52e0-4182-b9f7-5663a24c1db9/content",
+    "https://1864usta.netlify.app/api/media/baa126dc-a3f2-4572-86de-7ec455cdb2b3/content",
+    "https://1864usta.netlify.app/api/media/bb44f848-aabf-4b76-abdb-2376f4a435c3/content",
+    "https://1864usta.netlify.app/api/media/bb94ad06-2c59-49f5-a9d3-26b479293c89/content",
+    "https://1864usta.netlify.app/api/media/bd8f7d0f-e126-487f-9475-760e12babcfe/content",
+    "https://1864usta.netlify.app/api/media/bdd928c7-56d7-446f-a2b4-2dd2c01c2d6b/content",
+    "https://1864usta.netlify.app/api/media/bed8bc74-62cc-499d-aacc-7b3440987c58/content",
+    "https://1864usta.netlify.app/api/media/c0f6b19a-fe52-4ffd-8d9a-a4d6eb4f183f/content",
+    "https://1864usta.netlify.app/api/media/c2ddec22-527e-466c-acd7-cc180c86d381/content",
+    "https://1864usta.netlify.app/api/media/c41cb534-f471-4c54-9cc0-6ada616a1cd4/content",
+    "https://1864usta.netlify.app/api/media/c4f25427-744c-4c7b-b42e-5784eacb313c/content",
+    "https://1864usta.netlify.app/api/media/c549f866-acda-43a1-8929-665081262c17/content",
+    "https://1864usta.netlify.app/api/media/c55217cb-0798-4a0a-8855-67a9c2f1d8d7/content",
+    "https://1864usta.netlify.app/api/media/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc/content",
+    "https://1864usta.netlify.app/api/media/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe/content",
+    "https://1864usta.netlify.app/api/media/c6f4d136-8950-4139-a977-e870af2a81b6/content",
+    "https://1864usta.netlify.app/api/media/cb5c4c71-68f6-448b-b0ec-0336cf950f6d/content",
+    "https://1864usta.netlify.app/api/media/cc4ef9a2-7293-4494-8d56-44076a6b5551/content",
+    "https://1864usta.netlify.app/api/media/d658c886-2eb3-4b71-a416-cf2d937b081f/content",
+    "https://1864usta.netlify.app/api/media/daf26cad-5dd3-4bdd-b552-bf353ff2b743/content",
+    "https://1864usta.netlify.app/api/media/dc934e8d-c45a-427c-ae90-7075877bfe48/content",
+    "https://1864usta.netlify.app/api/media/dd0adf82-3fbc-41f5-8bc0-1a4ed6986743/content",
+    "https://1864usta.netlify.app/api/media/dd746039-8a6b-4a9d-84fd-5861379614e8/content",
+    "https://1864usta.netlify.app/api/media/ddc3c9d6-4ff0-4185-8085-b7909b258af3/content",
+    "https://1864usta.netlify.app/api/media/dfc9e801-375f-4786-945d-873fdfde928f/content",
+    "https://1864usta.netlify.app/api/media/e03b3784-6516-49ef-91ff-b7dac71c6312/content",
+    "https://1864usta.netlify.app/api/media/e044e22d-9356-4962-b1e1-8a0df1d42984/content",
+    "https://1864usta.netlify.app/api/media/e13311ca-79ce-44f1-a5c8-9ad1cfe6a446/content",
+    "https://1864usta.netlify.app/api/media/e63b9d51-6358-448c-92dc-9dc8c9914a22/content",
+    "https://1864usta.netlify.app/api/media/ea2969d9-ae37-493c-827c-a9b56a1ddd36/content",
+    "https://1864usta.netlify.app/api/media/eb855d4b-e33a-42a5-8243-8718740d9f1f/content",
+    "https://1864usta.netlify.app/api/media/ef900b92-8b5b-4852-8c1e-89289dc41bd4/content",
+    "https://1864usta.netlify.app/api/media/f1b4161f-5173-42db-98f8-88bb410ebb85/content",
+    "https://1864usta.netlify.app/api/media/f1c85dd4-2013-4bd3-984a-49ee91b51fac/content",
+    "https://1864usta.netlify.app/api/media/f21f1b07-58ee-497d-84ef-0a9a2a5d613e/content",
+    "https://1864usta.netlify.app/api/media/f3a07e32-6894-450e-9e63-2d5883ccb681/content",
+    "https://1864usta.netlify.app/api/media/f7dadb9f-478f-4dd7-9899-f6891d5b8588/content",
+    "https://1864usta.netlify.app/api/media/f8752ed6-457c-47bb-af04-2a58869bfe3d/content",
+    "https://1864usta.netlify.app/api/media/faa91957-22ff-4684-b16c-635b89ff29f9/content",
+    "https://1864usta.netlify.app/api/media/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3/content",
+    "https://1864usta.netlify.app/api/media/fd611747-4663-471f-ae4e-f35ef9860f95/content"
+  ],
+  "downloadedMedia": 0,
+  "pendingMedia": 176,
+  "mediaErrors": [
+    {
+      "url": "https://1864usta.netlify.app/api/media/044522ae-e0c2-40e0-b495-b8459ee8652d/content",
+      "error": "HTTP Error 401: Unauthorized",
+      "remaining": "Same protected API was not retried without authorization."
+    }
+  ],
+  "mediaStatus": "Source media requires authorized/public access; no legacy images reused.",
+  "variantsBySku": [
+    {
+      "productKey": "usta-1011112",
+      "sku": "1011.11201",
+      "online": true,
+      "store": true,
+      "price": 6720,
+      "sourceVariantId": "d18823d9-88d8-47e3-b187-081608058cc8"
+    },
+    {
+      "productKey": "usta-1011112",
+      "sku": "1011.11202",
+      "online": true,
+      "store": true,
+      "price": 5040,
+      "sourceVariantId": "2d315826-81ed-4d09-8382-81ab448d45f6"
+    },
+    {
+      "productKey": "usta-1011112",
+      "sku": "1011.11203",
+      "online": true,
+      "store": true,
+      "price": 4200,
+      "sourceVariantId": "9e9bf672-4773-4e46-bfdb-c8426a9532f0"
+    },
+    {
+      "productKey": "usta-1011112",
+      "sku": "1011.11204",
+      "online": true,
+      "store": true,
+      "price": 3360,
+      "sourceVariantId": "906978f2-c053-4ba8-9f22-742b1c9f7b10"
+    },
+    {
+      "productKey": "usta-1011112",
+      "sku": "1011.11206",
+      "online": false,
+      "store": true,
+      "price": 420,
+      "sourceVariantId": "c34fce5b-d969-496d-9061-343fa12a0e54"
+    },
+    {
+      "productKey": "usta-1011111",
+      "sku": "1011.11102",
+      "online": true,
+      "store": true,
+      "price": 5880,
+      "sourceVariantId": "d02cddde-4a9b-430e-be51-9b2148ca6892"
+    },
+    {
+      "productKey": "usta-1011111",
+      "sku": "1011.11103",
+      "online": true,
+      "store": true,
+      "price": 4410,
+      "sourceVariantId": "a6aa73ec-2eaa-41de-8474-bdff578db499"
+    },
+    {
+      "productKey": "usta-1011111",
+      "sku": "1011.11104",
+      "online": true,
+      "store": true,
+      "price": 3675,
+      "sourceVariantId": "c33d24a5-5397-4b18-b38c-d86677026162"
+    },
+    {
+      "productKey": "usta-1011111",
+      "sku": "1011.11105",
+      "online": true,
+      "store": true,
+      "price": 2940,
+      "sourceVariantId": "cf1790ec-73da-4fc2-a1ba-b6117470600a"
+    },
+    {
+      "productKey": "usta-1011111",
+      "sku": "1011.11101",
+      "online": false,
+      "store": true,
+      "price": 420,
+      "sourceVariantId": "572ab345-5ee9-4a47-a124-dbbe9560d9fb"
+    },
+    {
+      "productKey": "usta-1011110",
+      "sku": "1011.11001",
+      "online": true,
+      "store": true,
+      "price": 6720,
+      "sourceVariantId": "dc7d2f84-2c4b-4c22-a2a3-8e9e90e91254"
+    },
+    {
+      "productKey": "usta-1011110",
+      "sku": "1011.11002",
+      "online": true,
+      "store": true,
+      "price": 5040,
+      "sourceVariantId": "445a3ecf-b158-4a64-84a5-d8ac6d22fd3f"
+    },
+    {
+      "productKey": "usta-1011110",
+      "sku": "1011.11003",
+      "online": true,
+      "store": true,
+      "price": 4200,
+      "sourceVariantId": "14aee953-6608-4ece-b305-6cf70af99a8c"
+    },
+    {
+      "productKey": "usta-1011110",
+      "sku": "1011.11004",
+      "online": true,
+      "store": true,
+      "price": 3360,
+      "sourceVariantId": "ece9f36f-e318-4812-b3d6-1be063836876"
+    },
+    {
+      "productKey": "usta-1011110",
+      "sku": "1011.11006",
+      "online": false,
+      "store": true,
+      "price": 420,
+      "sourceVariantId": "8043e033-d00b-43c6-a577-c03fe6f48e34"
+    },
+    {
+      "productKey": "usta-1011108",
+      "sku": "1011.10801",
+      "online": true,
+      "store": true,
+      "price": 6720,
+      "sourceVariantId": "317f4850-3284-4bbb-9d0f-33b1411b9513"
+    },
+    {
+      "productKey": "usta-1011108",
+      "sku": "1011.10802",
+      "online": true,
+      "store": true,
+      "price": 5040,
+      "sourceVariantId": "dd3ca61f-2c7a-4bf2-b18b-1fbc26a3a3f8"
+    },
+    {
+      "productKey": "usta-1011108",
+      "sku": "1011.10803",
+      "online": true,
+      "store": true,
+      "price": 4200,
+      "sourceVariantId": "b367e7ad-1116-455c-9344-c0356be42ae6"
+    },
+    {
+      "productKey": "usta-1011108",
+      "sku": "1011.10804",
+      "online": true,
+      "store": true,
+      "price": 3360,
+      "sourceVariantId": "24246adc-e94c-4a4e-be31-749b64b8b993"
+    },
+    {
+      "productKey": "usta-1011108",
+      "sku": "1011.10806",
+      "online": false,
+      "store": true,
+      "price": 420,
+      "sourceVariantId": "0984bdd6-2860-4a99-9b87-1ca097a369c4"
+    },
+    {
+      "productKey": "usta-1011107",
+      "sku": "1011.10701",
+      "online": true,
+      "store": true,
+      "price": 7300,
+      "sourceVariantId": "b08b0037-51f1-4721-8d1b-2f46a74c4737"
+    },
+    {
+      "productKey": "usta-1011107",
+      "sku": "1011.10702",
+      "online": true,
+      "store": true,
+      "price": 5519.88,
+      "sourceVariantId": "87450750-4f6d-478f-b2ac-ee12c109c60b"
+    },
+    {
+      "productKey": "usta-1011107",
+      "sku": "1011.10703",
+      "online": true,
+      "store": true,
+      "price": 4599.9,
+      "sourceVariantId": "a32a4335-3fb8-4dd2-99cc-2951095e7a04"
+    },
+    {
+      "productKey": "usta-1011107",
+      "sku": "1011.10704",
+      "online": true,
+      "store": true,
+      "price": 3679.92,
+      "sourceVariantId": "4e53f2e0-f1c3-4423-9bf1-000ef793bb1f"
+    },
+    {
+      "productKey": "usta-1011107",
+      "sku": "1011.10706",
+      "online": false,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "5cd5a24f-01f1-4e60-ad2e-e82c2b469965"
+    },
+    {
+      "productKey": "usta-1011107",
+      "sku": "1011.10707",
+      "online": false,
+      "store": true,
+      "price": 855,
+      "sourceVariantId": "a6405a58-919e-4357-bb3e-5cac35e2b7c5"
+    },
+    {
+      "productKey": "usta-1011106",
+      "sku": "1011.10602",
+      "online": true,
+      "store": true,
+      "price": 5225,
+      "sourceVariantId": "67c005ba-9fff-46aa-9b57-e0ee94fef331"
+    },
+    {
+      "productKey": "usta-1011106",
+      "sku": "1011.10603",
+      "online": true,
+      "store": true,
+      "price": 6200,
+      "sourceVariantId": "a1c982ec-99b7-4ef0-82f0-bec579e36c5b"
+    },
+    {
+      "productKey": "usta-1011106",
+      "sku": "1011.10604",
+      "online": true,
+      "store": true,
+      "price": 5200,
+      "sourceVariantId": "8fb61092-3013-41d6-a0cd-6864391a978f"
+    },
+    {
+      "productKey": "usta-1011106",
+      "sku": "1011.10605",
+      "online": true,
+      "store": true,
+      "price": 4200,
+      "sourceVariantId": "4ce6cbe1-5833-495b-9f0a-1cf9f8915aec"
+    },
+    {
+      "productKey": "usta-1011106",
+      "sku": "1011.10601",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "7cafa3b5-70ce-4093-a474-26704327cb0a"
+    },
+    {
+      "productKey": "usta-1011105",
+      "sku": "1011.10501",
+      "online": true,
+      "store": true,
+      "price": 6720,
+      "sourceVariantId": "46b0a06d-6866-49a4-9a59-03b14e1a6c17"
+    },
+    {
+      "productKey": "usta-1011105",
+      "sku": "1011.10502",
+      "online": true,
+      "store": true,
+      "price": 5040,
+      "sourceVariantId": "51bb737c-aeca-49f6-bfa1-53830bf35841"
+    },
+    {
+      "productKey": "usta-1011105",
+      "sku": "1011.10503",
+      "online": true,
+      "store": true,
+      "price": 4200,
+      "sourceVariantId": "34d61781-fc8e-4998-9838-aa17d89af873"
+    },
+    {
+      "productKey": "usta-1011105",
+      "sku": "1011.10504",
+      "online": true,
+      "store": true,
+      "price": 3360,
+      "sourceVariantId": "19c4a7da-ee46-4c04-9853-06ee7a69a3ac"
+    },
+    {
+      "productKey": "usta-1011105",
+      "sku": "1011.10506",
+      "online": false,
+      "store": true,
+      "price": 420,
+      "sourceVariantId": "2f070065-defd-44f6-8124-a4a516efba96"
+    },
+    {
+      "productKey": "usta-1011104",
+      "sku": "1011.10401",
+      "online": true,
+      "store": true,
+      "price": 5040,
+      "sourceVariantId": "ddfff4d9-92e8-46a3-a6b9-3280d728729a"
+    },
+    {
+      "productKey": "usta-1011104",
+      "sku": "1011.10402",
+      "online": true,
+      "store": true,
+      "price": 3780,
+      "sourceVariantId": "8314e4a8-6cf3-4bfb-99e1-aab7524e5f74"
+    },
+    {
+      "productKey": "usta-1011104",
+      "sku": "1011.10403",
+      "online": true,
+      "store": true,
+      "price": 3150,
+      "sourceVariantId": "f2251b61-1c42-4aa3-8e57-036b400b9678"
+    },
+    {
+      "productKey": "usta-1011104",
+      "sku": "1011.10404",
+      "online": true,
+      "store": true,
+      "price": 2520,
+      "sourceVariantId": "3d14e8f0-444b-48c2-b91a-053328564497"
+    },
+    {
+      "productKey": "usta-1011104",
+      "sku": "1011.10406",
+      "online": false,
+      "store": true,
+      "price": 420,
+      "sourceVariantId": "a875390a-e03e-4df2-8cd0-230a119151c6"
+    },
+    {
+      "productKey": "usta-1011103",
+      "sku": "1011.10301",
+      "online": true,
+      "store": true,
+      "price": 5710,
+      "sourceVariantId": "d70d7cf9-a440-4e98-92c5-78f40608825d"
+    },
+    {
+      "productKey": "usta-1011103",
+      "sku": "1011.10302",
+      "online": true,
+      "store": true,
+      "price": 5800,
+      "sourceVariantId": "b7df3ff0-55d9-4a82-92c4-eae40e4bc3c3"
+    },
+    {
+      "productKey": "usta-1011103",
+      "sku": "1011.10303",
+      "online": true,
+      "store": true,
+      "price": 5800,
+      "sourceVariantId": "d2c07ab6-4f0f-488b-a2e6-dd8142f03fcf"
+    },
+    {
+      "productKey": "usta-1011103",
+      "sku": "1011.10304",
+      "online": true,
+      "store": true,
+      "price": 3900,
+      "sourceVariantId": "bad27d64-0e66-4348-9325-bccf795dba48"
+    },
+    {
+      "productKey": "usta-1011103",
+      "sku": "1011.10306",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "a7d77e04-8e71-4b35-97c9-d9859986ca31"
+    },
+    {
+      "productKey": "usta-1011102",
+      "sku": "1011.10201",
+      "online": true,
+      "store": true,
+      "price": 6720,
+      "sourceVariantId": "c301bb75-f9ff-4758-b927-5d4a31665899"
+    },
+    {
+      "productKey": "usta-1011102",
+      "sku": "1011.10202",
+      "online": true,
+      "store": true,
+      "price": 3780,
+      "sourceVariantId": "1184f3ed-1de8-4634-b209-61ea42e3e1fb"
+    },
+    {
+      "productKey": "usta-1011102",
+      "sku": "1011.10203",
+      "online": true,
+      "store": true,
+      "price": 3150,
+      "sourceVariantId": "383b9941-baf2-494b-959f-c5ac80a943a8"
+    },
+    {
+      "productKey": "usta-1011102",
+      "sku": "1011.10204",
+      "online": true,
+      "store": true,
+      "price": 2520,
+      "sourceVariantId": "c3fd1a06-d960-494a-8a6a-770e7d3364e9"
+    },
+    {
+      "productKey": "usta-1011102",
+      "sku": "1011.10206",
+      "online": false,
+      "store": true,
+      "price": 420,
+      "sourceVariantId": "baabb09d-b126-467a-abb8-3ad949bae8bf"
+    },
+    {
+      "productKey": "usta-1011101",
+      "sku": "1011.10101",
+      "online": true,
+      "store": true,
+      "price": 6720,
+      "sourceVariantId": "1835fac8-f4d7-443e-aea0-47d6c0fa5c0b"
+    },
+    {
+      "productKey": "usta-1011101",
+      "sku": "1011.10102",
+      "online": true,
+      "store": true,
+      "price": 5040,
+      "sourceVariantId": "ed47702e-98bf-4e1b-931b-fce5c62c49e7"
+    },
+    {
+      "productKey": "usta-1011101",
+      "sku": "1011.10103",
+      "online": true,
+      "store": true,
+      "price": 4200,
+      "sourceVariantId": "dc2bd9d7-8a50-43fb-960c-960b3fac3a20"
+    },
+    {
+      "productKey": "usta-1011101",
+      "sku": "1011.10104",
+      "online": true,
+      "store": true,
+      "price": 3360,
+      "sourceVariantId": "cc9fd989-dca9-46e0-badb-f8722eed96be"
+    },
+    {
+      "productKey": "usta-1011101",
+      "sku": "1011.10106",
+      "online": false,
+      "store": true,
+      "price": 420,
+      "sourceVariantId": "333b1a87-a21d-4809-8687-a874a58eba34"
+    },
+    {
+      "productKey": "usta-1011100",
+      "sku": "1011.10001",
+      "online": true,
+      "store": true,
+      "price": 7800,
+      "sourceVariantId": "a1e2e514-93ff-47d5-aa86-8a665c62eece"
+    },
+    {
+      "productKey": "usta-1011100",
+      "sku": "1011.10002",
+      "online": true,
+      "store": true,
+      "price": 5800,
+      "sourceVariantId": "0167618f-2ac1-4d40-80db-6da995bd8f84"
+    },
+    {
+      "productKey": "usta-1011100",
+      "sku": "1011.10003",
+      "online": true,
+      "store": true,
+      "price": 4900,
+      "sourceVariantId": "a5d922b9-e0b1-4873-932a-c46fc99bb5f0"
+    },
+    {
+      "productKey": "usta-1011100",
+      "sku": "1011.10004",
+      "online": true,
+      "store": true,
+      "price": 3900,
+      "sourceVariantId": "4a69a3c3-59d6-49f3-811a-bfcd03697f7e"
+    },
+    {
+      "productKey": "usta-1011100",
+      "sku": "1011.10006",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "e808e71e-f6ac-45e4-b4b5-fe31a77648d7"
+    },
+    {
+      "productKey": "usta-1010115",
+      "sku": "1010.11501",
+      "online": true,
+      "store": true,
+      "price": 6800,
+      "sourceVariantId": "28f96b2c-abf7-45cc-b3f7-090c00ba77df"
+    },
+    {
+      "productKey": "usta-1010115",
+      "sku": "1010.11502",
+      "online": true,
+      "store": true,
+      "price": 5800,
+      "sourceVariantId": "8ed6d9ba-b87b-4726-b4de-1091fc284ffc"
+    },
+    {
+      "productKey": "usta-1010115",
+      "sku": "1010.11503",
+      "online": true,
+      "store": true,
+      "price": 4800,
+      "sourceVariantId": "d1222b0a-6dfe-4608-a7b6-62e13156581e"
+    },
+    {
+      "productKey": "usta-1010115",
+      "sku": "1010.11504",
+      "online": true,
+      "store": true,
+      "price": 3900,
+      "sourceVariantId": "8a86bceb-a242-4d18-a483-965a79364c05"
+    },
+    {
+      "productKey": "usta-1010115",
+      "sku": "1010.11506",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "16bcea30-29a8-46e1-812f-28dd17d48e36"
+    },
+    {
+      "productKey": "usta-1010114",
+      "sku": "1010.11401",
+      "online": true,
+      "store": true,
+      "price": 5145,
+      "sourceVariantId": "0f3d784a-0eb6-4d92-bf76-86ac38e1a4a4"
+    },
+    {
+      "productKey": "usta-1010114",
+      "sku": "1010.11402",
+      "online": true,
+      "store": true,
+      "price": 4410,
+      "sourceVariantId": "270105a9-1239-42ef-a87c-293a15954ed5"
+    },
+    {
+      "productKey": "usta-1010114",
+      "sku": "1010.11403",
+      "online": true,
+      "store": true,
+      "price": 3675,
+      "sourceVariantId": "4ef99a17-13bc-4fbd-aa8e-486830dad533"
+    },
+    {
+      "productKey": "usta-1010114",
+      "sku": "1010.11404",
+      "online": true,
+      "store": true,
+      "price": 2940,
+      "sourceVariantId": "7ea81f9c-b4b3-43f8-9250-65ea3b66f07a"
+    },
+    {
+      "productKey": "usta-1010114",
+      "sku": "1010.11406",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "19ce5250-7c32-4a01-b119-dffca7ac888c"
+    },
+    {
+      "productKey": "usta-1010112",
+      "sku": "1010.11201",
+      "online": true,
+      "store": true,
+      "price": 7800,
+      "sourceVariantId": "caa5bf2e-fd26-4774-a47f-a25ff0d5008c"
+    },
+    {
+      "productKey": "usta-1010112",
+      "sku": "1010.11202",
+      "online": true,
+      "store": true,
+      "price": 5800,
+      "sourceVariantId": "b9ba962c-2501-47bf-aa52-9202fed78dd9"
+    },
+    {
+      "productKey": "usta-1010112",
+      "sku": "1010.11203",
+      "online": true,
+      "store": true,
+      "price": 4900,
+      "sourceVariantId": "abb814fb-2522-47c9-86a6-10a6cc092ad8"
+    },
+    {
+      "productKey": "usta-1010112",
+      "sku": "1010.11204",
+      "online": true,
+      "store": true,
+      "price": 4900,
+      "sourceVariantId": "5bb01f76-b72c-4185-a2f5-7289b5da61d6"
+    },
+    {
+      "productKey": "usta-1010112",
+      "sku": "1010.11206",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "17157f22-34b0-4d95-9751-6bbcbd8d45d9"
+    },
+    {
+      "productKey": "usta-1010111",
+      "sku": "1010.11101",
+      "online": true,
+      "store": true,
+      "price": 6860,
+      "sourceVariantId": "dbbbc42a-7d8d-4ac4-9aad-2f935f53cb22"
+    },
+    {
+      "productKey": "usta-1010111",
+      "sku": "1010.11102",
+      "online": true,
+      "store": true,
+      "price": 4410,
+      "sourceVariantId": "b6b87062-c695-4bb1-a856-71fd78ef65d3"
+    },
+    {
+      "productKey": "usta-1010111",
+      "sku": "1010.11103",
+      "online": true,
+      "store": true,
+      "price": 3675,
+      "sourceVariantId": "8ccfee0a-8cb4-4ce4-a027-ecb6138d5f24"
+    },
+    {
+      "productKey": "usta-1010111",
+      "sku": "1010.11104",
+      "online": true,
+      "store": true,
+      "price": 2940,
+      "sourceVariantId": "f64b56b7-4ce3-49ea-8989-c2b57cf473eb"
+    },
+    {
+      "productKey": "usta-1010111",
+      "sku": "1010.11106",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "b8c2fcb9-fd23-47e1-a80f-f801d4a9b93b"
+    },
+    {
+      "productKey": "usta-1010110",
+      "sku": "1010.11001",
+      "online": true,
+      "store": true,
+      "price": 6400,
+      "sourceVariantId": "3aca4494-ce79-42ba-8f87-767c1d884a36"
+    },
+    {
+      "productKey": "usta-1010110",
+      "sku": "1010.11002",
+      "online": true,
+      "store": true,
+      "price": 5500,
+      "sourceVariantId": "b8ce671b-f0fc-4c47-b596-48311ea378cd"
+    },
+    {
+      "productKey": "usta-1010110",
+      "sku": "1010.11003",
+      "online": true,
+      "store": true,
+      "price": 4600,
+      "sourceVariantId": "6bc19530-0206-4c2e-9423-2ff45340452f"
+    },
+    {
+      "productKey": "usta-1010110",
+      "sku": "1010.11004",
+      "online": true,
+      "store": true,
+      "price": 3650,
+      "sourceVariantId": "3e2f50ff-193f-4f1b-aa80-1e3f9bafb0f5"
+    },
+    {
+      "productKey": "usta-1010110",
+      "sku": "1010.11005",
+      "online": false,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "af20057a-2d0d-4d76-9cae-4d06a1cf9cd8"
+    },
+    {
+      "productKey": "usta-1010109",
+      "sku": "1010.10901",
+      "online": true,
+      "store": true,
+      "price": 7800,
+      "sourceVariantId": "6a32a4a1-1221-410b-be82-8a031547ecd4"
+    },
+    {
+      "productKey": "usta-1010109",
+      "sku": "1010.10902",
+      "online": true,
+      "store": true,
+      "price": 5940,
+      "sourceVariantId": "32a8c132-3cb3-4454-a1d6-729f3735d9ed"
+    },
+    {
+      "productKey": "usta-1010109",
+      "sku": "1010.10903",
+      "online": true,
+      "store": true,
+      "price": 4800,
+      "sourceVariantId": "8f68fe92-d500-4e91-820c-ddd2753253ca"
+    },
+    {
+      "productKey": "usta-1010109",
+      "sku": "1010.10904",
+      "online": true,
+      "store": true,
+      "price": 3900,
+      "sourceVariantId": "8440b840-8a53-426b-be37-760960e1b897"
+    },
+    {
+      "productKey": "usta-1010109",
+      "sku": "1010.10906",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "33a581f6-9eb7-4af2-904e-06258b1d5a4b"
+    },
+    {
+      "productKey": "usta-1010109",
+      "sku": "1010.10907",
+      "online": false,
+      "store": true,
+      "price": 570,
+      "sourceVariantId": "11db0d51-7b17-419f-a4f2-6633ac856370"
+    },
+    {
+      "productKey": "usta-1010109",
+      "sku": "1010.10908",
+      "online": false,
+      "store": true,
+      "price": 849.16,
+      "sourceVariantId": "ffd34f47-80d4-4d93-a99f-f8a7a64dbd02"
+    },
+    {
+      "productKey": "usta-1010107",
+      "sku": "1010.10701",
+      "online": true,
+      "store": true,
+      "price": 6440,
+      "sourceVariantId": "4cbc238f-d985-4353-bed5-cac9e778ecea"
+    },
+    {
+      "productKey": "usta-1010107",
+      "sku": "1010.10702",
+      "online": true,
+      "store": true,
+      "price": 3680,
+      "sourceVariantId": "ca0d0e4d-e2f0-45a3-a754-1392a21dd16b"
+    },
+    {
+      "productKey": "usta-1010107",
+      "sku": "1010.10703",
+      "online": true,
+      "store": true,
+      "price": 2760,
+      "sourceVariantId": "899319b5-a96d-4ab1-8b93-c29369c996ef"
+    },
+    {
+      "productKey": "usta-1010107",
+      "sku": "1010.10704",
+      "online": true,
+      "store": true,
+      "price": 1840,
+      "sourceVariantId": "116d4ca5-7573-4efb-91ea-7f322824dcfa"
+    },
+    {
+      "productKey": "usta-1010107",
+      "sku": "1010.10706",
+      "online": false,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "5f1be88c-3f59-45d4-934c-175fb5599823"
+    },
+    {
+      "productKey": "usta-1010106",
+      "sku": "1010.10601",
+      "online": true,
+      "store": true,
+      "price": 5145,
+      "sourceVariantId": "9b5fb63c-41cf-4369-88d0-c452ee3dc526"
+    },
+    {
+      "productKey": "usta-1010106",
+      "sku": "1010.10602",
+      "online": true,
+      "store": true,
+      "price": 4410,
+      "sourceVariantId": "dcc25594-d2c2-44d7-a256-78622646deb2"
+    },
+    {
+      "productKey": "usta-1010106",
+      "sku": "1010.10603",
+      "online": true,
+      "store": true,
+      "price": 3675,
+      "sourceVariantId": "c0fa160b-1437-4241-99f2-4996fc93e7ed"
+    },
+    {
+      "productKey": "usta-1010106",
+      "sku": "1010.10604",
+      "online": true,
+      "store": true,
+      "price": 2940,
+      "sourceVariantId": "43d3c523-9a28-45f9-8f95-c6d0c6074e21"
+    },
+    {
+      "productKey": "usta-1010106",
+      "sku": "1010.10606",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "c1cea165-5b1a-4afc-8092-411b88739166"
+    },
+    {
+      "productKey": "usta-1010106",
+      "sku": "1010.10607",
+      "online": false,
+      "store": true,
+      "price": 545,
+      "sourceVariantId": "50df4ebc-1514-40dd-ba5c-22cc14a321f2"
+    },
+    {
+      "productKey": "usta-1010105",
+      "sku": "1010.10501",
+      "online": true,
+      "store": true,
+      "price": 5880,
+      "sourceVariantId": "b37c36fc-b7e0-4415-a75b-c0bd672d78a5"
+    },
+    {
+      "productKey": "usta-1010105",
+      "sku": "1010.10502",
+      "online": true,
+      "store": true,
+      "price": 4410,
+      "sourceVariantId": "16b22f7b-d30a-4689-877d-245e75517cbf"
+    },
+    {
+      "productKey": "usta-1010105",
+      "sku": "1010.10503",
+      "online": true,
+      "store": true,
+      "price": 3675,
+      "sourceVariantId": "c6b03da6-0597-4345-bf64-269ba081c60c"
+    },
+    {
+      "productKey": "usta-1010105",
+      "sku": "1010.10504",
+      "online": true,
+      "store": true,
+      "price": 2940,
+      "sourceVariantId": "d647acef-63ef-44ef-bccd-751b062f4758"
+    },
+    {
+      "productKey": "usta-1010105",
+      "sku": "1010.10506",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "c2cc4b7b-bfca-482d-9b9b-0cb59ce6549d"
+    },
+    {
+      "productKey": "usta-1010104",
+      "sku": "1010.10401",
+      "online": true,
+      "store": true,
+      "price": 6440,
+      "sourceVariantId": "434663e9-c098-4e86-a8a8-13299eb9c2cc"
+    },
+    {
+      "productKey": "usta-1010104",
+      "sku": "1010.10402",
+      "online": true,
+      "store": true,
+      "price": 3680,
+      "sourceVariantId": "cfa60095-68ba-4274-bc79-4eddf5e47d2c"
+    },
+    {
+      "productKey": "usta-1010104",
+      "sku": "1010.10403",
+      "online": true,
+      "store": true,
+      "price": 2760,
+      "sourceVariantId": "faf1774e-0ad9-45be-9616-e944c24cc1a5"
+    },
+    {
+      "productKey": "usta-1010104",
+      "sku": "1010.10404",
+      "online": true,
+      "store": true,
+      "price": 1840,
+      "sourceVariantId": "5492fc4e-2bc0-4642-ae8e-52491483f2d8"
+    },
+    {
+      "productKey": "usta-1010104",
+      "sku": "1010.10406",
+      "online": false,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "746f6206-bdb8-41ab-bbbc-4ac0de75e9c3"
+    },
+    {
+      "productKey": "usta-1010103",
+      "sku": "1010.10301",
+      "online": true,
+      "store": true,
+      "price": 7300,
+      "sourceVariantId": "142bd8b3-27d2-426b-abdf-1c9ce9be0bed"
+    },
+    {
+      "productKey": "usta-1010103",
+      "sku": "1010.10302",
+      "online": true,
+      "store": true,
+      "price": 5500,
+      "sourceVariantId": "2108b950-744c-4263-9d1a-dae12e8d7933"
+    },
+    {
+      "productKey": "usta-1010103",
+      "sku": "1010.10303",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "1e579cc7-a774-43ff-aa49-1de2745e24ec"
+    },
+    {
+      "productKey": "usta-1010103",
+      "sku": "1010.10304",
+      "online": true,
+      "store": true,
+      "price": 4600,
+      "sourceVariantId": "2fb169ed-4dff-4c9e-9f9c-d7f295203fd1"
+    },
+    {
+      "productKey": "usta-1010103",
+      "sku": "1010.10306",
+      "online": false,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "e5348e70-adb7-4cad-b90e-94e82ac11ab7"
+    },
+    {
+      "productKey": "usta-1010102",
+      "sku": "1010.10201",
+      "online": true,
+      "store": true,
+      "price": 5880,
+      "sourceVariantId": "7c277da3-d929-4bfc-9405-7058d34509d3"
+    },
+    {
+      "productKey": "usta-1010102",
+      "sku": "1010.10202",
+      "online": true,
+      "store": true,
+      "price": 4410,
+      "sourceVariantId": "e27b4262-038e-4e8c-b9d3-dee0733ecfb0"
+    },
+    {
+      "productKey": "usta-1010102",
+      "sku": "1010.10203",
+      "online": true,
+      "store": true,
+      "price": 3675,
+      "sourceVariantId": "70b5d851-5fe4-4fba-a902-78a818c3fd25"
+    },
+    {
+      "productKey": "usta-1010102",
+      "sku": "1010.10204",
+      "online": true,
+      "store": true,
+      "price": 2940,
+      "sourceVariantId": "3ffecd76-8543-4833-8db2-8b72bf9c1824"
+    },
+    {
+      "productKey": "usta-1010102",
+      "sku": "1010.10206",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "8723fa3d-f273-4eeb-882a-889b65e61748"
+    },
+    {
+      "productKey": "usta-1010101",
+      "sku": "1010.10101",
+      "online": true,
+      "store": true,
+      "price": 5520,
+      "sourceVariantId": "7fc143bf-a13b-4cee-acd5-aee00189de4e"
+    },
+    {
+      "productKey": "usta-1010101",
+      "sku": "1010.10102",
+      "online": true,
+      "store": true,
+      "price": 4140,
+      "sourceVariantId": "8238f230-9c2b-4f24-b6ea-4c9fe999a153"
+    },
+    {
+      "productKey": "usta-1010101",
+      "sku": "1010.10103",
+      "online": true,
+      "store": true,
+      "price": 3450,
+      "sourceVariantId": "71a52f70-1d37-4c58-bced-643ce0c9c2ec"
+    },
+    {
+      "productKey": "usta-1010101",
+      "sku": "1010.10104",
+      "online": true,
+      "store": true,
+      "price": 2760,
+      "sourceVariantId": "664f9f9f-b8b8-4f79-9ff7-d59a0fa4ae83"
+    },
+    {
+      "productKey": "usta-1010101",
+      "sku": "1010.10106",
+      "online": false,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "89488f56-5046-4e86-9d2d-c755c4af65c0"
+    },
+    {
+      "productKey": "usta-1010116",
+      "sku": "1010.11601",
+      "online": true,
+      "store": true,
+      "price": 7800,
+      "sourceVariantId": "08c1e97b-f040-4693-92de-14454a7b487c"
+    },
+    {
+      "productKey": "usta-1010116",
+      "sku": "1010.11602",
+      "online": true,
+      "store": true,
+      "price": 5800,
+      "sourceVariantId": "24af30ac-f60a-4553-a9dd-e1f85ad54aa1"
+    },
+    {
+      "productKey": "usta-1010116",
+      "sku": "1010.11603",
+      "online": true,
+      "store": true,
+      "price": 4800,
+      "sourceVariantId": "d02f98e6-19dc-444d-afeb-ac8572f92de6"
+    },
+    {
+      "productKey": "usta-1010116",
+      "sku": "1010.11604",
+      "online": true,
+      "store": true,
+      "price": 3900,
+      "sourceVariantId": "02a80d5a-2260-4629-918f-665f9254022f"
+    },
+    {
+      "productKey": "usta-1010116",
+      "sku": "1010.11606",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "ed59f2a4-ff23-474d-a6aa-019e3f079bb8"
+    },
+    {
+      "productKey": "usta-1010116",
+      "sku": "1010.11608",
+      "online": false,
+      "store": true,
+      "price": 650,
+      "sourceVariantId": "a5fd4761-de3f-49e0-a628-7dbe7cb6ba67"
+    },
+    {
+      "productKey": "usta-1613100",
+      "sku": "1613.10001",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "183f957e-8ef4-40e1-ad6f-5ccc6d0ee1f4"
+    },
+    {
+      "productKey": "usta-1613100",
+      "sku": "1613.10002",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "ec96bb86-2536-400e-9e24-afbc8a46d629"
+    },
+    {
+      "productKey": "usta-1615100",
+      "sku": "1615.10001",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "89efe463-a0b7-4ee6-9fc6-d34074271ffb"
+    },
+    {
+      "productKey": "usta-1615100",
+      "sku": "1615.10002",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "e3715796-e277-47de-9643-9ccecdf19ae7"
+    },
+    {
+      "productKey": "usta-1610100",
+      "sku": "1610.10001",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "eb01adb1-1d0a-4f34-9fbe-09ec0bdc96ae"
+    },
+    {
+      "productKey": "usta-1610100",
+      "sku": "1610.10002",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "6fab73f3-6f10-43d1-961d-de2f9c1bb885"
+    },
+    {
+      "productKey": "usta-1616100",
+      "sku": "1616.10001",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "ee2a45fd-4ee3-4f92-bdae-e50cb2a5e6d6"
+    },
+    {
+      "productKey": "usta-1616100",
+      "sku": "1616.10002",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "4af87dc6-a7c1-4ed2-b86a-076bce17b64a"
+    },
+    {
+      "productKey": "usta-1615102",
+      "sku": "1615.10201",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "7930b6dc-175c-4f68-a85f-e607acb1284c"
+    },
+    {
+      "productKey": "usta-1615102",
+      "sku": "1615.10202",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "e64f448b-d29d-4ed0-a967-1d80e627bf16"
+    },
+    {
+      "productKey": "usta-1611100",
+      "sku": "1611.10001",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "ca11c932-6d93-43c7-83e1-c74346aef400"
+    },
+    {
+      "productKey": "usta-1611100",
+      "sku": "1611.10002",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "3c11c393-dfa6-4006-a660-67c26d2f96ab"
+    },
+    {
+      "productKey": "usta-1611103",
+      "sku": "1611.10301",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "c88a2303-645b-458b-b365-2ce4013b9c3c"
+    },
+    {
+      "productKey": "usta-1611103",
+      "sku": "1611.10302",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "b413554b-fb66-45f9-9eed-03e70ca03c82"
+    },
+    {
+      "productKey": "usta-1616101",
+      "sku": "1616.10101",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "80e947b4-3f89-42d5-8894-b295ad6de7ca"
+    },
+    {
+      "productKey": "usta-1616101",
+      "sku": "1616.10102",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "d42aa6f1-8e71-45f4-835e-bb3940baa270"
+    },
+    {
+      "productKey": "usta-1615101",
+      "sku": "1615.10101",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "28161428-875a-4b57-acef-e61692d2037d"
+    },
+    {
+      "productKey": "usta-1615101",
+      "sku": "1615.10102",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "463c03b9-99ba-46e1-a61f-d04963aa60fa"
+    },
+    {
+      "productKey": "usta-1612101",
+      "sku": "1612.10101",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "52eb18bc-b19c-402f-bd07-7a50131520c4"
+    },
+    {
+      "productKey": "usta-1612101",
+      "sku": "1612.10102",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "6c43fbc2-32ac-44fa-a1db-8c1a7bf7537c"
+    },
+    {
+      "productKey": "usta-1617101",
+      "sku": "1617.10101",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "44ee59cd-0500-43d5-bb37-83ceaabc1083"
+    },
+    {
+      "productKey": "usta-1617101",
+      "sku": "1617.10102",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "81213824-c18a-4c52-9fd6-e39b403709de"
+    },
+    {
+      "productKey": "usta-1617100",
+      "sku": "1617.10001",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "7ee2aa60-da8c-4dce-8bd2-12c8efa2a176"
+    },
+    {
+      "productKey": "usta-1617100",
+      "sku": "1617.10002",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "60e97fd4-4961-42a7-a48e-1b366f43b67b"
+    },
+    {
+      "productKey": "usta-1614101",
+      "sku": "1614.10101",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "7642ec94-2003-4f09-8e59-ff9dd82b2368"
+    },
+    {
+      "productKey": "usta-1614101",
+      "sku": "1614.10102",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "29d83468-a1bc-4d49-a138-73020a812c24"
+    },
+    {
+      "productKey": "usta-1612102",
+      "sku": "1612.10201",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "e9bba9a2-dd0e-47ad-8b50-7f473277aac9"
+    },
+    {
+      "productKey": "usta-1612102",
+      "sku": "1612.10202",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "f2941778-50c6-4e28-85ad-f9fb386688fe"
+    },
+    {
+      "productKey": "usta-1612100",
+      "sku": "1612.10001",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "e58b2367-7495-4ea0-901e-8623a3f05e21"
+    },
+    {
+      "productKey": "usta-1612100",
+      "sku": "1612.10002",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "e1c53629-cc4c-4159-b9c3-cea5c0e5056f"
+    },
+    {
+      "productKey": "usta-1611102",
+      "sku": "1611.10201",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "a5eb48b6-8a43-42d5-8d27-7d31daa09e7b"
+    },
+    {
+      "productKey": "usta-1611102",
+      "sku": "1611.10202",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "a7bb4b12-9dc9-40a8-b2a1-56fbd7ddf11c"
+    },
+    {
+      "productKey": "usta-1611101",
+      "sku": "1611.10101",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "ed31584a-e714-4d2b-9047-d11e6a517a51"
+    },
+    {
+      "productKey": "usta-1611101",
+      "sku": "1611.10102",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "c97123ee-437a-46c7-b09e-cf7316fc2749"
+    },
+    {
+      "productKey": "usta-1614100",
+      "sku": "1614.10001",
+      "online": true,
+      "store": true,
+      "price": 460,
+      "sourceVariantId": "2637c4ce-085a-4098-a3b8-f5dd5f63dcc4"
+    },
+    {
+      "productKey": "usta-1614100",
+      "sku": "1614.10002",
+      "online": true,
+      "store": true,
+      "price": 2750,
+      "sourceVariantId": "162f674f-7869-4a1f-a9a8-bc4a5668e28b"
+    },
+    {
+      "productKey": "usta-1811100",
+      "sku": "1811.10001",
+      "online": false,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "7cb46e18-fb0d-4576-ba31-b71ed9e49e41"
+    },
+    {
+      "productKey": "usta-1811101",
+      "sku": "1811.10101",
+      "online": false,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "4090944f-af72-4294-978f-a3dbddae7720"
+    },
+    {
+      "productKey": "usta-1811102",
+      "sku": "1811.10201",
+      "online": false,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "3d6e2f20-66c2-4575-a751-f2994c8948af"
+    },
+    {
+      "productKey": "usta-1011109",
+      "sku": "1011.10901",
+      "online": true,
+      "store": true,
+      "price": 5040,
+      "sourceVariantId": "35455062-3e8d-491c-8e79-e2a099a3550a"
+    },
+    {
+      "productKey": "usta-1011109",
+      "sku": "1011.10902",
+      "online": true,
+      "store": true,
+      "price": 5040,
+      "sourceVariantId": "41e2d3e3-22d7-4638-948d-9ab2199027c9"
+    },
+    {
+      "productKey": "usta-1011109",
+      "sku": "1011.10903",
+      "online": true,
+      "store": true,
+      "price": 4200,
+      "sourceVariantId": "33239194-1e12-4017-8f74-3672f098e32a"
+    },
+    {
+      "productKey": "usta-1011109",
+      "sku": "1011.10904",
+      "online": true,
+      "store": true,
+      "price": 3360,
+      "sourceVariantId": "6467b9e9-592d-47f2-90b7-72a035ead71c"
+    },
+    {
+      "productKey": "usta-1011109",
+      "sku": "1011.10906",
+      "online": false,
+      "store": true,
+      "price": 420,
+      "sourceVariantId": "a5561336-f4bb-4c41-897e-1676110d239d"
+    },
+    {
+      "productKey": "usta-1011109",
+      "sku": "1011.10908",
+      "online": false,
+      "store": true,
+      "price": 565,
+      "sourceVariantId": "cf1367e3-3b6a-4c7b-bd9e-fdae22c52b7f"
+    },
+    {
+      "productKey": "usta-1011109",
+      "sku": "1011.10909",
+      "online": false,
+      "store": true,
+      "price": 835,
+      "sourceVariantId": "6fe50a13-8030-417e-89d4-0e59d2c854b3"
+    },
+    {
+      "productKey": "usta-1213102",
+      "sku": "1213.10201",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "ca5d2ad1-0b19-4af7-aeaf-eb21a4ffc43e"
+    },
+    {
+      "productKey": "usta-1213101",
+      "sku": "1213.10101",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "0174a16e-f3fe-4e8f-b2a5-a278d59b454a"
+    },
+    {
+      "productKey": "usta-1213100",
+      "sku": "1213.10001",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "30ba5e0f-faa9-4731-a7b9-2ff2976b5471"
+    },
+    {
+      "productKey": "usta-1212101",
+      "sku": "1212.10101",
+      "online": false,
+      "store": true,
+      "price": 300,
+      "sourceVariantId": "c89f57cb-1cec-4d2b-bbe7-78d6083f9ff7"
+    },
+    {
+      "productKey": "usta-1212101",
+      "sku": "1212.10102",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "e7f0ce2f-9cbd-4e11-8159-b5655a523a36"
+    },
+    {
+      "productKey": "usta-1212101",
+      "sku": "1212.10103",
+      "online": true,
+      "store": true,
+      "price": 2400,
+      "sourceVariantId": "88bd1543-82e6-4fb5-9909-0effe928561e"
+    },
+    {
+      "productKey": "usta-1212101",
+      "sku": "1212.10104",
+      "online": true,
+      "store": true,
+      "price": 1200,
+      "sourceVariantId": "acdca88c-8a71-44f7-a3db-6a51a1a0d4a3"
+    },
+    {
+      "productKey": "usta-1212101",
+      "sku": "1212.10105",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "d22fcea3-8711-4860-b8fd-48cd4b19af01"
+    },
+    {
+      "productKey": "usta-1212100",
+      "sku": "1212.10001",
+      "online": false,
+      "store": true,
+      "price": 300,
+      "sourceVariantId": "0f9521fc-f430-4f7d-8145-e4695385f9f4"
+    },
+    {
+      "productKey": "usta-1212100",
+      "sku": "1212.10002",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "8dd2a8dd-12c6-4c4e-a097-30e88aff4e61"
+    },
+    {
+      "productKey": "usta-1212100",
+      "sku": "1212.10003",
+      "online": true,
+      "store": true,
+      "price": 2400,
+      "sourceVariantId": "d0e36b4e-be10-4554-b506-ccdb2ba3cf95"
+    },
+    {
+      "productKey": "usta-1212100",
+      "sku": "1212.10004",
+      "online": true,
+      "store": true,
+      "price": 1200,
+      "sourceVariantId": "b0cab7c2-0e7c-482d-b2f3-b88e6e21e341"
+    },
+    {
+      "productKey": "usta-1212100",
+      "sku": "1212.10005",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "2e041e87-0863-4cc0-b50c-3edd1e18e40f"
+    },
+    {
+      "productKey": "usta-1211100",
+      "sku": "1211.10001",
+      "online": false,
+      "store": true,
+      "price": 300,
+      "sourceVariantId": "0e2cb95f-dbdd-4bd8-a147-180a6c5a0d63"
+    },
+    {
+      "productKey": "usta-1211100",
+      "sku": "1211.10002",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "0ce253c1-507a-4575-9fe0-b269020b84f8"
+    },
+    {
+      "productKey": "usta-1211100",
+      "sku": "1211.10003",
+      "online": true,
+      "store": true,
+      "price": 2400,
+      "sourceVariantId": "328b5383-b5ae-43a0-bfbd-a1614a37928e"
+    },
+    {
+      "productKey": "usta-1211100",
+      "sku": "1211.10004",
+      "online": true,
+      "store": true,
+      "price": 1200,
+      "sourceVariantId": "18f0913b-a5e0-4ad0-acd7-ec9ece8a4ae0"
+    },
+    {
+      "productKey": "usta-1211100",
+      "sku": "1211.10005",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "335d7372-7390-4db8-800b-0da21821d655"
+    },
+    {
+      "productKey": "usta-1210104",
+      "sku": "1210.10401",
+      "online": false,
+      "store": true,
+      "price": 300,
+      "sourceVariantId": "35aef4e5-d13f-42bc-8b65-f70a0a13f24c"
+    },
+    {
+      "productKey": "usta-1210104",
+      "sku": "1210.10402",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "63c022ab-b124-4c6e-988c-4f91cef52258"
+    },
+    {
+      "productKey": "usta-1210104",
+      "sku": "1210.10403",
+      "online": true,
+      "store": true,
+      "price": 2400,
+      "sourceVariantId": "3d97fcce-82e1-4bae-bb24-12a89ab2756a"
+    },
+    {
+      "productKey": "usta-1210104",
+      "sku": "1210.10404",
+      "online": true,
+      "store": true,
+      "price": 1200,
+      "sourceVariantId": "e31d418f-7752-482a-a628-59d84ba71646"
+    },
+    {
+      "productKey": "usta-1210104",
+      "sku": "1210.10405",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "b53fe905-972e-4727-85a7-07f99a36b269"
+    },
+    {
+      "productKey": "usta-1210103",
+      "sku": "1210.10301",
+      "online": false,
+      "store": true,
+      "price": 470,
+      "sourceVariantId": "6d2b415c-eae0-4445-9c27-d830e8e99957"
+    },
+    {
+      "productKey": "usta-1210103",
+      "sku": "1210.10302",
+      "online": true,
+      "store": true,
+      "price": 5640,
+      "sourceVariantId": "f958aeee-4aaf-4d25-abe8-656e5c708fd9"
+    },
+    {
+      "productKey": "usta-1210103",
+      "sku": "1210.10303",
+      "online": true,
+      "store": true,
+      "price": 3760,
+      "sourceVariantId": "266c5fe7-14d1-4c2d-86f1-6991e6684c2d"
+    },
+    {
+      "productKey": "usta-1210103",
+      "sku": "1210.10304",
+      "online": true,
+      "store": true,
+      "price": 1880,
+      "sourceVariantId": "996724d3-ac3e-43d6-8468-967b548895b9"
+    },
+    {
+      "productKey": "usta-1210103",
+      "sku": "1210.10305",
+      "online": true,
+      "store": true,
+      "price": 940,
+      "sourceVariantId": "e5fa8506-e010-4f19-b3b6-bb423b5e6af7"
+    },
+    {
+      "productKey": "usta-1210102",
+      "sku": "1210.10201",
+      "online": false,
+      "store": true,
+      "price": 215,
+      "sourceVariantId": "7aa6cfc1-a06a-4516-a474-68d625e43e07"
+    },
+    {
+      "productKey": "usta-1210102",
+      "sku": "1210.10202",
+      "online": true,
+      "store": true,
+      "price": 2580,
+      "sourceVariantId": "0f371c28-dae2-4f77-8851-4950f543c2b5"
+    },
+    {
+      "productKey": "usta-1210102",
+      "sku": "1210.10203",
+      "online": true,
+      "store": true,
+      "price": 1720,
+      "sourceVariantId": "db93bbce-5200-44e0-939e-964b84e578c9"
+    },
+    {
+      "productKey": "usta-1210102",
+      "sku": "1210.10204",
+      "online": true,
+      "store": true,
+      "price": 860,
+      "sourceVariantId": "a0eaeca8-4ea8-4b15-8049-93e44f8b9ab2"
+    },
+    {
+      "productKey": "usta-1210102",
+      "sku": "1210.10205",
+      "online": true,
+      "store": true,
+      "price": 430,
+      "sourceVariantId": "356ac8f2-4ae6-4834-a493-d5f67bf05672"
+    },
+    {
+      "productKey": "usta-1210101",
+      "sku": "1210.10101",
+      "online": true,
+      "store": true,
+      "price": 5160,
+      "sourceVariantId": "1f62bee5-a412-4ad9-a0b7-2d594f641ef1"
+    },
+    {
+      "productKey": "usta-1210101",
+      "sku": "1210.10102",
+      "online": true,
+      "store": true,
+      "price": 3440,
+      "sourceVariantId": "288bf637-e7c0-4a06-810c-adaa4b5a76fa"
+    },
+    {
+      "productKey": "usta-1210101",
+      "sku": "1210.10103",
+      "online": true,
+      "store": true,
+      "price": 1720,
+      "sourceVariantId": "7e11c7f6-d358-4265-8acc-58020ab082ec"
+    },
+    {
+      "productKey": "usta-1210101",
+      "sku": "1210.10104",
+      "online": true,
+      "store": true,
+      "price": 860,
+      "sourceVariantId": "195b50b2-9d05-4091-ae55-1a7ca3ca8748"
+    },
+    {
+      "productKey": "usta-1210101",
+      "sku": "1210.10105",
+      "online": false,
+      "store": true,
+      "price": 430,
+      "sourceVariantId": "1eeacc7d-91ad-430e-90d9-94023e24963c"
+    },
+    {
+      "productKey": "usta-1210100",
+      "sku": "1210.10001",
+      "online": false,
+      "store": true,
+      "price": 430,
+      "sourceVariantId": "81158bbf-6417-4a6e-ad82-3d44b2d9a4ac"
+    },
+    {
+      "productKey": "usta-1210100",
+      "sku": "1210.10002",
+      "online": true,
+      "store": true,
+      "price": 5160,
+      "sourceVariantId": "f0e6e71f-d742-48d8-83bc-4ce3e0b75aef"
+    },
+    {
+      "productKey": "usta-1210100",
+      "sku": "1210.10003",
+      "online": true,
+      "store": true,
+      "price": 3440,
+      "sourceVariantId": "c6b34c59-ece7-42e7-a1ef-ab3f7f3971b7"
+    },
+    {
+      "productKey": "usta-1210100",
+      "sku": "1210.10004",
+      "online": true,
+      "store": true,
+      "price": 1720,
+      "sourceVariantId": "ae9ac3f5-c31d-4315-8f9a-36dc8eda9857"
+    },
+    {
+      "productKey": "usta-1210100",
+      "sku": "1210.10005",
+      "online": true,
+      "store": true,
+      "price": 860,
+      "sourceVariantId": "b38ec8d5-d0b3-4b0f-9d1a-d758f02fb90a"
+    },
+    {
+      "productKey": "usta-1700104",
+      "sku": "1700.10401",
+      "online": false,
+      "store": true,
+      "price": 400,
+      "sourceVariantId": "e1d022ca-8711-4f23-83ce-a5a8ad5639b3"
+    },
+    {
+      "productKey": "usta-1700103",
+      "sku": "1700.10301",
+      "online": false,
+      "store": true,
+      "price": 400,
+      "sourceVariantId": "cab82216-fa43-41ad-a922-2a30bda48925"
+    },
+    {
+      "productKey": "usta-1700102",
+      "sku": "1700.10201",
+      "online": false,
+      "store": true,
+      "price": 400,
+      "sourceVariantId": "1ec270d3-6dd8-4fe3-96a7-6b75ceb7bd45"
+    },
+    {
+      "productKey": "usta-1700101",
+      "sku": "1700.10101",
+      "online": false,
+      "store": true,
+      "price": 400,
+      "sourceVariantId": "c4ba63d0-7288-4f35-84b9-393e2f359e8b"
+    },
+    {
+      "productKey": "usta-1700100",
+      "sku": "1700.10001",
+      "online": false,
+      "store": true,
+      "price": 400,
+      "sourceVariantId": "94dccd6c-6ca0-4cab-81e2-17594e3b2dda"
+    },
+    {
+      "productKey": "usta-1811103",
+      "sku": "1811.10301",
+      "online": false,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "2d6da54d-6ded-4e81-a92c-4a1fb91b8560"
+    },
+    {
+      "productKey": "usta-1810102",
+      "sku": "1810.10201",
+      "online": false,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "5fd372c8-0302-4fcd-8268-236ad891af01"
+    },
+    {
+      "productKey": "usta-1010113",
+      "sku": "1010.11301",
+      "online": true,
+      "store": true,
+      "price": 6800,
+      "sourceVariantId": "436c8a05-1011-4e51-91b7-68ca3c57ff09"
+    },
+    {
+      "productKey": "usta-1010113",
+      "sku": "1010.11302",
+      "online": true,
+      "store": true,
+      "price": 5800,
+      "sourceVariantId": "984b9740-5dbb-48e4-b9db-6b88a5760697"
+    },
+    {
+      "productKey": "usta-1010113",
+      "sku": "1010.11303",
+      "online": true,
+      "store": true,
+      "price": 4800,
+      "sourceVariantId": "1a27648d-4e92-4607-a7c6-6919e4fe4728"
+    },
+    {
+      "productKey": "usta-1010113",
+      "sku": "1010.11304",
+      "online": true,
+      "store": true,
+      "price": 3900,
+      "sourceVariantId": "d1ecf326-862b-4a9a-b629-2b891663b26f"
+    },
+    {
+      "productKey": "usta-1010113",
+      "sku": "1010.11306",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "53bf0530-48b5-4da9-b268-dd3165a3c081"
+    },
+    {
+      "productKey": "usta-1010108",
+      "sku": "1010.10801",
+      "online": true,
+      "store": true,
+      "price": 5875,
+      "sourceVariantId": "5b4051fc-bbe5-43b2-8bf1-7831762d1fd8"
+    },
+    {
+      "productKey": "usta-1010108",
+      "sku": "1010.10802",
+      "online": true,
+      "store": true,
+      "price": 5800,
+      "sourceVariantId": "6e4274dc-e88c-4c8c-a502-7a128f53164b"
+    },
+    {
+      "productKey": "usta-1010108",
+      "sku": "1010.10803",
+      "online": true,
+      "store": true,
+      "price": 4800,
+      "sourceVariantId": "bdaff531-180e-423d-bc0a-d42942f699ed"
+    },
+    {
+      "productKey": "usta-1010108",
+      "sku": "1010.10804",
+      "online": true,
+      "store": true,
+      "price": 3900,
+      "sourceVariantId": "7625614f-7f8a-4400-93e1-2d1dbeb7be6c"
+    },
+    {
+      "productKey": "usta-1010108",
+      "sku": "1010.10806",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "2a904ad4-a874-4427-9c88-f9ab821cea14"
+    },
+    {
+      "productKey": "usta-1010100",
+      "sku": "1010.10001",
+      "online": true,
+      "store": true,
+      "price": 7800,
+      "sourceVariantId": "2055f151-33df-40d1-8092-0ff22c684072"
+    },
+    {
+      "productKey": "usta-1010100",
+      "sku": "1010.10002",
+      "online": true,
+      "store": true,
+      "price": 2950,
+      "sourceVariantId": "65944903-b392-40a4-ad88-579ad813cfb9"
+    },
+    {
+      "productKey": "usta-1010100",
+      "sku": "1010.10003",
+      "online": true,
+      "store": true,
+      "price": 5000,
+      "sourceVariantId": "38e156ba-8697-4cb9-88b2-0791f1fe9394"
+    },
+    {
+      "productKey": "usta-1010100",
+      "sku": "1010.10004",
+      "online": true,
+      "store": true,
+      "price": 4575,
+      "sourceVariantId": "1d933c11-bcba-4d0c-8003-4c077b819e47"
+    },
+    {
+      "productKey": "usta-1010100",
+      "sku": "1010.10005",
+      "online": false,
+      "store": true,
+      "price": 490,
+      "sourceVariantId": "cea25e82-cead-4bef-9e9b-8e5925a8e9f3"
+    },
+    {
+      "productKey": "usta-1114101",
+      "sku": "1114.10101",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "454631b7-b28b-44c5-9d95-1aefc29ee3b1"
+    },
+    {
+      "productKey": "usta-1114101",
+      "sku": "1114.10102",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "8016665d-54bf-4bb6-aa9e-e1a65b79aeb8"
+    },
+    {
+      "productKey": "usta-1114101",
+      "sku": "1114.10103",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "039bb963-6e2e-46c7-8ffb-a54d1d2545d4"
+    },
+    {
+      "productKey": "usta-1114101",
+      "sku": "1114.10104",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "274e35c8-4129-4c22-99b0-80265918014e"
+    },
+    {
+      "productKey": "usta-1115101",
+      "sku": "1115.10101",
+      "online": true,
+      "store": true,
+      "price": 2700,
+      "sourceVariantId": "ae87687a-528e-43e6-aa25-4e0043d96a36"
+    },
+    {
+      "productKey": "usta-1115101",
+      "sku": "1115.10102",
+      "online": true,
+      "store": true,
+      "price": 1500,
+      "sourceVariantId": "a500195c-7695-4344-831e-86ebba581038"
+    },
+    {
+      "productKey": "usta-1115101",
+      "sku": "1115.10103",
+      "online": true,
+      "store": true,
+      "price": 1080,
+      "sourceVariantId": "82113baf-f176-4fe5-a992-64f2474ba497"
+    },
+    {
+      "productKey": "usta-1115101",
+      "sku": "1115.10104",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "2f1cda10-71a6-465e-b860-5dd3fd682575"
+    },
+    {
+      "productKey": "usta-1115105",
+      "sku": "1115.10501",
+      "online": true,
+      "store": true,
+      "price": 2700,
+      "sourceVariantId": "22897177-b2a2-4949-b27b-c5f990bcedb6"
+    },
+    {
+      "productKey": "usta-1115105",
+      "sku": "1115.10502",
+      "online": true,
+      "store": true,
+      "price": 1500,
+      "sourceVariantId": "2f3104cf-7b04-4969-8ffb-87780b19d3fc"
+    },
+    {
+      "productKey": "usta-1115105",
+      "sku": "1115.10503",
+      "online": true,
+      "store": true,
+      "price": 1080,
+      "sourceVariantId": "4b289ad9-0145-44b2-811a-8fb38d317c4a"
+    },
+    {
+      "productKey": "usta-1115105",
+      "sku": "1115.10504",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "431921ea-970e-4054-9522-f03a31429ceb"
+    },
+    {
+      "productKey": "usta-1115108",
+      "sku": "1115.10801",
+      "online": true,
+      "store": true,
+      "price": 2700,
+      "sourceVariantId": "72b8221e-5e73-472f-a273-002dc5937093"
+    },
+    {
+      "productKey": "usta-1115108",
+      "sku": "1115.10802",
+      "online": true,
+      "store": true,
+      "price": 1500,
+      "sourceVariantId": "2bc37b02-e882-40c3-9e24-cd30cf87c84f"
+    },
+    {
+      "productKey": "usta-1115108",
+      "sku": "1115.10803",
+      "online": true,
+      "store": true,
+      "price": 1080,
+      "sourceVariantId": "cfe8d9fa-e325-4237-ac33-85fc3f7cfe7d"
+    },
+    {
+      "productKey": "usta-1115108",
+      "sku": "1115.10804",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "25049353-6149-4b74-968e-23caa6d2f22d"
+    },
+    {
+      "productKey": "usta-1115100",
+      "sku": "1115.10001",
+      "online": true,
+      "store": true,
+      "price": 2700,
+      "sourceVariantId": "45447226-003e-4528-aca8-df9aeb11082f"
+    },
+    {
+      "productKey": "usta-1115100",
+      "sku": "1115.10002",
+      "online": true,
+      "store": true,
+      "price": 1500,
+      "sourceVariantId": "7c68878a-041c-490b-926b-00e7c28c461f"
+    },
+    {
+      "productKey": "usta-1115100",
+      "sku": "1115.10003",
+      "online": true,
+      "store": true,
+      "price": 1080,
+      "sourceVariantId": "77ae285e-afac-43d9-9608-5afe2df889da"
+    },
+    {
+      "productKey": "usta-1115100",
+      "sku": "1115.10004",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "bb939b26-c8c0-4677-adda-9a55021e665c"
+    },
+    {
+      "productKey": "usta-1115107",
+      "sku": "1115.10701",
+      "online": true,
+      "store": true,
+      "price": 2700,
+      "sourceVariantId": "f3b454f2-cd67-4a42-9f6d-f62b01812178"
+    },
+    {
+      "productKey": "usta-1115107",
+      "sku": "1115.10702",
+      "online": true,
+      "store": true,
+      "price": 1500,
+      "sourceVariantId": "72ae19d2-1207-4662-8f80-3d562dad83ca"
+    },
+    {
+      "productKey": "usta-1115107",
+      "sku": "1115.10703",
+      "online": true,
+      "store": true,
+      "price": 1080,
+      "sourceVariantId": "60857b75-019a-4d51-beaa-99c887ce2a21"
+    },
+    {
+      "productKey": "usta-1115107",
+      "sku": "1115.10704",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "94fff173-3b38-4e39-84cb-0916beb36aa5"
+    },
+    {
+      "productKey": "usta-1115103",
+      "sku": "1115.10301",
+      "online": true,
+      "store": true,
+      "price": 2700,
+      "sourceVariantId": "1e7aa9b2-7c6d-4562-b018-88da2aabae5f"
+    },
+    {
+      "productKey": "usta-1115103",
+      "sku": "1115.10302",
+      "online": true,
+      "store": true,
+      "price": 1500,
+      "sourceVariantId": "adc05f3c-05f9-445e-b573-7db1d5a425e7"
+    },
+    {
+      "productKey": "usta-1115103",
+      "sku": "1115.10303",
+      "online": true,
+      "store": true,
+      "price": 1080,
+      "sourceVariantId": "d6dc290c-f8a3-414a-a8aa-5dc6c51effbd"
+    },
+    {
+      "productKey": "usta-1115103",
+      "sku": "1115.10304",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "a4582496-caea-4d6e-ac4f-e4f137ddbe9e"
+    },
+    {
+      "productKey": "usta-1115104",
+      "sku": "1115.10401",
+      "online": true,
+      "store": true,
+      "price": 2700,
+      "sourceVariantId": "b8ab2a06-8630-43ba-9b4a-918eba4b8ed7"
+    },
+    {
+      "productKey": "usta-1115104",
+      "sku": "1115.10402",
+      "online": true,
+      "store": true,
+      "price": 1500,
+      "sourceVariantId": "91d07501-1545-432e-bf6a-4e5eb8f2af12"
+    },
+    {
+      "productKey": "usta-1115104",
+      "sku": "1115.10403",
+      "online": true,
+      "store": true,
+      "price": 1080,
+      "sourceVariantId": "2a97bd63-db51-4421-b5d0-70919e3c4d72"
+    },
+    {
+      "productKey": "usta-1115104",
+      "sku": "1115.10404",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "cda88d58-7b3d-4391-a8e3-76a38d3b6825"
+    },
+    {
+      "productKey": "usta-1115102",
+      "sku": "1115.10201",
+      "online": true,
+      "store": true,
+      "price": 2700,
+      "sourceVariantId": "e551d5f5-85cc-4c05-a7a9-4a5d23e2cfaa"
+    },
+    {
+      "productKey": "usta-1115102",
+      "sku": "1115.10202",
+      "online": true,
+      "store": true,
+      "price": 1500,
+      "sourceVariantId": "76de9f17-41b3-47a7-9caa-e8f0aaef3263"
+    },
+    {
+      "productKey": "usta-1115102",
+      "sku": "1115.10203",
+      "online": true,
+      "store": true,
+      "price": 1080,
+      "sourceVariantId": "37e7c09c-c290-4030-9448-71c2ecf221a1"
+    },
+    {
+      "productKey": "usta-1115102",
+      "sku": "1115.10204",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "43dd7054-549f-4884-9064-fed823897610"
+    },
+    {
+      "productKey": "usta-1113100",
+      "sku": "1113.10001",
+      "online": true,
+      "store": true,
+      "price": 4050,
+      "sourceVariantId": "b7450aa9-42c9-4980-8829-66111d15f531"
+    },
+    {
+      "productKey": "usta-1113100",
+      "sku": "1113.10002",
+      "online": true,
+      "store": true,
+      "price": 2250,
+      "sourceVariantId": "d8deeb83-352a-47f0-b39a-7c2440b89ddb"
+    },
+    {
+      "productKey": "usta-1113100",
+      "sku": "1113.10003",
+      "online": true,
+      "store": true,
+      "price": 1620,
+      "sourceVariantId": "4321ab22-5328-4d6c-b578-7fbe1f992b75"
+    },
+    {
+      "productKey": "usta-1113100",
+      "sku": "1113.10004",
+      "online": true,
+      "store": true,
+      "price": 900,
+      "sourceVariantId": "083d2020-88bd-4c9d-b47c-f1678467219a"
+    },
+    {
+      "productKey": "usta-1113101",
+      "sku": "1113.10101",
+      "online": true,
+      "store": true,
+      "price": 4050,
+      "sourceVariantId": "271833c5-2301-485e-afba-45340c59908a"
+    },
+    {
+      "productKey": "usta-1113101",
+      "sku": "1113.10102",
+      "online": true,
+      "store": true,
+      "price": 2250,
+      "sourceVariantId": "f48624cf-6a60-4c42-8ea7-b6e9489f445f"
+    },
+    {
+      "productKey": "usta-1113101",
+      "sku": "1113.10103",
+      "online": true,
+      "store": true,
+      "price": 1620,
+      "sourceVariantId": "740f9448-5d44-4579-aed5-c0f60ba7d2a3"
+    },
+    {
+      "productKey": "usta-1113101",
+      "sku": "1113.10104",
+      "online": true,
+      "store": true,
+      "price": 900,
+      "sourceVariantId": "7d72c479-2d15-408f-8dc3-44550f0d5757"
+    },
+    {
+      "productKey": "usta-1115106",
+      "sku": "1115.10601",
+      "online": true,
+      "store": true,
+      "price": 2700,
+      "sourceVariantId": "9611e8b1-c7ab-48ce-b864-b18fe3c41295"
+    },
+    {
+      "productKey": "usta-1115106",
+      "sku": "1115.10602",
+      "online": true,
+      "store": true,
+      "price": 1500,
+      "sourceVariantId": "e8b87dab-3d1f-4466-9e78-c3634049b8b0"
+    },
+    {
+      "productKey": "usta-1115106",
+      "sku": "1115.10603",
+      "online": true,
+      "store": true,
+      "price": 1080,
+      "sourceVariantId": "2444d16c-cc1f-463e-b98a-791c8103bfa6"
+    },
+    {
+      "productKey": "usta-1115106",
+      "sku": "1115.10604",
+      "online": true,
+      "store": true,
+      "price": 600,
+      "sourceVariantId": "f51439b3-999d-4ed6-a1a7-f74d0b84dfb4"
+    },
+    {
+      "productKey": "usta-1112100",
+      "sku": "1112.10001",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "9a6c9f80-0ada-4c9a-aba3-da87219a072d"
+    },
+    {
+      "productKey": "usta-1112100",
+      "sku": "1112.10002",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "23b6a932-4bed-4366-90e0-20f1f24e2950"
+    },
+    {
+      "productKey": "usta-1112100",
+      "sku": "1112.10003",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "3fb20f87-7614-43c4-9294-30767da877c5"
+    },
+    {
+      "productKey": "usta-1112100",
+      "sku": "1112.10004",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "c3d7fee2-25fb-4c46-8cf9-5ed7d8a2ba8b"
+    },
+    {
+      "productKey": "usta-1112101",
+      "sku": "1112.10101",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "f867b7c5-2e97-4258-bd72-b4e0c98064e5"
+    },
+    {
+      "productKey": "usta-1112101",
+      "sku": "1112.10102",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "5f0c4402-73e6-40a0-bcd2-54797f787e2e"
+    },
+    {
+      "productKey": "usta-1112101",
+      "sku": "1112.10103",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "8aff461c-eeda-42e4-a818-dbf3158c39a4"
+    },
+    {
+      "productKey": "usta-1112101",
+      "sku": "1112.10104",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "3680228a-2f78-4cec-8fcd-eef5f0a3a1e5"
+    },
+    {
+      "productKey": "usta-1112102",
+      "sku": "1112.10201",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "3e632167-e0fd-4b5d-8a44-0e7e4d5f2eaa"
+    },
+    {
+      "productKey": "usta-1112102",
+      "sku": "1112.10202",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "a2dd2c32-7108-4381-bdd9-1990114a9ff0"
+    },
+    {
+      "productKey": "usta-1112102",
+      "sku": "1112.10203",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "1f060909-7844-4ff9-b559-43c29a07d6f2"
+    },
+    {
+      "productKey": "usta-1112102",
+      "sku": "1112.10204",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "094188d3-9b30-4974-b4ba-b00e93ddcb28"
+    },
+    {
+      "productKey": "usta-1114103",
+      "sku": "1114.10301",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "283ea40d-5b2b-4061-95e0-9d4dead81ab8"
+    },
+    {
+      "productKey": "usta-1114103",
+      "sku": "1114.10302",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "dca8a743-a2f7-4834-a8e9-e892baa384f1"
+    },
+    {
+      "productKey": "usta-1114103",
+      "sku": "1114.10303",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "45a6d751-0deb-45c0-a6c1-1aa2b57bfb84"
+    },
+    {
+      "productKey": "usta-1114103",
+      "sku": "1114.10304",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "dd3f7ef0-a91f-43c4-800c-b63553d9795e"
+    },
+    {
+      "productKey": "usta-1114100",
+      "sku": "1114.10001",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "13370ace-4f0c-4baa-82b5-21ee50770140"
+    },
+    {
+      "productKey": "usta-1114100",
+      "sku": "1114.10002",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "ac93ac43-4039-497d-9b0a-f42885500664"
+    },
+    {
+      "productKey": "usta-1114100",
+      "sku": "1114.10003",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "472b169c-ff3f-4fae-bb4c-4751ebff4dc7"
+    },
+    {
+      "productKey": "usta-1114100",
+      "sku": "1114.10004",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "311667a6-6102-4de0-af27-167c5689cb52"
+    },
+    {
+      "productKey": "usta-1114102",
+      "sku": "1114.10201",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "8aaa6dcf-580c-402c-91ec-574860727d06"
+    },
+    {
+      "productKey": "usta-1114102",
+      "sku": "1114.10202",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "74436e29-5eb2-4945-98f3-88199b2f938f"
+    },
+    {
+      "productKey": "usta-1114102",
+      "sku": "1114.10203",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "ecd4e0aa-33be-4e00-912d-1e7a18da7dee"
+    },
+    {
+      "productKey": "usta-1114102",
+      "sku": "1114.10204",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "9964dba3-c392-4198-9036-e0db0d0f14b4"
+    },
+    {
+      "productKey": "usta-1813102",
+      "sku": "1813.10201",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "96bb6be1-0d97-4fa7-9623-4c396eec6181"
+    },
+    {
+      "productKey": "usta-1813103",
+      "sku": "1813.10301",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "d11f6fa0-317f-459d-a1a9-5998e1ab1db9"
+    },
+    {
+      "productKey": "usta-1813101",
+      "sku": "1813.10101",
+      "online": true,
+      "store": true,
+      "price": 448.4,
+      "sourceVariantId": "466318d1-472b-4937-8e8f-6367e7d4e044"
+    },
+    {
+      "productKey": "usta-1813100",
+      "sku": "1813.10001",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "3e21e381-db35-41ff-ab59-e9e8481e5ef1"
+    },
+    {
+      "productKey": "usta-1812105",
+      "sku": "1812.10501",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "74e7d968-57b7-4025-b49d-215cee15a747"
+    },
+    {
+      "productKey": "usta-1812104",
+      "sku": "1812.10401",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "4903518a-1ff8-41a2-b455-32b22612691c"
+    },
+    {
+      "productKey": "usta-1810101",
+      "sku": "1810.10101",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "6f13b0b7-bd10-4cc2-94e1-d8b0025a54b5"
+    },
+    {
+      "productKey": "usta-1812103",
+      "sku": "1812.10301",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "25ea00c4-bc65-4520-9ba1-7ebf59fefb28"
+    },
+    {
+      "productKey": "usta-1812101",
+      "sku": "1812.10101",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "9a90b8ad-98b3-4f3f-81b2-e32663a0a479"
+    },
+    {
+      "productKey": "usta-1812102",
+      "sku": "1812.10201",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "3a80028e-f108-42c3-b4b5-47b8f1911bd7"
+    },
+    {
+      "productKey": "usta-1810103",
+      "sku": "1810.10301",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "519c038b-3000-41cc-aa9b-9709b6ff377a"
+    },
+    {
+      "productKey": "usta-1812108",
+      "sku": "1812.10801",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "0d962be8-e2e9-48ee-a415-2764afef1a1c"
+    },
+    {
+      "productKey": "usta-1812107",
+      "sku": "1812.10701",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "60e46787-0352-4ca4-9790-410d3a62d93b"
+    },
+    {
+      "productKey": "usta-1812106",
+      "sku": "1812.10601",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "122a22d8-6572-4b76-b244-4b00e59682fc"
+    },
+    {
+      "productKey": "usta-1810100",
+      "sku": "1810.10001",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "82e07556-6d61-4d2b-a12a-6a64e57e40af"
+    },
+    {
+      "productKey": "usta-1812100",
+      "sku": "1812.10001",
+      "online": true,
+      "store": true,
+      "price": 450,
+      "sourceVariantId": "ba462764-d234-4d1b-a6b9-755a58202035"
+    },
+    {
+      "productKey": "usta-1111101",
+      "sku": "1111.10101",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "5a2b84f7-bdbe-438b-99e7-9babcafbb708"
+    },
+    {
+      "productKey": "usta-1111101",
+      "sku": "1111.10102",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "dbced7be-0013-4bcb-869b-31f63555b1fc"
+    },
+    {
+      "productKey": "usta-1111101",
+      "sku": "1111.10103",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "6c04e921-2104-4af9-a09f-a526bcc9e35c"
+    },
+    {
+      "productKey": "usta-1111101",
+      "sku": "1111.10105",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "41b2df5d-a7fb-4bb7-9b8e-1af75fc7e554"
+    },
+    {
+      "productKey": "usta-1110100",
+      "sku": "1110.10001",
+      "online": true,
+      "store": true,
+      "price": 4050,
+      "sourceVariantId": "e446863d-1ff8-45ad-95a5-c877d9a123e4"
+    },
+    {
+      "productKey": "usta-1110100",
+      "sku": "1110.10002",
+      "online": true,
+      "store": true,
+      "price": 2250,
+      "sourceVariantId": "e8babd94-6bf2-40b0-96b9-843a1cc2c133"
+    },
+    {
+      "productKey": "usta-1110100",
+      "sku": "1110.10003",
+      "online": true,
+      "store": true,
+      "price": 1620,
+      "sourceVariantId": "92b1f604-c3c9-4001-a1f3-397a643a00d3"
+    },
+    {
+      "productKey": "usta-1110100",
+      "sku": "1110.10004",
+      "online": true,
+      "store": true,
+      "price": 900,
+      "sourceVariantId": "b2aec822-bf98-4f11-9e67-01cd0a939899"
+    },
+    {
+      "productKey": "usta-1110102",
+      "sku": "1110.10201",
+      "online": true,
+      "store": true,
+      "price": 4050,
+      "sourceVariantId": "ca69641e-088f-438e-a9e5-a718053c34b5"
+    },
+    {
+      "productKey": "usta-1110102",
+      "sku": "1110.10202",
+      "online": true,
+      "store": true,
+      "price": 2250,
+      "sourceVariantId": "a47ca392-e213-455d-bb69-dfe4505b483e"
+    },
+    {
+      "productKey": "usta-1110102",
+      "sku": "1110.10203",
+      "online": true,
+      "store": true,
+      "price": 1620,
+      "sourceVariantId": "d4764de5-504d-44b3-9326-bc30c9a9c531"
+    },
+    {
+      "productKey": "usta-1110102",
+      "sku": "1110.10204",
+      "online": true,
+      "store": true,
+      "price": 900,
+      "sourceVariantId": "8b71b07c-b8f9-4e87-8dcf-93151af651a5"
+    },
+    {
+      "productKey": "usta-1110103",
+      "sku": "1110.10301",
+      "online": true,
+      "store": true,
+      "price": 4050,
+      "sourceVariantId": "33ec0712-fd43-4472-9f68-0521dca3bc64"
+    },
+    {
+      "productKey": "usta-1110103",
+      "sku": "1110.10302",
+      "online": true,
+      "store": true,
+      "price": 2250,
+      "sourceVariantId": "f38a939f-2e22-4764-9a5a-eab380689d13"
+    },
+    {
+      "productKey": "usta-1110103",
+      "sku": "1110.10303",
+      "online": true,
+      "store": true,
+      "price": 1620,
+      "sourceVariantId": "426066a5-8e05-44ac-b986-cbdfd8e7b2ca"
+    },
+    {
+      "productKey": "usta-1110103",
+      "sku": "1110.10304",
+      "online": true,
+      "store": true,
+      "price": 900,
+      "sourceVariantId": "8837248d-49e2-4581-ad8a-e5f8d46decfd"
+    },
+    {
+      "productKey": "usta-1110104",
+      "sku": "1110.10401",
+      "online": true,
+      "store": true,
+      "price": 4050,
+      "sourceVariantId": "6faaa49c-8488-42ec-a1cb-53f52b74bb50"
+    },
+    {
+      "productKey": "usta-1110104",
+      "sku": "1110.10402",
+      "online": true,
+      "store": true,
+      "price": 2250,
+      "sourceVariantId": "ee973338-666c-40b6-8f41-4f6e695f9e42"
+    },
+    {
+      "productKey": "usta-1110104",
+      "sku": "1110.10403",
+      "online": true,
+      "store": true,
+      "price": 1620,
+      "sourceVariantId": "d94b7576-fe01-4821-b0a5-e040937acd2e"
+    },
+    {
+      "productKey": "usta-1110104",
+      "sku": "1110.10404",
+      "online": true,
+      "store": true,
+      "price": 900,
+      "sourceVariantId": "0c234a7f-41ad-4d06-bc34-5151d02d3b7e"
+    },
+    {
+      "productKey": "usta-1110105",
+      "sku": "1110.10501",
+      "online": true,
+      "store": true,
+      "price": 4050,
+      "sourceVariantId": "84dc29c0-f377-4416-ad3a-c17605a5e91c"
+    },
+    {
+      "productKey": "usta-1110105",
+      "sku": "1110.10502",
+      "online": true,
+      "store": true,
+      "price": 2250,
+      "sourceVariantId": "d5debcfa-d0df-4644-b602-10808211a08f"
+    },
+    {
+      "productKey": "usta-1110105",
+      "sku": "1110.10503",
+      "online": true,
+      "store": true,
+      "price": 1620,
+      "sourceVariantId": "c85c08de-1ede-4abc-93a1-5e428a38c5e8"
+    },
+    {
+      "productKey": "usta-1110105",
+      "sku": "1110.10504",
+      "online": true,
+      "store": true,
+      "price": 900,
+      "sourceVariantId": "caa2eff5-388d-4f85-8e1b-0c791e0c567a"
+    },
+    {
+      "productKey": "usta-1110107",
+      "sku": "1110.10701",
+      "online": true,
+      "store": true,
+      "price": 4050,
+      "sourceVariantId": "1c6631d4-c3a6-4478-aae0-87332460bbf2"
+    },
+    {
+      "productKey": "usta-1110107",
+      "sku": "1110.10702",
+      "online": true,
+      "store": true,
+      "price": 2250,
+      "sourceVariantId": "924c7746-21df-435b-bb75-feb9681210db"
+    },
+    {
+      "productKey": "usta-1110107",
+      "sku": "1110.10703",
+      "online": true,
+      "store": true,
+      "price": 1620,
+      "sourceVariantId": "5851c076-3b6b-4d0a-8075-7d2b607ebb52"
+    },
+    {
+      "productKey": "usta-1110107",
+      "sku": "1110.10704",
+      "online": true,
+      "store": true,
+      "price": 900,
+      "sourceVariantId": "1bddb98c-3467-4f82-8db8-e636707b8877"
+    },
+    {
+      "productKey": "usta-1111104",
+      "sku": "1111.10401",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "b44a3527-8c29-40dc-89af-0a33899de686"
+    },
+    {
+      "productKey": "usta-1111104",
+      "sku": "1111.10402",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "a1a4b046-6d70-4d5b-88e6-5aa0dfdbc8f9"
+    },
+    {
+      "productKey": "usta-1111104",
+      "sku": "1111.10403",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "46b485b8-8cd0-4c12-be3f-97c4f7bcf477"
+    },
+    {
+      "productKey": "usta-1111104",
+      "sku": "1111.10404",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "4cb1e4c1-f750-42e2-bf7f-6f482fbfba4f"
+    },
+    {
+      "productKey": "usta-1111100",
+      "sku": "1111.10001",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "eaef87e8-af10-4306-8f79-6c7f1fc09822"
+    },
+    {
+      "productKey": "usta-1111100",
+      "sku": "1111.10002",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "0bfc7bc7-fbed-4bdf-b74a-92fcd74ff251"
+    },
+    {
+      "productKey": "usta-1111100",
+      "sku": "1111.10003",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "ae81ce34-1f4f-4691-9766-6b283b835004"
+    },
+    {
+      "productKey": "usta-1111100",
+      "sku": "1111.10004",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "e2c52380-1cd3-4fe7-8e1f-c4785260bea6"
+    },
+    {
+      "productKey": "usta-1111102",
+      "sku": "1111.10201",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "c075cefb-3005-4c54-9f1d-190bc22151b5"
+    },
+    {
+      "productKey": "usta-1111102",
+      "sku": "1111.10202",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "870ca48b-7b12-44e4-8917-aa597538557b"
+    },
+    {
+      "productKey": "usta-1111102",
+      "sku": "1111.10203",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "e42ba7c6-17f8-45b7-b863-2cf9823bb57c"
+    },
+    {
+      "productKey": "usta-1111102",
+      "sku": "1111.10204",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "e878e325-d998-4518-8874-f73dd45e5fbf"
+    },
+    {
+      "productKey": "usta-1110101",
+      "sku": "1110.10101",
+      "online": true,
+      "store": true,
+      "price": 4050,
+      "sourceVariantId": "0d0a06b6-b365-4b57-a0a9-f2fb7d51b846"
+    },
+    {
+      "productKey": "usta-1110101",
+      "sku": "1110.10102",
+      "online": true,
+      "store": true,
+      "price": 2250,
+      "sourceVariantId": "b25b986d-b939-4671-9ed2-dacd82aba274"
+    },
+    {
+      "productKey": "usta-1110101",
+      "sku": "1110.10103",
+      "online": true,
+      "store": true,
+      "price": 1620,
+      "sourceVariantId": "d4be622c-be93-41c6-991e-d4a0965f1b0d"
+    },
+    {
+      "productKey": "usta-1110101",
+      "sku": "1110.10104",
+      "online": true,
+      "store": true,
+      "price": 900,
+      "sourceVariantId": "6cb209b8-c731-4b01-912d-ff9c83107634"
+    },
+    {
+      "productKey": "usta-1110106",
+      "sku": "1110.10601",
+      "online": true,
+      "store": true,
+      "price": 4050,
+      "sourceVariantId": "c475548c-4ba4-4256-9cfc-32eb5060197b"
+    },
+    {
+      "productKey": "usta-1110106",
+      "sku": "1110.10602",
+      "online": true,
+      "store": true,
+      "price": 2250,
+      "sourceVariantId": "9a9b9c4b-6334-4a1c-a19c-0535ea55a4a2"
+    },
+    {
+      "productKey": "usta-1110106",
+      "sku": "1110.10603",
+      "online": true,
+      "store": true,
+      "price": 1620,
+      "sourceVariantId": "ca0b5494-b4e4-441d-af1c-b93c3cdacfa8"
+    },
+    {
+      "productKey": "usta-1110106",
+      "sku": "1110.10604",
+      "online": true,
+      "store": true,
+      "price": 900,
+      "sourceVariantId": "d96ec3c5-9b46-480d-9ddb-26b4e3ceee69"
+    },
+    {
+      "productKey": "usta-1111103",
+      "sku": "1111.10301",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "e4b95250-acbc-49ea-9c9d-7a31938d9f88"
+    },
+    {
+      "productKey": "usta-1111103",
+      "sku": "1111.10302",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "59d94d79-b4bd-4ad4-adb1-81a5a104d8a4"
+    },
+    {
+      "productKey": "usta-1111103",
+      "sku": "1111.10303",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "5dac593d-3571-4624-860b-1ce20c1b7140"
+    },
+    {
+      "productKey": "usta-1111103",
+      "sku": "1111.10304",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "9de67a24-dabb-45c4-8ca7-fab38113a9e8"
+    },
+    {
+      "productKey": "usta-1111105",
+      "sku": "1111.10501",
+      "online": true,
+      "store": true,
+      "price": 3600,
+      "sourceVariantId": "4a7ab9d4-3337-49dd-a49c-1d445f0ccb28"
+    },
+    {
+      "productKey": "usta-1111105",
+      "sku": "1111.10502",
+      "online": true,
+      "store": true,
+      "price": 2000,
+      "sourceVariantId": "07469591-60ae-4b00-b381-866414d64569"
+    },
+    {
+      "productKey": "usta-1111105",
+      "sku": "1111.10503",
+      "online": true,
+      "store": true,
+      "price": 1440,
+      "sourceVariantId": "61bca659-aa73-4d3a-a9ef-96747d49a50c"
+    },
+    {
+      "productKey": "usta-1111105",
+      "sku": "1111.10504",
+      "online": true,
+      "store": true,
+      "price": 800,
+      "sourceVariantId": "c340c5d2-fba8-4076-8b9a-24acf3fd1ef4"
+    }
+  ]
+}

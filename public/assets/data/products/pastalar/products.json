@@ -1,872 +1,2587 @@
 {
   "schemaVersion": 1,
   "categoryId": "pastalar",
-  "products": [{
-      "code": "500.0101",
-      "key": "500-0101-lotus-kulesi",
-      "url": "urunler/pastalar/biskuvili-pastalar/lotus-kulesi.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0101_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/biskuvili-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0101.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0101_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0101.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": ["pastalar/500_0101_02.png"]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-12-lotus-kulesi"
-      ]
-    },
+  "products": [
     {
-      "code": "500.0201",
-      "key": "500-0201-diplomat",
-      "url": "urunler/pastalar/cikolatali-pastalar/diplomat.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0201_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/cikolatali-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0201.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0201_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0201.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": ["pastalar/500_0201_02.png"]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-04-diplomat"
-      ]
-    },
-    {
-      "code": "500.0202",
-      "key": "500-0202-kara-sevda",
-      "url": "urunler/pastalar/cikolatali-pastalar/kara-sevda.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0202_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/cikolatali-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0202.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0202_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0202.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0202_02.png"
-          ]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-05-kara-sevda"
-      ]
-    },
-    {
-      "code": "500.0203",
-      "key": "500-0203-siyah-inci",
-      "url": "urunler/pastalar/cikolatali-pastalar/siyah-inci.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0203_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/cikolatali-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0203.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0203_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0203.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0203_02.png"
-          ]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-06-siyah-inci"
-      ]
-    },
-    {
-      "code": "500.0301",
-      "key": "500-0301-cilek-ruyasi",
-      "url": "urunler/pastalar/cilekli-pastalar/cilek-ruyasi.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0301_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/cilekli-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0301.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0301_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0301.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0301_02.png"
-          ]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-08-cilek-ruyasi"
-      ]
-    },
-    {
-      "code": "500.0302",
-      "key": "500-0302-ilk-ask",
-      "url": "urunler/pastalar/cilekli-pastalar/ilk-ask.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0302_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/cilekli-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0302.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0302_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0302.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0302_02.png"
-          ]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-14-ilk-ask"
-      ]
-    },
-    {
-      "code": "500.0303",
-      "key": "500-0303-pembe-ruya",
-      "url": "urunler/pastalar/cilekli-pastalar/pembe-ruya.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0303_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/cilekli-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0303.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0303_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0303.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0303_02.png"
-          ]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-09-pembe-ruya"
-      ]
-    },
-    {
-      "code": "500.0304",
-      "key": "500-0304-son-ask",
-      "url": "urunler/pastalar/cilekli-pastalar/son-ask.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0304_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/cilekli-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0304.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0304_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0304.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0304_02.png"
-          ]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-17-son-ask"
-      ]
-    },
-    {
-      "code": "500.0401",
-      "key": "500-0401-istanbul-hikayesi",
+      "key": "usta-1613100",
+      "code": "1613100",
+      "sourceProductId": 39,
       "url": "urunler/pastalar/fistikli-pastalar/istanbul-hikayesi.html",
       "currency": "TRY",
-      "images": [
-        "pastalar/500_0401_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/fistikli-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0401.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0401_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0401.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0401_02.png"
-          ]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-13-istanbul-hikayesi"
-      ]
-    },
-    {
-      "code": "500.05.01",
-      "key": "500-05-01-cikolat-ahu",
-      "url": "urunler/pastalar/frambuazli-pastalar/cikolat-ahu.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0501_01.png"
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/1ef79e15-69c2-4ced-b189-efeadd670f0d/content"
       ],
       "stock": null,
-      "onlineSale": false,
+      "onlineSale": true,
       "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/frambuazli-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 350
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 1,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
         },
         {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
+          "level": 3,
+          "ingredientId": "pistachio"
         }
       ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.05.01.01",
-          "stock": null,
-          "onlineSale": false,
+      "variants": [
+        {
+          "code": "1613.10001",
+          "sku": "1613.10001",
+          "sourceVariantId": "183f957e-8ef4-40e1-ad6f-5ccc6d0ee1f4",
+          "name": "İstanbul Hikayesi [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/1ef79e15-69c2-4ced-b189-efeadd670f0d/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "pastalar/500_0501_01.png"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "İstanbul Hikayesi",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 350,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 3,
+              "ingredientId": "pistachio"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "39",
+              "productKey": "usta-1613100",
+              "name": "İstanbul Hikayesi",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 350,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
         },
         {
-          "code": "baton",
-          "sku": "500.05.01.02",
-          "stock": null,
-          "onlineSale": false,
+          "code": "1613.10002",
+          "sku": "1613.10002",
+          "sourceVariantId": "ec96bb86-2536-400e-9e24-afbc8a46d629",
+          "name": "İstanbul Hikayesi [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/ea2969d9-ae37-493c-827c-a9b56a1ddd36/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "pastalar/500_0501_01.png"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "İstanbul Hikayesi",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2100,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 3,
+              "ingredientId": "pistachio"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "39",
+              "productKey": "usta-1613100",
+              "name": "İstanbul Hikayesi",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 350,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
         }
       ],
-      "legacyKeys": [
-        "500-01-01-cikolat-ahu"
-      ]
+      "defaultVariant": "1613.10001"
     },
     {
-      "code": "500.0502",
-      "key": "500-0502-tatli-ahu",
-      "url": "urunler/pastalar/frambuazli-pastalar/tatli-ahu.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0502_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/frambuazli-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0502.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0502_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0502.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0502_02.png"
-          ]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-02-tatli-ahu"
-      ]
-    },
-    {
-      "code": "500.0601",
-      "key": "500-0601-cikolatali-meyve-bahcesi",
-      "url": "urunler/pastalar/karisik-meyveli-pastalar/cikolatali-meyve-bahcesi.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0601_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/karisik-meyveli-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0601.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0601_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0601.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0601_02.png"
-          ]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-10-cikolatali-meyve-bahcesi"
-      ]
-    },
-    {
-      "code": "500.0602",
-      "key": "500-0602-meyve-bahcesi",
-      "url": "urunler/pastalar/karisik-meyveli-pastalar/meyve-bahcesi.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0602_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/karisik-meyveli-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0602.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0602_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0602.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": ["pastalar/500_0602_02.png"]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-11-meyve-bahcesi"
-      ]
-    },
-    {
-      "code": "500.0701",
-      "key": "500-0701-beyaz-inci",
+      "key": "usta-1615100",
+      "code": "1615100",
+      "sourceProductId": 44,
       "url": "urunler/pastalar/muzlu-pastalar/beyaz-inci.html",
       "currency": "TRY",
-      "images": [
-        "pastalar/500_0701_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/muzlu-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/4a5cec9c-8c1c-4b1d-9d3a-fe122662a8d0/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 395
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 2,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
         },
         {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
+          "level": 5,
+          "ingredientId": "banana"
         }
       ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0701.01",
-          "stock": null,
-          "onlineSale": false,
+      "variants": [
+        {
+          "code": "1615.10001",
+          "sku": "1615.10001",
+          "sourceVariantId": "89efe463-a0b7-4ee6-9fc6-d34074271ffb",
+          "name": "Beyaz İnci [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/4a5cec9c-8c1c-4b1d-9d3a-fe122662a8d0/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "pastalar/500_0701_01.png"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Beyaz İnci",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 395,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 2,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 5,
+              "ingredientId": "banana"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "44",
+              "productKey": "usta-1615100",
+              "name": "Beyaz İnci",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 395,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
         },
         {
-          "code": "baton",
-          "sku": "500.0701.02",
-          "stock": null,
-          "onlineSale": false,
+          "code": "1615.10002",
+          "sku": "1615.10002",
+          "sourceVariantId": "e3715796-e277-47de-9643-9ccecdf19ae7",
+          "name": "Beyaz İnci [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/b6a44e8d-b7f9-4149-8c13-3c37ea377229/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "pastalar/500_0701_02.png"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Beyaz İnci",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2370,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 2,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 5,
+              "ingredientId": "banana"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "44",
+              "productKey": "usta-1615100",
+              "name": "Beyaz İnci",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 395,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
         }
       ],
-      "legacyKeys": [
-        "500-01-07-beyaz-inci"
-      ]
+      "defaultVariant": "1615.10001"
     },
     {
-      "code": "500.0702",
-      "key": "500-0702-buyuk-ask",
-      "url": "urunler/pastalar/muzlu-pastalar/buyuk-ask.html",
+      "key": "usta-1610100",
+      "code": "1610100",
+      "sourceProductId": 31,
+      "url": "urunler/pastalar/biskuvili-pastalar/lotus-kulesi.html",
       "currency": "TRY",
-      "images": [
-        "pastalar/500_0702_01.png"
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/biskuvili-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/0a4d44d6-7fc0-41a2-a489-5487aff9761e/content"
       ],
       "stock": null,
-      "onlineSale": false,
+      "onlineSale": true,
       "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/muzlu-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 390
+      },
+      "dimensions": null,
+      "satiety": [
         {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
+          "level": 1,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
         }
       ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0702.01",
-          "stock": null,
-          "onlineSale": false,
+      "variants": [
+        {
+          "code": "1610.10001",
+          "sku": "1610.10001",
+          "sourceVariantId": "eb01adb1-1d0a-4f34-9fbe-09ec0bdc96ae",
+          "name": "Lotus Kulesi [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/0a4d44d6-7fc0-41a2-a489-5487aff9761e/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "pastalar/500_0702_01.png"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Lotus Kulesi",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 390,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "31",
+              "productKey": "usta-1610100",
+              "name": "Lotus Kulesi",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 390,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
         },
         {
-          "code": "baton",
-          "sku": "500.0702.02",
-          "stock": null,
-          "onlineSale": false,
+          "code": "1610.10002",
+          "sku": "1610.10002",
+          "sourceVariantId": "6fab73f3-6f10-43d1-961d-de2f9c1bb885",
+          "name": "Lotus Kulesi [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/0a4d44d6-7fc0-41a2-a489-5487aff9761e/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
           "commonMarket": true,
-          "images": ["pastalar/500_0702_02.png"]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Lotus Kulesi",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2340,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "31",
+              "productKey": "usta-1610100",
+              "name": "Lotus Kulesi",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 390,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
         }
       ],
-      "legacyKeys": [
-        "500-01-16-buyuk-ask"
-      ]
+      "defaultVariant": "1610.10001"
     },
     {
-      "code": "500.0703",
-      "key": "500-0703-sonsuz-ask",
-      "url": "urunler/pastalar/muzlu-pastalar/sonsuz-ask.html",
-      "currency": "TRY",
-      "images": [
-        "pastalar/500_0703_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/muzlu-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
-        },
-        {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
-        }
-      ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0703.01",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0703_01.png"
-          ]
-        },
-        {
-          "code": "baton",
-          "sku": "500.0703.02",
-          "stock": null,
-          "onlineSale": false,
-          "commonMarket": true,
-          "images": [
-            "pastalar/500_0703_02.png"
-          ]
-        }
-      ],
-      "legacyKeys": [
-        "500-01-15-sonsuz-ask"
-      ]
-    },
-    {
-      "code": "500.0801",
-      "key": "500-0801-amazon-buyusu",
+      "key": "usta-1616100",
+      "code": "1616100",
+      "sourceProductId": 47,
       "url": "urunler/pastalar/orman-meyveli-pastalar/amazon-buyusu.html",
       "currency": "TRY",
-      "images": [
-        "pastalar/500_0801_01.png"
-      ],
-      "stock": null,
-      "onlineSale": false,
-      "commonMarket": true,
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/orman-meyveli-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/9d8a5a3d-3c12-4451-8e8c-20ccfddbbfbc/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 380
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 3,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
         },
         {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
+          "level": 1,
+          "ingredientId": "mixed-fruit"
         }
       ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0801.01",
-          "stock": null,
-          "onlineSale": false,
+      "variants": [
+        {
+          "code": "1616.10001",
+          "sku": "1616.10001",
+          "sourceVariantId": "ee2a45fd-4ee3-4f92-bdae-e50cb2a5e6d6",
+          "name": "Amazon Büyüsü [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/9d8a5a3d-3c12-4451-8e8c-20ccfddbbfbc/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "pastalar/500_0801_01.png"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Amazon Büyüsü",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 380,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 3,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 1,
+              "ingredientId": "mixed-fruit"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "47",
+              "productKey": "usta-1616100",
+              "name": "Amazon Büyüsü",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 380,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
         },
         {
-          "code": "baton",
-          "sku": "500.0801.02",
-          "stock": null,
-          "onlineSale": false,
+          "code": "1616.10002",
+          "sku": "1616.10002",
+          "sourceVariantId": "4af87dc6-a7c1-4ed2-b86a-076bce17b64a",
+          "name": "Amazon Büyüsü [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/40e4f053-b71e-404c-ab15-fab52edf04c7/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
           "commonMarket": true,
-          "images": ["pastalar/500_0801_02.png"]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Amazon Büyüsü",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2280,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 3,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 1,
+              "ingredientId": "mixed-fruit"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "47",
+              "productKey": "usta-1616100",
+              "name": "Amazon Büyüsü",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 380,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
         }
       ],
-      "legacyKeys": [
-        "500-01-03-amazon-buyusu"
-      ]
+      "defaultVariant": "1616.10001"
     },
     {
-      "code": "500.0802",
-      "key": "500-0802-amazon-hikayesi",
-      "url": "urunler/pastalar/orman-meyveli-pastalar/amazon-hikayesi.html",
+      "key": "usta-1615102",
+      "code": "1615102",
+      "sourceProductId": 46,
+      "url": "urunler/pastalar/muzlu-pastalar/sonsuz-ask.html",
       "currency": "TRY",
-      "images": [
-        "pastalar/500_0802_01.png"
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/muzlu-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/c41cb534-f471-4c54-9cc0-6ada616a1cd4/content"
       ],
       "stock": null,
-      "onlineSale": false,
+      "onlineSale": true,
       "commonMarket": true,
-      "categoryId": "pastalar",
-      "subcategoryId": "pastalar/orman-meyveli-pastalar",
-      "editorial": [{
-          "type": "story",
-          "enabled": true,
-          "image": ""
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 355
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 1,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
         },
         {
-          "type": "boxReuse",
-          "enabled": true,
-          "image": ""
+          "level": 2,
+          "ingredientId": "banana"
         }
       ],
-      "variants": [{
-          "code": "dilim",
-          "sku": "500.0802.01",
-          "stock": null,
-          "onlineSale": false,
+      "variants": [
+        {
+          "code": "1615.10201",
+          "sku": "1615.10201",
+          "sourceVariantId": "7930b6dc-175c-4f68-a85f-e607acb1284c",
+          "name": "Sonsuz Aşk [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/c41cb534-f471-4c54-9cc0-6ada616a1cd4/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
           "commonMarket": true,
-          "images": [
-            "pastalar/500_0802_01.png"
-          ]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Sonsuz Aşk",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 355,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 2,
+              "ingredientId": "banana"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "46",
+              "productKey": "usta-1615102",
+              "name": "Sonsuz Aşk",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 355,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
         },
         {
-          "code": "baton",
-          "sku": "500.0802.02",
-          "stock": null,
-          "onlineSale": false,
+          "code": "1615.10202",
+          "sku": "1615.10202",
+          "sourceVariantId": "e64f448b-d29d-4ed0-a967-1d80e627bf16",
+          "name": "Sonsuz Aşk [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/5c09431f-cba2-4c91-9e99-14793745b81f/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
           "commonMarket": true,
-          "images": ["pastalar/500_0802_02.png"]
+          "stock": null,
+          "active": true,
+          "cardDescription": "Sonsuz Aşk",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2130,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 2,
+              "ingredientId": "banana"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "46",
+              "productKey": "usta-1615102",
+              "name": "Sonsuz Aşk",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 355,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
         }
-      ]
+      ],
+      "defaultVariant": "1615.10201"
+    },
+    {
+      "key": "usta-1611100",
+      "code": "1611100",
+      "sourceProductId": 32,
+      "url": "urunler/pastalar/cikolatali-pastalar/diplomat.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/cikolatali-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/476846b2-6f1c-4539-b050-c1af066d224f/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 305
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 2,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1611.10001",
+          "sku": "1611.10001",
+          "sourceVariantId": "ca11c932-6d93-43c7-83e1-c74346aef400",
+          "name": "Diplomat [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/476846b2-6f1c-4539-b050-c1af066d224f/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Diplomat",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 305,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 2,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "32",
+              "productKey": "usta-1611100",
+              "name": "Diplomat",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 305,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1611.10002",
+          "sku": "1611.10002",
+          "sourceVariantId": "3c11c393-dfa6-4006-a660-67c26d2f96ab",
+          "name": "Diplomat [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/49ccadbd-3f10-4ddb-9170-ac677f71ea39/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Diplomat",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 1830,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 2,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "32",
+              "productKey": "usta-1611100",
+              "name": "Diplomat",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 305,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1611.10001"
+    },
+    {
+      "key": "usta-1611103",
+      "code": "1611103",
+      "sourceProductId": 38,
+      "url": "urunler/pastalar/cikolatali-pastalar/son-ask.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/cikolatali-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/4d43c3cc-4b96-4349-9fb6-476441de6427/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 350
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 2,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        },
+        {
+          "level": 3,
+          "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1611.10301",
+          "sku": "1611.10301",
+          "sourceVariantId": "c88a2303-645b-458b-b365-2ce4013b9c3c",
+          "name": "Son Aşk [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/4d43c3cc-4b96-4349-9fb6-476441de6427/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Son Aşk",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 350,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 2,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 3,
+              "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "38",
+              "productKey": "usta-1611103",
+              "name": "Son Aşk",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 350,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1611.10302",
+          "sku": "1611.10302",
+          "sourceVariantId": "b413554b-fb66-45f9-9eed-03e70ca03c82",
+          "name": "Son Aşk [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/7887d23e-f5e3-4aa9-99bc-be8092092024/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Son Aşk",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2100,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 2,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 3,
+              "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "38",
+              "productKey": "usta-1611103",
+              "name": "Son Aşk",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 350,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1611.10301"
+    },
+    {
+      "key": "usta-1616101",
+      "code": "1616101",
+      "sourceProductId": 48,
+      "url": "urunler/pastalar/orman-meyveli-pastalar/amazon-hikayesi.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/orman-meyveli-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/97ba8b2f-20f5-43e3-b692-39b63c498965/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 375
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 2,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        },
+        {
+          "level": 1,
+          "ingredientId": "mixed-fruit"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1616.10101",
+          "sku": "1616.10101",
+          "sourceVariantId": "80e947b4-3f89-42d5-8894-b295ad6de7ca",
+          "name": "Amazon Hikayesi [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/97ba8b2f-20f5-43e3-b692-39b63c498965/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Amazon Hikayesi",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 375,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 2,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 1,
+              "ingredientId": "mixed-fruit"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "48",
+              "productKey": "usta-1616101",
+              "name": "Amazon Hikayesi",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 375,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1616.10102",
+          "sku": "1616.10102",
+          "sourceVariantId": "d42aa6f1-8e71-45f4-835e-bb3940baa270",
+          "name": "Amazon Hikayesi [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/a0a3b234-b663-42af-91e4-714b19905ffe/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Amazon Hikayesi",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2250,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 2,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 1,
+              "ingredientId": "mixed-fruit"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "48",
+              "productKey": "usta-1616101",
+              "name": "Amazon Hikayesi",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 375,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1616.10101"
+    },
+    {
+      "key": "usta-1615101",
+      "code": "1615101",
+      "sourceProductId": 45,
+      "url": "urunler/pastalar/muzlu-pastalar/buyuk-ask.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/muzlu-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/89de6d19-9da6-42ee-952c-f23c602ce826/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 350
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 1,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        },
+        {
+          "level": 1,
+          "ingredientId": "banana"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1615.10101",
+          "sku": "1615.10101",
+          "sourceVariantId": "28161428-875a-4b57-acef-e61692d2037d",
+          "name": "Büyük Aşk [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/aefa40ff-4598-4d89-bce8-b546d2f1959b/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Büyük Aşk",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2100,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 1,
+              "ingredientId": "banana"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "45",
+              "productKey": "usta-1615101",
+              "name": "Büyük Aşk",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 350,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1615.10102",
+          "sku": "1615.10102",
+          "sourceVariantId": "463c03b9-99ba-46e1-a61f-d04963aa60fa",
+          "name": "Büyük Aşk [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/89de6d19-9da6-42ee-952c-f23c602ce826/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Büyük Aşk",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 350,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 1,
+              "ingredientId": "banana"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "45",
+              "productKey": "usta-1615101",
+              "name": "Büyük Aşk",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 350,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1615.10102"
+    },
+    {
+      "key": "usta-1612101",
+      "code": "1612101",
+      "sourceProductId": 36,
+      "url": "urunler/pastalar/cilekli-pastalar/ilk-ask.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/cilekli-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/652c273b-2c64-4508-8392-96473c1925e3/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 350
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 1,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        },
+        {
+          "level": 3,
+          "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1612.10101",
+          "sku": "1612.10101",
+          "sourceVariantId": "52eb18bc-b19c-402f-bd07-7a50131520c4",
+          "name": "İlk Aşk [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/652c273b-2c64-4508-8392-96473c1925e3/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "İlk Aşk",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 350,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 3,
+              "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "36",
+              "productKey": "usta-1612101",
+              "name": "İlk Aşk",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 350,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1612.10102",
+          "sku": "1612.10102",
+          "sourceVariantId": "6c43fbc2-32ac-44fa-a1db-8c1a7bf7537c",
+          "name": "İlk Aşk [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/0ffb0abd-c9ac-4313-9469-160ed1b85379/content",
+            "https://1864usta.netlify.app/api/media/0acbaba4-bcdf-4198-ac09-4b3fc55f8bad/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "İlk Aşk",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2100,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 3,
+              "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "36",
+              "productKey": "usta-1612101",
+              "name": "İlk Aşk",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 350,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1612.10101"
+    },
+    {
+      "key": "usta-1617101",
+      "code": "1617101",
+      "sourceProductId": 43,
+      "url": "urunler/pastalar/karisik-meyveli-pastalar/meyve-bahcesi.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/karisik-meyveli-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/044522ae-e0c2-40e0-b495-b8459ee8652d/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 390
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 1,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        },
+        {
+          "level": 5,
+          "ingredientId": "mixed-fruit"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1617.10101",
+          "sku": "1617.10101",
+          "sourceVariantId": "44ee59cd-0500-43d5-bb37-83ceaabc1083",
+          "name": "Meyve Bahçesi [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/044522ae-e0c2-40e0-b495-b8459ee8652d/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Meyve Bahçesi",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 390,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 5,
+              "ingredientId": "mixed-fruit"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "43",
+              "productKey": "usta-1617101",
+              "name": "Meyve Bahçesi",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 390,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1617.10102",
+          "sku": "1617.10102",
+          "sourceVariantId": "81213824-c18a-4c52-9fd6-e39b403709de",
+          "name": "Meyve Bahçesi [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/41030438-ca9e-4ea9-94de-70a67341d70e/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Meyve Bahçesi",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2340,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 5,
+              "ingredientId": "mixed-fruit"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "43",
+              "productKey": "usta-1617101",
+              "name": "Meyve Bahçesi",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 390,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1617.10101"
+    },
+    {
+      "key": "usta-1617100",
+      "code": "1617100",
+      "sourceProductId": 42,
+      "url": "urunler/pastalar/karisik-meyveli-pastalar/cikolatali-meyve-bahcesi.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/karisik-meyveli-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/89d8fd0e-35d9-4b9a-81d9-84634f8476f3/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 390
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 1,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        },
+        {
+          "level": 5,
+          "ingredientId": "mixed-fruit"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1617.10001",
+          "sku": "1617.10001",
+          "sourceVariantId": "7ee2aa60-da8c-4dce-8bd2-12c8efa2a176",
+          "name": "Çikolatalı Meyve Bahçesi [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/89d8fd0e-35d9-4b9a-81d9-84634f8476f3/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Çikolatalı Meyve Bahçesi",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 390,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 5,
+              "ingredientId": "mixed-fruit"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "42",
+              "productKey": "usta-1617100",
+              "name": "Çikolatalı Meyve Bahçesi",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 390,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1617.10002",
+          "sku": "1617.10002",
+          "sourceVariantId": "60e97fd4-4961-42a7-a48e-1b366f43b67b",
+          "name": "Çikolatalı Meyve Bahçesi [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/89d8fd0e-35d9-4b9a-81d9-84634f8476f3/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Çikolatalı Meyve Bahçesi",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2340,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 1,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 5,
+              "ingredientId": "mixed-fruit"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "42",
+              "productKey": "usta-1617100",
+              "name": "Çikolatalı Meyve Bahçesi",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 390,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1617.10001"
+    },
+    {
+      "key": "usta-1614101",
+      "code": "1614101",
+      "sourceProductId": 41,
+      "url": "urunler/pastalar/frambuazli-pastalar/tatli-ahu.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/frambuazli-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/f21f1b07-58ee-497d-84ef-0a9a2a5d613e/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 330
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 4,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        },
+        {
+          "level": 1,
+          "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1614.10101",
+          "sku": "1614.10101",
+          "sourceVariantId": "7642ec94-2003-4f09-8e59-ff9dd82b2368",
+          "name": "Tatlı Ahu [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/f21f1b07-58ee-497d-84ef-0a9a2a5d613e/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Tatlı Ahu",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 330,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 4,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 1,
+              "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "41",
+              "productKey": "usta-1614101",
+              "name": "Tatlı Ahu",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 330,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1614.10102",
+          "sku": "1614.10102",
+          "sourceVariantId": "29d83468-a1bc-4d49-a138-73020a812c24",
+          "name": "Tatlı Ahu [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/7389ead2-a35a-4860-bc7b-3836f0cce83e/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Tatlı Ahu",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 1980,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 4,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 1,
+              "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "41",
+              "productKey": "usta-1614101",
+              "name": "Tatlı Ahu",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 330,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1614.10101"
+    },
+    {
+      "key": "usta-1612102",
+      "code": "1612102",
+      "sourceProductId": 37,
+      "url": "urunler/pastalar/cilekli-pastalar/pembe-ruya.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/cilekli-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/79b813c3-e6a9-4707-b662-9ced73031ad2/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 350
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 4,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        },
+        {
+          "level": 5,
+          "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1612.10201",
+          "sku": "1612.10201",
+          "sourceVariantId": "e9bba9a2-dd0e-47ad-8b50-7f473277aac9",
+          "name": "Pembe Rüya [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/79b813c3-e6a9-4707-b662-9ced73031ad2/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Pembe Rüya",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 350,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 4,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 5,
+              "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "37",
+              "productKey": "usta-1612102",
+              "name": "Pembe Rüya",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 350,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1612.10202",
+          "sku": "1612.10202",
+          "sourceVariantId": "f2941778-50c6-4e28-85ad-f9fb386688fe",
+          "name": "Pembe Rüya [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/64e570ce-7b09-495a-a738-ffc5ac115589/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Pembe Rüya",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2100,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 4,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 5,
+              "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "37",
+              "productKey": "usta-1612102",
+              "name": "Pembe Rüya",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 350,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1612.10201"
+    },
+    {
+      "key": "usta-1612100",
+      "code": "1612100",
+      "sourceProductId": 35,
+      "url": "urunler/pastalar/cilekli-pastalar/cilek-ruyasi.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/cilekli-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/0d62c5d9-7007-4ac3-852f-b1e4bf52e27f/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 350
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 3,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        },
+        {
+          "level": 4,
+          "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1612.10001",
+          "sku": "1612.10001",
+          "sourceVariantId": "e58b2367-7495-4ea0-901e-8623a3f05e21",
+          "name": "Çilek Rüyası [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/0d62c5d9-7007-4ac3-852f-b1e4bf52e27f/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Çilek Rüyası",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 350,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 3,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 4,
+              "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "35",
+              "productKey": "usta-1612100",
+              "name": "Çilek Rüyası",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 350,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1612.10002",
+          "sku": "1612.10002",
+          "sourceVariantId": "e1c53629-cc4c-4159-b9c3-cea5c0e5056f",
+          "name": "Çilek Rüyası [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/a1c65606-6510-4a44-9c43-3bc8c85717d8/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Çilek Rüyası",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2100,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 3,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 4,
+              "ingredientId": "eb8b1811-7758-4212-90a3-0957fb6c5f6e"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "35",
+              "productKey": "usta-1612100",
+              "name": "Çilek Rüyası",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 350,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1612.10001"
+    },
+    {
+      "key": "usta-1611102",
+      "code": "1611102",
+      "sourceProductId": 34,
+      "url": "urunler/pastalar/cikolatali-pastalar/siyah-inci.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/cikolatali-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/a2f87709-2cb4-4094-b9d0-487f89b7644f/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 325
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 5,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1611.10201",
+          "sku": "1611.10201",
+          "sourceVariantId": "a5eb48b6-8a43-42d5-8d27-7d31daa09e7b",
+          "name": "Siyah İnci [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/36198001-25e4-4078-8613-74f05eaae425/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Siyah İnci",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 1950,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 5,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "34",
+              "productKey": "usta-1611102",
+              "name": "Siyah İnci",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 325,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1611.10202",
+          "sku": "1611.10202",
+          "sourceVariantId": "a7bb4b12-9dc9-40a8-b2a1-56fbd7ddf11c",
+          "name": "Siyah İnci [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/a2f87709-2cb4-4094-b9d0-487f89b7644f/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Siyah İnci",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 325,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 5,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "34",
+              "productKey": "usta-1611102",
+              "name": "Siyah İnci",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 325,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1611.10202"
+    },
+    {
+      "key": "usta-1611101",
+      "code": "1611101",
+      "sourceProductId": 33,
+      "url": "urunler/pastalar/cikolatali-pastalar/kara-sevda.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/cikolatali-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/24749bad-d1d2-406c-a49b-f5de626913fe/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 390
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 4,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1611.10101",
+          "sku": "1611.10101",
+          "sourceVariantId": "ed31584a-e714-4d2b-9047-d11e6a517a51",
+          "name": "Kara Sevda [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/24749bad-d1d2-406c-a49b-f5de626913fe/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Kara Sevda",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 390,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 4,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "33",
+              "productKey": "usta-1611101",
+              "name": "Kara Sevda",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 390,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1611.10102",
+          "sku": "1611.10102",
+          "sourceVariantId": "c97123ee-437a-46c7-b09e-cf7316fc2749",
+          "name": "Kara Sevda [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/9054585b-863b-435f-b19d-3aa1f9737fc6/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Kara Sevda",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 2340,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 4,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "33",
+              "productKey": "usta-1611101",
+              "name": "Kara Sevda",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 390,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1611.10101"
+    },
+    {
+      "key": "usta-1614100",
+      "code": "1614100",
+      "sourceProductId": 40,
+      "url": "urunler/pastalar/frambuazli-pastalar/cikolat-ahu.html",
+      "currency": "TRY",
+      "categoryId": "pastalar",
+      "subcategoryId": "pastalar/frambuazli-pastalar",
+      "images": [],
+      "sourceImageUrls": [
+        "https://1864usta.netlify.app/api/media/d658c886-2eb3-4b71-a416-cf2d937b081f/content"
+      ],
+      "stock": null,
+      "onlineSale": true,
+      "commonMarket": true,
+      "editorial": [],
+      "unitPricing": {
+        "unit": "Dilim",
+        "price": 460,
+        "weight": 325
+      },
+      "dimensions": null,
+      "satiety": [
+        {
+          "level": 4,
+          "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+        },
+        {
+          "level": 5,
+          "ingredientId": "raspberry"
+        }
+      ],
+      "variants": [
+        {
+          "code": "1614.10001",
+          "sku": "1614.10001",
+          "sourceVariantId": "2637c4ce-085a-4098-a3b8-f5dd5f63dcc4",
+          "name": "Çikolat Ahu [Dilim]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/d658c886-2eb3-4b71-a416-cf2d937b081f/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Çikolat Ahu",
+          "type": "Tabakta Servis",
+          "unit": "Dilim",
+          "quantity": 1,
+          "netWeight": 325,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 4,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 5,
+              "ingredientId": "raspberry"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "40",
+              "productKey": "usta-1614100",
+              "name": "Çikolat Ahu",
+              "quantity": 1,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 325,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        },
+        {
+          "code": "1614.10002",
+          "sku": "1614.10002",
+          "sourceVariantId": "162f674f-7869-4a1f-a9a8-bc4a5668e28b",
+          "name": "Çikolat Ahu [Baton]",
+          "images": [],
+          "sourceImageUrls": [
+            "https://1864usta.netlify.app/api/media/c4f25427-744c-4c7b-b42e-5784eacb313c/content"
+          ],
+          "sourceBoxImageUrls": [],
+          "onlineSale": true,
+          "storeSale": true,
+          "commonMarket": true,
+          "stock": null,
+          "active": true,
+          "cardDescription": "Çikolat Ahu",
+          "type": "Baton",
+          "unit": "Dilim",
+          "quantity": 6,
+          "netWeight": 1950,
+          "dimensions": {},
+          "satiety": [
+            {
+              "level": 4,
+              "ingredientId": "59cb0273-2e66-4a0c-845d-dff8b3983a58"
+            },
+            {
+              "level": 5,
+              "ingredientId": "raspberry"
+            }
+          ],
+          "salesChannels": {
+            "store": true,
+            "online": true,
+            "foodDelivery": true
+          },
+          "boxContents": [
+            {
+              "id": "40",
+              "productKey": "usta-1614100",
+              "name": "Çikolat Ahu",
+              "quantity": 6,
+              "unit": "Dilim",
+              "image": "",
+              "dimensions": null,
+              "unitWeight": 325,
+              "unitPrice": 460,
+              "portion": {
+                "unit": "Dilim",
+                "quantity": 1
+              }
+            }
+          ],
+          "packageContents": []
+        }
+      ],
+      "defaultVariant": "1614.10001"
     }
   ]
 }

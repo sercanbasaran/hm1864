@@ -2,245 +2,209 @@
   "schemaVersion": 1,
   "categoryId": "kadayiflar",
   "products": {
-    "300-01-01-fistikli-kadayif": {
+    "usta-1213102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
-        },
-        "S": {
-          "TRY": null
-        },
-        "M": {
-          "TRY": null
-        },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1213.10201": {
+          "TRY": 490
         }
       }
     },
-    "300-01-02-fistikli-sultaniye-kadayif": {
+    "usta-1213101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
-        },
-        "S": {
-          "TRY": null
-        },
-        "M": {
-          "TRY": null
-        },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1213.10101": {
+          "TRY": 490
         }
       }
     },
-    "300-01-03-fistikli-halep-burma": {
+    "usta-1213100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
-        },
-        "S": {
-          "TRY": null
-        },
-        "M": {
-          "TRY": null
-        },
-        "L": {
-          "TRY": null
-        },
-        "XL": {
-          "TRY": null
+        "1213.10001": {
+          "TRY": 490
         }
       }
     },
-    "300-01-04-fistikli-burma-kadayif": {
+    "usta-1212101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1212.10101": {
+          "TRY": 300
         },
-        "S": {
-          "TRY": null
+        "1212.10102": {
+          "TRY": 3600
         },
-        "M": {
-          "TRY": null
+        "1212.10103": {
+          "TRY": 2400
         },
-        "L": {
-          "TRY": null
+        "1212.10104": {
+          "TRY": 1200
         },
-        "XL": {
-          "TRY": null
+        "1212.10105": {
+          "TRY": 600
         }
       }
     },
-    "300-01-05-fistikli-osmanli-saray-kadayifi": {
+    "usta-1212100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1212.10001": {
+          "TRY": 300
         },
-        "S": {
-          "TRY": null
+        "1212.10002": {
+          "TRY": 3600
         },
-        "M": {
-          "TRY": null
+        "1212.10003": {
+          "TRY": 2400
         },
-        "L": {
-          "TRY": null
+        "1212.10004": {
+          "TRY": 1200
         },
-        "XL": {
-          "TRY": null
+        "1212.10005": {
+          "TRY": 600
         }
       }
     },
-    "300-02-01-cevizli-osmanli-saray-kadayifi": {
+    "usta-1211100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1211.10001": {
+          "TRY": 300
         },
-        "S": {
-          "TRY": null
+        "1211.10002": {
+          "TRY": 3600
         },
-        "M": {
-          "TRY": null
+        "1211.10003": {
+          "TRY": 2400
         },
-        "L": {
-          "TRY": null
+        "1211.10004": {
+          "TRY": 1200
         },
-        "XL": {
-          "TRY": null
+        "1211.10005": {
+          "TRY": 600
         }
       }
     },
-    "300-03-01-narli-lokumlu-osmanli-saray-kadayifi": {
+    "usta-1210104": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1210.10401": {
+          "TRY": 300
         },
-        "S": {
-          "TRY": null
+        "1210.10402": {
+          "TRY": 3600
         },
-        "M": {
-          "TRY": null
+        "1210.10403": {
+          "TRY": 2400
         },
-        "L": {
-          "TRY": null
+        "1210.10404": {
+          "TRY": 1200
         },
-        "XL": {
-          "TRY": null
+        "1210.10405": {
+          "TRY": 600
         }
       }
     },
-    "300-03-02-sultan-lokumlu-osmanli-saray-kadayifi": {
+    "usta-1210103": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1210.10301": {
+          "TRY": 470
         },
-        "S": {
-          "TRY": null
+        "1210.10302": {
+          "TRY": 5640
         },
-        "M": {
-          "TRY": null
+        "1210.10303": {
+          "TRY": 3760
         },
-        "L": {
-          "TRY": null
+        "1210.10304": {
+          "TRY": 1880
         },
-        "XL": {
-          "TRY": null
+        "1210.10305": {
+          "TRY": 940
         }
       }
     },
-    "300-04-01-kunefe": {
+    "usta-1210102": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1210.10201": {
+          "TRY": 215
         },
-        "S": {
-          "TRY": null
+        "1210.10202": {
+          "TRY": 2580
         },
-        "M": {
-          "TRY": null
+        "1210.10203": {
+          "TRY": 1720
         },
-        "L": {
-          "TRY": null
+        "1210.10204": {
+          "TRY": 860
         },
-        "XL": {
-          "TRY": null
+        "1210.10205": {
+          "TRY": 430
         }
       }
     },
-    "300-04-02-cikolatali-kunefe": {
+    "usta-1210101": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1210.10101": {
+          "TRY": 5160
         },
-        "S": {
-          "TRY": null
+        "1210.10102": {
+          "TRY": 3440
         },
-        "M": {
-          "TRY": null
+        "1210.10103": {
+          "TRY": 1720
         },
-        "L": {
-          "TRY": null
+        "1210.10104": {
+          "TRY": 860
         },
-        "XL": {
-          "TRY": null
+        "1210.10105": {
+          "TRY": 430
         }
       }
     },
-    "300-04-03-balli-kunefe": {
+    "usta-1210100": {
       "base": {
         "TRY": null
       },
       "variants": {
-        "XS": {
-          "TRY": null
+        "1210.10001": {
+          "TRY": 430
         },
-        "S": {
-          "TRY": null
+        "1210.10002": {
+          "TRY": 5160
         },
-        "M": {
-          "TRY": null
+        "1210.10003": {
+          "TRY": 3440
         },
-        "L": {
-          "TRY": null
+        "1210.10004": {
+          "TRY": 1720
         },
-        "XL": {
-          "TRY": null
+        "1210.10005": {
+          "TRY": 860
         }
       }
     }
