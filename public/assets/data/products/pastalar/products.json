@@ -10,7 +10,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/fistikli-pastalar",
-      "images": [],
+      "images": [
+        "imported/1ef79e15-69c2-4ced-b189-efeadd670f0d.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/1ef79e15-69c2-4ced-b189-efeadd670f0d/content"
       ],
@@ -40,7 +42,9 @@
           "sku": "1613.10001",
           "sourceVariantId": "183f957e-8ef4-40e1-ad6f-5ccc6d0ee1f4",
           "name": "İstanbul Hikayesi [Dilim]",
-          "images": [],
+          "images": [
+            "imported/1ef79e15-69c2-4ced-b189-efeadd670f0d.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/1ef79e15-69c2-4ced-b189-efeadd670f0d/content"
           ],
@@ -78,7 +82,7 @@
               "name": "İstanbul Hikayesi",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/1ef79e15-69c2-4ced-b189-efeadd670f0d.png",
               "dimensions": null,
               "unitWeight": 350,
               "unitPrice": 460,
@@ -95,7 +99,9 @@
           "sku": "1613.10002",
           "sourceVariantId": "ec96bb86-2536-400e-9e24-afbc8a46d629",
           "name": "İstanbul Hikayesi [Baton]",
-          "images": [],
+          "images": [
+            "imported/ea2969d9-ae37-493c-827c-a9b56a1ddd36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/ea2969d9-ae37-493c-827c-a9b56a1ddd36/content"
           ],
@@ -133,7 +139,7 @@
               "name": "İstanbul Hikayesi",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/1ef79e15-69c2-4ced-b189-efeadd670f0d.png",
               "dimensions": null,
               "unitWeight": 350,
               "unitPrice": 460,
@@ -156,7 +162,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/muzlu-pastalar",
-      "images": [],
+      "images": [
+        "imported/4a5cec9c-8c1c-4b1d-9d3a-fe122662a8d0.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/4a5cec9c-8c1c-4b1d-9d3a-fe122662a8d0/content"
       ],
@@ -186,7 +194,9 @@
           "sku": "1615.10001",
           "sourceVariantId": "89efe463-a0b7-4ee6-9fc6-d34074271ffb",
           "name": "Beyaz İnci [Dilim]",
-          "images": [],
+          "images": [
+            "imported/4a5cec9c-8c1c-4b1d-9d3a-fe122662a8d0.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/4a5cec9c-8c1c-4b1d-9d3a-fe122662a8d0/content"
           ],
@@ -224,7 +234,7 @@
               "name": "Beyaz İnci",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/4a5cec9c-8c1c-4b1d-9d3a-fe122662a8d0.png",
               "dimensions": null,
               "unitWeight": 395,
               "unitPrice": 460,
@@ -241,7 +251,9 @@
           "sku": "1615.10002",
           "sourceVariantId": "e3715796-e277-47de-9643-9ccecdf19ae7",
           "name": "Beyaz İnci [Baton]",
-          "images": [],
+          "images": [
+            "imported/b6a44e8d-b7f9-4149-8c13-3c37ea377229.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/b6a44e8d-b7f9-4149-8c13-3c37ea377229/content"
           ],
@@ -279,7 +291,7 @@
               "name": "Beyaz İnci",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/4a5cec9c-8c1c-4b1d-9d3a-fe122662a8d0.png",
               "dimensions": null,
               "unitWeight": 395,
               "unitPrice": 460,
@@ -302,7 +314,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/biskuvili-pastalar",
-      "images": [],
+      "images": [
+        "imported/0a4d44d6-7fc0-41a2-a489-5487aff9761e.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/0a4d44d6-7fc0-41a2-a489-5487aff9761e/content"
       ],
@@ -328,7 +342,9 @@
           "sku": "1610.10001",
           "sourceVariantId": "eb01adb1-1d0a-4f34-9fbe-09ec0bdc96ae",
           "name": "Lotus Kulesi [Dilim]",
-          "images": [],
+          "images": [
+            "imported/0a4d44d6-7fc0-41a2-a489-5487aff9761e.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/0a4d44d6-7fc0-41a2-a489-5487aff9761e/content"
           ],
@@ -362,7 +378,7 @@
               "name": "Lotus Kulesi",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/0a4d44d6-7fc0-41a2-a489-5487aff9761e.png",
               "dimensions": null,
               "unitWeight": 390,
               "unitPrice": 460,
@@ -379,7 +395,9 @@
           "sku": "1610.10002",
           "sourceVariantId": "6fab73f3-6f10-43d1-961d-de2f9c1bb885",
           "name": "Lotus Kulesi [Baton]",
-          "images": [],
+          "images": [
+            "imported/0a4d44d6-7fc0-41a2-a489-5487aff9761e.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/0a4d44d6-7fc0-41a2-a489-5487aff9761e/content"
           ],
@@ -413,7 +431,7 @@
               "name": "Lotus Kulesi",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/0a4d44d6-7fc0-41a2-a489-5487aff9761e.png",
               "dimensions": null,
               "unitWeight": 390,
               "unitPrice": 460,
@@ -436,7 +454,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/orman-meyveli-pastalar",
-      "images": [],
+      "images": [
+        "imported/9d8a5a3d-3c12-4451-8e8c-20ccfddbbfbc.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/9d8a5a3d-3c12-4451-8e8c-20ccfddbbfbc/content"
       ],
@@ -466,7 +486,9 @@
           "sku": "1616.10001",
           "sourceVariantId": "ee2a45fd-4ee3-4f92-bdae-e50cb2a5e6d6",
           "name": "Amazon Büyüsü [Dilim]",
-          "images": [],
+          "images": [
+            "imported/9d8a5a3d-3c12-4451-8e8c-20ccfddbbfbc.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/9d8a5a3d-3c12-4451-8e8c-20ccfddbbfbc/content"
           ],
@@ -504,7 +526,7 @@
               "name": "Amazon Büyüsü",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/9d8a5a3d-3c12-4451-8e8c-20ccfddbbfbc.png",
               "dimensions": null,
               "unitWeight": 380,
               "unitPrice": 460,
@@ -521,7 +543,9 @@
           "sku": "1616.10002",
           "sourceVariantId": "4af87dc6-a7c1-4ed2-b86a-076bce17b64a",
           "name": "Amazon Büyüsü [Baton]",
-          "images": [],
+          "images": [
+            "imported/40e4f053-b71e-404c-ab15-fab52edf04c7.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/40e4f053-b71e-404c-ab15-fab52edf04c7/content"
           ],
@@ -559,7 +583,7 @@
               "name": "Amazon Büyüsü",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/9d8a5a3d-3c12-4451-8e8c-20ccfddbbfbc.png",
               "dimensions": null,
               "unitWeight": 380,
               "unitPrice": 460,
@@ -582,7 +606,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/muzlu-pastalar",
-      "images": [],
+      "images": [
+        "imported/c41cb534-f471-4c54-9cc0-6ada616a1cd4.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/c41cb534-f471-4c54-9cc0-6ada616a1cd4/content"
       ],
@@ -612,7 +638,9 @@
           "sku": "1615.10201",
           "sourceVariantId": "7930b6dc-175c-4f68-a85f-e607acb1284c",
           "name": "Sonsuz Aşk [Dilim]",
-          "images": [],
+          "images": [
+            "imported/c41cb534-f471-4c54-9cc0-6ada616a1cd4.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c41cb534-f471-4c54-9cc0-6ada616a1cd4/content"
           ],
@@ -650,7 +678,7 @@
               "name": "Sonsuz Aşk",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c41cb534-f471-4c54-9cc0-6ada616a1cd4.png",
               "dimensions": null,
               "unitWeight": 355,
               "unitPrice": 460,
@@ -667,7 +695,9 @@
           "sku": "1615.10202",
           "sourceVariantId": "e64f448b-d29d-4ed0-a967-1d80e627bf16",
           "name": "Sonsuz Aşk [Baton]",
-          "images": [],
+          "images": [
+            "imported/5c09431f-cba2-4c91-9e99-14793745b81f.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/5c09431f-cba2-4c91-9e99-14793745b81f/content"
           ],
@@ -705,7 +735,7 @@
               "name": "Sonsuz Aşk",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c41cb534-f471-4c54-9cc0-6ada616a1cd4.png",
               "dimensions": null,
               "unitWeight": 355,
               "unitPrice": 460,
@@ -728,7 +758,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cikolatali-pastalar",
-      "images": [],
+      "images": [
+        "imported/476846b2-6f1c-4539-b050-c1af066d224f.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/476846b2-6f1c-4539-b050-c1af066d224f/content"
       ],
@@ -754,7 +786,9 @@
           "sku": "1611.10001",
           "sourceVariantId": "ca11c932-6d93-43c7-83e1-c74346aef400",
           "name": "Diplomat [Dilim]",
-          "images": [],
+          "images": [
+            "imported/476846b2-6f1c-4539-b050-c1af066d224f.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/476846b2-6f1c-4539-b050-c1af066d224f/content"
           ],
@@ -788,7 +822,7 @@
               "name": "Diplomat",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/476846b2-6f1c-4539-b050-c1af066d224f.png",
               "dimensions": null,
               "unitWeight": 305,
               "unitPrice": 460,
@@ -805,7 +839,9 @@
           "sku": "1611.10002",
           "sourceVariantId": "3c11c393-dfa6-4006-a660-67c26d2f96ab",
           "name": "Diplomat [Baton]",
-          "images": [],
+          "images": [
+            "imported/49ccadbd-3f10-4ddb-9170-ac677f71ea39.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/49ccadbd-3f10-4ddb-9170-ac677f71ea39/content"
           ],
@@ -839,7 +875,7 @@
               "name": "Diplomat",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/476846b2-6f1c-4539-b050-c1af066d224f.png",
               "dimensions": null,
               "unitWeight": 305,
               "unitPrice": 460,
@@ -862,7 +898,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cikolatali-pastalar",
-      "images": [],
+      "images": [
+        "imported/4d43c3cc-4b96-4349-9fb6-476441de6427.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/4d43c3cc-4b96-4349-9fb6-476441de6427/content"
       ],
@@ -892,7 +930,9 @@
           "sku": "1611.10301",
           "sourceVariantId": "c88a2303-645b-458b-b365-2ce4013b9c3c",
           "name": "Son Aşk [Dilim]",
-          "images": [],
+          "images": [
+            "imported/4d43c3cc-4b96-4349-9fb6-476441de6427.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/4d43c3cc-4b96-4349-9fb6-476441de6427/content"
           ],
@@ -930,7 +970,7 @@
               "name": "Son Aşk",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/4d43c3cc-4b96-4349-9fb6-476441de6427.png",
               "dimensions": null,
               "unitWeight": 350,
               "unitPrice": 460,
@@ -947,7 +987,9 @@
           "sku": "1611.10302",
           "sourceVariantId": "b413554b-fb66-45f9-9eed-03e70ca03c82",
           "name": "Son Aşk [Baton]",
-          "images": [],
+          "images": [
+            "imported/7887d23e-f5e3-4aa9-99bc-be8092092024.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/7887d23e-f5e3-4aa9-99bc-be8092092024/content"
           ],
@@ -985,7 +1027,7 @@
               "name": "Son Aşk",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/4d43c3cc-4b96-4349-9fb6-476441de6427.png",
               "dimensions": null,
               "unitWeight": 350,
               "unitPrice": 460,
@@ -1008,7 +1050,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/orman-meyveli-pastalar",
-      "images": [],
+      "images": [
+        "imported/97ba8b2f-20f5-43e3-b692-39b63c498965.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/97ba8b2f-20f5-43e3-b692-39b63c498965/content"
       ],
@@ -1038,7 +1082,9 @@
           "sku": "1616.10101",
           "sourceVariantId": "80e947b4-3f89-42d5-8894-b295ad6de7ca",
           "name": "Amazon Hikayesi [Dilim]",
-          "images": [],
+          "images": [
+            "imported/97ba8b2f-20f5-43e3-b692-39b63c498965.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/97ba8b2f-20f5-43e3-b692-39b63c498965/content"
           ],
@@ -1076,7 +1122,7 @@
               "name": "Amazon Hikayesi",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/97ba8b2f-20f5-43e3-b692-39b63c498965.png",
               "dimensions": null,
               "unitWeight": 375,
               "unitPrice": 460,
@@ -1093,7 +1139,9 @@
           "sku": "1616.10102",
           "sourceVariantId": "d42aa6f1-8e71-45f4-835e-bb3940baa270",
           "name": "Amazon Hikayesi [Baton]",
-          "images": [],
+          "images": [
+            "imported/a0a3b234-b663-42af-91e4-714b19905ffe.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/a0a3b234-b663-42af-91e4-714b19905ffe/content"
           ],
@@ -1131,7 +1179,7 @@
               "name": "Amazon Hikayesi",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/97ba8b2f-20f5-43e3-b692-39b63c498965.png",
               "dimensions": null,
               "unitWeight": 375,
               "unitPrice": 460,
@@ -1154,7 +1202,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/muzlu-pastalar",
-      "images": [],
+      "images": [
+        "imported/89de6d19-9da6-42ee-952c-f23c602ce826.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/89de6d19-9da6-42ee-952c-f23c602ce826/content"
       ],
@@ -1184,7 +1234,9 @@
           "sku": "1615.10101",
           "sourceVariantId": "28161428-875a-4b57-acef-e61692d2037d",
           "name": "Büyük Aşk [Baton]",
-          "images": [],
+          "images": [
+            "imported/aefa40ff-4598-4d89-bce8-b546d2f1959b.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/aefa40ff-4598-4d89-bce8-b546d2f1959b/content"
           ],
@@ -1222,7 +1274,7 @@
               "name": "Büyük Aşk",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/89de6d19-9da6-42ee-952c-f23c602ce826.png",
               "dimensions": null,
               "unitWeight": 350,
               "unitPrice": 460,
@@ -1239,7 +1291,9 @@
           "sku": "1615.10102",
           "sourceVariantId": "463c03b9-99ba-46e1-a61f-d04963aa60fa",
           "name": "Büyük Aşk [Dilim]",
-          "images": [],
+          "images": [
+            "imported/89de6d19-9da6-42ee-952c-f23c602ce826.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/89de6d19-9da6-42ee-952c-f23c602ce826/content"
           ],
@@ -1277,7 +1331,7 @@
               "name": "Büyük Aşk",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/89de6d19-9da6-42ee-952c-f23c602ce826.png",
               "dimensions": null,
               "unitWeight": 350,
               "unitPrice": 460,
@@ -1300,7 +1354,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cilekli-pastalar",
-      "images": [],
+      "images": [
+        "imported/652c273b-2c64-4508-8392-96473c1925e3.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/652c273b-2c64-4508-8392-96473c1925e3/content"
       ],
@@ -1330,7 +1386,9 @@
           "sku": "1612.10101",
           "sourceVariantId": "52eb18bc-b19c-402f-bd07-7a50131520c4",
           "name": "İlk Aşk [Dilim]",
-          "images": [],
+          "images": [
+            "imported/652c273b-2c64-4508-8392-96473c1925e3.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/652c273b-2c64-4508-8392-96473c1925e3/content"
           ],
@@ -1368,7 +1426,7 @@
               "name": "İlk Aşk",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/652c273b-2c64-4508-8392-96473c1925e3.png",
               "dimensions": null,
               "unitWeight": 350,
               "unitPrice": 460,
@@ -1385,7 +1443,10 @@
           "sku": "1612.10102",
           "sourceVariantId": "6c43fbc2-32ac-44fa-a1db-8c1a7bf7537c",
           "name": "İlk Aşk [Baton]",
-          "images": [],
+          "images": [
+            "imported/0ffb0abd-c9ac-4313-9469-160ed1b85379.png",
+            "imported/0acbaba4-bcdf-4198-ac09-4b3fc55f8bad.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/0ffb0abd-c9ac-4313-9469-160ed1b85379/content",
             "https://1864usta.netlify.app/api/media/0acbaba4-bcdf-4198-ac09-4b3fc55f8bad/content"
@@ -1424,7 +1485,7 @@
               "name": "İlk Aşk",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/652c273b-2c64-4508-8392-96473c1925e3.png",
               "dimensions": null,
               "unitWeight": 350,
               "unitPrice": 460,
@@ -1447,7 +1508,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/karisik-meyveli-pastalar",
-      "images": [],
+      "images": [
+        "imported/044522ae-e0c2-40e0-b495-b8459ee8652d.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/044522ae-e0c2-40e0-b495-b8459ee8652d/content"
       ],
@@ -1477,7 +1540,9 @@
           "sku": "1617.10101",
           "sourceVariantId": "44ee59cd-0500-43d5-bb37-83ceaabc1083",
           "name": "Meyve Bahçesi [Dilim]",
-          "images": [],
+          "images": [
+            "imported/044522ae-e0c2-40e0-b495-b8459ee8652d.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/044522ae-e0c2-40e0-b495-b8459ee8652d/content"
           ],
@@ -1515,7 +1580,7 @@
               "name": "Meyve Bahçesi",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/044522ae-e0c2-40e0-b495-b8459ee8652d.png",
               "dimensions": null,
               "unitWeight": 390,
               "unitPrice": 460,
@@ -1532,7 +1597,9 @@
           "sku": "1617.10102",
           "sourceVariantId": "81213824-c18a-4c52-9fd6-e39b403709de",
           "name": "Meyve Bahçesi [Baton]",
-          "images": [],
+          "images": [
+            "imported/41030438-ca9e-4ea9-94de-70a67341d70e.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/41030438-ca9e-4ea9-94de-70a67341d70e/content"
           ],
@@ -1570,7 +1637,7 @@
               "name": "Meyve Bahçesi",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/044522ae-e0c2-40e0-b495-b8459ee8652d.png",
               "dimensions": null,
               "unitWeight": 390,
               "unitPrice": 460,
@@ -1593,7 +1660,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/karisik-meyveli-pastalar",
-      "images": [],
+      "images": [
+        "imported/89d8fd0e-35d9-4b9a-81d9-84634f8476f3.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/89d8fd0e-35d9-4b9a-81d9-84634f8476f3/content"
       ],
@@ -1623,7 +1692,9 @@
           "sku": "1617.10001",
           "sourceVariantId": "7ee2aa60-da8c-4dce-8bd2-12c8efa2a176",
           "name": "Çikolatalı Meyve Bahçesi [Dilim]",
-          "images": [],
+          "images": [
+            "imported/89d8fd0e-35d9-4b9a-81d9-84634f8476f3.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/89d8fd0e-35d9-4b9a-81d9-84634f8476f3/content"
           ],
@@ -1661,7 +1732,7 @@
               "name": "Çikolatalı Meyve Bahçesi",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/89d8fd0e-35d9-4b9a-81d9-84634f8476f3.png",
               "dimensions": null,
               "unitWeight": 390,
               "unitPrice": 460,
@@ -1678,7 +1749,9 @@
           "sku": "1617.10002",
           "sourceVariantId": "60e97fd4-4961-42a7-a48e-1b366f43b67b",
           "name": "Çikolatalı Meyve Bahçesi [Baton]",
-          "images": [],
+          "images": [
+            "imported/89d8fd0e-35d9-4b9a-81d9-84634f8476f3.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/89d8fd0e-35d9-4b9a-81d9-84634f8476f3/content"
           ],
@@ -1716,7 +1789,7 @@
               "name": "Çikolatalı Meyve Bahçesi",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/89d8fd0e-35d9-4b9a-81d9-84634f8476f3.png",
               "dimensions": null,
               "unitWeight": 390,
               "unitPrice": 460,
@@ -1739,7 +1812,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/frambuazli-pastalar",
-      "images": [],
+      "images": [
+        "imported/f21f1b07-58ee-497d-84ef-0a9a2a5d613e.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/f21f1b07-58ee-497d-84ef-0a9a2a5d613e/content"
       ],
@@ -1769,7 +1844,9 @@
           "sku": "1614.10101",
           "sourceVariantId": "7642ec94-2003-4f09-8e59-ff9dd82b2368",
           "name": "Tatlı Ahu [Dilim]",
-          "images": [],
+          "images": [
+            "imported/f21f1b07-58ee-497d-84ef-0a9a2a5d613e.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/f21f1b07-58ee-497d-84ef-0a9a2a5d613e/content"
           ],
@@ -1807,7 +1884,7 @@
               "name": "Tatlı Ahu",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/f21f1b07-58ee-497d-84ef-0a9a2a5d613e.png",
               "dimensions": null,
               "unitWeight": 330,
               "unitPrice": 460,
@@ -1824,7 +1901,9 @@
           "sku": "1614.10102",
           "sourceVariantId": "29d83468-a1bc-4d49-a138-73020a812c24",
           "name": "Tatlı Ahu [Baton]",
-          "images": [],
+          "images": [
+            "imported/7389ead2-a35a-4860-bc7b-3836f0cce83e.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/7389ead2-a35a-4860-bc7b-3836f0cce83e/content"
           ],
@@ -1862,7 +1941,7 @@
               "name": "Tatlı Ahu",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/f21f1b07-58ee-497d-84ef-0a9a2a5d613e.png",
               "dimensions": null,
               "unitWeight": 330,
               "unitPrice": 460,
@@ -1885,7 +1964,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cilekli-pastalar",
-      "images": [],
+      "images": [
+        "imported/79b813c3-e6a9-4707-b662-9ced73031ad2.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/79b813c3-e6a9-4707-b662-9ced73031ad2/content"
       ],
@@ -1915,7 +1996,9 @@
           "sku": "1612.10201",
           "sourceVariantId": "e9bba9a2-dd0e-47ad-8b50-7f473277aac9",
           "name": "Pembe Rüya [Dilim]",
-          "images": [],
+          "images": [
+            "imported/79b813c3-e6a9-4707-b662-9ced73031ad2.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/79b813c3-e6a9-4707-b662-9ced73031ad2/content"
           ],
@@ -1953,7 +2036,7 @@
               "name": "Pembe Rüya",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/79b813c3-e6a9-4707-b662-9ced73031ad2.png",
               "dimensions": null,
               "unitWeight": 350,
               "unitPrice": 460,
@@ -1970,7 +2053,9 @@
           "sku": "1612.10202",
           "sourceVariantId": "f2941778-50c6-4e28-85ad-f9fb386688fe",
           "name": "Pembe Rüya [Baton]",
-          "images": [],
+          "images": [
+            "imported/64e570ce-7b09-495a-a738-ffc5ac115589.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/64e570ce-7b09-495a-a738-ffc5ac115589/content"
           ],
@@ -2008,7 +2093,7 @@
               "name": "Pembe Rüya",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/79b813c3-e6a9-4707-b662-9ced73031ad2.png",
               "dimensions": null,
               "unitWeight": 350,
               "unitPrice": 460,
@@ -2031,7 +2116,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cilekli-pastalar",
-      "images": [],
+      "images": [
+        "imported/0d62c5d9-7007-4ac3-852f-b1e4bf52e27f.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/0d62c5d9-7007-4ac3-852f-b1e4bf52e27f/content"
       ],
@@ -2061,7 +2148,9 @@
           "sku": "1612.10001",
           "sourceVariantId": "e58b2367-7495-4ea0-901e-8623a3f05e21",
           "name": "Çilek Rüyası [Dilim]",
-          "images": [],
+          "images": [
+            "imported/0d62c5d9-7007-4ac3-852f-b1e4bf52e27f.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/0d62c5d9-7007-4ac3-852f-b1e4bf52e27f/content"
           ],
@@ -2099,7 +2188,7 @@
               "name": "Çilek Rüyası",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/0d62c5d9-7007-4ac3-852f-b1e4bf52e27f.png",
               "dimensions": null,
               "unitWeight": 350,
               "unitPrice": 460,
@@ -2116,7 +2205,9 @@
           "sku": "1612.10002",
           "sourceVariantId": "e1c53629-cc4c-4159-b9c3-cea5c0e5056f",
           "name": "Çilek Rüyası [Baton]",
-          "images": [],
+          "images": [
+            "imported/a1c65606-6510-4a44-9c43-3bc8c85717d8.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/a1c65606-6510-4a44-9c43-3bc8c85717d8/content"
           ],
@@ -2154,7 +2245,7 @@
               "name": "Çilek Rüyası",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/0d62c5d9-7007-4ac3-852f-b1e4bf52e27f.png",
               "dimensions": null,
               "unitWeight": 350,
               "unitPrice": 460,
@@ -2177,7 +2268,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cikolatali-pastalar",
-      "images": [],
+      "images": [
+        "imported/a2f87709-2cb4-4094-b9d0-487f89b7644f.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/a2f87709-2cb4-4094-b9d0-487f89b7644f/content"
       ],
@@ -2203,7 +2296,9 @@
           "sku": "1611.10201",
           "sourceVariantId": "a5eb48b6-8a43-42d5-8d27-7d31daa09e7b",
           "name": "Siyah İnci [Baton]",
-          "images": [],
+          "images": [
+            "imported/36198001-25e4-4078-8613-74f05eaae425.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/36198001-25e4-4078-8613-74f05eaae425/content"
           ],
@@ -2237,7 +2332,7 @@
               "name": "Siyah İnci",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/a2f87709-2cb4-4094-b9d0-487f89b7644f.png",
               "dimensions": null,
               "unitWeight": 325,
               "unitPrice": 460,
@@ -2254,7 +2349,9 @@
           "sku": "1611.10202",
           "sourceVariantId": "a7bb4b12-9dc9-40a8-b2a1-56fbd7ddf11c",
           "name": "Siyah İnci [Dilim]",
-          "images": [],
+          "images": [
+            "imported/a2f87709-2cb4-4094-b9d0-487f89b7644f.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/a2f87709-2cb4-4094-b9d0-487f89b7644f/content"
           ],
@@ -2288,7 +2385,7 @@
               "name": "Siyah İnci",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/a2f87709-2cb4-4094-b9d0-487f89b7644f.png",
               "dimensions": null,
               "unitWeight": 325,
               "unitPrice": 460,
@@ -2311,7 +2408,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/cikolatali-pastalar",
-      "images": [],
+      "images": [
+        "imported/24749bad-d1d2-406c-a49b-f5de626913fe.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/24749bad-d1d2-406c-a49b-f5de626913fe/content"
       ],
@@ -2337,7 +2436,9 @@
           "sku": "1611.10101",
           "sourceVariantId": "ed31584a-e714-4d2b-9047-d11e6a517a51",
           "name": "Kara Sevda [Dilim]",
-          "images": [],
+          "images": [
+            "imported/24749bad-d1d2-406c-a49b-f5de626913fe.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/24749bad-d1d2-406c-a49b-f5de626913fe/content"
           ],
@@ -2371,7 +2472,7 @@
               "name": "Kara Sevda",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/24749bad-d1d2-406c-a49b-f5de626913fe.png",
               "dimensions": null,
               "unitWeight": 390,
               "unitPrice": 460,
@@ -2388,7 +2489,9 @@
           "sku": "1611.10102",
           "sourceVariantId": "c97123ee-437a-46c7-b09e-cf7316fc2749",
           "name": "Kara Sevda [Baton]",
-          "images": [],
+          "images": [
+            "imported/9054585b-863b-435f-b19d-3aa1f9737fc6.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/9054585b-863b-435f-b19d-3aa1f9737fc6/content"
           ],
@@ -2422,7 +2525,7 @@
               "name": "Kara Sevda",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/24749bad-d1d2-406c-a49b-f5de626913fe.png",
               "dimensions": null,
               "unitWeight": 390,
               "unitPrice": 460,
@@ -2445,7 +2548,9 @@
       "currency": "TRY",
       "categoryId": "pastalar",
       "subcategoryId": "pastalar/frambuazli-pastalar",
-      "images": [],
+      "images": [
+        "imported/d658c886-2eb3-4b71-a416-cf2d937b081f.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/d658c886-2eb3-4b71-a416-cf2d937b081f/content"
       ],
@@ -2475,7 +2580,9 @@
           "sku": "1614.10001",
           "sourceVariantId": "2637c4ce-085a-4098-a3b8-f5dd5f63dcc4",
           "name": "Çikolat Ahu [Dilim]",
-          "images": [],
+          "images": [
+            "imported/d658c886-2eb3-4b71-a416-cf2d937b081f.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/d658c886-2eb3-4b71-a416-cf2d937b081f/content"
           ],
@@ -2513,7 +2620,7 @@
               "name": "Çikolat Ahu",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/d658c886-2eb3-4b71-a416-cf2d937b081f.png",
               "dimensions": null,
               "unitWeight": 325,
               "unitPrice": 460,
@@ -2530,7 +2637,9 @@
           "sku": "1614.10002",
           "sourceVariantId": "162f674f-7869-4a1f-a9a8-bc4a5668e28b",
           "name": "Çikolat Ahu [Baton]",
-          "images": [],
+          "images": [
+            "imported/c4f25427-744c-4c7b-b42e-5784eacb313c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c4f25427-744c-4c7b-b42e-5784eacb313c/content"
           ],
@@ -2568,7 +2677,7 @@
               "name": "Çikolat Ahu",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/d658c886-2eb3-4b71-a416-cf2d937b081f.png",
               "dimensions": null,
               "unitWeight": 325,
               "unitPrice": 460,

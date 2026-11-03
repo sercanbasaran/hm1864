@@ -10,7 +10,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
+        "imported/bb94ad06-2c59-49f5-a9d3-26b479293c89.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/2a73bad4-e35d-4205-99a1-84bde58a2979/content",
         "https://1864usta.netlify.app/api/media/bb94ad06-2c59-49f5-a9d3-26b479293c89/content"
@@ -41,7 +44,10 @@
           "sku": "1011.11201",
           "sourceVariantId": "d18823d9-88d8-47e3-b187-081608058cc8",
           "name": "Cevizli Sarı Burma [XL]",
-          "images": [],
+          "images": [
+            "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/2a73bad4-e35d-4205-99a1-84bde58a2979/content"
           ],
@@ -81,7 +87,7 @@
               "name": "Cevizli Sarı Burma",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
               "dimensions": {
                 "width": 25,
                 "height": 30,
@@ -96,6 +102,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -103,7 +110,10 @@
           "sku": "1011.11202",
           "sourceVariantId": "2d315826-81ed-4d09-8382-81ab448d45f6",
           "name": "Cevizli Sarı Burma [L]",
-          "images": [],
+          "images": [
+            "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/2a73bad4-e35d-4205-99a1-84bde58a2979/content"
           ],
@@ -143,7 +153,7 @@
               "name": "Cevizli Sarı Burma",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
               "dimensions": {
                 "width": 25,
                 "height": 30,
@@ -158,6 +168,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -165,7 +176,10 @@
           "sku": "1011.11203",
           "sourceVariantId": "9e9bf672-4773-4e46-bfdb-c8426a9532f0",
           "name": "Cevizli Sarı Burma [M]",
-          "images": [],
+          "images": [
+            "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/2a73bad4-e35d-4205-99a1-84bde58a2979/content"
           ],
@@ -205,7 +219,7 @@
               "name": "Cevizli Sarı Burma",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
               "dimensions": {
                 "width": 25,
                 "height": 30,
@@ -220,6 +234,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -227,7 +242,10 @@
           "sku": "1011.11204",
           "sourceVariantId": "906978f2-c053-4ba8-9f22-742b1c9f7b10",
           "name": "Cevizli Sarı Burma [S]",
-          "images": [],
+          "images": [
+            "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/2a73bad4-e35d-4205-99a1-84bde58a2979/content"
           ],
@@ -267,7 +285,7 @@
               "name": "Cevizli Sarı Burma",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
               "dimensions": {
                 "width": 25,
                 "height": 30,
@@ -282,6 +300,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -289,7 +308,9 @@
           "sku": "1011.11206",
           "sourceVariantId": "c34fce5b-d969-496d-9061-343fa12a0e54",
           "name": "Cevizli Sarı Burma 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/bb94ad06-2c59-49f5-a9d3-26b479293c89.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/bb94ad06-2c59-49f5-a9d3-26b479293c89/content"
           ],
@@ -323,7 +344,7 @@
               "name": "Cevizli Sarı Burma",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
               "dimensions": {
                 "width": 25,
                 "height": 30,
@@ -352,7 +373,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/16e73408-804f-43f8-8472-ef935c175d0c.webp",
+        "imported/fd611747-4663-471f-ae4e-f35ef9860f95.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/16e73408-804f-43f8-8472-ef935c175d0c/content",
         "https://1864usta.netlify.app/api/media/fd611747-4663-471f-ae4e-f35ef9860f95/content"
@@ -383,7 +407,10 @@
           "sku": "1011.11102",
           "sourceVariantId": "d02cddde-4a9b-430e-be51-9b2148ca6892",
           "name": "Cevizli Saray Sarma [XL]",
-          "images": [],
+          "images": [
+            "imported/16e73408-804f-43f8-8472-ef935c175d0c.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/16e73408-804f-43f8-8472-ef935c175d0c/content"
           ],
@@ -423,7 +450,7 @@
               "name": "Cevizli Saray Sarma",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/16e73408-804f-43f8-8472-ef935c175d0c.webp",
               "dimensions": {
                 "width": 32,
                 "height": 25,
@@ -438,6 +465,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -445,7 +473,10 @@
           "sku": "1011.11103",
           "sourceVariantId": "a6aa73ec-2eaa-41de-8474-bdff578db499",
           "name": "Cevizli Saray Sarma [L]",
-          "images": [],
+          "images": [
+            "imported/16e73408-804f-43f8-8472-ef935c175d0c.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/16e73408-804f-43f8-8472-ef935c175d0c/content"
           ],
@@ -485,7 +516,7 @@
               "name": "Cevizli Saray Sarma",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/16e73408-804f-43f8-8472-ef935c175d0c.webp",
               "dimensions": {
                 "width": 32,
                 "height": 25,
@@ -500,6 +531,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -507,7 +539,10 @@
           "sku": "1011.11104",
           "sourceVariantId": "c33d24a5-5397-4b18-b38c-d86677026162",
           "name": "Cevizli Saray Sarma [M]",
-          "images": [],
+          "images": [
+            "imported/16e73408-804f-43f8-8472-ef935c175d0c.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/16e73408-804f-43f8-8472-ef935c175d0c/content"
           ],
@@ -547,7 +582,7 @@
               "name": "Cevizli Saray Sarma",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/16e73408-804f-43f8-8472-ef935c175d0c.webp",
               "dimensions": {
                 "width": 32,
                 "height": 25,
@@ -562,6 +597,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -569,7 +605,10 @@
           "sku": "1011.11105",
           "sourceVariantId": "cf1790ec-73da-4fc2-a1ba-b6117470600a",
           "name": "Cevizli Saray Sarma [S]",
-          "images": [],
+          "images": [
+            "imported/16e73408-804f-43f8-8472-ef935c175d0c.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/16e73408-804f-43f8-8472-ef935c175d0c/content"
           ],
@@ -609,7 +648,7 @@
               "name": "Cevizli Saray Sarma",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/16e73408-804f-43f8-8472-ef935c175d0c.webp",
               "dimensions": {
                 "width": 32,
                 "height": 25,
@@ -624,6 +663,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -631,7 +671,9 @@
           "sku": "1011.11101",
           "sourceVariantId": "572ab345-5ee9-4a47-a124-dbbe9560d9fb",
           "name": "Cevizli Saray Sarma 4 Dilim",
-          "images": [],
+          "images": [
+            "imported/fd611747-4663-471f-ae4e-f35ef9860f95.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/fd611747-4663-471f-ae4e-f35ef9860f95/content"
           ],
@@ -665,7 +707,7 @@
               "name": "Cevizli Saray Sarma",
               "quantity": 4,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/16e73408-804f-43f8-8472-ef935c175d0c.webp",
               "dimensions": {
                 "width": 32,
                 "height": 25,
@@ -694,7 +736,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/11d97407-ebfe-440a-beca-cda3edfd5d20.webp",
+        "imported/66dace15-7fd1-4274-ada2-162cb2e1be86.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/11d97407-ebfe-440a-beca-cda3edfd5d20/content",
         "https://1864usta.netlify.app/api/media/66dace15-7fd1-4274-ada2-162cb2e1be86/content"
@@ -725,7 +770,10 @@
           "sku": "1011.11001",
           "sourceVariantId": "dc7d2f84-2c4b-4c22-a2a3-8e9e90e91254",
           "name": "Cevizli Prenses [XL]",
-          "images": [],
+          "images": [
+            "imported/11d97407-ebfe-440a-beca-cda3edfd5d20.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/11d97407-ebfe-440a-beca-cda3edfd5d20/content"
           ],
@@ -765,7 +813,7 @@
               "name": "Cevizli Prenses",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/11d97407-ebfe-440a-beca-cda3edfd5d20.webp",
               "dimensions": {
                 "width": 40,
                 "height": 20,
@@ -780,6 +828,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -787,7 +836,10 @@
           "sku": "1011.11002",
           "sourceVariantId": "445a3ecf-b158-4a64-84a5-d8ac6d22fd3f",
           "name": "Cevizli Prenses [L]",
-          "images": [],
+          "images": [
+            "imported/11d97407-ebfe-440a-beca-cda3edfd5d20.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/11d97407-ebfe-440a-beca-cda3edfd5d20/content"
           ],
@@ -827,7 +879,7 @@
               "name": "Cevizli Prenses",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/11d97407-ebfe-440a-beca-cda3edfd5d20.webp",
               "dimensions": {
                 "width": 40,
                 "height": 20,
@@ -842,6 +894,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -849,7 +902,10 @@
           "sku": "1011.11003",
           "sourceVariantId": "14aee953-6608-4ece-b305-6cf70af99a8c",
           "name": "Cevizli Prenses [M]",
-          "images": [],
+          "images": [
+            "imported/11d97407-ebfe-440a-beca-cda3edfd5d20.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/11d97407-ebfe-440a-beca-cda3edfd5d20/content"
           ],
@@ -889,7 +945,7 @@
               "name": "Cevizli Prenses",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/11d97407-ebfe-440a-beca-cda3edfd5d20.webp",
               "dimensions": {
                 "width": 40,
                 "height": 20,
@@ -904,6 +960,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -911,7 +968,10 @@
           "sku": "1011.11004",
           "sourceVariantId": "ece9f36f-e318-4812-b3d6-1be063836876",
           "name": "Cevizli Prenses [S]",
-          "images": [],
+          "images": [
+            "imported/11d97407-ebfe-440a-beca-cda3edfd5d20.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/11d97407-ebfe-440a-beca-cda3edfd5d20/content"
           ],
@@ -951,7 +1011,7 @@
               "name": "Cevizli Prenses",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/11d97407-ebfe-440a-beca-cda3edfd5d20.webp",
               "dimensions": {
                 "width": 40,
                 "height": 20,
@@ -966,6 +1026,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -973,7 +1034,9 @@
           "sku": "1011.11006",
           "sourceVariantId": "8043e033-d00b-43c6-a577-c03fe6f48e34",
           "name": "Cevizli Prenses 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/66dace15-7fd1-4274-ada2-162cb2e1be86.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/66dace15-7fd1-4274-ada2-162cb2e1be86/content"
           ],
@@ -1007,7 +1070,7 @@
               "name": "Cevizli Prenses",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/11d97407-ebfe-440a-beca-cda3edfd5d20.webp",
               "dimensions": {
                 "width": 40,
                 "height": 20,
@@ -1036,7 +1099,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc.webp",
+        "imported/402e28fc-5815-433f-9fb6-4c7bad02e0e6.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc/content",
         "https://1864usta.netlify.app/api/media/402e28fc-5815-433f-9fb6-4c7bad02e0e6/content"
@@ -1067,7 +1133,10 @@
           "sku": "1011.10801",
           "sourceVariantId": "317f4850-3284-4bbb-9d0f-33b1411b9513",
           "name": "Cevizli Kıvrım [XL]",
-          "images": [],
+          "images": [
+            "imported/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc/content"
           ],
@@ -1107,7 +1176,7 @@
               "name": "Cevizli Kıvrım",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc.webp",
               "dimensions": {
                 "width": 21,
                 "height": 25,
@@ -1122,6 +1191,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -1129,7 +1199,10 @@
           "sku": "1011.10802",
           "sourceVariantId": "dd3ca61f-2c7a-4bf2-b18b-1fbc26a3a3f8",
           "name": "Cevizli Kıvrım [L]",
-          "images": [],
+          "images": [
+            "imported/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc/content"
           ],
@@ -1169,7 +1242,7 @@
               "name": "Cevizli Kıvrım",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc.webp",
               "dimensions": {
                 "width": 21,
                 "height": 25,
@@ -1184,6 +1257,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -1191,7 +1265,10 @@
           "sku": "1011.10803",
           "sourceVariantId": "b367e7ad-1116-455c-9344-c0356be42ae6",
           "name": "Cevizli Kıvrım [M]",
-          "images": [],
+          "images": [
+            "imported/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc/content"
           ],
@@ -1231,7 +1308,7 @@
               "name": "Cevizli Kıvrım",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc.webp",
               "dimensions": {
                 "width": 21,
                 "height": 25,
@@ -1246,6 +1323,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -1253,7 +1331,10 @@
           "sku": "1011.10804",
           "sourceVariantId": "24246adc-e94c-4a4e-be31-749b64b8b993",
           "name": "Cevizli Kıvrım [S]",
-          "images": [],
+          "images": [
+            "imported/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc/content"
           ],
@@ -1293,7 +1374,7 @@
               "name": "Cevizli Kıvrım",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc.webp",
               "dimensions": {
                 "width": 21,
                 "height": 25,
@@ -1308,6 +1389,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -1315,7 +1397,9 @@
           "sku": "1011.10806",
           "sourceVariantId": "0984bdd6-2860-4a99-9b87-1ca097a369c4",
           "name": "Cevizli Kıvrım 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/402e28fc-5815-433f-9fb6-4c7bad02e0e6.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/402e28fc-5815-433f-9fb6-4c7bad02e0e6/content"
           ],
@@ -1349,7 +1433,7 @@
               "name": "Cevizli Kıvrım",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c5b76a9c-8f19-4006-ba1b-0f238cf36bfc.webp",
               "dimensions": {
                 "width": 21,
                 "height": 25,
@@ -1378,7 +1462,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
+        "imported/93b1c3f3-94f6-49c5-929e-469aaf2c4f0a.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/0d951f7f-0eaf-4c3d-a90b-843adc67a824/content",
         "https://1864usta.netlify.app/api/media/93b1c3f3-94f6-49c5-929e-469aaf2c4f0a/content"
@@ -1409,7 +1496,10 @@
           "sku": "1011.10701",
           "sourceVariantId": "b08b0037-51f1-4721-8d1b-2f46a74c4737",
           "name": "Cevizli Kelebek [XL]",
-          "images": [],
+          "images": [
+            "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/0d951f7f-0eaf-4c3d-a90b-843adc67a824/content"
           ],
@@ -1449,7 +1539,7 @@
               "name": "Cevizli Kelebek",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
               "dimensions": {
                 "width": 31,
                 "height": 28,
@@ -1464,6 +1554,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -1471,7 +1562,10 @@
           "sku": "1011.10702",
           "sourceVariantId": "87450750-4f6d-478f-b2ac-ee12c109c60b",
           "name": "Cevizli Kelebek [L]",
-          "images": [],
+          "images": [
+            "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/0d951f7f-0eaf-4c3d-a90b-843adc67a824/content"
           ],
@@ -1511,7 +1605,7 @@
               "name": "Cevizli Kelebek",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
               "dimensions": {
                 "width": 31,
                 "height": 28,
@@ -1526,6 +1620,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -1533,7 +1628,10 @@
           "sku": "1011.10703",
           "sourceVariantId": "a32a4335-3fb8-4dd2-99cc-2951095e7a04",
           "name": "Cevizli Kelebek [M]",
-          "images": [],
+          "images": [
+            "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/0d951f7f-0eaf-4c3d-a90b-843adc67a824/content"
           ],
@@ -1573,7 +1671,7 @@
               "name": "Cevizli Kelebek",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
               "dimensions": {
                 "width": 31,
                 "height": 28,
@@ -1588,6 +1686,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -1595,7 +1694,10 @@
           "sku": "1011.10704",
           "sourceVariantId": "4e53f2e0-f1c3-4423-9bf1-000ef793bb1f",
           "name": "Cevizli Kelebek [S]",
-          "images": [],
+          "images": [
+            "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/0d951f7f-0eaf-4c3d-a90b-843adc67a824/content"
           ],
@@ -1635,7 +1737,7 @@
               "name": "Cevizli Kelebek",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
               "dimensions": {
                 "width": 31,
                 "height": 28,
@@ -1650,6 +1752,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -1657,7 +1760,9 @@
           "sku": "1011.10706",
           "sourceVariantId": "5cd5a24f-01f1-4e60-ad2e-e82c2b469965",
           "name": "Cevizli Kelebek 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/93b1c3f3-94f6-49c5-929e-469aaf2c4f0a.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/93b1c3f3-94f6-49c5-929e-469aaf2c4f0a/content"
           ],
@@ -1691,7 +1796,7 @@
               "name": "Cevizli Kelebek",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
               "dimensions": {
                 "width": 31,
                 "height": 28,
@@ -1713,7 +1818,9 @@
           "sku": "1011.10707",
           "sourceVariantId": "a6405a58-919e-4357-bb3e-5cac35e2b7c5",
           "name": "Sultan Tabağı",
-          "images": [],
+          "images": [
+            "imported/ddc3c9d6-4ff0-4185-8085-b7909b258af3.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/ddc3c9d6-4ff0-4185-8085-b7909b258af3/content"
           ],
@@ -1751,7 +1858,7 @@
               "name": "Cevizli Kelebek",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
               "dimensions": {
                 "width": 31,
                 "height": 28,
@@ -1770,7 +1877,7 @@
               "name": "Fıstıklı Şöbiyet",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
               "dimensions": {
                 "width": 55,
                 "height": 31,
@@ -1789,7 +1896,7 @@
               "name": "Fıstıklı Padişah",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp",
               "dimensions": {
                 "width": 45,
                 "height": 26,
@@ -1808,7 +1915,7 @@
               "name": "Fıstıklı Dilber Dudağı",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/9b4cbbcc-6285-4112-bd58-f45cf068d723.png",
               "dimensions": {
                 "width": 35,
                 "height": 30,
@@ -1827,7 +1934,7 @@
               "name": "Fıstıklı Çikolatalı Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c549f866-acda-43a1-8929-665081262c17.webp",
               "dimensions": {
                 "width": 40,
                 "height": 31,
@@ -1846,7 +1953,7 @@
               "name": "Fıstıklı Kuru Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
               "dimensions": {
                 "width": 45,
                 "height": 45,
@@ -1875,7 +1982,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
+        "imported/5ec37b49-9129-48eb-b2a2-241ab23d2e76.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/34ab7fa9-a870-4ed2-a043-6a8b6834dc64/content",
         "https://1864usta.netlify.app/api/media/5ec37b49-9129-48eb-b2a2-241ab23d2e76/content"
@@ -1906,7 +2016,10 @@
           "sku": "1011.10602",
           "sourceVariantId": "67c005ba-9fff-46aa-9b57-e0ee94fef331",
           "name": "Cevizli Kare Baklava [XL]",
-          "images": [],
+          "images": [
+            "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/34ab7fa9-a870-4ed2-a043-6a8b6834dc64/content"
           ],
@@ -1946,7 +2059,7 @@
               "name": "Cevizli Kare Baklava",
               "quantity": 32,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
               "dimensions": {
                 "width": 45,
                 "height": 49,
@@ -1961,6 +2074,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 32
         },
         {
@@ -1968,7 +2082,10 @@
           "sku": "1011.10603",
           "sourceVariantId": "a1c982ec-99b7-4ef0-82f0-bec579e36c5b",
           "name": "Cevizli Kare Baklava [L]",
-          "images": [],
+          "images": [
+            "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/34ab7fa9-a870-4ed2-a043-6a8b6834dc64/content"
           ],
@@ -2008,7 +2125,7 @@
               "name": "Cevizli Kare Baklava",
               "quantity": 38,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
               "dimensions": {
                 "width": 45,
                 "height": 49,
@@ -2023,6 +2140,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 38
         },
         {
@@ -2030,7 +2148,10 @@
           "sku": "1011.10604",
           "sourceVariantId": "8fb61092-3013-41d6-a0cd-6864391a978f",
           "name": "Cevizli Kare Baklava [M]",
-          "images": [],
+          "images": [
+            "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/34ab7fa9-a870-4ed2-a043-6a8b6834dc64/content"
           ],
@@ -2070,7 +2191,7 @@
               "name": "Cevizli Kare Baklava",
               "quantity": 32,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
               "dimensions": {
                 "width": 45,
                 "height": 49,
@@ -2085,6 +2206,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 32
         },
         {
@@ -2092,7 +2214,10 @@
           "sku": "1011.10605",
           "sourceVariantId": "4ce6cbe1-5833-495b-9f0a-1cf9f8915aec",
           "name": "Cevizli Kare Baklava [S]",
-          "images": [],
+          "images": [
+            "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/34ab7fa9-a870-4ed2-a043-6a8b6834dc64/content"
           ],
@@ -2132,7 +2257,7 @@
               "name": "Cevizli Kare Baklava",
               "quantity": 26,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
               "dimensions": {
                 "width": 45,
                 "height": 49,
@@ -2147,6 +2272,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 26
         },
         {
@@ -2154,7 +2280,9 @@
           "sku": "1011.10601",
           "sourceVariantId": "7cafa3b5-70ce-4093-a474-26704327cb0a",
           "name": "Cevizli Kare Baklava 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/5ec37b49-9129-48eb-b2a2-241ab23d2e76.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/5ec37b49-9129-48eb-b2a2-241ab23d2e76/content"
           ],
@@ -2188,7 +2316,7 @@
               "name": "Cevizli Kare Baklava",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
               "dimensions": {
                 "width": 45,
                 "height": 49,
@@ -2217,7 +2345,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64.webp",
+        "imported/21a67f31-5489-4068-9dd7-2624650b50d2.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64/content",
         "https://1864usta.netlify.app/api/media/21a67f31-5489-4068-9dd7-2624650b50d2/content"
@@ -2248,7 +2379,10 @@
           "sku": "1011.10501",
           "sourceVariantId": "46b0a06d-6866-49a4-9a59-03b14e1a6c17",
           "name": "Cevizli Ev Baklavası [XL]",
-          "images": [],
+          "images": [
+            "imported/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64/content"
           ],
@@ -2288,7 +2422,7 @@
               "name": "Cevizli Ev Baklavası",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64.webp",
               "dimensions": {
                 "width": 44,
                 "height": 36,
@@ -2303,6 +2437,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -2310,7 +2445,10 @@
           "sku": "1011.10502",
           "sourceVariantId": "51bb737c-aeca-49f6-bfa1-53830bf35841",
           "name": "Cevizli Ev Baklavası [L]",
-          "images": [],
+          "images": [
+            "imported/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64/content"
           ],
@@ -2350,7 +2488,7 @@
               "name": "Cevizli Ev Baklavası",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64.webp",
               "dimensions": {
                 "width": 44,
                 "height": 36,
@@ -2365,6 +2503,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -2372,7 +2511,10 @@
           "sku": "1011.10503",
           "sourceVariantId": "34d61781-fc8e-4998-9838-aa17d89af873",
           "name": "Cevizli Ev Baklavası [M]",
-          "images": [],
+          "images": [
+            "imported/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64/content"
           ],
@@ -2412,7 +2554,7 @@
               "name": "Cevizli Ev Baklavası",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64.webp",
               "dimensions": {
                 "width": 44,
                 "height": 36,
@@ -2427,6 +2569,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -2434,7 +2577,10 @@
           "sku": "1011.10504",
           "sourceVariantId": "19c4a7da-ee46-4c04-9853-06ee7a69a3ac",
           "name": "Cevizli Ev Baklavası [S]",
-          "images": [],
+          "images": [
+            "imported/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64/content"
           ],
@@ -2474,7 +2620,7 @@
               "name": "Cevizli Ev Baklavası",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64.webp",
               "dimensions": {
                 "width": 44,
                 "height": 36,
@@ -2489,6 +2635,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -2496,7 +2643,9 @@
           "sku": "1011.10506",
           "sourceVariantId": "2f070065-defd-44f6-8124-a4a516efba96",
           "name": "Cevizli Ev Baklavası 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/21a67f31-5489-4068-9dd7-2624650b50d2.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/21a67f31-5489-4068-9dd7-2624650b50d2/content"
           ],
@@ -2530,7 +2679,7 @@
               "name": "Cevizli Ev Baklavası",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/6b190ce4-36a4-4c33-95f7-d5d2e3bbad64.webp",
               "dimensions": {
                 "width": 44,
                 "height": 36,
@@ -2559,7 +2708,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/3ba1d674-6923-4738-8173-eac384057fd5.webp",
+        "imported/8b8e63ec-39e5-4724-a96a-ca0a8ecbcd38.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/3ba1d674-6923-4738-8173-eac384057fd5/content",
         "https://1864usta.netlify.app/api/media/8b8e63ec-39e5-4724-a96a-ca0a8ecbcd38/content"
@@ -2590,7 +2742,10 @@
           "sku": "1011.10401",
           "sourceVariantId": "ddfff4d9-92e8-46a3-a6b9-3280d728729a",
           "name": "Cevizli Dürüm [XL]",
-          "images": [],
+          "images": [
+            "imported/3ba1d674-6923-4738-8173-eac384057fd5.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/3ba1d674-6923-4738-8173-eac384057fd5/content"
           ],
@@ -2630,7 +2785,7 @@
               "name": "Cevizli Dürüm",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/3ba1d674-6923-4738-8173-eac384057fd5.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -2645,6 +2800,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -2652,7 +2808,10 @@
           "sku": "1011.10402",
           "sourceVariantId": "8314e4a8-6cf3-4bfb-99e1-aab7524e5f74",
           "name": "Cevizli Dürüm [L]",
-          "images": [],
+          "images": [
+            "imported/3ba1d674-6923-4738-8173-eac384057fd5.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/3ba1d674-6923-4738-8173-eac384057fd5/content"
           ],
@@ -2692,7 +2851,7 @@
               "name": "Cevizli Dürüm",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/3ba1d674-6923-4738-8173-eac384057fd5.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -2707,6 +2866,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -2714,7 +2874,10 @@
           "sku": "1011.10403",
           "sourceVariantId": "f2251b61-1c42-4aa3-8e57-036b400b9678",
           "name": "Cevizli Dürüm [M]",
-          "images": [],
+          "images": [
+            "imported/3ba1d674-6923-4738-8173-eac384057fd5.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/3ba1d674-6923-4738-8173-eac384057fd5/content"
           ],
@@ -2754,7 +2917,7 @@
               "name": "Cevizli Dürüm",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/3ba1d674-6923-4738-8173-eac384057fd5.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -2769,6 +2932,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -2776,7 +2940,10 @@
           "sku": "1011.10404",
           "sourceVariantId": "3d14e8f0-444b-48c2-b91a-053328564497",
           "name": "Cevizli Dürüm [S]",
-          "images": [],
+          "images": [
+            "imported/3ba1d674-6923-4738-8173-eac384057fd5.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/3ba1d674-6923-4738-8173-eac384057fd5/content"
           ],
@@ -2816,7 +2983,7 @@
               "name": "Cevizli Dürüm",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/3ba1d674-6923-4738-8173-eac384057fd5.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -2831,6 +2998,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -2838,7 +3006,9 @@
           "sku": "1011.10406",
           "sourceVariantId": "a875390a-e03e-4df2-8cd0-230a119151c6",
           "name": "Cevizli Dürüm 4 Dilim",
-          "images": [],
+          "images": [
+            "imported/8b8e63ec-39e5-4724-a96a-ca0a8ecbcd38.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/8b8e63ec-39e5-4724-a96a-ca0a8ecbcd38/content"
           ],
@@ -2872,7 +3042,7 @@
               "name": "Cevizli Dürüm",
               "quantity": 4,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/3ba1d674-6923-4738-8173-eac384057fd5.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -2901,7 +3071,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/62aded8b-490d-409c-afa1-c7f5b0d70016.webp",
+        "imported/4d9ab5a0-57f0-49c4-84e6-5364a9c84830.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/62aded8b-490d-409c-afa1-c7f5b0d70016/content",
         "https://1864usta.netlify.app/api/media/4d9ab5a0-57f0-49c4-84e6-5364a9c84830/content"
@@ -2932,7 +3105,10 @@
           "sku": "1011.10301",
           "sourceVariantId": "d70d7cf9-a440-4e98-92c5-78f40608825d",
           "name": "Cevizli Çikolatalı Baklava [XL]",
-          "images": [],
+          "images": [
+            "imported/62aded8b-490d-409c-afa1-c7f5b0d70016.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/62aded8b-490d-409c-afa1-c7f5b0d70016/content"
           ],
@@ -2972,7 +3148,7 @@
               "name": "Cevizli Çikolatalı Baklava",
               "quantity": 35,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/62aded8b-490d-409c-afa1-c7f5b0d70016.webp",
               "dimensions": {
                 "width": 46,
                 "height": 48,
@@ -2987,6 +3163,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 35
         },
         {
@@ -2994,7 +3171,10 @@
           "sku": "1011.10302",
           "sourceVariantId": "b7df3ff0-55d9-4a82-92c4-eae40e4bc3c3",
           "name": "Cevizli Çikolatalı Baklava [L]",
-          "images": [],
+          "images": [
+            "imported/62aded8b-490d-409c-afa1-c7f5b0d70016.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/62aded8b-490d-409c-afa1-c7f5b0d70016/content"
           ],
@@ -3034,7 +3214,7 @@
               "name": "Cevizli Çikolatalı Baklava",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/62aded8b-490d-409c-afa1-c7f5b0d70016.webp",
               "dimensions": {
                 "width": 46,
                 "height": 48,
@@ -3049,6 +3229,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -3056,7 +3237,10 @@
           "sku": "1011.10303",
           "sourceVariantId": "d2c07ab6-4f0f-488b-a2e6-dd8142f03fcf",
           "name": "Cevizli Çikolatalı Baklava [M]",
-          "images": [],
+          "images": [
+            "imported/62aded8b-490d-409c-afa1-c7f5b0d70016.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/62aded8b-490d-409c-afa1-c7f5b0d70016/content"
           ],
@@ -3096,7 +3280,7 @@
               "name": "Cevizli Çikolatalı Baklava",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/62aded8b-490d-409c-afa1-c7f5b0d70016.webp",
               "dimensions": {
                 "width": 46,
                 "height": 48,
@@ -3111,6 +3295,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -3118,7 +3303,10 @@
           "sku": "1011.10304",
           "sourceVariantId": "bad27d64-0e66-4348-9325-bccf795dba48",
           "name": "Cevizli Çikolatalı Baklava [S]",
-          "images": [],
+          "images": [
+            "imported/62aded8b-490d-409c-afa1-c7f5b0d70016.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/62aded8b-490d-409c-afa1-c7f5b0d70016/content"
           ],
@@ -3158,7 +3346,7 @@
               "name": "Cevizli Çikolatalı Baklava",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/62aded8b-490d-409c-afa1-c7f5b0d70016.webp",
               "dimensions": {
                 "width": 46,
                 "height": 48,
@@ -3173,6 +3361,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -3180,7 +3369,9 @@
           "sku": "1011.10306",
           "sourceVariantId": "a7d77e04-8e71-4b35-97c9-d9859986ca31",
           "name": "Cevizli Çikolatalı Baklava 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/4d9ab5a0-57f0-49c4-84e6-5364a9c84830.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/4d9ab5a0-57f0-49c4-84e6-5364a9c84830/content"
           ],
@@ -3214,7 +3405,7 @@
               "name": "Cevizli Çikolatalı Baklava",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/62aded8b-490d-409c-afa1-c7f5b0d70016.webp",
               "dimensions": {
                 "width": 46,
                 "height": 48,
@@ -3243,7 +3434,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/ef900b92-8b5b-4852-8c1e-89289dc41bd4.webp",
+        "imported/a76dca48-b1eb-4721-bf02-aed931992dab.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/ef900b92-8b5b-4852-8c1e-89289dc41bd4/content",
         "https://1864usta.netlify.app/api/media/a76dca48-b1eb-4721-bf02-aed931992dab/content"
@@ -3274,7 +3468,10 @@
           "sku": "1011.10201",
           "sourceVariantId": "c301bb75-f9ff-4758-b927-5d4a31665899",
           "name": "Cevizli Cimcik Baklava [XL]",
-          "images": [],
+          "images": [
+            "imported/ef900b92-8b5b-4852-8c1e-89289dc41bd4.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/ef900b92-8b5b-4852-8c1e-89289dc41bd4/content"
           ],
@@ -3314,7 +3511,7 @@
               "name": "Cevizli Cimcik Baklava",
               "quantity": 64,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/ef900b92-8b5b-4852-8c1e-89289dc41bd4.webp",
               "dimensions": {
                 "width": 44,
                 "height": 34,
@@ -3329,6 +3526,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 64
         },
         {
@@ -3336,7 +3534,10 @@
           "sku": "1011.10202",
           "sourceVariantId": "1184f3ed-1de8-4634-b209-61ea42e3e1fb",
           "name": "Cevizli Cimcik Baklava [L]",
-          "images": [],
+          "images": [
+            "imported/ef900b92-8b5b-4852-8c1e-89289dc41bd4.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/ef900b92-8b5b-4852-8c1e-89289dc41bd4/content"
           ],
@@ -3376,7 +3577,7 @@
               "name": "Cevizli Cimcik Baklava",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/ef900b92-8b5b-4852-8c1e-89289dc41bd4.webp",
               "dimensions": {
                 "width": 44,
                 "height": 34,
@@ -3391,6 +3592,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -3398,7 +3600,10 @@
           "sku": "1011.10203",
           "sourceVariantId": "383b9941-baf2-494b-959f-c5ac80a943a8",
           "name": "Cevizli Cimcik Baklava [M]",
-          "images": [],
+          "images": [
+            "imported/ef900b92-8b5b-4852-8c1e-89289dc41bd4.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/ef900b92-8b5b-4852-8c1e-89289dc41bd4/content"
           ],
@@ -3438,7 +3643,7 @@
               "name": "Cevizli Cimcik Baklava",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/ef900b92-8b5b-4852-8c1e-89289dc41bd4.webp",
               "dimensions": {
                 "width": 44,
                 "height": 34,
@@ -3453,6 +3658,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -3460,7 +3666,10 @@
           "sku": "1011.10204",
           "sourceVariantId": "c3fd1a06-d960-494a-8a6a-770e7d3364e9",
           "name": "Cevizli Cimcik Baklava [S]",
-          "images": [],
+          "images": [
+            "imported/ef900b92-8b5b-4852-8c1e-89289dc41bd4.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/ef900b92-8b5b-4852-8c1e-89289dc41bd4/content"
           ],
@@ -3500,7 +3709,7 @@
               "name": "Cevizli Cimcik Baklava",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/ef900b92-8b5b-4852-8c1e-89289dc41bd4.webp",
               "dimensions": {
                 "width": 44,
                 "height": 34,
@@ -3515,6 +3724,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -3522,7 +3732,9 @@
           "sku": "1011.10206",
           "sourceVariantId": "baabb09d-b126-467a-abb8-3ad949bae8bf",
           "name": "Cevizli Cimcik Baklava 4 Dilim",
-          "images": [],
+          "images": [
+            "imported/a76dca48-b1eb-4721-bf02-aed931992dab.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/a76dca48-b1eb-4721-bf02-aed931992dab/content"
           ],
@@ -3556,7 +3768,7 @@
               "name": "Cevizli Cimcik Baklava",
               "quantity": 4,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/ef900b92-8b5b-4852-8c1e-89289dc41bd4.webp",
               "dimensions": {
                 "width": 44,
                 "height": 34,
@@ -3585,7 +3797,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe.webp",
+        "imported/f7dadb9f-478f-4dd7-9899-f6891d5b8588.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe/content",
         "https://1864usta.netlify.app/api/media/f7dadb9f-478f-4dd7-9899-f6891d5b8588/content"
@@ -3616,7 +3831,10 @@
           "sku": "1011.10101",
           "sourceVariantId": "1835fac8-f4d7-443e-aea0-47d6c0fa5c0b",
           "name": "Cevizli Baklava [XL]",
-          "images": [],
+          "images": [
+            "imported/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe/content"
           ],
@@ -3656,7 +3874,7 @@
               "name": "Cevizli Baklava",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe.webp",
               "dimensions": {
                 "width": 30,
                 "height": 36,
@@ -3671,6 +3889,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -3678,7 +3897,10 @@
           "sku": "1011.10102",
           "sourceVariantId": "ed47702e-98bf-4e1b-931b-fce5c62c49e7",
           "name": "Cevizli Baklava [L]",
-          "images": [],
+          "images": [
+            "imported/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe/content"
           ],
@@ -3718,7 +3940,7 @@
               "name": "Cevizli Baklava",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe.webp",
               "dimensions": {
                 "width": 30,
                 "height": 36,
@@ -3733,6 +3955,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -3740,7 +3963,10 @@
           "sku": "1011.10103",
           "sourceVariantId": "dc2bd9d7-8a50-43fb-960c-960b3fac3a20",
           "name": "Cevizli Baklava [M]",
-          "images": [],
+          "images": [
+            "imported/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe/content"
           ],
@@ -3780,7 +4006,7 @@
               "name": "Cevizli Baklava",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe.webp",
               "dimensions": {
                 "width": 30,
                 "height": 36,
@@ -3795,6 +4021,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -3802,7 +4029,10 @@
           "sku": "1011.10104",
           "sourceVariantId": "cc9fd989-dca9-46e0-badb-f8722eed96be",
           "name": "Cevizli Baklava [S]",
-          "images": [],
+          "images": [
+            "imported/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe/content"
           ],
@@ -3842,7 +4072,7 @@
               "name": "Cevizli Baklava",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe.webp",
               "dimensions": {
                 "width": 30,
                 "height": 36,
@@ -3857,6 +4087,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -3864,7 +4095,9 @@
           "sku": "1011.10106",
           "sourceVariantId": "333b1a87-a21d-4809-8687-a874a58eba34",
           "name": "Cevizli Baklava 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/f7dadb9f-478f-4dd7-9899-f6891d5b8588.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/f7dadb9f-478f-4dd7-9899-f6891d5b8588/content"
           ],
@@ -3898,7 +4131,7 @@
               "name": "Cevizli Baklava",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe.webp",
               "dimensions": {
                 "width": 30,
                 "height": 36,
@@ -3927,7 +4160,11 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/eb855d4b-e33a-42a5-8243-8718740d9f1f.webp",
+        "imported/3aec9dbe-ae99-4911-a1b4-78cbb9ddae61.webp",
+        "imported/4e9fb961-9c22-4c30-80b7-38c63aa2890f.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/eb855d4b-e33a-42a5-8243-8718740d9f1f/content",
         "https://1864usta.netlify.app/api/media/3aec9dbe-ae99-4911-a1b4-78cbb9ddae61/content",
@@ -3959,7 +4196,10 @@
           "sku": "1011.10001",
           "sourceVariantId": "a1e2e514-93ff-47d5-aa86-8a665c62eece",
           "name": "Cevizli Ankara Baklavası [XL]",
-          "images": [],
+          "images": [
+            "imported/eb855d4b-e33a-42a5-8243-8718740d9f1f.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/eb855d4b-e33a-42a5-8243-8718740d9f1f/content"
           ],
@@ -3999,7 +4239,7 @@
               "name": "Cevizli Ankara Baklavası",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/eb855d4b-e33a-42a5-8243-8718740d9f1f.webp",
               "dimensions": {
                 "width": 30,
                 "height": 29,
@@ -4014,6 +4254,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -4021,7 +4262,10 @@
           "sku": "1011.10002",
           "sourceVariantId": "0167618f-2ac1-4d40-80db-6da995bd8f84",
           "name": "Cevizli Ankara Baklavası [L]",
-          "images": [],
+          "images": [
+            "imported/eb855d4b-e33a-42a5-8243-8718740d9f1f.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/eb855d4b-e33a-42a5-8243-8718740d9f1f/content"
           ],
@@ -4061,7 +4305,7 @@
               "name": "Cevizli Ankara Baklavası",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/eb855d4b-e33a-42a5-8243-8718740d9f1f.webp",
               "dimensions": {
                 "width": 30,
                 "height": 29,
@@ -4076,6 +4320,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -4083,7 +4328,10 @@
           "sku": "1011.10003",
           "sourceVariantId": "a5d922b9-e0b1-4873-932a-c46fc99bb5f0",
           "name": "Cevizli Ankara Baklavası [M]",
-          "images": [],
+          "images": [
+            "imported/eb855d4b-e33a-42a5-8243-8718740d9f1f.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/eb855d4b-e33a-42a5-8243-8718740d9f1f/content"
           ],
@@ -4123,7 +4371,7 @@
               "name": "Cevizli Ankara Baklavası",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/eb855d4b-e33a-42a5-8243-8718740d9f1f.webp",
               "dimensions": {
                 "width": 30,
                 "height": 29,
@@ -4138,6 +4386,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -4145,7 +4394,10 @@
           "sku": "1011.10004",
           "sourceVariantId": "4a69a3c3-59d6-49f3-811a-bfcd03697f7e",
           "name": "Cevizli Ankara Baklavası [S]",
-          "images": [],
+          "images": [
+            "imported/eb855d4b-e33a-42a5-8243-8718740d9f1f.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/eb855d4b-e33a-42a5-8243-8718740d9f1f/content"
           ],
@@ -4185,7 +4437,7 @@
               "name": "Cevizli Ankara Baklavası",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/eb855d4b-e33a-42a5-8243-8718740d9f1f.webp",
               "dimensions": {
                 "width": 30,
                 "height": 29,
@@ -4200,6 +4452,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -4207,7 +4460,9 @@
           "sku": "1011.10006",
           "sourceVariantId": "e808e71e-f6ac-45e4-b4b5-fe31a77648d7",
           "name": "Cevizli Ankara Baklavası 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/4e9fb961-9c22-4c30-80b7-38c63aa2890f.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/4e9fb961-9c22-4c30-80b7-38c63aa2890f/content"
           ],
@@ -4241,7 +4496,7 @@
               "name": "Cevizli Ankara Baklavası",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/eb855d4b-e33a-42a5-8243-8718740d9f1f.webp",
               "dimensions": {
                 "width": 30,
                 "height": 29,
@@ -4270,7 +4525,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/74910703-4702-465c-8c4c-ed226c49889a.webp",
+        "imported/b78902c5-5225-442c-9f56-635299791570.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/74910703-4702-465c-8c4c-ed226c49889a/content",
         "https://1864usta.netlify.app/api/media/b78902c5-5225-442c-9f56-635299791570/content"
@@ -4301,7 +4559,10 @@
           "sku": "1010.11501",
           "sourceVariantId": "28f96b2c-abf7-45cc-b3f7-090c00ba77df",
           "name": "Fıstıklı Sarı Burma [XL]",
-          "images": [],
+          "images": [
+            "imported/74910703-4702-465c-8c4c-ed226c49889a.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/74910703-4702-465c-8c4c-ed226c49889a/content"
           ],
@@ -4341,7 +4602,7 @@
               "name": "Fıstıklı Sarı Burma",
               "quantity": 42,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/74910703-4702-465c-8c4c-ed226c49889a.webp",
               "dimensions": {
                 "width": 25,
                 "height": 30,
@@ -4356,6 +4617,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 42
         },
         {
@@ -4363,7 +4625,10 @@
           "sku": "1010.11502",
           "sourceVariantId": "8ed6d9ba-b87b-4726-b4de-1091fc284ffc",
           "name": "Fıstıklı Sarı Burma [L]",
-          "images": [],
+          "images": [
+            "imported/74910703-4702-465c-8c4c-ed226c49889a.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/74910703-4702-465c-8c4c-ed226c49889a/content"
           ],
@@ -4403,7 +4668,7 @@
               "name": "Fıstıklı Sarı Burma",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/74910703-4702-465c-8c4c-ed226c49889a.webp",
               "dimensions": {
                 "width": 25,
                 "height": 30,
@@ -4418,6 +4683,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -4425,7 +4691,10 @@
           "sku": "1010.11503",
           "sourceVariantId": "d1222b0a-6dfe-4608-a7b6-62e13156581e",
           "name": "Fıstıklı Sarı Burma [M]",
-          "images": [],
+          "images": [
+            "imported/74910703-4702-465c-8c4c-ed226c49889a.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/74910703-4702-465c-8c4c-ed226c49889a/content"
           ],
@@ -4465,7 +4734,7 @@
               "name": "Fıstıklı Sarı Burma",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/74910703-4702-465c-8c4c-ed226c49889a.webp",
               "dimensions": {
                 "width": 25,
                 "height": 30,
@@ -4480,6 +4749,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -4487,7 +4757,10 @@
           "sku": "1010.11504",
           "sourceVariantId": "8a86bceb-a242-4d18-a483-965a79364c05",
           "name": "Fıstıklı Sarı Burma [S]",
-          "images": [],
+          "images": [
+            "imported/74910703-4702-465c-8c4c-ed226c49889a.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/74910703-4702-465c-8c4c-ed226c49889a/content"
           ],
@@ -4527,7 +4800,7 @@
               "name": "Fıstıklı Sarı Burma",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/74910703-4702-465c-8c4c-ed226c49889a.webp",
               "dimensions": {
                 "width": 25,
                 "height": 30,
@@ -4542,6 +4815,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -4549,7 +4823,9 @@
           "sku": "1010.11506",
           "sourceVariantId": "16bcea30-29a8-46e1-812f-28dd17d48e36",
           "name": "Fıstıklı Sarı Burma 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/b78902c5-5225-442c-9f56-635299791570.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/b78902c5-5225-442c-9f56-635299791570/content"
           ],
@@ -4583,7 +4859,7 @@
               "name": "Fıstıklı Sarı Burma",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/74910703-4702-465c-8c4c-ed226c49889a.webp",
               "dimensions": {
                 "width": 25,
                 "height": 30,
@@ -4612,7 +4888,9 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8/content"
       ],
@@ -4642,7 +4920,10 @@
           "sku": "1010.11401",
           "sourceVariantId": "0f3d784a-0eb6-4d92-bf76-86ac38e1a4a4",
           "name": "Fıstıklı Saray Sarması [XL]",
-          "images": [],
+          "images": [
+            "imported/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8/content"
           ],
@@ -4682,7 +4963,7 @@
               "name": "Fıstıklı Saray Sarması",
               "quantity": 42,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8.webp",
               "dimensions": {
                 "width": 32,
                 "height": 25,
@@ -4697,6 +4978,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 42
         },
         {
@@ -4704,7 +4986,10 @@
           "sku": "1010.11402",
           "sourceVariantId": "270105a9-1239-42ef-a87c-293a15954ed5",
           "name": "Fıstıklı Saray Sarması [L]",
-          "images": [],
+          "images": [
+            "imported/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8/content"
           ],
@@ -4744,7 +5029,7 @@
               "name": "Fıstıklı Saray Sarması",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8.webp",
               "dimensions": {
                 "width": 32,
                 "height": 25,
@@ -4759,6 +5044,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -4766,7 +5052,10 @@
           "sku": "1010.11403",
           "sourceVariantId": "4ef99a17-13bc-4fbd-aa8e-486830dad533",
           "name": "Fıstıklı Saray Sarması [M]",
-          "images": [],
+          "images": [
+            "imported/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8/content"
           ],
@@ -4806,7 +5095,7 @@
               "name": "Fıstıklı Saray Sarması",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8.webp",
               "dimensions": {
                 "width": 32,
                 "height": 25,
@@ -4821,6 +5110,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -4828,7 +5118,10 @@
           "sku": "1010.11404",
           "sourceVariantId": "7ea81f9c-b4b3-43f8-9250-65ea3b66f07a",
           "name": "Fıstıklı Saray Sarması [S]",
-          "images": [],
+          "images": [
+            "imported/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8/content"
           ],
@@ -4868,7 +5161,7 @@
               "name": "Fıstıklı Saray Sarması",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8.webp",
               "dimensions": {
                 "width": 32,
                 "height": 25,
@@ -4883,6 +5176,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -4890,7 +5184,9 @@
           "sku": "1010.11406",
           "sourceVariantId": "19ce5250-7c32-4a01-b119-dffca7ac888c",
           "name": "Fıstıklı Saray Sarması 4 Dilim",
-          "images": [],
+          "images": [
+            "imported/670f33d0-78e4-4155-9e32-0fd1c6b88729.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/670f33d0-78e4-4155-9e32-0fd1c6b88729/content"
           ],
@@ -4924,7 +5220,7 @@
               "name": "Fıstıklı Saray Sarması",
               "quantity": 4,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/1ebc69d0-b67d-489a-ae18-1dc2c2eb68a8.webp",
               "dimensions": {
                 "width": 32,
                 "height": 25,
@@ -4953,7 +5249,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp",
+        "imported/3447abe5-4aa4-4d62-9135-e57af7b333b3.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/faa91957-22ff-4684-b16c-635b89ff29f9/content",
         "https://1864usta.netlify.app/api/media/3447abe5-4aa4-4d62-9135-e57af7b333b3/content"
@@ -4984,7 +5283,10 @@
           "sku": "1010.11201",
           "sourceVariantId": "caa5bf2e-fd26-4774-a47f-a25ff0d5008c",
           "name": "Fıstıklı Padişah [XL]",
-          "images": [],
+          "images": [
+            "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/faa91957-22ff-4684-b16c-635b89ff29f9/content"
           ],
@@ -5024,7 +5326,7 @@
               "name": "Fıstıklı Padişah",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp",
               "dimensions": {
                 "width": 45,
                 "height": 26,
@@ -5039,6 +5341,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -5046,7 +5349,10 @@
           "sku": "1010.11202",
           "sourceVariantId": "b9ba962c-2501-47bf-aa52-9202fed78dd9",
           "name": "Fıstıklı Padişah [L]",
-          "images": [],
+          "images": [
+            "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/faa91957-22ff-4684-b16c-635b89ff29f9/content"
           ],
@@ -5086,7 +5392,7 @@
               "name": "Fıstıklı Padişah",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp",
               "dimensions": {
                 "width": 45,
                 "height": 26,
@@ -5101,6 +5407,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -5108,7 +5415,10 @@
           "sku": "1010.11203",
           "sourceVariantId": "abb814fb-2522-47c9-86a6-10a6cc092ad8",
           "name": "Fıstıklı Padişah [M]",
-          "images": [],
+          "images": [
+            "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/faa91957-22ff-4684-b16c-635b89ff29f9/content"
           ],
@@ -5148,7 +5458,7 @@
               "name": "Fıstıklı Padişah",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp",
               "dimensions": {
                 "width": 45,
                 "height": 26,
@@ -5163,6 +5473,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -5170,7 +5481,10 @@
           "sku": "1010.11204",
           "sourceVariantId": "5bb01f76-b72c-4185-a2f5-7289b5da61d6",
           "name": "Fıstıklı Padişah [S]",
-          "images": [],
+          "images": [
+            "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/faa91957-22ff-4684-b16c-635b89ff29f9/content"
           ],
@@ -5210,7 +5524,7 @@
               "name": "Fıstıklı Padişah",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp",
               "dimensions": {
                 "width": 45,
                 "height": 26,
@@ -5225,6 +5539,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -5232,7 +5547,9 @@
           "sku": "1010.11206",
           "sourceVariantId": "17157f22-34b0-4d95-9751-6bbcbd8d45d9",
           "name": "Fıstıklı Padişah 4 Dilim",
-          "images": [],
+          "images": [
+            "imported/3447abe5-4aa4-4d62-9135-e57af7b333b3.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/3447abe5-4aa4-4d62-9135-e57af7b333b3/content"
           ],
@@ -5266,7 +5583,7 @@
               "name": "Fıstıklı Padişah",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp",
               "dimensions": {
                 "width": 45,
                 "height": 26,
@@ -5295,7 +5612,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/71c3e36c-56a8-4747-9d48-8f9f74a964e0.webp",
+        "imported/6c8450b5-a8c6-4e3a-bb09-442a40b81512.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/71c3e36c-56a8-4747-9d48-8f9f74a964e0/content",
         "https://1864usta.netlify.app/api/media/6c8450b5-a8c6-4e3a-bb09-442a40b81512/content"
@@ -5326,7 +5646,10 @@
           "sku": "1010.11101",
           "sourceVariantId": "dbbbc42a-7d8d-4ac4-9aad-2f935f53cb22",
           "name": "Fıstıklı Özel Şöbiyet [XL]",
-          "images": [],
+          "images": [
+            "imported/71c3e36c-56a8-4747-9d48-8f9f74a964e0.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/71c3e36c-56a8-4747-9d48-8f9f74a964e0/content"
           ],
@@ -5366,7 +5689,7 @@
               "name": "Fıstıklı Özel Şöbiyet",
               "quantity": 28,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/71c3e36c-56a8-4747-9d48-8f9f74a964e0.webp",
               "dimensions": {
                 "width": 45,
                 "height": 35,
@@ -5381,6 +5704,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 28
         },
         {
@@ -5388,7 +5712,10 @@
           "sku": "1010.11102",
           "sourceVariantId": "b6b87062-c695-4bb1-a856-71fd78ef65d3",
           "name": "Fıstıklı Özel Şöbiyet [L]",
-          "images": [],
+          "images": [
+            "imported/71c3e36c-56a8-4747-9d48-8f9f74a964e0.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/71c3e36c-56a8-4747-9d48-8f9f74a964e0/content"
           ],
@@ -5428,7 +5755,7 @@
               "name": "Fıstıklı Özel Şöbiyet",
               "quantity": 18,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/71c3e36c-56a8-4747-9d48-8f9f74a964e0.webp",
               "dimensions": {
                 "width": 45,
                 "height": 35,
@@ -5443,6 +5770,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 18
         },
         {
@@ -5450,7 +5778,10 @@
           "sku": "1010.11103",
           "sourceVariantId": "8ccfee0a-8cb4-4ce4-a027-ecb6138d5f24",
           "name": "Fıstıklı Özel Şöbiyet [M]",
-          "images": [],
+          "images": [
+            "imported/71c3e36c-56a8-4747-9d48-8f9f74a964e0.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/71c3e36c-56a8-4747-9d48-8f9f74a964e0/content"
           ],
@@ -5490,7 +5821,7 @@
               "name": "Fıstıklı Özel Şöbiyet",
               "quantity": 15,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/71c3e36c-56a8-4747-9d48-8f9f74a964e0.webp",
               "dimensions": {
                 "width": 45,
                 "height": 35,
@@ -5505,6 +5836,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 15
         },
         {
@@ -5512,7 +5844,10 @@
           "sku": "1010.11104",
           "sourceVariantId": "f64b56b7-4ce3-49ea-8989-c2b57cf473eb",
           "name": "Fıstıklı Özel Şöbiyet [S]",
-          "images": [],
+          "images": [
+            "imported/71c3e36c-56a8-4747-9d48-8f9f74a964e0.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/71c3e36c-56a8-4747-9d48-8f9f74a964e0/content"
           ],
@@ -5552,7 +5887,7 @@
               "name": "Fıstıklı Özel Şöbiyet",
               "quantity": 12,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/71c3e36c-56a8-4747-9d48-8f9f74a964e0.webp",
               "dimensions": {
                 "width": 45,
                 "height": 35,
@@ -5567,6 +5902,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 12
         },
         {
@@ -5574,7 +5910,9 @@
           "sku": "1010.11106",
           "sourceVariantId": "b8c2fcb9-fd23-47e1-a80f-f801d4a9b93b",
           "name": "Fıstıklı Özel Şöbiyet 2 Dilim",
-          "images": [],
+          "images": [
+            "imported/6c8450b5-a8c6-4e3a-bb09-442a40b81512.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/6c8450b5-a8c6-4e3a-bb09-442a40b81512/content"
           ],
@@ -5608,7 +5946,7 @@
               "name": "Fıstıklı Özel Şöbiyet",
               "quantity": 2,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/71c3e36c-56a8-4747-9d48-8f9f74a964e0.webp",
               "dimensions": {
                 "width": 45,
                 "height": 35,
@@ -5637,7 +5975,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
+        "imported/bed8bc74-62cc-499d-aacc-7b3440987c58.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/b80149c4-85ae-4d28-8c61-f1089f5bb6cb/content",
         "https://1864usta.netlify.app/api/media/bed8bc74-62cc-499d-aacc-7b3440987c58/content"
@@ -5668,7 +6009,10 @@
           "sku": "1010.11001",
           "sourceVariantId": "3aca4494-ce79-42ba-8f87-767c1d884a36",
           "name": "Fıstıklı Kuru Baklava [XL]",
-          "images": [],
+          "images": [
+            "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/b80149c4-85ae-4d28-8c61-f1089f5bb6cb/content"
           ],
@@ -5708,7 +6052,7 @@
               "name": "Fıstıklı Kuru Baklava",
               "quantity": 42,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
               "dimensions": {
                 "width": 45,
                 "height": 45,
@@ -5723,6 +6067,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 42
         },
         {
@@ -5730,7 +6075,10 @@
           "sku": "1010.11002",
           "sourceVariantId": "b8ce671b-f0fc-4c47-b596-48311ea378cd",
           "name": "Fıstıklı Kuru Baklava [L]",
-          "images": [],
+          "images": [
+            "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/b80149c4-85ae-4d28-8c61-f1089f5bb6cb/content"
           ],
@@ -5770,7 +6118,7 @@
               "name": "Fıstıklı Kuru Baklava",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
               "dimensions": {
                 "width": 45,
                 "height": 45,
@@ -5785,6 +6133,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -5792,7 +6141,10 @@
           "sku": "1010.11003",
           "sourceVariantId": "6bc19530-0206-4c2e-9423-2ff45340452f",
           "name": "Fıstıklı Kuru Baklava [M]",
-          "images": [],
+          "images": [
+            "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/b80149c4-85ae-4d28-8c61-f1089f5bb6cb/content"
           ],
@@ -5832,7 +6184,7 @@
               "name": "Fıstıklı Kuru Baklava",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
               "dimensions": {
                 "width": 45,
                 "height": 45,
@@ -5847,6 +6199,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -5854,7 +6207,10 @@
           "sku": "1010.11004",
           "sourceVariantId": "3e2f50ff-193f-4f1b-aa80-1e3f9bafb0f5",
           "name": "Fıstıklı Kuru Baklava [S]",
-          "images": [],
+          "images": [
+            "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/b80149c4-85ae-4d28-8c61-f1089f5bb6cb/content"
           ],
@@ -5894,7 +6250,7 @@
               "name": "Fıstıklı Kuru Baklava",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
               "dimensions": {
                 "width": 45,
                 "height": 45,
@@ -5909,6 +6265,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -5916,7 +6273,9 @@
           "sku": "1010.11005",
           "sourceVariantId": "af20057a-2d0d-4d76-9cae-4d06a1cf9cd8",
           "name": "Fıstıklı Kuru Baklava  3 Dilim",
-          "images": [],
+          "images": [
+            "imported/bed8bc74-62cc-499d-aacc-7b3440987c58.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/bed8bc74-62cc-499d-aacc-7b3440987c58/content"
           ],
@@ -5950,7 +6309,7 @@
               "name": "Fıstıklı Kuru Baklava",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
               "dimensions": {
                 "width": 45,
                 "height": 45,
@@ -5979,7 +6338,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/e044e22d-9356-4962-b1e1-8a0df1d42984.webp",
+        "imported/ba9431dd-52e0-4182-b9f7-5663a24c1db9.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/e044e22d-9356-4962-b1e1-8a0df1d42984/content",
         "https://1864usta.netlify.app/api/media/ba9431dd-52e0-4182-b9f7-5663a24c1db9/content"
@@ -6010,7 +6372,10 @@
           "sku": "1010.10901",
           "sourceVariantId": "6a32a4a1-1221-410b-be82-8a031547ecd4",
           "name": "Fıstıklı Kıvrım Baklava [XL]",
-          "images": [],
+          "images": [
+            "imported/e044e22d-9356-4962-b1e1-8a0df1d42984.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/e044e22d-9356-4962-b1e1-8a0df1d42984/content"
           ],
@@ -6050,7 +6415,7 @@
               "name": "Fıstıklı Kıvrım Baklava",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/e044e22d-9356-4962-b1e1-8a0df1d42984.webp",
               "dimensions": {
                 "width": 22,
                 "height": 26,
@@ -6065,6 +6430,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -6072,7 +6438,10 @@
           "sku": "1010.10902",
           "sourceVariantId": "32a8c132-3cb3-4454-a1d6-729f3735d9ed",
           "name": "Fıstıklı Kıvrım Baklava [L]",
-          "images": [],
+          "images": [
+            "imported/e044e22d-9356-4962-b1e1-8a0df1d42984.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/e044e22d-9356-4962-b1e1-8a0df1d42984/content"
           ],
@@ -6112,7 +6481,7 @@
               "name": "Fıstıklı Kıvrım Baklava",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/e044e22d-9356-4962-b1e1-8a0df1d42984.webp",
               "dimensions": {
                 "width": 22,
                 "height": 26,
@@ -6127,6 +6496,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -6134,7 +6504,10 @@
           "sku": "1010.10903",
           "sourceVariantId": "8f68fe92-d500-4e91-820c-ddd2753253ca",
           "name": "Fıstıklı Kıvrım Baklava [M]",
-          "images": [],
+          "images": [
+            "imported/e044e22d-9356-4962-b1e1-8a0df1d42984.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/e044e22d-9356-4962-b1e1-8a0df1d42984/content"
           ],
@@ -6174,7 +6547,7 @@
               "name": "Fıstıklı Kıvrım Baklava",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/e044e22d-9356-4962-b1e1-8a0df1d42984.webp",
               "dimensions": {
                 "width": 22,
                 "height": 26,
@@ -6189,6 +6562,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -6196,7 +6570,10 @@
           "sku": "1010.10904",
           "sourceVariantId": "8440b840-8a53-426b-be37-760960e1b897",
           "name": "Fıstıklı Kıvrım Baklava [S]",
-          "images": [],
+          "images": [
+            "imported/e044e22d-9356-4962-b1e1-8a0df1d42984.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/e044e22d-9356-4962-b1e1-8a0df1d42984/content"
           ],
@@ -6236,7 +6613,7 @@
               "name": "Fıstıklı Kıvrım Baklava",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/e044e22d-9356-4962-b1e1-8a0df1d42984.webp",
               "dimensions": {
                 "width": 22,
                 "height": 26,
@@ -6251,6 +6628,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -6258,7 +6636,9 @@
           "sku": "1010.10906",
           "sourceVariantId": "33a581f6-9eb7-4af2-904e-06258b1d5a4b",
           "name": "Fıstıklı Kıvrım Baklava 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/ba9431dd-52e0-4182-b9f7-5663a24c1db9.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/ba9431dd-52e0-4182-b9f7-5663a24c1db9/content"
           ],
@@ -6292,7 +6672,7 @@
               "name": "Fıstıklı Kıvrım Baklava",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/e044e22d-9356-4962-b1e1-8a0df1d42984.webp",
               "dimensions": {
                 "width": 22,
                 "height": 26,
@@ -6314,7 +6694,9 @@
           "sku": "1010.10907",
           "sourceVariantId": "11db0d51-7b17-419f-a4f2-6633ac856370",
           "name": "Paşa Tabağı",
-          "images": [],
+          "images": [
+            "imported/ac10b398-3f67-4402-ba7c-c55a74bd6d45.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/ac10b398-3f67-4402-ba7c-c55a74bd6d45/content"
           ],
@@ -6348,7 +6730,7 @@
               "name": "Fıstıklı Kıvrım Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/e044e22d-9356-4962-b1e1-8a0df1d42984.webp",
               "dimensions": {
                 "width": 22,
                 "height": 26,
@@ -6367,7 +6749,7 @@
               "name": "Fıstıklı Cimcik Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c55217cb-0798-4a0a-8855-67a9c2f1d8d7.webp",
               "dimensions": {
                 "width": 31,
                 "height": 36,
@@ -6386,7 +6768,7 @@
               "name": "Fıstıklı Ankara Baklavası",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/84050be5-e24a-4f84-803b-7088fe79a2a1.webp",
               "dimensions": {
                 "width": 30,
                 "height": 29,
@@ -6405,7 +6787,7 @@
               "name": "Fıstıklı Kuru Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
               "dimensions": {
                 "width": 45,
                 "height": 45,
@@ -6427,7 +6809,9 @@
           "sku": "1010.10908",
           "sourceVariantId": "ffd34f47-80d4-4d93-a99f-f8a7a64dbd02",
           "name": "Hünkar Tabağı",
-          "images": [],
+          "images": [
+            "imported/0791cf84-5610-4075-809a-25fbf2987349.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/0791cf84-5610-4075-809a-25fbf2987349/content"
           ],
@@ -6461,7 +6845,7 @@
               "name": "Fıstıklı Kıvrım Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/e044e22d-9356-4962-b1e1-8a0df1d42984.webp",
               "dimensions": {
                 "width": 22,
                 "height": 26,
@@ -6480,7 +6864,7 @@
               "name": "Fıstıklı Dilber Dudağı",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/9b4cbbcc-6285-4112-bd58-f45cf068d723.png",
               "dimensions": {
                 "width": 35,
                 "height": 30,
@@ -6499,7 +6883,7 @@
               "name": "Fıstıklı Cimcik Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c55217cb-0798-4a0a-8855-67a9c2f1d8d7.webp",
               "dimensions": {
                 "width": 31,
                 "height": 36,
@@ -6518,7 +6902,7 @@
               "name": "Fıstıklı Dürüm",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/6a93a5c1-7388-452f-a7e3-a4acf4002d1f.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -6537,7 +6921,7 @@
               "name": "Fıstıklı Kuru Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/b80149c4-85ae-4d28-8c61-f1089f5bb6cb.webp",
               "dimensions": {
                 "width": 45,
                 "height": 45,
@@ -6556,7 +6940,7 @@
               "name": "Fıstıklı Kare Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4.webp",
               "dimensions": {
                 "width": 44,
                 "height": 36,
@@ -6585,7 +6969,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a.webp",
+        "imported/3da53808-1e4d-4a32-b066-4bc5aea7fff0.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a/content",
         "https://1864usta.netlify.app/api/media/3da53808-1e4d-4a32-b066-4bc5aea7fff0/content"
@@ -6616,7 +7003,10 @@
           "sku": "1010.10701",
           "sourceVariantId": "4cbc238f-d985-4353-bed5-cac9e778ecea",
           "name": "Fıstıklı Havuç Dilim [XL]",
-          "images": [],
+          "images": [
+            "imported/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a/content"
           ],
@@ -6656,7 +7046,7 @@
               "name": "Fıstıklı Havuç Dilim",
               "quantity": 14,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a.webp",
               "dimensions": {
                 "width": 55,
                 "height": 30,
@@ -6671,6 +7061,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 14
         },
         {
@@ -6678,7 +7069,10 @@
           "sku": "1010.10702",
           "sourceVariantId": "ca0d0e4d-e2f0-45a3-a754-1392a21dd16b",
           "name": "Fıstıklı Havuç Dilim [L]",
-          "images": [],
+          "images": [
+            "imported/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a/content"
           ],
@@ -6718,7 +7112,7 @@
               "name": "Fıstıklı Havuç Dilim",
               "quantity": 8,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a.webp",
               "dimensions": {
                 "width": 55,
                 "height": 30,
@@ -6733,6 +7127,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 8
         },
         {
@@ -6740,7 +7135,10 @@
           "sku": "1010.10703",
           "sourceVariantId": "899319b5-a96d-4ab1-8b93-c29369c996ef",
           "name": "Fıstıklı Havuç Dilim [M]",
-          "images": [],
+          "images": [
+            "imported/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a/content"
           ],
@@ -6780,7 +7178,7 @@
               "name": "Fıstıklı Havuç Dilim",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a.webp",
               "dimensions": {
                 "width": 55,
                 "height": 30,
@@ -6795,6 +7193,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 6
         },
         {
@@ -6802,7 +7201,10 @@
           "sku": "1010.10704",
           "sourceVariantId": "116d4ca5-7573-4efb-91ea-7f322824dcfa",
           "name": "Fıstıklı Havuç Dilim [S]",
-          "images": [],
+          "images": [
+            "imported/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a/content"
           ],
@@ -6842,7 +7244,7 @@
               "name": "Fıstıklı Havuç Dilim",
               "quantity": 4,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a.webp",
               "dimensions": {
                 "width": 55,
                 "height": 30,
@@ -6857,6 +7259,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 4
         },
         {
@@ -6864,7 +7267,9 @@
           "sku": "1010.10706",
           "sourceVariantId": "5f1be88c-3f59-45d4-934c-175fb5599823",
           "name": "Fıstıklı Havuç Dilim 1 Dilim",
-          "images": [],
+          "images": [
+            "imported/3da53808-1e4d-4a32-b066-4bc5aea7fff0.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/3da53808-1e4d-4a32-b066-4bc5aea7fff0/content"
           ],
@@ -6898,7 +7303,7 @@
               "name": "Fıstıklı Havuç Dilim",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/2ffe94ce-f793-4806-8fe9-09d3e78f7a1a.webp",
               "dimensions": {
                 "width": 55,
                 "height": 30,
@@ -6927,7 +7332,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/6a93a5c1-7388-452f-a7e3-a4acf4002d1f.webp",
+        "imported/28e81bf3-b104-4f39-ab8d-d75c2358368d.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/6a93a5c1-7388-452f-a7e3-a4acf4002d1f/content",
         "https://1864usta.netlify.app/api/media/28e81bf3-b104-4f39-ab8d-d75c2358368d/content"
@@ -6958,7 +7366,10 @@
           "sku": "1010.10601",
           "sourceVariantId": "9b5fb63c-41cf-4369-88d0-c452ee3dc526",
           "name": "Fıstıklı Dürüm [XL]",
-          "images": [],
+          "images": [
+            "imported/6a93a5c1-7388-452f-a7e3-a4acf4002d1f.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/6a93a5c1-7388-452f-a7e3-a4acf4002d1f/content"
           ],
@@ -6998,7 +7409,7 @@
               "name": "Fıstıklı Dürüm",
               "quantity": 42,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/6a93a5c1-7388-452f-a7e3-a4acf4002d1f.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -7013,6 +7424,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 42
         },
         {
@@ -7020,7 +7432,10 @@
           "sku": "1010.10602",
           "sourceVariantId": "dcc25594-d2c2-44d7-a256-78622646deb2",
           "name": "Fıstıklı Dürüm [L]",
-          "images": [],
+          "images": [
+            "imported/6a93a5c1-7388-452f-a7e3-a4acf4002d1f.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/6a93a5c1-7388-452f-a7e3-a4acf4002d1f/content"
           ],
@@ -7060,7 +7475,7 @@
               "name": "Fıstıklı Dürüm",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/6a93a5c1-7388-452f-a7e3-a4acf4002d1f.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -7075,6 +7490,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -7082,7 +7498,10 @@
           "sku": "1010.10603",
           "sourceVariantId": "c0fa160b-1437-4241-99f2-4996fc93e7ed",
           "name": "Fıstıklı Dürüm [M]",
-          "images": [],
+          "images": [
+            "imported/6a93a5c1-7388-452f-a7e3-a4acf4002d1f.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/6a93a5c1-7388-452f-a7e3-a4acf4002d1f/content"
           ],
@@ -7122,7 +7541,7 @@
               "name": "Fıstıklı Dürüm",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/6a93a5c1-7388-452f-a7e3-a4acf4002d1f.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -7137,6 +7556,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -7144,7 +7564,10 @@
           "sku": "1010.10604",
           "sourceVariantId": "43d3c523-9a28-45f9-8f95-c6d0c6074e21",
           "name": "Fıstıklı Dürüm [S]",
-          "images": [],
+          "images": [
+            "imported/6a93a5c1-7388-452f-a7e3-a4acf4002d1f.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/6a93a5c1-7388-452f-a7e3-a4acf4002d1f/content"
           ],
@@ -7184,7 +7607,7 @@
               "name": "Fıstıklı Dürüm",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/6a93a5c1-7388-452f-a7e3-a4acf4002d1f.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -7199,6 +7622,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -7206,7 +7630,9 @@
           "sku": "1010.10606",
           "sourceVariantId": "c1cea165-5b1a-4afc-8092-411b88739166",
           "name": "Fıstıklı Dürüm 4 Dilim",
-          "images": [],
+          "images": [
+            "imported/28e81bf3-b104-4f39-ab8d-d75c2358368d.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/28e81bf3-b104-4f39-ab8d-d75c2358368d/content"
           ],
@@ -7240,7 +7666,7 @@
               "name": "Fıstıklı Dürüm",
               "quantity": 4,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/6a93a5c1-7388-452f-a7e3-a4acf4002d1f.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -7262,7 +7688,9 @@
           "sku": "1010.10607",
           "sourceVariantId": "50df4ebc-1514-40dd-ba5c-22cc14a321f2",
           "name": "Yeniçeri Tabağı",
-          "images": [],
+          "images": [
+            "imported/1b959624-b035-465e-a944-99d50860a5fe.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/1b959624-b035-465e-a944-99d50860a5fe/content"
           ],
@@ -7300,7 +7728,7 @@
               "name": "Fıstıklı Dürüm",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/6a93a5c1-7388-452f-a7e3-a4acf4002d1f.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -7319,7 +7747,7 @@
               "name": "Cevizli Padişah",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
               "dimensions": {
                 "width": 45,
                 "height": 30,
@@ -7338,7 +7766,7 @@
               "name": "Fıstıklı Kare Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4.webp",
               "dimensions": {
                 "width": 44,
                 "height": 36,
@@ -7357,7 +7785,7 @@
               "name": "Cevizli Kare Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
               "dimensions": {
                 "width": 45,
                 "height": 49,
@@ -7386,7 +7814,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/9b4cbbcc-6285-4112-bd58-f45cf068d723.png",
+        "imported/4dfcd6aa-d1a8-4e1c-ac9c-1ed44e86cf21.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/9b4cbbcc-6285-4112-bd58-f45cf068d723/content",
         "https://1864usta.netlify.app/api/media/4dfcd6aa-d1a8-4e1c-ac9c-1ed44e86cf21/content"
@@ -7417,7 +7848,10 @@
           "sku": "1010.10501",
           "sourceVariantId": "b37c36fc-b7e0-4415-a75b-c0bd672d78a5",
           "name": "Fıstıklı Dilber Dudağı [XL]",
-          "images": [],
+          "images": [
+            "imported/9b4cbbcc-6285-4112-bd58-f45cf068d723.png",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/9b4cbbcc-6285-4112-bd58-f45cf068d723/content"
           ],
@@ -7457,7 +7891,7 @@
               "name": "Fıstıklı Dilber Dudağı",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/9b4cbbcc-6285-4112-bd58-f45cf068d723.png",
               "dimensions": {
                 "width": 35,
                 "height": 30,
@@ -7472,6 +7906,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -7479,7 +7914,10 @@
           "sku": "1010.10502",
           "sourceVariantId": "16b22f7b-d30a-4689-877d-245e75517cbf",
           "name": "Fıstıklı Dilber Dudağı [L]",
-          "images": [],
+          "images": [
+            "imported/9b4cbbcc-6285-4112-bd58-f45cf068d723.png",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/9b4cbbcc-6285-4112-bd58-f45cf068d723/content"
           ],
@@ -7519,7 +7957,7 @@
               "name": "Fıstıklı Dilber Dudağı",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/9b4cbbcc-6285-4112-bd58-f45cf068d723.png",
               "dimensions": {
                 "width": 35,
                 "height": 30,
@@ -7534,6 +7972,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -7541,7 +7980,10 @@
           "sku": "1010.10503",
           "sourceVariantId": "c6b03da6-0597-4345-bf64-269ba081c60c",
           "name": "Fıstıklı Dilber Dudağı [M]",
-          "images": [],
+          "images": [
+            "imported/9b4cbbcc-6285-4112-bd58-f45cf068d723.png",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/9b4cbbcc-6285-4112-bd58-f45cf068d723/content"
           ],
@@ -7581,7 +8023,7 @@
               "name": "Fıstıklı Dilber Dudağı",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/9b4cbbcc-6285-4112-bd58-f45cf068d723.png",
               "dimensions": {
                 "width": 35,
                 "height": 30,
@@ -7596,6 +8038,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -7603,7 +8046,10 @@
           "sku": "1010.10504",
           "sourceVariantId": "d647acef-63ef-44ef-bccd-751b062f4758",
           "name": "Fıstıklı Dilber Dudağı [S]",
-          "images": [],
+          "images": [
+            "imported/9b4cbbcc-6285-4112-bd58-f45cf068d723.png",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/9b4cbbcc-6285-4112-bd58-f45cf068d723/content"
           ],
@@ -7643,7 +8089,7 @@
               "name": "Fıstıklı Dilber Dudağı",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/9b4cbbcc-6285-4112-bd58-f45cf068d723.png",
               "dimensions": {
                 "width": 35,
                 "height": 30,
@@ -7658,6 +8104,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -7665,7 +8112,9 @@
           "sku": "1010.10506",
           "sourceVariantId": "c2cc4b7b-bfca-482d-9b9b-0cb59ce6549d",
           "name": "Fıstıklı Dilber Dudağı 4 Dilim",
-          "images": [],
+          "images": [
+            "imported/4dfcd6aa-d1a8-4e1c-ac9c-1ed44e86cf21.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/4dfcd6aa-d1a8-4e1c-ac9c-1ed44e86cf21/content"
           ],
@@ -7699,7 +8148,7 @@
               "name": "Fıstıklı Dilber Dudağı",
               "quantity": 4,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/9b4cbbcc-6285-4112-bd58-f45cf068d723.png",
               "dimensions": {
                 "width": 35,
                 "height": 30,
@@ -7728,7 +8177,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/51249451-563f-4d15-99d2-b68ceb51a45f.webp",
+        "imported/bd8f7d0f-e126-487f-9475-760e12babcfe.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/51249451-563f-4d15-99d2-b68ceb51a45f/content",
         "https://1864usta.netlify.app/api/media/bd8f7d0f-e126-487f-9475-760e12babcfe/content"
@@ -7759,7 +8211,10 @@
           "sku": "1010.10401",
           "sourceVariantId": "434663e9-c098-4e86-a8a8-13299eb9c2cc",
           "name": "Fıstıklı Çikolatalı Havuç Dilim [XL]",
-          "images": [],
+          "images": [
+            "imported/51249451-563f-4d15-99d2-b68ceb51a45f.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/51249451-563f-4d15-99d2-b68ceb51a45f/content"
           ],
@@ -7799,7 +8254,7 @@
               "name": "Fıstıklı Çikolatalı Havuç Dilim",
               "quantity": 14,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/51249451-563f-4d15-99d2-b68ceb51a45f.webp",
               "dimensions": {
                 "width": 55,
                 "height": 30,
@@ -7814,6 +8269,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 14
         },
         {
@@ -7821,7 +8277,10 @@
           "sku": "1010.10402",
           "sourceVariantId": "cfa60095-68ba-4274-bc79-4eddf5e47d2c",
           "name": "Fıstıklı Çikolatalı Havuç Dilim [L]",
-          "images": [],
+          "images": [
+            "imported/51249451-563f-4d15-99d2-b68ceb51a45f.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/51249451-563f-4d15-99d2-b68ceb51a45f/content"
           ],
@@ -7861,7 +8320,7 @@
               "name": "Fıstıklı Çikolatalı Havuç Dilim",
               "quantity": 8,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/51249451-563f-4d15-99d2-b68ceb51a45f.webp",
               "dimensions": {
                 "width": 55,
                 "height": 30,
@@ -7876,6 +8335,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 8
         },
         {
@@ -7883,7 +8343,10 @@
           "sku": "1010.10403",
           "sourceVariantId": "faf1774e-0ad9-45be-9616-e944c24cc1a5",
           "name": "Fıstıklı Çikolatalı Havuç Dilim [M]",
-          "images": [],
+          "images": [
+            "imported/51249451-563f-4d15-99d2-b68ceb51a45f.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/51249451-563f-4d15-99d2-b68ceb51a45f/content"
           ],
@@ -7923,7 +8386,7 @@
               "name": "Fıstıklı Çikolatalı Havuç Dilim",
               "quantity": 6,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/51249451-563f-4d15-99d2-b68ceb51a45f.webp",
               "dimensions": {
                 "width": 55,
                 "height": 30,
@@ -7938,6 +8401,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 6
         },
         {
@@ -7945,7 +8409,10 @@
           "sku": "1010.10404",
           "sourceVariantId": "5492fc4e-2bc0-4642-ae8e-52491483f2d8",
           "name": "Fıstıklı Çikolatalı Havuç Dilim [S]",
-          "images": [],
+          "images": [
+            "imported/51249451-563f-4d15-99d2-b68ceb51a45f.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/51249451-563f-4d15-99d2-b68ceb51a45f/content"
           ],
@@ -7985,7 +8452,7 @@
               "name": "Fıstıklı Çikolatalı Havuç Dilim",
               "quantity": 4,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/51249451-563f-4d15-99d2-b68ceb51a45f.webp",
               "dimensions": {
                 "width": 55,
                 "height": 30,
@@ -8000,6 +8467,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 4
         },
         {
@@ -8007,7 +8475,9 @@
           "sku": "1010.10406",
           "sourceVariantId": "746f6206-bdb8-41ab-bbbc-4ac0de75e9c3",
           "name": "Fıstıklı Çikolatalı Havuç Dilim 1 Dilim",
-          "images": [],
+          "images": [
+            "imported/bd8f7d0f-e126-487f-9475-760e12babcfe.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/bd8f7d0f-e126-487f-9475-760e12babcfe/content"
           ],
@@ -8041,7 +8511,7 @@
               "name": "Fıstıklı Çikolatalı Havuç Dilim",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/51249451-563f-4d15-99d2-b68ceb51a45f.webp",
               "dimensions": {
                 "width": 55,
                 "height": 30,
@@ -8070,7 +8540,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/c549f866-acda-43a1-8929-665081262c17.webp",
+        "imported/c2ddec22-527e-466c-acd7-cc180c86d381.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/c549f866-acda-43a1-8929-665081262c17/content",
         "https://1864usta.netlify.app/api/media/c2ddec22-527e-466c-acd7-cc180c86d381/content"
@@ -8101,7 +8574,10 @@
           "sku": "1010.10301",
           "sourceVariantId": "142bd8b3-27d2-426b-abdf-1c9ce9be0bed",
           "name": "Fıstıklı Çikolatalı Baklava [XL]",
-          "images": [],
+          "images": [
+            "imported/c549f866-acda-43a1-8929-665081262c17.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c549f866-acda-43a1-8929-665081262c17/content"
           ],
@@ -8141,7 +8617,7 @@
               "name": "Fıstıklı Çikolatalı Baklava",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c549f866-acda-43a1-8929-665081262c17.webp",
               "dimensions": {
                 "width": 40,
                 "height": 31,
@@ -8156,6 +8632,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -8163,7 +8640,10 @@
           "sku": "1010.10302",
           "sourceVariantId": "2108b950-744c-4263-9d1a-dae12e8d7933",
           "name": "Fıstıklı Çikolatalı Baklava [L]",
-          "images": [],
+          "images": [
+            "imported/c549f866-acda-43a1-8929-665081262c17.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c549f866-acda-43a1-8929-665081262c17/content"
           ],
@@ -8203,7 +8683,7 @@
               "name": "Fıstıklı Çikolatalı Baklava",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c549f866-acda-43a1-8929-665081262c17.webp",
               "dimensions": {
                 "width": 40,
                 "height": 31,
@@ -8218,6 +8698,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -8225,7 +8706,10 @@
           "sku": "1010.10303",
           "sourceVariantId": "1e579cc7-a774-43ff-aa49-1de2745e24ec",
           "name": "Fıstıklı Çikolatalı Baklava [S]",
-          "images": [],
+          "images": [
+            "imported/c549f866-acda-43a1-8929-665081262c17.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c549f866-acda-43a1-8929-665081262c17/content"
           ],
@@ -8265,7 +8749,7 @@
               "name": "Fıstıklı Çikolatalı Baklava",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c549f866-acda-43a1-8929-665081262c17.webp",
               "dimensions": {
                 "width": 40,
                 "height": 31,
@@ -8280,6 +8764,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -8287,7 +8772,10 @@
           "sku": "1010.10304",
           "sourceVariantId": "2fb169ed-4dff-4c9e-9f9c-d7f295203fd1",
           "name": "Fıstıklı Çikolatalı Baklava [M]",
-          "images": [],
+          "images": [
+            "imported/c549f866-acda-43a1-8929-665081262c17.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c549f866-acda-43a1-8929-665081262c17/content"
           ],
@@ -8327,7 +8815,7 @@
               "name": "Fıstıklı Çikolatalı Baklava",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c549f866-acda-43a1-8929-665081262c17.webp",
               "dimensions": {
                 "width": 40,
                 "height": 31,
@@ -8342,6 +8830,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -8349,7 +8838,9 @@
           "sku": "1010.10306",
           "sourceVariantId": "e5348e70-adb7-4cad-b90e-94e82ac11ab7",
           "name": "Fıstıklı Çikolatalı Baklava 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/c2ddec22-527e-466c-acd7-cc180c86d381.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c2ddec22-527e-466c-acd7-cc180c86d381/content"
           ],
@@ -8383,7 +8874,7 @@
               "name": "Fıstıklı Çikolatalı Baklava",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c549f866-acda-43a1-8929-665081262c17.webp",
               "dimensions": {
                 "width": 40,
                 "height": 31,
@@ -8412,7 +8903,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/c55217cb-0798-4a0a-8855-67a9c2f1d8d7.webp",
+        "imported/dd746039-8a6b-4a9d-84fd-5861379614e8.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/c55217cb-0798-4a0a-8855-67a9c2f1d8d7/content",
         "https://1864usta.netlify.app/api/media/dd746039-8a6b-4a9d-84fd-5861379614e8/content"
@@ -8443,7 +8937,10 @@
           "sku": "1010.10201",
           "sourceVariantId": "7c277da3-d929-4bfc-9405-7058d34509d3",
           "name": "Fıstıklı Cimcik Baklava  [XL]",
-          "images": [],
+          "images": [
+            "imported/c55217cb-0798-4a0a-8855-67a9c2f1d8d7.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c55217cb-0798-4a0a-8855-67a9c2f1d8d7/content"
           ],
@@ -8483,7 +8980,7 @@
               "name": "Fıstıklı Cimcik Baklava",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c55217cb-0798-4a0a-8855-67a9c2f1d8d7.webp",
               "dimensions": {
                 "width": 31,
                 "height": 36,
@@ -8498,6 +8995,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -8505,7 +9003,10 @@
           "sku": "1010.10202",
           "sourceVariantId": "e27b4262-038e-4e8c-b9d3-dee0733ecfb0",
           "name": "Fıstıklı Cimcik Baklava  [L]",
-          "images": [],
+          "images": [
+            "imported/c55217cb-0798-4a0a-8855-67a9c2f1d8d7.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c55217cb-0798-4a0a-8855-67a9c2f1d8d7/content"
           ],
@@ -8545,7 +9046,7 @@
               "name": "Fıstıklı Cimcik Baklava",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c55217cb-0798-4a0a-8855-67a9c2f1d8d7.webp",
               "dimensions": {
                 "width": 31,
                 "height": 36,
@@ -8560,6 +9061,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -8567,7 +9069,10 @@
           "sku": "1010.10203",
           "sourceVariantId": "70b5d851-5fe4-4fba-a902-78a818c3fd25",
           "name": "Fıstıklı Cimcik Baklava [M]",
-          "images": [],
+          "images": [
+            "imported/c55217cb-0798-4a0a-8855-67a9c2f1d8d7.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c55217cb-0798-4a0a-8855-67a9c2f1d8d7/content"
           ],
@@ -8607,7 +9112,7 @@
               "name": "Fıstıklı Cimcik Baklava",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c55217cb-0798-4a0a-8855-67a9c2f1d8d7.webp",
               "dimensions": {
                 "width": 31,
                 "height": 36,
@@ -8622,6 +9127,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -8629,7 +9135,10 @@
           "sku": "1010.10204",
           "sourceVariantId": "3ffecd76-8543-4833-8db2-8b72bf9c1824",
           "name": "Fıstıklı Cimcik Baklava [S]",
-          "images": [],
+          "images": [
+            "imported/c55217cb-0798-4a0a-8855-67a9c2f1d8d7.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c55217cb-0798-4a0a-8855-67a9c2f1d8d7/content"
           ],
@@ -8669,7 +9178,7 @@
               "name": "Fıstıklı Cimcik Baklava",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c55217cb-0798-4a0a-8855-67a9c2f1d8d7.webp",
               "dimensions": {
                 "width": 31,
                 "height": 36,
@@ -8684,6 +9193,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -8691,7 +9201,9 @@
           "sku": "1010.10206",
           "sourceVariantId": "8723fa3d-f273-4eeb-882a-889b65e61748",
           "name": "Fıstıklı Cimcik Baklava 4 Dilim",
-          "images": [],
+          "images": [
+            "imported/dd746039-8a6b-4a9d-84fd-5861379614e8.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/dd746039-8a6b-4a9d-84fd-5861379614e8/content"
           ],
@@ -8725,7 +9237,7 @@
               "name": "Fıstıklı Cimcik Baklava",
               "quantity": 4,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c55217cb-0798-4a0a-8855-67a9c2f1d8d7.webp",
               "dimensions": {
                 "width": 31,
                 "height": 36,
@@ -8754,7 +9266,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8.webp",
+        "imported/34845876-ea6f-4ffa-b526-6e40b6af1982.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8/content",
         "https://1864usta.netlify.app/api/media/34845876-ea6f-4ffa-b526-6e40b6af1982/content"
@@ -8785,7 +9300,10 @@
           "sku": "1010.10101",
           "sourceVariantId": "7fc143bf-a13b-4cee-acd5-aee00189de4e",
           "name": "Fıstıklı Baklava [XL]",
-          "images": [],
+          "images": [
+            "imported/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8/content"
           ],
@@ -8825,7 +9343,7 @@
               "name": "Fıstıklı Baklava",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8.webp",
               "dimensions": {
                 "width": 35,
                 "height": 46,
@@ -8840,6 +9358,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -8847,7 +9366,10 @@
           "sku": "1010.10102",
           "sourceVariantId": "8238f230-9c2b-4f24-b6ea-4c9fe999a153",
           "name": "Fıstıklı Baklava [L]",
-          "images": [],
+          "images": [
+            "imported/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8/content"
           ],
@@ -8887,7 +9409,7 @@
               "name": "Fıstıklı Baklava",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8.webp",
               "dimensions": {
                 "width": 35,
                 "height": 46,
@@ -8902,6 +9424,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -8909,7 +9432,10 @@
           "sku": "1010.10103",
           "sourceVariantId": "71a52f70-1d37-4c58-bced-643ce0c9c2ec",
           "name": "Fıstıklı Baklava [M]",
-          "images": [],
+          "images": [
+            "imported/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8/content"
           ],
@@ -8949,7 +9475,7 @@
               "name": "Fıstıklı Baklava",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8.webp",
               "dimensions": {
                 "width": 35,
                 "height": 46,
@@ -8964,6 +9490,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -8971,7 +9498,10 @@
           "sku": "1010.10104",
           "sourceVariantId": "664f9f9f-b8b8-4f79-9ff7-d59a0fa4ae83",
           "name": "Fıstıklı Baklava [S]",
-          "images": [],
+          "images": [
+            "imported/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8/content"
           ],
@@ -9011,7 +9541,7 @@
               "name": "Fıstıklı Baklava",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8.webp",
               "dimensions": {
                 "width": 35,
                 "height": 46,
@@ -9026,6 +9556,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -9033,7 +9564,9 @@
           "sku": "1010.10106",
           "sourceVariantId": "89488f56-5046-4e86-9d2d-c755c4af65c0",
           "name": "Fıstıklı Baklava 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/34845876-ea6f-4ffa-b526-6e40b6af1982.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/34845876-ea6f-4ffa-b526-6e40b6af1982/content"
           ],
@@ -9067,7 +9600,7 @@
               "name": "Fıstıklı Baklava",
               "quantity": 4,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/22a75e00-f43c-4bc6-a0c6-df5d0c2793a8.webp",
               "dimensions": {
                 "width": 35,
                 "height": 46,
@@ -9096,7 +9629,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
+        "imported/90e07aae-c185-4fe0-9737-ae6bbf10f648.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3/content",
         "https://1864usta.netlify.app/api/media/90e07aae-c185-4fe0-9737-ae6bbf10f648/content"
@@ -9127,7 +9663,10 @@
           "sku": "1010.11601",
           "sourceVariantId": "08c1e97b-f040-4693-92de-14454a7b487c",
           "name": "Fıstıklı Şöbiyet [XL]",
-          "images": [],
+          "images": [
+            "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3/content"
           ],
@@ -9167,7 +9706,7 @@
               "name": "Fıstıklı Şöbiyet",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
               "dimensions": {
                 "width": 55,
                 "height": 31,
@@ -9182,6 +9721,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -9189,7 +9729,10 @@
           "sku": "1010.11602",
           "sourceVariantId": "24af30ac-f60a-4553-a9dd-e1f85ad54aa1",
           "name": "Fıstıklı Şöbiyet [L]",
-          "images": [],
+          "images": [
+            "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3/content"
           ],
@@ -9229,7 +9772,7 @@
               "name": "Fıstıklı Şöbiyet",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
               "dimensions": {
                 "width": 55,
                 "height": 31,
@@ -9244,6 +9787,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -9251,7 +9795,10 @@
           "sku": "1010.11603",
           "sourceVariantId": "d02f98e6-19dc-444d-afeb-ac8572f92de6",
           "name": "Fıstıklı Şöbiyet [M]",
-          "images": [],
+          "images": [
+            "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3/content"
           ],
@@ -9291,7 +9838,7 @@
               "name": "Fıstıklı Şöbiyet",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
               "dimensions": {
                 "width": 55,
                 "height": 31,
@@ -9306,6 +9853,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -9313,7 +9861,10 @@
           "sku": "1010.11604",
           "sourceVariantId": "02a80d5a-2260-4629-918f-665f9254022f",
           "name": "Fıstıklı Şöbiyet [S]",
-          "images": [],
+          "images": [
+            "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3/content"
           ],
@@ -9353,7 +9904,7 @@
               "name": "Fıstıklı Şöbiyet",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
               "dimensions": {
                 "width": 55,
                 "height": 31,
@@ -9368,6 +9919,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -9375,7 +9927,9 @@
           "sku": "1010.11606",
           "sourceVariantId": "ed59f2a4-ff23-474d-a6aa-019e3f079bb8",
           "name": "Fıstıklı Şöbiyet 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/90e07aae-c185-4fe0-9737-ae6bbf10f648.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/90e07aae-c185-4fe0-9737-ae6bbf10f648/content"
           ],
@@ -9409,7 +9963,7 @@
               "name": "Fıstıklı Şöbiyet",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
               "dimensions": {
                 "width": 55,
                 "height": 31,
@@ -9431,7 +9985,11 @@
           "sku": "1010.11608",
           "sourceVariantId": "a5fd4761-de3f-49e0-a628-7dbe7cb6ba67",
           "name": "Serhat'ın Seçkisi",
-          "images": [],
+          "images": [
+            "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
+            "imported/74910703-4702-465c-8c4c-ed226c49889a.webp",
+            "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3/content",
             "https://1864usta.netlify.app/api/media/74910703-4702-465c-8c4c-ed226c49889a/content",
@@ -9467,7 +10025,7 @@
               "name": "Fıstıklı Şöbiyet",
               "quantity": 2,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3.webp",
               "dimensions": {
                 "width": 55,
                 "height": 31,
@@ -9486,7 +10044,7 @@
               "name": "Fıstıklı Sarı Burma",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/74910703-4702-465c-8c4c-ed226c49889a.webp",
               "dimensions": {
                 "width": 25,
                 "height": 30,
@@ -9505,7 +10063,7 @@
               "name": "Fıstıklı Padişah",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/faa91957-22ff-4684-b16c-635b89ff29f9.webp",
               "dimensions": {
                 "width": 45,
                 "height": 26,
@@ -9555,7 +10113,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/cevizli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
+        "imported/691d5721-395f-4a7a-8a9b-223ff15f6004.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/dfc9e801-375f-4786-945d-873fdfde928f/content",
         "https://1864usta.netlify.app/api/media/691d5721-395f-4a7a-8a9b-223ff15f6004/content"
@@ -9586,7 +10147,10 @@
           "sku": "1011.10901",
           "sourceVariantId": "35455062-3e8d-491c-8e79-e2a099a3550a",
           "name": "Cevizli Padişah [XL]",
-          "images": [],
+          "images": [
+            "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/dfc9e801-375f-4786-945d-873fdfde928f/content"
           ],
@@ -9626,7 +10190,7 @@
               "name": "Cevizli Padişah",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
               "dimensions": {
                 "width": 45,
                 "height": 30,
@@ -9641,6 +10205,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 36
         },
         {
@@ -9648,7 +10213,10 @@
           "sku": "1011.10902",
           "sourceVariantId": "41e2d3e3-22d7-4638-948d-9ab2199027c9",
           "name": "Cevizli Padişah [L]",
-          "images": [],
+          "images": [
+            "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/dfc9e801-375f-4786-945d-873fdfde928f/content"
           ],
@@ -9688,7 +10256,7 @@
               "name": "Cevizli Padişah",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
               "dimensions": {
                 "width": 45,
                 "height": 30,
@@ -9703,6 +10271,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -9710,7 +10279,10 @@
           "sku": "1011.10903",
           "sourceVariantId": "33239194-1e12-4017-8f74-3672f098e32a",
           "name": "Cevizli Padişah [M]",
-          "images": [],
+          "images": [
+            "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/dfc9e801-375f-4786-945d-873fdfde928f/content"
           ],
@@ -9750,7 +10322,7 @@
               "name": "Cevizli Padişah",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
               "dimensions": {
                 "width": 45,
                 "height": 30,
@@ -9765,6 +10337,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -9772,7 +10345,10 @@
           "sku": "1011.10904",
           "sourceVariantId": "6467b9e9-592d-47f2-90b7-72a035ead71c",
           "name": "Cevizli Padişah [S]",
-          "images": [],
+          "images": [
+            "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/dfc9e801-375f-4786-945d-873fdfde928f/content"
           ],
@@ -9812,7 +10388,7 @@
               "name": "Cevizli Padişah",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
               "dimensions": {
                 "width": 45,
                 "height": 30,
@@ -9827,6 +10403,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -9834,7 +10411,9 @@
           "sku": "1011.10906",
           "sourceVariantId": "a5561336-f4bb-4c41-897e-1676110d239d",
           "name": "Cevizli Padişah 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/691d5721-395f-4a7a-8a9b-223ff15f6004.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/691d5721-395f-4a7a-8a9b-223ff15f6004/content"
           ],
@@ -9868,7 +10447,7 @@
               "name": "Cevizli Padişah",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
               "dimensions": {
                 "width": 45,
                 "height": 30,
@@ -9890,7 +10469,9 @@
           "sku": "1011.10908",
           "sourceVariantId": "cf1367e3-3b6a-4c7b-bd9e-fdae22c52b7f",
           "name": "Divan Tabağı",
-          "images": [],
+          "images": [
+            "imported/907f7f5f-70d3-40a3-b7de-675c4a188f35.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/907f7f5f-70d3-40a3-b7de-675c4a188f35/content"
           ],
@@ -9924,7 +10505,7 @@
               "name": "Cevizli Padişah",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
               "dimensions": {
                 "width": 45,
                 "height": 30,
@@ -9943,7 +10524,7 @@
               "name": "Cevizli Kelebek",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
               "dimensions": {
                 "width": 31,
                 "height": 28,
@@ -9962,7 +10543,7 @@
               "name": "Cevizli Kare Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
               "dimensions": {
                 "width": 45,
                 "height": 49,
@@ -9981,7 +10562,7 @@
               "name": "Cevizli Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe.webp",
               "dimensions": {
                 "width": 30,
                 "height": 36,
@@ -10003,7 +10584,9 @@
           "sku": "1011.10909",
           "sourceVariantId": "6fe50a13-8030-417e-89d4-0e59d2c854b3",
           "name": "Sadrazam Tabağı",
-          "images": [],
+          "images": [
+            "imported/4db3922c-c453-47f0-90ea-1d83af4483c2.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/4db3922c-c453-47f0-90ea-1d83af4483c2/content"
           ],
@@ -10037,7 +10620,7 @@
               "name": "Cevizli Padişah",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/dfc9e801-375f-4786-945d-873fdfde928f.webp",
               "dimensions": {
                 "width": 45,
                 "height": 30,
@@ -10056,7 +10639,7 @@
               "name": "Cevizli Çikolatalı Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/62aded8b-490d-409c-afa1-c7f5b0d70016.webp",
               "dimensions": {
                 "width": 46,
                 "height": 48,
@@ -10075,7 +10658,7 @@
               "name": "Cevizli Dürüm",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/3ba1d674-6923-4738-8173-eac384057fd5.webp",
               "dimensions": {
                 "width": 25,
                 "height": 23,
@@ -10094,7 +10677,7 @@
               "name": "Cevizli Kare Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/34ab7fa9-a870-4ed2-a043-6a8b6834dc64.webp",
               "dimensions": {
                 "width": 45,
                 "height": 49,
@@ -10113,7 +10696,7 @@
               "name": "Cevizli Kelebek",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/0d951f7f-0eaf-4c3d-a90b-843adc67a824.webp",
               "dimensions": {
                 "width": 31,
                 "height": 28,
@@ -10132,7 +10715,7 @@
               "name": "Cevizli Baklava",
               "quantity": 1,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/c5d7384c-0e3f-4cbc-8a05-e2db635f0dbe.webp",
               "dimensions": {
                 "width": 30,
                 "height": 36,
@@ -10161,7 +10744,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/cc4ef9a2-7293-4494-8d56-44076a6b5551.webp",
+        "imported/daf26cad-5dd3-4bdd-b552-bf353ff2b743.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/cc4ef9a2-7293-4494-8d56-44076a6b5551/content",
         "https://1864usta.netlify.app/api/media/daf26cad-5dd3-4bdd-b552-bf353ff2b743/content"
@@ -10192,7 +10778,10 @@
           "sku": "1010.11301",
           "sourceVariantId": "436c8a05-1011-4e51-91b7-68ca3c57ff09",
           "name": "Fıstıklı Prenses [XL]",
-          "images": [],
+          "images": [
+            "imported/cc4ef9a2-7293-4494-8d56-44076a6b5551.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/cc4ef9a2-7293-4494-8d56-44076a6b5551/content"
           ],
@@ -10232,7 +10821,7 @@
               "name": "Fıstıklı Prenses",
               "quantity": 42,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/cc4ef9a2-7293-4494-8d56-44076a6b5551.webp",
               "dimensions": {
                 "width": 40,
                 "height": 20,
@@ -10247,6 +10836,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 42
         },
         {
@@ -10254,7 +10844,10 @@
           "sku": "1010.11302",
           "sourceVariantId": "984b9740-5dbb-48e4-b9db-6b88a5760697",
           "name": "Fıstıklı Prenses [L]",
-          "images": [],
+          "images": [
+            "imported/cc4ef9a2-7293-4494-8d56-44076a6b5551.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/cc4ef9a2-7293-4494-8d56-44076a6b5551/content"
           ],
@@ -10294,7 +10887,7 @@
               "name": "Fıstıklı Prenses",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/cc4ef9a2-7293-4494-8d56-44076a6b5551.webp",
               "dimensions": {
                 "width": 40,
                 "height": 20,
@@ -10309,6 +10902,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -10316,7 +10910,10 @@
           "sku": "1010.11303",
           "sourceVariantId": "1a27648d-4e92-4607-a7c6-6919e4fe4728",
           "name": "Fıstıklı Prenses [M]",
-          "images": [],
+          "images": [
+            "imported/cc4ef9a2-7293-4494-8d56-44076a6b5551.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/cc4ef9a2-7293-4494-8d56-44076a6b5551/content"
           ],
@@ -10356,7 +10953,7 @@
               "name": "Fıstıklı Prenses",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/cc4ef9a2-7293-4494-8d56-44076a6b5551.webp",
               "dimensions": {
                 "width": 40,
                 "height": 20,
@@ -10371,6 +10968,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -10378,7 +10976,10 @@
           "sku": "1010.11304",
           "sourceVariantId": "d1ecf326-862b-4a9a-b629-2b891663b26f",
           "name": "Fıstıklı Prenses [S]",
-          "images": [],
+          "images": [
+            "imported/cc4ef9a2-7293-4494-8d56-44076a6b5551.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/cc4ef9a2-7293-4494-8d56-44076a6b5551/content"
           ],
@@ -10418,7 +11019,7 @@
               "name": "Fıstıklı Prenses",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/cc4ef9a2-7293-4494-8d56-44076a6b5551.webp",
               "dimensions": {
                 "width": 40,
                 "height": 20,
@@ -10433,6 +11034,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -10440,7 +11042,9 @@
           "sku": "1010.11306",
           "sourceVariantId": "53bf0530-48b5-4da9-b268-dd3165a3c081",
           "name": "Fıstıklı Prenses 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/daf26cad-5dd3-4bdd-b552-bf353ff2b743.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/daf26cad-5dd3-4bdd-b552-bf353ff2b743/content"
           ],
@@ -10474,7 +11078,7 @@
               "name": "Fıstıklı Prenses",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/cc4ef9a2-7293-4494-8d56-44076a6b5551.webp",
               "dimensions": {
                 "width": 40,
                 "height": 20,
@@ -10503,7 +11107,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4.webp",
+        "imported/67e90f73-67e6-452b-80db-e82dabc336ec.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4/content",
         "https://1864usta.netlify.app/api/media/67e90f73-67e6-452b-80db-e82dabc336ec/content"
@@ -10534,7 +11141,10 @@
           "sku": "1010.10801",
           "sourceVariantId": "5b4051fc-bbe5-43b2-8bf1-7831762d1fd8",
           "name": "Fıstıklı Kare Baklava [XL]",
-          "images": [],
+          "images": [
+            "imported/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4/content"
           ],
@@ -10574,7 +11184,7 @@
               "name": "Fıstıklı Kare Baklava",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4.webp",
               "dimensions": {
                 "width": 44,
                 "height": 36,
@@ -10589,6 +11199,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 36
         },
         {
@@ -10596,7 +11207,10 @@
           "sku": "1010.10802",
           "sourceVariantId": "6e4274dc-e88c-4c8c-a502-7a128f53164b",
           "name": "Fıstıklı Kare Baklava [L]",
-          "images": [],
+          "images": [
+            "imported/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4/content"
           ],
@@ -10636,7 +11250,7 @@
               "name": "Fıstıklı Kare Baklava",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4.webp",
               "dimensions": {
                 "width": 44,
                 "height": 36,
@@ -10651,6 +11265,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -10658,7 +11273,10 @@
           "sku": "1010.10803",
           "sourceVariantId": "bdaff531-180e-423d-bc0a-d42942f699ed",
           "name": "Fıstıklı Kare Baklava [M]",
-          "images": [],
+          "images": [
+            "imported/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4/content"
           ],
@@ -10698,7 +11316,7 @@
               "name": "Fıstıklı Kare Baklava",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4.webp",
               "dimensions": {
                 "width": 44,
                 "height": 36,
@@ -10713,6 +11331,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -10720,7 +11339,10 @@
           "sku": "1010.10804",
           "sourceVariantId": "7625614f-7f8a-4400-93e1-2d1dbeb7be6c",
           "name": "Fıstıklı Kare Baklava [S]",
-          "images": [],
+          "images": [
+            "imported/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4/content"
           ],
@@ -10760,7 +11382,7 @@
               "name": "Fıstıklı Kare Baklava",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4.webp",
               "dimensions": {
                 "width": 44,
                 "height": 36,
@@ -10775,6 +11397,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -10782,7 +11405,9 @@
           "sku": "1010.10806",
           "sourceVariantId": "2a904ad4-a874-4427-9c88-f9ab821cea14",
           "name": "Fıstıklı Kare Baklava 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/67e90f73-67e6-452b-80db-e82dabc336ec.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/67e90f73-67e6-452b-80db-e82dabc336ec/content"
           ],
@@ -10816,7 +11441,7 @@
               "name": "Fıstıklı Kare Baklava",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/af7fce2a-44de-4a96-884e-bd1eaf8aa0f4.webp",
               "dimensions": {
                 "width": 44,
                 "height": 36,
@@ -10845,7 +11470,10 @@
       "currency": "TRY",
       "categoryId": "baklavalar",
       "subcategoryId": "baklavalar/fistikli-baklavalar",
-      "images": [],
+      "images": [
+        "imported/84050be5-e24a-4f84-803b-7088fe79a2a1.webp",
+        "imported/082b5da1-3762-43f4-8744-47cbeca7a47e.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/84050be5-e24a-4f84-803b-7088fe79a2a1/content",
         "https://1864usta.netlify.app/api/media/082b5da1-3762-43f4-8744-47cbeca7a47e/content"
@@ -10876,7 +11504,12 @@
           "sku": "1010.10001",
           "sourceVariantId": "2055f151-33df-40d1-8092-0ff22c684072",
           "name": "Fıstıklı Ankara Baklavası [XL]",
-          "images": [],
+          "images": [
+            "imported/84050be5-e24a-4f84-803b-7088fe79a2a1.webp",
+            "imported/3ddaa81c-b890-42a4-947c-2fe2c8b7cae2.webp",
+            "imported/082b5da1-3762-43f4-8744-47cbeca7a47e.webp",
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/84050be5-e24a-4f84-803b-7088fe79a2a1/content",
             "https://1864usta.netlify.app/api/media/3ddaa81c-b890-42a4-947c-2fe2c8b7cae2/content",
@@ -10918,7 +11551,7 @@
               "name": "Fıstıklı Ankara Baklavası",
               "quantity": 48,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/84050be5-e24a-4f84-803b-7088fe79a2a1.webp",
               "dimensions": {
                 "width": 30,
                 "height": 29,
@@ -10933,6 +11566,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
           "sliceCount": 48
         },
         {
@@ -10940,7 +11574,12 @@
           "sku": "1010.10002",
           "sourceVariantId": "65944903-b392-40a4-ad88-579ad813cfb9",
           "name": "Fıstıklı Ankara Baklavası [S]",
-          "images": [],
+          "images": [
+            "imported/84050be5-e24a-4f84-803b-7088fe79a2a1.webp",
+            "imported/3ddaa81c-b890-42a4-947c-2fe2c8b7cae2.webp",
+            "imported/082b5da1-3762-43f4-8744-47cbeca7a47e.webp",
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/84050be5-e24a-4f84-803b-7088fe79a2a1/content",
             "https://1864usta.netlify.app/api/media/3ddaa81c-b890-42a4-947c-2fe2c8b7cae2/content",
@@ -10982,7 +11621,7 @@
               "name": "Fıstıklı Ankara Baklavası",
               "quantity": 24,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/84050be5-e24a-4f84-803b-7088fe79a2a1.webp",
               "dimensions": {
                 "width": 30,
                 "height": 29,
@@ -10997,6 +11636,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
           "sliceCount": 24
         },
         {
@@ -11004,7 +11644,12 @@
           "sku": "1010.10003",
           "sourceVariantId": "38e156ba-8697-4cb9-88b2-0791f1fe9394",
           "name": "Fıstıklı Ankara Baklava [L]",
-          "images": [],
+          "images": [
+            "imported/84050be5-e24a-4f84-803b-7088fe79a2a1.webp",
+            "imported/3ddaa81c-b890-42a4-947c-2fe2c8b7cae2.webp",
+            "imported/082b5da1-3762-43f4-8744-47cbeca7a47e.webp",
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/84050be5-e24a-4f84-803b-7088fe79a2a1/content",
             "https://1864usta.netlify.app/api/media/3ddaa81c-b890-42a4-947c-2fe2c8b7cae2/content",
@@ -11046,7 +11691,7 @@
               "name": "Fıstıklı Ankara Baklavası",
               "quantity": 36,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/84050be5-e24a-4f84-803b-7088fe79a2a1.webp",
               "dimensions": {
                 "width": 30,
                 "height": 29,
@@ -11061,6 +11706,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
           "sliceCount": 36
         },
         {
@@ -11068,7 +11714,12 @@
           "sku": "1010.10004",
           "sourceVariantId": "1d933c11-bcba-4d0c-8003-4c077b819e47",
           "name": "Fıstıklı Ankara Baklava [M]",
-          "images": [],
+          "images": [
+            "imported/84050be5-e24a-4f84-803b-7088fe79a2a1.webp",
+            "imported/3ddaa81c-b890-42a4-947c-2fe2c8b7cae2.webp",
+            "imported/082b5da1-3762-43f4-8744-47cbeca7a47e.webp",
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/84050be5-e24a-4f84-803b-7088fe79a2a1/content",
             "https://1864usta.netlify.app/api/media/3ddaa81c-b890-42a4-947c-2fe2c8b7cae2/content",
@@ -11110,7 +11761,7 @@
               "name": "Fıstıklı Ankara Baklavası",
               "quantity": 30,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/84050be5-e24a-4f84-803b-7088fe79a2a1.webp",
               "dimensions": {
                 "width": 30,
                 "height": 29,
@@ -11125,6 +11776,7 @@
             }
           ],
           "packageContents": [],
+          "boxImage": "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
           "sliceCount": 30
         },
         {
@@ -11132,7 +11784,9 @@
           "sku": "1010.10005",
           "sourceVariantId": "cea25e82-cead-4bef-9e9b-8e5925a8e9f3",
           "name": "Fıstıklı Ankara Baklava 3 Dilim",
-          "images": [],
+          "images": [
+            "imported/082b5da1-3762-43f4-8744-47cbeca7a47e.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/082b5da1-3762-43f4-8744-47cbeca7a47e/content"
           ],
@@ -11166,7 +11820,7 @@
               "name": "Fıstıklı Ankara Baklavası",
               "quantity": 3,
               "unit": "Dilim",
-              "image": "",
+              "image": "imported/84050be5-e24a-4f84-803b-7088fe79a2a1.webp",
               "dimensions": {
                 "width": 30,
                 "height": 29,

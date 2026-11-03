@@ -40,7 +40,25 @@ test('old product routes and removed product groups are absent from production r
  assert.equal(manifest.categories.length,6);assert.ok(!manifest.categories.some(c=>c.id==='kahveler'));
  for(const p of data.products)await fs.access('dist/'+p.url);
  assert.ok(!data.menus.header.primary.some(c=>c.categoryId==='kahveler'));
- assert.ok(data.products.every(p=>p.images.length===0),'unauthorized media must not silently reuse legacy photographs');
+});
+test('all 176 source photos resolve to the matching product, variant and box media in the build',async()=>{
+ assert.equal(report.downloadedMedia,176);assert.equal(report.pendingMedia,0);assert.deepEqual(report.mediaErrors,[]);
+ const mediaId=url=>url.split('/').at(-2);
+ const assertSources=(paths,sources)=>assert.deepEqual(paths.map(p=>p.split('/').at(-1).replace(/\.[^.]+$/,'')),[...new Set(sources.map(mediaId))]);
+ for (const product of data.products) {
+   assert.ok(product.images.length>0&&product.images.every(path=>path.startsWith('imported/')));
+   assertSources(product.images,product.sourceImageUrls);
+   for (const file of product.images) { await fs.access('public/assets/images/urunler/'+file); await fs.access('dist/assets/images/urunler/'+file); }
+ }
+ for (const {variant} of allVariants) {
+   assert.ok(variant.images.length>0);
+   assertSources(variant.images,[...variant.sourceImageUrls,...variant.sourceBoxImageUrls]);
+   for (const file of variant.images) { await fs.access('public/assets/images/urunler/'+file); await fs.access('dist/assets/images/urunler/'+file); }
+   if (variant.sourceBoxImageUrls.length) {
+     assert.ok(variant.boxImage?.startsWith('imported/'));
+     assertSources([variant.boxImage],[variant.sourceBoxImageUrls[0]]);
+   }
+ }
 });
 const script=await fs.readFile('dist/assets/'+(await fs.readdir('dist/assets')).find(x=>x.endsWith('.js')),'utf8');
 const pause=()=>new Promise(r=>setTimeout(r,35));

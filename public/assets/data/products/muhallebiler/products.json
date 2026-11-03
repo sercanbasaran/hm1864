@@ -10,7 +10,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/kazandibiler",
-      "images": [],
+      "images": [
+        "imported/9aaea56c-c20e-43e8-9874-2427e0a0700a.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/9aaea56c-c20e-43e8-9874-2427e0a0700a/content"
       ],
@@ -31,7 +33,9 @@
           "sku": "1811.10001",
           "sourceVariantId": "7cb46e18-fb0d-4576-ba31-b71ed9e49e41",
           "name": "Fıstıklı Kazandibi [Tabakta Servis]",
-          "images": [],
+          "images": [
+            "imported/9aaea56c-c20e-43e8-9874-2427e0a0700a.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/9aaea56c-c20e-43e8-9874-2427e0a0700a/content"
           ],
@@ -60,7 +64,7 @@
               "name": "Fıstıklı Kazandibi",
               "quantity": 270,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/9aaea56c-c20e-43e8-9874-2427e0a0700a.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.66,
@@ -83,7 +87,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/kazandibiler",
-      "images": [],
+      "images": [
+        "imported/cb5c4c71-68f6-448b-b0ec-0336cf950f6d.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/cb5c4c71-68f6-448b-b0ec-0336cf950f6d/content"
       ],
@@ -104,7 +110,9 @@
           "sku": "1811.10101",
           "sourceVariantId": "4090944f-af72-4294-978f-a3dbddae7720",
           "name": "Safranlı Kazandibi [Tabakta Servis]",
-          "images": [],
+          "images": [
+            "imported/cb5c4c71-68f6-448b-b0ec-0336cf950f6d.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/cb5c4c71-68f6-448b-b0ec-0336cf950f6d/content"
           ],
@@ -133,7 +141,7 @@
               "name": "Safranlı Kazandibi",
               "quantity": 275,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/cb5c4c71-68f6-448b-b0ec-0336cf950f6d.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.63,
@@ -156,7 +164,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/kazandibiler",
-      "images": [],
+      "images": [
+        "imported/583d1cf9-8d1a-42ba-9689-29720b66108f.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/583d1cf9-8d1a-42ba-9689-29720b66108f/content"
       ],
@@ -177,7 +187,9 @@
           "sku": "1811.10201",
           "sourceVariantId": "3d6e2f20-66c2-4575-a751-f2994c8948af",
           "name": "Damla Sakızlı Kazandibi [Tabakta Servis]",
-          "images": [],
+          "images": [
+            "imported/583d1cf9-8d1a-42ba-9689-29720b66108f.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/583d1cf9-8d1a-42ba-9689-29720b66108f/content"
           ],
@@ -206,7 +218,7 @@
               "name": "Damla Sakızlı Kazandibi",
               "quantity": 270,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/583d1cf9-8d1a-42ba-9689-29720b66108f.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.66,
@@ -229,7 +241,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/kazandibiler",
-      "images": [],
+      "images": [
+        "imported/4a32f4ff-4ed2-4bdf-a788-758deb585cca.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/4a32f4ff-4ed2-4bdf-a788-758deb585cca/content"
       ],
@@ -250,7 +264,9 @@
           "sku": "1811.10301",
           "sourceVariantId": "2d6da54d-6ded-4e81-a92c-4a1fb91b8560",
           "name": "Tavukgöğsü Kazandibi [Tabakta Servis]",
-          "images": [],
+          "images": [
+            "imported/4a32f4ff-4ed2-4bdf-a788-758deb585cca.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/4a32f4ff-4ed2-4bdf-a788-758deb585cca/content"
           ],
@@ -279,7 +295,7 @@
               "name": "Tavukgöğsü Kazandibi",
               "quantity": 260,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/4a32f4ff-4ed2-4bdf-a788-758deb585cca.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.73,
@@ -302,7 +318,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
-      "images": [],
+      "images": [
+        "imported/32427dca-16aa-470c-b304-d3f5464fdc0b.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/32427dca-16aa-470c-b304-d3f5464fdc0b/content"
       ],
@@ -323,7 +341,9 @@
           "sku": "1810.10201",
           "sourceVariantId": "5fd372c8-0302-4fcd-8268-236ad891af01",
           "name": "Tavukgöğsü [Tabakta Servis]",
-          "images": [],
+          "images": [
+            "imported/32427dca-16aa-470c-b304-d3f5464fdc0b.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/32427dca-16aa-470c-b304-d3f5464fdc0b/content"
           ],
@@ -352,7 +372,7 @@
               "name": "Tavukgöğsü",
               "quantity": 260,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/32427dca-16aa-470c-b304-d3f5464fdc0b.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.73,
@@ -375,7 +395,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
-      "images": [],
+      "images": [
+        "imported/8628bccd-0c80-450d-9857-c7d895e0c26d.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/8628bccd-0c80-450d-9857-c7d895e0c26d/content"
       ],
@@ -396,7 +418,9 @@
           "sku": "1813.10201",
           "sourceVariantId": "96bb6be1-0d97-4fa7-9623-4c396eec6181",
           "name": "Supangle [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/8628bccd-0c80-450d-9857-c7d895e0c26d.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/8628bccd-0c80-450d-9857-c7d895e0c26d/content"
           ],
@@ -425,7 +449,7 @@
               "name": "Supangle",
               "quantity": 400,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/8628bccd-0c80-450d-9857-c7d895e0c26d.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.12,
@@ -448,7 +472,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
-      "images": [],
+      "images": [
+        "imported/e13311ca-79ce-44f1-a5c8-9ad1cfe6a446.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/e13311ca-79ce-44f1-a5c8-9ad1cfe6a446/content"
       ],
@@ -469,7 +495,9 @@
           "sku": "1813.10301",
           "sourceVariantId": "d11f6fa0-317f-459d-a1a9-5998e1ab1db9",
           "name": "Şah Mat [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/e13311ca-79ce-44f1-a5c8-9ad1cfe6a446.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/e13311ca-79ce-44f1-a5c8-9ad1cfe6a446/content"
           ],
@@ -498,7 +526,7 @@
               "name": "Şah Mat",
               "quantity": 400,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/e13311ca-79ce-44f1-a5c8-9ad1cfe6a446.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.12,
@@ -521,7 +549,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
-      "images": [],
+      "images": [
+        "imported/1d5d7e05-4af6-44b5-9697-f11e88033432.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/1d5d7e05-4af6-44b5-9697-f11e88033432/content"
       ],
@@ -542,7 +572,9 @@
           "sku": "1813.10101",
           "sourceVariantId": "466318d1-472b-4937-8e8f-6367e7d4e044",
           "name": "Profiterol [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/1d5d7e05-4af6-44b5-9697-f11e88033432.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/1d5d7e05-4af6-44b5-9697-f11e88033432/content"
           ],
@@ -571,7 +603,7 @@
               "name": "Profiterol",
               "quantity": 380,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/1d5d7e05-4af6-44b5-9697-f11e88033432.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.18,
@@ -594,7 +626,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/ozel-kup-cikolatali-tatlilar",
-      "images": [],
+      "images": [
+        "imported/6a49baf2-0f08-4b7d-8f9b-f5181de6ce37.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/6a49baf2-0f08-4b7d-8f9b-f5181de6ce37/content"
       ],
@@ -615,7 +649,9 @@
           "sku": "1813.10001",
           "sourceVariantId": "3e21e381-db35-41ff-ab59-e9e8481e5ef1",
           "name": "Lotuslu Kaşık Pasta [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/6a49baf2-0f08-4b7d-8f9b-f5181de6ce37.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/6a49baf2-0f08-4b7d-8f9b-f5181de6ce37/content"
           ],
@@ -644,7 +680,7 @@
               "name": "Lotuslu Kaşık Pasta",
               "quantity": 390,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/6a49baf2-0f08-4b7d-8f9b-f5181de6ce37.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.15,
@@ -667,7 +703,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "images": [],
+      "images": [
+        "imported/3b0318fa-02f0-419a-a4d3-9e9daf8d608d.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/3b0318fa-02f0-419a-a4d3-9e9daf8d608d/content"
       ],
@@ -688,7 +726,9 @@
           "sku": "1812.10501",
           "sourceVariantId": "74e7d968-57b7-4025-b49d-215cee15a747",
           "name": "İncirli Süt Muhallebisi [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/3b0318fa-02f0-419a-a4d3-9e9daf8d608d.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/3b0318fa-02f0-419a-a4d3-9e9daf8d608d/content"
           ],
@@ -717,7 +757,7 @@
               "name": "İncirli Süt Muhallebisi",
               "quantity": 400,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/3b0318fa-02f0-419a-a4d3-9e9daf8d608d.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.12,
@@ -740,7 +780,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "images": [],
+      "images": [
+        "imported/3cf303d1-4eac-4431-935c-48647a915c07.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/3cf303d1-4eac-4431-935c-48647a915c07/content"
       ],
@@ -761,7 +803,9 @@
           "sku": "1812.10401",
           "sourceVariantId": "4903518a-1ff8-41a2-b455-32b22612691c",
           "name": "Fıstıklı Süt Muhallebisi [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/3cf303d1-4eac-4431-935c-48647a915c07.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/3cf303d1-4eac-4431-935c-48647a915c07/content"
           ],
@@ -790,7 +834,7 @@
               "name": "Fıstıklı Süt Muhallebisi",
               "quantity": 400,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/3cf303d1-4eac-4431-935c-48647a915c07.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.12,
@@ -813,7 +857,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
-      "images": [],
+      "images": [
+        "imported/aa42b555-ae41-4fc2-a4a7-a9041b080cd4.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/aa42b555-ae41-4fc2-a4a7-a9041b080cd4/content"
       ],
@@ -834,7 +880,9 @@
           "sku": "1810.10101",
           "sourceVariantId": "6f13b0b7-bd10-4cc2-94e1-d8b0025a54b5",
           "name": "Fırın Sütlaç [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/aa42b555-ae41-4fc2-a4a7-a9041b080cd4.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/aa42b555-ae41-4fc2-a4a7-a9041b080cd4/content"
           ],
@@ -863,7 +911,7 @@
               "name": "Fırın Sütlaç",
               "quantity": 400,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/aa42b555-ae41-4fc2-a4a7-a9041b080cd4.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.12,
@@ -886,7 +934,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "images": [],
+      "images": [
+        "imported/64a0199b-ba6f-4db9-8d30-17ce8493a0f1.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/64a0199b-ba6f-4db9-8d30-17ce8493a0f1/content"
       ],
@@ -907,7 +957,9 @@
           "sku": "1812.10301",
           "sourceVariantId": "25ea00c4-bc65-4520-9ba1-7ebf59fefb28",
           "name": "Damla Sakızlı Süt Muhallebisi [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/64a0199b-ba6f-4db9-8d30-17ce8493a0f1.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/64a0199b-ba6f-4db9-8d30-17ce8493a0f1/content"
           ],
@@ -936,7 +988,7 @@
               "name": "Damla Sakızlı Süt Muhallebisi",
               "quantity": 270,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/64a0199b-ba6f-4db9-8d30-17ce8493a0f1.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.66,
@@ -959,7 +1011,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "images": [],
+      "images": [
+        "imported/aad624c6-5fd7-4557-beed-ae75eaea3670.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/aad624c6-5fd7-4557-beed-ae75eaea3670/content"
       ],
@@ -980,7 +1034,9 @@
           "sku": "1812.10101",
           "sourceVariantId": "9a90b8ad-98b3-4f3f-81b2-e32663a0a479",
           "name": "Çilekli Çikolatalı Muhallebi [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/aad624c6-5fd7-4557-beed-ae75eaea3670.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/aad624c6-5fd7-4557-beed-ae75eaea3670/content"
           ],
@@ -1009,7 +1065,7 @@
               "name": "Çilekli Çikolatalı Muhallebi",
               "quantity": 390,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/aad624c6-5fd7-4557-beed-ae75eaea3670.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.15,
@@ -1032,7 +1088,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "images": [],
+      "images": [
+        "imported/dc934e8d-c45a-427c-ae90-7075877bfe48.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/dc934e8d-c45a-427c-ae90-7075877bfe48/content"
       ],
@@ -1053,7 +1111,9 @@
           "sku": "1812.10201",
           "sourceVariantId": "3a80028e-f108-42c3-b4b5-47b8f1911bd7",
           "name": "Çilekli Süt Muhallebisi [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/dc934e8d-c45a-427c-ae90-7075877bfe48.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/dc934e8d-c45a-427c-ae90-7075877bfe48/content"
           ],
@@ -1082,7 +1142,7 @@
               "name": "Çilekli Süt Muhallebisi",
               "quantity": 395,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/dc934e8d-c45a-427c-ae90-7075877bfe48.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.13,
@@ -1105,7 +1165,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
-      "images": [],
+      "images": [
+        "imported/bb44f848-aabf-4b76-abdb-2376f4a435c3.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/bb44f848-aabf-4b76-abdb-2376f4a435c3/content"
       ],
@@ -1126,7 +1188,9 @@
           "sku": "1810.10301",
           "sourceVariantId": "519c038b-3000-41cc-aa9b-9709b6ff377a",
           "name": "Zerde [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/bb44f848-aabf-4b76-abdb-2376f4a435c3.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/bb44f848-aabf-4b76-abdb-2376f4a435c3/content"
           ],
@@ -1155,7 +1219,7 @@
               "name": "Zerde",
               "quantity": 395,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/bb44f848-aabf-4b76-abdb-2376f4a435c3.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.13,
@@ -1178,7 +1242,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "images": [],
+      "images": [
+        "imported/a3b316ca-7f83-4535-8550-8281256f95af.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/a3b316ca-7f83-4535-8550-8281256f95af/content"
       ],
@@ -1199,7 +1265,9 @@
           "sku": "1812.10801",
           "sourceVariantId": "0d962be8-e2e9-48ee-a415-2764afef1a1c",
           "name": "Orman Meyveli Süt Muhallebisi [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/a3b316ca-7f83-4535-8550-8281256f95af.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/a3b316ca-7f83-4535-8550-8281256f95af/content"
           ],
@@ -1228,7 +1296,7 @@
               "name": "Orman Meyveli Süt Muhallebisi",
               "quantity": 395,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/a3b316ca-7f83-4535-8550-8281256f95af.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.13,
@@ -1251,7 +1319,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "images": [],
+      "images": [
+        "imported/10147ad8-9062-4aff-b4ed-1550a2e61ce9.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/10147ad8-9062-4aff-b4ed-1550a2e61ce9/content"
       ],
@@ -1272,7 +1342,9 @@
           "sku": "1812.10701",
           "sourceVariantId": "60e46787-0352-4ca4-9790-410d3a62d93b",
           "name": "Keşkül-ü Fukara [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/10147ad8-9062-4aff-b4ed-1550a2e61ce9.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/10147ad8-9062-4aff-b4ed-1550a2e61ce9/content"
           ],
@@ -1301,7 +1373,7 @@
               "name": "Keşkül-ü Fukara",
               "quantity": 400,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/10147ad8-9062-4aff-b4ed-1550a2e61ce9.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.12,
@@ -1324,7 +1396,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "images": [],
+      "images": [
+        "imported/34154f60-7042-4139-8673-1e0be264fff7.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/34154f60-7042-4139-8673-1e0be264fff7/content"
       ],
@@ -1345,7 +1419,9 @@
           "sku": "1812.10601",
           "sourceVariantId": "122a22d8-6572-4b76-b244-4b00e59682fc",
           "name": "Karamelli Fındıklı Süt Muhallebisi [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/34154f60-7042-4139-8673-1e0be264fff7.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/34154f60-7042-4139-8673-1e0be264fff7/content"
           ],
@@ -1374,7 +1450,7 @@
               "name": "Karamelli Fındıklı Süt Muhallebisi",
               "quantity": 360,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/34154f60-7042-4139-8673-1e0be264fff7.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.25,
@@ -1397,7 +1473,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/geleneksel-sutlu-tatlilar",
-      "images": [],
+      "images": [
+        "imported/a9135bed-434a-4710-8aa1-4747b696bb91.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/a9135bed-434a-4710-8aa1-4747b696bb91/content"
       ],
@@ -1418,7 +1496,9 @@
           "sku": "1810.10001",
           "sourceVariantId": "82e07556-6d61-4d2b-a12a-6a64e57e40af",
           "name": "Aşure [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/a9135bed-434a-4710-8aa1-4747b696bb91.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/a9135bed-434a-4710-8aa1-4747b696bb91/content"
           ],
@@ -1447,7 +1527,7 @@
               "name": "Aşure",
               "quantity": 410,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/a9135bed-434a-4710-8aa1-4747b696bb91.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.1,
@@ -1470,7 +1550,9 @@
       "currency": "TRY",
       "categoryId": "muhallebiler",
       "subcategoryId": "muhallebiler/meyveli-aromali-muhallebiler",
-      "images": [],
+      "images": [
+        "imported/c0f6b19a-fe52-4ffd-8d9a-a4d6eb4f183f.webp"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/c0f6b19a-fe52-4ffd-8d9a-a4d6eb4f183f/content"
       ],
@@ -1491,7 +1573,9 @@
           "sku": "1812.10001",
           "sourceVariantId": "ba462764-d234-4d1b-a6b9-755a58202035",
           "name": "Ahududulu Süt Muhallebisi [Cam Kase]",
-          "images": [],
+          "images": [
+            "imported/c0f6b19a-fe52-4ffd-8d9a-a4d6eb4f183f.webp"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/c0f6b19a-fe52-4ffd-8d9a-a4d6eb4f183f/content"
           ],
@@ -1520,7 +1604,7 @@
               "name": "Ahududulu Süt Muhallebisi",
               "quantity": 390,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/c0f6b19a-fe52-4ffd-8d9a-a4d6eb4f183f.webp",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.15,

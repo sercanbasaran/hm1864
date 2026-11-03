@@ -10,7 +10,9 @@
       "currency": "TRY",
       "categoryId": "trileceler",
       "subcategoryId": "trileceler/trileceler",
-      "images": [],
+      "images": [
+        "imported/f3a07e32-6894-450e-9e63-2d5883ccb681.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/f3a07e32-6894-450e-9e63-2d5883ccb681/content"
       ],
@@ -31,7 +33,9 @@
           "sku": "1700.10401",
           "sourceVariantId": "e1d022ca-8711-4f23-83ce-a5a8ad5639b3",
           "name": "Safranlı Trileçe [Tabakta Servis]",
-          "images": [],
+          "images": [
+            "imported/f3a07e32-6894-450e-9e63-2d5883ccb681.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/f3a07e32-6894-450e-9e63-2d5883ccb681/content"
           ],
@@ -60,7 +64,7 @@
               "name": "Safranlı Trileçe",
               "quantity": 210,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/f3a07e32-6894-450e-9e63-2d5883ccb681.png",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.9,
@@ -83,7 +87,9 @@
       "currency": "TRY",
       "categoryId": "trileceler",
       "subcategoryId": "trileceler/trileceler",
-      "images": [],
+      "images": [
+        "imported/1b3347c2-0b51-4faf-a2a9-08d21d53d45f.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/1b3347c2-0b51-4faf-a2a9-08d21d53d45f/content"
       ],
@@ -104,7 +110,9 @@
           "sku": "1700.10301",
           "sourceVariantId": "cab82216-fa43-41ad-a922-2a30bda48925",
           "name": "Karamelli Trileçe [Tabakta Servis]",
-          "images": [],
+          "images": [
+            "imported/1b3347c2-0b51-4faf-a2a9-08d21d53d45f.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/1b3347c2-0b51-4faf-a2a9-08d21d53d45f/content"
           ],
@@ -133,7 +141,7 @@
               "name": "Karamelli Trileçe",
               "quantity": 250,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/1b3347c2-0b51-4faf-a2a9-08d21d53d45f.png",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.6,
@@ -156,7 +164,9 @@
       "currency": "TRY",
       "categoryId": "trileceler",
       "subcategoryId": "trileceler/trileceler",
-      "images": [],
+      "images": [
+        "imported/baa126dc-a3f2-4572-86de-7ec455cdb2b3.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/baa126dc-a3f2-4572-86de-7ec455cdb2b3/content"
       ],
@@ -177,7 +187,9 @@
           "sku": "1700.10201",
           "sourceVariantId": "1ec270d3-6dd8-4fe3-96a7-6b75ceb7bd45",
           "name": "Kahveli Trileçe [Tabakta Servis]",
-          "images": [],
+          "images": [
+            "imported/baa126dc-a3f2-4572-86de-7ec455cdb2b3.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/baa126dc-a3f2-4572-86de-7ec455cdb2b3/content"
           ],
@@ -206,7 +218,7 @@
               "name": "Kahveli Trileçe",
               "quantity": 210,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/baa126dc-a3f2-4572-86de-7ec455cdb2b3.png",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.9,
@@ -229,7 +241,9 @@
       "currency": "TRY",
       "categoryId": "trileceler",
       "subcategoryId": "trileceler/trileceler",
-      "images": [],
+      "images": [
+        "imported/3708c5e1-b70e-45d7-990f-9a04fb3cdf79.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/3708c5e1-b70e-45d7-990f-9a04fb3cdf79/content"
       ],
@@ -250,7 +264,9 @@
           "sku": "1700.10101",
           "sourceVariantId": "c4ba63d0-7288-4f35-84b9-393e2f359e8b",
           "name": "Fıstıklı Ala Trileçe [Tabakta Servis]",
-          "images": [],
+          "images": [
+            "imported/3708c5e1-b70e-45d7-990f-9a04fb3cdf79.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/3708c5e1-b70e-45d7-990f-9a04fb3cdf79/content"
           ],
@@ -279,7 +295,7 @@
               "name": "Fıstıklı Ala Trileçe",
               "quantity": 215,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/3708c5e1-b70e-45d7-990f-9a04fb3cdf79.png",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.86,
@@ -302,7 +318,9 @@
       "currency": "TRY",
       "categoryId": "trileceler",
       "subcategoryId": "trileceler/trileceler",
-      "images": [],
+      "images": [
+        "imported/9f596b82-139b-4165-b331-7e92942f8926.png"
+      ],
       "sourceImageUrls": [
         "https://1864usta.netlify.app/api/media/9f596b82-139b-4165-b331-7e92942f8926/content"
       ],
@@ -323,7 +341,9 @@
           "sku": "1700.10001",
           "sourceVariantId": "94dccd6c-6ca0-4cab-81e2-17594e3b2dda",
           "name": "Ahududulu Trileçe [Tabakta Servis]",
-          "images": [],
+          "images": [
+            "imported/9f596b82-139b-4165-b331-7e92942f8926.png"
+          ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/9f596b82-139b-4165-b331-7e92942f8926/content"
           ],
@@ -352,7 +372,7 @@
               "name": "Ahududulu Trileçe",
               "quantity": 255,
               "unit": "Gram",
-              "image": "",
+              "image": "imported/9f596b82-139b-4165-b331-7e92942f8926.png",
               "dimensions": null,
               "unitWeight": 1,
               "unitPrice": 1.56,

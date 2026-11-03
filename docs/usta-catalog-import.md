@@ -21,10 +21,12 @@ Komut mevcut `public/assets/data/products/` girişlerini tamamen değiştirir; k
 
 ## Görsellerin erişimi
 
-Dışa aktarımdaki `1864usta.netlify.app/api/media/.../content` adresleri anonim istekte **HTTP 401** döndürüyor. Kimlik doğrulamayı aşmak veya sunucu anahtarlarını tarayıcıya eklemek denenmez. Fotoğraf bağlantıları her ürün/varyantta `sourceImageUrls` ve `sourceBoxImageUrls` olarak korunur; ekranda uygulamanın görsel bekleniyor alanı gösterilir. Eski ürün fotoğrafları yeni ürünlere tahminen bağlanmaz.
+Dışa aktarımdaki 176 farklı görsel `public/assets/images/urunler/imported/` altına indirildi. Ürün ve varyant galerileri kaynak kayıtlardaki fotoğraflara, kutu görseli tanımlı varyantların kart üzerindeki geçişi ise kendi kutu fotoğrafına bağlanır. Kutu içeriği tabloları ilgili ürünün kaynak fotoğrafını kullanır. Eski ürün fotoğrafları yeni ürünlere tahminen bağlanmaz.
 
-`--download-media` erişilebilir PNG/JPEG/WebP dosyalarını `public/assets/images/urunler/imported/` altına kaydeder. API yetki hatası verirse aynı korunan API'deki diğer adreslere yetkisiz tekrar istek göndermez; tanı raporunu kaydeder. Fotoğraflar için anonim erişime açık dosya URL'leri veya dosyaların kendileri gerekir. Erişim düzeltildikten sonra aktarım tekrar çalıştırılabilir.
+Görseller uygulamayla birlikte sunulur; ziyaretçinin kaynak medya API'sine erişmesi gerekmez. Özgün dosya biçimleri ve görsel içerikleri korunur. Fotoğraf bağlantıları her ürün/varyantta `sourceImageUrls` ve `sourceBoxImageUrls` olarak da saklanır.
+
+`--download-media` erişilebilir PNG/JPEG/WebP dosyalarını indirir; aynı medya kimliğine ait yerel dosya varsa yeniden kullanır. Eksik indirmeler komut tekrar çalıştırılarak tamamlanabilir. API yetki hatası verirse aynı korunan API'deki diğer adreslere yetkisiz tekrar istek göndermez ve tanı raporunu kaydeder.
 
 ## Testler
 
-`tests/imported-catalog.test.mjs` güncel üretim kataloğunun sayıları, kaynak SKU/fiyatları, karma içerikleri ve iki kanalın kullanıcı akışlarını doğrular. Eski katalogla yazılmış genel UI regresyonları `tests/fixtures/legacy-authoring.json.gz` üzerinden çalışır. Bu dosya yalnızca test girdisidir; uygulama/üretim verisi değildir ve runtime paketine eklenmez.
+`tests/imported-catalog.test.mjs` güncel üretim kataloğunun sayıları, kaynak SKU/fiyatları, karma içerikleri, yerel ve build çıktısındaki görsel dosyalarını ve iki kanalın kullanıcı akışlarını doğrular. Eski katalogla yazılmış genel UI regresyonları `tests/fixtures/legacy-authoring.json.gz` üzerinden çalışır. Bu dosya yalnızca test girdisidir; uygulama/üretim verisi değildir ve runtime paketine eklenmez.

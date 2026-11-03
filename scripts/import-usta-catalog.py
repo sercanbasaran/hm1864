@@ -14,6 +14,9 @@ def nutrition(s):return {'basis':'100 g için','values':[],'summary':clean(s),'n
 def download_media(links):
  mapping={};errors=[];folder=ROOT/'public/assets/images/urunler/imported';folder.mkdir(parents=True,exist_ok=True)
  def fetch(url):
+  for cached in sorted(folder.glob(url.split('/')[-2]+'.*')):
+   if cached.suffix in ['.png','.jpg','.webp'] and cached.stat().st_size:
+    return url,'imported/'+cached.name,None
   try:
    with urllib.request.urlopen(url,timeout=25) as response:
     body=response.read(20*1024*1024+1)

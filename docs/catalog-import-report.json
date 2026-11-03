@@ -185,16 +185,10 @@
     "https://1864usta.netlify.app/api/media/fbd51ebf-5b7f-4e97-8e37-6f5ecee50be3/content",
     "https://1864usta.netlify.app/api/media/fd611747-4663-471f-ae4e-f35ef9860f95/content"
   ],
-  "downloadedMedia": 0,
-  "pendingMedia": 176,
-  "mediaErrors": [
-    {
-      "url": "https://1864usta.netlify.app/api/media/044522ae-e0c2-40e0-b495-b8459ee8652d/content",
-      "error": "HTTP Error 401: Unauthorized",
-      "remaining": "Same protected API was not retried without authorization."
-    }
-  ],
-  "mediaStatus": "Source media requires authorized/public access; no legacy images reused.",
+  "downloadedMedia": 176,
+  "pendingMedia": 0,
+  "mediaErrors": [],
+  "mediaStatus": "All source media imported.",
   "variantsBySku": [
     {
       "productKey": "usta-1011112",
