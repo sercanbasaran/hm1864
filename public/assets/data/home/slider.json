@@ -5,7 +5,17 @@
     "tr": "Hafız Mustafa 1864 seçkileri",
     "en": "Hafız Mustafa 1864 selections",
     "de": "Die Auswahlen von Hafız Mustafa 1864",
-    "it": "Le selezioni di Hafız Mustafa 1864"
+    "it": "Le selezioni di Hafız Mustafa 1864",
+    "ar": "مختارات حافظ مصطفى 1864",
+    "fr": "Les sélections Hafız Mustafa 1864",
+    "es": "Las selecciones de Hafız Mustafa 1864",
+    "ru": "Коллекции Хафыз Мустафа 1864",
+    "zh-CN": "Hafız Mustafa 1864精选系列",
+    "ja": "ハフィズ・ムスタファ1864のセレクション",
+    "hi": "हाफ़िज़ मुस्तफ़ा 1864 के चयन",
+    "ur": "حافظ مصطفیٰ 1864 کے منتخب مجموعے",
+    "fa": "گزیده‌های حافظ مصطفی 1864",
+    "pt": "As seleções Hafız Mustafa 1864"
   },
   "slides": [
     {
@@ -48,6 +58,86 @@
           "buttonLabel": "SCOPRI IL PATRIMONIO",
           "imageAlt": "Hafız Mustafa 1864",
           "backgroundImageAlt": "Trama rossa"
+        },
+        "ar": {
+          "eyebrow": "حرفة عريقة منذ عام 1864",
+          "title": "إرث إسطنبول الحلو",
+          "description": "أناقة تنتقل من إسطنبول إلى العالم: شارك إرث المدينة الحلو.",
+          "buttonLabel": "اكتشف الإرث",
+          "imageAlt": "حافظ مصطفى 1864",
+          "backgroundImageAlt": "ملمس أحمر"
+        },
+        "fr": {
+          "eyebrow": "UN SAVOIR-FAIRE SÉCULAIRE DEPUIS 1864",
+          "title": "le patrimoine sucré d’Istanbul",
+          "description": "L’élégance d’Istanbul à travers le monde : partagez le patrimoine sucré de la ville.",
+          "buttonLabel": "DÉCOUVRIR NOTRE HÉRITAGE",
+          "imageAlt": "Hafız Mustafa 1864",
+          "backgroundImageAlt": "Texture rouge"
+        },
+        "es": {
+          "eyebrow": "UN OFICIO CENTENARIO DESDE 1864",
+          "title": "el dulce legado de Estambul",
+          "description": "Elegancia de Estambul para el mundo: comparte el dulce legado de la ciudad.",
+          "buttonLabel": "DESCUBRE EL LEGADO",
+          "imageAlt": "Hafız Mustafa 1864",
+          "backgroundImageAlt": "Textura roja"
+        },
+        "ru": {
+          "eyebrow": "ВЕКОВОЕ МАСТЕРСТВО С 1864 ГОДА",
+          "title": "сладкое наследие Стамбула",
+          "description": "Элегантность из Стамбула для всего мира: поделитесь сладким наследием города.",
+          "buttonLabel": "ОТКРОЙТЕ НАСЛЕДИЕ",
+          "imageAlt": "Хафыз Мустафа 1864",
+          "backgroundImageAlt": "Красная текстура"
+        },
+        "zh-CN": {
+          "eyebrow": "始于1864年的百年匠艺",
+          "title": "伊斯坦布尔的甜蜜传承",
+          "description": "从伊斯坦布尔走向世界的优雅：分享这座城市的甜蜜传承。",
+          "buttonLabel": "探索品牌传承",
+          "imageAlt": "Hafız Mustafa 1864",
+          "backgroundImageAlt": "红色纹理"
+        },
+        "ja": {
+          "eyebrow": "1864年から受け継がれる百年の職人技",
+          "title": "イスタンブールの甘い伝統",
+          "description": "イスタンブールから世界へ届ける優雅さ。この街の甘い伝統を分かち合いましょう。",
+          "buttonLabel": "伝統を知る",
+          "imageAlt": "ハフィズ・ムスタファ1864",
+          "backgroundImageAlt": "赤い質感"
+        },
+        "hi": {
+          "eyebrow": "1864 से चली आ रही सदियों पुरानी कारीगरी",
+          "title": "इस्तांबुल की मीठी विरासत",
+          "description": "इस्तांबुल से दुनिया तक पहुँचती नज़ाकत: शहर की मीठी विरासत साझा करें।",
+          "buttonLabel": "विरासत को जानें",
+          "imageAlt": "हाफ़िज़ मुस्तफ़ा 1864",
+          "backgroundImageAlt": "लाल बनावट"
+        },
+        "ur": {
+          "eyebrow": "1864 سے جاری صدیوں پرانی دستکاری",
+          "title": "استنبول کی میٹھی میراث",
+          "description": "استنبول سے دنیا تک پہنچنے والی نفاست: شہر کی میٹھی میراث بانٹیں۔",
+          "buttonLabel": "میراث دریافت کریں",
+          "imageAlt": "حافظ مصطفیٰ 1864",
+          "backgroundImageAlt": "سرخ بناوٹ"
+        },
+        "fa": {
+          "eyebrow": "هنری دیرینه از سال 1864",
+          "title": "میراث شیرین استانبول",
+          "description": "ظرافتی از استانبول برای جهان: میراث شیرین شهر را به اشتراک بگذارید.",
+          "buttonLabel": "میراث را کشف کنید",
+          "imageAlt": "حافظ مصطفی 1864",
+          "backgroundImageAlt": "بافت قرمز"
+        },
+        "pt": {
+          "eyebrow": "UM SÉCULO DE ARTESANATO DESDE 1864",
+          "title": "a doce herança de Istambul",
+          "description": "Elegância de Istambul para o mundo: compartilhe a doce herança da cidade.",
+          "buttonLabel": "DESCUBRA A HERANÇA",
+          "imageAlt": "Hafız Mustafa 1864",
+          "backgroundImageAlt": "Textura vermelha"
         }
       }
     },
@@ -91,6 +181,86 @@
           "buttonLabel": "ORDINA ORA",
           "imageAlt": "L’iconica scatola rossa in metallo",
           "backgroundImageAlt": "Trama rossa"
+        },
+        "ar": {
+          "eyebrow": "منذ عام 1864",
+          "title": "إرث إسطنبول الحلو<br>في كل علبة",
+          "description": "نُحيي فن صناعة الحلويات في إسطنبول منذ عام 1864.<br>اكتشف الحرفة الأصيلة والمذاق الفريد.",
+          "buttonLabel": "اطلب الآن",
+          "imageAlt": "العلبة المعدنية الحمراء الأيقونية",
+          "backgroundImageAlt": "ملمس أحمر"
+        },
+        "fr": {
+          "eyebrow": "DEPUIS 1864",
+          "title": "LE PATRIMOINE SUCRÉ D’ISTANBUL<br>dans chaque boîte",
+          "description": "Nous perpétuons l’art de la confiserie d’Istanbul depuis 1864.<br>Découvrez un savoir-faire authentique et des saveurs uniques.",
+          "buttonLabel": "COMMANDER MAINTENANT",
+          "imageAlt": "Boîte métallique rouge emblématique",
+          "backgroundImageAlt": "Texture rouge"
+        },
+        "es": {
+          "eyebrow": "DESDE 1864",
+          "title": "EL DULCE LEGADO DE ESTAMBUL<br>en cada caja",
+          "description": "Mantenemos vivo el arte de la confitería de Estambul desde 1864.<br>Descubre la artesanía auténtica y un sabor único.",
+          "buttonLabel": "HAZ TU PEDIDO",
+          "imageAlt": "La icónica caja metálica roja",
+          "backgroundImageAlt": "Textura roja"
+        },
+        "ru": {
+          "eyebrow": "С 1864 ГОДА",
+          "title": "СЛАДКОЕ НАСЛЕДИЕ СТАМБУЛА<br>в каждой коробке",
+          "description": "Мы сохраняем кондитерское искусство Стамбула с 1864 года.<br>Откройте для себя подлинное мастерство и уникальный вкус.",
+          "buttonLabel": "ЗАКАЗАТЬ СЕЙЧАС",
+          "imageAlt": "Знаменитая красная металлическая коробка",
+          "backgroundImageAlt": "Красная текстура"
+        },
+        "zh-CN": {
+          "eyebrow": "始于1864年",
+          "title": "伊斯坦布尔的甜蜜传承<br>尽在每一盒中",
+          "description": "自1864年以来，我们始终传承伊斯坦布尔的甜点工艺。<br>探索纯粹匠心与独特美味。",
+          "buttonLabel": "立即订购",
+          "imageAlt": "标志性红色金属礼盒",
+          "backgroundImageAlt": "红色纹理"
+        },
+        "ja": {
+          "eyebrow": "1864年創業",
+          "title": "イスタンブールの甘い伝統を<br>ひと箱ごとに",
+          "description": "1864年以来、イスタンブールの菓子作りの技を守り続けています。<br>純粋な職人技と特別な味わいをご堪能ください。",
+          "buttonLabel": "今すぐ注文",
+          "imageAlt": "象徴的な赤い金属製ボックス",
+          "backgroundImageAlt": "赤い質感"
+        },
+        "hi": {
+          "eyebrow": "1864 से",
+          "title": "हर डिब्बे में<br>इस्तांबुल की मीठी विरासत",
+          "description": "हम 1864 से इस्तांबुल की मिठाई बनाने की कला को जीवित रखे हुए हैं।<br>असली कारीगरी और अनूठे स्वाद को जानें।",
+          "buttonLabel": "अभी ऑर्डर करें",
+          "imageAlt": "प्रतिष्ठित लाल धातु का डिब्बा",
+          "backgroundImageAlt": "लाल बनावट"
+        },
+        "ur": {
+          "eyebrow": "1864 سے",
+          "title": "ہر ڈبے میں<br>استنبول کی میٹھی میراث",
+          "description": "ہم 1864 سے استنبول کی مٹھائیاں بنانے کے فن کو زندہ رکھے ہوئے ہیں۔<br>خالص دستکاری اور منفرد ذائقہ دریافت کریں۔",
+          "buttonLabel": "ابھی آرڈر کریں",
+          "imageAlt": "مشہور سرخ دھاتی ڈبہ",
+          "backgroundImageAlt": "سرخ بناوٹ"
+        },
+        "fa": {
+          "eyebrow": "از سال 1864",
+          "title": "میراث شیرین استانبول<br>در هر جعبه",
+          "description": "از سال 1864 هنر شیرینی‌پزی استانبول را زنده نگه داشته‌ایم.<br>مهارت اصیل و طعمی بی‌نظیر را کشف کنید.",
+          "buttonLabel": "همین حالا سفارش دهید",
+          "imageAlt": "جعبه فلزی قرمز نمادین",
+          "backgroundImageAlt": "بافت قرمز"
+        },
+        "pt": {
+          "eyebrow": "DESDE 1864",
+          "title": "A DOCE HERANÇA DE ISTAMBUL<br>em cada caixa",
+          "description": "Preservamos a arte da confeitaria de Istambul desde 1864.<br>Descubra o trabalho artesanal autêntico e um sabor único.",
+          "buttonLabel": "PEÇA AGORA",
+          "imageAlt": "A icônica caixa vermelha de metal",
+          "backgroundImageAlt": "Textura vermelha"
         }
       }
     },
@@ -130,6 +300,76 @@
           "description": "Il patrimonio gastronomico di Istanbul<br>si riunisce in confezioni speciali preparate con cura.",
           "buttonLabel": "SCOPRI LA COLLEZIONE",
           "imageAlt": "Confezione della collezione HM 1864"
+        },
+        "ar": {
+          "eyebrow": "مختارات 1864",
+          "title": "حرفة عريقة<br>في علبة واحدة",
+          "description": "يجتمع إرث إسطنبول في عالم المذاق<br>في علب خاصة أُعدّت بعناية.",
+          "buttonLabel": "اكتشف المجموعة",
+          "imageAlt": "علبة مجموعة HM 1864"
+        },
+        "fr": {
+          "eyebrow": "LA SÉLECTION 1864",
+          "title": "un savoir-faire séculaire<br>dans une seule boîte",
+          "description": "Le patrimoine gourmand d’Istanbul<br>réuni dans des coffrets préparés avec soin.",
+          "buttonLabel": "DÉCOUVRIR LA COLLECTION",
+          "imageAlt": "Coffret de la collection HM 1864"
+        },
+        "es": {
+          "eyebrow": "LA SELECCIÓN 1864",
+          "title": "un oficio centenario<br>en una sola caja",
+          "description": "El patrimonio gastronómico de Estambul<br>reunido en cajas especiales preparadas con esmero.",
+          "buttonLabel": "DESCUBRE LA COLECCIÓN",
+          "imageAlt": "Caja de la colección HM 1864"
+        },
+        "ru": {
+          "eyebrow": "КОЛЛЕКЦИЯ 1864",
+          "title": "вековое мастерство<br>в одной коробке",
+          "description": "Вкусовое наследие Стамбула<br>в особых коробках, собранных с заботой.",
+          "buttonLabel": "ОТКРОЙТЕ КОЛЛЕКЦИЮ",
+          "imageAlt": "Коробка коллекции HM 1864"
+        },
+        "zh-CN": {
+          "eyebrow": "1864精选系列",
+          "title": "百年匠艺<br>汇于一盒",
+          "description": "伊斯坦布尔的美食传承<br>汇聚于精心准备的特别礼盒。",
+          "buttonLabel": "探索系列",
+          "imageAlt": "HM 1864系列礼盒"
+        },
+        "ja": {
+          "eyebrow": "1864セレクション",
+          "title": "百年の職人技を<br>ひと箱に",
+          "description": "イスタンブールの食の伝統を<br>丁寧に仕立てた特別なボックスに詰め合わせました。",
+          "buttonLabel": "コレクションを見る",
+          "imageAlt": "HM 1864コレクションボックス"
+        },
+        "hi": {
+          "eyebrow": "1864 चयन",
+          "title": "सदियों की कारीगरी<br>एक डिब्बे में",
+          "description": "इस्तांबुल की स्वाद-परंपरा<br>सावधानी से तैयार विशेष डिब्बों में एक साथ आती है।",
+          "buttonLabel": "संग्रह देखें",
+          "imageAlt": "HM 1864 संग्रह का डिब्बा"
+        },
+        "ur": {
+          "eyebrow": "1864 انتخاب",
+          "title": "صدیوں کی دستکاری<br>ایک ڈبے میں",
+          "description": "استنبول کی ذائقوں بھری میراث<br>احتیاط سے تیار کیے گئے خاص ڈبوں میں یکجا ہوتی ہے۔",
+          "buttonLabel": "مجموعہ دیکھیں",
+          "imageAlt": "HM 1864 مجموعے کا ڈبہ"
+        },
+        "fa": {
+          "eyebrow": "گزیده 1864",
+          "title": "هنری دیرینه<br>در یک جعبه",
+          "description": "میراث طعم‌های استانبول<br>در جعبه‌های ویژه‌ای که با دقت آماده شده‌اند گرد هم می‌آید.",
+          "buttonLabel": "مجموعه را ببینید",
+          "imageAlt": "جعبه مجموعه HM 1864"
+        },
+        "pt": {
+          "eyebrow": "A SELEÇÃO 1864",
+          "title": "um século de trabalho artesanal<br>em uma só caixa",
+          "description": "O patrimônio gastronômico de Istambul<br>reunido em caixas especiais preparadas com cuidado.",
+          "buttonLabel": "EXPLORE A COLEÇÃO",
+          "imageAlt": "Caixa da coleção HM 1864"
         }
       }
     },
@@ -169,6 +409,76 @@
           "description": "Sfoglie sottilissime, selezionati pistacchi di Antep<br>e una maestria tramandata di generazione in generazione.",
           "buttonLabel": "SCOPRI IL BAKLAVA AL PISTACCHIO",
           "imageAlt": "Baklava al pistacchio"
+        },
+        "ar": {
+          "eyebrow": "إرث إسطنبول الحلو",
+          "title": "تفاصيل الحرفة وروعة المذاق",
+          "description": "رقائق عجين رفيعة وفستق عنتاب مختار<br>وحرفة تتوارثها الأجيال.",
+          "buttonLabel": "اكتشف البقلاوة بالفستق",
+          "imageAlt": "بقلاوة بالفستق"
+        },
+        "fr": {
+          "eyebrow": "LE PATRIMOINE SUCRÉ D’ISTANBUL",
+          "title": "les subtilités du savoir-faire et du goût",
+          "description": "De fines feuilles de pâte, des pistaches d’Antep sélectionnées<br>et un savoir-faire transmis de génération en génération.",
+          "buttonLabel": "DÉCOUVRIR LES BAKLAVAS À LA PISTACHE",
+          "imageAlt": "Baklavas à la pistache"
+        },
+        "es": {
+          "eyebrow": "EL DULCE LEGADO DE ESTAMBUL",
+          "title": "los detalles del oficio y el sabor",
+          "description": "Finas capas de masa, selectos pistachos de Antep<br>y una maestría transmitida de generación en generación.",
+          "buttonLabel": "DESCUBRE EL BAKLAVA DE PISTACHO",
+          "imageAlt": "Baklava de pistacho"
+        },
+        "ru": {
+          "eyebrow": "СЛАДКОЕ НАСЛЕДИЕ СТАМБУЛА",
+          "title": "тонкости мастерства и вкуса",
+          "description": "Тончайшие слои теста, отборные фисташки Антепа<br>и мастерство, передаваемое из поколения в поколение.",
+          "buttonLabel": "ОТКРОЙТЕ ФИСТАШКОВУЮ ПАХЛАВУ",
+          "imageAlt": "Фисташковая пахлава"
+        },
+        "zh-CN": {
+          "eyebrow": "伊斯坦布尔的甜蜜传承",
+          "title": "匠艺与风味的精妙之处",
+          "description": "薄如蝉翼的酥皮、精选安泰普开心果，<br>以及代代相传的精湛技艺。",
+          "buttonLabel": "探索开心果巴克拉瓦",
+          "imageAlt": "开心果巴克拉瓦"
+        },
+        "ja": {
+          "eyebrow": "イスタンブールの甘い伝統",
+          "title": "職人技と味わいの繊細さ",
+          "description": "薄く重ねた生地と厳選したアンテップ産ピスタチオ、<br>そして世代を超えて受け継がれる技。",
+          "buttonLabel": "ピスタチオのバクラヴァを見る",
+          "imageAlt": "ピスタチオのバクラヴァ"
+        },
+        "hi": {
+          "eyebrow": "इस्तांबुल की मीठी विरासत",
+          "title": "कारीगरी और स्वाद की बारीकियाँ",
+          "description": "आटे की महीन परतें, चुने हुए अनतेप पिस्ते<br>और पीढ़ियों से चली आ रही कारीगरी।",
+          "buttonLabel": "पिस्ता बकलावा देखें",
+          "imageAlt": "पिस्ता बकलावा"
+        },
+        "ur": {
+          "eyebrow": "استنبول کی میٹھی میراث",
+          "title": "دستکاری اور ذائقے کی باریکیاں",
+          "description": "آٹے کی باریک تہیں، منتخب عنتابی پستے<br>اور نسل در نسل منتقل ہونے والی مہارت۔",
+          "buttonLabel": "پستے والا بقلاوہ دریافت کریں",
+          "imageAlt": "پستے والا بقلاوہ"
+        },
+        "fa": {
+          "eyebrow": "میراث شیرین استانبول",
+          "title": "ظرافت‌های مهارت و طعم",
+          "description": "لایه‌های نازک خمیر، پسته‌های برگزیده عنتاب<br>و مهارتی که نسل به نسل منتقل شده است.",
+          "buttonLabel": "باقلواهای پسته‌ای را کشف کنید",
+          "imageAlt": "باقلوای پسته‌ای"
+        },
+        "pt": {
+          "eyebrow": "A DOCE HERANÇA DE ISTAMBUL",
+          "title": "as sutilezas do artesanato e do sabor",
+          "description": "Finas camadas de massa, pistaches de Antep selecionados<br>e uma maestria transmitida de geração em geração.",
+          "buttonLabel": "DESCUBRA O BAKLAVA DE PISTACHE",
+          "imageAlt": "Baklava de pistache"
         }
       }
     },
@@ -208,6 +518,76 @@
           "description": "Le selezioni regalo di Hafız Mustafa 1864<br>per celebrazioni speciali e gesti di gratitudine significativi.",
           "buttonLabel": "SCOPRI I REGALI AZIENDALI",
           "imageAlt": "Confezioni regalo aziendali"
+        },
+        "ar": {
+          "eyebrow": "هدايا الشركات",
+          "title": "مذاقات تُثري كل لحظة خاصة",
+          "description": "مختارات هدايا حافظ مصطفى 1864<br>للاحتفالات الخاصة وعبارات الشكر الصادقة.",
+          "buttonLabel": "اكتشف هدايا الشركات",
+          "imageAlt": "علب هدايا الشركات"
+        },
+        "fr": {
+          "eyebrow": "CADEAUX D’ENTREPRISE",
+          "title": "DES SAVEURS POUR CHAQUE MOMENT PRÉCIEUX",
+          "description": "Les sélections cadeaux Hafız Mustafa 1864<br>pour les célébrations spéciales et les remerciements sincères.",
+          "buttonLabel": "DÉCOUVRIR LES CADEAUX D’ENTREPRISE",
+          "imageAlt": "Coffrets cadeaux d’entreprise"
+        },
+        "es": {
+          "eyebrow": "REGALOS DE EMPRESA",
+          "title": "SABORES PARA CADA MOMENTO ESPECIAL",
+          "description": "Las selecciones de regalo de Hafız Mustafa 1864<br>para celebraciones especiales y agradecimientos llenos de significado.",
+          "buttonLabel": "DESCUBRE LOS REGALOS DE EMPRESA",
+          "imageAlt": "Cajas de regalo de empresa"
+        },
+        "ru": {
+          "eyebrow": "КОРПОРАТИВНЫЕ ПОДАРКИ",
+          "title": "ВКУСЫ ДЛЯ КАЖДОГО ОСОБЕННОГО МОМЕНТА",
+          "description": "Подарочные коллекции Хафыз Мустафа 1864<br>для особых торжеств и искренних знаков благодарности.",
+          "buttonLabel": "ОТКРОЙТЕ КОРПОРАТИВНЫЕ ПОДАРКИ",
+          "imageAlt": "Корпоративные подарочные коробки"
+        },
+        "zh-CN": {
+          "eyebrow": "企业礼赠",
+          "title": "为每个珍贵时刻增添美味",
+          "description": "Hafız Mustafa 1864精选礼品<br>献给特别庆典与真挚谢意。",
+          "buttonLabel": "探索企业礼赠",
+          "imageAlt": "企业礼品盒"
+        },
+        "ja": {
+          "eyebrow": "法人向けギフト",
+          "title": "大切なひとときを彩る味わい",
+          "description": "特別なお祝いと心のこもった感謝に、<br>ハフィズ・ムスタファ1864のギフトセレクション。",
+          "buttonLabel": "法人向けギフトを見る",
+          "imageAlt": "法人向けギフトボックス"
+        },
+        "hi": {
+          "eyebrow": "कॉर्पोरेट उपहार",
+          "title": "हर खास पल के लिए स्वाद",
+          "description": "खास उत्सवों और दिल से धन्यवाद के लिए<br>हाफ़िज़ मुस्तफ़ा 1864 के उपहार चयन।",
+          "buttonLabel": "कॉर्पोरेट उपहार देखें",
+          "imageAlt": "कॉर्पोरेट उपहार के डिब्बे"
+        },
+        "ur": {
+          "eyebrow": "کارپوریٹ تحائف",
+          "title": "ہر خاص لمحے کے لیے ذائقے",
+          "description": "خاص تقریبات اور پُرخلوص اظہارِ تشکر کے لیے<br>حافظ مصطفیٰ 1864 کے منتخب تحائف۔",
+          "buttonLabel": "کارپوریٹ تحائف دریافت کریں",
+          "imageAlt": "کارپوریٹ تحائف کے ڈبے"
+        },
+        "fa": {
+          "eyebrow": "هدایای سازمانی",
+          "title": "طعم‌هایی برای هر لحظه خاص",
+          "description": "گزیده هدایای حافظ مصطفی 1864<br>برای جشن‌های ویژه و قدردانی‌های صمیمانه.",
+          "buttonLabel": "هدایای سازمانی را کشف کنید",
+          "imageAlt": "جعبه‌های هدیه سازمانی"
+        },
+        "pt": {
+          "eyebrow": "PRESENTES CORPORATIVOS",
+          "title": "SABORES PARA CADA MOMENTO ESPECIAL",
+          "description": "As seleções de presentes Hafız Mustafa 1864<br>para celebrações especiais e gestos sinceros de gratidão.",
+          "buttonLabel": "EXPLORE OS PRESENTES CORPORATIVOS",
+          "imageAlt": "Caixas de presentes corporativos"
         }
       }
     }

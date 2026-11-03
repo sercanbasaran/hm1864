@@ -2,6 +2,7 @@ import FavoriteButton from "../components/products/FavoriteButton.jsx";
 import ProductAccordions from "../components/products/ProductAccordions.jsx";
 import { useProductDetails } from "../hooks/useProductDetails.js";
 import ProductGallery from "../components/products/ProductGallery.jsx";
+import ProductSatiety from "../components/products/ProductSatiety.jsx";
 import Icon from "../components/Icon.jsx";
 import React from "react";
 import RichText from "../RichText.jsx";
@@ -97,6 +98,8 @@ export default function ProductPage({ product: p }) {
                   : t("ui.stockCount", { count: v.stock })}
             </p>
           </fieldset>
+
+          <ProductSatiety value={v.satiety} t={t} />
 
           {storeOnly(p, variant) ? (
             <OrderAvailability variant={v} />

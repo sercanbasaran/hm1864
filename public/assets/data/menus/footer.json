@@ -9,7 +9,17 @@
         "tr": "Kurumsal",
         "en": "The House",
         "de": "Das Haus",
-        "it": "La nostra maison"
+        "it": "La nostra maison",
+        "ar": "الدار",
+        "fr": "La Maison",
+        "es": "La Casa",
+        "ru": "О компании",
+        "zh-CN": "品牌之家",
+        "ja": "私たちについて",
+        "hi": "हमारा प्रतिष्ठान",
+        "ur": "ہمارا ادارہ",
+        "fa": "دربارهٔ مجموعه",
+        "pt": "A Maison"
       },
       "items": [
         {
@@ -20,7 +30,16 @@
             "en": "Principles and Values",
             "ar": "مبادئنا وقيمنا",
             "de": "Grundsätze und Werte",
-            "it": "Principi e valori"
+            "it": "Principi e valori",
+            "fr": "Principes et valeurs",
+            "es": "Principios y valores",
+            "ru": "Принципы и ценности",
+            "zh-CN": "原则与价值观",
+            "ja": "理念と価値観",
+            "hi": "सिद्धांत और मूल्य",
+            "ur": "اصول اور اقدار",
+            "fa": "اصول و ارزش‌ها",
+            "pt": "Princípios e valores"
           },
           "url": "kurumsal/ilke-ve-degerlerimiz/index.html"
         },
@@ -32,7 +51,16 @@
             "en": "Our Policies",
             "ar": "سياساتنا",
             "de": "Unsere Richtlinien",
-            "it": "Le nostre politiche"
+            "it": "Le nostre politiche",
+            "fr": "Nos politiques",
+            "es": "Nuestras políticas",
+            "ru": "Наши политики",
+            "zh-CN": "我们的政策",
+            "ja": "私たちの方針",
+            "hi": "हमारी नीतियाँ",
+            "ur": "ہماری پالیسیاں",
+            "fa": "خط‌مشی‌های ما",
+            "pt": "Nossas políticas"
           },
           "url": "kurumsal/politikalarimiz/index.html"
         },
@@ -44,7 +72,16 @@
             "en": "Leadership",
             "ar": "مجلس الإدارة",
             "de": "Unternehmensführung",
-            "it": "Direzione"
+            "it": "Direzione",
+            "fr": "Direction",
+            "es": "Dirección",
+            "ru": "Руководство",
+            "zh-CN": "管理团队",
+            "ja": "経営陣",
+            "hi": "नेतृत्व",
+            "ur": "قیادت",
+            "fa": "مدیریت",
+            "pt": "Liderança"
           },
           "url": "kurumsal/yonetim-kurulu/index.html"
         },
@@ -56,7 +93,16 @@
             "en": "Ethics and Compliance",
             "ar": "الأخلاقيات والامتثال",
             "de": "Ethik und Compliance",
-            "it": "Etica e conformità"
+            "it": "Etica e conformità",
+            "fr": "Éthique et conformité",
+            "es": "Ética y cumplimiento",
+            "ru": "Этика и соблюдение норм",
+            "zh-CN": "道德与合规",
+            "ja": "倫理とコンプライアンス",
+            "hi": "नैतिकता और अनुपालन",
+            "ur": "اخلاقیات اور تعمیل",
+            "fa": "اخلاق و رعایت مقررات",
+            "pt": "Ética e conformidade"
           },
           "url": "kurumsal/etik-ilkeler-ve-uyum-politikalari/index.html"
         },
@@ -68,7 +114,16 @@
             "en": "Careers",
             "ar": "الوظائف",
             "de": "Karriere",
-            "it": "Lavora con noi"
+            "it": "Lavora con noi",
+            "fr": "Carrières",
+            "es": "Empleo",
+            "ru": "Карьера",
+            "zh-CN": "加入我们",
+            "ja": "採用情報",
+            "hi": "करियर",
+            "ur": "ملازمتیں",
+            "fa": "فرصت‌های شغلی",
+            "pt": "Carreiras"
           },
           "url": "kurumsal/kariyer/index.html"
         },
@@ -80,7 +135,16 @@
             "en": "Our Certificates",
             "ar": "شهاداتنا",
             "de": "Unsere Zertifikate",
-            "it": "Le nostre certificazioni"
+            "it": "Le nostre certificazioni",
+            "fr": "Nos certificats",
+            "es": "Nuestros certificados",
+            "ru": "Наши сертификаты",
+            "zh-CN": "我们的认证",
+            "ja": "認証・証明書",
+            "hi": "हमारे प्रमाणपत्र",
+            "ur": "ہماری اسناد",
+            "fa": "گواهی‌نامه‌های ما",
+            "pt": "Nossos certificados"
           },
           "url": "kurumsal/sertifikalarimiz/index.html"
         },
@@ -92,7 +156,16 @@
             "en": "Media Centre",
             "ar": "المركز الإعلامي",
             "de": "Medienzentrum",
-            "it": "Centro stampa"
+            "it": "Centro stampa",
+            "fr": "Espace presse",
+            "es": "Centro de prensa",
+            "ru": "Пресс-центр",
+            "zh-CN": "媒体中心",
+            "ja": "メディアセンター",
+            "hi": "मीडिया केंद्र",
+            "ur": "میڈیا سینٹر",
+            "fa": "مرکز رسانه",
+            "pt": "Central de imprensa"
           },
           "url": "kurumsal/medya-merkezi/index.html"
         }
@@ -106,7 +179,17 @@
         "tr": "Asırlık Miras",
         "en": "A Century of Heritage",
         "de": "Ein jahrhundertealtes Erbe",
-        "it": "Un patrimonio secolare"
+        "it": "Un patrimonio secolare",
+        "ar": "إرث عريق",
+        "fr": "Un héritage séculaire",
+        "es": "Un legado centenario",
+        "ru": "Вековое наследие",
+        "zh-CN": "百年传承",
+        "ja": "百年の伝統",
+        "hi": "सदियों की विरासत",
+        "ur": "صدیوں کی میراث",
+        "fa": "میراثی دیرینه",
+        "pt": "Um legado centenário"
       },
       "items": [
         {
@@ -117,7 +200,16 @@
             "en": "Message from the President",
             "ar": "رسالة الرئيس",
             "de": "Grußwort des Präsidenten",
-            "it": "Messaggio del presidente"
+            "it": "Messaggio del presidente",
+            "fr": "Message du président",
+            "es": "Mensaje del presidente",
+            "ru": "Обращение президента",
+            "zh-CN": "总裁寄语",
+            "ja": "会長のメッセージ",
+            "hi": "अध्यक्ष का संदेश",
+            "ur": "صدر کا پیغام",
+            "fa": "پیام رئیس",
+            "pt": "Mensagem do presidente"
           },
           "url": "asirlik-miras/baskanin-mesaji/index.html"
         },
@@ -129,7 +221,16 @@
             "en": "Our Distinctive Story",
             "ar": "حكايتنا الفريدة",
             "de": "Unsere besondere Geschichte",
-            "it": "La nostra storia unica"
+            "it": "La nostra storia unica",
+            "fr": "Notre histoire singulière",
+            "es": "Nuestra historia única",
+            "ru": "Наша особая история",
+            "zh-CN": "我们的独特故事",
+            "ja": "私たちだけの物語",
+            "hi": "हमारी अनूठी कहानी",
+            "ur": "ہماری منفرد کہانی",
+            "fa": "داستان متفاوت ما",
+            "pt": "Nossa história singular"
           },
           "url": "asirlik-miras/essiz-hikayemiz/index.html"
         },
@@ -141,7 +242,16 @@
             "en": "Milestones",
             "ar": "محطات فارقة",
             "de": "Meilensteine",
-            "it": "Tappe fondamentali"
+            "it": "Tappe fondamentali",
+            "fr": "Étapes marquantes",
+            "es": "Hitos",
+            "ru": "Вехи истории",
+            "zh-CN": "重要里程碑",
+            "ja": "歴史の歩み",
+            "hi": "प्रमुख पड़ाव",
+            "ur": "اہم مراحل",
+            "fa": "نقاط عطف",
+            "pt": "Marcos históricos"
           },
           "url": "asirlik-miras/donum-noktalari/index.html"
         },
@@ -153,7 +263,16 @@
             "en": "Honours and Recognition",
             "ar": "الإنجازات والتكريمات",
             "de": "Ehrungen und Auszeichnungen",
-            "it": "Premi e riconoscimenti"
+            "it": "Premi e riconoscimenti",
+            "fr": "Distinctions et récompenses",
+            "es": "Premios y reconocimientos",
+            "ru": "Награды и признание",
+            "zh-CN": "荣誉与认可",
+            "ja": "受賞と評価",
+            "hi": "सम्मान और पुरस्कार",
+            "ur": "اعزازات اور اعتراف",
+            "fa": "افتخارات و جوایز",
+            "pt": "Prêmios e reconhecimentos"
           },
           "url": "asirlik-miras/basari-ve-odullerimiz/index.html"
         },
@@ -165,7 +284,16 @@
             "en": "Medals and Archive",
             "ar": "ميدالياتنا والأرشيف",
             "de": "Medaillen und Archiv",
-            "it": "Medaglie e archivio"
+            "it": "Medaglie e archivio",
+            "fr": "Médailles et archives",
+            "es": "Medallas y archivo",
+            "ru": "Медали и архив",
+            "zh-CN": "奖章与档案",
+            "ja": "メダルとアーカイブ",
+            "hi": "पदक और अभिलेख",
+            "ur": "تمغے اور محفوظات",
+            "fa": "مدال‌ها و آرشیو",
+            "pt": "Medalhas e arquivo"
           },
           "url": "asirlik-miras/madalyalarimiz/index.html"
         }
@@ -179,7 +307,17 @@
         "tr": "Lezzetler",
         "en": "Our Delicacies",
         "de": "Unsere Spezialitäten",
-        "it": "Le nostre specialità"
+        "it": "Le nostre specialità",
+        "ar": "أشهى حلوياتنا",
+        "fr": "Nos spécialités",
+        "es": "Nuestras especialidades",
+        "ru": "Наши лакомства",
+        "zh-CN": "我们的美味",
+        "ja": "私たちのスペシャリテ",
+        "hi": "हमारी खास मिठाइयाँ",
+        "ur": "ہماری خاص مٹھائیاں",
+        "fa": "خوراکی‌های ویژهٔ ما",
+        "pt": "Nossas especialidades"
       },
       "items": [
         {
@@ -189,7 +327,17 @@
             "tr": "Baklavalar",
             "en": "Baklava",
             "de": "Baklava",
-            "it": "Baklava"
+            "it": "Baklava",
+            "ar": "بقلاوة",
+            "fr": "Baklava",
+            "es": "Baklava",
+            "ru": "Пахлава",
+            "zh-CN": "巴克拉瓦",
+            "ja": "バクラヴァ",
+            "hi": "बकलावा",
+            "ur": "بقلاوہ",
+            "fa": "باقلوا",
+            "pt": "Baklava"
           },
           "url": "urunler/baklavalar/index.html"
         },
@@ -200,7 +348,17 @@
             "tr": "Pastalar",
             "en": "Cakes",
             "de": "Torten",
-            "it": "Torte"
+            "it": "Torte",
+            "ar": "كيك",
+            "fr": "Gâteaux",
+            "es": "Tartas",
+            "ru": "Торты",
+            "zh-CN": "蛋糕",
+            "ja": "ケーキ",
+            "hi": "केक",
+            "ur": "کیک",
+            "fa": "کیک‌ها",
+            "pt": "Bolos"
           },
           "url": "urunler/pastalar/index.html"
         },
@@ -211,7 +369,17 @@
             "tr": "Muhallebiler",
             "en": "Milk Puddings",
             "de": "Milchpuddings",
-            "it": "Budini al latte"
+            "it": "Budini al latte",
+            "ar": "مهلبية بالحليب",
+            "fr": "Desserts au lait",
+            "es": "Postres de leche",
+            "ru": "Молочные пудинги",
+            "zh-CN": "牛奶布丁",
+            "ja": "ミルクプリン",
+            "hi": "दूध के पुडिंग",
+            "ur": "دودھ کی پڈنگ",
+            "fa": "دسرهای شیری",
+            "pt": "Pudins de leite"
           },
           "url": "urunler/muhallebiler/index.html"
         },
@@ -222,7 +390,17 @@
             "tr": "Kadayıflar",
             "en": "Kadayif",
             "de": "Kadayif",
-            "it": "Kadayif"
+            "it": "Kadayif",
+            "ar": "كنافة كاداييف",
+            "fr": "Kadayif",
+            "es": "Kadayif",
+            "ru": "Кадаиф",
+            "zh-CN": "卡达伊夫",
+            "ja": "カダイフ",
+            "hi": "कदायिफ़",
+            "ur": "کدائیف",
+            "fa": "کادایف",
+            "pt": "Kadayif"
           },
           "url": "urunler/kadayiflar/index.html"
         },
@@ -233,7 +411,17 @@
             "tr": "Trileçeler",
             "en": "Trileçe",
             "de": "Trileçe",
-            "it": "Trileçe"
+            "it": "Trileçe",
+            "ar": "تريليتشا",
+            "fr": "Trileçe",
+            "es": "Trileçe",
+            "ru": "Трилече",
+            "zh-CN": "三奶蛋糕",
+            "ja": "トリレチェ",
+            "hi": "त्रिलेचे",
+            "ur": "تریلیچے",
+            "fa": "تریلچه",
+            "pt": "Trileçe"
           },
           "url": "urunler/trileceler/index.html"
         },
@@ -244,7 +432,17 @@
             "tr": "Lokumlar",
             "en": "Turkish Delight",
             "de": "Lokum",
-            "it": "Lokum"
+            "it": "Lokum",
+            "ar": "راحة الحلقوم",
+            "fr": "Loukoums",
+            "es": "Delicias turcas",
+            "ru": "Рахат-лукум",
+            "zh-CN": "土耳其软糖",
+            "ja": "ロクム",
+            "hi": "लोकुम",
+            "ur": "لوکوم",
+            "fa": "راحت‌الحلقوم",
+            "pt": "Lokum"
           },
           "url": "urunler/lokumlar/index.html"
         }
@@ -258,7 +456,17 @@
         "tr": "Özel Koleksiyonlar",
         "en": "Special Collections",
         "de": "Besondere Kollektionen",
-        "it": "Collezioni speciali"
+        "it": "Collezioni speciali",
+        "ar": "مجموعات خاصة",
+        "fr": "Collections spéciales",
+        "es": "Colecciones especiales",
+        "ru": "Особые коллекции",
+        "zh-CN": "特别系列",
+        "ja": "特別コレクション",
+        "hi": "खास संग्रह",
+        "ur": "خصوصی مجموعے",
+        "fa": "مجموعه‌های ویژه",
+        "pt": "Coleções especiais"
       },
       "items": [
         {
@@ -268,7 +476,17 @@
             "tr": "HM 1864 Serisi",
             "en": "HM 1864 Series",
             "de": "HM 1864 Serie",
-            "it": "Serie HM 1864"
+            "it": "Serie HM 1864",
+            "ar": "سلسلة HM 1864",
+            "fr": "Série HM 1864",
+            "es": "Serie HM 1864",
+            "ru": "Серия HM 1864",
+            "zh-CN": "HM 1864系列",
+            "ja": "HM 1864シリーズ",
+            "hi": "HM 1864 शृंखला",
+            "ur": "HM 1864 سیریز",
+            "fa": "سری HM 1864",
+            "pt": "Série HM 1864"
           },
           "url": "koleksiyonlar/hm-1864-serisi/index.html"
         },
@@ -279,7 +497,17 @@
             "tr": "Özel Seri 1",
             "en": "Special Series 1",
             "de": "Sonderserie 1",
-            "it": "Serie speciale 1"
+            "it": "Serie speciale 1",
+            "ar": "السلسلة الخاصة 1",
+            "fr": "Série spéciale 1",
+            "es": "Serie especial 1",
+            "ru": "Особая серия 1",
+            "zh-CN": "特别系列1",
+            "ja": "特別シリーズ1",
+            "hi": "खास शृंखला 1",
+            "ur": "خصوصی سیریز 1",
+            "fa": "سری ویژهٔ 1",
+            "pt": "Série especial 1"
           },
           "url": "koleksiyonlar/ozel-seri-1/index.html"
         },
@@ -290,7 +518,17 @@
             "tr": "Özel Seri 2",
             "en": "Special Series 2",
             "de": "Sonderserie 2",
-            "it": "Serie speciale 2"
+            "it": "Serie speciale 2",
+            "ar": "السلسلة الخاصة 2",
+            "fr": "Série spéciale 2",
+            "es": "Serie especial 2",
+            "ru": "Особая серия 2",
+            "zh-CN": "特别系列2",
+            "ja": "特別シリーズ2",
+            "hi": "खास शृंखला 2",
+            "ur": "خصوصی سیریز 2",
+            "fa": "سری ویژهٔ 2",
+            "pt": "Série especial 2"
           },
           "url": "koleksiyonlar/ozel-seri-2/index.html"
         },
@@ -301,7 +539,17 @@
             "tr": "Özel Seri 3",
             "en": "Special Series 3",
             "de": "Sonderserie 3",
-            "it": "Serie speciale 3"
+            "it": "Serie speciale 3",
+            "ar": "السلسلة الخاصة 3",
+            "fr": "Série spéciale 3",
+            "es": "Serie especial 3",
+            "ru": "Особая серия 3",
+            "zh-CN": "特别系列3",
+            "ja": "特別シリーズ3",
+            "hi": "खास शृंखला 3",
+            "ur": "خصوصی سیریز 3",
+            "fa": "سری ویژهٔ 3",
+            "pt": "Série especial 3"
           },
           "url": "koleksiyonlar/ozel-seri-3/index.html"
         }
@@ -316,7 +564,16 @@
         "en": "Our Stores",
         "ar": "متاجرنا",
         "de": "Unsere Filialen",
-        "it": "I nostri negozi"
+        "it": "I nostri negozi",
+        "fr": "Nos boutiques",
+        "es": "Nuestras tiendas",
+        "ru": "Наши магазины",
+        "zh-CN": "我们的门店",
+        "ja": "店舗一覧",
+        "hi": "हमारे स्टोर",
+        "ur": "ہمارے اسٹور",
+        "fa": "فروشگاه‌های ما",
+        "pt": "Nossas lojas"
       },
       "items": [
         {
@@ -327,7 +584,16 @@
             "en": "Our Stores",
             "ar": "متاجرنا",
             "de": "Unsere Filialen",
-            "it": "I nostri negozi"
+            "it": "I nostri negozi",
+            "fr": "Nos boutiques",
+            "es": "Nuestras tiendas",
+            "ru": "Наши магазины",
+            "zh-CN": "我们的门店",
+            "ja": "店舗一覧",
+            "hi": "हमारे स्टोर",
+            "ur": "ہمارے اسٹور",
+            "fa": "فروشگاه‌های ما",
+            "pt": "Nossas lojas"
           },
           "url": "magazalar/index.html"
         },
@@ -338,7 +604,17 @@
             "tr": "Deneyim Alanları",
             "en": "Experiences",
             "de": "Erlebniswelten",
-            "it": "Esperienze"
+            "it": "Esperienze",
+            "ar": "التجارب",
+            "fr": "Expériences",
+            "es": "Experiencias",
+            "ru": "Впечатления",
+            "zh-CN": "体验空间",
+            "ja": "体験",
+            "hi": "अनुभव",
+            "ur": "تجربات",
+            "fa": "تجربه‌ها",
+            "pt": "Experiências"
           },
           "url": "deneyim-alanlari/index.html"
         }
@@ -352,7 +628,17 @@
         "tr": "Destek",
         "en": "Support",
         "de": "Hilfe",
-        "it": "Assistenza"
+        "it": "Assistenza",
+        "ar": "الدعم",
+        "fr": "Assistance",
+        "es": "Ayuda",
+        "ru": "Поддержка",
+        "zh-CN": "帮助",
+        "ja": "サポート",
+        "hi": "सहायता",
+        "ur": "معاونت",
+        "fa": "پشتیبانی",
+        "pt": "Suporte"
       },
       "items": [
         {
@@ -362,7 +648,17 @@
             "tr": "Müşteri Hizmetleri",
             "en": "Customer Service",
             "de": "Kundenservice",
-            "it": "Servizio clienti"
+            "it": "Servizio clienti",
+            "ar": "خدمة العملاء",
+            "fr": "Service client",
+            "es": "Atención al cliente",
+            "ru": "Служба поддержки",
+            "zh-CN": "客户服务",
+            "ja": "カスタマーサービス",
+            "hi": "ग्राहक सेवा",
+            "ur": "کسٹمر سروس",
+            "fa": "خدمات مشتریان",
+            "pt": "Atendimento ao cliente"
           },
           "url": "destek/musteri-hizmetleri/index.html"
         },
@@ -373,7 +669,17 @@
             "tr": "Çözüm Merkezi",
             "en": "Resolution Centre",
             "de": "Servicezentrum",
-            "it": "Centro assistenza"
+            "it": "Centro assistenza",
+            "ar": "مركز الحلول",
+            "fr": "Centre d’assistance",
+            "es": "Centro de soluciones",
+            "ru": "Центр решения вопросов",
+            "zh-CN": "问题解决中心",
+            "ja": "問題解決センター",
+            "hi": "समाधान केंद्र",
+            "ur": "حل مرکز",
+            "fa": "مرکز رسیدگی",
+            "pt": "Central de soluções"
           },
           "url": "destek/cozum-merkezi/index.html"
         },
@@ -384,7 +690,17 @@
             "tr": "İşlem Rehberi",
             "en": "Shopping Guide",
             "de": "Einkaufsleitfaden",
-            "it": "Guida agli acquisti"
+            "it": "Guida agli acquisti",
+            "ar": "دليل التسوق",
+            "fr": "Guide d’achat",
+            "es": "Guía de compra",
+            "ru": "Руководство по покупкам",
+            "zh-CN": "购物指南",
+            "ja": "お買い物ガイド",
+            "hi": "खरीदारी गाइड",
+            "ur": "خریداری کی رہنمائی",
+            "fa": "راهنمای خرید",
+            "pt": "Guia de compras"
           },
           "url": "destek/islem-rehberi/index.html"
         },
@@ -395,7 +711,17 @@
             "tr": "Güvenli Alışveriş Kılavuzu",
             "en": "Safe Shopping Guide",
             "de": "Leitfaden für sicheres Einkaufen",
-            "it": "Guida agli acquisti sicuri"
+            "it": "Guida agli acquisti sicuri",
+            "ar": "دليل التسوق الآمن",
+            "fr": "Guide d’achat sécurisé",
+            "es": "Guía de compra segura",
+            "ru": "Безопасные покупки",
+            "zh-CN": "安全购物指南",
+            "ja": "安全なお買い物ガイド",
+            "hi": "सुरक्षित खरीदारी गाइड",
+            "ur": "محفوظ خریداری کی رہنمائی",
+            "fa": "راهنمای خرید امن",
+            "pt": "Guia de compras seguras"
           },
           "url": "destek/guvenli-alisveris-kilavuzu/index.html"
         },
@@ -406,7 +732,17 @@
             "tr": "Sıkça Sorulan Sorular",
             "en": "Frequently Asked Questions",
             "de": "Häufig gestellte Fragen",
-            "it": "Domande frequenti"
+            "it": "Domande frequenti",
+            "ar": "الأسئلة الشائعة",
+            "fr": "Questions fréquentes",
+            "es": "Preguntas frecuentes",
+            "ru": "Часто задаваемые вопросы",
+            "zh-CN": "常见问题",
+            "ja": "よくある質問",
+            "hi": "अक्सर पूछे जाने वाले प्रश्न",
+            "ur": "اکثر پوچھے جانے والے سوالات",
+            "fa": "پرسش‌های متداول",
+            "pt": "Perguntas frequentes"
           },
           "url": "destek/sikca-sorulan-sorular/index.html"
         },
@@ -417,7 +753,17 @@
             "tr": "İptal & İade Koşulları",
             "en": "Cancellation & Returns",
             "de": "Stornierung und Rückgabe",
-            "it": "Annullamenti e resi"
+            "it": "Annullamenti e resi",
+            "ar": "الإلغاء والإرجاع",
+            "fr": "Annulation et retours",
+            "es": "Cancelaciones y devoluciones",
+            "ru": "Отмена и возврат",
+            "zh-CN": "取消与退货",
+            "ja": "キャンセルと返品",
+            "hi": "रद्दीकरण और वापसी",
+            "ur": "منسوخی اور واپسی",
+            "fa": "لغو و مرجوعی",
+            "pt": "Cancelamentos e devoluções"
           },
           "url": "destek/iptal-iade-kosullari/index.html"
         },
@@ -428,7 +774,17 @@
             "tr": "Teslimat Koşulları",
             "en": "Delivery Terms",
             "de": "Lieferbedingungen",
-            "it": "Condizioni di consegna"
+            "it": "Condizioni di consegna",
+            "ar": "شروط التوصيل",
+            "fr": "Conditions de livraison",
+            "es": "Condiciones de entrega",
+            "ru": "Условия доставки",
+            "zh-CN": "配送条款",
+            "ja": "配送条件",
+            "hi": "डिलीवरी की शर्तें",
+            "ur": "ترسیل کی شرائط",
+            "fa": "شرایط تحویل",
+            "pt": "Condições de entrega"
           },
           "url": "destek/teslimat-kosullari/index.html"
         }
@@ -442,7 +798,17 @@
         "tr": "Sözleşme ve Politikalar",
         "en": "Terms & Policies",
         "de": "Verträge und Richtlinien",
-        "it": "Contratti e politiche"
+        "it": "Contratti e politiche",
+        "ar": "الشروط والسياسات",
+        "fr": "Conditions et politiques",
+        "es": "Condiciones y políticas",
+        "ru": "Условия и политики",
+        "zh-CN": "条款与政策",
+        "ja": "規約と方針",
+        "hi": "नियम और नीतियाँ",
+        "ur": "شرائط اور پالیسیاں",
+        "fa": "شرایط و خط‌مشی‌ها",
+        "pt": "Termos e políticas"
       },
       "items": [
         {
@@ -452,7 +818,17 @@
             "tr": "Kişisel Verilerin Korunması",
             "en": "Personal Data Protection",
             "de": "Schutz personenbezogener Daten",
-            "it": "Protezione dei dati personali"
+            "it": "Protezione dei dati personali",
+            "ar": "حماية البيانات الشخصية",
+            "fr": "Protection des données personnelles",
+            "es": "Protección de datos personales",
+            "ru": "Защита персональных данных",
+            "zh-CN": "个人数据保护",
+            "ja": "個人情報の保護",
+            "hi": "व्यक्तिगत डेटा की सुरक्षा",
+            "ur": "ذاتی معلومات کا تحفظ",
+            "fa": "حفاظت از داده‌های شخصی",
+            "pt": "Proteção de dados pessoais"
           },
           "url": "sozlesmeler/kisisel-verilerin-korunmasi/index.html"
         },
@@ -463,7 +839,17 @@
             "tr": "Bilgi Güvenliği Politikası",
             "en": "Information Security Policy",
             "de": "Informationssicherheitsrichtlinie",
-            "it": "Politica di sicurezza delle informazioni"
+            "it": "Politica di sicurezza delle informazioni",
+            "ar": "سياسة أمن المعلومات",
+            "fr": "Politique de sécurité des informations",
+            "es": "Política de seguridad de la información",
+            "ru": "Политика информационной безопасности",
+            "zh-CN": "信息安全政策",
+            "ja": "情報セキュリティ方針",
+            "hi": "सूचना सुरक्षा नीति",
+            "ur": "معلوماتی تحفظ کی پالیسی",
+            "fa": "خط‌مشی امنیت اطلاعات",
+            "pt": "Política de segurança da informação"
           },
           "url": "sozlesmeler/bilgi-guvenligi-politikasi/index.html"
         },
@@ -474,7 +860,17 @@
             "tr": "Gizlilik Bildirgesi",
             "en": "Privacy Notice",
             "de": "Datenschutzhinweise",
-            "it": "Informativa sulla privacy"
+            "it": "Informativa sulla privacy",
+            "ar": "إشعار الخصوصية",
+            "fr": "Avis de confidentialité",
+            "es": "Aviso de privacidad",
+            "ru": "Уведомление о конфиденциальности",
+            "zh-CN": "隐私声明",
+            "ja": "プライバシーに関するお知らせ",
+            "hi": "गोपनीयता सूचना",
+            "ur": "رازداری کا نوٹس",
+            "fa": "اطلاعیهٔ حریم خصوصی",
+            "pt": "Aviso de privacidade"
           },
           "url": "sozlesmeler/gizlilik-bildirgesi/index.html"
         },
@@ -485,7 +881,17 @@
             "tr": "Satış Sözleşmesi",
             "en": "Sales Agreement",
             "de": "Kaufvertrag",
-            "it": "Contratto di vendita"
+            "it": "Contratto di vendita",
+            "ar": "عقد البيع",
+            "fr": "Contrat de vente",
+            "es": "Contrato de venta",
+            "ru": "Договор купли-продажи",
+            "zh-CN": "销售合同",
+            "ja": "売買契約",
+            "hi": "बिक्री अनुबंध",
+            "ur": "فروخت کا معاہدہ",
+            "fa": "قرارداد فروش",
+            "pt": "Contrato de venda"
           },
           "url": "sozlesmeler/satis-sozlesmesi/index.html"
         },
@@ -496,7 +902,17 @@
             "tr": "Üyelik Koşulları",
             "en": "Membership Terms",
             "de": "Mitgliedschaftsbedingungen",
-            "it": "Condizioni di registrazione"
+            "it": "Condizioni di registrazione",
+            "ar": "شروط العضوية",
+            "fr": "Conditions d’inscription",
+            "es": "Condiciones de registro",
+            "ru": "Условия регистрации",
+            "zh-CN": "会员条款",
+            "ja": "会員規約",
+            "hi": "सदस्यता की शर्तें",
+            "ur": "رکنیت کی شرائط",
+            "fa": "شرایط عضویت",
+            "pt": "Termos de cadastro"
           },
           "url": "sozlesmeler/uyelik-kosullari/index.html"
         },
@@ -507,7 +923,17 @@
             "tr": "Çerez Politikası",
             "en": "Cookie Policy",
             "de": "Cookie-Richtlinie",
-            "it": "Informativa sui cookie"
+            "it": "Informativa sui cookie",
+            "ar": "سياسة ملفات تعريف الارتباط",
+            "fr": "Politique relative aux cookies",
+            "es": "Política de cookies",
+            "ru": "Политика использования файлов cookie",
+            "zh-CN": "Cookie政策",
+            "ja": "Cookieポリシー",
+            "hi": "कुकी नीति",
+            "ur": "کوکی پالیسی",
+            "fa": "خط‌مشی کوکی‌ها",
+            "pt": "Política de cookies"
           },
           "url": "sozlesmeler/cerez-politikasi/index.html"
         }
@@ -521,7 +947,17 @@
         "tr": "İLETİŞİM",
         "en": "CONTACT",
         "de": "KONTAKT",
-        "it": "CONTATTI"
+        "it": "CONTATTI",
+        "ar": "اتصل بنا",
+        "fr": "CONTACT",
+        "es": "CONTACTO",
+        "ru": "КОНТАКТЫ",
+        "zh-CN": "联系我们",
+        "ja": "お問い合わせ",
+        "hi": "संपर्क",
+        "ur": "رابطہ",
+        "fa": "تماس با ما",
+        "pt": "CONTATO"
       },
       "items": [
         {
@@ -531,7 +967,17 @@
             "tr": "WhatsApp’dan yazın",
             "en": "Message us on WhatsApp",
             "de": "Schreiben Sie uns auf WhatsApp",
-            "it": "Scrivici su WhatsApp"
+            "it": "Scrivici su WhatsApp",
+            "ar": "راسلنا عبر واتساب",
+            "fr": "Écrivez-nous sur WhatsApp",
+            "es": "Escríbenos por WhatsApp",
+            "ru": "Напишите нам в WhatsApp",
+            "zh-CN": "通过WhatsApp联系我们",
+            "ja": "WhatsAppでお問い合わせ",
+            "hi": "WhatsApp पर संदेश भेजें",
+            "ur": "WhatsApp پر پیغام بھیجیں",
+            "fa": "در واتس‌اپ به ما پیام دهید",
+            "pt": "Fale conosco pelo WhatsApp"
           },
           "url": "iletisim/index.html"
         },
@@ -543,7 +989,16 @@
             "en": "Contact",
             "ar": "اتصل بنا",
             "de": "Kontakt",
-            "it": "Contatti"
+            "it": "Contatti",
+            "fr": "Contact",
+            "es": "Contacto",
+            "ru": "Контакты",
+            "zh-CN": "联系我们",
+            "ja": "お問い合わせ",
+            "hi": "संपर्क",
+            "ur": "رابطہ",
+            "fa": "تماس با ما",
+            "pt": "Contato"
           },
           "url": "iletisim/index.html"
         },
@@ -554,7 +1009,17 @@
             "tr": "Site Haritası",
             "en": "Sitemap",
             "de": "Sitemap",
-            "it": "Mappa del sito"
+            "it": "Mappa del sito",
+            "ar": "خريطة الموقع",
+            "fr": "Plan du site",
+            "es": "Mapa del sitio",
+            "ru": "Карта сайта",
+            "zh-CN": "网站地图",
+            "ja": "サイトマップ",
+            "hi": "साइट का नक्शा",
+            "ur": "سائٹ کا نقشہ",
+            "fa": "نقشهٔ سایت",
+            "pt": "Mapa do site"
           },
           "url": "site-haritasi.html"
         }

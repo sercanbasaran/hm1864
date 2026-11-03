@@ -2,5 +2,181 @@
   "schemaVersion": 1,
   "categoryId": "trileceler",
   "language": "fr",
-  "products": {}
+  "products": {
+    "usta-1700104": {
+      "name": "Trileçe — safran",
+      "description": "Une composition gastronomique au safran, signée Hafız Mustafa 1864.",
+      "ingredients": "gâteau Trileçe ( farine de blé, œufs, sucre, écorce d’orange, safran, levure chimique), sirop au lait(lait, crème de lait, garniture fouettée), safran, garniture fouettée, sauce Ala (farine de blé, sucre, amidon de maïs, crème de lait, garniture fouettée).",
+      "allergenInfo": "Contient : gluten, produits laitiers, œufs, soja.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 239.3 kcal / 1001.2 kJ; Lipides 17.9 g; Acides gras saturés 12.2 g; Glucides 15.7 g; Sucres 10.4 g; Fibres 0.2 g; Protéines 3.8 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10401": {
+          "label": "Service à l’assiette",
+          "description": "Une composition gastronomique au safran, signée Hafız Mustafa 1864.",
+          "weight": "210 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "gâteau Trileçe ( farine de blé, œufs, sucre, écorce d’orange, safran, levure chimique), sirop au lait(lait, crème de lait, garniture fouettée), safran, garniture fouettée, sauce Ala (farine de blé, sucre, amidon de maïs, crème de lait, garniture fouettée).",
+          "allergenInfo": "Contient : gluten, produits laitiers, œufs, soja.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 239.3 kcal / 1001.2 kJ; Lipides 17.9 g; Acides gras saturés 12.2 g; Glucides 15.7 g; Sucres 10.4 g; Fibres 0.2 g; Protéines 3.8 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1700103": {
+      "name": "Trileçe — caramel",
+      "description": "Une douceur caramélisée venue des Balkans.",
+      "ingredients": "gâteau Trileçe ( farine de blé, œufs, sucre, levure chimique), sirop au lait(lait, crème de lait, garniture fouettée) gelée de caramel.",
+      "allergenInfo": "Contient : gluten, produits laitiers, œufs, soja, sulfites.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 274.7 kcal / 1149.3 kJ; Lipides 20.8 g; Acides gras saturés 14.2 g; Glucides 17.5 g; Sucres 11.7 g; Fibres 0.2 g; Protéines 4.4 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10301": {
+          "label": "Service à l’assiette",
+          "description": "Une douceur caramélisée venue des Balkans.",
+          "weight": "250 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "gâteau Trileçe ( farine de blé, œufs, sucre, levure chimique), sirop au lait(lait, crème de lait, garniture fouettée) gelée de caramel.",
+          "allergenInfo": "Contient : gluten, produits laitiers, œufs, soja, sulfites.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 274.7 kcal / 1149.3 kJ; Lipides 20.8 g; Acides gras saturés 14.2 g; Glucides 17.5 g; Sucres 11.7 g; Fibres 0.2 g; Protéines 4.4 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1700102": {
+      "name": "Trileçe — café",
+      "description": "Une irrésistible célébration des saveurs, signée Hafız Mustafa 1864.",
+      "ingredients": "gâteau Trileçe ( farine de blé, œufs, sucre, café soluble, levure chimique), sirop au lait(lait, crème de lait, garniture fouettée), garniture fouettée, café soluble, sauce Ala (farine de blé, sucre, amidon de maïs, crème de lait, garniture fouettée).",
+      "allergenInfo": "Contient : gluten, produits laitiers, œufs, soja.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 273.6 kcal / 1144.7 kJ; Lipides 20.8 g; Acides gras saturés 13.6 g; Glucides 16.7 g; Sucres 12.3 g; Fibres 0.3 g; Protéines 4.8 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10201": {
+          "label": "Service à l’assiette",
+          "description": "Une irrésistible célébration des saveurs, signée Hafız Mustafa 1864.",
+          "weight": "210 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "gâteau Trileçe ( farine de blé, œufs, sucre, café soluble, levure chimique), sirop au lait(lait, crème de lait, garniture fouettée), garniture fouettée, café soluble, sauce Ala (farine de blé, sucre, amidon de maïs, crème de lait, garniture fouettée).",
+          "allergenInfo": "Contient : gluten, produits laitiers, œufs, soja.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 273.6 kcal / 1144.7 kJ; Lipides 20.8 g; Acides gras saturés 13.6 g; Glucides 16.7 g; Sucres 12.3 g; Fibres 0.3 g; Protéines 4.8 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1700101": {
+      "name": "Trileçe Ala — pistache",
+      "description": "Une touche de sauce Ala donne une nouvelle dimension à ce dessert balkanique.",
+      "ingredients": "gâteau Trileçe ( farine de blé, œufs, sucre, pistaches, levure chimique), sirop au lait(lait, crème de lait, garniture fouettée),garniture fouettée, pistaches, sauce Ala (farine de blé, sucre, amidon de maïs, crème de lait, garniture fouettée).",
+      "allergenInfo": "Contient : gluten, produits laitiers, fruits à coque (pistaches), œufs, soja.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 298.3 kcal / 1248.1 kJ; Lipides 22.7 g; Acides gras saturés 13.9 g; Glucides 18.4 g; Sucres 12.4 g; Fibres 1 g; Protéines 5.2 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10101": {
+          "label": "Service à l’assiette",
+          "description": "Une touche de sauce Ala donne une nouvelle dimension à ce dessert balkanique.",
+          "weight": "215 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "gâteau Trileçe ( farine de blé, œufs, sucre, pistaches, levure chimique), sirop au lait(lait, crème de lait, garniture fouettée),garniture fouettée, pistaches, sauce Ala (farine de blé, sucre, amidon de maïs, crème de lait, garniture fouettée).",
+          "allergenInfo": "Contient : gluten, produits laitiers, fruits à coque (pistaches), œufs, soja.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 298.3 kcal / 1248.1 kJ; Lipides 22.7 g; Acides gras saturés 13.9 g; Glucides 18.4 g; Sucres 12.4 g; Fibres 1 g; Protéines 5.2 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1700100": {
+      "name": "Trileçe — framboise",
+      "description": "Une célébration de la framboise, signée Hafız Mustafa 1864.",
+      "ingredients": "gâteau Trileçe ( farine de blé, œufs, sucre, levure chimique), sirop au lait(lait, crème de lait, garniture fouettée), sauce à la framboise (eau sucre, framboises, nappage à froid à la framboise).",
+      "allergenInfo": "Contient : gluten, produits laitiers, œufs, soja, sulfites.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 272.9 kcal / 1141.8 kJ; Lipides 19.2 g; Acides gras saturés 13.1 g; Glucides 22.1 g; Sucres 13.8 g; Fibres 0.4 g; Protéines 4.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10001": {
+          "label": "Service à l’assiette",
+          "description": "Une célébration de la framboise, signée Hafız Mustafa 1864.",
+          "weight": "255 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "gâteau Trileçe ( farine de blé, œufs, sucre, levure chimique), sirop au lait(lait, crème de lait, garniture fouettée), sauce à la framboise (eau sucre, framboises, nappage à froid à la framboise).",
+          "allergenInfo": "Contient : gluten, produits laitiers, œufs, soja, sulfites.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 272.9 kcal / 1141.8 kJ; Lipides 19.2 g; Acides gras saturés 13.1 g; Glucides 22.1 g; Sucres 13.8 g; Fibres 0.4 g; Protéines 4.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    }
+  }
 }

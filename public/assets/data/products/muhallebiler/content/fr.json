@@ -2,5 +2,741 @@
   "schemaVersion": 1,
   "categoryId": "muhallebiler",
   "language": "fr",
-  "products": {}
+  "products": {
+    "usta-1811100": {
+      "name": "Kazandibi — pistache",
+      "description": "Un kazandibi traditionnel enrichi de pistaches d’Antep.",
+      "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation liquide de riz (riz, eau), garniture fouettée non sucrée, pistaches, sel.",
+      "allergenInfo": "Contient : pistaches, produits laitiers et soja.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 195 kcal / 815.88 kJ; Lipides 7.3 g; Acides gras saturés 2.9 g; Glucides 28.2 g; Sucres 17.1 g; Fibres 1.1 g; Protéines 4.1 g; Sel 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1811.10001": {
+          "label": "Service à l’assiette",
+          "description": "Un kazandibi traditionnel enrichi de pistaches d’Antep.",
+          "weight": "270 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation liquide de riz (riz, eau), garniture fouettée non sucrée, pistaches, sel.",
+          "allergenInfo": "Contient : pistaches, produits laitiers et soja.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 195 kcal / 815.88 kJ; Lipides 7.3 g; Acides gras saturés 2.9 g; Glucides 28.2 g; Sucres 17.1 g; Fibres 1.1 g; Protéines 4.1 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1811101": {
+      "name": "Kazandibi — safran",
+      "description": "Un kazandibi spécial au précieux safran de la cuisine du Palais.",
+      "ingredients": "lait de bufflonne, lait de vache, sucre, préparation liquide de riz (riz, eau), garniture fouettée non sucrée, safran, sel.",
+      "allergenInfo": "Contient : produits laitiers et soja.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 169.1 kcal / 707.514 kJ; Lipides 5.1 g; Acides gras saturés 4 g; Glucides 28.1 g; Sucres 17.5 g; Fibres 0.2 g; Protéines 2.8 g; Sel 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1811.10101": {
+          "label": "Service à l’assiette",
+          "description": "Un kazandibi spécial au précieux safran de la cuisine du Palais.",
+          "weight": "275 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "lait de bufflonne, lait de vache, sucre, préparation liquide de riz (riz, eau), garniture fouettée non sucrée, safran, sel.",
+          "allergenInfo": "Contient : produits laitiers et soja.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 169.1 kcal / 707.514 kJ; Lipides 5.1 g; Acides gras saturés 4 g; Glucides 28.1 g; Sucres 17.5 g; Fibres 0.2 g; Protéines 2.8 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1811102": {
+      "name": "Kazandibi — mastic",
+      "description": "Un kazandibi caramélisé, parfumé au mastic traditionnel.",
+      "ingredients": "lait de bufflonne, lait de vache, sucre, préparation liquide de riz (riz, eau), garniture fouettée non sucrée, mastic, sel.",
+      "allergenInfo": "Contient : produits laitiers et soja.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 171.1 kcal / 715.882 kJ; Lipides 5.1 g; Acides gras saturés 4 g; Glucides 28.5 g; Sucres 17.7 g; Fibres 0.2 g; Protéines 2.9 g; Sel 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1811.10201": {
+          "label": "Service à l’assiette",
+          "description": "Un kazandibi caramélisé, parfumé au mastic traditionnel.",
+          "weight": "270 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "lait de bufflonne, lait de vache, sucre, préparation liquide de riz (riz, eau), garniture fouettée non sucrée, mastic, sel.",
+          "allergenInfo": "Contient : produits laitiers et soja.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 171.1 kcal / 715.882 kJ; Lipides 5.1 g; Acides gras saturés 4 g; Glucides 28.5 g; Sucres 17.7 g; Fibres 0.2 g; Protéines 2.9 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1811103": {
+      "name": "Kazandibi au Tavukgöğsü",
+      "description": "Une saveur d’histoire caramélisée et veloutée, signée Hafız Mustafa.",
+      "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation liquide de riz (riz, eau), garniture fouettée non sucrée, sel.",
+      "allergenInfo": "Contient : produits laitiers et soja.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 176 kcal / 736.384 kJ; Lipides 5.4 g; Acides gras saturés 4.1 g; Glucides 28.3 g; Sucres 17.4 g; Fibres 0.2 g; Protéines 3.7 g; Sel 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1811.10301": {
+          "label": "Service à l’assiette",
+          "description": "Une saveur d’histoire caramélisée et veloutée, signée Hafız Mustafa.",
+          "weight": "260 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation liquide de riz (riz, eau), garniture fouettée non sucrée, sel.",
+          "allergenInfo": "Contient : produits laitiers et soja.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 176 kcal / 736.384 kJ; Lipides 5.4 g; Acides gras saturés 4.1 g; Glucides 28.3 g; Sucres 17.4 g; Fibres 0.2 g; Protéines 3.7 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1810102": {
+      "name": "Tavukgöğsü",
+      "description": "Une saveur d’histoire veloutée, signée Hafız Mustafa.",
+      "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation liquide de riz (riz, eau), garniture fouettée non sucrée, cannelle, sel.",
+      "allergenInfo": "Contient : produits laitiers et soja.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 164.2 kcal / 687.013 kJ; Lipides 4.2 g; Acides gras saturés 2.9 g; Glucides 28.1 g; Sucres 17.4 g; Fibres 0.3 g; Protéines 3.6 g; Sel 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1810.10201": {
+          "label": "Service à l’assiette",
+          "description": "Une saveur d’histoire veloutée, signée Hafız Mustafa.",
+          "weight": "260 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "lait de bufflonne, lait de vache, blanc de poulet, sucre, préparation liquide de riz (riz, eau), garniture fouettée non sucrée, cannelle, sel.",
+          "allergenInfo": "Contient : produits laitiers et soja.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 164.2 kcal / 687.013 kJ; Lipides 4.2 g; Acides gras saturés 2.9 g; Glucides 28.1 g; Sucres 17.4 g; Fibres 0.3 g; Protéines 3.6 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1813102": {
+      "name": "Supangle",
+      "description": "Une texture soyeuse qui vous transporte dans le passé.",
+      "ingredients": "sauce Supangle (lait, farine de blé, sucre cristallisé, chocolat au lait, chocolat noir, poudre de cacao, praliné au lait), génoise (farine de blé, eau, poudre de cacao, sucre cristallisé, œufs, levure chimique, stabilisant végétal, émulsifiant végétal), crème (farine de blé, sucre cristallisé, œufs, garniture fouettée, lait, matière grasse végétale hydrogénée), chocolat mat à la pistache, pistaches.",
+      "allergenInfo": "Contient : gluten de blé, pistaches, œufs, soja et produits laitiers.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 348 kcal / 1456.03 kJ; Lipides 24.8 g; Acides gras saturés 12.9 g; Glucides 25.9 g; Sucres 20.5 g; Fibres 1.2 g; Protéines 5.3 g; Sel 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1813.10201": {
+          "label": "Bol en verre",
+          "description": "Une texture soyeuse qui vous transporte dans le passé.",
+          "weight": "400 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "sauce Supangle (lait, farine de blé, sucre cristallisé, chocolat au lait, chocolat noir, poudre de cacao, praliné au lait), génoise (farine de blé, eau, poudre de cacao, sucre cristallisé, œufs, levure chimique, stabilisant végétal, émulsifiant végétal), crème (farine de blé, sucre cristallisé, œufs, garniture fouettée, lait, matière grasse végétale hydrogénée), chocolat mat à la pistache, pistaches.",
+          "allergenInfo": "Contient : gluten de blé, pistaches, œufs, soja et produits laitiers.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 348 kcal / 1456.03 kJ; Lipides 24.8 g; Acides gras saturés 12.9 g; Glucides 25.9 g; Sucres 20.5 g; Fibres 1.2 g; Protéines 5.3 g; Sel 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1813103": {
+      "name": "Échec et mat",
+      "description": "Un festin né du contraste entre lait et chocolat.",
+      "ingredients": "pudding au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œufs, chocolat blanc, garniture fouettée sucrée, arôme de vanilline, sel), praliné noisette au chocolat au lait, poudre de cacao, chocolat noir, amidon de maïs.",
+      "allergenInfo": "Contient : gluten de blé, noisettes, œufs, soja et produits laitiers.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 379 kcal / 1585.7 kJ; Lipides 11.7 g; Acides gras saturés 1.7 g; Glucides 63.5 g; Sucres 17.2 g; Fibres 1.4 g; Protéines 4.5 g; Sel 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1813.10301": {
+          "label": "Bol en verre",
+          "description": "Un festin né du contraste entre lait et chocolat.",
+          "weight": "400 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "pudding au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œufs, chocolat blanc, garniture fouettée sucrée, arôme de vanilline, sel), praliné noisette au chocolat au lait, poudre de cacao, chocolat noir, amidon de maïs.",
+          "allergenInfo": "Contient : gluten de blé, noisettes, œufs, soja et produits laitiers.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 379 kcal / 1585.7 kJ; Lipides 11.7 g; Acides gras saturés 1.7 g; Glucides 63.5 g; Sucres 17.2 g; Fibres 1.4 g; Protéines 4.5 g; Sel 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1813101": {
+      "name": "Profiterole",
+      "description": "Des choux spéciaux garnis de crème, avec du chocolat.",
+      "ingredients": "sauce Supangle (lait, farine de blé, sucre cristallisé, chocolat au lait, chocolat noir, poudre de cacao, praliné au lait), pâte à profiteroles (farine de blé, eau, œufs, huile de tournesol), crème (farine de blé, sucre cristallisé, œufs, garniture fouettée, lait, matière grasse végétale hydrogénée), chocolat mat à la pistache, pistaches, chocolat au lait.",
+      "allergenInfo": "Contient : gluten de blé, noisettes, pistaches, œufs, lait et soja. Peut contenir des traces de : amandes, arachides, sésame et noix.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 342.6 kcal / 1433.44 kJ; Lipides 24.9 g; Acides gras saturés 13.2 g; Glucides 24.7 g; Sucres 19.6 g; Fibres 1 g; Protéines 5 g; Sel 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1813.10101": {
+          "label": "Bol en verre",
+          "description": "Des choux spéciaux garnis de crème, avec du chocolat.",
+          "weight": "380 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "sauce Supangle (lait, farine de blé, sucre cristallisé, chocolat au lait, chocolat noir, poudre de cacao, praliné au lait), pâte à profiteroles (farine de blé, eau, œufs, huile de tournesol), crème (farine de blé, sucre cristallisé, œufs, garniture fouettée, lait, matière grasse végétale hydrogénée), chocolat mat à la pistache, pistaches, chocolat au lait.",
+          "allergenInfo": "Contient : gluten de blé, noisettes, pistaches, œufs, lait et soja. Peut contenir des traces de : amandes, arachides, sésame et noix.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 342.6 kcal / 1433.44 kJ; Lipides 24.9 g; Acides gras saturés 13.2 g; Glucides 24.7 g; Sucres 19.6 g; Fibres 1 g; Protéines 5 g; Sel 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1813100": {
+      "name": "Gâteau Lotus à la cuillère",
+      "description": "Un gâteau Lotus à la cuillère, au goût distinctif et irrésistible.",
+      "ingredients": "",
+      "allergenInfo": "",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 420.8 kcal / 1760.63 kJ; Lipides 29.4 g; Acides gras saturés 15.9 g; Glucides 36.5 g; Sucres 18.9 g; Fibres 0.4 g; Protéines 2.5 g; Sel 0.3 g.",
+        "note": ""
+      },
+      "variants": {
+        "1813.10001": {
+          "label": "Bol en verre",
+          "description": "Un gâteau Lotus à la cuillère, au goût distinctif et irrésistible.",
+          "weight": "390 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "",
+          "allergenInfo": "",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 420.8 kcal / 1760.63 kJ; Lipides 29.4 g; Acides gras saturés 15.9 g; Glucides 36.5 g; Sucres 18.9 g; Fibres 0.4 g; Protéines 2.5 g; Sel 0.3 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1812105": {
+      "name": "Pudding au lait — figue",
+      "description": "Une merveilleuse association de figues et de lait.",
+      "ingredients": "lait de vache, lait de bufflonne, sucre, préparation liquide de riz (riz, eau), sel, amandes, figues, arômes (noix de coco, vanilline, amande amère).",
+      "allergenInfo": "Contient : amandes et produits laitiers.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 148 kcal / 619.2 kJ; Lipides 5.2 g; Acides gras saturés 3.3 g; Glucides 22.1 g; Sucres 13 g; Fibres 0.5 g; Protéines 3.4 g; Sel 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10501": {
+          "label": "Bol en verre",
+          "description": "Une merveilleuse association de figues et de lait.",
+          "weight": "400 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "lait de vache, lait de bufflonne, sucre, préparation liquide de riz (riz, eau), sel, amandes, figues, arômes (noix de coco, vanilline, amande amère).",
+          "allergenInfo": "Contient : amandes et produits laitiers.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 148 kcal / 619.2 kJ; Lipides 5.2 g; Acides gras saturés 3.3 g; Glucides 22.1 g; Sucres 13 g; Fibres 0.5 g; Protéines 3.4 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1812104": {
+      "name": "Pudding au lait — pistache",
+      "description": "Un mélange exceptionnel de pistaches et de lait crémeux.",
+      "ingredients": "lait de vache, lait de bufflonne, sucre, préparation liquide de riz (riz, eau), sel, pistaches, concentré de pistache.",
+      "allergenInfo": "Contient : pistaches, soja et produits laitiers.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 169 kcal / 707.1 kJ; Lipides 8.1 g; Acides gras saturés 3 g; Glucides 18.9 g; Sucres 11.2 g; Fibres 0.9 g; Protéines 5.3 g; Sel 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10401": {
+          "label": "Bol en verre",
+          "description": "Un mélange exceptionnel de pistaches et de lait crémeux.",
+          "weight": "400 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "lait de vache, lait de bufflonne, sucre, préparation liquide de riz (riz, eau), sel, pistaches, concentré de pistache.",
+          "allergenInfo": "Contient : pistaches, soja et produits laitiers.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 169 kcal / 707.1 kJ; Lipides 8.1 g; Acides gras saturés 3 g; Glucides 18.9 g; Sucres 11.2 g; Fibres 0.9 g; Protéines 5.3 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1810101": {
+      "name": "Riz au lait au four",
+      "description": "Un dessert nostalgique, doré au four.",
+      "ingredients": "lait de vache, lait de bufflonne, sucre, riz, préparation liquide de riz (riz, eau), sel.",
+      "allergenInfo": "Contient : produits laitiers.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 146.8 kcal / 614.211 kJ; Lipides 4.7 g; Acides gras saturés 3.3 g; Glucides 22.9 g; Sucres 13.2 g; Fibres 0.2 g; Protéines 3.3 g; Sel 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1810.10101": {
+          "label": "Bol en verre",
+          "description": "Un dessert nostalgique, doré au four.",
+          "weight": "400 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "lait de vache, lait de bufflonne, sucre, riz, préparation liquide de riz (riz, eau), sel.",
+          "allergenInfo": "Contient : produits laitiers.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 146.8 kcal / 614.211 kJ; Lipides 4.7 g; Acides gras saturés 3.3 g; Glucides 22.9 g; Sucres 13.2 g; Fibres 0.2 g; Protéines 3.3 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1812103": {
+      "name": "Pudding au lait — mastic",
+      "description": "Une invitation raffinée à la cuisine turque, parfumée au mastic.",
+      "ingredients": "lait de vache, lait de bufflonne, sucre, préparation liquide de riz (riz, eau), sel, noisettes, mastic.",
+      "allergenInfo": "Contient : noisettes et produits laitiers.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 141.1 kcal / 590.4 kJ; Lipides 5 g; Acides gras saturés 3.5 g; Glucides 20.9 g; Sucres 13 g; Fibres 0.1 g; Protéines 3.2 g; Sel 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10301": {
+          "label": "Bol en verre",
+          "description": "Une invitation raffinée à la cuisine turque, parfumée au mastic.",
+          "weight": "270 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "lait de vache, lait de bufflonne, sucre, préparation liquide de riz (riz, eau), sel, noisettes, mastic.",
+          "allergenInfo": "Contient : noisettes et produits laitiers.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 141.1 kcal / 590.4 kJ; Lipides 5 g; Acides gras saturés 3.5 g; Glucides 20.9 g; Sucres 13 g; Fibres 0.1 g; Protéines 3.2 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1812101": {
+      "name": "Pudding au lait — fraise et chocolat",
+      "description": "Des fraises fraîches mêlées au chocolat.",
+      "ingredients": "pudding au lait et au chocolat (lait entier, sucre, farine de blé, chocolat noir, chocolat au lait, poudre de cacao, praliné chocolat-noisette), garniture à la fraise (nappage à chaud, sucre, gélifiant, gelée de framboise, fraises).",
+      "allergenInfo": "Contient : produits laitiers, gluten, soja, œufs et sulfites. Peut contenir des traces de : pistaches, amandes, arachides, sésame et noix.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 174.6 kcal / 730.5 kJ; Lipides 5.4 g; Acides gras saturés 2.9 g; Glucides 27.6 g; Sucres 28.5 g; Fibres 1.3 g; Protéines 3.3 g; Sel 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10101": {
+          "label": "Bol en verre",
+          "description": "Des fraises fraîches mêlées au chocolat.",
+          "weight": "390 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "pudding au lait et au chocolat (lait entier, sucre, farine de blé, chocolat noir, chocolat au lait, poudre de cacao, praliné chocolat-noisette), garniture à la fraise (nappage à chaud, sucre, gélifiant, gelée de framboise, fraises).",
+          "allergenInfo": "Contient : produits laitiers, gluten, soja, œufs et sulfites. Peut contenir des traces de : pistaches, amandes, arachides, sésame et noix.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 174.6 kcal / 730.5 kJ; Lipides 5.4 g; Acides gras saturés 2.9 g; Glucides 27.6 g; Sucres 28.5 g; Fibres 1.3 g; Protéines 3.3 g; Sel 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1812102": {
+      "name": "Pudding au lait — fraise",
+      "description": "Le lait et la fraise réunis.",
+      "ingredients": "pudding au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œufs, chocolat blanc, garniture fouettée sucrée, arôme de vanilline, sel), garniture à la fraise (nappage à chaud, sucre, gélifiant, gelée de framboise, fraises).",
+      "allergenInfo": "Contient : produits laitiers, gluten, soja, œufs et sulfites. Peut contenir des traces de : pistaches, amandes, arachides, sésame et noix.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 270 kcal / 1129.7 kJ; Lipides 20.1 g; Acides gras saturés 12.1 g; Glucides 18 g; Sucres 20.3 g; Fibres 0.3 g; Protéines 3.6 g; Sel 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10201": {
+          "label": "Bol en verre",
+          "description": "Le lait et la fraise réunis.",
+          "weight": "395 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "pudding au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œufs, chocolat blanc, garniture fouettée sucrée, arôme de vanilline, sel), garniture à la fraise (nappage à chaud, sucre, gélifiant, gelée de framboise, fraises).",
+          "allergenInfo": "Contient : produits laitiers, gluten, soja, œufs et sulfites. Peut contenir des traces de : pistaches, amandes, arachides, sésame et noix.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 270 kcal / 1129.7 kJ; Lipides 20.1 g; Acides gras saturés 12.1 g; Glucides 18 g; Sucres 20.3 g; Fibres 0.3 g; Protéines 3.6 g; Sel 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1810103": {
+      "name": "Zerde",
+      "description": "Un safran précieux, hérité de la cuisine du Palais ottoman.",
+      "ingredients": "eau, riz, préparation liquide de riz (riz, eau), safran, noisettes, pistaches, raisins de Corinthe, sel, sucre, cannelle, amidon de maïs, fécule de pomme de terre, clous de girofle, arômes (vanilline, noix de coco, rose), colorant (curcumine).",
+      "allergenInfo": "Contient : noisettes et pistaches.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 119 kcal; Lipides 0.1 g; Glucides 29 g; Sucres 15.7 g; Fibres 0.2 g; Protéines 0.5 g.",
+        "note": ""
+      },
+      "variants": {
+        "1810.10301": {
+          "label": "Bol en verre",
+          "description": "Un safran précieux, hérité de la cuisine du Palais ottoman.",
+          "weight": "395 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "eau, riz, préparation liquide de riz (riz, eau), safran, noisettes, pistaches, raisins de Corinthe, sel, sucre, cannelle, amidon de maïs, fécule de pomme de terre, clous de girofle, arômes (vanilline, noix de coco, rose), colorant (curcumine).",
+          "allergenInfo": "Contient : noisettes et pistaches.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 119 kcal; Lipides 0.1 g; Glucides 29 g; Sucres 15.7 g; Fibres 0.2 g; Protéines 0.5 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1812108": {
+      "name": "Pudding au lait — fruits des bois",
+      "description": "Les arômes singuliers de la nature dans chaque cuillerée.",
+      "ingredients": "lait de vache, lait de bufflonne, sucre, préparation liquide de riz (riz, eau), fécule de pomme de terre, amidon de maïs, gélifiant, arôme de vanilline, mûres, myrtilles, framboises, pistaches, sel.",
+      "allergenInfo": "Contient : pistaches, sulfites et produits laitiers.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 136 kcal / 569 kJ; Lipides 3.6 g; Acides gras saturés 2.5 g; Glucides 23.7 g; Sucres 14.6 g; Fibres 0.7 g; Protéines 2.4 g; Sel 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10801": {
+          "label": "Bol en verre",
+          "description": "Les arômes singuliers de la nature dans chaque cuillerée.",
+          "weight": "395 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "lait de vache, lait de bufflonne, sucre, préparation liquide de riz (riz, eau), fécule de pomme de terre, amidon de maïs, gélifiant, arôme de vanilline, mûres, myrtilles, framboises, pistaches, sel.",
+          "allergenInfo": "Contient : pistaches, sulfites et produits laitiers.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 136 kcal / 569 kJ; Lipides 3.6 g; Acides gras saturés 2.5 g; Glucides 23.7 g; Sucres 14.6 g; Fibres 0.7 g; Protéines 2.4 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1812107": {
+      "name": "Keşkül-ü Fukara",
+      "description": "Une saveur gastronomique transmise de l’époque ottomane à nos jours.",
+      "ingredients": "lait de vache, lait de bufflonne, sucre, préparation liquide de riz (riz, eau), sel, œufs, amandes, arômes (vanilline, amande amère, noix de coco), colorant (curcumine).",
+      "allergenInfo": "Contient : amandes, œufs et produits laitiers.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 142 kcal / 594.1 kJ; Lipides 5.4 g; Acides gras saturés 2.9 g; Glucides 19.1 g; Sucres 11.7 g; Fibres 0.1 g; Protéines 4.5 g; Sel 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10701": {
+          "label": "Bol en verre",
+          "description": "Une saveur gastronomique transmise de l’époque ottomane à nos jours.",
+          "weight": "400 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "lait de vache, lait de bufflonne, sucre, préparation liquide de riz (riz, eau), sel, œufs, amandes, arômes (vanilline, amande amère, noix de coco), colorant (curcumine).",
+          "allergenInfo": "Contient : amandes, œufs et produits laitiers.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 142 kcal / 594.1 kJ; Lipides 5.4 g; Acides gras saturés 2.9 g; Glucides 19.1 g; Sucres 11.7 g; Fibres 0.1 g; Protéines 4.5 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1812106": {
+      "name": "Pudding au lait — caramel et noisette",
+      "description": "Une sauce caramel torréfiée rencontre pudding au lait et noisettes.",
+      "ingredients": "pudding au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œufs, chocolat blanc, garniture fouettée sucrée, arôme de vanilline, sel), génoise nature (farine de blé, sucre, amidon de maïs, œufs, eau, levure chimique, émulsifiant végétal, stabilisant végétal), sauce au caramel, noisettes.",
+      "allergenInfo": "Contient : gluten de blé, noisettes, soja, œufs et produits laitiers.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 314 kcal / 1313.8 kJ; Lipides 18.4 g; Acides gras saturés 10.5 g; Glucides 31.2 g; Sucres 12.2 g; Fibres 0 g; Protéines 5.6 g; Sel 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10601": {
+          "label": "Bol en verre",
+          "description": "Une sauce caramel torréfiée rencontre pudding au lait et noisettes.",
+          "weight": "360 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "pudding au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œufs, chocolat blanc, garniture fouettée sucrée, arôme de vanilline, sel), génoise nature (farine de blé, sucre, amidon de maïs, œufs, eau, levure chimique, émulsifiant végétal, stabilisant végétal), sauce au caramel, noisettes.",
+          "allergenInfo": "Contient : gluten de blé, noisettes, soja, œufs et produits laitiers.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 314 kcal / 1313.8 kJ; Lipides 18.4 g; Acides gras saturés 10.5 g; Glucides 31.2 g; Sucres 12.2 g; Fibres 0 g; Protéines 5.6 g; Sel 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1810100": {
+      "name": "Aşure",
+      "description": "Un dessert traditionnel, symbole d’abondance et de partage.",
+      "ingredients": "eau, sucre, blé pour aşure, fécule de pomme de terre, amidon de maïs, pois chiches cuits, abricots, figues, raisins, noisettes, noix, raisins de Corinthe, riz, préparation liquide de riz (riz, eau), arôme de rose, sel, arôme de vanilline, colorant (curcumine).",
+      "allergenInfo": "gluten de blé, noisettes, noix.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 130.7 kcal / 547 kJ; Lipides 1.68 g; Acides gras saturés 0.1 g; Glucides 26.54 g; Sucres 11.24 g; Fibres 2.2 g; Protéines 1.34 g.",
+        "note": ""
+      },
+      "variants": {
+        "1810.10001": {
+          "label": "Bol en verre",
+          "description": "Un dessert traditionnel, symbole d’abondance et de partage.",
+          "weight": "410 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "eau, sucre, blé pour aşure, fécule de pomme de terre, amidon de maïs, pois chiches cuits, abricots, figues, raisins, noisettes, noix, raisins de Corinthe, riz, préparation liquide de riz (riz, eau), arôme de rose, sel, arôme de vanilline, colorant (curcumine).",
+          "allergenInfo": "gluten de blé, noisettes, noix.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 130.7 kcal / 547 kJ; Lipides 1.68 g; Acides gras saturés 0.1 g; Glucides 26.54 g; Sucres 11.24 g; Fibres 2.2 g; Protéines 1.34 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    },
+    "usta-1812100": {
+      "name": "Pudding au lait — framboise",
+      "description": "Des framboises rafraîchissantes en harmonie avec un pudding au lait crémeux.",
+      "ingredients": "pudding au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œufs, chocolat blanc, garniture fouettée sucrée, arôme de vanilline, sel), garniture à la framboise (framboises, gélifiant, nappage à chaud, gelée de framboise, nappage à froid).",
+      "allergenInfo": "Contient : produits laitiers, gluten, soja, œufs et sulfites.",
+      "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+      "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+      "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 297.5 kcal / 1244.7 kJ; Lipides 4.2 g; Acides gras saturés 1.7 g; Glucides 61.8 g; Sucres 12.8 g; Fibres 0.5 g; Protéines 2.8 g; Sel 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10001": {
+          "label": "Bol en verre",
+          "description": "Des framboises rafraîchissantes en harmonie avec un pudding au lait crémeux.",
+          "weight": "390 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "pudding au lait (lait entier, sucre, crème de lait, farine de blé, amidon de maïs, œufs, chocolat blanc, garniture fouettée sucrée, arôme de vanilline, sel), garniture à la framboise (framboises, gélifiant, nappage à chaud, gelée de framboise, nappage à froid).",
+          "allergenInfo": "Contient : produits laitiers, gluten, soja, œufs et sulfites.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 297.5 kcal / 1244.7 kJ; Lipides 4.2 g; Acides gras saturés 1.7 g; Glucides 61.8 g; Sucres 12.8 g; Fibres 0.5 g; Protéines 2.8 g; Sel 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver au réfrigérateur entre +4° et +6°. Protéger du soleil et ne pas laisser longtemps à température ambiante.",
+          "storage": "Pour apprécier pleinement la saveur et la texture, laisser reposer 10–15 minutes à température ambiante avant de servir.",
+          "longTermStorage": "Conservation: Conserver au congélateur à -18°.\n\nPréparation: Décongeler au réfrigérateur à +4° pendant 8–12 heures avant de servir.\n\nAttention: Ne pas recongeler après décongélation. \nAprès décongélation, conserver au réfrigérateur et consommer dans les 2 jours.",
+          "packaging": "Bol en verre"
+        }
+      }
+    }
+  }
 }

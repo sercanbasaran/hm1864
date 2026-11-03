@@ -2,5 +2,741 @@
   "schemaVersion": 1,
   "categoryId": "muhallebiler",
   "language": "pt",
-  "products": {}
+  "products": {
+    "usta-1811100": {
+      "name": "Kazandibi — pistácio",
+      "description": "Kazandibi tradicional enriquecido com pistácios de Antep.",
+      "ingredients": "leite de búfala, leite de vaca, peito de frango, açúcar, preparado líquido de arroz (arroz, água), cobertura batida sem açúcar, pistácios, sal.",
+      "allergenInfo": "Contém: pistácios, produtos lácteos e soja.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 195 kcal / 815.88 kJ; Lípidos 7.3 g; Gorduras saturadas 2.9 g; Hidratos de carbono 28.2 g; Açúcares 17.1 g; Fibra 1.1 g; Proteínas 4.1 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1811.10001": {
+          "label": "Servido em prato",
+          "description": "Kazandibi tradicional enriquecido com pistácios de Antep.",
+          "weight": "270 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "leite de búfala, leite de vaca, peito de frango, açúcar, preparado líquido de arroz (arroz, água), cobertura batida sem açúcar, pistácios, sal.",
+          "allergenInfo": "Contém: pistácios, produtos lácteos e soja.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 195 kcal / 815.88 kJ; Lípidos 7.3 g; Gorduras saturadas 2.9 g; Hidratos de carbono 28.2 g; Açúcares 17.1 g; Fibra 1.1 g; Proteínas 4.1 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1811101": {
+      "name": "Kazandibi — açafrão",
+      "description": "Kazandibi especial com o precioso açafrão da cozinha palaciana.",
+      "ingredients": "leite de búfala, leite de vaca, açúcar, preparado líquido de arroz (arroz, água), cobertura batida sem açúcar, açafrão, sal.",
+      "allergenInfo": "Contém: produtos lácteos e soja.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 169.1 kcal / 707.514 kJ; Lípidos 5.1 g; Gorduras saturadas 4 g; Hidratos de carbono 28.1 g; Açúcares 17.5 g; Fibra 0.2 g; Proteínas 2.8 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1811.10101": {
+          "label": "Servido em prato",
+          "description": "Kazandibi especial com o precioso açafrão da cozinha palaciana.",
+          "weight": "275 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "leite de búfala, leite de vaca, açúcar, preparado líquido de arroz (arroz, água), cobertura batida sem açúcar, açafrão, sal.",
+          "allergenInfo": "Contém: produtos lácteos e soja.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 169.1 kcal / 707.514 kJ; Lípidos 5.1 g; Gorduras saturadas 4 g; Hidratos de carbono 28.1 g; Açúcares 17.5 g; Fibra 0.2 g; Proteínas 2.8 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1811102": {
+      "name": "Kazandibi — mástique",
+      "description": "Kazandibi caramelizado com o sabor tradicional do mástique.",
+      "ingredients": "leite de búfala, leite de vaca, açúcar, preparado líquido de arroz (arroz, água), cobertura batida sem açúcar, mástique, sal.",
+      "allergenInfo": "Contém: produtos lácteos e soja.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 171.1 kcal / 715.882 kJ; Lípidos 5.1 g; Gorduras saturadas 4 g; Hidratos de carbono 28.5 g; Açúcares 17.7 g; Fibra 0.2 g; Proteínas 2.9 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1811.10201": {
+          "label": "Servido em prato",
+          "description": "Kazandibi caramelizado com o sabor tradicional do mástique.",
+          "weight": "270 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "leite de búfala, leite de vaca, açúcar, preparado líquido de arroz (arroz, água), cobertura batida sem açúcar, mástique, sal.",
+          "allergenInfo": "Contém: produtos lácteos e soja.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 171.1 kcal / 715.882 kJ; Lípidos 5.1 g; Gorduras saturadas 4 g; Hidratos de carbono 28.5 g; Açúcares 17.7 g; Fibra 0.2 g; Proteínas 2.9 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1811103": {
+      "name": "Kazandibi de Tavukgöğsü",
+      "description": "Um sabor de história caramelizado e aveludado, criado por Hafız Mustafa.",
+      "ingredients": "leite de búfala, leite de vaca, peito de frango, açúcar, preparado líquido de arroz (arroz, água), cobertura batida sem açúcar, sal.",
+      "allergenInfo": "Contém: produtos lácteos e soja.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 176 kcal / 736.384 kJ; Lípidos 5.4 g; Gorduras saturadas 4.1 g; Hidratos de carbono 28.3 g; Açúcares 17.4 g; Fibra 0.2 g; Proteínas 3.7 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1811.10301": {
+          "label": "Servido em prato",
+          "description": "Um sabor de história caramelizado e aveludado, criado por Hafız Mustafa.",
+          "weight": "260 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "leite de búfala, leite de vaca, peito de frango, açúcar, preparado líquido de arroz (arroz, água), cobertura batida sem açúcar, sal.",
+          "allergenInfo": "Contém: produtos lácteos e soja.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 176 kcal / 736.384 kJ; Lípidos 5.4 g; Gorduras saturadas 4.1 g; Hidratos de carbono 28.3 g; Açúcares 17.4 g; Fibra 0.2 g; Proteínas 3.7 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1810102": {
+      "name": "Tavukgöğsü",
+      "description": "Um sabor aveludado de história, criado por Hafız Mustafa.",
+      "ingredients": "leite de búfala, leite de vaca, peito de frango, açúcar, preparado líquido de arroz (arroz, água), cobertura batida sem açúcar, canela, sal.",
+      "allergenInfo": "Contém: produtos lácteos e soja.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 164.2 kcal / 687.013 kJ; Lípidos 4.2 g; Gorduras saturadas 2.9 g; Hidratos de carbono 28.1 g; Açúcares 17.4 g; Fibra 0.3 g; Proteínas 3.6 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1810.10201": {
+          "label": "Servido em prato",
+          "description": "Um sabor aveludado de história, criado por Hafız Mustafa.",
+          "weight": "260 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "leite de búfala, leite de vaca, peito de frango, açúcar, preparado líquido de arroz (arroz, água), cobertura batida sem açúcar, canela, sal.",
+          "allergenInfo": "Contém: produtos lácteos e soja.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 164.2 kcal / 687.013 kJ; Lípidos 4.2 g; Gorduras saturadas 2.9 g; Hidratos de carbono 28.1 g; Açúcares 17.4 g; Fibra 0.3 g; Proteínas 3.6 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1813102": {
+      "name": "Supangle",
+      "description": "Uma textura sedosa que o transporta ao passado.",
+      "ingredients": "molho Supangle (leite, farinha de trigo, açúcar granulado, chocolate de leite, chocolate negro, cacau em pó, praliné de leite), pão de ló (farinha de trigo, água, cacau em pó, açúcar granulado, ovos, fermento em pó, estabilizante vegetal, emulsionante vegetal), natas (farinha de trigo, açúcar granulado, ovos, cobertura batida, leite, gordura vegetal hidrogenada), chocolate mate de pistácio, pistácios.",
+      "allergenInfo": "Contém: glúten de trigo, pistácios, ovos, soja e produtos lácteos.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 348 kcal / 1456.03 kJ; Lípidos 24.8 g; Gorduras saturadas 12.9 g; Hidratos de carbono 25.9 g; Açúcares 20.5 g; Fibra 1.2 g; Proteínas 5.3 g; Sal 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1813.10201": {
+          "label": "Taça de vidro",
+          "description": "Uma textura sedosa que o transporta ao passado.",
+          "weight": "400 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "molho Supangle (leite, farinha de trigo, açúcar granulado, chocolate de leite, chocolate negro, cacau em pó, praliné de leite), pão de ló (farinha de trigo, água, cacau em pó, açúcar granulado, ovos, fermento em pó, estabilizante vegetal, emulsionante vegetal), natas (farinha de trigo, açúcar granulado, ovos, cobertura batida, leite, gordura vegetal hidrogenada), chocolate mate de pistácio, pistácios.",
+          "allergenInfo": "Contém: glúten de trigo, pistácios, ovos, soja e produtos lácteos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 348 kcal / 1456.03 kJ; Lípidos 24.8 g; Gorduras saturadas 12.9 g; Hidratos de carbono 25.9 g; Açúcares 20.5 g; Fibra 1.2 g; Proteínas 5.3 g; Sal 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1813103": {
+      "name": "Xeque-mate",
+      "description": "Um festim nascido do contraste entre leite e chocolate.",
+      "ingredients": "pudim de leite (leite gordo, açúcar, nata de leite, farinha de trigo, amido de milho, ovos, chocolate branco, cobertura batida açucarada, aroma de vanilina, sal), praliné de avelã com chocolate de leite, cacau em pó, chocolate negro, amido de milho.",
+      "allergenInfo": "Contém: glúten de trigo, avelãs, ovos, soja e produtos lácteos.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 379 kcal / 1585.7 kJ; Lípidos 11.7 g; Gorduras saturadas 1.7 g; Hidratos de carbono 63.5 g; Açúcares 17.2 g; Fibra 1.4 g; Proteínas 4.5 g; Sal 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1813.10301": {
+          "label": "Taça de vidro",
+          "description": "Um festim nascido do contraste entre leite e chocolate.",
+          "weight": "400 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "pudim de leite (leite gordo, açúcar, nata de leite, farinha de trigo, amido de milho, ovos, chocolate branco, cobertura batida açucarada, aroma de vanilina, sal), praliné de avelã com chocolate de leite, cacau em pó, chocolate negro, amido de milho.",
+          "allergenInfo": "Contém: glúten de trigo, avelãs, ovos, soja e produtos lácteos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 379 kcal / 1585.7 kJ; Lípidos 11.7 g; Gorduras saturadas 1.7 g; Hidratos de carbono 63.5 g; Açúcares 17.2 g; Fibra 1.4 g; Proteínas 4.5 g; Sal 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1813101": {
+      "name": "Profiterole",
+      "description": "Pequenos choux especiais recheados de creme, com chocolate.",
+      "ingredients": "molho Supangle (leite, farinha de trigo, açúcar granulado, chocolate de leite, chocolate negro, cacau em pó, praliné de leite), massa de profiteroles (farinha de trigo, água, ovos, óleo de girassol), natas (farinha de trigo, açúcar granulado, ovos, cobertura batida, leite, gordura vegetal hidrogenada), chocolate mate de pistácio, pistácios, chocolate de leite.",
+      "allergenInfo": "Contém: glúten de trigo, avelãs, pistácios, ovos, leite e soja. Pode conter vestígios de: amêndoas, amendoins, sésamo e nozes.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 342.6 kcal / 1433.44 kJ; Lípidos 24.9 g; Gorduras saturadas 13.2 g; Hidratos de carbono 24.7 g; Açúcares 19.6 g; Fibra 1 g; Proteínas 5 g; Sal 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1813.10101": {
+          "label": "Taça de vidro",
+          "description": "Pequenos choux especiais recheados de creme, com chocolate.",
+          "weight": "380 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "molho Supangle (leite, farinha de trigo, açúcar granulado, chocolate de leite, chocolate negro, cacau em pó, praliné de leite), massa de profiteroles (farinha de trigo, água, ovos, óleo de girassol), natas (farinha de trigo, açúcar granulado, ovos, cobertura batida, leite, gordura vegetal hidrogenada), chocolate mate de pistácio, pistácios, chocolate de leite.",
+          "allergenInfo": "Contém: glúten de trigo, avelãs, pistácios, ovos, leite e soja. Pode conter vestígios de: amêndoas, amendoins, sésamo e nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 342.6 kcal / 1433.44 kJ; Lípidos 24.9 g; Gorduras saturadas 13.2 g; Hidratos de carbono 24.7 g; Açúcares 19.6 g; Fibra 1 g; Proteínas 5 g; Sal 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1813100": {
+      "name": "Bolo Lotus de colher",
+      "description": "Bolo Lotus de colher com um sabor distinto e irresistível.",
+      "ingredients": "",
+      "allergenInfo": "",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 420.8 kcal / 1760.63 kJ; Lípidos 29.4 g; Gorduras saturadas 15.9 g; Hidratos de carbono 36.5 g; Açúcares 18.9 g; Fibra 0.4 g; Proteínas 2.5 g; Sal 0.3 g.",
+        "note": ""
+      },
+      "variants": {
+        "1813.10001": {
+          "label": "Taça de vidro",
+          "description": "Bolo Lotus de colher com um sabor distinto e irresistível.",
+          "weight": "390 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "",
+          "allergenInfo": "",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 420.8 kcal / 1760.63 kJ; Lípidos 29.4 g; Gorduras saturadas 15.9 g; Hidratos de carbono 36.5 g; Açúcares 18.9 g; Fibra 0.4 g; Proteínas 2.5 g; Sal 0.3 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1812105": {
+      "name": "Pudim de leite — figo",
+      "description": "Uma maravilhosa combinação de figos e leite.",
+      "ingredients": "leite de vaca, leite de búfala, açúcar, preparado líquido de arroz (arroz, água), sal, amêndoas, figos, aromas (coco, vanilina, amêndoa amarga).",
+      "allergenInfo": "Contém: amêndoas e produtos lácteos.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 148 kcal / 619.2 kJ; Lípidos 5.2 g; Gorduras saturadas 3.3 g; Hidratos de carbono 22.1 g; Açúcares 13 g; Fibra 0.5 g; Proteínas 3.4 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10501": {
+          "label": "Taça de vidro",
+          "description": "Uma maravilhosa combinação de figos e leite.",
+          "weight": "400 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "leite de vaca, leite de búfala, açúcar, preparado líquido de arroz (arroz, água), sal, amêndoas, figos, aromas (coco, vanilina, amêndoa amarga).",
+          "allergenInfo": "Contém: amêndoas e produtos lácteos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 148 kcal / 619.2 kJ; Lípidos 5.2 g; Gorduras saturadas 3.3 g; Hidratos de carbono 22.1 g; Açúcares 13 g; Fibra 0.5 g; Proteínas 3.4 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1812104": {
+      "name": "Pudim de leite — pistácio",
+      "description": "Uma mistura excecional de pistácios e leite cremoso.",
+      "ingredients": "leite de vaca, leite de búfala, açúcar, preparado líquido de arroz (arroz, água), sal, pistácios, concentrado de pistácio.",
+      "allergenInfo": "Contém: pistácios, soja e produtos lácteos.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 169 kcal / 707.1 kJ; Lípidos 8.1 g; Gorduras saturadas 3 g; Hidratos de carbono 18.9 g; Açúcares 11.2 g; Fibra 0.9 g; Proteínas 5.3 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10401": {
+          "label": "Taça de vidro",
+          "description": "Uma mistura excecional de pistácios e leite cremoso.",
+          "weight": "400 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "leite de vaca, leite de búfala, açúcar, preparado líquido de arroz (arroz, água), sal, pistácios, concentrado de pistácio.",
+          "allergenInfo": "Contém: pistácios, soja e produtos lácteos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 169 kcal / 707.1 kJ; Lípidos 8.1 g; Gorduras saturadas 3 g; Hidratos de carbono 18.9 g; Açúcares 11.2 g; Fibra 0.9 g; Proteínas 5.3 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1810101": {
+      "name": "Arroz-doce no forno",
+      "description": "Uma sobremesa nostálgica, dourada no forno.",
+      "ingredients": "leite de vaca, leite de búfala, açúcar, arroz, preparado líquido de arroz (arroz, água), sal.",
+      "allergenInfo": "Contém: produtos lácteos.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 146.8 kcal / 614.211 kJ; Lípidos 4.7 g; Gorduras saturadas 3.3 g; Hidratos de carbono 22.9 g; Açúcares 13.2 g; Fibra 0.2 g; Proteínas 3.3 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1810.10101": {
+          "label": "Taça de vidro",
+          "description": "Uma sobremesa nostálgica, dourada no forno.",
+          "weight": "400 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "leite de vaca, leite de búfala, açúcar, arroz, preparado líquido de arroz (arroz, água), sal.",
+          "allergenInfo": "Contém: produtos lácteos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 146.8 kcal / 614.211 kJ; Lípidos 4.7 g; Gorduras saturadas 3.3 g; Hidratos de carbono 22.9 g; Açúcares 13.2 g; Fibra 0.2 g; Proteínas 3.3 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1812103": {
+      "name": "Pudim de leite — mástique",
+      "description": "Um convite elegante à cozinha turca, com sabor a mástique.",
+      "ingredients": "leite de vaca, leite de búfala, açúcar, preparado líquido de arroz (arroz, água), sal, avelãs, mástique.",
+      "allergenInfo": "Contém: avelãs e produtos lácteos.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 141.1 kcal / 590.4 kJ; Lípidos 5 g; Gorduras saturadas 3.5 g; Hidratos de carbono 20.9 g; Açúcares 13 g; Fibra 0.1 g; Proteínas 3.2 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10301": {
+          "label": "Taça de vidro",
+          "description": "Um convite elegante à cozinha turca, com sabor a mástique.",
+          "weight": "270 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "leite de vaca, leite de búfala, açúcar, preparado líquido de arroz (arroz, água), sal, avelãs, mástique.",
+          "allergenInfo": "Contém: avelãs e produtos lácteos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 141.1 kcal / 590.4 kJ; Lípidos 5 g; Gorduras saturadas 3.5 g; Hidratos de carbono 20.9 g; Açúcares 13 g; Fibra 0.1 g; Proteínas 3.2 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1812101": {
+      "name": "Pudim de leite — morango e chocolate",
+      "description": "Morangos frescos combinados com chocolate.",
+      "ingredients": "pudim de leite e chocolate (leite gordo, açúcar, farinha de trigo, chocolate negro, chocolate de leite, cacau em pó, praliné de chocolate e avelã), recheio de morango (cobertura quente, açúcar, gelificante, geleia de framboesa, morangos).",
+      "allergenInfo": "Contém: produtos lácteos, glúten, soja, ovos e sulfitos. Pode conter vestígios de: pistácios, amêndoas, amendoins, sésamo e nozes.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 174.6 kcal / 730.5 kJ; Lípidos 5.4 g; Gorduras saturadas 2.9 g; Hidratos de carbono 27.6 g; Açúcares 28.5 g; Fibra 1.3 g; Proteínas 3.3 g; Sal 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10101": {
+          "label": "Taça de vidro",
+          "description": "Morangos frescos combinados com chocolate.",
+          "weight": "390 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "pudim de leite e chocolate (leite gordo, açúcar, farinha de trigo, chocolate negro, chocolate de leite, cacau em pó, praliné de chocolate e avelã), recheio de morango (cobertura quente, açúcar, gelificante, geleia de framboesa, morangos).",
+          "allergenInfo": "Contém: produtos lácteos, glúten, soja, ovos e sulfitos. Pode conter vestígios de: pistácios, amêndoas, amendoins, sésamo e nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 174.6 kcal / 730.5 kJ; Lípidos 5.4 g; Gorduras saturadas 2.9 g; Hidratos de carbono 27.6 g; Açúcares 28.5 g; Fibra 1.3 g; Proteínas 3.3 g; Sal 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1812102": {
+      "name": "Pudim de leite — morango",
+      "description": "Leite e morango reunidos.",
+      "ingredients": "pudim de leite (leite gordo, açúcar, nata de leite, farinha de trigo, amido de milho, ovos, chocolate branco, cobertura batida açucarada, aroma de vanilina, sal), recheio de morango (cobertura quente, açúcar, gelificante, geleia de framboesa, morangos).",
+      "allergenInfo": "Contém: produtos lácteos, glúten, soja, ovos e sulfitos. Pode conter vestígios de: pistácios, amêndoas, amendoins, sésamo e nozes.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 270 kcal / 1129.7 kJ; Lípidos 20.1 g; Gorduras saturadas 12.1 g; Hidratos de carbono 18 g; Açúcares 20.3 g; Fibra 0.3 g; Proteínas 3.6 g; Sal 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10201": {
+          "label": "Taça de vidro",
+          "description": "Leite e morango reunidos.",
+          "weight": "395 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "pudim de leite (leite gordo, açúcar, nata de leite, farinha de trigo, amido de milho, ovos, chocolate branco, cobertura batida açucarada, aroma de vanilina, sal), recheio de morango (cobertura quente, açúcar, gelificante, geleia de framboesa, morangos).",
+          "allergenInfo": "Contém: produtos lácteos, glúten, soja, ovos e sulfitos. Pode conter vestígios de: pistácios, amêndoas, amendoins, sésamo e nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 270 kcal / 1129.7 kJ; Lípidos 20.1 g; Gorduras saturadas 12.1 g; Hidratos de carbono 18 g; Açúcares 20.3 g; Fibra 0.3 g; Proteínas 3.6 g; Sal 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1810103": {
+      "name": "Zerde",
+      "description": "Açafrão precioso, herdado da cozinha do Palácio Otomano.",
+      "ingredients": "água, arroz, preparado líquido de arroz (arroz, água), açafrão, avelãs, pistácios, passas de Corinto, sal, açúcar, canela, amido de milho, fécula de batata, cravinho, aromas (vanilina, coco, rosa), corante (curcumina).",
+      "allergenInfo": "Contém: avelãs e pistácios.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 119 kcal; Lípidos 0.1 g; Hidratos de carbono 29 g; Açúcares 15.7 g; Fibra 0.2 g; Proteínas 0.5 g.",
+        "note": ""
+      },
+      "variants": {
+        "1810.10301": {
+          "label": "Taça de vidro",
+          "description": "Açafrão precioso, herdado da cozinha do Palácio Otomano.",
+          "weight": "395 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "água, arroz, preparado líquido de arroz (arroz, água), açafrão, avelãs, pistácios, passas de Corinto, sal, açúcar, canela, amido de milho, fécula de batata, cravinho, aromas (vanilina, coco, rosa), corante (curcumina).",
+          "allergenInfo": "Contém: avelãs e pistácios.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 119 kcal; Lípidos 0.1 g; Hidratos de carbono 29 g; Açúcares 15.7 g; Fibra 0.2 g; Proteínas 0.5 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1812108": {
+      "name": "Pudim de leite — frutos silvestres",
+      "description": "Os aromas únicos da natureza em cada colherada.",
+      "ingredients": "leite de vaca, leite de búfala, açúcar, preparado líquido de arroz (arroz, água), fécula de batata, amido de milho, gelificante, aroma de vanilina, amoras, mirtilos, framboesas, pistácios, sal.",
+      "allergenInfo": "Contém: pistácios, sulfitos e produtos lácteos.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 136 kcal / 569 kJ; Lípidos 3.6 g; Gorduras saturadas 2.5 g; Hidratos de carbono 23.7 g; Açúcares 14.6 g; Fibra 0.7 g; Proteínas 2.4 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10801": {
+          "label": "Taça de vidro",
+          "description": "Os aromas únicos da natureza em cada colherada.",
+          "weight": "395 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "leite de vaca, leite de búfala, açúcar, preparado líquido de arroz (arroz, água), fécula de batata, amido de milho, gelificante, aroma de vanilina, amoras, mirtilos, framboesas, pistácios, sal.",
+          "allergenInfo": "Contém: pistácios, sulfitos e produtos lácteos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 136 kcal / 569 kJ; Lípidos 3.6 g; Gorduras saturadas 2.5 g; Hidratos de carbono 23.7 g; Açúcares 14.6 g; Fibra 0.7 g; Proteínas 2.4 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1812107": {
+      "name": "Keşkül-ü Fukara",
+      "description": "Um sabor gourmet transmitido dos tempos otomanos até hoje.",
+      "ingredients": "leite de vaca, leite de búfala, açúcar, preparado líquido de arroz (arroz, água), sal, ovos, amêndoas, aromas (vanilina, amêndoa amarga, coco), corante (curcumina).",
+      "allergenInfo": "Contém: amêndoas, ovos e produtos lácteos.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 142 kcal / 594.1 kJ; Lípidos 5.4 g; Gorduras saturadas 2.9 g; Hidratos de carbono 19.1 g; Açúcares 11.7 g; Fibra 0.1 g; Proteínas 4.5 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10701": {
+          "label": "Taça de vidro",
+          "description": "Um sabor gourmet transmitido dos tempos otomanos até hoje.",
+          "weight": "400 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "leite de vaca, leite de búfala, açúcar, preparado líquido de arroz (arroz, água), sal, ovos, amêndoas, aromas (vanilina, amêndoa amarga, coco), corante (curcumina).",
+          "allergenInfo": "Contém: amêndoas, ovos e produtos lácteos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 142 kcal / 594.1 kJ; Lípidos 5.4 g; Gorduras saturadas 2.9 g; Hidratos de carbono 19.1 g; Açúcares 11.7 g; Fibra 0.1 g; Proteínas 4.5 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1812106": {
+      "name": "Pudim de leite — caramelo e avelã",
+      "description": "O molho de caramelo tostado encontra pudim de leite e avelãs.",
+      "ingredients": "pudim de leite (leite gordo, açúcar, nata de leite, farinha de trigo, amido de milho, ovos, chocolate branco, cobertura batida açucarada, aroma de vanilina, sal), pão de ló simples (farinha de trigo, açúcar, amido de milho, ovos, água, fermento em pó, emulsionante vegetal, estabilizante vegetal), molho de caramelo, avelãs.",
+      "allergenInfo": "Contém: glúten de trigo, avelãs, soja, ovos e produtos lácteos.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 314 kcal / 1313.8 kJ; Lípidos 18.4 g; Gorduras saturadas 10.5 g; Hidratos de carbono 31.2 g; Açúcares 12.2 g; Fibra 0 g; Proteínas 5.6 g; Sal 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10601": {
+          "label": "Taça de vidro",
+          "description": "O molho de caramelo tostado encontra pudim de leite e avelãs.",
+          "weight": "360 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "pudim de leite (leite gordo, açúcar, nata de leite, farinha de trigo, amido de milho, ovos, chocolate branco, cobertura batida açucarada, aroma de vanilina, sal), pão de ló simples (farinha de trigo, açúcar, amido de milho, ovos, água, fermento em pó, emulsionante vegetal, estabilizante vegetal), molho de caramelo, avelãs.",
+          "allergenInfo": "Contém: glúten de trigo, avelãs, soja, ovos e produtos lácteos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 314 kcal / 1313.8 kJ; Lípidos 18.4 g; Gorduras saturadas 10.5 g; Hidratos de carbono 31.2 g; Açúcares 12.2 g; Fibra 0 g; Proteínas 5.6 g; Sal 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1810100": {
+      "name": "Aşure",
+      "description": "Uma sobremesa tradicional que simboliza abundância e partilha.",
+      "ingredients": "água, açúcar, trigo para aşure, fécula de batata, amido de milho, grão-de-bico cozido, alperces, figos, uvas, avelãs, nozes, passas de Corinto, arroz, preparado líquido de arroz (arroz, água), aroma de rosa, sal, aroma de vanilina, corante (curcumina).",
+      "allergenInfo": "glúten de trigo, avelãs, nozes.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 130.7 kcal / 547 kJ; Lípidos 1.68 g; Gorduras saturadas 0.1 g; Hidratos de carbono 26.54 g; Açúcares 11.24 g; Fibra 2.2 g; Proteínas 1.34 g.",
+        "note": ""
+      },
+      "variants": {
+        "1810.10001": {
+          "label": "Taça de vidro",
+          "description": "Uma sobremesa tradicional que simboliza abundância e partilha.",
+          "weight": "410 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "água, açúcar, trigo para aşure, fécula de batata, amido de milho, grão-de-bico cozido, alperces, figos, uvas, avelãs, nozes, passas de Corinto, arroz, preparado líquido de arroz (arroz, água), aroma de rosa, sal, aroma de vanilina, corante (curcumina).",
+          "allergenInfo": "glúten de trigo, avelãs, nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 130.7 kcal / 547 kJ; Lípidos 1.68 g; Gorduras saturadas 0.1 g; Hidratos de carbono 26.54 g; Açúcares 11.24 g; Fibra 2.2 g; Proteínas 1.34 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    },
+    "usta-1812100": {
+      "name": "Pudim de leite — framboesa",
+      "description": "Framboesas refrescantes em harmonia com um cremoso pudim de leite.",
+      "ingredients": "pudim de leite (leite gordo, açúcar, nata de leite, farinha de trigo, amido de milho, ovos, chocolate branco, cobertura batida açucarada, aroma de vanilina, sal), recheio de framboesa (framboesas, gelificante, cobertura quente, geleia de framboesa, cobertura fria).",
+      "allergenInfo": "Contém: produtos lácteos, glúten, soja, ovos e sulfitos.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 297.5 kcal / 1244.7 kJ; Lípidos 4.2 g; Gorduras saturadas 1.7 g; Hidratos de carbono 61.8 g; Açúcares 12.8 g; Fibra 0.5 g; Proteínas 2.8 g; Sal 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10001": {
+          "label": "Taça de vidro",
+          "description": "Framboesas refrescantes em harmonia com um cremoso pudim de leite.",
+          "weight": "390 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "pudim de leite (leite gordo, açúcar, nata de leite, farinha de trigo, amido de milho, ovos, chocolate branco, cobertura batida açucarada, aroma de vanilina, sal), recheio de framboesa (framboesas, gelificante, cobertura quente, geleia de framboesa, cobertura fria).",
+          "allergenInfo": "Contém: produtos lácteos, glúten, soja, ovos e sulfitos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 297.5 kcal / 1244.7 kJ; Lípidos 4.2 g; Gorduras saturadas 1.7 g; Hidratos de carbono 61.8 g; Açúcares 12.8 g; Fibra 0.5 g; Proteínas 2.8 g; Sal 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Taça de vidro"
+        }
+      }
+    }
+  }
 }

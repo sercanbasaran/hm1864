@@ -2,5 +2,181 @@
   "schemaVersion": 1,
   "categoryId": "trileceler",
   "language": "pt",
-  "products": {}
+  "products": {
+    "usta-1700104": {
+      "name": "Trileçe — açafrão",
+      "description": "Uma composição gourmet de açafrão, criada por Hafız Mustafa 1864.",
+      "ingredients": "bolo Trileçe ( farinha de trigo, ovos, açúcar, casca de laranja, açafrão, fermento em pó), calda de leite(leite, nata de leite, cobertura batida), açafrão, cobertura batida, molho Ala (farinha de trigo, açúcar, amido de milho, nata de leite, cobertura batida).",
+      "allergenInfo": "Contém: glúten, produtos lácteos, ovos, soja.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 239.3 kcal / 1001.2 kJ; Lípidos 17.9 g; Gorduras saturadas 12.2 g; Hidratos de carbono 15.7 g; Açúcares 10.4 g; Fibra 0.2 g; Proteínas 3.8 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10401": {
+          "label": "Servido em prato",
+          "description": "Uma composição gourmet de açafrão, criada por Hafız Mustafa 1864.",
+          "weight": "210 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "bolo Trileçe ( farinha de trigo, ovos, açúcar, casca de laranja, açafrão, fermento em pó), calda de leite(leite, nata de leite, cobertura batida), açafrão, cobertura batida, molho Ala (farinha de trigo, açúcar, amido de milho, nata de leite, cobertura batida).",
+          "allergenInfo": "Contém: glúten, produtos lácteos, ovos, soja.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 239.3 kcal / 1001.2 kJ; Lípidos 17.9 g; Gorduras saturadas 12.2 g; Hidratos de carbono 15.7 g; Açúcares 10.4 g; Fibra 0.2 g; Proteínas 3.8 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1700103": {
+      "name": "Trileçe — caramelo",
+      "description": "Uma delícia de caramelo vinda dos Balcãs.",
+      "ingredients": "bolo Trileçe ( farinha de trigo, ovos, açúcar, fermento em pó), calda de leite(leite, nata de leite, cobertura batida) geleia de caramelo.",
+      "allergenInfo": "Contém: glúten, produtos lácteos, ovos, soja, sulfitos.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 274.7 kcal / 1149.3 kJ; Lípidos 20.8 g; Gorduras saturadas 14.2 g; Hidratos de carbono 17.5 g; Açúcares 11.7 g; Fibra 0.2 g; Proteínas 4.4 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10301": {
+          "label": "Servido em prato",
+          "description": "Uma delícia de caramelo vinda dos Balcãs.",
+          "weight": "250 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "bolo Trileçe ( farinha de trigo, ovos, açúcar, fermento em pó), calda de leite(leite, nata de leite, cobertura batida) geleia de caramelo.",
+          "allergenInfo": "Contém: glúten, produtos lácteos, ovos, soja, sulfitos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 274.7 kcal / 1149.3 kJ; Lípidos 20.8 g; Gorduras saturadas 14.2 g; Hidratos de carbono 17.5 g; Açúcares 11.7 g; Fibra 0.2 g; Proteínas 4.4 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1700102": {
+      "name": "Trileçe — café",
+      "description": "Uma celebração irresistível do sabor, criada por Hafız Mustafa 1864.",
+      "ingredients": "bolo Trileçe ( farinha de trigo, ovos, açúcar, café solúvel, fermento em pó), calda de leite(leite, nata de leite, cobertura batida), cobertura batida, café solúvel, molho Ala (farinha de trigo, açúcar, amido de milho, nata de leite, cobertura batida).",
+      "allergenInfo": "Contém: glúten, produtos lácteos, ovos, soja.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 273.6 kcal / 1144.7 kJ; Lípidos 20.8 g; Gorduras saturadas 13.6 g; Hidratos de carbono 16.7 g; Açúcares 12.3 g; Fibra 0.3 g; Proteínas 4.8 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10201": {
+          "label": "Servido em prato",
+          "description": "Uma celebração irresistível do sabor, criada por Hafız Mustafa 1864.",
+          "weight": "210 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "bolo Trileçe ( farinha de trigo, ovos, açúcar, café solúvel, fermento em pó), calda de leite(leite, nata de leite, cobertura batida), cobertura batida, café solúvel, molho Ala (farinha de trigo, açúcar, amido de milho, nata de leite, cobertura batida).",
+          "allergenInfo": "Contém: glúten, produtos lácteos, ovos, soja.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 273.6 kcal / 1144.7 kJ; Lípidos 20.8 g; Gorduras saturadas 13.6 g; Hidratos de carbono 16.7 g; Açúcares 12.3 g; Fibra 0.3 g; Proteínas 4.8 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1700101": {
+      "name": "Trileçe Ala — pistácio",
+      "description": "Um toque de molho Ala dá uma nova dimensão a esta sobremesa balcânica.",
+      "ingredients": "bolo Trileçe ( farinha de trigo, ovos, açúcar, pistácios, fermento em pó), calda de leite(leite, nata de leite, cobertura batida),cobertura batida, pistácios, molho Ala (farinha de trigo, açúcar, amido de milho, nata de leite, cobertura batida).",
+      "allergenInfo": "Contém: glúten, produtos lácteos, frutos de casca rija (pistácios), ovos, soja.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 298.3 kcal / 1248.1 kJ; Lípidos 22.7 g; Gorduras saturadas 13.9 g; Hidratos de carbono 18.4 g; Açúcares 12.4 g; Fibra 1 g; Proteínas 5.2 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10101": {
+          "label": "Servido em prato",
+          "description": "Um toque de molho Ala dá uma nova dimensão a esta sobremesa balcânica.",
+          "weight": "215 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "bolo Trileçe ( farinha de trigo, ovos, açúcar, pistácios, fermento em pó), calda de leite(leite, nata de leite, cobertura batida),cobertura batida, pistácios, molho Ala (farinha de trigo, açúcar, amido de milho, nata de leite, cobertura batida).",
+          "allergenInfo": "Contém: glúten, produtos lácteos, frutos de casca rija (pistácios), ovos, soja.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 298.3 kcal / 1248.1 kJ; Lípidos 22.7 g; Gorduras saturadas 13.9 g; Hidratos de carbono 18.4 g; Açúcares 12.4 g; Fibra 1 g; Proteínas 5.2 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1700100": {
+      "name": "Trileçe — framboesa",
+      "description": "Uma celebração da framboesa, criada por Hafız Mustafa 1864.",
+      "ingredients": "bolo Trileçe ( farinha de trigo, ovos, açúcar, fermento em pó), calda de leite(leite, nata de leite, cobertura batida), molho de framboesa (água açúcar, framboesas, cobertura fria de framboesa).",
+      "allergenInfo": "Contém: glúten, produtos lácteos, ovos, soja, sulfitos.",
+      "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+      "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+      "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 272.9 kcal / 1141.8 kJ; Lípidos 19.2 g; Gorduras saturadas 13.1 g; Hidratos de carbono 22.1 g; Açúcares 13.8 g; Fibra 0.4 g; Proteínas 4.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10001": {
+          "label": "Servido em prato",
+          "description": "Uma celebração da framboesa, criada por Hafız Mustafa 1864.",
+          "weight": "255 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "bolo Trileçe ( farinha de trigo, ovos, açúcar, fermento em pó), calda de leite(leite, nata de leite, cobertura batida), molho de framboesa (água açúcar, framboesas, cobertura fria de framboesa).",
+          "allergenInfo": "Contém: glúten, produtos lácteos, ovos, soja, sulfitos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 272.9 kcal / 1141.8 kJ; Lípidos 19.2 g; Gorduras saturadas 13.1 g; Hidratos de carbono 22.1 g; Açúcares 13.8 g; Fibra 0.4 g; Proteínas 4.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar no frigorífico entre +4° e +6°. Proteger da luz solar direta e não deixar à temperatura ambiente durante períodos prolongados.",
+          "storage": "Para apreciar plenamente o sabor e a textura, deixar repousar à temperatura ambiente durante 10–15 minutos antes de servir.",
+          "longTermStorage": "Conservação: Conservar no congelador a -18°.\n\nPreparação: Descongelar no frigorífico a +4° durante 8–12 horas antes de servir.\n\nAtenção: Não voltar a congelar após descongelar. \nApós descongelar, manter refrigerado e consumir no prazo de 2 dias.",
+          "packaging": "Servido em prato"
+        }
+      }
+    }
+  }
 }

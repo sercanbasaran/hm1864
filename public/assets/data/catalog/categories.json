@@ -20,6 +20,36 @@
         },
         "it": {
           "name": "Baklava"
+        },
+        "ar": {
+          "name": "بقلاوة"
+        },
+        "fr": {
+          "name": "Baklava"
+        },
+        "es": {
+          "name": "Baklava"
+        },
+        "ru": {
+          "name": "Баклава"
+        },
+        "zh-CN": {
+          "name": "巴克拉瓦"
+        },
+        "ja": {
+          "name": "バクラヴァ"
+        },
+        "hi": {
+          "name": "बकलावा"
+        },
+        "ur": {
+          "name": "بقلاوہ"
+        },
+        "fa": {
+          "name": "باقلوا"
+        },
+        "pt": {
+          "name": "Baklava"
         }
       }
     },
@@ -44,40 +74,40 @@
           "name": "Cakes"
         },
         "ar": {
-          "name": ""
+          "name": "كيك"
         },
         "de": {
           "name": "Torten"
         },
         "fr": {
-          "name": ""
+          "name": "Gâteaux"
         },
         "it": {
           "name": "Torte"
         },
         "es": {
-          "name": ""
+          "name": "Tartas"
         },
         "ru": {
-          "name": ""
+          "name": "Торты"
         },
         "zh-CN": {
-          "name": ""
+          "name": "蛋糕"
         },
         "ja": {
-          "name": ""
+          "name": "ケーキ"
         },
         "hi": {
-          "name": ""
+          "name": "केक"
         },
         "ur": {
-          "name": ""
+          "name": "کیک"
         },
         "fa": {
-          "name": ""
+          "name": "کیک‌ها"
         },
         "pt": {
-          "name": ""
+          "name": "Bolos"
         }
       }
     },
@@ -156,6 +186,36 @@
         },
         "it": {
           "name": "Kadayif"
+        },
+        "ar": {
+          "name": "كاداييف"
+        },
+        "fr": {
+          "name": "Kadayif"
+        },
+        "es": {
+          "name": "Kadayif"
+        },
+        "ru": {
+          "name": "Кадаиф"
+        },
+        "zh-CN": {
+          "name": "卡达伊夫"
+        },
+        "ja": {
+          "name": "カダイフ"
+        },
+        "hi": {
+          "name": "कदायिफ"
+        },
+        "ur": {
+          "name": "قدایف"
+        },
+        "fa": {
+          "name": "کادایف"
+        },
+        "pt": {
+          "name": "Kadayif"
         }
       }
     },
@@ -176,6 +236,36 @@
           "name": "Trileçe"
         },
         "it": {
+          "name": "Trileçe"
+        },
+        "ar": {
+          "name": "تريليتشا"
+        },
+        "fr": {
+          "name": "Trileçe"
+        },
+        "es": {
+          "name": "Trileçe"
+        },
+        "ru": {
+          "name": "Трилече"
+        },
+        "zh-CN": {
+          "name": "Trileçe三奶蛋糕"
+        },
+        "ja": {
+          "name": "トリレチェ"
+        },
+        "hi": {
+          "name": "त्रिलेचे"
+        },
+        "ur": {
+          "name": "تریلیچے"
+        },
+        "fa": {
+          "name": "تریلیچه"
+        },
+        "pt": {
           "name": "Trileçe"
         }
       }
@@ -203,6 +293,36 @@
         },
         "it": {
           "name": "Lokum"
+        },
+        "ar": {
+          "name": "راحة الحلقوم"
+        },
+        "fr": {
+          "name": "Loukoum"
+        },
+        "es": {
+          "name": "Delicia turca"
+        },
+        "ru": {
+          "name": "Лукум"
+        },
+        "zh-CN": {
+          "name": "土耳其软糖"
+        },
+        "ja": {
+          "name": "ロクム"
+        },
+        "hi": {
+          "name": "तुर्की डिलाइट"
+        },
+        "ur": {
+          "name": "ترکش ڈیلائٹ"
+        },
+        "fa": {
+          "name": "راحت‌الحلقوم"
+        },
+        "pt": {
+          "name": "Delícia turca"
         }
       }
     }
@@ -224,6 +344,36 @@
         },
         "it": {
           "name": "Baklava alle noci"
+        },
+        "ar": {
+          "name": "بقلاوة — جوز"
+        },
+        "fr": {
+          "name": "Baklava — noix"
+        },
+        "es": {
+          "name": "Baklava — nuez"
+        },
+        "ru": {
+          "name": "Баклава — грецкий орех"
+        },
+        "zh-CN": {
+          "name": "巴克拉瓦 — 核桃"
+        },
+        "ja": {
+          "name": "バクラヴァ — クルミ"
+        },
+        "hi": {
+          "name": "बकलावा — अखरोट"
+        },
+        "ur": {
+          "name": "بقلاوہ — اخروٹ"
+        },
+        "fa": {
+          "name": "باقلوا — گردو"
+        },
+        "pt": {
+          "name": "Baklava — noz"
         }
       }
     },
@@ -243,6 +393,36 @@
         },
         "it": {
           "name": "Baklava al pistacchio"
+        },
+        "ar": {
+          "name": "بقلاوة — فستق حلبي"
+        },
+        "fr": {
+          "name": "Baklava — pistache"
+        },
+        "es": {
+          "name": "Baklava — pistacho"
+        },
+        "ru": {
+          "name": "Баклава — фисташки"
+        },
+        "zh-CN": {
+          "name": "巴克拉瓦 — 开心果"
+        },
+        "ja": {
+          "name": "バクラヴァ — ピスタチオ"
+        },
+        "hi": {
+          "name": "बकलावा — पिस्ता"
+        },
+        "ur": {
+          "name": "بقلاوہ — پستہ"
+        },
+        "fa": {
+          "name": "باقلوا — پسته"
+        },
+        "pt": {
+          "name": "Baklava — pistácio"
         }
       }
     },
@@ -258,40 +438,40 @@
           "name": "Pistachio Cakes"
         },
         "ar": {
-          "name": ""
+          "name": "كيك الفستق الحلبي"
         },
         "de": {
           "name": "Pistazientorten"
         },
         "fr": {
-          "name": ""
+          "name": "Gâteaux à la pistache"
         },
         "it": {
           "name": "Torte al pistacchio"
         },
         "es": {
-          "name": ""
+          "name": "Tartas de pistacho"
         },
         "ru": {
-          "name": ""
+          "name": "Фисташковые торты"
         },
         "zh-CN": {
-          "name": ""
+          "name": "开心果蛋糕"
         },
         "ja": {
-          "name": ""
+          "name": "ピスタチオケーキ"
         },
         "hi": {
-          "name": ""
+          "name": "पिस्ता केक"
         },
         "ur": {
-          "name": ""
+          "name": "پستہ کیک"
         },
         "fa": {
-          "name": ""
+          "name": "کیک‌های پسته‌ای"
         },
         "pt": {
-          "name": ""
+          "name": "Bolos de pistácio"
         }
       }
     },
@@ -307,40 +487,40 @@
           "name": "Banana Cakes"
         },
         "ar": {
-          "name": ""
+          "name": "كيك الموز"
         },
         "de": {
           "name": "Bananentorten"
         },
         "fr": {
-          "name": ""
+          "name": "Gâteaux à la banane"
         },
         "it": {
           "name": "Torte alla banana"
         },
         "es": {
-          "name": ""
+          "name": "Tartas de plátano"
         },
         "ru": {
-          "name": ""
+          "name": "Торты с бананом"
         },
         "zh-CN": {
-          "name": ""
+          "name": "香蕉蛋糕"
         },
         "ja": {
-          "name": ""
+          "name": "バナナケーキ"
         },
         "hi": {
-          "name": ""
+          "name": "केले के केक"
         },
         "ur": {
-          "name": ""
+          "name": "کیلے کے کیک"
         },
         "fa": {
-          "name": ""
+          "name": "کیک‌های موزی"
         },
         "pt": {
-          "name": ""
+          "name": "Bolos de banana"
         }
       }
     },
@@ -356,40 +536,40 @@
           "name": "Biscuit Cakes"
         },
         "ar": {
-          "name": ""
+          "name": "كيك البسكويت"
         },
         "de": {
           "name": "Kekstorten"
         },
         "fr": {
-          "name": ""
+          "name": "Gâteaux aux biscuits"
         },
         "it": {
           "name": "Torte ai biscotti"
         },
         "es": {
-          "name": ""
+          "name": "Tartas de galleta"
         },
         "ru": {
-          "name": ""
+          "name": "Торты с печеньем"
         },
         "zh-CN": {
-          "name": ""
+          "name": "饼干蛋糕"
         },
         "ja": {
-          "name": ""
+          "name": "ビスケットケーキ"
         },
         "hi": {
-          "name": ""
+          "name": "बिस्कुट केक"
         },
         "ur": {
-          "name": ""
+          "name": "بسکٹ کیک"
         },
         "fa": {
-          "name": ""
+          "name": "کیک‌های بیسکویتی"
         },
         "pt": {
-          "name": ""
+          "name": "Bolos de bolacha"
         }
       }
     },
@@ -405,40 +585,40 @@
           "name": "Forest Fruit Cakes"
         },
         "ar": {
-          "name": ""
+          "name": "كيك التوت المشكل"
         },
         "de": {
           "name": "Waldfruchttorten"
         },
         "fr": {
-          "name": ""
+          "name": "Gâteaux aux fruits des bois"
         },
         "it": {
           "name": "Torte ai frutti di bosco"
         },
         "es": {
-          "name": ""
+          "name": "Tartas de frutos del bosque"
         },
         "ru": {
-          "name": ""
+          "name": "Торты с лесными ягодами"
         },
         "zh-CN": {
-          "name": ""
+          "name": "森林莓果蛋糕"
         },
         "ja": {
-          "name": ""
+          "name": "ミックスベリーケーキ"
         },
         "hi": {
-          "name": ""
+          "name": "मिश्रित बेरी केक"
         },
         "ur": {
-          "name": ""
+          "name": "مکس بیری کیک"
         },
         "fa": {
-          "name": ""
+          "name": "کیک‌های میوه‌های جنگلی"
         },
         "pt": {
-          "name": ""
+          "name": "Bolos de frutos silvestres"
         }
       }
     },
@@ -454,40 +634,40 @@
           "name": "Chocolate Cakes"
         },
         "ar": {
-          "name": ""
+          "name": "كيك الشوكولاتة"
         },
         "de": {
           "name": "Schokoladentorten"
         },
         "fr": {
-          "name": ""
+          "name": "Gâteaux au chocolat"
         },
         "it": {
           "name": "Torte al cioccolato"
         },
         "es": {
-          "name": ""
+          "name": "Tartas de chocolate"
         },
         "ru": {
-          "name": ""
+          "name": "Шоколадные торты"
         },
         "zh-CN": {
-          "name": ""
+          "name": "巧克力蛋糕"
         },
         "ja": {
-          "name": ""
+          "name": "チョコレートケーキ"
         },
         "hi": {
-          "name": ""
+          "name": "चॉकलेट केक"
         },
         "ur": {
-          "name": ""
+          "name": "چاکلیٹ کیک"
         },
         "fa": {
-          "name": ""
+          "name": "کیک‌های شکلاتی"
         },
         "pt": {
-          "name": ""
+          "name": "Bolos de chocolate"
         }
       }
     },
@@ -503,40 +683,40 @@
           "name": "Strawberry Cakes"
         },
         "ar": {
-          "name": ""
+          "name": "كيك الفراولة"
         },
         "de": {
           "name": "Erdbeertorten"
         },
         "fr": {
-          "name": ""
+          "name": "Gâteaux à la fraise"
         },
         "it": {
           "name": "Torte alle fragole"
         },
         "es": {
-          "name": ""
+          "name": "Tartas de fresa"
         },
         "ru": {
-          "name": ""
+          "name": "Клубничные торты"
         },
         "zh-CN": {
-          "name": ""
+          "name": "草莓蛋糕"
         },
         "ja": {
-          "name": ""
+          "name": "ストロベリーケーキ"
         },
         "hi": {
-          "name": ""
+          "name": "स्ट्रॉबेरी केक"
         },
         "ur": {
-          "name": ""
+          "name": "اسٹرابیری کیک"
         },
         "fa": {
-          "name": ""
+          "name": "کیک‌های توت‌فرنگی"
         },
         "pt": {
-          "name": ""
+          "name": "Bolos de morango"
         }
       }
     },
@@ -552,40 +732,40 @@
           "name": "Mixed Fruit Cakes"
         },
         "ar": {
-          "name": ""
+          "name": "كيك الفواكه المشكلة"
         },
         "de": {
           "name": "Gemischte Fruchttorten"
         },
         "fr": {
-          "name": ""
+          "name": "Gâteaux aux fruits variés"
         },
         "it": {
           "name": "Torte alla frutta mista"
         },
         "es": {
-          "name": ""
+          "name": "Tartas de frutas variadas"
         },
         "ru": {
-          "name": ""
+          "name": "Торты с ассорти фруктов"
         },
         "zh-CN": {
-          "name": ""
+          "name": "混合水果蛋糕"
         },
         "ja": {
-          "name": ""
+          "name": "ミックスフルーツケーキ"
         },
         "hi": {
-          "name": ""
+          "name": "मिश्रित फलों के केक"
         },
         "ur": {
-          "name": ""
+          "name": "مکس پھلوں کے کیک"
         },
         "fa": {
-          "name": ""
+          "name": "کیک‌های میوه‌ای مخلوط"
         },
         "pt": {
-          "name": ""
+          "name": "Bolos de fruta variada"
         }
       }
     },
@@ -601,40 +781,40 @@
           "name": "Raspberry Cakes"
         },
         "ar": {
-          "name": ""
+          "name": "كيك توت العليق"
         },
         "de": {
           "name": "Himbeertorten"
         },
         "fr": {
-          "name": ""
+          "name": "Gâteaux à la framboise"
         },
         "it": {
           "name": "Torte ai lamponi"
         },
         "es": {
-          "name": ""
+          "name": "Tartas de framboesa"
         },
         "ru": {
-          "name": ""
+          "name": "Малиновые торты"
         },
         "zh-CN": {
-          "name": ""
+          "name": "覆盆子蛋糕"
         },
         "ja": {
-          "name": ""
+          "name": "ラズベリーケーキ"
         },
         "hi": {
-          "name": ""
+          "name": "रास्पबेरी केक"
         },
         "ur": {
-          "name": ""
+          "name": "راسبیری کیک"
         },
         "fa": {
-          "name": ""
+          "name": "کیک‌های تمشک"
         },
         "pt": {
-          "name": ""
+          "name": "Bolos de framboesa"
         }
       }
     },
@@ -703,6 +883,36 @@
         },
         "it": {
           "name": "Künefe"
+        },
+        "ar": {
+          "name": "كنافة"
+        },
+        "fr": {
+          "name": "Künefe"
+        },
+        "es": {
+          "name": "Künefe"
+        },
+        "ru": {
+          "name": "Кюнефе"
+        },
+        "zh-CN": {
+          "name": "库纳法"
+        },
+        "ja": {
+          "name": "キュネフェ"
+        },
+        "hi": {
+          "name": "कुनेफ़े"
+        },
+        "ur": {
+          "name": "کنافا"
+        },
+        "fa": {
+          "name": "کنافه"
+        },
+        "pt": {
+          "name": "Künefe"
         }
       }
     },
@@ -722,6 +932,36 @@
         },
         "it": {
           "name": "Kadayif al lokum"
+        },
+        "ar": {
+          "name": "كاداييف بالحلقوم"
+        },
+        "fr": {
+          "name": "Kadayif au loukoum"
+        },
+        "es": {
+          "name": "Kadayif con delicia turca"
+        },
+        "ru": {
+          "name": "Кадаиф с лукумом"
+        },
+        "zh-CN": {
+          "name": "土耳其软糖卡达伊夫"
+        },
+        "ja": {
+          "name": "ロクム入りカダイフ"
+        },
+        "hi": {
+          "name": "तुर्की डिलाइट कदायिफ"
+        },
+        "ur": {
+          "name": "ترکش ڈیلائٹ قدایف"
+        },
+        "fa": {
+          "name": "کادایف راحت‌الحلقوم"
+        },
+        "pt": {
+          "name": "Kadayif com delícia turca"
         }
       }
     },
@@ -741,6 +981,36 @@
         },
         "it": {
           "name": "Kadayif alle noci"
+        },
+        "ar": {
+          "name": "كاداييف بالجوز"
+        },
+        "fr": {
+          "name": "Kadayif aux noix"
+        },
+        "es": {
+          "name": "Kadayif de nueces"
+        },
+        "ru": {
+          "name": "Кадаиф с грецкими орехами"
+        },
+        "zh-CN": {
+          "name": "核桃卡达伊夫"
+        },
+        "ja": {
+          "name": "クルミのカダイフ"
+        },
+        "hi": {
+          "name": "अखरोट कदायिफ"
+        },
+        "ur": {
+          "name": "اخروٹ قدایف"
+        },
+        "fa": {
+          "name": "کادایف گردویی"
+        },
+        "pt": {
+          "name": "Kadayif de noz"
         }
       }
     },
@@ -760,6 +1030,36 @@
         },
         "it": {
           "name": "Kadayif al pistacchio"
+        },
+        "ar": {
+          "name": "كاداييف — فستق حلبي"
+        },
+        "fr": {
+          "name": "Kadayif — pistache"
+        },
+        "es": {
+          "name": "Kadayif — pistacho"
+        },
+        "ru": {
+          "name": "Кадаиф — фисташки"
+        },
+        "zh-CN": {
+          "name": "卡达伊夫 — 开心果"
+        },
+        "ja": {
+          "name": "カダイフ — ピスタチオ"
+        },
+        "hi": {
+          "name": "कदायिफ — पिस्ता"
+        },
+        "ur": {
+          "name": "قدایف — پستہ"
+        },
+        "fa": {
+          "name": "کادایف — پسته"
+        },
+        "pt": {
+          "name": "Kadayif — pistácio"
         }
       }
     },
@@ -778,6 +1078,36 @@
           "name": "Trileçe"
         },
         "it": {
+          "name": "Trileçe"
+        },
+        "ar": {
+          "name": "تريليتشا"
+        },
+        "fr": {
+          "name": "Trileçe"
+        },
+        "es": {
+          "name": "Trileçe"
+        },
+        "ru": {
+          "name": "Трилече"
+        },
+        "zh-CN": {
+          "name": "Trileçe三奶蛋糕"
+        },
+        "ja": {
+          "name": "トリレチェ"
+        },
+        "hi": {
+          "name": "त्रिलेचे"
+        },
+        "ur": {
+          "name": "تریلیچے"
+        },
+        "fa": {
+          "name": "تریلیچه"
+        },
+        "pt": {
           "name": "Trileçe"
         }
       }
@@ -847,6 +1177,36 @@
         },
         "it": {
           "name": "Lokum Sultan"
+        },
+        "ar": {
+          "name": "حلقوم السلطان"
+        },
+        "fr": {
+          "name": "Loukoum Sultan"
+        },
+        "es": {
+          "name": "Delicia turca Sultán"
+        },
+        "ru": {
+          "name": "Лукум «Султан»"
+        },
+        "zh-CN": {
+          "name": "苏丹土耳其软糖"
+        },
+        "ja": {
+          "name": "スルタンロクム"
+        },
+        "hi": {
+          "name": "सुल्तान तुर्की डिलाइट"
+        },
+        "ur": {
+          "name": "سلطان ترکش ڈیلائٹ"
+        },
+        "fa": {
+          "name": "راحت‌الحلقوم سلطان"
+        },
+        "pt": {
+          "name": "Delícia turca Sultão"
         }
       }
     },
@@ -866,6 +1226,36 @@
         },
         "it": {
           "name": "Lokum aromatizzato"
+        },
+        "ar": {
+          "name": "حلقوم بنكهات متنوعة"
+        },
+        "fr": {
+          "name": "Loukoums aromatisés"
+        },
+        "es": {
+          "name": "Delicias turcas aromatizadas"
+        },
+        "ru": {
+          "name": "Ароматизированный лукум"
+        },
+        "zh-CN": {
+          "name": "风味土耳其软糖"
+        },
+        "ja": {
+          "name": "フレーバーロクム"
+        },
+        "hi": {
+          "name": "फ्लेवर वाला तुर्की डिलाइट"
+        },
+        "ur": {
+          "name": "ذائقہ دار ترکش ڈیلائٹ"
+        },
+        "fa": {
+          "name": "راحت‌الحلقوم طعم‌دار"
+        },
+        "pt": {
+          "name": "Delícias turcas aromatizadas"
         }
       }
     },
@@ -885,6 +1275,36 @@
         },
         "it": {
           "name": "Lokum al croccante"
+        },
+        "ar": {
+          "name": "حلقوم كروكان"
+        },
+        "fr": {
+          "name": "Loukoum à la nougatine"
+        },
+        "es": {
+          "name": "Delicia turca crocante"
+        },
+        "ru": {
+          "name": "Лукум с грильяжем"
+        },
+        "zh-CN": {
+          "name": "脆糖土耳其软糖"
+        },
+        "ja": {
+          "name": "ブリトルロクム"
+        },
+        "hi": {
+          "name": "ब्रिटल तुर्की डिलाइट"
+        },
+        "ur": {
+          "name": "برٹل ترکش ڈیلائٹ"
+        },
+        "fa": {
+          "name": "راحت‌الحلقوم کروکان"
+        },
+        "pt": {
+          "name": "Delícia turca crocante"
         }
       }
     },
@@ -904,6 +1324,36 @@
         },
         "it": {
           "name": "Lokum a doppia tostatura"
+        },
+        "ar": {
+          "name": "حلقوم محمص مرتين"
+        },
+        "fr": {
+          "name": "Loukoums doublement torréfiés"
+        },
+        "es": {
+          "name": "Delicias turcas de doble tueste"
+        },
+        "ru": {
+          "name": "Лукум двойной обжарки"
+        },
+        "zh-CN": {
+          "name": "双重烘烤土耳其软糖"
+        },
+        "ja": {
+          "name": "二度焙煎ロクム"
+        },
+        "hi": {
+          "name": "दो बार भुना तुर्की डिलाइट"
+        },
+        "ur": {
+          "name": "دو بار بھنا ترکش ڈیلائٹ"
+        },
+        "fa": {
+          "name": "راحت‌الحلقوم دوبار برشته"
+        },
+        "pt": {
+          "name": "Delícias turcas de dupla torrefação"
         }
       }
     },
@@ -1021,6 +1471,36 @@
         },
         "it": {
           "name": "Lokum Duble"
+        },
+        "ar": {
+          "name": "حلقوم دوبل"
+        },
+        "fr": {
+          "name": "Loukoum Duble"
+        },
+        "es": {
+          "name": "Delicia turca Duble"
+        },
+        "ru": {
+          "name": "Лукум «Дубле»"
+        },
+        "zh-CN": {
+          "name": "Duble土耳其软糖"
+        },
+        "ja": {
+          "name": "ドゥブレ・ロクム"
+        },
+        "hi": {
+          "name": "डबल तुर्की डिलाइट"
+        },
+        "ur": {
+          "name": "ڈبل ترکش ڈیلائٹ"
+        },
+        "fa": {
+          "name": "راحت‌الحلقوم دوبل"
+        },
+        "pt": {
+          "name": "Delícia turca Duble"
         }
       }
     },
@@ -1040,6 +1520,36 @@
         },
         "it": {
           "name": "Rotoli di lokum"
+        },
+        "ar": {
+          "name": "لفائف الحلقوم"
+        },
+        "fr": {
+          "name": "Roulés de loukoum"
+        },
+        "es": {
+          "name": "Rollos de delicia turca"
+        },
+        "ru": {
+          "name": "Рулеты из лукума"
+        },
+        "zh-CN": {
+          "name": "土耳其软糖卷"
+        },
+        "ja": {
+          "name": "ロクムロール"
+        },
+        "hi": {
+          "name": "तुर्की डिलाइट रोल"
+        },
+        "ur": {
+          "name": "ترکش ڈیلائٹ رول"
+        },
+        "fa": {
+          "name": "رول‌های راحت‌الحلقوم"
+        },
+        "pt": {
+          "name": "Rolos de delícia turca"
         }
       }
     }

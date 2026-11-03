@@ -2,5 +2,960 @@
   "schemaVersion": 1,
   "categoryId": "pastalar",
   "language": "es",
-  "products": {}
+  "products": {
+    "usta-1613100": {
+      "name": "Historia de Estambul",
+      "description": "Dulces capas de pistachos de Antep, inspiradas en el emblemático baklava.",
+      "ingredients": "bizcocho, baklava de pistacho, almíbar de naranja, crema de chocolate blanco, crema de pistacho, pistachos.",
+      "allergenInfo": "Contiene: gluten, huevos, productos lácteos y pistachos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "",
+        "note": ""
+      },
+      "variants": {
+        "1613.10001": {
+          "label": "Porción",
+          "description": "Dulces capas de pistachos de Antep, inspiradas en el emblemático baklava.",
+          "weight": "350 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho, baklava de pistacho, almíbar de naranja, crema de chocolate blanco, crema de pistacho, pistachos.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y pistachos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1613.10002": {
+          "label": "Tarta entera",
+          "description": "Dulces capas de pistachos de Antep, inspiradas en el emblemático baklava.",
+          "weight": "2100 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho, baklava de pistacho, almíbar de naranja, crema de chocolate blanco, crema de pistacho, pistachos.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y pistachos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1615100": {
+      "name": "Perla blanca",
+      "description": "Avellanas intensas se unen a plátano fresco y caramelo sedoso.",
+      "ingredients": "bizcocho, almíbar de naranja, crema de chocolate blanco, plátano, avellanas, relleno de caramelo, salsa de chocolate blanco.",
+      "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t292 kcal / 1221.7 kJ\r\nGrasas\t18 g\r\nGrasas saturadas\t8.7 g\r\nHidratos de carbono\t27.5 g\r\nAzúcares\t15.1 g\r\nFibra\t1.8 g\r\nProteínas\t4.3 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1615.10001": {
+          "label": "Porción",
+          "description": "Avellanas intensas se unen a plátano fresco y caramelo sedoso.",
+          "weight": "395 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho, almíbar de naranja, crema de chocolate blanco, plátano, avellanas, relleno de caramelo, salsa de chocolate blanco.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t292 kcal / 1221.7 kJ\r\nGrasas\t18 g\r\nGrasas saturadas\t8.7 g\r\nHidratos de carbono\t27.5 g\r\nAzúcares\t15.1 g\r\nFibra\t1.8 g\r\nProteínas\t4.3 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1615.10002": {
+          "label": "Tarta entera",
+          "description": "Avellanas intensas se unen a plátano fresco y caramelo sedoso.",
+          "weight": "2370 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho, almíbar de naranja, crema de chocolate blanco, plátano, avellanas, relleno de caramelo, salsa de chocolate blanco.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t292 kcal / 1221.7 kJ\r\nGrasas\t18 g\r\nGrasas saturadas\t8.7 g\r\nHidratos de carbono\t27.5 g\r\nAzúcares\t15.1 g\r\nFibra\t1.8 g\r\nProteínas\t4.3 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1610100": {
+      "name": "Torre Lotus",
+      "description": "El sabor distintivo de las galletas Lotus en cada bocado.",
+      "ingredients": "bizcocho, almíbar de naranja, crema pastelera, crema Lotus, galletas Lotus.",
+      "allergenInfo": "Contiene: gluten, huevos, productos lácteos y soja.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t407.5 kcal / 1705 kJ\r\nGrasas\t26.4 g\r\nGrasas saturadas\t12.7 g\r\nHidratos de carbono\t38.4 g\r\nAzúcares\t14.4 g\r\nFibra\t0.7 g\r\nProteínas\t4.1 g\r\nSal\t0.3 g",
+        "note": ""
+      },
+      "variants": {
+        "1610.10001": {
+          "label": "Porción",
+          "description": "El sabor distintivo de las galletas Lotus en cada bocado.",
+          "weight": "390 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho, almíbar de naranja, crema pastelera, crema Lotus, galletas Lotus.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y soja.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t407.5 kcal / 1705 kJ\r\nGrasas\t26.4 g\r\nGrasas saturadas\t12.7 g\r\nHidratos de carbono\t38.4 g\r\nAzúcares\t14.4 g\r\nFibra\t0.7 g\r\nProteínas\t4.1 g\r\nSal\t0.3 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1610.10002": {
+          "label": "Tarta entera",
+          "description": "El sabor distintivo de las galletas Lotus en cada bocado.",
+          "weight": "2340 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho, almíbar de naranja, crema pastelera, crema Lotus, galletas Lotus.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y soja.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t407.5 kcal / 1705 kJ\r\nGrasas\t26.4 g\r\nGrasas saturadas\t12.7 g\r\nHidratos de carbono\t38.4 g\r\nAzúcares\t14.4 g\r\nFibra\t0.7 g\r\nProteínas\t4.1 g\r\nSal\t0.3 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1616100": {
+      "name": "Magia del Amazonas",
+      "description": "Una rica combinación de frutos del bosque y chocolate.",
+      "ingredients": "bizcocho de cacao, almíbar de café, crema de chocolate blanco, frutos del bosque (arándanos, moras, madroños, uvas negras, frambuesas, fresas), relleno de frutos del bosque, salsa de chocolate.",
+      "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t290.1 kcal / 1213.9 kJ\r\nGrasas\t12.8 g\r\nGrasas saturadas\t6.2 g\r\nHidratos de carbono\t39.5 g\r\nAzúcares\t26 g\r\nFibra\t2.4 g\r\nProteínas\t4.2 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1616.10001": {
+          "label": "Porción",
+          "description": "Una rica combinación de frutos del bosque y chocolate.",
+          "weight": "380 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho de cacao, almíbar de café, crema de chocolate blanco, frutos del bosque (arándanos, moras, madroños, uvas negras, frambuesas, fresas), relleno de frutos del bosque, salsa de chocolate.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t290.1 kcal / 1213.9 kJ\r\nGrasas\t12.8 g\r\nGrasas saturadas\t6.2 g\r\nHidratos de carbono\t39.5 g\r\nAzúcares\t26 g\r\nFibra\t2.4 g\r\nProteínas\t4.2 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1616.10002": {
+          "label": "Tarta entera",
+          "description": "Una rica combinación de frutos del bosque y chocolate.",
+          "weight": "2280 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho de cacao, almíbar de café, crema de chocolate blanco, frutos del bosque (arándanos, moras, madroños, uvas negras, frambuesas, fresas), relleno de frutos del bosque, salsa de chocolate.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t290.1 kcal / 1213.9 kJ\r\nGrasas\t12.8 g\r\nGrasas saturadas\t6.2 g\r\nHidratos de carbono\t39.5 g\r\nAzúcares\t26 g\r\nFibra\t2.4 g\r\nProteínas\t4.2 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        }
+      }
+    },
+    "usta-1615102": {
+      "name": "Amor infinito",
+      "description": "Una deliciosa combinación de chocolate intenso y plátanos.",
+      "ingredients": "bizcocho de cacao, bizcocho de cacao y avellanas, almíbar de café, crema de chocolate blanco, crema de chocolate negro, plátano, trozos de chocolate con leche.",
+      "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t275.1 kcal / 1151 kJ\r\nGrasas\t14.8 g\r\nGrasas saturadas\t6.9 g\r\nHidratos de carbono\t30.9 g\r\nAzúcares\t20.5 g\r\nFibra\t1.7 g\r\nProteínas\t4.6 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1615.10201": {
+          "label": "Porción",
+          "description": "Una deliciosa combinación de chocolate intenso y plátanos.",
+          "weight": "355 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho de cacao, bizcocho de cacao y avellanas, almíbar de café, crema de chocolate blanco, crema de chocolate negro, plátano, trozos de chocolate con leche.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t275.1 kcal / 1151 kJ\r\nGrasas\t14.8 g\r\nGrasas saturadas\t6.9 g\r\nHidratos de carbono\t30.9 g\r\nAzúcares\t20.5 g\r\nFibra\t1.7 g\r\nProteínas\t4.6 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1615.10202": {
+          "label": "Tarta entera",
+          "description": "Una deliciosa combinación de chocolate intenso y plátanos.",
+          "weight": "2130 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho de cacao, bizcocho de cacao y avellanas, almíbar de café, crema de chocolate blanco, crema de chocolate negro, plátano, trozos de chocolate con leche.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t275.1 kcal / 1151 kJ\r\nGrasas\t14.8 g\r\nGrasas saturadas\t6.9 g\r\nHidratos de carbono\t30.9 g\r\nAzúcares\t20.5 g\r\nFibra\t1.7 g\r\nProteínas\t4.6 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1611100": {
+      "name": "Diplomático",
+      "description": "Bizcocho de chocolate con el delicioso crujir del crocante caramelizado.",
+      "ingredients": "bizcocho de cacao, almíbar de café, crema de ganache de chocolate, salsa de chocolate y avellanas, crocante de frutos secos (pistachos, almendras, avellanas), trozos de chocolate con leche.",
+      "allergenInfo": "Contiene: gluten, huevos, productos lácteos, avellanas, pistachos y almendras.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t350.9 kcal / 1468.2 kJ\r\nGrasas\t24.5 g\r\nGrasas saturadas\t13.7 g\r\nHidratos de carbono\t28 g\r\nAzúcares\t20.4 g\r\nFibra\t1.7 g\r\nProteínas\t4.7 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10001": {
+          "label": "Porción",
+          "description": "Bizcocho de chocolate con el delicioso crujir del crocante caramelizado.",
+          "weight": "305 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho de cacao, almíbar de café, crema de ganache de chocolate, salsa de chocolate y avellanas, crocante de frutos secos (pistachos, almendras, avellanas), trozos de chocolate con leche.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos, avellanas, pistachos y almendras.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t350.9 kcal / 1468.2 kJ\r\nGrasas\t24.5 g\r\nGrasas saturadas\t13.7 g\r\nHidratos de carbono\t28 g\r\nAzúcares\t20.4 g\r\nFibra\t1.7 g\r\nProteínas\t4.7 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1611.10002": {
+          "label": "Tarta entera",
+          "description": "Bizcocho de chocolate con el delicioso crujir del crocante caramelizado.",
+          "weight": "1830 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho de cacao, almíbar de café, crema de ganache de chocolate, salsa de chocolate y avellanas, crocante de frutos secos (pistachos, almendras, avellanas), trozos de chocolate con leche.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos, avellanas, pistachos y almendras.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t350.9 kcal / 1468.2 kJ\r\nGrasas\t24.5 g\r\nGrasas saturadas\t13.7 g\r\nHidratos de carbono\t28 g\r\nAzúcares\t20.4 g\r\nFibra\t1.7 g\r\nProteínas\t4.7 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1611103": {
+      "name": "Último amor",
+      "description": "El sabor de la fresa se une a la riqueza del chocolate con leche.",
+      "ingredients": "bizcocho de cacao, bizcocho de cacao y avellanas, almíbar de café, crema de chocolate blanco, crema de chocolate negro, fresas frescas, trozos de chocolate con leche.",
+      "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t268.4 kcal / 1122.8 kJ\r\nGrasas\t15.5 g\r\nGrasas saturadas\t7.4 g\r\nHidratos de carbono\t27.5 g\r\nAzúcares\t21.2 g\r\nFibra\t1.8 g\r\nProteínas\t4.7 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10301": {
+          "label": "Porción",
+          "description": "El sabor de la fresa se une a la riqueza del chocolate con leche.",
+          "weight": "350 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho de cacao, bizcocho de cacao y avellanas, almíbar de café, crema de chocolate blanco, crema de chocolate negro, fresas frescas, trozos de chocolate con leche.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t268.4 kcal / 1122.8 kJ\r\nGrasas\t15.5 g\r\nGrasas saturadas\t7.4 g\r\nHidratos de carbono\t27.5 g\r\nAzúcares\t21.2 g\r\nFibra\t1.8 g\r\nProteínas\t4.7 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1611.10302": {
+          "label": "Tarta entera",
+          "description": "El sabor de la fresa se une a la riqueza del chocolate con leche.",
+          "weight": "2100 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho de cacao, bizcocho de cacao y avellanas, almíbar de café, crema de chocolate blanco, crema de chocolate negro, fresas frescas, trozos de chocolate con leche.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t268.4 kcal / 1122.8 kJ\r\nGrasas\t15.5 g\r\nGrasas saturadas\t7.4 g\r\nHidratos de carbono\t27.5 g\r\nAzúcares\t21.2 g\r\nFibra\t1.8 g\r\nProteínas\t4.7 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1616101": {
+      "name": "Historia del Amazonas",
+      "description": "El chocolate blanco se une a los frutos del bosque.",
+      "ingredients": "bizcocho, almíbar de naranja, crema de chocolate blanco, frutos del bosque (arándanos, madroños, uvas negras, moras, frambuesas, fresas), relleno de frutos del bosque, salsa de chocolate blanco.",
+      "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t269.6 kcal / 1128 kJ\r\nGrasas\t18 g\r\nGrasas saturadas\t12.7 g\r\nHidratos de carbono\t23.6 g\r\nAzúcares\t21.7 g\r\nFibra\t1.1 g\r\nProteínas\t3.2 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1616.10101": {
+          "label": "Porción",
+          "description": "El chocolate blanco se une a los frutos del bosque.",
+          "weight": "375 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho, almíbar de naranja, crema de chocolate blanco, frutos del bosque (arándanos, madroños, uvas negras, moras, frambuesas, fresas), relleno de frutos del bosque, salsa de chocolate blanco.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t269.6 kcal / 1128 kJ\r\nGrasas\t18 g\r\nGrasas saturadas\t12.7 g\r\nHidratos de carbono\t23.6 g\r\nAzúcares\t21.7 g\r\nFibra\t1.1 g\r\nProteínas\t3.2 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1616.10102": {
+          "label": "Tarta entera",
+          "description": "El chocolate blanco se une a los frutos del bosque.",
+          "weight": "2250 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho, almíbar de naranja, crema de chocolate blanco, frutos del bosque (arándanos, madroños, uvas negras, moras, frambuesas, fresas), relleno de frutos del bosque, salsa de chocolate blanco.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t269.6 kcal / 1128 kJ\r\nGrasas\t18 g\r\nGrasas saturadas\t12.7 g\r\nHidratos de carbono\t23.6 g\r\nAzúcares\t21.7 g\r\nFibra\t1.1 g\r\nProteínas\t3.2 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1615101": {
+      "name": "Gran amor",
+      "description": "Un descubrimiento dulce, exótico y reconfortante de plátano y nata.",
+      "ingredients": "bizcocho, bizcocho de avellanas, almíbar de naranja, crema de chocolate blanco, plátano, gelatina de caramelo.",
+      "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t278 kcal / 1163.1 kJ\r\nGrasas\t16.1 g\r\nGrasas saturadas\t9.3 g\r\nHidratos de carbono\t29.2 g\r\nAzúcares\t19.2 g\r\nFibra\t1.2 g\r\nProteínas\t4.2 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1615.10101": {
+          "label": "Tarta entera",
+          "description": "Un descubrimiento dulce, exótico y reconfortante de plátano y nata.",
+          "weight": "2100 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho, bizcocho de avellanas, almíbar de naranja, crema de chocolate blanco, plátano, gelatina de caramelo.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t278 kcal / 1163.1 kJ\r\nGrasas\t16.1 g\r\nGrasas saturadas\t9.3 g\r\nHidratos de carbono\t29.2 g\r\nAzúcares\t19.2 g\r\nFibra\t1.2 g\r\nProteínas\t4.2 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        },
+        "1615.10102": {
+          "label": "Porción",
+          "description": "Un descubrimiento dulce, exótico y reconfortante de plátano y nata.",
+          "weight": "350 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho, bizcocho de avellanas, almíbar de naranja, crema de chocolate blanco, plátano, gelatina de caramelo.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t278 kcal / 1163.1 kJ\r\nGrasas\t16.1 g\r\nGrasas saturadas\t9.3 g\r\nHidratos de carbono\t29.2 g\r\nAzúcares\t19.2 g\r\nFibra\t1.2 g\r\nProteínas\t4.2 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        }
+      }
+    },
+    "usta-1612101": {
+      "name": "Primer amor",
+      "description": "Un postre refinado que realza las fresas de temporada.",
+      "ingredients": "bizcocho, bizcocho de avellanas, almíbar de naranja, crema de chocolate blanco, fresas frescas, glaseado para tarta.",
+      "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energía 350.3 kcal / 1465.7 kJ; Grasas 21.3 g; Grasas saturadas 12.6 g; Hidratos de carbono 34.6 g; Azúcares 26.2 g; Fibra 1.1 g; Proteínas 5.1 g; Sal 0.2 g.",
+        "note": ""
+      },
+      "variants": {
+        "1612.10101": {
+          "label": "Porción",
+          "description": "Un postre refinado que realza las fresas de temporada.",
+          "weight": "350 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho, bizcocho de avellanas, almíbar de naranja, crema de chocolate blanco, fresas frescas, glaseado para tarta.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 350.3 kcal / 1465.7 kJ; Grasas 21.3 g; Grasas saturadas 12.6 g; Hidratos de carbono 34.6 g; Azúcares 26.2 g; Fibra 1.1 g; Proteínas 5.1 g; Sal 0.2 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1612.10102": {
+          "label": "Tarta entera",
+          "description": "Un postre refinado que realza las fresas de temporada.",
+          "weight": "2100 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho, bizcocho de avellanas, almíbar de naranja, crema de chocolate blanco, fresas frescas, glaseado para tarta.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y avellanas.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 350.3 kcal / 1465.7 kJ; Grasas 21.3 g; Grasas saturadas 12.6 g; Hidratos de carbono 34.6 g; Azúcares 26.2 g; Fibra 1.1 g; Proteínas 5.1 g; Sal 0.2 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1617101": {
+      "name": "Jardín de frutas",
+      "description": "Un descubrimiento de sabores tropicales con frutas envueltas en bizcocho.",
+      "ingredients": "bizcocho, almíbar de naranja, crema pastelera, frutas variadas (melocotones, kiwi, piña, fresas, uvas negras, madroños, granada, naranja, higos, melón), glaseado para tarta.",
+      "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t241.9 kcal / 1012.1 kJ\r\nGrasas\t15.3 g\r\nGrasas saturadas\t10.8 g\r\nHidratos de carbono\t23.2 g\r\nAzúcares\t13.8 g\r\nFibra\t1.2 g\r\nProteínas\t2.8 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1617.10101": {
+          "label": "Porción",
+          "description": "Un descubrimiento de sabores tropicales con frutas envueltas en bizcocho.",
+          "weight": "390 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho, almíbar de naranja, crema pastelera, frutas variadas (melocotones, kiwi, piña, fresas, uvas negras, madroños, granada, naranja, higos, melón), glaseado para tarta.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t241.9 kcal / 1012.1 kJ\r\nGrasas\t15.3 g\r\nGrasas saturadas\t10.8 g\r\nHidratos de carbono\t23.2 g\r\nAzúcares\t13.8 g\r\nFibra\t1.2 g\r\nProteínas\t2.8 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1617.10102": {
+          "label": "Tarta entera",
+          "description": "Un descubrimiento de sabores tropicales con frutas envueltas en bizcocho.",
+          "weight": "2340 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho, almíbar de naranja, crema pastelera, frutas variadas (melocotones, kiwi, piña, fresas, uvas negras, madroños, granada, naranja, higos, melón), glaseado para tarta.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t241.9 kcal / 1012.1 kJ\r\nGrasas\t15.3 g\r\nGrasas saturadas\t10.8 g\r\nHidratos de carbono\t23.2 g\r\nAzúcares\t13.8 g\r\nFibra\t1.2 g\r\nProteínas\t2.8 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1617100": {
+      "name": "Jardín de frutas y chocolate",
+      "description": "Una celebración visual de frutas llenas de color.",
+      "ingredients": "bizcocho de cacao, almíbar de café, crema pastelera, frutas variadas (melocotones, kiwi, piña, fresas, uvas negras, madroños, granada, naranja, higos, melón), glaseado para tarta.",
+      "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t231.3 kcal / 967.6 kJ\r\nGrasas\t13 g\r\nGrasas saturadas\t8.5 g\r\nHidratos de carbono\t25.9 g\r\nAzúcares\t15.2 g\r\nFibra\t1.7 g\r\nProteínas\t2.7 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1617.10001": {
+          "label": "Porción",
+          "description": "Una celebración visual de frutas llenas de color.",
+          "weight": "390 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho de cacao, almíbar de café, crema pastelera, frutas variadas (melocotones, kiwi, piña, fresas, uvas negras, madroños, granada, naranja, higos, melón), glaseado para tarta.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t231.3 kcal / 967.6 kJ\r\nGrasas\t13 g\r\nGrasas saturadas\t8.5 g\r\nHidratos de carbono\t25.9 g\r\nAzúcares\t15.2 g\r\nFibra\t1.7 g\r\nProteínas\t2.7 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1617.10002": {
+          "label": "Tarta entera",
+          "description": "Una celebración visual de frutas llenas de color.",
+          "weight": "2340 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho de cacao, almíbar de café, crema pastelera, frutas variadas (melocotones, kiwi, piña, fresas, uvas negras, madroños, granada, naranja, higos, melón), glaseado para tarta.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t231.3 kcal / 967.6 kJ\r\nGrasas\t13 g\r\nGrasas saturadas\t8.5 g\r\nHidratos de carbono\t25.9 g\r\nAzúcares\t15.2 g\r\nFibra\t1.7 g\r\nProteínas\t2.7 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1614101": {
+      "name": "Dulce Ahu",
+      "description": "Una deliciosa tarta con la dulzura cremosa del chocolate blanco.",
+      "ingredients": "bizcocho, tartaleta, almíbar de naranja, crema de chocolate blanco, relleno de frambuesa.",
+      "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t293.1 kcal / 1226.3 kJ\r\nGrasas\t19.5 g\r\nGrasas saturadas\t13.8 g\r\nHidratos de carbono\t26 g\r\nAzúcares\t18.5 g\r\nFibra\t1.3 g\r\nProteínas\t3.4 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1614.10101": {
+          "label": "Porción",
+          "description": "Una deliciosa tarta con la dulzura cremosa del chocolate blanco.",
+          "weight": "330 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho, tartaleta, almíbar de naranja, crema de chocolate blanco, relleno de frambuesa.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t293.1 kcal / 1226.3 kJ\r\nGrasas\t19.5 g\r\nGrasas saturadas\t13.8 g\r\nHidratos de carbono\t26 g\r\nAzúcares\t18.5 g\r\nFibra\t1.3 g\r\nProteínas\t3.4 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1614.10102": {
+          "label": "Tarta entera",
+          "description": "Una deliciosa tarta con la dulzura cremosa del chocolate blanco.",
+          "weight": "1980 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho, tartaleta, almíbar de naranja, crema de chocolate blanco, relleno de frambuesa.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t293.1 kcal / 1226.3 kJ\r\nGrasas\t19.5 g\r\nGrasas saturadas\t13.8 g\r\nHidratos de carbono\t26 g\r\nAzúcares\t18.5 g\r\nFibra\t1.3 g\r\nProteínas\t3.4 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1612102": {
+      "name": "Sueño rosa",
+      "description": "Una experiencia irresistible que reúne dos sabores especiales.",
+      "ingredients": "bizcocho de cacao, almíbar de café, crema de chocolate negro, relleno de fresa, salsa de chocolate negro.",
+      "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t269.3 kcal / 1126.8 kJ\r\nGrasas\t17.7 g\r\nGrasas saturadas\t12.1 g\r\nHidratos de carbono\t24.3 g\r\nAzúcares\t28.1 g\r\nFibra\t1.7 g\r\nProteínas\t3.4 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1612.10201": {
+          "label": "Porción",
+          "description": "Una experiencia irresistible que reúne dos sabores especiales.",
+          "weight": "350 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho de cacao, almíbar de café, crema de chocolate negro, relleno de fresa, salsa de chocolate negro.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t269.3 kcal / 1126.8 kJ\r\nGrasas\t17.7 g\r\nGrasas saturadas\t12.1 g\r\nHidratos de carbono\t24.3 g\r\nAzúcares\t28.1 g\r\nFibra\t1.7 g\r\nProteínas\t3.4 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1612.10202": {
+          "label": "Tarta entera",
+          "description": "Una experiencia irresistible que reúne dos sabores especiales.",
+          "weight": "2100 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho de cacao, almíbar de café, crema de chocolate negro, relleno de fresa, salsa de chocolate negro.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t269.3 kcal / 1126.8 kJ\r\nGrasas\t17.7 g\r\nGrasas saturadas\t12.1 g\r\nHidratos de carbono\t24.3 g\r\nAzúcares\t28.1 g\r\nFibra\t1.7 g\r\nProteínas\t3.4 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1612100": {
+      "name": "Sueño de fresa",
+      "description": "El sabor refrescante de los trozos de fresa.",
+      "ingredients": "bizcocho, almíbar de naranja, crema de chocolate blanco, fresas frescas, relleno de fresa, salsa de chocolate blanco para tarta.",
+      "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t229.8 kcal / 961.5 kJ\r\nGrasas\t11 g\r\nGrasas saturadas\t4.6 g\r\nHidratos de carbono\t28.1 g\r\nAzúcares\t19.2 g\r\nFibra\t1.1 g\r\nProteínas\t4.6 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1612.10001": {
+          "label": "Porción",
+          "description": "El sabor refrescante de los trozos de fresa.",
+          "weight": "350 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho, almíbar de naranja, crema de chocolate blanco, fresas frescas, relleno de fresa, salsa de chocolate blanco para tarta.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t229.8 kcal / 961.5 kJ\r\nGrasas\t11 g\r\nGrasas saturadas\t4.6 g\r\nHidratos de carbono\t28.1 g\r\nAzúcares\t19.2 g\r\nFibra\t1.1 g\r\nProteínas\t4.6 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1612.10002": {
+          "label": "Tarta entera",
+          "description": "El sabor refrescante de los trozos de fresa.",
+          "weight": "2100 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho, almíbar de naranja, crema de chocolate blanco, fresas frescas, relleno de fresa, salsa de chocolate blanco para tarta.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t229.8 kcal / 961.5 kJ\r\nGrasas\t11 g\r\nGrasas saturadas\t4.6 g\r\nHidratos de carbono\t28.1 g\r\nAzúcares\t19.2 g\r\nFibra\t1.1 g\r\nProteínas\t4.6 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1611102": {
+      "name": "Perla negra",
+      "description": "Un dulce especial que deleita la vista y el paladar.",
+      "ingredients": "bizcocho de cacao, almíbar de café, crema de ganache de chocolate, pistachos, trozos de chocolate con leche.",
+      "allergenInfo": "Contiene: gluten, huevos, productos lácteos y pistachos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t426.5 kcal / 1784.5 kJ\r\nGrasas\t29.8 g\r\nGrasas saturadas\t15.2 g\r\nHidratos de carbono\t34.3 g\r\nAzúcares\t27.3 g\r\nFibra\t3.4 g\r\nProteínas\t5.3 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10201": {
+          "label": "Tarta entera",
+          "description": "Un dulce especial que deleita la vista y el paladar.",
+          "weight": "1950 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho de cacao, almíbar de café, crema de ganache de chocolate, pistachos, trozos de chocolate con leche.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y pistachos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t426.5 kcal / 1784.5 kJ\r\nGrasas\t29.8 g\r\nGrasas saturadas\t15.2 g\r\nHidratos de carbono\t34.3 g\r\nAzúcares\t27.3 g\r\nFibra\t3.4 g\r\nProteínas\t5.3 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        },
+        "1611.10202": {
+          "label": "Porción",
+          "description": "Un dulce especial que deleita la vista y el paladar.",
+          "weight": "325 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho de cacao, almíbar de café, crema de ganache de chocolate, pistachos, trozos de chocolate con leche.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y pistachos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t426.5 kcal / 1784.5 kJ\r\nGrasas\t29.8 g\r\nGrasas saturadas\t15.2 g\r\nHidratos de carbono\t34.3 g\r\nAzúcares\t27.3 g\r\nFibra\t3.4 g\r\nProteínas\t5.3 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        }
+      }
+    },
+    "usta-1611101": {
+      "name": "Amor profundo",
+      "description": "Una experiencia aterciopelada en cada bocado.",
+      "ingredients": "bizcocho brownie (con nueces, con chocolate negro), almíbar de café, crema de trufa de chocolate, ganache de chocolate, trozos de chocolate con leche.",
+      "allergenInfo": "Contiene: gluten, huevos, productos lácteos y nueces.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t393.4 kcal / 1646 kJ\r\nGrasas\t25.7 g\r\nGrasas saturadas\t10.9 g\r\nHidratos de carbono\t34.6 g\r\nAzúcares\t31.4 g\r\nFibra\t1 g\r\nProteínas\t5.9 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10101": {
+          "label": "Porción",
+          "description": "Una experiencia aterciopelada en cada bocado.",
+          "weight": "390 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho brownie (con nueces, con chocolate negro), almíbar de café, crema de trufa de chocolate, ganache de chocolate, trozos de chocolate con leche.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y nueces.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t393.4 kcal / 1646 kJ\r\nGrasas\t25.7 g\r\nGrasas saturadas\t10.9 g\r\nHidratos de carbono\t34.6 g\r\nAzúcares\t31.4 g\r\nFibra\t1 g\r\nProteínas\t5.9 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1611.10102": {
+          "label": "Tarta entera",
+          "description": "Una experiencia aterciopelada en cada bocado.",
+          "weight": "2340 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho brownie (con nueces, con chocolate negro), almíbar de café, crema de trufa de chocolate, ganache de chocolate, trozos de chocolate con leche.",
+          "allergenInfo": "Contiene: gluten, huevos, productos lácteos y nueces.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t393.4 kcal / 1646 kJ\r\nGrasas\t25.7 g\r\nGrasas saturadas\t10.9 g\r\nHidratos de carbono\t34.6 g\r\nAzúcares\t31.4 g\r\nFibra\t1 g\r\nProteínas\t5.9 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    },
+    "usta-1614100": {
+      "name": "Ahu de chocolate",
+      "description": "La deliciosa unión de frambuesas y bizcocho.",
+      "ingredients": "bizcocho de cacao, tartaleta de cacao, almíbar de café, crema de ganache de chocolate, relleno de frambuesa, frambuesas frescas, trozos de chocolate con leche.",
+      "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+      "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+      "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+      "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g\r\n\r\nEnergía\t296.5 kcal / 1240.6 kJ\r\nGrasas\t19.3 g\r\nGrasas saturadas\t13 g\r\nHidratos de carbono\t26.8 g\r\nAzúcares\t19.7 g\r\nFibra\t1.9 g\r\nProteínas\t3.8 g\r\nSal\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1614.10001": {
+          "label": "Porción",
+          "description": "La deliciosa unión de frambuesas y bizcocho.",
+          "weight": "325 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "bizcocho de cacao, tartaleta de cacao, almíbar de café, crema de ganache de chocolate, relleno de frambuesa, frambuesas frescas, trozos de chocolate con leche.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t296.5 kcal / 1240.6 kJ\r\nGrasas\t19.3 g\r\nGrasas saturadas\t13 g\r\nHidratos de carbono\t26.8 g\r\nAzúcares\t19.7 g\r\nFibra\t1.9 g\r\nProteínas\t3.8 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Servido en plato"
+        },
+        "1614.10002": {
+          "label": "Tarta entera",
+          "description": "La deliciosa unión de frambuesas y bizcocho.",
+          "weight": "1950 g",
+          "portion": "≈ 6 raciones",
+          "ingredients": "bizcocho de cacao, tartaleta de cacao, almíbar de café, crema de ganache de chocolate, relleno de frambuesa, frambuesas frescas, trozos de chocolate con leche.",
+          "allergenInfo": "Contiene: gluten, huevos y productos lácteos.\r\nPuede contener trazas de: frutos de cáscara (avellanas, pistachos, nueces, almendras), soja y sésamo, debido a su procesamiento en la misma línea de producción.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g\r\n\r\nEnergía\t296.5 kcal / 1240.6 kJ\r\nGrasas\t19.3 g\r\nGrasas saturadas\t13 g\r\nHidratos de carbono\t26.8 g\r\nAzúcares\t19.7 g\r\nFibra\t1.9 g\r\nProteínas\t3.8 g\r\nSal\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Para apreciar su sabor y textura, dejar reposar a temperatura ambiente durante 10–15 minutos antes de servir.",
+          "storage": "Refrigerar entre +4° y +6°. Proteger de la luz solar directa y no dejar a temperatura ambiente durante periodos prolongados.",
+          "longTermStorage": "Conservación\r\nConservar en el congelador a -18°.\r\n\r\nPreparación\r\nDescongelar en el frigorífico a +4° durante 8–12 horas antes de servir.\r\n\r\nPrecaución\r\nNo volver a congelar una vez descongelado. Una vez descongelado, mantener refrigerado y consumir en un plazo de 3 días.",
+          "packaging": "Caja de cartón"
+        }
+      }
+    }
+  }
 }

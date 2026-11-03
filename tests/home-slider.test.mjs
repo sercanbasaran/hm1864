@@ -22,6 +22,7 @@ test('partial translations fall back field by field without replacing translated
   assert.equal(en.title, 'Istanbul in every box');
   assert.equal(en.description, slide.content.tr.description);
   assert.equal(en.buttonLabel, slide.content.tr.buttonLabel);
+  delete slide.content.ar;
   assert.deepEqual(localizedSlide(slide, 'ar'), localizedSlide(slide, 'tr'));
 });
 
@@ -39,8 +40,8 @@ test('gridScheme accepts both positions and defaults when omitted, rejecting inv
   }
 });
 
-test('all homepage slides have complete English, German and Italian copy, including accessible image descriptions', () => {
-  for (const language of ['en', 'de', 'it']) {
+test('all homepage slides have complete copy in every supported language, including accessible image descriptions', () => {
+  for (const language of ['en', 'de', 'it', 'ar', 'fr', 'es', 'ru', 'zh-CN', 'ja', 'hi', 'ur', 'fa', 'pt']) {
     assert.ok(config.label[language]?.trim());
     for (const slide of config.slides) {
       const translated = localizedSlide(slide, language);
