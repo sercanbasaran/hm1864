@@ -12,6 +12,7 @@ export default function HeritageSection({ config = defaults.heritage, id = "heri
   const [selectedYear, setSelectedYear] = useState(initialYear);
   const tabs = useRef([]);
   const selected = config.years.find(item => item.year === selectedYear) || config.years[0];
+  const images = (selected?.events || [selected]).flatMap(event => event?.images || []);
   const tabId = year => id === "heritage" ? `year-${year}` : `${id}-year-${year}`;
   const panelId = `${id}-content`;
   const navigate = (event, index) => {
@@ -25,8 +26,10 @@ export default function HeritageSection({ config = defaults.heritage, id = "heri
   };
   return <section className="heritage-section">
     <SectionHeading title={t(config.titleKey)} description={t(config.descriptionKey)} />
-    <div className="split narrow">
-      <Media src={local(config.image)} alt={t(config.imageAltKey)} />
+    <div className={'split narrow' + (images.length ? '' : ' heritage-no-image')}>
+      {images.length > 0 && <div className="heritage-images" key={selected.year}>
+        {images.map(image => <Media key={image.src} src={local(image.src)} alt={image.altKey ? t(image.altKey) : image.alt} />)}
+      </div>}
       <div>
         <div className="heritage-tabs" role="tablist" aria-label={plainText(t(config.tabsLabelKey))}>
           {config.years.map((item, index) => <button type="button" key={item.year}

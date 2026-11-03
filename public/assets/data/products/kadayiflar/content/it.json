@@ -2,5 +2,967 @@
   "schemaVersion": 1,
   "categoryId": "kadayiflar",
   "language": "it",
-  "products": {}
+  "products": {
+    "usta-1213102": {
+      "name": "Künefe",
+      "description": "Una creazione di Hafız Mustafa 1864 che combina kadayif croccante e formaggio.",
+      "ingredients": "acqua, farina di frumento, zucchero, pistacchi, formaggio, olio vegetale, succo di limone.",
+      "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+      "servingSuggestion": "Servire il künefe caldo per mantenere il formaggio filante e il kadayif croccante. A piacere, guarnire con pistacchi e accompagnare con kaymak o gelato semplice.",
+      "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+      "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energia 298 kcal / 1246,832 kJ; Grassi 6,42 g; Grassi saturi 3,36 g; Carboidrati 58,43 g; Zuccheri 54,34 g; Fibre 0 g; Proteine 1,59 g; Sale 0,04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10201": {
+          "label": "Servizio al piatto",
+          "description": "Una creazione di Hafız Mustafa 1864 che combina kadayif croccante e formaggio.",
+          "weight": "240 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, formaggio, olio vegetale, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 298 kcal / 1246,832 kJ; Grassi 6,42 g; Grassi saturi 3,36 g; Carboidrati 58,43 g; Zuccheri 54,34 g; Fibre 0 g; Proteine 1,59 g; Sale 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Servire il künefe caldo per mantenere il formaggio filante e il kadayif croccante. A piacere, guarnire con pistacchi e accompagnare con kaymak o gelato semplice.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Servizio al piatto"
+        }
+      }
+    },
+    "usta-1213101": {
+      "name": "Künefe al miele",
+      "description": "Il miele incontra kadayif e formaggio in una deliziosa combinazione.",
+      "ingredients": "acqua, farina di frumento, zucchero, burro chiarificato, pistacchi, olio vegetale, succo di limone.",
+      "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+      "servingSuggestion": "Servire il künefe caldo per mantenere il formaggio filante e il kadayif croccante. A piacere, guarnire con pistacchi e accompagnare con kaymak o gelato semplice.",
+      "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+      "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energia 288 kcal / 1204,992 kJ; Grassi 4,61 g; Grassi saturi 2,66 g; Carboidrati 59,67 g; Zuccheri 55,7 g; Fibre 0,23 g; Proteine 1,78 g; Sale 0,08 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10101": {
+          "label": "Servizio al piatto",
+          "description": "Il miele incontra kadayif e formaggio in una deliziosa combinazione.",
+          "weight": "240 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "acqua, farina di frumento, zucchero, burro chiarificato, pistacchi, olio vegetale, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 288 kcal / 1204,992 kJ; Grassi 4,61 g; Grassi saturi 2,66 g; Carboidrati 59,67 g; Zuccheri 55,7 g; Fibre 0,23 g; Proteine 1,78 g; Sale 0,08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Servire il künefe caldo per mantenere il formaggio filante e il kadayif croccante. A piacere, guarnire con pistacchi e accompagnare con kaymak o gelato semplice.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Servizio al piatto"
+        }
+      }
+    },
+    "usta-1213100": {
+      "name": "Künefe al cioccolato",
+      "description": "L’armonia unica di cioccolato e künefe.",
+      "ingredients": "acqua, farina di frumento, zucchero, pistacchi, formaggio, cacao in polvere, cioccolato fondente in polvere, olio vegetale, succo di limone.",
+      "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+      "servingSuggestion": "Servire il künefe caldo per mantenere il formaggio filante e il kadayif croccante. A piacere, guarnire con pistacchi e accompagnare con kaymak o gelato semplice.",
+      "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+      "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energia 288 kcal / 1204,992 kJ; Grassi 4,61 g; Grassi saturi 2,66 g; Carboidrati 59,67 g; Zuccheri 55,7 g; Fibre 0,23 g; Proteine 1,78 g; Sale 0,08 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10001": {
+          "label": "Servizio al piatto",
+          "description": "L’armonia unica di cioccolato e künefe.",
+          "weight": "240 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, formaggio, cacao in polvere, cioccolato fondente in polvere, olio vegetale, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 288 kcal / 1204,992 kJ; Grassi 4,61 g; Grassi saturi 2,66 g; Carboidrati 59,67 g; Zuccheri 55,7 g; Fibre 0,23 g; Proteine 1,78 g; Sale 0,08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Servire il künefe caldo per mantenere il formaggio filante e il kadayif croccante. A piacere, guarnire con pistacchi e accompagnare con kaymak o gelato semplice.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Servizio al piatto"
+        }
+      }
+    },
+    "usta-1212101": {
+      "name": "Kadayif del Palazzo Ottomano al lokum Sultan",
+      "description": "Una combinazione premiata di kadayif e lokum.",
+      "ingredients": "lokum (acqua, zucchero, amido di mais, correttore di acidità (acido citrico), pistacchi (%14), secondo la varietà vanillina ve estratto di saponaria), kadayif sciroppato (farina di frumento, acqua, burro chiarificato, grasso vegetale idrogenato, succo di limone, zucchero).",
+      "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+      "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+      "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+      "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energia 270 kcal / 1129,68 kJ; Grassi 9,51 g; Grassi saturi 1,36 g; Carboidrati 41,9 g; Zuccheri 25,88 g; Fibre 0,9 g; Proteine 3,61 g; Sale 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10101": {
+          "label": "Servizio al piatto",
+          "description": "Una combinazione premiata di kadayif e lokum.",
+          "weight": "100 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "lokum (acqua, zucchero, amido di mais, correttore di acidità (acido citrico), pistacchi (%14), secondo la varietà vanillina ve estratto di saponaria), kadayif sciroppato (farina di frumento, acqua, burro chiarificato, grasso vegetale idrogenato, succo di limone, zucchero).",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 270 kcal / 1129,68 kJ; Grassi 9,51 g; Grassi saturi 1,36 g; Carboidrati 41,9 g; Zuccheri 25,88 g; Fibre 0,9 g; Proteine 3,61 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Servizio al piatto"
+        },
+        "1212.10102": {
+          "label": "XL",
+          "description": "Una combinazione premiata di kadayif e lokum.",
+          "weight": "1200 g",
+          "portion": "≈ 12 porzioni",
+          "ingredients": "lokum (acqua, zucchero, amido di mais, correttore di acidità (acido citrico), pistacchi (%14), secondo la varietà vanillina ve estratto di saponaria), kadayif sciroppato (farina di frumento, acqua, burro chiarificato, grasso vegetale idrogenato, succo di limone, zucchero).",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 270 kcal / 1129,68 kJ; Grassi 9,51 g; Grassi saturi 1,36 g; Carboidrati 41,9 g; Zuccheri 25,88 g; Fibre 0,9 g; Proteine 3,61 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — XL\nDimensioni della scatola: 345 × 225 × 45 mm"
+        },
+        "1212.10103": {
+          "label": "L",
+          "description": "Una combinazione premiata di kadayif e lokum.",
+          "weight": "800 g",
+          "portion": "≈ 8 porzioni",
+          "ingredients": "lokum (acqua, zucchero, amido di mais, correttore di acidità (acido citrico), pistacchi (%14), secondo la varietà vanillina ve estratto di saponaria), kadayif sciroppato (farina di frumento, acqua, burro chiarificato, grasso vegetale idrogenato, succo di limone, zucchero).",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 270 kcal / 1129,68 kJ; Grassi 9,51 g; Grassi saturi 1,36 g; Carboidrati 41,9 g; Zuccheri 25,88 g; Fibre 0,9 g; Proteine 3,61 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — L\nDimensioni della scatola: 265 × 175 × 45 mm"
+        },
+        "1212.10104": {
+          "label": "M",
+          "description": "Una combinazione premiata di kadayif e lokum.",
+          "weight": "400 g",
+          "portion": "≈ 4 porzioni",
+          "ingredients": "lokum (acqua, zucchero, amido di mais, correttore di acidità (acido citrico), pistacchi (%14), secondo la varietà vanillina ve estratto di saponaria), kadayif sciroppato (farina di frumento, acqua, burro chiarificato, grasso vegetale idrogenato, succo di limone, zucchero).",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 270 kcal / 1129,68 kJ; Grassi 9,51 g; Grassi saturi 1,36 g; Carboidrati 41,9 g; Zuccheri 25,88 g; Fibre 0,9 g; Proteine 3,61 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — M\nDimensioni della scatola: 270 × 180 × 45 mm"
+        },
+        "1212.10105": {
+          "label": "S",
+          "description": "Una combinazione premiata di kadayif e lokum.",
+          "weight": "200 g",
+          "portion": "≈ 2 porzioni",
+          "ingredients": "lokum (acqua, zucchero, amido di mais, correttore di acidità (acido citrico), pistacchi (%14), secondo la varietà vanillina ve estratto di saponaria), kadayif sciroppato (farina di frumento, acqua, burro chiarificato, grasso vegetale idrogenato, succo di limone, zucchero).",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 270 kcal / 1129,68 kJ; Grassi 9,51 g; Grassi saturi 1,36 g; Carboidrati 41,9 g; Zuccheri 25,88 g; Fibre 0,9 g; Proteine 3,61 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — S\nDimensioni della scatola: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1212100": {
+      "name": "Kadayif del Palazzo Ottomano al lokum al melograno",
+      "description": "Una combinazione tradizionale di pistacchi, lokum al melograno e kadayif.",
+      "ingredients": "lokum (acqua, zucchero, amido di mais, pistacchi (%20), correttore di acidità (acido citrico), secondo la varietà aroma di melograno ve colorante (antocianina)), kadayif sciroppato (farina di frumento, acqua, burro chiarificato, grasso vegetale idrogenato, succo di limone, zucchero).",
+      "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+      "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+      "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+      "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energia 284,45 kcal / 1190,1388 kJ; Grassi 9,73 g; Grassi saturi 1,36 g; Carboidrati 44,94 g; Zuccheri 30,08 g; Fibre 1,03 g; Proteine 3,74 g; Sale 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10001": {
+          "label": "Servizio al piatto",
+          "description": "Una combinazione tradizionale di pistacchi, lokum al melograno e kadayif.",
+          "weight": "100 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "lokum (acqua, zucchero, amido di mais, pistacchi (%20), correttore di acidità (acido citrico), secondo la varietà aroma di melograno ve colorante (antocianina)), kadayif sciroppato (farina di frumento, acqua, burro chiarificato, grasso vegetale idrogenato, succo di limone, zucchero).",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 284,45 kcal / 1190,1388 kJ; Grassi 9,73 g; Grassi saturi 1,36 g; Carboidrati 44,94 g; Zuccheri 30,08 g; Fibre 1,03 g; Proteine 3,74 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Servizio al piatto"
+        },
+        "1212.10002": {
+          "label": "XL",
+          "description": "Una combinazione tradizionale di pistacchi, lokum al melograno e kadayif.",
+          "weight": "1200 g",
+          "portion": "≈ 12 porzioni",
+          "ingredients": "lokum (acqua, zucchero, amido di mais, pistacchi (%20), correttore di acidità (acido citrico), secondo la varietà aroma di melograno ve colorante (antocianina)), kadayif sciroppato (farina di frumento, acqua, burro chiarificato, grasso vegetale idrogenato, succo di limone, zucchero).",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 284,45 kcal / 1190,1388 kJ; Grassi 9,73 g; Grassi saturi 1,36 g; Carboidrati 44,94 g; Zuccheri 30,08 g; Fibre 1,03 g; Proteine 3,74 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — XL\nDimensioni della scatola: 345 × 225 × 45 mm"
+        },
+        "1212.10003": {
+          "label": "L",
+          "description": "Una combinazione tradizionale di pistacchi, lokum al melograno e kadayif.",
+          "weight": "800 g",
+          "portion": "≈ 8 porzioni",
+          "ingredients": "lokum (acqua, zucchero, amido di mais, pistacchi (%20), correttore di acidità (acido citrico), secondo la varietà aroma di melograno ve colorante (antocianina)), kadayif sciroppato (farina di frumento, acqua, burro chiarificato, grasso vegetale idrogenato, succo di limone, zucchero).",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 284,45 kcal / 1190,1388 kJ; Grassi 9,73 g; Grassi saturi 1,36 g; Carboidrati 44,94 g; Zuccheri 30,08 g; Fibre 1,03 g; Proteine 3,74 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — L\nDimensioni della scatola: 265 × 175 × 45 mm"
+        },
+        "1212.10004": {
+          "label": "M",
+          "description": "Una combinazione tradizionale di pistacchi, lokum al melograno e kadayif.",
+          "weight": "400 g",
+          "portion": "≈ 4 porzioni",
+          "ingredients": "lokum (acqua, zucchero, amido di mais, pistacchi (%20), correttore di acidità (acido citrico), secondo la varietà aroma di melograno ve colorante (antocianina)), kadayif sciroppato (farina di frumento, acqua, burro chiarificato, grasso vegetale idrogenato, succo di limone, zucchero).",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 284,45 kcal / 1190,1388 kJ; Grassi 9,73 g; Grassi saturi 1,36 g; Carboidrati 44,94 g; Zuccheri 30,08 g; Fibre 1,03 g; Proteine 3,74 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — M\nDimensioni della scatola: 270 × 180 × 45 mm"
+        },
+        "1212.10005": {
+          "label": "S",
+          "description": "Una combinazione tradizionale di pistacchi, lokum al melograno e kadayif.",
+          "weight": "200 g",
+          "portion": "≈ 2 porzioni",
+          "ingredients": "lokum (acqua, zucchero, amido di mais, pistacchi (%20), correttore di acidità (acido citrico), secondo la varietà aroma di melograno ve colorante (antocianina)), kadayif sciroppato (farina di frumento, acqua, burro chiarificato, grasso vegetale idrogenato, succo di limone, zucchero).",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 284,45 kcal / 1190,1388 kJ; Grassi 9,73 g; Grassi saturi 1,36 g; Carboidrati 44,94 g; Zuccheri 30,08 g; Fibre 1,03 g; Proteine 3,74 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — S\nDimensioni della scatola: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1211100": {
+      "name": "Kadayif del Palazzo Ottomano alle noci",
+      "description": "Un incontro gourmet di noci e kadayif, preparato con maestria.",
+      "ingredients": "acqua, farina di frumento, zucchero, noci, olio vegetale, burro chiarificato, succo di limone.",
+      "allergenInfo": "glutine (frumento), latte e derivati del latte, noci. Può contenere tracce di pistacchi poiché sulla stessa linea si producono anche prodotti contenenti pistacchi.",
+      "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+      "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+      "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energia 423,34 kcal / 1771,25456 kJ; Grassi 26,9 g; Grassi saturi 3,31 g; Carboidrati 36,4 g; Zuccheri 25,52 g; Fibre 2,34 g; Proteine 7,7 g; Sale 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1211.10001": {
+          "label": "Servizio al piatto",
+          "description": "Un incontro gourmet di noci e kadayif, preparato con maestria.",
+          "weight": "100 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "acqua, farina di frumento, zucchero, noci, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, noci. Può contenere tracce di pistacchi poiché sulla stessa linea si producono anche prodotti contenenti pistacchi.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 423,34 kcal / 1771,25456 kJ; Grassi 26,9 g; Grassi saturi 3,31 g; Carboidrati 36,4 g; Zuccheri 25,52 g; Fibre 2,34 g; Proteine 7,7 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Servizio al piatto"
+        },
+        "1211.10002": {
+          "label": "XL",
+          "description": "Un incontro gourmet di noci e kadayif, preparato con maestria.",
+          "weight": "1200 g",
+          "portion": "≈ 12 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, noci, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, noci. Può contenere tracce di pistacchi poiché sulla stessa linea si producono anche prodotti contenenti pistacchi.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 423,34 kcal / 1771,25456 kJ; Grassi 26,9 g; Grassi saturi 3,31 g; Carboidrati 36,4 g; Zuccheri 25,52 g; Fibre 2,34 g; Proteine 7,7 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — XL\nDimensioni della scatola: 345 × 225 × 45 mm"
+        },
+        "1211.10003": {
+          "label": "L",
+          "description": "Un incontro gourmet di noci e kadayif, preparato con maestria.",
+          "weight": "800 g",
+          "portion": "≈ 8 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, noci, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, noci. Può contenere tracce di pistacchi poiché sulla stessa linea si producono anche prodotti contenenti pistacchi.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 423,34 kcal / 1771,25456 kJ; Grassi 26,9 g; Grassi saturi 3,31 g; Carboidrati 36,4 g; Zuccheri 25,52 g; Fibre 2,34 g; Proteine 7,7 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — L\nDimensioni della scatola: 265 × 175 × 45 mm"
+        },
+        "1211.10004": {
+          "label": "M",
+          "description": "Un incontro gourmet di noci e kadayif, preparato con maestria.",
+          "weight": "400 g",
+          "portion": "≈ 4 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, noci, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, noci. Può contenere tracce di pistacchi poiché sulla stessa linea si producono anche prodotti contenenti pistacchi.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 423,34 kcal / 1771,25456 kJ; Grassi 26,9 g; Grassi saturi 3,31 g; Carboidrati 36,4 g; Zuccheri 25,52 g; Fibre 2,34 g; Proteine 7,7 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — M\nDimensioni della scatola: 270 × 180 × 45 mm"
+        },
+        "1211.10005": {
+          "label": "S",
+          "description": "Un incontro gourmet di noci e kadayif, preparato con maestria.",
+          "weight": "200 g",
+          "portion": "≈ 2 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, noci, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, noci. Può contenere tracce di pistacchi poiché sulla stessa linea si producono anche prodotti contenenti pistacchi.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 423,34 kcal / 1771,25456 kJ; Grassi 26,9 g; Grassi saturi 3,31 g; Carboidrati 36,4 g; Zuccheri 25,52 g; Fibre 2,34 g; Proteine 7,7 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — S\nDimensioni della scatola: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210104": {
+      "name": "Kadayif del Palazzo Ottomano al pistacchio",
+      "description": "Una festa di ricco kadayif e abbondanti pistacchi.",
+      "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+      "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+      "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+      "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+      "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energia 401 kcal / 1677,784 kJ; Grassi 23,34 g; Grassi saturi 1,2 g; Carboidrati 37,1 g; Zuccheri 21,2 g; Fibre 3,89 g; Proteine 8,5 g; Sale 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10401": {
+          "label": "Servizio al piatto",
+          "description": "Una festa di ricco kadayif e abbondanti pistacchi.",
+          "weight": "100 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 401 kcal / 1677,784 kJ; Grassi 23,34 g; Grassi saturi 1,2 g; Carboidrati 37,1 g; Zuccheri 21,2 g; Fibre 3,89 g; Proteine 8,5 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Servizio al piatto"
+        },
+        "1210.10402": {
+          "label": "XL",
+          "description": "Una festa di ricco kadayif e abbondanti pistacchi.",
+          "weight": "1200 g",
+          "portion": "≈ 12 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 401 kcal / 1677,784 kJ; Grassi 23,34 g; Grassi saturi 1,2 g; Carboidrati 37,1 g; Zuccheri 21,2 g; Fibre 3,89 g; Proteine 8,5 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — XL\nDimensioni della scatola: 345 × 225 × 45 mm"
+        },
+        "1210.10403": {
+          "label": "L",
+          "description": "Una festa di ricco kadayif e abbondanti pistacchi.",
+          "weight": "800 g",
+          "portion": "≈ 8 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 401 kcal / 1677,784 kJ; Grassi 23,34 g; Grassi saturi 1,2 g; Carboidrati 37,1 g; Zuccheri 21,2 g; Fibre 3,89 g; Proteine 8,5 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — L\nDimensioni della scatola: 265 × 175 × 45 mm"
+        },
+        "1210.10404": {
+          "label": "M",
+          "description": "Una festa di ricco kadayif e abbondanti pistacchi.",
+          "weight": "400 g",
+          "portion": "≈ 4 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 401 kcal / 1677,784 kJ; Grassi 23,34 g; Grassi saturi 1,2 g; Carboidrati 37,1 g; Zuccheri 21,2 g; Fibre 3,89 g; Proteine 8,5 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — M\nDimensioni della scatola: 270 × 180 × 45 mm"
+        },
+        "1210.10405": {
+          "label": "S",
+          "description": "Una festa di ricco kadayif e abbondanti pistacchi.",
+          "weight": "200 g",
+          "portion": "≈ 2 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 401 kcal / 1677,784 kJ; Grassi 23,34 g; Grassi saturi 1,2 g; Carboidrati 37,1 g; Zuccheri 21,2 g; Fibre 3,89 g; Proteine 8,5 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — S\nDimensioni della scatola: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210103": {
+      "name": "Kadayif Antep Burma al pistacchio",
+      "description": "Un viaggio nel gusto con pistacchi speciali avvolti nel kadayif.",
+      "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+      "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+      "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+      "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+      "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energia 338,5 kcal / 1416,284 kJ; Grassi 16 g; Grassi saturi 0,16 g; Carboidrati 41,91 g; Zuccheri 24,4 g; Fibre 1,8 g; Proteine 5,7 g; Sale 0,04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10301": {
+          "label": "Servizio al piatto",
+          "description": "Un viaggio nel gusto con pistacchi speciali avvolti nel kadayif.",
+          "weight": "62,5 g",
+          "portion": "Meno di 1 porzione",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 338,5 kcal / 1416,284 kJ; Grassi 16 g; Grassi saturi 0,16 g; Carboidrati 41,91 g; Zuccheri 24,4 g; Fibre 1,8 g; Proteine 5,7 g; Sale 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Servizio al piatto"
+        },
+        "1210.10302": {
+          "label": "XL",
+          "description": "Un viaggio nel gusto con pistacchi speciali avvolti nel kadayif.",
+          "weight": "750 g",
+          "portion": "≈ 4 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 338,5 kcal / 1416,284 kJ; Grassi 16 g; Grassi saturi 0,16 g; Carboidrati 41,91 g; Zuccheri 24,4 g; Fibre 1,8 g; Proteine 5,7 g; Sale 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — XL\nDimensioni della scatola: 345 × 225 × 45 mm"
+        },
+        "1210.10303": {
+          "label": "L",
+          "description": "Un viaggio nel gusto con pistacchi speciali avvolti nel kadayif.",
+          "weight": "500 g",
+          "portion": "≈ 3 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 338,5 kcal / 1416,284 kJ; Grassi 16 g; Grassi saturi 0,16 g; Carboidrati 41,91 g; Zuccheri 24,4 g; Fibre 1,8 g; Proteine 5,7 g; Sale 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — L\nDimensioni della scatola: 265 × 175 × 45 mm"
+        },
+        "1210.10304": {
+          "label": "M",
+          "description": "Un viaggio nel gusto con pistacchi speciali avvolti nel kadayif.",
+          "weight": "250 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 338,5 kcal / 1416,284 kJ; Grassi 16 g; Grassi saturi 0,16 g; Carboidrati 41,91 g; Zuccheri 24,4 g; Fibre 1,8 g; Proteine 5,7 g; Sale 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — M\nDimensioni della scatola: 270 × 180 × 45 mm"
+        },
+        "1210.10305": {
+          "label": "S",
+          "description": "Un viaggio nel gusto con pistacchi speciali avvolti nel kadayif.",
+          "weight": "125 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 338,5 kcal / 1416,284 kJ; Grassi 16 g; Grassi saturi 0,16 g; Carboidrati 41,91 g; Zuccheri 24,4 g; Fibre 1,8 g; Proteine 5,7 g; Sale 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — S\nDimensioni della scatola: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210102": {
+      "name": "Kadayif Aleppo Burma al pistacchio",
+      "description": "Pistacchi di raccolta speciale avvolti in delizioso kadayif.",
+      "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, succo di limone.",
+      "allergenInfo": "glutine (frumento), pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+      "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+      "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+      "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energia 389,5 kcal / 1629,668 kJ; Grassi 23,2 g; Grassi saturi 4,79 g; Carboidrati 36,73 g; Zuccheri 18,8 g; Fibre 2,69 g; Proteine 7,06 g; Sale 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10201": {
+          "label": "Servizio al piatto",
+          "description": "Pistacchi di raccolta speciale avvolti in delizioso kadayif.",
+          "weight": "170 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, succo di limone.",
+          "allergenInfo": "glutine (frumento), pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 389,5 kcal / 1629,668 kJ; Grassi 23,2 g; Grassi saturi 4,79 g; Carboidrati 36,73 g; Zuccheri 18,8 g; Fibre 2,69 g; Proteine 7,06 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Servizio al piatto"
+        },
+        "1210.10202": {
+          "label": "XL",
+          "description": "Pistacchi di raccolta speciale avvolti in delizioso kadayif.",
+          "weight": "2040 g",
+          "portion": "≈ 12 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, succo di limone.",
+          "allergenInfo": "glutine (frumento), pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 389,5 kcal / 1629,668 kJ; Grassi 23,2 g; Grassi saturi 4,79 g; Carboidrati 36,73 g; Zuccheri 18,8 g; Fibre 2,69 g; Proteine 7,06 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — XL\nDimensioni della scatola: 345 × 225 × 45 mm"
+        },
+        "1210.10203": {
+          "label": "L",
+          "description": "Pistacchi di raccolta speciale avvolti in delizioso kadayif.",
+          "weight": "1360 g",
+          "portion": "≈ 8 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, succo di limone.",
+          "allergenInfo": "glutine (frumento), pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 389,5 kcal / 1629,668 kJ; Grassi 23,2 g; Grassi saturi 4,79 g; Carboidrati 36,73 g; Zuccheri 18,8 g; Fibre 2,69 g; Proteine 7,06 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — L\nDimensioni della scatola: 265 × 175 × 45 mm"
+        },
+        "1210.10204": {
+          "label": "M",
+          "description": "Pistacchi di raccolta speciale avvolti in delizioso kadayif.",
+          "weight": "680 g",
+          "portion": "≈ 4 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, succo di limone.",
+          "allergenInfo": "glutine (frumento), pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 389,5 kcal / 1629,668 kJ; Grassi 23,2 g; Grassi saturi 4,79 g; Carboidrati 36,73 g; Zuccheri 18,8 g; Fibre 2,69 g; Proteine 7,06 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — M\nDimensioni della scatola: 270 × 180 × 45 mm"
+        },
+        "1210.10205": {
+          "label": "S",
+          "description": "Pistacchi di raccolta speciale avvolti in delizioso kadayif.",
+          "weight": "340 g",
+          "portion": "≈ 2 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, succo di limone.",
+          "allergenInfo": "glutine (frumento), pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 389,5 kcal / 1629,668 kJ; Grassi 23,2 g; Grassi saturi 4,79 g; Carboidrati 36,73 g; Zuccheri 18,8 g; Fibre 2,69 g; Proteine 7,06 g; Sale 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — S\nDimensioni della scatola: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210101": {
+      "name": "Kadayif Sultaniye al pistacchio",
+      "description": "Un sogno di kadayif morbido e croccante ricoperto di pistacchi.",
+      "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+      "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+      "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+      "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+      "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energia 348,3 kcal / 1457,2872 kJ; Grassi 16,41 g; Grassi saturi 2,28 g; Carboidrati 44,61 g; Zuccheri 31,12 g; Fibre 1,64 g; Proteine 4,71 g; Sale 0,03 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10101": {
+          "label": "XL",
+          "description": "Un sogno di kadayif morbido e croccante ricoperto di pistacchi.",
+          "weight": "2400 g",
+          "portion": "≈ 12 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 348,3 kcal / 1457,2872 kJ; Grassi 16,41 g; Grassi saturi 2,28 g; Carboidrati 44,61 g; Zuccheri 31,12 g; Fibre 1,64 g; Proteine 4,71 g; Sale 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — XL\nDimensioni della scatola: 345 × 225 × 45 mm"
+        },
+        "1210.10102": {
+          "label": "L",
+          "description": "Un sogno di kadayif morbido e croccante ricoperto di pistacchi.",
+          "weight": "1600 g",
+          "portion": "≈ 8 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 348,3 kcal / 1457,2872 kJ; Grassi 16,41 g; Grassi saturi 2,28 g; Carboidrati 44,61 g; Zuccheri 31,12 g; Fibre 1,64 g; Proteine 4,71 g; Sale 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — L\nDimensioni della scatola: 265 × 175 × 45 mm"
+        },
+        "1210.10103": {
+          "label": "M",
+          "description": "Un sogno di kadayif morbido e croccante ricoperto di pistacchi.",
+          "weight": "800 g",
+          "portion": "≈ 4 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 348,3 kcal / 1457,2872 kJ; Grassi 16,41 g; Grassi saturi 2,28 g; Carboidrati 44,61 g; Zuccheri 31,12 g; Fibre 1,64 g; Proteine 4,71 g; Sale 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — M\nDimensioni della scatola: 270 × 180 × 45 mm"
+        },
+        "1210.10104": {
+          "label": "S",
+          "description": "Un sogno di kadayif morbido e croccante ricoperto di pistacchi.",
+          "weight": "400 g",
+          "portion": "≈ 2 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 348,3 kcal / 1457,2872 kJ; Grassi 16,41 g; Grassi saturi 2,28 g; Carboidrati 44,61 g; Zuccheri 31,12 g; Fibre 1,64 g; Proteine 4,71 g; Sale 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — S\nDimensioni della scatola: 195 × 145 × 45 mm"
+        },
+        "1210.10105": {
+          "label": "Fetta",
+          "description": "Un sogno di kadayif morbido e croccante ricoperto di pistacchi.",
+          "weight": "200 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 348,3 kcal / 1457,2872 kJ; Grassi 16,41 g; Grassi saturi 2,28 g; Carboidrati 44,61 g; Zuccheri 31,12 g; Fibre 1,64 g; Proteine 4,71 g; Sale 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Servizio al piatto"
+        }
+      }
+    },
+    "usta-1210100": {
+      "name": "Kadayif al pistacchio",
+      "description": "Una sinfonia di kadayif e pistacchi di raccolta precoce.",
+      "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+      "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+      "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+      "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+      "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energia 353,33 kcal / 1478,33272 kJ; Grassi 17,33 g; Grassi saturi 3,1 g; Carboidrati 44,63 g; Zuccheri 30,9 g; Fibre 1,2 g; Proteine 4 g; Sale 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10001": {
+          "label": "Servizio al piatto",
+          "description": "Una sinfonia di kadayif e pistacchi di raccolta precoce.",
+          "weight": "166,6 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 353,33 kcal / 1478,33272 kJ; Grassi 17,33 g; Grassi saturi 3,1 g; Carboidrati 44,63 g; Zuccheri 30,9 g; Fibre 1,2 g; Proteine 4 g; Sale 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Servizio al piatto"
+        },
+        "1210.10002": {
+          "label": "XL",
+          "description": "Una sinfonia di kadayif e pistacchi di raccolta precoce.",
+          "weight": "1999,2 g",
+          "portion": "≈ 12 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 353,33 kcal / 1478,33272 kJ; Grassi 17,33 g; Grassi saturi 3,1 g; Carboidrati 44,63 g; Zuccheri 30,9 g; Fibre 1,2 g; Proteine 4 g; Sale 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — XL\nDimensioni della scatola: 345 × 225 × 45 mm"
+        },
+        "1210.10003": {
+          "label": "L",
+          "description": "Una sinfonia di kadayif e pistacchi di raccolta precoce.",
+          "weight": "1332,8 g",
+          "portion": "≈ 8 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 353,33 kcal / 1478,33272 kJ; Grassi 17,33 g; Grassi saturi 3,1 g; Carboidrati 44,63 g; Zuccheri 30,9 g; Fibre 1,2 g; Proteine 4 g; Sale 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — L\nDimensioni della scatola: 265 × 175 × 45 mm"
+        },
+        "1210.10004": {
+          "label": "M",
+          "description": "Una sinfonia di kadayif e pistacchi di raccolta precoce.",
+          "weight": "666,4 g",
+          "portion": "≈ 4 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 353,33 kcal / 1478,33272 kJ; Grassi 17,33 g; Grassi saturi 3,1 g; Carboidrati 44,63 g; Zuccheri 30,9 g; Fibre 1,2 g; Proteine 4 g; Sale 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — M\nDimensioni della scatola: 270 × 180 × 45 mm"
+        },
+        "1210.10005": {
+          "label": "S",
+          "description": "Una sinfonia di kadayif e pistacchi di raccolta precoce.",
+          "weight": "333,2 g",
+          "portion": "≈ 2 porzioni",
+          "ingredients": "acqua, farina di frumento, zucchero, pistacchi, olio vegetale, burro chiarificato, succo di limone.",
+          "allergenInfo": "glutine (frumento), latte e derivati del latte, pistacchi. Può contenere tracce di noci poiché sulla stessa linea si producono anche prodotti contenenti noci.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 353,33 kcal / 1478,33272 kJ; Grassi 17,33 g; Grassi saturi 3,1 g; Carboidrati 44,63 g; Zuccheri 30,9 g; Fibre 1,2 g; Proteine 4 g; Sale 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservare in un luogo fresco e asciutto, lontano dalla luce solare diretta.\n\nPer il consumo quotidiano consigliamo di evitare la refrigerazione, poiché può alterare la consistenza dello sciroppo.",
+          "storage": "Per un gusto ottimale, consumare il prodotto a temperatura ambiente.\n\nÈ possibile anche scaldarlo leggermente in forno prima di servirlo.",
+          "longTermStorage": "È possibile conservare i prodotti in congelatore a -18 °C per un massimo di 30 giorni.\n\nPer un gusto ottimale, scongelare prima a +4 °C per 2 ore, quindi lasciare riposare a temperatura ambiente per 30 minuti prima del consumo.  Lo scongelamento diretto a temperatura ambiente può causare secchezza e perdita di croccantezza.\n\nNon ricongelare i prodotti scongelati.",
+          "packaging": "Scatola di metallo per baklava — S\nDimensioni della scatola: 195 × 145 × 45 mm"
+        }
+      }
+    }
+  }
 }

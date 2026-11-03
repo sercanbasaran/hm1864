@@ -1,7 +1,10 @@
 {
   "schemaVersion": 1,
   "title": {
-    "tr": "BİZİ TAKİP EDİN"
+    "tr": "BİZİ TAKİP EDİN",
+    "en": "FOLLOW US",
+    "de": "FOLGEN SIE UNS",
+    "it": "SEGUICI"
   },
   "items": [
     {

@@ -3,7 +3,9 @@
   "allCategoryLabel": {
     "tr": "Tüm {name}",
     "en": "All {name}",
-    "ar": "كل {name}"
+    "ar": "كل {name}",
+    "de": "Alle {name}",
+    "it": "Tutti i prodotti: {name}"
   },
   "categories": [
     {
@@ -145,7 +147,9 @@
       "label": {
         "tr": "Mağazalarımız",
         "en": "Our Stores",
-        "ar": "متاجرنا"
+        "ar": "متاجرنا",
+        "de": "Unsere Filialen",
+        "it": "I nostri negozi"
       },
       "url": "/magazalar/index.html"
     },
@@ -155,7 +159,9 @@
       "label": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "it": "Contatti"
       },
       "url": "/iletisim/index.html"
     }

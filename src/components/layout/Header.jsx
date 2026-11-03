@@ -63,7 +63,7 @@ export default function Header() {
   const subDescription = (sub) =>
     sub.shortDescription ||
     sub.description ||
-    `${sub.name} çeşitlerini keşfedin.`;
+    t("ui.discoverCategory", {name: sub.name});
   const cats =
     menu === "all"
       ? categoryMenu(menuData,tabs.find(t=>t.id===tab)?.categories,language,tab)

@@ -2,5 +2,181 @@
   "schemaVersion": 1,
   "categoryId": "trileceler",
   "language": "de",
-  "products": {}
+  "products": {
+    "usta-1700104": {
+      "name": "Safran-Trileçe",
+      "description": "Eine feine Safranmischung, gefertigt von Hafız Mustafa 1864.",
+      "ingredients": "Trileçe-Kuchen ( Weizenmehl, Eier, Zucker, Orangenschale, Safran, Backpulver), Milchsirup(Milch, Milchsahne, Schlagcreme), Safran, Schlagcreme, Ala-Soße (Weizenmehl, Zucker, Maisstärke, Milchsahne, Schlagcreme).",
+      "allergenInfo": "Enthält Gluten, Milcherzeugnisse, Eier, Soja.",
+      "servingSuggestion": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "storage": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "longTermStorage": "Lagerung: Bei -18° im Gefrierschrank lagern.\n\nZubereitung: Vor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\nHinweis: Nach dem Auftauen nicht erneut einfrieren. \nNach dem Auftauen gekühlt lagern und innerhalb von 2 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 239,3 kcal / 1001,2 kJ; Fett 17,9 g; Gesättigte Fettsäuren 12,2 g; Kohlenhydrate 15,7 g; Zucker 10,4 g; Ballaststoffe 0,2 g; Eiweiß 3,8 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10401": {
+          "label": "Auf dem Teller serviert",
+          "description": "Eine feine Safranmischung, gefertigt von Hafız Mustafa 1864.",
+          "weight": "210 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Trileçe-Kuchen ( Weizenmehl, Eier, Zucker, Orangenschale, Safran, Backpulver), Milchsirup(Milch, Milchsahne, Schlagcreme), Safran, Schlagcreme, Ala-Soße (Weizenmehl, Zucker, Maisstärke, Milchsahne, Schlagcreme).",
+          "allergenInfo": "Enthält Gluten, Milcherzeugnisse, Eier, Soja.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 239,3 kcal / 1001,2 kJ; Fett 17,9 g; Gesättigte Fettsäuren 12,2 g; Kohlenhydrate 15,7 g; Zucker 10,4 g; Ballaststoffe 0,2 g; Eiweiß 3,8 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "storage": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "Lagerung: Bei -18° im Gefrierschrank lagern.\n\nZubereitung: Vor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\nHinweis: Nach dem Auftauen nicht erneut einfrieren. \nNach dem Auftauen gekühlt lagern und innerhalb von 2 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        }
+      }
+    },
+    "usta-1700103": {
+      "name": "Karamell-Trileçe",
+      "description": "Ein Karamellgenuss vom Balkan.",
+      "ingredients": "Trileçe-Kuchen ( Weizenmehl, Eier, Zucker, Backpulver), Milchsirup(Milch, Milchsahne, Schlagcreme) Karamellgelee.",
+      "allergenInfo": "Enthält Gluten, Milcherzeugnisse, Eier, Soja, Sulfite.",
+      "servingSuggestion": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "storage": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "longTermStorage": "Lagerung: Bei -18° im Gefrierschrank lagern.\n\nZubereitung: Vor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\nHinweis: Nach dem Auftauen nicht erneut einfrieren. \nNach dem Auftauen gekühlt lagern und innerhalb von 2 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 274,7 kcal / 1149,3 kJ; Fett 20,8 g; Gesättigte Fettsäuren 14,2 g; Kohlenhydrate 17,5 g; Zucker 11,7 g; Ballaststoffe 0,2 g; Eiweiß 4,4 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10301": {
+          "label": "Auf dem Teller serviert",
+          "description": "Ein Karamellgenuss vom Balkan.",
+          "weight": "250 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Trileçe-Kuchen ( Weizenmehl, Eier, Zucker, Backpulver), Milchsirup(Milch, Milchsahne, Schlagcreme) Karamellgelee.",
+          "allergenInfo": "Enthält Gluten, Milcherzeugnisse, Eier, Soja, Sulfite.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 274,7 kcal / 1149,3 kJ; Fett 20,8 g; Gesättigte Fettsäuren 14,2 g; Kohlenhydrate 17,5 g; Zucker 11,7 g; Ballaststoffe 0,2 g; Eiweiß 4,4 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "storage": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "Lagerung: Bei -18° im Gefrierschrank lagern.\n\nZubereitung: Vor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\nHinweis: Nach dem Auftauen nicht erneut einfrieren. \nNach dem Auftauen gekühlt lagern und innerhalb von 2 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        }
+      }
+    },
+    "usta-1700102": {
+      "name": "Kaffee-Trileçe",
+      "description": "Ein unwiderstehliches Fest des Geschmacks, gefertigt von Hafız Mustafa 1864.",
+      "ingredients": "Trileçe-Kuchen ( Weizenmehl, Eier, Zucker, Instantkaffee, Backpulver), Milchsirup(Milch, Milchsahne, Schlagcreme), Schlagcreme, Instantkaffee, Ala-Soße (Weizenmehl, Zucker, Maisstärke, Milchsahne, Schlagcreme).",
+      "allergenInfo": "Enthält Gluten, Milcherzeugnisse, Eier, Soja.",
+      "servingSuggestion": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "storage": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "longTermStorage": "Lagerung: Bei -18° im Gefrierschrank lagern.\n\nZubereitung: Vor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\nHinweis: Nach dem Auftauen nicht erneut einfrieren. \nNach dem Auftauen gekühlt lagern und innerhalb von 2 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 273,6 kcal / 1144,7 kJ; Fett 20,8 g; Gesättigte Fettsäuren 13,6 g; Kohlenhydrate 16,7 g; Zucker 12,3 g; Ballaststoffe 0,3 g; Eiweiß 4,8 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10201": {
+          "label": "Auf dem Teller serviert",
+          "description": "Ein unwiderstehliches Fest des Geschmacks, gefertigt von Hafız Mustafa 1864.",
+          "weight": "210 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Trileçe-Kuchen ( Weizenmehl, Eier, Zucker, Instantkaffee, Backpulver), Milchsirup(Milch, Milchsahne, Schlagcreme), Schlagcreme, Instantkaffee, Ala-Soße (Weizenmehl, Zucker, Maisstärke, Milchsahne, Schlagcreme).",
+          "allergenInfo": "Enthält Gluten, Milcherzeugnisse, Eier, Soja.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 273,6 kcal / 1144,7 kJ; Fett 20,8 g; Gesättigte Fettsäuren 13,6 g; Kohlenhydrate 16,7 g; Zucker 12,3 g; Ballaststoffe 0,3 g; Eiweiß 4,8 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "storage": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "Lagerung: Bei -18° im Gefrierschrank lagern.\n\nZubereitung: Vor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\nHinweis: Nach dem Auftauen nicht erneut einfrieren. \nNach dem Auftauen gekühlt lagern und innerhalb von 2 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        }
+      }
+    },
+    "usta-1700101": {
+      "name": "Pistazien-Ala-Trileçe",
+      "description": "Ein Hauch Ala-Soße verleiht diesem Balkandessert eine besondere Note.",
+      "ingredients": "Trileçe-Kuchen ( Weizenmehl, Eier, Zucker, Pistazien, Backpulver), Milchsirup(Milch, Milchsahne, Schlagcreme),Schlagcreme, Pistazien, Ala-Soße (Weizenmehl, Zucker, Maisstärke, Milchsahne, Schlagcreme).",
+      "allergenInfo": "Enthält Gluten, Milcherzeugnisse, Schalenfrüchte (Pistazien), Eier, Soja.",
+      "servingSuggestion": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "storage": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "longTermStorage": "Lagerung: Bei -18° im Gefrierschrank lagern.\n\nZubereitung: Vor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\nHinweis: Nach dem Auftauen nicht erneut einfrieren. \nNach dem Auftauen gekühlt lagern und innerhalb von 2 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 298,3 kcal / 1248,1 kJ; Fett 22,7 g; Gesättigte Fettsäuren 13,9 g; Kohlenhydrate 18,4 g; Zucker 12,4 g; Ballaststoffe 1 g; Eiweiß 5,2 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10101": {
+          "label": "Auf dem Teller serviert",
+          "description": "Ein Hauch Ala-Soße verleiht diesem Balkandessert eine besondere Note.",
+          "weight": "215 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Trileçe-Kuchen ( Weizenmehl, Eier, Zucker, Pistazien, Backpulver), Milchsirup(Milch, Milchsahne, Schlagcreme),Schlagcreme, Pistazien, Ala-Soße (Weizenmehl, Zucker, Maisstärke, Milchsahne, Schlagcreme).",
+          "allergenInfo": "Enthält Gluten, Milcherzeugnisse, Schalenfrüchte (Pistazien), Eier, Soja.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 298,3 kcal / 1248,1 kJ; Fett 22,7 g; Gesättigte Fettsäuren 13,9 g; Kohlenhydrate 18,4 g; Zucker 12,4 g; Ballaststoffe 1 g; Eiweiß 5,2 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "storage": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "Lagerung: Bei -18° im Gefrierschrank lagern.\n\nZubereitung: Vor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\nHinweis: Nach dem Auftauen nicht erneut einfrieren. \nNach dem Auftauen gekühlt lagern und innerhalb von 2 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        }
+      }
+    },
+    "usta-1700100": {
+      "name": "Himbeer-Trileçe",
+      "description": "Ein Fest des Himbeergeschmacks, gefertigt mit der Handwerkskunst von Hafız Mustafa 1864.",
+      "ingredients": "Trileçe-Kuchen ( Weizenmehl, Eier, Zucker, Backpulver), Milchsirup(Milch, Milchsahne, Schlagcreme), Himbeersoße (Wasser Zucker, Himbeeren, kalter Himbeerguss).",
+      "allergenInfo": "Enthält Gluten, Milcherzeugnisse, Eier, Soja, Sulfite.",
+      "servingSuggestion": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "storage": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "longTermStorage": "Lagerung: Bei -18° im Gefrierschrank lagern.\n\nZubereitung: Vor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\nHinweis: Nach dem Auftauen nicht erneut einfrieren. \nNach dem Auftauen gekühlt lagern und innerhalb von 2 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 272,9 kcal / 1141,8 kJ; Fett 19,2 g; Gesättigte Fettsäuren 13,1 g; Kohlenhydrate 22,1 g; Zucker 13,8 g; Ballaststoffe 0,4 g; Eiweiß 4,1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10001": {
+          "label": "Auf dem Teller serviert",
+          "description": "Ein Fest des Himbeergeschmacks, gefertigt mit der Handwerkskunst von Hafız Mustafa 1864.",
+          "weight": "255 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Trileçe-Kuchen ( Weizenmehl, Eier, Zucker, Backpulver), Milchsirup(Milch, Milchsahne, Schlagcreme), Himbeersoße (Wasser Zucker, Himbeeren, kalter Himbeerguss).",
+          "allergenInfo": "Enthält Gluten, Milcherzeugnisse, Eier, Soja, Sulfite.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 272,9 kcal / 1141,8 kJ; Fett 19,2 g; Gesättigte Fettsäuren 13,1 g; Kohlenhydrate 22,1 g; Zucker 13,8 g; Ballaststoffe 0,4 g; Eiweiß 4,1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "storage": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "longTermStorage": "Lagerung: Bei -18° im Gefrierschrank lagern.\n\nZubereitung: Vor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\n\nHinweis: Nach dem Auftauen nicht erneut einfrieren. \nNach dem Auftauen gekühlt lagern und innerhalb von 2 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        }
+      }
+    }
+  }
 }

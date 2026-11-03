@@ -2,5 +2,967 @@
   "schemaVersion": 1,
   "categoryId": "kadayiflar",
   "language": "en",
-  "products": {}
+  "products": {
+    "usta-1213102": {
+      "name": "Künefe",
+      "description": "A Hafız Mustafa 1864 creation combining crisp kadayif and cheese.",
+      "ingredients": "water, wheat flour, sugar, pistachios, cheese, vegetable oil, lemon juice.",
+      "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+      "servingSuggestion": "Serve künefe hot to preserve the stretchy cheese and crisp kadayif. If desired, garnish with pistachios and serve with clotted cream or plain ice cream.",
+      "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+      "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 298 kcal / 1246.832 kJ; Fat 6.42 g; Saturated fat 3.36 g; Carbohydrate 58.43 g; Sugars 54.34 g; Fibre 0 g; Protein 1.59 g; Salt 0.04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10201": {
+          "label": "Plated Serving",
+          "description": "A Hafız Mustafa 1864 creation combining crisp kadayif and cheese.",
+          "weight": "240 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "water, wheat flour, sugar, pistachios, cheese, vegetable oil, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 298 kcal / 1246.832 kJ; Fat 6.42 g; Saturated fat 3.36 g; Carbohydrate 58.43 g; Sugars 54.34 g; Fibre 0 g; Protein 1.59 g; Salt 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serve künefe hot to preserve the stretchy cheese and crisp kadayif. If desired, garnish with pistachios and serve with clotted cream or plain ice cream.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1213101": {
+      "name": "Honey Künefe",
+      "description": "Honey meets kadayif and cheese in a delightful combination.",
+      "ingredients": "water, wheat flour, sugar, clarified butter, pistachios, vegetable oil, lemon juice.",
+      "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+      "servingSuggestion": "Serve künefe hot to preserve the stretchy cheese and crisp kadayif. If desired, garnish with pistachios and serve with clotted cream or plain ice cream.",
+      "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+      "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 288 kcal / 1204.992 kJ; Fat 4.61 g; Saturated fat 2.66 g; Carbohydrate 59.67 g; Sugars 55.7 g; Fibre 0.23 g; Protein 1.78 g; Salt 0.08 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10101": {
+          "label": "Plated Serving",
+          "description": "Honey meets kadayif and cheese in a delightful combination.",
+          "weight": "240 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "water, wheat flour, sugar, clarified butter, pistachios, vegetable oil, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 288 kcal / 1204.992 kJ; Fat 4.61 g; Saturated fat 2.66 g; Carbohydrate 59.67 g; Sugars 55.7 g; Fibre 0.23 g; Protein 1.78 g; Salt 0.08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serve künefe hot to preserve the stretchy cheese and crisp kadayif. If desired, garnish with pistachios and serve with clotted cream or plain ice cream.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1213100": {
+      "name": "Chocolate Künefe",
+      "description": "The distinctive harmony of chocolate and künefe.",
+      "ingredients": "water, wheat flour, sugar, pistachios, cheese, cocoa powder, dark chocolate powder, vegetable oil, lemon juice.",
+      "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+      "servingSuggestion": "Serve künefe hot to preserve the stretchy cheese and crisp kadayif. If desired, garnish with pistachios and serve with clotted cream or plain ice cream.",
+      "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+      "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 288 kcal / 1204.992 kJ; Fat 4.61 g; Saturated fat 2.66 g; Carbohydrate 59.67 g; Sugars 55.7 g; Fibre 0.23 g; Protein 1.78 g; Salt 0.08 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10001": {
+          "label": "Plated Serving",
+          "description": "The distinctive harmony of chocolate and künefe.",
+          "weight": "240 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "water, wheat flour, sugar, pistachios, cheese, cocoa powder, dark chocolate powder, vegetable oil, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 288 kcal / 1204.992 kJ; Fat 4.61 g; Saturated fat 2.66 g; Carbohydrate 59.67 g; Sugars 55.7 g; Fibre 0.23 g; Protein 1.78 g; Salt 0.08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Serve künefe hot to preserve the stretchy cheese and crisp kadayif. If desired, garnish with pistachios and serve with clotted cream or plain ice cream.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1212101": {
+      "name": "Sultan Turkish Delight Ottoman Palace Kadayif",
+      "description": "An award-winning combination of kadayif and Turkish delight.",
+      "ingredients": "Turkish delight (water, sugar, corn starch, acidity regulator (citric acid), pistachios (%14), depending on the variety vanillin ve soapwort extract), syrup-soaked kadayif (wheat flour, water, clarified butter, hydrogenated vegetable fat, lemon juice, sugar).",
+      "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+      "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+      "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+      "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 270 kcal / 1129.68 kJ; Fat 9.51 g; Saturated fat 1.36 g; Carbohydrate 41.9 g; Sugars 25.88 g; Fibre 0.9 g; Protein 3.61 g; Salt 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10101": {
+          "label": "Plated Serving",
+          "description": "An award-winning combination of kadayif and Turkish delight.",
+          "weight": "100 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "Turkish delight (water, sugar, corn starch, acidity regulator (citric acid), pistachios (%14), depending on the variety vanillin ve soapwort extract), syrup-soaked kadayif (wheat flour, water, clarified butter, hydrogenated vegetable fat, lemon juice, sugar).",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 270 kcal / 1129.68 kJ; Fat 9.51 g; Saturated fat 1.36 g; Carbohydrate 41.9 g; Sugars 25.88 g; Fibre 0.9 g; Protein 3.61 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "Plated serving"
+        },
+        "1212.10102": {
+          "label": "XL",
+          "description": "An award-winning combination of kadayif and Turkish delight.",
+          "weight": "1200 g",
+          "portion": "≈ 12 servings",
+          "ingredients": "Turkish delight (water, sugar, corn starch, acidity regulator (citric acid), pistachios (%14), depending on the variety vanillin ve soapwort extract), syrup-soaked kadayif (wheat flour, water, clarified butter, hydrogenated vegetable fat, lemon juice, sugar).",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 270 kcal / 1129.68 kJ; Fat 9.51 g; Saturated fat 1.36 g; Carbohydrate 41.9 g; Sugars 25.88 g; Fibre 0.9 g; Protein 3.61 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "XL Metal Baklava Box\nBox dimensions: 345 × 225 × 45 mm"
+        },
+        "1212.10103": {
+          "label": "L",
+          "description": "An award-winning combination of kadayif and Turkish delight.",
+          "weight": "800 g",
+          "portion": "≈ 8 servings",
+          "ingredients": "Turkish delight (water, sugar, corn starch, acidity regulator (citric acid), pistachios (%14), depending on the variety vanillin ve soapwort extract), syrup-soaked kadayif (wheat flour, water, clarified butter, hydrogenated vegetable fat, lemon juice, sugar).",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 270 kcal / 1129.68 kJ; Fat 9.51 g; Saturated fat 1.36 g; Carbohydrate 41.9 g; Sugars 25.88 g; Fibre 0.9 g; Protein 3.61 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "L Metal Baklava Box\nBox dimensions: 265 × 175 × 45 mm"
+        },
+        "1212.10104": {
+          "label": "M",
+          "description": "An award-winning combination of kadayif and Turkish delight.",
+          "weight": "400 g",
+          "portion": "≈ 4 servings",
+          "ingredients": "Turkish delight (water, sugar, corn starch, acidity regulator (citric acid), pistachios (%14), depending on the variety vanillin ve soapwort extract), syrup-soaked kadayif (wheat flour, water, clarified butter, hydrogenated vegetable fat, lemon juice, sugar).",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 270 kcal / 1129.68 kJ; Fat 9.51 g; Saturated fat 1.36 g; Carbohydrate 41.9 g; Sugars 25.88 g; Fibre 0.9 g; Protein 3.61 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "M Metal Baklava Box\nBox dimensions: 270 × 180 × 45 mm"
+        },
+        "1212.10105": {
+          "label": "S",
+          "description": "An award-winning combination of kadayif and Turkish delight.",
+          "weight": "200 g",
+          "portion": "≈ 2 servings",
+          "ingredients": "Turkish delight (water, sugar, corn starch, acidity regulator (citric acid), pistachios (%14), depending on the variety vanillin ve soapwort extract), syrup-soaked kadayif (wheat flour, water, clarified butter, hydrogenated vegetable fat, lemon juice, sugar).",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 270 kcal / 1129.68 kJ; Fat 9.51 g; Saturated fat 1.36 g; Carbohydrate 41.9 g; Sugars 25.88 g; Fibre 0.9 g; Protein 3.61 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "S Metal Baklava Box\nBox dimensions: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1212100": {
+      "name": "Pomegranate Turkish Delight Ottoman Palace Kadayif",
+      "description": "A traditional combination of pistachios, pomegranate Turkish delight and kadayif.",
+      "ingredients": "Turkish delight (water, sugar, corn starch, pistachios (%20), acidity regulator (citric acid), depending on the variety pomegranate flavouring ve colouring (anthocyanin)), syrup-soaked kadayif (wheat flour, water, clarified butter, hydrogenated vegetable fat, lemon juice, sugar).",
+      "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+      "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+      "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+      "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 284.45 kcal / 1190.1388 kJ; Fat 9.73 g; Saturated fat 1.36 g; Carbohydrate 44.94 g; Sugars 30.08 g; Fibre 1.03 g; Protein 3.74 g; Salt 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10001": {
+          "label": "Plated Serving",
+          "description": "A traditional combination of pistachios, pomegranate Turkish delight and kadayif.",
+          "weight": "100 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "Turkish delight (water, sugar, corn starch, pistachios (%20), acidity regulator (citric acid), depending on the variety pomegranate flavouring ve colouring (anthocyanin)), syrup-soaked kadayif (wheat flour, water, clarified butter, hydrogenated vegetable fat, lemon juice, sugar).",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 284.45 kcal / 1190.1388 kJ; Fat 9.73 g; Saturated fat 1.36 g; Carbohydrate 44.94 g; Sugars 30.08 g; Fibre 1.03 g; Protein 3.74 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "Plated serving"
+        },
+        "1212.10002": {
+          "label": "XL",
+          "description": "A traditional combination of pistachios, pomegranate Turkish delight and kadayif.",
+          "weight": "1200 g",
+          "portion": "≈ 12 servings",
+          "ingredients": "Turkish delight (water, sugar, corn starch, pistachios (%20), acidity regulator (citric acid), depending on the variety pomegranate flavouring ve colouring (anthocyanin)), syrup-soaked kadayif (wheat flour, water, clarified butter, hydrogenated vegetable fat, lemon juice, sugar).",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 284.45 kcal / 1190.1388 kJ; Fat 9.73 g; Saturated fat 1.36 g; Carbohydrate 44.94 g; Sugars 30.08 g; Fibre 1.03 g; Protein 3.74 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "XL Metal Baklava Box\nBox dimensions: 345 × 225 × 45 mm"
+        },
+        "1212.10003": {
+          "label": "L",
+          "description": "A traditional combination of pistachios, pomegranate Turkish delight and kadayif.",
+          "weight": "800 g",
+          "portion": "≈ 8 servings",
+          "ingredients": "Turkish delight (water, sugar, corn starch, pistachios (%20), acidity regulator (citric acid), depending on the variety pomegranate flavouring ve colouring (anthocyanin)), syrup-soaked kadayif (wheat flour, water, clarified butter, hydrogenated vegetable fat, lemon juice, sugar).",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 284.45 kcal / 1190.1388 kJ; Fat 9.73 g; Saturated fat 1.36 g; Carbohydrate 44.94 g; Sugars 30.08 g; Fibre 1.03 g; Protein 3.74 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "L Metal Baklava Box\nBox dimensions: 265 × 175 × 45 mm"
+        },
+        "1212.10004": {
+          "label": "M",
+          "description": "A traditional combination of pistachios, pomegranate Turkish delight and kadayif.",
+          "weight": "400 g",
+          "portion": "≈ 4 servings",
+          "ingredients": "Turkish delight (water, sugar, corn starch, pistachios (%20), acidity regulator (citric acid), depending on the variety pomegranate flavouring ve colouring (anthocyanin)), syrup-soaked kadayif (wheat flour, water, clarified butter, hydrogenated vegetable fat, lemon juice, sugar).",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 284.45 kcal / 1190.1388 kJ; Fat 9.73 g; Saturated fat 1.36 g; Carbohydrate 44.94 g; Sugars 30.08 g; Fibre 1.03 g; Protein 3.74 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "M Metal Baklava Box\nBox dimensions: 270 × 180 × 45 mm"
+        },
+        "1212.10005": {
+          "label": "S",
+          "description": "A traditional combination of pistachios, pomegranate Turkish delight and kadayif.",
+          "weight": "200 g",
+          "portion": "≈ 2 servings",
+          "ingredients": "Turkish delight (water, sugar, corn starch, pistachios (%20), acidity regulator (citric acid), depending on the variety pomegranate flavouring ve colouring (anthocyanin)), syrup-soaked kadayif (wheat flour, water, clarified butter, hydrogenated vegetable fat, lemon juice, sugar).",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 284.45 kcal / 1190.1388 kJ; Fat 9.73 g; Saturated fat 1.36 g; Carbohydrate 44.94 g; Sugars 30.08 g; Fibre 1.03 g; Protein 3.74 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "S Metal Baklava Box\nBox dimensions: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1211100": {
+      "name": "Walnut Ottoman Palace Kadayif",
+      "description": "An expertly crafted gourmet combination of walnuts and kadayif.",
+      "ingredients": "water, wheat flour, sugar, walnuts, vegetable oil, clarified butter, lemon juice.",
+      "allergenInfo": "Gluten (wheat), milk and dairy products, walnuts. May contain traces of pistachios because products containing pistachios are made on the same production line.",
+      "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+      "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+      "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 423.34 kcal / 1771.25456 kJ; Fat 26.9 g; Saturated fat 3.31 g; Carbohydrate 36.4 g; Sugars 25.52 g; Fibre 2.34 g; Protein 7.7 g; Salt 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1211.10001": {
+          "label": "Plated Serving",
+          "description": "An expertly crafted gourmet combination of walnuts and kadayif.",
+          "weight": "100 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "water, wheat flour, sugar, walnuts, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, walnuts. May contain traces of pistachios because products containing pistachios are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 423.34 kcal / 1771.25456 kJ; Fat 26.9 g; Saturated fat 3.31 g; Carbohydrate 36.4 g; Sugars 25.52 g; Fibre 2.34 g; Protein 7.7 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "Plated serving"
+        },
+        "1211.10002": {
+          "label": "XL",
+          "description": "An expertly crafted gourmet combination of walnuts and kadayif.",
+          "weight": "1200 g",
+          "portion": "≈ 12 servings",
+          "ingredients": "water, wheat flour, sugar, walnuts, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, walnuts. May contain traces of pistachios because products containing pistachios are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 423.34 kcal / 1771.25456 kJ; Fat 26.9 g; Saturated fat 3.31 g; Carbohydrate 36.4 g; Sugars 25.52 g; Fibre 2.34 g; Protein 7.7 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "XL Metal Baklava Box\nBox dimensions: 345 × 225 × 45 mm"
+        },
+        "1211.10003": {
+          "label": "L",
+          "description": "An expertly crafted gourmet combination of walnuts and kadayif.",
+          "weight": "800 g",
+          "portion": "≈ 8 servings",
+          "ingredients": "water, wheat flour, sugar, walnuts, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, walnuts. May contain traces of pistachios because products containing pistachios are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 423.34 kcal / 1771.25456 kJ; Fat 26.9 g; Saturated fat 3.31 g; Carbohydrate 36.4 g; Sugars 25.52 g; Fibre 2.34 g; Protein 7.7 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "L Metal Baklava Box\nBox dimensions: 265 × 175 × 45 mm"
+        },
+        "1211.10004": {
+          "label": "M",
+          "description": "An expertly crafted gourmet combination of walnuts and kadayif.",
+          "weight": "400 g",
+          "portion": "≈ 4 servings",
+          "ingredients": "water, wheat flour, sugar, walnuts, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, walnuts. May contain traces of pistachios because products containing pistachios are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 423.34 kcal / 1771.25456 kJ; Fat 26.9 g; Saturated fat 3.31 g; Carbohydrate 36.4 g; Sugars 25.52 g; Fibre 2.34 g; Protein 7.7 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "M Metal Baklava Box\nBox dimensions: 270 × 180 × 45 mm"
+        },
+        "1211.10005": {
+          "label": "S",
+          "description": "An expertly crafted gourmet combination of walnuts and kadayif.",
+          "weight": "200 g",
+          "portion": "≈ 2 servings",
+          "ingredients": "water, wheat flour, sugar, walnuts, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, walnuts. May contain traces of pistachios because products containing pistachios are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 423.34 kcal / 1771.25456 kJ; Fat 26.9 g; Saturated fat 3.31 g; Carbohydrate 36.4 g; Sugars 25.52 g; Fibre 2.34 g; Protein 7.7 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "S Metal Baklava Box\nBox dimensions: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210104": {
+      "name": "Pistachio Ottoman Palace Kadayif",
+      "description": "A feast of rich kadayif and generous pistachios.",
+      "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+      "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+      "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+      "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+      "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 401 kcal / 1677.784 kJ; Fat 23.34 g; Saturated fat 1.2 g; Carbohydrate 37.1 g; Sugars 21.2 g; Fibre 3.89 g; Protein 8.5 g; Salt 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10401": {
+          "label": "Plated Serving",
+          "description": "A feast of rich kadayif and generous pistachios.",
+          "weight": "100 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 401 kcal / 1677.784 kJ; Fat 23.34 g; Saturated fat 1.2 g; Carbohydrate 37.1 g; Sugars 21.2 g; Fibre 3.89 g; Protein 8.5 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "Plated serving"
+        },
+        "1210.10402": {
+          "label": "XL",
+          "description": "A feast of rich kadayif and generous pistachios.",
+          "weight": "1200 g",
+          "portion": "≈ 12 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 401 kcal / 1677.784 kJ; Fat 23.34 g; Saturated fat 1.2 g; Carbohydrate 37.1 g; Sugars 21.2 g; Fibre 3.89 g; Protein 8.5 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "XL Metal Baklava Box\nBox dimensions: 345 × 225 × 45 mm"
+        },
+        "1210.10403": {
+          "label": "L",
+          "description": "A feast of rich kadayif and generous pistachios.",
+          "weight": "800 g",
+          "portion": "≈ 8 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 401 kcal / 1677.784 kJ; Fat 23.34 g; Saturated fat 1.2 g; Carbohydrate 37.1 g; Sugars 21.2 g; Fibre 3.89 g; Protein 8.5 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "L Metal Baklava Box\nBox dimensions: 265 × 175 × 45 mm"
+        },
+        "1210.10404": {
+          "label": "M",
+          "description": "A feast of rich kadayif and generous pistachios.",
+          "weight": "400 g",
+          "portion": "≈ 4 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 401 kcal / 1677.784 kJ; Fat 23.34 g; Saturated fat 1.2 g; Carbohydrate 37.1 g; Sugars 21.2 g; Fibre 3.89 g; Protein 8.5 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "M Metal Baklava Box\nBox dimensions: 270 × 180 × 45 mm"
+        },
+        "1210.10405": {
+          "label": "S",
+          "description": "A feast of rich kadayif and generous pistachios.",
+          "weight": "200 g",
+          "portion": "≈ 2 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 401 kcal / 1677.784 kJ; Fat 23.34 g; Saturated fat 1.2 g; Carbohydrate 37.1 g; Sugars 21.2 g; Fibre 3.89 g; Protein 8.5 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "S Metal Baklava Box\nBox dimensions: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210103": {
+      "name": "Pistachio Antep Burma Kadayif",
+      "description": "A flavour journey through special pistachios wrapped in kadayif.",
+      "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+      "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+      "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+      "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+      "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 338.5 kcal / 1416.284 kJ; Fat 16 g; Saturated fat 0.16 g; Carbohydrate 41.91 g; Sugars 24.4 g; Fibre 1.8 g; Protein 5.7 g; Salt 0.04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10301": {
+          "label": "Plated Serving",
+          "description": "A flavour journey through special pistachios wrapped in kadayif.",
+          "weight": "62.5 g",
+          "portion": "Less than 1 serving",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 338.5 kcal / 1416.284 kJ; Fat 16 g; Saturated fat 0.16 g; Carbohydrate 41.91 g; Sugars 24.4 g; Fibre 1.8 g; Protein 5.7 g; Salt 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "Plated serving"
+        },
+        "1210.10302": {
+          "label": "XL",
+          "description": "A flavour journey through special pistachios wrapped in kadayif.",
+          "weight": "750 g",
+          "portion": "≈ 4 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 338.5 kcal / 1416.284 kJ; Fat 16 g; Saturated fat 0.16 g; Carbohydrate 41.91 g; Sugars 24.4 g; Fibre 1.8 g; Protein 5.7 g; Salt 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "XL Metal Baklava Box\nBox dimensions: 345 × 225 × 45 mm"
+        },
+        "1210.10303": {
+          "label": "L",
+          "description": "A flavour journey through special pistachios wrapped in kadayif.",
+          "weight": "500 g",
+          "portion": "≈ 3 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 338.5 kcal / 1416.284 kJ; Fat 16 g; Saturated fat 0.16 g; Carbohydrate 41.91 g; Sugars 24.4 g; Fibre 1.8 g; Protein 5.7 g; Salt 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "L Metal Baklava Box\nBox dimensions: 265 × 175 × 45 mm"
+        },
+        "1210.10304": {
+          "label": "M",
+          "description": "A flavour journey through special pistachios wrapped in kadayif.",
+          "weight": "250 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 338.5 kcal / 1416.284 kJ; Fat 16 g; Saturated fat 0.16 g; Carbohydrate 41.91 g; Sugars 24.4 g; Fibre 1.8 g; Protein 5.7 g; Salt 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "M Metal Baklava Box\nBox dimensions: 270 × 180 × 45 mm"
+        },
+        "1210.10305": {
+          "label": "S",
+          "description": "A flavour journey through special pistachios wrapped in kadayif.",
+          "weight": "125 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 338.5 kcal / 1416.284 kJ; Fat 16 g; Saturated fat 0.16 g; Carbohydrate 41.91 g; Sugars 24.4 g; Fibre 1.8 g; Protein 5.7 g; Salt 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "S Metal Baklava Box\nBox dimensions: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210102": {
+      "name": "Pistachio Aleppo Burma Kadayif",
+      "description": "Special-harvest pistachios wrapped in delicious kadayif.",
+      "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, lemon juice.",
+      "allergenInfo": "Gluten (wheat), pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+      "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+      "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+      "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 389.5 kcal / 1629.668 kJ; Fat 23.2 g; Saturated fat 4.79 g; Carbohydrate 36.73 g; Sugars 18.8 g; Fibre 2.69 g; Protein 7.06 g; Salt 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10201": {
+          "label": "Plated Serving",
+          "description": "Special-harvest pistachios wrapped in delicious kadayif.",
+          "weight": "170 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, lemon juice.",
+          "allergenInfo": "Gluten (wheat), pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 389.5 kcal / 1629.668 kJ; Fat 23.2 g; Saturated fat 4.79 g; Carbohydrate 36.73 g; Sugars 18.8 g; Fibre 2.69 g; Protein 7.06 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "Plated serving"
+        },
+        "1210.10202": {
+          "label": "XL",
+          "description": "Special-harvest pistachios wrapped in delicious kadayif.",
+          "weight": "2040 g",
+          "portion": "≈ 12 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, lemon juice.",
+          "allergenInfo": "Gluten (wheat), pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 389.5 kcal / 1629.668 kJ; Fat 23.2 g; Saturated fat 4.79 g; Carbohydrate 36.73 g; Sugars 18.8 g; Fibre 2.69 g; Protein 7.06 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "XL Metal Baklava Box\nBox dimensions: 345 × 225 × 45 mm"
+        },
+        "1210.10203": {
+          "label": "L",
+          "description": "Special-harvest pistachios wrapped in delicious kadayif.",
+          "weight": "1360 g",
+          "portion": "≈ 8 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, lemon juice.",
+          "allergenInfo": "Gluten (wheat), pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 389.5 kcal / 1629.668 kJ; Fat 23.2 g; Saturated fat 4.79 g; Carbohydrate 36.73 g; Sugars 18.8 g; Fibre 2.69 g; Protein 7.06 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "L Metal Baklava Box\nBox dimensions: 265 × 175 × 45 mm"
+        },
+        "1210.10204": {
+          "label": "M",
+          "description": "Special-harvest pistachios wrapped in delicious kadayif.",
+          "weight": "680 g",
+          "portion": "≈ 4 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, lemon juice.",
+          "allergenInfo": "Gluten (wheat), pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 389.5 kcal / 1629.668 kJ; Fat 23.2 g; Saturated fat 4.79 g; Carbohydrate 36.73 g; Sugars 18.8 g; Fibre 2.69 g; Protein 7.06 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "M Metal Baklava Box\nBox dimensions: 270 × 180 × 45 mm"
+        },
+        "1210.10205": {
+          "label": "S",
+          "description": "Special-harvest pistachios wrapped in delicious kadayif.",
+          "weight": "340 g",
+          "portion": "≈ 2 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, lemon juice.",
+          "allergenInfo": "Gluten (wheat), pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 389.5 kcal / 1629.668 kJ; Fat 23.2 g; Saturated fat 4.79 g; Carbohydrate 36.73 g; Sugars 18.8 g; Fibre 2.69 g; Protein 7.06 g; Salt 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "S Metal Baklava Box\nBox dimensions: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210101": {
+      "name": "Pistachio Sultaniye Kadayif",
+      "description": "A dream of soft, crisp kadayif coated in pistachios.",
+      "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+      "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+      "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+      "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+      "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 348.3 kcal / 1457.2872 kJ; Fat 16.41 g; Saturated fat 2.28 g; Carbohydrate 44.61 g; Sugars 31.12 g; Fibre 1.64 g; Protein 4.71 g; Salt 0.03 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10101": {
+          "label": "XL",
+          "description": "A dream of soft, crisp kadayif coated in pistachios.",
+          "weight": "2400 g",
+          "portion": "≈ 12 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 348.3 kcal / 1457.2872 kJ; Fat 16.41 g; Saturated fat 2.28 g; Carbohydrate 44.61 g; Sugars 31.12 g; Fibre 1.64 g; Protein 4.71 g; Salt 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "XL Metal Baklava Box\nBox dimensions: 345 × 225 × 45 mm"
+        },
+        "1210.10102": {
+          "label": "L",
+          "description": "A dream of soft, crisp kadayif coated in pistachios.",
+          "weight": "1600 g",
+          "portion": "≈ 8 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 348.3 kcal / 1457.2872 kJ; Fat 16.41 g; Saturated fat 2.28 g; Carbohydrate 44.61 g; Sugars 31.12 g; Fibre 1.64 g; Protein 4.71 g; Salt 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "L Metal Baklava Box\nBox dimensions: 265 × 175 × 45 mm"
+        },
+        "1210.10103": {
+          "label": "M",
+          "description": "A dream of soft, crisp kadayif coated in pistachios.",
+          "weight": "800 g",
+          "portion": "≈ 4 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 348.3 kcal / 1457.2872 kJ; Fat 16.41 g; Saturated fat 2.28 g; Carbohydrate 44.61 g; Sugars 31.12 g; Fibre 1.64 g; Protein 4.71 g; Salt 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "M Metal Baklava Box\nBox dimensions: 270 × 180 × 45 mm"
+        },
+        "1210.10104": {
+          "label": "S",
+          "description": "A dream of soft, crisp kadayif coated in pistachios.",
+          "weight": "400 g",
+          "portion": "≈ 2 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 348.3 kcal / 1457.2872 kJ; Fat 16.41 g; Saturated fat 2.28 g; Carbohydrate 44.61 g; Sugars 31.12 g; Fibre 1.64 g; Protein 4.71 g; Salt 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "S Metal Baklava Box\nBox dimensions: 195 × 145 × 45 mm"
+        },
+        "1210.10105": {
+          "label": "Slice",
+          "description": "A dream of soft, crisp kadayif coated in pistachios.",
+          "weight": "200 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 348.3 kcal / 1457.2872 kJ; Fat 16.41 g; Saturated fat 2.28 g; Carbohydrate 44.61 g; Sugars 31.12 g; Fibre 1.64 g; Protein 4.71 g; Salt 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1210100": {
+      "name": "Pistachio Kadayif",
+      "description": "A symphony of kadayif and early-harvest pistachios.",
+      "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+      "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+      "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+      "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+      "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 353.33 kcal / 1478.33272 kJ; Fat 17.33 g; Saturated fat 3.1 g; Carbohydrate 44.63 g; Sugars 30.9 g; Fibre 1.2 g; Protein 4 g; Salt 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10001": {
+          "label": "Plated Serving",
+          "description": "A symphony of kadayif and early-harvest pistachios.",
+          "weight": "166.6 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 353.33 kcal / 1478.33272 kJ; Fat 17.33 g; Saturated fat 3.1 g; Carbohydrate 44.63 g; Sugars 30.9 g; Fibre 1.2 g; Protein 4 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "Plated serving"
+        },
+        "1210.10002": {
+          "label": "XL",
+          "description": "A symphony of kadayif and early-harvest pistachios.",
+          "weight": "1999.2 g",
+          "portion": "≈ 12 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 353.33 kcal / 1478.33272 kJ; Fat 17.33 g; Saturated fat 3.1 g; Carbohydrate 44.63 g; Sugars 30.9 g; Fibre 1.2 g; Protein 4 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "XL Metal Baklava Box\nBox dimensions: 345 × 225 × 45 mm"
+        },
+        "1210.10003": {
+          "label": "L",
+          "description": "A symphony of kadayif and early-harvest pistachios.",
+          "weight": "1332.8 g",
+          "portion": "≈ 8 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 353.33 kcal / 1478.33272 kJ; Fat 17.33 g; Saturated fat 3.1 g; Carbohydrate 44.63 g; Sugars 30.9 g; Fibre 1.2 g; Protein 4 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "L Metal Baklava Box\nBox dimensions: 265 × 175 × 45 mm"
+        },
+        "1210.10004": {
+          "label": "M",
+          "description": "A symphony of kadayif and early-harvest pistachios.",
+          "weight": "666.4 g",
+          "portion": "≈ 4 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 353.33 kcal / 1478.33272 kJ; Fat 17.33 g; Saturated fat 3.1 g; Carbohydrate 44.63 g; Sugars 30.9 g; Fibre 1.2 g; Protein 4 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "M Metal Baklava Box\nBox dimensions: 270 × 180 × 45 mm"
+        },
+        "1210.10005": {
+          "label": "S",
+          "description": "A symphony of kadayif and early-harvest pistachios.",
+          "weight": "333.2 g",
+          "portion": "≈ 2 servings",
+          "ingredients": "water, wheat flour, sugar, pistachios, vegetable oil, clarified butter, lemon juice.",
+          "allergenInfo": "Gluten (wheat), milk and dairy products, pistachios. May contain traces of walnuts because products containing walnuts are made on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 353.33 kcal / 1478.33272 kJ; Fat 17.33 g; Saturated fat 3.1 g; Carbohydrate 44.63 g; Sugars 30.9 g; Fibre 1.2 g; Protein 4 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Store in a cool, dry place away from direct sunlight.\n\nFor everyday consumption, we recommend avoiding refrigeration, as it may affect the consistency of the syrup.",
+          "storage": "For the best flavour, enjoy your product at room temperature.\n\nYou may also gently warm it in the oven before serving.",
+          "longTermStorage": "You can store your products in the freezer at -18 °C for up to 30 days.\n\nFor the best flavour, thaw at +4 °C for 2 hours, then allow to rest at room temperature for 30 minutes before serving.  Thawing directly at room temperature may cause dryness and a loss of crispness.\n\nDo not refreeze thawed products.",
+          "packaging": "S Metal Baklava Box\nBox dimensions: 195 × 145 × 45 mm"
+        }
+      }
+    }
+  }
 }

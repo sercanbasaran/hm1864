@@ -2,5 +2,967 @@
   "schemaVersion": 1,
   "categoryId": "kadayiflar",
   "language": "de",
-  "products": {}
+  "products": {
+    "usta-1213102": {
+      "name": "Künefe",
+      "description": "Eine Kreation von Hafız Mustafa 1864 aus knusprigem Kadayif und Käse.",
+      "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Käse, Pflanzenöl, Zitronensaft.",
+      "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+      "servingSuggestion": "Künefe heiß servieren, damit der Käse Fäden zieht und der Kadayif knusprig bleibt. Nach Wunsch mit Pistazien garnieren und mit Kaymak oder Natureis servieren.",
+      "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+      "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 298 kcal / 1246,832 kJ; Fett 6,42 g; Gesättigte Fettsäuren 3,36 g; Kohlenhydrate 58,43 g; Zucker 54,34 g; Ballaststoffe 0 g; Eiweiß 1,59 g; Salz 0,04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10201": {
+          "label": "Auf dem Teller serviert",
+          "description": "Eine Kreation von Hafız Mustafa 1864 aus knusprigem Kadayif und Käse.",
+          "weight": "240 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Käse, Pflanzenöl, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 298 kcal / 1246,832 kJ; Fett 6,42 g; Gesättigte Fettsäuren 3,36 g; Kohlenhydrate 58,43 g; Zucker 54,34 g; Ballaststoffe 0 g; Eiweiß 1,59 g; Salz 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Künefe heiß servieren, damit der Käse Fäden zieht und der Kadayif knusprig bleibt. Nach Wunsch mit Pistazien garnieren und mit Kaymak oder Natureis servieren.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "Auf dem Teller serviert"
+        }
+      }
+    },
+    "usta-1213101": {
+      "name": "Honig-Künefe",
+      "description": "Honig trifft auf Kadayif und Käse – eine köstliche Verbindung.",
+      "ingredients": "Wasser, Weizenmehl, Zucker, Butterreinfett, Pistazien, Pflanzenöl, Zitronensaft.",
+      "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+      "servingSuggestion": "Künefe heiß servieren, damit der Käse Fäden zieht und der Kadayif knusprig bleibt. Nach Wunsch mit Pistazien garnieren und mit Kaymak oder Natureis servieren.",
+      "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+      "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 288 kcal / 1204,992 kJ; Fett 4,61 g; Gesättigte Fettsäuren 2,66 g; Kohlenhydrate 59,67 g; Zucker 55,7 g; Ballaststoffe 0,23 g; Eiweiß 1,78 g; Salz 0,08 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10101": {
+          "label": "Auf dem Teller serviert",
+          "description": "Honig trifft auf Kadayif und Käse – eine köstliche Verbindung.",
+          "weight": "240 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Butterreinfett, Pistazien, Pflanzenöl, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 288 kcal / 1204,992 kJ; Fett 4,61 g; Gesättigte Fettsäuren 2,66 g; Kohlenhydrate 59,67 g; Zucker 55,7 g; Ballaststoffe 0,23 g; Eiweiß 1,78 g; Salz 0,08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Künefe heiß servieren, damit der Käse Fäden zieht und der Kadayif knusprig bleibt. Nach Wunsch mit Pistazien garnieren und mit Kaymak oder Natureis servieren.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "Auf dem Teller serviert"
+        }
+      }
+    },
+    "usta-1213100": {
+      "name": "Schokoladen-Künefe",
+      "description": "Die besondere Harmonie von Schokolade und Künefe.",
+      "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Käse, Kakaopulver, dunkles Schokoladenpulver, Pflanzenöl, Zitronensaft.",
+      "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+      "servingSuggestion": "Künefe heiß servieren, damit der Käse Fäden zieht und der Kadayif knusprig bleibt. Nach Wunsch mit Pistazien garnieren und mit Kaymak oder Natureis servieren.",
+      "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+      "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 288 kcal / 1204,992 kJ; Fett 4,61 g; Gesättigte Fettsäuren 2,66 g; Kohlenhydrate 59,67 g; Zucker 55,7 g; Ballaststoffe 0,23 g; Eiweiß 1,78 g; Salz 0,08 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10001": {
+          "label": "Auf dem Teller serviert",
+          "description": "Die besondere Harmonie von Schokolade und Künefe.",
+          "weight": "240 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Käse, Kakaopulver, dunkles Schokoladenpulver, Pflanzenöl, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 288 kcal / 1204,992 kJ; Fett 4,61 g; Gesättigte Fettsäuren 2,66 g; Kohlenhydrate 59,67 g; Zucker 55,7 g; Ballaststoffe 0,23 g; Eiweiß 1,78 g; Salz 0,08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Künefe heiß servieren, damit der Käse Fäden zieht und der Kadayif knusprig bleibt. Nach Wunsch mit Pistazien garnieren und mit Kaymak oder Natureis servieren.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "Auf dem Teller serviert"
+        }
+      }
+    },
+    "usta-1212101": {
+      "name": "Osmanischer Palast-Kadayif mit Sultan-Lokum",
+      "description": "Eine preisgekrönte Verbindung von Kadayif und Lokum.",
+      "ingredients": "Lokum (Wasser, Zucker, Maisstärke, Säuerungsmittel (Zitronensäure), Pistazien (%14), je nach Sorte Vanillin ve Seifenkrautextrakt), Kadayif in Sirup (Weizenmehl, Wasser, Butterreinfett, gehärtetes Pflanzenfett, Zitronensaft, Zucker).",
+      "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+      "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+      "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+      "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 270 kcal / 1129,68 kJ; Fett 9,51 g; Gesättigte Fettsäuren 1,36 g; Kohlenhydrate 41,9 g; Zucker 25,88 g; Ballaststoffe 0,9 g; Eiweiß 3,61 g; Salz 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10101": {
+          "label": "Auf dem Teller serviert",
+          "description": "Eine preisgekrönte Verbindung von Kadayif und Lokum.",
+          "weight": "100 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Lokum (Wasser, Zucker, Maisstärke, Säuerungsmittel (Zitronensäure), Pistazien (%14), je nach Sorte Vanillin ve Seifenkrautextrakt), Kadayif in Sirup (Weizenmehl, Wasser, Butterreinfett, gehärtetes Pflanzenfett, Zitronensaft, Zucker).",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 270 kcal / 1129,68 kJ; Fett 9,51 g; Gesättigte Fettsäuren 1,36 g; Kohlenhydrate 41,9 g; Zucker 25,88 g; Ballaststoffe 0,9 g; Eiweiß 3,61 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1212.10102": {
+          "label": "XL",
+          "description": "Eine preisgekrönte Verbindung von Kadayif und Lokum.",
+          "weight": "1200 g",
+          "portion": "≈ 12 Portionen",
+          "ingredients": "Lokum (Wasser, Zucker, Maisstärke, Säuerungsmittel (Zitronensäure), Pistazien (%14), je nach Sorte Vanillin ve Seifenkrautextrakt), Kadayif in Sirup (Weizenmehl, Wasser, Butterreinfett, gehärtetes Pflanzenfett, Zitronensaft, Zucker).",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 270 kcal / 1129,68 kJ; Fett 9,51 g; Gesättigte Fettsäuren 1,36 g; Kohlenhydrate 41,9 g; Zucker 25,88 g; Ballaststoffe 0,9 g; Eiweiß 3,61 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "XL Baklava-Metalldose\nMaße der Box: 345 × 225 × 45 mm"
+        },
+        "1212.10103": {
+          "label": "L",
+          "description": "Eine preisgekrönte Verbindung von Kadayif und Lokum.",
+          "weight": "800 g",
+          "portion": "≈ 8 Portionen",
+          "ingredients": "Lokum (Wasser, Zucker, Maisstärke, Säuerungsmittel (Zitronensäure), Pistazien (%14), je nach Sorte Vanillin ve Seifenkrautextrakt), Kadayif in Sirup (Weizenmehl, Wasser, Butterreinfett, gehärtetes Pflanzenfett, Zitronensaft, Zucker).",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 270 kcal / 1129,68 kJ; Fett 9,51 g; Gesättigte Fettsäuren 1,36 g; Kohlenhydrate 41,9 g; Zucker 25,88 g; Ballaststoffe 0,9 g; Eiweiß 3,61 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "L Baklava-Metalldose\nMaße der Box: 265 × 175 × 45 mm"
+        },
+        "1212.10104": {
+          "label": "M",
+          "description": "Eine preisgekrönte Verbindung von Kadayif und Lokum.",
+          "weight": "400 g",
+          "portion": "≈ 4 Portionen",
+          "ingredients": "Lokum (Wasser, Zucker, Maisstärke, Säuerungsmittel (Zitronensäure), Pistazien (%14), je nach Sorte Vanillin ve Seifenkrautextrakt), Kadayif in Sirup (Weizenmehl, Wasser, Butterreinfett, gehärtetes Pflanzenfett, Zitronensaft, Zucker).",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 270 kcal / 1129,68 kJ; Fett 9,51 g; Gesättigte Fettsäuren 1,36 g; Kohlenhydrate 41,9 g; Zucker 25,88 g; Ballaststoffe 0,9 g; Eiweiß 3,61 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "M Baklava-Metalldose\nMaße der Box: 270 × 180 × 45 mm"
+        },
+        "1212.10105": {
+          "label": "S",
+          "description": "Eine preisgekrönte Verbindung von Kadayif und Lokum.",
+          "weight": "200 g",
+          "portion": "≈ 2 Portionen",
+          "ingredients": "Lokum (Wasser, Zucker, Maisstärke, Säuerungsmittel (Zitronensäure), Pistazien (%14), je nach Sorte Vanillin ve Seifenkrautextrakt), Kadayif in Sirup (Weizenmehl, Wasser, Butterreinfett, gehärtetes Pflanzenfett, Zitronensaft, Zucker).",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 270 kcal / 1129,68 kJ; Fett 9,51 g; Gesättigte Fettsäuren 1,36 g; Kohlenhydrate 41,9 g; Zucker 25,88 g; Ballaststoffe 0,9 g; Eiweiß 3,61 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "S Baklava-Metalldose\nMaße der Box: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1212100": {
+      "name": "Osmanischer Palast-Kadayif mit Granatapfel-Lokum",
+      "description": "Eine traditionelle Verbindung von Pistazien, Granatapfel-Lokum und Kadayif.",
+      "ingredients": "Lokum (Wasser, Zucker, Maisstärke, Pistazien (%20), Säuerungsmittel (Zitronensäure), je nach Sorte Granatapfelaroma ve Farbstoff (Anthocyan)), Kadayif in Sirup (Weizenmehl, Wasser, Butterreinfett, gehärtetes Pflanzenfett, Zitronensaft, Zucker).",
+      "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+      "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+      "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+      "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 284,45 kcal / 1190,1388 kJ; Fett 9,73 g; Gesättigte Fettsäuren 1,36 g; Kohlenhydrate 44,94 g; Zucker 30,08 g; Ballaststoffe 1,03 g; Eiweiß 3,74 g; Salz 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10001": {
+          "label": "Auf dem Teller serviert",
+          "description": "Eine traditionelle Verbindung von Pistazien, Granatapfel-Lokum und Kadayif.",
+          "weight": "100 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Lokum (Wasser, Zucker, Maisstärke, Pistazien (%20), Säuerungsmittel (Zitronensäure), je nach Sorte Granatapfelaroma ve Farbstoff (Anthocyan)), Kadayif in Sirup (Weizenmehl, Wasser, Butterreinfett, gehärtetes Pflanzenfett, Zitronensaft, Zucker).",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 284,45 kcal / 1190,1388 kJ; Fett 9,73 g; Gesättigte Fettsäuren 1,36 g; Kohlenhydrate 44,94 g; Zucker 30,08 g; Ballaststoffe 1,03 g; Eiweiß 3,74 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1212.10002": {
+          "label": "XL",
+          "description": "Eine traditionelle Verbindung von Pistazien, Granatapfel-Lokum und Kadayif.",
+          "weight": "1200 g",
+          "portion": "≈ 12 Portionen",
+          "ingredients": "Lokum (Wasser, Zucker, Maisstärke, Pistazien (%20), Säuerungsmittel (Zitronensäure), je nach Sorte Granatapfelaroma ve Farbstoff (Anthocyan)), Kadayif in Sirup (Weizenmehl, Wasser, Butterreinfett, gehärtetes Pflanzenfett, Zitronensaft, Zucker).",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 284,45 kcal / 1190,1388 kJ; Fett 9,73 g; Gesättigte Fettsäuren 1,36 g; Kohlenhydrate 44,94 g; Zucker 30,08 g; Ballaststoffe 1,03 g; Eiweiß 3,74 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "XL Baklava-Metalldose\nMaße der Box: 345 × 225 × 45 mm"
+        },
+        "1212.10003": {
+          "label": "L",
+          "description": "Eine traditionelle Verbindung von Pistazien, Granatapfel-Lokum und Kadayif.",
+          "weight": "800 g",
+          "portion": "≈ 8 Portionen",
+          "ingredients": "Lokum (Wasser, Zucker, Maisstärke, Pistazien (%20), Säuerungsmittel (Zitronensäure), je nach Sorte Granatapfelaroma ve Farbstoff (Anthocyan)), Kadayif in Sirup (Weizenmehl, Wasser, Butterreinfett, gehärtetes Pflanzenfett, Zitronensaft, Zucker).",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 284,45 kcal / 1190,1388 kJ; Fett 9,73 g; Gesättigte Fettsäuren 1,36 g; Kohlenhydrate 44,94 g; Zucker 30,08 g; Ballaststoffe 1,03 g; Eiweiß 3,74 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "L Baklava-Metalldose\nMaße der Box: 265 × 175 × 45 mm"
+        },
+        "1212.10004": {
+          "label": "M",
+          "description": "Eine traditionelle Verbindung von Pistazien, Granatapfel-Lokum und Kadayif.",
+          "weight": "400 g",
+          "portion": "≈ 4 Portionen",
+          "ingredients": "Lokum (Wasser, Zucker, Maisstärke, Pistazien (%20), Säuerungsmittel (Zitronensäure), je nach Sorte Granatapfelaroma ve Farbstoff (Anthocyan)), Kadayif in Sirup (Weizenmehl, Wasser, Butterreinfett, gehärtetes Pflanzenfett, Zitronensaft, Zucker).",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 284,45 kcal / 1190,1388 kJ; Fett 9,73 g; Gesättigte Fettsäuren 1,36 g; Kohlenhydrate 44,94 g; Zucker 30,08 g; Ballaststoffe 1,03 g; Eiweiß 3,74 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "M Baklava-Metalldose\nMaße der Box: 270 × 180 × 45 mm"
+        },
+        "1212.10005": {
+          "label": "S",
+          "description": "Eine traditionelle Verbindung von Pistazien, Granatapfel-Lokum und Kadayif.",
+          "weight": "200 g",
+          "portion": "≈ 2 Portionen",
+          "ingredients": "Lokum (Wasser, Zucker, Maisstärke, Pistazien (%20), Säuerungsmittel (Zitronensäure), je nach Sorte Granatapfelaroma ve Farbstoff (Anthocyan)), Kadayif in Sirup (Weizenmehl, Wasser, Butterreinfett, gehärtetes Pflanzenfett, Zitronensaft, Zucker).",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 284,45 kcal / 1190,1388 kJ; Fett 9,73 g; Gesättigte Fettsäuren 1,36 g; Kohlenhydrate 44,94 g; Zucker 30,08 g; Ballaststoffe 1,03 g; Eiweiß 3,74 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "S Baklava-Metalldose\nMaße der Box: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1211100": {
+      "name": "Osmanischer Palast-Kadayif mit Walnüssen",
+      "description": "Eine meisterhaft zubereitete Gourmetverbindung von Walnüssen und Kadayif.",
+      "ingredients": "Wasser, Weizenmehl, Zucker, Walnüsse, Pflanzenöl, Butterreinfett, Zitronensaft.",
+      "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Walnüsse. Kann Spuren von Pistazien enthalten, da auf derselben Produktionslinie auch Produkte mit Pistazien hergestellt werden.",
+      "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+      "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+      "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 423,34 kcal / 1771,25456 kJ; Fett 26,9 g; Gesättigte Fettsäuren 3,31 g; Kohlenhydrate 36,4 g; Zucker 25,52 g; Ballaststoffe 2,34 g; Eiweiß 7,7 g; Salz 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1211.10001": {
+          "label": "Auf dem Teller serviert",
+          "description": "Eine meisterhaft zubereitete Gourmetverbindung von Walnüssen und Kadayif.",
+          "weight": "100 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Walnüsse, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Walnüsse. Kann Spuren von Pistazien enthalten, da auf derselben Produktionslinie auch Produkte mit Pistazien hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 423,34 kcal / 1771,25456 kJ; Fett 26,9 g; Gesättigte Fettsäuren 3,31 g; Kohlenhydrate 36,4 g; Zucker 25,52 g; Ballaststoffe 2,34 g; Eiweiß 7,7 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1211.10002": {
+          "label": "XL",
+          "description": "Eine meisterhaft zubereitete Gourmetverbindung von Walnüssen und Kadayif.",
+          "weight": "1200 g",
+          "portion": "≈ 12 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Walnüsse, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Walnüsse. Kann Spuren von Pistazien enthalten, da auf derselben Produktionslinie auch Produkte mit Pistazien hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 423,34 kcal / 1771,25456 kJ; Fett 26,9 g; Gesättigte Fettsäuren 3,31 g; Kohlenhydrate 36,4 g; Zucker 25,52 g; Ballaststoffe 2,34 g; Eiweiß 7,7 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "XL Baklava-Metalldose\nMaße der Box: 345 × 225 × 45 mm"
+        },
+        "1211.10003": {
+          "label": "L",
+          "description": "Eine meisterhaft zubereitete Gourmetverbindung von Walnüssen und Kadayif.",
+          "weight": "800 g",
+          "portion": "≈ 8 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Walnüsse, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Walnüsse. Kann Spuren von Pistazien enthalten, da auf derselben Produktionslinie auch Produkte mit Pistazien hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 423,34 kcal / 1771,25456 kJ; Fett 26,9 g; Gesättigte Fettsäuren 3,31 g; Kohlenhydrate 36,4 g; Zucker 25,52 g; Ballaststoffe 2,34 g; Eiweiß 7,7 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "L Baklava-Metalldose\nMaße der Box: 265 × 175 × 45 mm"
+        },
+        "1211.10004": {
+          "label": "M",
+          "description": "Eine meisterhaft zubereitete Gourmetverbindung von Walnüssen und Kadayif.",
+          "weight": "400 g",
+          "portion": "≈ 4 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Walnüsse, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Walnüsse. Kann Spuren von Pistazien enthalten, da auf derselben Produktionslinie auch Produkte mit Pistazien hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 423,34 kcal / 1771,25456 kJ; Fett 26,9 g; Gesättigte Fettsäuren 3,31 g; Kohlenhydrate 36,4 g; Zucker 25,52 g; Ballaststoffe 2,34 g; Eiweiß 7,7 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "M Baklava-Metalldose\nMaße der Box: 270 × 180 × 45 mm"
+        },
+        "1211.10005": {
+          "label": "S",
+          "description": "Eine meisterhaft zubereitete Gourmetverbindung von Walnüssen und Kadayif.",
+          "weight": "200 g",
+          "portion": "≈ 2 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Walnüsse, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Walnüsse. Kann Spuren von Pistazien enthalten, da auf derselben Produktionslinie auch Produkte mit Pistazien hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 423,34 kcal / 1771,25456 kJ; Fett 26,9 g; Gesättigte Fettsäuren 3,31 g; Kohlenhydrate 36,4 g; Zucker 25,52 g; Ballaststoffe 2,34 g; Eiweiß 7,7 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "S Baklava-Metalldose\nMaße der Box: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210104": {
+      "name": "Osmanischer Palast-Kadayif mit Pistazien",
+      "description": "Ein Fest aus reichhaltigem Kadayif und großzügigen Pistazien.",
+      "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+      "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+      "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+      "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+      "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 401 kcal / 1677,784 kJ; Fett 23,34 g; Gesättigte Fettsäuren 1,2 g; Kohlenhydrate 37,1 g; Zucker 21,2 g; Ballaststoffe 3,89 g; Eiweiß 8,5 g; Salz 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10401": {
+          "label": "Auf dem Teller serviert",
+          "description": "Ein Fest aus reichhaltigem Kadayif und großzügigen Pistazien.",
+          "weight": "100 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 401 kcal / 1677,784 kJ; Fett 23,34 g; Gesättigte Fettsäuren 1,2 g; Kohlenhydrate 37,1 g; Zucker 21,2 g; Ballaststoffe 3,89 g; Eiweiß 8,5 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1210.10402": {
+          "label": "XL",
+          "description": "Ein Fest aus reichhaltigem Kadayif und großzügigen Pistazien.",
+          "weight": "1200 g",
+          "portion": "≈ 12 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 401 kcal / 1677,784 kJ; Fett 23,34 g; Gesättigte Fettsäuren 1,2 g; Kohlenhydrate 37,1 g; Zucker 21,2 g; Ballaststoffe 3,89 g; Eiweiß 8,5 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "XL Baklava-Metalldose\nMaße der Box: 345 × 225 × 45 mm"
+        },
+        "1210.10403": {
+          "label": "L",
+          "description": "Ein Fest aus reichhaltigem Kadayif und großzügigen Pistazien.",
+          "weight": "800 g",
+          "portion": "≈ 8 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 401 kcal / 1677,784 kJ; Fett 23,34 g; Gesättigte Fettsäuren 1,2 g; Kohlenhydrate 37,1 g; Zucker 21,2 g; Ballaststoffe 3,89 g; Eiweiß 8,5 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "L Baklava-Metalldose\nMaße der Box: 265 × 175 × 45 mm"
+        },
+        "1210.10404": {
+          "label": "M",
+          "description": "Ein Fest aus reichhaltigem Kadayif und großzügigen Pistazien.",
+          "weight": "400 g",
+          "portion": "≈ 4 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 401 kcal / 1677,784 kJ; Fett 23,34 g; Gesättigte Fettsäuren 1,2 g; Kohlenhydrate 37,1 g; Zucker 21,2 g; Ballaststoffe 3,89 g; Eiweiß 8,5 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "M Baklava-Metalldose\nMaße der Box: 270 × 180 × 45 mm"
+        },
+        "1210.10405": {
+          "label": "S",
+          "description": "Ein Fest aus reichhaltigem Kadayif und großzügigen Pistazien.",
+          "weight": "200 g",
+          "portion": "≈ 2 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 401 kcal / 1677,784 kJ; Fett 23,34 g; Gesättigte Fettsäuren 1,2 g; Kohlenhydrate 37,1 g; Zucker 21,2 g; Ballaststoffe 3,89 g; Eiweiß 8,5 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "S Baklava-Metalldose\nMaße der Box: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210103": {
+      "name": "Pistazien-Antep-Burma-Kadayif",
+      "description": "Eine Geschmacksreise mit besonderen Pistazien, umhüllt von Kadayif.",
+      "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+      "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+      "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+      "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+      "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 338,5 kcal / 1416,284 kJ; Fett 16 g; Gesättigte Fettsäuren 0,16 g; Kohlenhydrate 41,91 g; Zucker 24,4 g; Ballaststoffe 1,8 g; Eiweiß 5,7 g; Salz 0,04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10301": {
+          "label": "Auf dem Teller serviert",
+          "description": "Eine Geschmacksreise mit besonderen Pistazien, umhüllt von Kadayif.",
+          "weight": "62,5 g",
+          "portion": "Weniger als 1 Portion",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 338,5 kcal / 1416,284 kJ; Fett 16 g; Gesättigte Fettsäuren 0,16 g; Kohlenhydrate 41,91 g; Zucker 24,4 g; Ballaststoffe 1,8 g; Eiweiß 5,7 g; Salz 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1210.10302": {
+          "label": "XL",
+          "description": "Eine Geschmacksreise mit besonderen Pistazien, umhüllt von Kadayif.",
+          "weight": "750 g",
+          "portion": "≈ 4 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 338,5 kcal / 1416,284 kJ; Fett 16 g; Gesättigte Fettsäuren 0,16 g; Kohlenhydrate 41,91 g; Zucker 24,4 g; Ballaststoffe 1,8 g; Eiweiß 5,7 g; Salz 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "XL Baklava-Metalldose\nMaße der Box: 345 × 225 × 45 mm"
+        },
+        "1210.10303": {
+          "label": "L",
+          "description": "Eine Geschmacksreise mit besonderen Pistazien, umhüllt von Kadayif.",
+          "weight": "500 g",
+          "portion": "≈ 3 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 338,5 kcal / 1416,284 kJ; Fett 16 g; Gesättigte Fettsäuren 0,16 g; Kohlenhydrate 41,91 g; Zucker 24,4 g; Ballaststoffe 1,8 g; Eiweiß 5,7 g; Salz 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "L Baklava-Metalldose\nMaße der Box: 265 × 175 × 45 mm"
+        },
+        "1210.10304": {
+          "label": "M",
+          "description": "Eine Geschmacksreise mit besonderen Pistazien, umhüllt von Kadayif.",
+          "weight": "250 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 338,5 kcal / 1416,284 kJ; Fett 16 g; Gesättigte Fettsäuren 0,16 g; Kohlenhydrate 41,91 g; Zucker 24,4 g; Ballaststoffe 1,8 g; Eiweiß 5,7 g; Salz 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "M Baklava-Metalldose\nMaße der Box: 270 × 180 × 45 mm"
+        },
+        "1210.10305": {
+          "label": "S",
+          "description": "Eine Geschmacksreise mit besonderen Pistazien, umhüllt von Kadayif.",
+          "weight": "125 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 338,5 kcal / 1416,284 kJ; Fett 16 g; Gesättigte Fettsäuren 0,16 g; Kohlenhydrate 41,91 g; Zucker 24,4 g; Ballaststoffe 1,8 g; Eiweiß 5,7 g; Salz 0,04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "S Baklava-Metalldose\nMaße der Box: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210102": {
+      "name": "Pistazien-Aleppo-Burma-Kadayif",
+      "description": "Pistazien aus besonderer Ernte, umhüllt von köstlichem Kadayif.",
+      "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Zitronensaft.",
+      "allergenInfo": "Gluten (Weizen), Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+      "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+      "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+      "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 389,5 kcal / 1629,668 kJ; Fett 23,2 g; Gesättigte Fettsäuren 4,79 g; Kohlenhydrate 36,73 g; Zucker 18,8 g; Ballaststoffe 2,69 g; Eiweiß 7,06 g; Salz 0,02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10201": {
+          "label": "Auf dem Teller serviert",
+          "description": "Pistazien aus besonderer Ernte, umhüllt von köstlichem Kadayif.",
+          "weight": "170 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 389,5 kcal / 1629,668 kJ; Fett 23,2 g; Gesättigte Fettsäuren 4,79 g; Kohlenhydrate 36,73 g; Zucker 18,8 g; Ballaststoffe 2,69 g; Eiweiß 7,06 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1210.10202": {
+          "label": "XL",
+          "description": "Pistazien aus besonderer Ernte, umhüllt von köstlichem Kadayif.",
+          "weight": "2040 g",
+          "portion": "≈ 12 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 389,5 kcal / 1629,668 kJ; Fett 23,2 g; Gesättigte Fettsäuren 4,79 g; Kohlenhydrate 36,73 g; Zucker 18,8 g; Ballaststoffe 2,69 g; Eiweiß 7,06 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "XL Baklava-Metalldose\nMaße der Box: 345 × 225 × 45 mm"
+        },
+        "1210.10203": {
+          "label": "L",
+          "description": "Pistazien aus besonderer Ernte, umhüllt von köstlichem Kadayif.",
+          "weight": "1360 g",
+          "portion": "≈ 8 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 389,5 kcal / 1629,668 kJ; Fett 23,2 g; Gesättigte Fettsäuren 4,79 g; Kohlenhydrate 36,73 g; Zucker 18,8 g; Ballaststoffe 2,69 g; Eiweiß 7,06 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "L Baklava-Metalldose\nMaße der Box: 265 × 175 × 45 mm"
+        },
+        "1210.10204": {
+          "label": "M",
+          "description": "Pistazien aus besonderer Ernte, umhüllt von köstlichem Kadayif.",
+          "weight": "680 g",
+          "portion": "≈ 4 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 389,5 kcal / 1629,668 kJ; Fett 23,2 g; Gesättigte Fettsäuren 4,79 g; Kohlenhydrate 36,73 g; Zucker 18,8 g; Ballaststoffe 2,69 g; Eiweiß 7,06 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "M Baklava-Metalldose\nMaße der Box: 270 × 180 × 45 mm"
+        },
+        "1210.10205": {
+          "label": "S",
+          "description": "Pistazien aus besonderer Ernte, umhüllt von köstlichem Kadayif.",
+          "weight": "340 g",
+          "portion": "≈ 2 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 389,5 kcal / 1629,668 kJ; Fett 23,2 g; Gesättigte Fettsäuren 4,79 g; Kohlenhydrate 36,73 g; Zucker 18,8 g; Ballaststoffe 2,69 g; Eiweiß 7,06 g; Salz 0,02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "S Baklava-Metalldose\nMaße der Box: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210101": {
+      "name": "Pistazien-Sultaniye-Kadayif",
+      "description": "Ein Traum aus weichem und knusprigem Kadayif, umhüllt von Pistazien.",
+      "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+      "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+      "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+      "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+      "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 348,3 kcal / 1457,2872 kJ; Fett 16,41 g; Gesättigte Fettsäuren 2,28 g; Kohlenhydrate 44,61 g; Zucker 31,12 g; Ballaststoffe 1,64 g; Eiweiß 4,71 g; Salz 0,03 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10101": {
+          "label": "XL",
+          "description": "Ein Traum aus weichem und knusprigem Kadayif, umhüllt von Pistazien.",
+          "weight": "2400 g",
+          "portion": "≈ 12 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 348,3 kcal / 1457,2872 kJ; Fett 16,41 g; Gesättigte Fettsäuren 2,28 g; Kohlenhydrate 44,61 g; Zucker 31,12 g; Ballaststoffe 1,64 g; Eiweiß 4,71 g; Salz 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "XL Baklava-Metalldose\nMaße der Box: 345 × 225 × 45 mm"
+        },
+        "1210.10102": {
+          "label": "L",
+          "description": "Ein Traum aus weichem und knusprigem Kadayif, umhüllt von Pistazien.",
+          "weight": "1600 g",
+          "portion": "≈ 8 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 348,3 kcal / 1457,2872 kJ; Fett 16,41 g; Gesättigte Fettsäuren 2,28 g; Kohlenhydrate 44,61 g; Zucker 31,12 g; Ballaststoffe 1,64 g; Eiweiß 4,71 g; Salz 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "L Baklava-Metalldose\nMaße der Box: 265 × 175 × 45 mm"
+        },
+        "1210.10103": {
+          "label": "M",
+          "description": "Ein Traum aus weichem und knusprigem Kadayif, umhüllt von Pistazien.",
+          "weight": "800 g",
+          "portion": "≈ 4 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 348,3 kcal / 1457,2872 kJ; Fett 16,41 g; Gesättigte Fettsäuren 2,28 g; Kohlenhydrate 44,61 g; Zucker 31,12 g; Ballaststoffe 1,64 g; Eiweiß 4,71 g; Salz 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "M Baklava-Metalldose\nMaße der Box: 270 × 180 × 45 mm"
+        },
+        "1210.10104": {
+          "label": "S",
+          "description": "Ein Traum aus weichem und knusprigem Kadayif, umhüllt von Pistazien.",
+          "weight": "400 g",
+          "portion": "≈ 2 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 348,3 kcal / 1457,2872 kJ; Fett 16,41 g; Gesättigte Fettsäuren 2,28 g; Kohlenhydrate 44,61 g; Zucker 31,12 g; Ballaststoffe 1,64 g; Eiweiß 4,71 g; Salz 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "S Baklava-Metalldose\nMaße der Box: 195 × 145 × 45 mm"
+        },
+        "1210.10105": {
+          "label": "Stück",
+          "description": "Ein Traum aus weichem und knusprigem Kadayif, umhüllt von Pistazien.",
+          "weight": "200 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 348,3 kcal / 1457,2872 kJ; Fett 16,41 g; Gesättigte Fettsäuren 2,28 g; Kohlenhydrate 44,61 g; Zucker 31,12 g; Ballaststoffe 1,64 g; Eiweiß 4,71 g; Salz 0,03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "Auf dem Teller serviert"
+        }
+      }
+    },
+    "usta-1210100": {
+      "name": "Pistazien-Kadayif",
+      "description": "Eine Sinfonie aus Kadayif und früh geernteten Pistazien.",
+      "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+      "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+      "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+      "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+      "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 353,33 kcal / 1478,33272 kJ; Fett 17,33 g; Gesättigte Fettsäuren 3,1 g; Kohlenhydrate 44,63 g; Zucker 30,9 g; Ballaststoffe 1,2 g; Eiweiß 4 g; Salz 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10001": {
+          "label": "Auf dem Teller serviert",
+          "description": "Eine Sinfonie aus Kadayif und früh geernteten Pistazien.",
+          "weight": "166,6 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 353,33 kcal / 1478,33272 kJ; Fett 17,33 g; Gesättigte Fettsäuren 3,1 g; Kohlenhydrate 44,63 g; Zucker 30,9 g; Ballaststoffe 1,2 g; Eiweiß 4 g; Salz 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1210.10002": {
+          "label": "XL",
+          "description": "Eine Sinfonie aus Kadayif und früh geernteten Pistazien.",
+          "weight": "1999,2 g",
+          "portion": "≈ 12 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 353,33 kcal / 1478,33272 kJ; Fett 17,33 g; Gesättigte Fettsäuren 3,1 g; Kohlenhydrate 44,63 g; Zucker 30,9 g; Ballaststoffe 1,2 g; Eiweiß 4 g; Salz 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "XL Baklava-Metalldose\nMaße der Box: 345 × 225 × 45 mm"
+        },
+        "1210.10003": {
+          "label": "L",
+          "description": "Eine Sinfonie aus Kadayif und früh geernteten Pistazien.",
+          "weight": "1332,8 g",
+          "portion": "≈ 8 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 353,33 kcal / 1478,33272 kJ; Fett 17,33 g; Gesättigte Fettsäuren 3,1 g; Kohlenhydrate 44,63 g; Zucker 30,9 g; Ballaststoffe 1,2 g; Eiweiß 4 g; Salz 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "L Baklava-Metalldose\nMaße der Box: 265 × 175 × 45 mm"
+        },
+        "1210.10004": {
+          "label": "M",
+          "description": "Eine Sinfonie aus Kadayif und früh geernteten Pistazien.",
+          "weight": "666,4 g",
+          "portion": "≈ 4 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 353,33 kcal / 1478,33272 kJ; Fett 17,33 g; Gesättigte Fettsäuren 3,1 g; Kohlenhydrate 44,63 g; Zucker 30,9 g; Ballaststoffe 1,2 g; Eiweiß 4 g; Salz 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "M Baklava-Metalldose\nMaße der Box: 270 × 180 × 45 mm"
+        },
+        "1210.10005": {
+          "label": "S",
+          "description": "Eine Sinfonie aus Kadayif und früh geernteten Pistazien.",
+          "weight": "333,2 g",
+          "portion": "≈ 2 Portionen",
+          "ingredients": "Wasser, Weizenmehl, Zucker, Pistazien, Pflanzenöl, Butterreinfett, Zitronensaft.",
+          "allergenInfo": "Gluten (Weizen), Milch und Milcherzeugnisse, Pistazien. Kann Spuren von Walnüsse enthalten, da auf derselben Produktionslinie auch Produkte mit Walnüsse hergestellt werden.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 353,33 kcal / 1478,33272 kJ; Fett 17,33 g; Gesättigte Fettsäuren 3,1 g; Kohlenhydrate 44,63 g; Zucker 30,9 g; Ballaststoffe 1,2 g; Eiweiß 4 g; Salz 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Kühl, trocken und vor direktem Sonnenlicht geschützt lagern.\n\nFür den täglichen Verzehr empfehlen wir, auf Kühlung zu verzichten, da diese die Konsistenz des Sirups beeinträchtigen kann.",
+          "storage": "Für den besten Geschmack das Produkt bei Raumtemperatur genießen.\n\nSie können es vor dem Servieren auch leicht im Ofen erwärmen.",
+          "longTermStorage": "Sie können Ihre Produkte bei -18 °C bis zu 30 Tage im Gefrierschrank aufbewahren.\n\nFür den besten Geschmack zunächst 2 Stunden bei +4 °C auftauen und anschließend vor dem Verzehr 30 Minuten bei Raumtemperatur ruhen lassen.  Direktes Auftauen bei Raumtemperatur kann zu Trockenheit und einem Verlust der Knusprigkeit führen.\n\nAufgetaute Produkte nicht erneut einfrieren.",
+          "packaging": "S Baklava-Metalldose\nMaße der Box: 195 × 145 × 45 mm"
+        }
+      }
+    }
+  }
 }

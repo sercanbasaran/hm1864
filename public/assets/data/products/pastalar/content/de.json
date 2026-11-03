@@ -2,5 +2,960 @@
   "schemaVersion": 1,
   "categoryId": "pastalar",
   "language": "de",
-  "products": {}
+  "products": {
+    "usta-1613100": {
+      "name": "Istanbul-Geschichte",
+      "description": "Süße Schichten von Antep-Pistazien, inspiriert vom ikonischen Baklava.",
+      "ingredients": "Biskuit, Pistazien-Baklava, Orangensirup, weiße Schokoladencreme, Pistaziencreme, Pistazien.",
+      "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Pistazien.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "",
+        "note": ""
+      },
+      "variants": {
+        "1613.10001": {
+          "label": "Stück",
+          "description": "Süße Schichten von Antep-Pistazien, inspiriert vom ikonischen Baklava.",
+          "weight": "350 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Biskuit, Pistazien-Baklava, Orangensirup, weiße Schokoladencreme, Pistaziencreme, Pistazien.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Pistazien.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1613.10002": {
+          "label": "Ganze Torte",
+          "description": "Süße Schichten von Antep-Pistazien, inspiriert vom ikonischen Baklava.",
+          "weight": "2100 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Biskuit, Pistazien-Baklava, Orangensirup, weiße Schokoladencreme, Pistaziencreme, Pistazien.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Pistazien.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1615100": {
+      "name": "Weiße Perle",
+      "description": "Aromatische Haselnüsse treffen auf frische Banane und seidiges Karamell.",
+      "ingredients": "Biskuit, Orangensirup, weiße Schokoladencreme, Banane, Haselnüsse, Karamellfüllung, weiße Schokoladensoße.",
+      "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t292 kcal / 1221,7 kJ\r\nFett\t18 g\r\nGesättigte Fettsäuren\t8,7 g\r\nKohlenhydrate\t27,5 g\r\nZucker\t15,1 g\r\nBallaststoffe\t1,8 g\r\nEiweiß\t4,3 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1615.10001": {
+          "label": "Stück",
+          "description": "Aromatische Haselnüsse treffen auf frische Banane und seidiges Karamell.",
+          "weight": "395 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Biskuit, Orangensirup, weiße Schokoladencreme, Banane, Haselnüsse, Karamellfüllung, weiße Schokoladensoße.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t292 kcal / 1221,7 kJ\r\nFett\t18 g\r\nGesättigte Fettsäuren\t8,7 g\r\nKohlenhydrate\t27,5 g\r\nZucker\t15,1 g\r\nBallaststoffe\t1,8 g\r\nEiweiß\t4,3 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1615.10002": {
+          "label": "Ganze Torte",
+          "description": "Aromatische Haselnüsse treffen auf frische Banane und seidiges Karamell.",
+          "weight": "2370 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Biskuit, Orangensirup, weiße Schokoladencreme, Banane, Haselnüsse, Karamellfüllung, weiße Schokoladensoße.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t292 kcal / 1221,7 kJ\r\nFett\t18 g\r\nGesättigte Fettsäuren\t8,7 g\r\nKohlenhydrate\t27,5 g\r\nZucker\t15,1 g\r\nBallaststoffe\t1,8 g\r\nEiweiß\t4,3 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1610100": {
+      "name": "Lotus-Turm",
+      "description": "Der unverwechselbare Geschmack von Lotus-Keksen in jedem Bissen.",
+      "ingredients": "Biskuit, Orangensirup, Konditorcreme, Lotus-Creme, Lotus-Kekse.",
+      "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Soja.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t407,5 kcal / 1705 kJ\r\nFett\t26,4 g\r\nGesättigte Fettsäuren\t12,7 g\r\nKohlenhydrate\t38,4 g\r\nZucker\t14,4 g\r\nBallaststoffe\t0,7 g\r\nEiweiß\t4,1 g\r\nSalz\t0,3 g",
+        "note": ""
+      },
+      "variants": {
+        "1610.10001": {
+          "label": "Stück",
+          "description": "Der unverwechselbare Geschmack von Lotus-Keksen in jedem Bissen.",
+          "weight": "390 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Biskuit, Orangensirup, Konditorcreme, Lotus-Creme, Lotus-Kekse.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Soja.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t407,5 kcal / 1705 kJ\r\nFett\t26,4 g\r\nGesättigte Fettsäuren\t12,7 g\r\nKohlenhydrate\t38,4 g\r\nZucker\t14,4 g\r\nBallaststoffe\t0,7 g\r\nEiweiß\t4,1 g\r\nSalz\t0,3 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1610.10002": {
+          "label": "Ganze Torte",
+          "description": "Der unverwechselbare Geschmack von Lotus-Keksen in jedem Bissen.",
+          "weight": "2340 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Biskuit, Orangensirup, Konditorcreme, Lotus-Creme, Lotus-Kekse.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Soja.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t407,5 kcal / 1705 kJ\r\nFett\t26,4 g\r\nGesättigte Fettsäuren\t12,7 g\r\nKohlenhydrate\t38,4 g\r\nZucker\t14,4 g\r\nBallaststoffe\t0,7 g\r\nEiweiß\t4,1 g\r\nSalz\t0,3 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1616100": {
+      "name": "Amazonas-Zauber",
+      "description": "Eine reichhaltige Verbindung von Waldfrüchten und Schokolade.",
+      "ingredients": "Kakaobiskuit, Kaffeesirup, weiße Schokoladencreme, Waldfrüchte (Heidelbeeren, Brombeeren, Früchte des Erdbeerbaums, schwarze Trauben, Himbeeren, Erdbeeren), Waldfruchtfüllung, Schokoladensoße.",
+      "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t290,1 kcal / 1213,9 kJ\r\nFett\t12,8 g\r\nGesättigte Fettsäuren\t6,2 g\r\nKohlenhydrate\t39,5 g\r\nZucker\t26 g\r\nBallaststoffe\t2,4 g\r\nEiweiß\t4,2 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1616.10001": {
+          "label": "Stück",
+          "description": "Eine reichhaltige Verbindung von Waldfrüchten und Schokolade.",
+          "weight": "380 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Kakaobiskuit, Kaffeesirup, weiße Schokoladencreme, Waldfrüchte (Heidelbeeren, Brombeeren, Früchte des Erdbeerbaums, schwarze Trauben, Himbeeren, Erdbeeren), Waldfruchtfüllung, Schokoladensoße.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t290,1 kcal / 1213,9 kJ\r\nFett\t12,8 g\r\nGesättigte Fettsäuren\t6,2 g\r\nKohlenhydrate\t39,5 g\r\nZucker\t26 g\r\nBallaststoffe\t2,4 g\r\nEiweiß\t4,2 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1616.10002": {
+          "label": "Ganze Torte",
+          "description": "Eine reichhaltige Verbindung von Waldfrüchten und Schokolade.",
+          "weight": "2280 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Kakaobiskuit, Kaffeesirup, weiße Schokoladencreme, Waldfrüchte (Heidelbeeren, Brombeeren, Früchte des Erdbeerbaums, schwarze Trauben, Himbeeren, Erdbeeren), Waldfruchtfüllung, Schokoladensoße.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t290,1 kcal / 1213,9 kJ\r\nFett\t12,8 g\r\nGesättigte Fettsäuren\t6,2 g\r\nKohlenhydrate\t39,5 g\r\nZucker\t26 g\r\nBallaststoffe\t2,4 g\r\nEiweiß\t4,2 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        }
+      }
+    },
+    "usta-1615102": {
+      "name": "Unendliche Liebe",
+      "description": "Eine köstliche Kombination aus kräftiger Schokolade und Bananen.",
+      "ingredients": "Kakaobiskuit, Kakao-Haselnusskuchen, Kaffeesirup, weiße Schokoladencreme, dunkle Schokoladencreme, Banane, Vollmilchschokoladenstücke.",
+      "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t275,1 kcal / 1151 kJ\r\nFett\t14,8 g\r\nGesättigte Fettsäuren\t6,9 g\r\nKohlenhydrate\t30,9 g\r\nZucker\t20,5 g\r\nBallaststoffe\t1,7 g\r\nEiweiß\t4,6 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1615.10201": {
+          "label": "Stück",
+          "description": "Eine köstliche Kombination aus kräftiger Schokolade und Bananen.",
+          "weight": "355 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Kakaobiskuit, Kakao-Haselnusskuchen, Kaffeesirup, weiße Schokoladencreme, dunkle Schokoladencreme, Banane, Vollmilchschokoladenstücke.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t275,1 kcal / 1151 kJ\r\nFett\t14,8 g\r\nGesättigte Fettsäuren\t6,9 g\r\nKohlenhydrate\t30,9 g\r\nZucker\t20,5 g\r\nBallaststoffe\t1,7 g\r\nEiweiß\t4,6 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1615.10202": {
+          "label": "Ganze Torte",
+          "description": "Eine köstliche Kombination aus kräftiger Schokolade und Bananen.",
+          "weight": "2130 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Kakaobiskuit, Kakao-Haselnusskuchen, Kaffeesirup, weiße Schokoladencreme, dunkle Schokoladencreme, Banane, Vollmilchschokoladenstücke.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t275,1 kcal / 1151 kJ\r\nFett\t14,8 g\r\nGesättigte Fettsäuren\t6,9 g\r\nKohlenhydrate\t30,9 g\r\nZucker\t20,5 g\r\nBallaststoffe\t1,7 g\r\nEiweiß\t4,6 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1611100": {
+      "name": "Diplomat",
+      "description": "Schokoladenkuchen mit dem köstlichen Biss karamellisierten Krokants.",
+      "ingredients": "Kakaobiskuit, Kaffeesirup, Schokoladenganache-Creme, Haselnuss-Schokoladensoße, Nusskrokant (Pistazien, Mandeln, Haselnüsse), Vollmilchschokoladenstücke.",
+      "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse, Haselnüsse, Pistazien und Mandeln.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t350,9 kcal / 1468,2 kJ\r\nFett\t24,5 g\r\nGesättigte Fettsäuren\t13,7 g\r\nKohlenhydrate\t28 g\r\nZucker\t20,4 g\r\nBallaststoffe\t1,7 g\r\nEiweiß\t4,7 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10001": {
+          "label": "Stück",
+          "description": "Schokoladenkuchen mit dem köstlichen Biss karamellisierten Krokants.",
+          "weight": "305 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Kakaobiskuit, Kaffeesirup, Schokoladenganache-Creme, Haselnuss-Schokoladensoße, Nusskrokant (Pistazien, Mandeln, Haselnüsse), Vollmilchschokoladenstücke.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse, Haselnüsse, Pistazien und Mandeln.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t350,9 kcal / 1468,2 kJ\r\nFett\t24,5 g\r\nGesättigte Fettsäuren\t13,7 g\r\nKohlenhydrate\t28 g\r\nZucker\t20,4 g\r\nBallaststoffe\t1,7 g\r\nEiweiß\t4,7 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1611.10002": {
+          "label": "Ganze Torte",
+          "description": "Schokoladenkuchen mit dem köstlichen Biss karamellisierten Krokants.",
+          "weight": "1830 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Kakaobiskuit, Kaffeesirup, Schokoladenganache-Creme, Haselnuss-Schokoladensoße, Nusskrokant (Pistazien, Mandeln, Haselnüsse), Vollmilchschokoladenstücke.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse, Haselnüsse, Pistazien und Mandeln.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t350,9 kcal / 1468,2 kJ\r\nFett\t24,5 g\r\nGesättigte Fettsäuren\t13,7 g\r\nKohlenhydrate\t28 g\r\nZucker\t20,4 g\r\nBallaststoffe\t1,7 g\r\nEiweiß\t4,7 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1611103": {
+      "name": "Letzte Liebe",
+      "description": "Erdbeeraroma trifft auf die Fülle von Vollmilchschokolade.",
+      "ingredients": "Kakaobiskuit, Kakao-Haselnusskuchen, Kaffeesirup, weiße Schokoladencreme, dunkle Schokoladencreme, frische Erdbeeren, Vollmilchschokoladenstücke.",
+      "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t268,4 kcal / 1122,8 kJ\r\nFett\t15,5 g\r\nGesättigte Fettsäuren\t7,4 g\r\nKohlenhydrate\t27,5 g\r\nZucker\t21,2 g\r\nBallaststoffe\t1,8 g\r\nEiweiß\t4,7 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10301": {
+          "label": "Stück",
+          "description": "Erdbeeraroma trifft auf die Fülle von Vollmilchschokolade.",
+          "weight": "350 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Kakaobiskuit, Kakao-Haselnusskuchen, Kaffeesirup, weiße Schokoladencreme, dunkle Schokoladencreme, frische Erdbeeren, Vollmilchschokoladenstücke.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t268,4 kcal / 1122,8 kJ\r\nFett\t15,5 g\r\nGesättigte Fettsäuren\t7,4 g\r\nKohlenhydrate\t27,5 g\r\nZucker\t21,2 g\r\nBallaststoffe\t1,8 g\r\nEiweiß\t4,7 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1611.10302": {
+          "label": "Ganze Torte",
+          "description": "Erdbeeraroma trifft auf die Fülle von Vollmilchschokolade.",
+          "weight": "2100 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Kakaobiskuit, Kakao-Haselnusskuchen, Kaffeesirup, weiße Schokoladencreme, dunkle Schokoladencreme, frische Erdbeeren, Vollmilchschokoladenstücke.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t268,4 kcal / 1122,8 kJ\r\nFett\t15,5 g\r\nGesättigte Fettsäuren\t7,4 g\r\nKohlenhydrate\t27,5 g\r\nZucker\t21,2 g\r\nBallaststoffe\t1,8 g\r\nEiweiß\t4,7 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1616101": {
+      "name": "Amazonas-Geschichte",
+      "description": "Weiße Schokolade trifft auf Waldfrüchte.",
+      "ingredients": "Biskuit, Orangensirup, weiße Schokoladencreme, Waldfrüchte (Heidelbeeren, Früchte des Erdbeerbaums, schwarze Trauben, Brombeeren, Himbeeren, Erdbeeren), Waldfruchtfüllung, weiße Schokoladensoße.",
+      "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t269,6 kcal / 1128 kJ\r\nFett\t18 g\r\nGesättigte Fettsäuren\t12,7 g\r\nKohlenhydrate\t23,6 g\r\nZucker\t21,7 g\r\nBallaststoffe\t1,1 g\r\nEiweiß\t3,2 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1616.10101": {
+          "label": "Stück",
+          "description": "Weiße Schokolade trifft auf Waldfrüchte.",
+          "weight": "375 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Biskuit, Orangensirup, weiße Schokoladencreme, Waldfrüchte (Heidelbeeren, Früchte des Erdbeerbaums, schwarze Trauben, Brombeeren, Himbeeren, Erdbeeren), Waldfruchtfüllung, weiße Schokoladensoße.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t269,6 kcal / 1128 kJ\r\nFett\t18 g\r\nGesättigte Fettsäuren\t12,7 g\r\nKohlenhydrate\t23,6 g\r\nZucker\t21,7 g\r\nBallaststoffe\t1,1 g\r\nEiweiß\t3,2 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1616.10102": {
+          "label": "Ganze Torte",
+          "description": "Weiße Schokolade trifft auf Waldfrüchte.",
+          "weight": "2250 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Biskuit, Orangensirup, weiße Schokoladencreme, Waldfrüchte (Heidelbeeren, Früchte des Erdbeerbaums, schwarze Trauben, Brombeeren, Himbeeren, Erdbeeren), Waldfruchtfüllung, weiße Schokoladensoße.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t269,6 kcal / 1128 kJ\r\nFett\t18 g\r\nGesättigte Fettsäuren\t12,7 g\r\nKohlenhydrate\t23,6 g\r\nZucker\t21,7 g\r\nBallaststoffe\t1,1 g\r\nEiweiß\t3,2 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1615101": {
+      "name": "Große Liebe",
+      "description": "Eine exotische, wohltuende Entdeckung aus Banane und Creme.",
+      "ingredients": "Biskuit, Haselnusskuchen, Orangensirup, weiße Schokoladencreme, Banane, Karamellgelee.",
+      "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t278 kcal / 1163,1 kJ\r\nFett\t16,1 g\r\nGesättigte Fettsäuren\t9,3 g\r\nKohlenhydrate\t29,2 g\r\nZucker\t19,2 g\r\nBallaststoffe\t1,2 g\r\nEiweiß\t4,2 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1615.10101": {
+          "label": "Ganze Torte",
+          "description": "Eine exotische, wohltuende Entdeckung aus Banane und Creme.",
+          "weight": "2100 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Biskuit, Haselnusskuchen, Orangensirup, weiße Schokoladencreme, Banane, Karamellgelee.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t278 kcal / 1163,1 kJ\r\nFett\t16,1 g\r\nGesättigte Fettsäuren\t9,3 g\r\nKohlenhydrate\t29,2 g\r\nZucker\t19,2 g\r\nBallaststoffe\t1,2 g\r\nEiweiß\t4,2 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        },
+        "1615.10102": {
+          "label": "Stück",
+          "description": "Eine exotische, wohltuende Entdeckung aus Banane und Creme.",
+          "weight": "350 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Biskuit, Haselnusskuchen, Orangensirup, weiße Schokoladencreme, Banane, Karamellgelee.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t278 kcal / 1163,1 kJ\r\nFett\t16,1 g\r\nGesättigte Fettsäuren\t9,3 g\r\nKohlenhydrate\t29,2 g\r\nZucker\t19,2 g\r\nBallaststoffe\t1,2 g\r\nEiweiß\t4,2 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        }
+      }
+    },
+    "usta-1612101": {
+      "name": "Erste Liebe",
+      "description": "Ein feines Dessert, das saisonale Erdbeeren in Szene setzt.",
+      "ingredients": "Biskuit, Haselnusskuchen, Orangensirup, weiße Schokoladencreme, frische Erdbeeren, Tortenguss.",
+      "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g: Energie 350,3 kcal / 1465,7 kJ; Fett 21,3 g; Gesättigte Fettsäuren 12,6 g; Kohlenhydrate 34,6 g; Zucker 26,2 g; Ballaststoffe 1,1 g; Eiweiß 5,1 g; Salz 0,2 g.",
+        "note": ""
+      },
+      "variants": {
+        "1612.10101": {
+          "label": "Stück",
+          "description": "Ein feines Dessert, das saisonale Erdbeeren in Szene setzt.",
+          "weight": "350 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Biskuit, Haselnusskuchen, Orangensirup, weiße Schokoladencreme, frische Erdbeeren, Tortenguss.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 350,3 kcal / 1465,7 kJ; Fett 21,3 g; Gesättigte Fettsäuren 12,6 g; Kohlenhydrate 34,6 g; Zucker 26,2 g; Ballaststoffe 1,1 g; Eiweiß 5,1 g; Salz 0,2 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1612.10102": {
+          "label": "Ganze Torte",
+          "description": "Ein feines Dessert, das saisonale Erdbeeren in Szene setzt.",
+          "weight": "2100 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Biskuit, Haselnusskuchen, Orangensirup, weiße Schokoladencreme, frische Erdbeeren, Tortenguss.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Haselnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g: Energie 350,3 kcal / 1465,7 kJ; Fett 21,3 g; Gesättigte Fettsäuren 12,6 g; Kohlenhydrate 34,6 g; Zucker 26,2 g; Ballaststoffe 1,1 g; Eiweiß 5,1 g; Salz 0,2 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1617101": {
+      "name": "Fruchtgarten",
+      "description": "Eine Entdeckung tropischer Aromen mit Früchten, umhüllt von Kuchen.",
+      "ingredients": "Biskuit, Orangensirup, Konditorcreme, gemischte Früchte (Pfirsiche, Kiwi, Ananas, Erdbeeren, schwarze Trauben, Früchte des Erdbeerbaums, Granatapfel, Orange, Feigen, Melone), Tortenguss.",
+      "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t241,9 kcal / 1012,1 kJ\r\nFett\t15,3 g\r\nGesättigte Fettsäuren\t10,8 g\r\nKohlenhydrate\t23,2 g\r\nZucker\t13,8 g\r\nBallaststoffe\t1,2 g\r\nEiweiß\t2,8 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1617.10101": {
+          "label": "Stück",
+          "description": "Eine Entdeckung tropischer Aromen mit Früchten, umhüllt von Kuchen.",
+          "weight": "390 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Biskuit, Orangensirup, Konditorcreme, gemischte Früchte (Pfirsiche, Kiwi, Ananas, Erdbeeren, schwarze Trauben, Früchte des Erdbeerbaums, Granatapfel, Orange, Feigen, Melone), Tortenguss.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t241,9 kcal / 1012,1 kJ\r\nFett\t15,3 g\r\nGesättigte Fettsäuren\t10,8 g\r\nKohlenhydrate\t23,2 g\r\nZucker\t13,8 g\r\nBallaststoffe\t1,2 g\r\nEiweiß\t2,8 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1617.10102": {
+          "label": "Ganze Torte",
+          "description": "Eine Entdeckung tropischer Aromen mit Früchten, umhüllt von Kuchen.",
+          "weight": "2340 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Biskuit, Orangensirup, Konditorcreme, gemischte Früchte (Pfirsiche, Kiwi, Ananas, Erdbeeren, schwarze Trauben, Früchte des Erdbeerbaums, Granatapfel, Orange, Feigen, Melone), Tortenguss.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t241,9 kcal / 1012,1 kJ\r\nFett\t15,3 g\r\nGesättigte Fettsäuren\t10,8 g\r\nKohlenhydrate\t23,2 g\r\nZucker\t13,8 g\r\nBallaststoffe\t1,2 g\r\nEiweiß\t2,8 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1617100": {
+      "name": "Schokoladen-Fruchtgarten",
+      "description": "Ein farbenfrohes Fest der Früchte.",
+      "ingredients": "Kakaobiskuit, Kaffeesirup, Konditorcreme, gemischte Früchte (Pfirsiche, Kiwi, Ananas, Erdbeeren, schwarze Trauben, Früchte des Erdbeerbaums, Granatapfel, Orange, Feigen, Melone), Tortenguss.",
+      "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t231,3 kcal / 967,6 kJ\r\nFett\t13 g\r\nGesättigte Fettsäuren\t8,5 g\r\nKohlenhydrate\t25,9 g\r\nZucker\t15,2 g\r\nBallaststoffe\t1,7 g\r\nEiweiß\t2,7 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1617.10001": {
+          "label": "Stück",
+          "description": "Ein farbenfrohes Fest der Früchte.",
+          "weight": "390 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Kakaobiskuit, Kaffeesirup, Konditorcreme, gemischte Früchte (Pfirsiche, Kiwi, Ananas, Erdbeeren, schwarze Trauben, Früchte des Erdbeerbaums, Granatapfel, Orange, Feigen, Melone), Tortenguss.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t231,3 kcal / 967,6 kJ\r\nFett\t13 g\r\nGesättigte Fettsäuren\t8,5 g\r\nKohlenhydrate\t25,9 g\r\nZucker\t15,2 g\r\nBallaststoffe\t1,7 g\r\nEiweiß\t2,7 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1617.10002": {
+          "label": "Ganze Torte",
+          "description": "Ein farbenfrohes Fest der Früchte.",
+          "weight": "2340 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Kakaobiskuit, Kaffeesirup, Konditorcreme, gemischte Früchte (Pfirsiche, Kiwi, Ananas, Erdbeeren, schwarze Trauben, Früchte des Erdbeerbaums, Granatapfel, Orange, Feigen, Melone), Tortenguss.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t231,3 kcal / 967,6 kJ\r\nFett\t13 g\r\nGesättigte Fettsäuren\t8,5 g\r\nKohlenhydrate\t25,9 g\r\nZucker\t15,2 g\r\nBallaststoffe\t1,7 g\r\nEiweiß\t2,7 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1614101": {
+      "name": "Süße Ahu",
+      "description": "Ein köstliches Tortenerlebnis mit der cremigen Süße weißer Schokolade.",
+      "ingredients": "Biskuit, Törtchen, Orangensirup, weiße Schokoladencreme, Himbeerfüllung.",
+      "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t293,1 kcal / 1226,3 kJ\r\nFett\t19,5 g\r\nGesättigte Fettsäuren\t13,8 g\r\nKohlenhydrate\t26 g\r\nZucker\t18,5 g\r\nBallaststoffe\t1,3 g\r\nEiweiß\t3,4 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1614.10101": {
+          "label": "Stück",
+          "description": "Ein köstliches Tortenerlebnis mit der cremigen Süße weißer Schokolade.",
+          "weight": "330 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Biskuit, Törtchen, Orangensirup, weiße Schokoladencreme, Himbeerfüllung.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t293,1 kcal / 1226,3 kJ\r\nFett\t19,5 g\r\nGesättigte Fettsäuren\t13,8 g\r\nKohlenhydrate\t26 g\r\nZucker\t18,5 g\r\nBallaststoffe\t1,3 g\r\nEiweiß\t3,4 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1614.10102": {
+          "label": "Ganze Torte",
+          "description": "Ein köstliches Tortenerlebnis mit der cremigen Süße weißer Schokolade.",
+          "weight": "1980 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Biskuit, Törtchen, Orangensirup, weiße Schokoladencreme, Himbeerfüllung.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t293,1 kcal / 1226,3 kJ\r\nFett\t19,5 g\r\nGesättigte Fettsäuren\t13,8 g\r\nKohlenhydrate\t26 g\r\nZucker\t18,5 g\r\nBallaststoffe\t1,3 g\r\nEiweiß\t3,4 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1612102": {
+      "name": "Rosa Traum",
+      "description": "Ein unwiderstehliches Erlebnis, das zwei besondere Geschmacksrichtungen vereint.",
+      "ingredients": "Kakaobiskuit, Kaffeesirup, dunkle Schokoladencreme, Erdbeerfüllung, dunkle Schokoladensoße.",
+      "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t269,3 kcal / 1126,8 kJ\r\nFett\t17,7 g\r\nGesättigte Fettsäuren\t12,1 g\r\nKohlenhydrate\t24,3 g\r\nZucker\t28,1 g\r\nBallaststoffe\t1,7 g\r\nEiweiß\t3,4 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1612.10201": {
+          "label": "Stück",
+          "description": "Ein unwiderstehliches Erlebnis, das zwei besondere Geschmacksrichtungen vereint.",
+          "weight": "350 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Kakaobiskuit, Kaffeesirup, dunkle Schokoladencreme, Erdbeerfüllung, dunkle Schokoladensoße.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t269,3 kcal / 1126,8 kJ\r\nFett\t17,7 g\r\nGesättigte Fettsäuren\t12,1 g\r\nKohlenhydrate\t24,3 g\r\nZucker\t28,1 g\r\nBallaststoffe\t1,7 g\r\nEiweiß\t3,4 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1612.10202": {
+          "label": "Ganze Torte",
+          "description": "Ein unwiderstehliches Erlebnis, das zwei besondere Geschmacksrichtungen vereint.",
+          "weight": "2100 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Kakaobiskuit, Kaffeesirup, dunkle Schokoladencreme, Erdbeerfüllung, dunkle Schokoladensoße.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t269,3 kcal / 1126,8 kJ\r\nFett\t17,7 g\r\nGesättigte Fettsäuren\t12,1 g\r\nKohlenhydrate\t24,3 g\r\nZucker\t28,1 g\r\nBallaststoffe\t1,7 g\r\nEiweiß\t3,4 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1612100": {
+      "name": "Erdbeertraum",
+      "description": "Der erfrischende Geschmack von Erdbeerstücken.",
+      "ingredients": "Biskuit, Orangensirup, weiße Schokoladencreme, frische Erdbeeren, Erdbeerfüllung, weiße Schokoladen-Tortensoße.",
+      "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t229,8 kcal / 961,5 kJ\r\nFett\t11 g\r\nGesättigte Fettsäuren\t4,6 g\r\nKohlenhydrate\t28,1 g\r\nZucker\t19,2 g\r\nBallaststoffe\t1,1 g\r\nEiweiß\t4,6 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1612.10001": {
+          "label": "Stück",
+          "description": "Der erfrischende Geschmack von Erdbeerstücken.",
+          "weight": "350 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Biskuit, Orangensirup, weiße Schokoladencreme, frische Erdbeeren, Erdbeerfüllung, weiße Schokoladen-Tortensoße.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t229,8 kcal / 961,5 kJ\r\nFett\t11 g\r\nGesättigte Fettsäuren\t4,6 g\r\nKohlenhydrate\t28,1 g\r\nZucker\t19,2 g\r\nBallaststoffe\t1,1 g\r\nEiweiß\t4,6 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1612.10002": {
+          "label": "Ganze Torte",
+          "description": "Der erfrischende Geschmack von Erdbeerstücken.",
+          "weight": "2100 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Biskuit, Orangensirup, weiße Schokoladencreme, frische Erdbeeren, Erdbeerfüllung, weiße Schokoladen-Tortensoße.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t229,8 kcal / 961,5 kJ\r\nFett\t11 g\r\nGesättigte Fettsäuren\t4,6 g\r\nKohlenhydrate\t28,1 g\r\nZucker\t19,2 g\r\nBallaststoffe\t1,1 g\r\nEiweiß\t4,6 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1611102": {
+      "name": "Schwarze Perle",
+      "description": "Ein besonderer Genuss für Auge und Gaumen.",
+      "ingredients": "Kakaobiskuit, Kaffeesirup, Schokoladenganache-Creme, Pistazien, Vollmilchschokoladenstücke.",
+      "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Pistazien.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t426,5 kcal / 1784,5 kJ\r\nFett\t29,8 g\r\nGesättigte Fettsäuren\t15,2 g\r\nKohlenhydrate\t34,3 g\r\nZucker\t27,3 g\r\nBallaststoffe\t3,4 g\r\nEiweiß\t5,3 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10201": {
+          "label": "Ganze Torte",
+          "description": "Ein besonderer Genuss für Auge und Gaumen.",
+          "weight": "1950 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Kakaobiskuit, Kaffeesirup, Schokoladenganache-Creme, Pistazien, Vollmilchschokoladenstücke.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Pistazien.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t426,5 kcal / 1784,5 kJ\r\nFett\t29,8 g\r\nGesättigte Fettsäuren\t15,2 g\r\nKohlenhydrate\t34,3 g\r\nZucker\t27,3 g\r\nBallaststoffe\t3,4 g\r\nEiweiß\t5,3 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        },
+        "1611.10202": {
+          "label": "Stück",
+          "description": "Ein besonderer Genuss für Auge und Gaumen.",
+          "weight": "325 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Kakaobiskuit, Kaffeesirup, Schokoladenganache-Creme, Pistazien, Vollmilchschokoladenstücke.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Pistazien.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t426,5 kcal / 1784,5 kJ\r\nFett\t29,8 g\r\nGesättigte Fettsäuren\t15,2 g\r\nKohlenhydrate\t34,3 g\r\nZucker\t27,3 g\r\nBallaststoffe\t3,4 g\r\nEiweiß\t5,3 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        }
+      }
+    },
+    "usta-1611101": {
+      "name": "Tiefe Liebe",
+      "description": "Ein samtiges Erlebnis in jedem Bissen.",
+      "ingredients": "Browniekuchen (mit Walnüssen, mit dunkler Schokolade), Kaffeesirup, Schokoladentrüffelcreme, Schokoladenganache, Vollmilchschokoladenstücke.",
+      "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Walnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t393,4 kcal / 1646 kJ\r\nFett\t25,7 g\r\nGesättigte Fettsäuren\t10,9 g\r\nKohlenhydrate\t34,6 g\r\nZucker\t31,4 g\r\nBallaststoffe\t1 g\r\nEiweiß\t5,9 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10101": {
+          "label": "Stück",
+          "description": "Ein samtiges Erlebnis in jedem Bissen.",
+          "weight": "390 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Browniekuchen (mit Walnüssen, mit dunkler Schokolade), Kaffeesirup, Schokoladentrüffelcreme, Schokoladenganache, Vollmilchschokoladenstücke.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Walnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t393,4 kcal / 1646 kJ\r\nFett\t25,7 g\r\nGesättigte Fettsäuren\t10,9 g\r\nKohlenhydrate\t34,6 g\r\nZucker\t31,4 g\r\nBallaststoffe\t1 g\r\nEiweiß\t5,9 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1611.10102": {
+          "label": "Ganze Torte",
+          "description": "Ein samtiges Erlebnis in jedem Bissen.",
+          "weight": "2340 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Browniekuchen (mit Walnüssen, mit dunkler Schokolade), Kaffeesirup, Schokoladentrüffelcreme, Schokoladenganache, Vollmilchschokoladenstücke.",
+          "allergenInfo": "Enthält Gluten, Eier, Milcherzeugnisse und Walnüsse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t393,4 kcal / 1646 kJ\r\nFett\t25,7 g\r\nGesättigte Fettsäuren\t10,9 g\r\nKohlenhydrate\t34,6 g\r\nZucker\t31,4 g\r\nBallaststoffe\t1 g\r\nEiweiß\t5,9 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    },
+    "usta-1614100": {
+      "name": "Schokoladen-Ahu",
+      "description": "Die köstliche Verbindung von Himbeeren und Biskuit.",
+      "ingredients": "Kakaobiskuit, Kakaotörtchen, Kaffeesirup, Schokoladenganache-Creme, Himbeerfüllung, frische Himbeeren, Vollmilchschokoladenstücke.",
+      "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+      "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+      "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+      "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+      "nutrition": {
+        "basis": "Pro 100 g",
+        "values": [],
+        "summary": "Pro 100 g\r\n\r\nEnergie\t296,5 kcal / 1240,6 kJ\r\nFett\t19,3 g\r\nGesättigte Fettsäuren\t13 g\r\nKohlenhydrate\t26,8 g\r\nZucker\t19,7 g\r\nBallaststoffe\t1,9 g\r\nEiweiß\t3,8 g\r\nSalz\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1614.10001": {
+          "label": "Stück",
+          "description": "Die köstliche Verbindung von Himbeeren und Biskuit.",
+          "weight": "325 g",
+          "portion": "≈ 1 Portion",
+          "ingredients": "Kakaobiskuit, Kakaotörtchen, Kaffeesirup, Schokoladenganache-Creme, Himbeerfüllung, frische Himbeeren, Vollmilchschokoladenstücke.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t296,5 kcal / 1240,6 kJ\r\nFett\t19,3 g\r\nGesättigte Fettsäuren\t13 g\r\nKohlenhydrate\t26,8 g\r\nZucker\t19,7 g\r\nBallaststoffe\t1,9 g\r\nEiweiß\t3,8 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Auf dem Teller serviert"
+        },
+        "1614.10002": {
+          "label": "Ganze Torte",
+          "description": "Die köstliche Verbindung von Himbeeren und Biskuit.",
+          "weight": "1950 g",
+          "portion": "≈ 6 Portionen",
+          "ingredients": "Kakaobiskuit, Kakaotörtchen, Kaffeesirup, Schokoladenganache-Creme, Himbeerfüllung, frische Himbeeren, Vollmilchschokoladenstücke.",
+          "allergenInfo": "Enthält Gluten, Eier und Milcherzeugnisse.\r\nKann Spuren von Schalenfrüchte (Haselnüsse, Pistazien, Walnüsse, Mandeln), Soja und Sesam enthalten, da es auf derselben Produktionslinie verarbeitet wird.",
+          "nutrition": {
+            "basis": "Pro 100 g",
+            "values": [],
+            "summary": "Pro 100 g\r\n\r\nEnergie\t296,5 kcal / 1240,6 kJ\r\nFett\t19,3 g\r\nGesättigte Fettsäuren\t13 g\r\nKohlenhydrate\t26,8 g\r\nZucker\t19,7 g\r\nBallaststoffe\t1,9 g\r\nEiweiß\t3,8 g\r\nSalz\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Für den vollen Genuss von Geschmack und Textur das Produkt vor dem Verzehr 10–15 Minuten bei Raumtemperatur ruhen lassen.",
+          "storage": "Im Kühlschrank zwischen +4° und +6° lagern. Vor direktem Sonnenlicht schützen und nicht längere Zeit bei Raumtemperatur stehen lassen.",
+          "longTermStorage": "Lagerung\r\nBei -18° im Gefrierschrank lagern.\r\n\r\nZubereitung\r\nVor dem Verzehr 8–12 Stunden im Kühlschrank bei +4° auftauen lassen.\r\n\r\nHinweis\r\nNach dem Auftauen nicht erneut einfrieren. Nach dem Auftauen gekühlt lagern und innerhalb von 3 Tagen verzehren.",
+          "packaging": "Karton"
+        }
+      }
+    }
+  }
 }

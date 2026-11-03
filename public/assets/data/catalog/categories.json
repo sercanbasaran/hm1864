@@ -11,7 +11,17 @@
       ],
       "megaMenuOnline": true,
       "highlightOnHeader": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Baklava"
+        },
+        "de": {
+          "name": "Baklava"
+        },
+        "it": {
+          "name": "Baklava"
+        }
+      }
     },
     {
       "id": "pastalar",
@@ -31,19 +41,19 @@
       "highlightOnHeader": false,
       "translations": {
         "en": {
-          "name": ""
+          "name": "Cakes"
         },
         "ar": {
           "name": ""
         },
         "de": {
-          "name": ""
+          "name": "Torten"
         },
         "fr": {
           "name": ""
         },
         "it": {
-          "name": ""
+          "name": "Torte"
         },
         "es": {
           "name": ""
@@ -137,7 +147,17 @@
       ],
       "megaMenuOnline": true,
       "highlightOnHeader": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Kadayif"
+        },
+        "de": {
+          "name": "Kadayif"
+        },
+        "it": {
+          "name": "Kadayif"
+        }
+      }
     },
     {
       "id": "trileceler",
@@ -148,7 +168,17 @@
       ],
       "megaMenuOnline": false,
       "highlightOnHeader": false,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Trileçe"
+        },
+        "de": {
+          "name": "Trileçe"
+        },
+        "it": {
+          "name": "Trileçe"
+        }
+      }
     },
     {
       "id": "lokumlar",
@@ -164,7 +194,17 @@
       ],
       "megaMenuOnline": true,
       "highlightOnHeader": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Turkish Delight"
+        },
+        "de": {
+          "name": "Lokum"
+        },
+        "it": {
+          "name": "Lokum"
+        }
+      }
     }
   ],
   "subcategories": [
@@ -175,7 +215,17 @@
       "category": "Baklavalar",
       "url": "urunler/baklavalar/cevizli-baklavalar/index.html",
       "megaMenuOnline": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Walnut Baklava"
+        },
+        "de": {
+          "name": "Walnuss-Baklava"
+        },
+        "it": {
+          "name": "Baklava alle noci"
+        }
+      }
     },
     {
       "id": "baklavalar/fistikli-baklavalar",
@@ -184,7 +234,17 @@
       "category": "Baklavalar",
       "url": "urunler/baklavalar/fistikli-baklavalar/index.html",
       "megaMenuOnline": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Pistachio Baklava"
+        },
+        "de": {
+          "name": "Pistazien-Baklava"
+        },
+        "it": {
+          "name": "Baklava al pistacchio"
+        }
+      }
     },
     {
       "id": "pastalar/fistikli-pastalar",
@@ -195,19 +255,19 @@
       "megaMenuOnline": false,
       "translations": {
         "en": {
-          "name": ""
+          "name": "Pistachio Cakes"
         },
         "ar": {
           "name": ""
         },
         "de": {
-          "name": ""
+          "name": "Pistazientorten"
         },
         "fr": {
           "name": ""
         },
         "it": {
-          "name": ""
+          "name": "Torte al pistacchio"
         },
         "es": {
           "name": ""
@@ -244,19 +304,19 @@
       "megaMenuOnline": false,
       "translations": {
         "en": {
-          "name": ""
+          "name": "Banana Cakes"
         },
         "ar": {
           "name": ""
         },
         "de": {
-          "name": ""
+          "name": "Bananentorten"
         },
         "fr": {
           "name": ""
         },
         "it": {
-          "name": ""
+          "name": "Torte alla banana"
         },
         "es": {
           "name": ""
@@ -293,19 +353,19 @@
       "megaMenuOnline": false,
       "translations": {
         "en": {
-          "name": ""
+          "name": "Biscuit Cakes"
         },
         "ar": {
           "name": ""
         },
         "de": {
-          "name": ""
+          "name": "Kekstorten"
         },
         "fr": {
           "name": ""
         },
         "it": {
-          "name": ""
+          "name": "Torte ai biscotti"
         },
         "es": {
           "name": ""
@@ -342,19 +402,19 @@
       "megaMenuOnline": false,
       "translations": {
         "en": {
-          "name": ""
+          "name": "Forest Fruit Cakes"
         },
         "ar": {
           "name": ""
         },
         "de": {
-          "name": ""
+          "name": "Waldfruchttorten"
         },
         "fr": {
           "name": ""
         },
         "it": {
-          "name": ""
+          "name": "Torte ai frutti di bosco"
         },
         "es": {
           "name": ""
@@ -391,19 +451,19 @@
       "megaMenuOnline": false,
       "translations": {
         "en": {
-          "name": ""
+          "name": "Chocolate Cakes"
         },
         "ar": {
           "name": ""
         },
         "de": {
-          "name": ""
+          "name": "Schokoladentorten"
         },
         "fr": {
           "name": ""
         },
         "it": {
-          "name": ""
+          "name": "Torte al cioccolato"
         },
         "es": {
           "name": ""
@@ -440,19 +500,19 @@
       "megaMenuOnline": false,
       "translations": {
         "en": {
-          "name": ""
+          "name": "Strawberry Cakes"
         },
         "ar": {
           "name": ""
         },
         "de": {
-          "name": ""
+          "name": "Erdbeertorten"
         },
         "fr": {
           "name": ""
         },
         "it": {
-          "name": ""
+          "name": "Torte alle fragole"
         },
         "es": {
           "name": ""
@@ -489,19 +549,19 @@
       "megaMenuOnline": false,
       "translations": {
         "en": {
-          "name": ""
+          "name": "Mixed Fruit Cakes"
         },
         "ar": {
           "name": ""
         },
         "de": {
-          "name": ""
+          "name": "Gemischte Fruchttorten"
         },
         "fr": {
           "name": ""
         },
         "it": {
-          "name": ""
+          "name": "Torte alla frutta mista"
         },
         "es": {
           "name": ""
@@ -538,19 +598,19 @@
       "megaMenuOnline": false,
       "translations": {
         "en": {
-          "name": ""
+          "name": "Raspberry Cakes"
         },
         "ar": {
           "name": ""
         },
         "de": {
-          "name": ""
+          "name": "Himbeertorten"
         },
         "fr": {
           "name": ""
         },
         "it": {
-          "name": ""
+          "name": "Torte ai lamponi"
         },
         "es": {
           "name": ""
@@ -634,7 +694,17 @@
       "category": "Kadayıflar",
       "url": "urunler/kadayiflar/kunefeler/index.html",
       "megaMenuOnline": false,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Künefe"
+        },
+        "de": {
+          "name": "Künefe"
+        },
+        "it": {
+          "name": "Künefe"
+        }
+      }
     },
     {
       "id": "kadayiflar/lokumlu-kadayiflar",
@@ -643,7 +713,17 @@
       "category": "Kadayıflar",
       "url": "urunler/kadayiflar/lokumlu-kadayiflar/index.html",
       "megaMenuOnline": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Turkish Delight Kadayif"
+        },
+        "de": {
+          "name": "Lokum-Kadayif"
+        },
+        "it": {
+          "name": "Kadayif al lokum"
+        }
+      }
     },
     {
       "id": "kadayiflar/cevizli-kadayiflar",
@@ -652,7 +732,17 @@
       "category": "Kadayıflar",
       "url": "urunler/kadayiflar/cevizli-kadayiflar/index.html",
       "megaMenuOnline": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Walnut Kadayif"
+        },
+        "de": {
+          "name": "Walnuss-Kadayif"
+        },
+        "it": {
+          "name": "Kadayif alle noci"
+        }
+      }
     },
     {
       "id": "kadayiflar/fistikli-kadayiflar",
@@ -661,7 +751,17 @@
       "category": "Kadayıflar",
       "url": "urunler/kadayiflar/fistikli-kadayiflar/index.html",
       "megaMenuOnline": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Pistachio Kadayif"
+        },
+        "de": {
+          "name": "Pistazien-Kadayif"
+        },
+        "it": {
+          "name": "Kadayif al pistacchio"
+        }
+      }
     },
     {
       "id": "trileceler/trileceler",
@@ -670,7 +770,17 @@
       "category": "Trileçeler",
       "url": "urunler/trileceler/index.html",
       "megaMenuOnline": false,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Trileçe"
+        },
+        "de": {
+          "name": "Trileçe"
+        },
+        "it": {
+          "name": "Trileçe"
+        }
+      }
     },
     {
       "id": "muhallebiler/geleneksel-sutlu-tatlilar",
@@ -728,7 +838,17 @@
       "category": "Lokumlar",
       "url": "urunler/lokumlar/sultan-lokumlar/index.html",
       "megaMenuOnline": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Sultan Turkish Delight"
+        },
+        "de": {
+          "name": "Sultan-Lokum"
+        },
+        "it": {
+          "name": "Lokum Sultan"
+        }
+      }
     },
     {
       "id": "lokumlar/aromali-lokumlar",
@@ -737,7 +857,17 @@
       "category": "Lokumlar",
       "url": "urunler/lokumlar/aromali-lokumlar/index.html",
       "megaMenuOnline": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Flavoured Turkish Delight"
+        },
+        "de": {
+          "name": "Aromatisiertes Lokum"
+        },
+        "it": {
+          "name": "Lokum aromatizzato"
+        }
+      }
     },
     {
       "id": "lokumlar/krokanli-lokumlar",
@@ -746,7 +876,17 @@
       "category": "Lokumlar",
       "url": "urunler/lokumlar/krokanli-lokumlar/index.html",
       "megaMenuOnline": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Brittle Turkish Delight"
+        },
+        "de": {
+          "name": "Krokant-Lokum"
+        },
+        "it": {
+          "name": "Lokum al croccante"
+        }
+      }
     },
     {
       "id": "lokumlar/cifte-kavrulmus-lokumlar",
@@ -755,7 +895,17 @@
       "category": "Lokumlar",
       "url": "urunler/lokumlar/cifte-kavrulmus-lokumlar/index.html",
       "megaMenuOnline": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Double-Roasted Turkish Delight"
+        },
+        "de": {
+          "name": "Doppelt geröstetes Lokum"
+        },
+        "it": {
+          "name": "Lokum a doppia tostatura"
+        }
+      }
     },
     {
       "id": "muhallebiler/ozel-kup-cikolatali-tatlilar",
@@ -862,7 +1012,17 @@
       "category": "Lokumlar",
       "url": "urunler/lokumlar/duble-lokumlar/index.html",
       "megaMenuOnline": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Double Turkish Delight"
+        },
+        "de": {
+          "name": "Duble-Lokum"
+        },
+        "it": {
+          "name": "Lokum Duble"
+        }
+      }
     },
     {
       "id": "lokumlar/fitil-lokumlar",
@@ -871,7 +1031,17 @@
       "category": "Lokumlar",
       "url": "urunler/lokumlar/fitil-lokumlar/index.html",
       "megaMenuOnline": true,
-      "translations": {}
+      "translations": {
+        "en": {
+          "name": "Turkish Delight Rolls"
+        },
+        "de": {
+          "name": "Lokum-Rollen"
+        },
+        "it": {
+          "name": "Rotoli di lokum"
+        }
+      }
     }
   ]
 }

@@ -10,7 +10,7 @@
   "koleksiyonlar/hm-1864-serisi/index.html": {
     "kind": "selection",
     "selection": "pierre-loti",
-    "title": "PIERRE LOTI SEÇKİSİ"
+    "titleKey": "selection.title.pierreloti"
   },
   "koleksiyonlar/ozel-seri-1/index.html": {
     "kind": "placeholder",
@@ -243,26 +243,26 @@
   "koleksiyonlar/pierre-loti-seckisi/index.html": {
     "kind": "selection",
     "selection": "pierre-loti",
-    "title": "PIERRE LOTI SEÇKİSİ"
+    "titleKey": "selection.title.pierreloti"
   },
   "koleksiyonlar/lale-seckisi/index.html": {
     "kind": "selection",
     "selection": "lale",
-    "title": "LALE SEÇKİSİ"
+    "titleKey": "selection.title.lale"
   },
   "koleksiyonlar/haydarpasa-seckisi/index.html": {
     "kind": "selection",
     "selection": "haydarpasa",
-    "title": "HAYDARPAŞA SEÇKİSİ"
+    "titleKey": "selection.title.haydarpasa"
   },
   "koleksiyonlar/saray-seckisi/index.html": {
     "kind": "selection",
     "selection": "saray",
-    "title": "SARAY SEÇKİSİ"
+    "titleKey": "selection.title.saray"
   },
   "koleksiyonlar/ayasofya-seckisi/index.html": {
     "kind": "selection",
     "selection": "ayasofya",
-    "title": "AYASOFYA SEÇKİSİ"
+    "titleKey": "selection.title.ayasofya"
   }
 }
