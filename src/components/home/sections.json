@@ -2,7 +2,7 @@
   "collection": {
     "logo": "assets/images/medya/964ee.png",
     "logoAltKey": "template.0117",
-    "image": "assets/images/medya/ff30e.png",
+    "image": "assets/images/medya/hm1864koleksiyonu.png",
     "imageAltKey": "template.0088",
     "titleKey": "template.0118",
     "subtitleKey": "template.0119",
@@ -18,15 +18,15 @@
     "productKeys": [
       "100-01-07-fistikli-durum",
       "100-02-10-cevizli-padisah",
-      "200-02-03-gul-yaprakli-fistikli-duble-lokum",
-      "800-01-01-turk-kahvesi"
+      "100-02-07-cevizli-kare-baklava",
+      "100-02-08-cevizli-kelebek"
     ]
   },
   "corporateGifts": {
     "eyebrowKey": "template.0136",
     "titleKey": "template.0137",
     "descriptionKey": "template.0138",
-    "image": "assets/images/medya/55a35.png",
+    "image": "assets/images/medya/Package.png",
     "imageAltKey": "template.0103",
     "features": [
       {"titleKey": "template.0139", "descriptionKey": "template.0140"},
@@ -37,7 +37,7 @@
     "href": "kurumsal-hediyeler/index.html"
   },
   "stores": {
-    "image": "assets/images/medya/c41f2.png",
+    "image": "assets/images/medya/bahcekapi.png",
     "imageAltKey": "template.0146",
     "captionKey": "template.0147",
     "titleKeys": ["template.0148", "template.0149"],
