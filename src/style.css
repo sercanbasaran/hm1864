@@ -6431,3 +6431,27 @@ input:is([type="checkbox"], [type="radio"]) {
 @media(max-width: 767px) {
  .heritage-section .heritage-images > .media { height: 300px; }
 }
+
+/* Ingredient intensity from authored product/variant data. */
+.product-satiety {
+  margin: 0 0 24px;
+  padding: 16px;
+  border: 1px solid #e5dfd5;
+  background: #faf9f6;
+  min-width: 0;
+}
+.product-satiety h2 {
+  margin: 0 0 12px;
+  font-family: var(--font);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+.product-satiety dl { margin: 0; display: grid; gap: 12px; }
+.product-satiety-row { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 6px 16px; }
+.product-satiety dt { font-size: 14px; overflow-wrap: anywhere; }
+.product-satiety dd { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 12px; margin: 0; min-width: 0; }
+.product-satiety-scale { display: inline-flex; gap: 4px; }
+.product-satiety-scale > span { width: 16px; height: 5px; border: 1px solid #b8aa90; border-radius: 2px; }
+.product-satiety-scale > .is-filled { background: #9a711f; border-color: #9a711f; }
+.product-satiety-value { font-size: 13px; line-height: 1.6; overflow-wrap: anywhere; }
