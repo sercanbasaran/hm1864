@@ -2,5 +2,181 @@
   "schemaVersion": 1,
   "categoryId": "trileceler",
   "language": "en",
-  "products": {}
+  "products": {
+    "usta-1700104": {
+      "name": "Saffron Trileçe",
+      "description": "A gourmet saffron blend, crafted by Hafız Mustafa 1864.",
+      "ingredients": "Trileçe cake ( wheat flour, eggs, sugar, orange peel, saffron, baking powder), milk syrup(milk, milk cream, whipped topping), saffron, whipped topping, Ala sauce (wheat flour, sugar, corn starch, milk cream, whipped topping).",
+      "allergenInfo": "Contains Gluten, dairy products, eggs, soya.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 239.3 kcal / 1001.2 kJ; Fat 17.9 g; Saturated fat 12.2 g; Carbohydrate 15.7 g; Sugars 10.4 g; Fibre 0.2 g; Protein 3.8 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10401": {
+          "label": "Plated Serving",
+          "description": "A gourmet saffron blend, crafted by Hafız Mustafa 1864.",
+          "weight": "210 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "Trileçe cake ( wheat flour, eggs, sugar, orange peel, saffron, baking powder), milk syrup(milk, milk cream, whipped topping), saffron, whipped topping, Ala sauce (wheat flour, sugar, corn starch, milk cream, whipped topping).",
+          "allergenInfo": "Contains Gluten, dairy products, eggs, soya.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 239.3 kcal / 1001.2 kJ; Fat 17.9 g; Saturated fat 12.2 g; Carbohydrate 15.7 g; Sugars 10.4 g; Fibre 0.2 g; Protein 3.8 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1700103": {
+      "name": "Caramel Trileçe",
+      "description": "A caramel-flavoured delight from the Balkans.",
+      "ingredients": "Trileçe cake ( wheat flour, eggs, sugar, baking powder), milk syrup(milk, milk cream, whipped topping) caramel jelly.",
+      "allergenInfo": "Contains Gluten, dairy products, eggs, soya, sulphites.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 274.7 kcal / 1149.3 kJ; Fat 20.8 g; Saturated fat 14.2 g; Carbohydrate 17.5 g; Sugars 11.7 g; Fibre 0.2 g; Protein 4.4 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10301": {
+          "label": "Plated Serving",
+          "description": "A caramel-flavoured delight from the Balkans.",
+          "weight": "250 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "Trileçe cake ( wheat flour, eggs, sugar, baking powder), milk syrup(milk, milk cream, whipped topping) caramel jelly.",
+          "allergenInfo": "Contains Gluten, dairy products, eggs, soya, sulphites.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 274.7 kcal / 1149.3 kJ; Fat 20.8 g; Saturated fat 14.2 g; Carbohydrate 17.5 g; Sugars 11.7 g; Fibre 0.2 g; Protein 4.4 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1700102": {
+      "name": "Coffee Trileçe",
+      "description": "An irresistible celebration of flavour, crafted by Hafız Mustafa 1864.",
+      "ingredients": "Trileçe cake ( wheat flour, eggs, sugar, instant coffee, baking powder), milk syrup(milk, milk cream, whipped topping), whipped topping, instant coffee, Ala sauce (wheat flour, sugar, corn starch, milk cream, whipped topping).",
+      "allergenInfo": "Contains Gluten, dairy products, eggs, soya.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 273.6 kcal / 1144.7 kJ; Fat 20.8 g; Saturated fat 13.6 g; Carbohydrate 16.7 g; Sugars 12.3 g; Fibre 0.3 g; Protein 4.8 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10201": {
+          "label": "Plated Serving",
+          "description": "An irresistible celebration of flavour, crafted by Hafız Mustafa 1864.",
+          "weight": "210 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "Trileçe cake ( wheat flour, eggs, sugar, instant coffee, baking powder), milk syrup(milk, milk cream, whipped topping), whipped topping, instant coffee, Ala sauce (wheat flour, sugar, corn starch, milk cream, whipped topping).",
+          "allergenInfo": "Contains Gluten, dairy products, eggs, soya.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 273.6 kcal / 1144.7 kJ; Fat 20.8 g; Saturated fat 13.6 g; Carbohydrate 16.7 g; Sugars 12.3 g; Fibre 0.3 g; Protein 4.8 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1700101": {
+      "name": "Pistachio Ala Trileçe",
+      "description": "A touch of Ala sauce brings a new dimension to this Balkan dessert.",
+      "ingredients": "Trileçe cake ( wheat flour, eggs, sugar, pistachios, baking powder), milk syrup(milk, milk cream, whipped topping),whipped topping, pistachios, Ala sauce (wheat flour, sugar, corn starch, milk cream, whipped topping).",
+      "allergenInfo": "Contains Gluten, dairy products, tree nuts (pistachios), eggs, soya.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 298.3 kcal / 1248.1 kJ; Fat 22.7 g; Saturated fat 13.9 g; Carbohydrate 18.4 g; Sugars 12.4 g; Fibre 1 g; Protein 5.2 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10101": {
+          "label": "Plated Serving",
+          "description": "A touch of Ala sauce brings a new dimension to this Balkan dessert.",
+          "weight": "215 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "Trileçe cake ( wheat flour, eggs, sugar, pistachios, baking powder), milk syrup(milk, milk cream, whipped topping),whipped topping, pistachios, Ala sauce (wheat flour, sugar, corn starch, milk cream, whipped topping).",
+          "allergenInfo": "Contains Gluten, dairy products, tree nuts (pistachios), eggs, soya.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 298.3 kcal / 1248.1 kJ; Fat 22.7 g; Saturated fat 13.9 g; Carbohydrate 18.4 g; Sugars 12.4 g; Fibre 1 g; Protein 5.2 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1700100": {
+      "name": "Raspberry Trileçe",
+      "description": "A celebration of raspberry flavour, crafted by Hafız Mustafa 1864.",
+      "ingredients": "Trileçe cake ( wheat flour, eggs, sugar, baking powder), milk syrup(milk, milk cream, whipped topping), raspberry sauce (water sugar, raspberries, raspberry cold glaze).",
+      "allergenInfo": "Contains Gluten, dairy products, eggs, soya, sulphites.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 272.9 kcal / 1141.8 kJ; Fat 19.2 g; Saturated fat 13.1 g; Carbohydrate 22.1 g; Sugars 13.8 g; Fibre 0.4 g; Protein 4.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1700.10001": {
+          "label": "Plated Serving",
+          "description": "A celebration of raspberry flavour, crafted by Hafız Mustafa 1864.",
+          "weight": "255 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "Trileçe cake ( wheat flour, eggs, sugar, baking powder), milk syrup(milk, milk cream, whipped topping), raspberry sauce (water sugar, raspberries, raspberry cold glaze).",
+          "allergenInfo": "Contains Gluten, dairy products, eggs, soya, sulphites.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 272.9 kcal / 1141.8 kJ; Fat 19.2 g; Saturated fat 13.1 g; Carbohydrate 22.1 g; Sugars 13.8 g; Fibre 0.4 g; Protein 4.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    }
+  }
 }

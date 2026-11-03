@@ -7,7 +7,9 @@
       "label": {
         "tr": "Mağazalarımız",
         "en": "Our Stores",
-        "ar": "متاجرنا"
+        "ar": "متاجرنا",
+        "de": "Unsere Filialen",
+        "it": "I nostri negozi"
       },
       "url": "/magazalar/index.html"
     },
@@ -17,7 +19,9 @@
       "label": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "it": "Contatti"
       },
       "url": "/iletisim/index.html",
       "className": "service-contact"
@@ -28,7 +32,10 @@
       "id": "mobile",
       "enabled": true,
       "label": {
-        "tr": "Menüyü aç"
+        "tr": "Menüyü aç",
+        "en": "Open menu",
+        "de": "Menü öffnen",
+        "it": "Apri il menu"
       },
       "action": "mobile",
       "icon": "menu",
@@ -38,7 +45,10 @@
       "id": "search",
       "enabled": true,
       "label": {
-        "tr": "Arama"
+        "tr": "Arama",
+        "en": "Search",
+        "de": "Suche",
+        "it": "Cerca"
       },
       "action": "search",
       "icon": "search",
@@ -52,7 +62,9 @@
       "label": {
         "tr": "Favorilerim",
         "en": "My favorites",
-        "ar": "المفضلة"
+        "ar": "المفضلة",
+        "de": "Meine Favoriten",
+        "it": "I miei preferiti"
       },
       "url": "/hesabim/favorilerim.html",
       "icon": "heart",
@@ -62,7 +74,10 @@
       "id": "profile",
       "enabled": true,
       "label": {
-        "tr": "Hesabım"
+        "tr": "Hesabım",
+        "en": "My Account",
+        "de": "Mein Konto",
+        "it": "Il mio account"
       },
       "action": "profile",
       "icon": "user",
@@ -72,7 +87,10 @@
       "id": "cart",
       "enabled": true,
       "label": {
-        "tr": "Sepetim"
+        "tr": "Sepetim",
+        "en": "My Bag",
+        "de": "Mein Warenkorb",
+        "it": "Il mio carrello"
       },
       "action": "cart",
       "icon": "bag",
@@ -86,7 +104,9 @@
       "label": {
         "tr": "TÜM MENÜ",
         "en": "ALL MENU",
-        "ar": "القائمة الكاملة"
+        "ar": "القائمة الكاملة",
+        "de": "GESAMTES MENÜ",
+        "it": "MENU COMPLETO"
       }
     },
     {
@@ -111,7 +131,9 @@
       "enabled": true,
       "label": {
         "tr": "PIERRE LOTI SEÇKİSİ",
-        "en": "PIERRE LOTI SELECTION"
+        "en": "PIERRE LOTI SELECTION",
+        "de": "PIERRE-LOTI-AUSWAHL",
+        "it": "SELEZIONE PIERRE LOTI"
       },
       "url": "/koleksiyonlar/pierre-loti-seckisi/index.html"
     },
@@ -120,7 +142,9 @@
       "enabled": true,
       "label": {
         "tr": "LALE SEÇKİSİ",
-        "en": "LALE SELECTION"
+        "en": "TULIP SELECTION",
+        "de": "TULPEN-AUSWAHL",
+        "it": "SELEZIONE TULIPANO"
       },
       "url": "/koleksiyonlar/lale-seckisi/index.html"
     },
@@ -129,7 +153,9 @@
       "enabled": true,
       "label": {
         "tr": "HAYDARPAŞA SEÇKİSİ",
-        "en": "HAYDARPAŞA SELECTION"
+        "en": "HAYDARPAŞA SELECTION",
+        "de": "HAYDARPAŞA-AUSWAHL",
+        "it": "SELEZIONE HAYDARPAŞA"
       },
       "url": "/koleksiyonlar/haydarpasa-seckisi/index.html"
     },
@@ -138,7 +164,9 @@
       "enabled": true,
       "label": {
         "tr": "SARAY SEÇKİSİ",
-        "en": "SARAY SELECTION"
+        "en": "PALACE SELECTION",
+        "de": "PALAST-AUSWAHL",
+        "it": "SELEZIONE PALAZZO"
       },
       "url": "/koleksiyonlar/saray-seckisi/index.html"
     },
@@ -147,7 +175,9 @@
       "enabled": true,
       "label": {
         "tr": "AYASOFYA SEÇKİSİ",
-        "en": "AYASOFYA SELECTION"
+        "en": "HAGIA SOPHIA SELECTION",
+        "de": "HAGIA-SOPHIA-AUSWAHL",
+        "it": "SELEZIONE SANTA SOFIA"
       },
       "url": "/koleksiyonlar/ayasofya-seckisi/index.html"
     }

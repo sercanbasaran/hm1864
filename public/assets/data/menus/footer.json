@@ -6,7 +6,10 @@
       "enabled": true,
       "accordion": true,
       "title": {
-        "tr": "Kurumsal"
+        "tr": "Kurumsal",
+        "en": "The House",
+        "de": "Das Haus",
+        "it": "La nostra maison"
       },
       "items": [
         {
@@ -15,7 +18,9 @@
           "label": {
             "tr": "İlke ve Değerlerimiz",
             "en": "Principles and Values",
-            "ar": "مبادئنا وقيمنا"
+            "ar": "مبادئنا وقيمنا",
+            "de": "Grundsätze und Werte",
+            "it": "Principi e valori"
           },
           "url": "kurumsal/ilke-ve-degerlerimiz/index.html"
         },
@@ -25,7 +30,9 @@
           "label": {
             "tr": "Politikalarımız",
             "en": "Our Policies",
-            "ar": "سياساتنا"
+            "ar": "سياساتنا",
+            "de": "Unsere Richtlinien",
+            "it": "Le nostre politiche"
           },
           "url": "kurumsal/politikalarimiz/index.html"
         },
@@ -35,7 +42,9 @@
           "label": {
             "tr": "Yönetim Kurulu",
             "en": "Leadership",
-            "ar": "مجلس الإدارة"
+            "ar": "مجلس الإدارة",
+            "de": "Unternehmensführung",
+            "it": "Direzione"
           },
           "url": "kurumsal/yonetim-kurulu/index.html"
         },
@@ -45,7 +54,9 @@
           "label": {
             "tr": "Etik İlkeler ve Uyum",
             "en": "Ethics and Compliance",
-            "ar": "الأخلاقيات والامتثال"
+            "ar": "الأخلاقيات والامتثال",
+            "de": "Ethik und Compliance",
+            "it": "Etica e conformità"
           },
           "url": "kurumsal/etik-ilkeler-ve-uyum-politikalari/index.html"
         },
@@ -55,7 +66,9 @@
           "label": {
             "tr": "Kariyer",
             "en": "Careers",
-            "ar": "الوظائف"
+            "ar": "الوظائف",
+            "de": "Karriere",
+            "it": "Lavora con noi"
           },
           "url": "kurumsal/kariyer/index.html"
         },
@@ -65,7 +78,9 @@
           "label": {
             "tr": "Sertifikalarımız",
             "en": "Our Certificates",
-            "ar": "شهاداتنا"
+            "ar": "شهاداتنا",
+            "de": "Unsere Zertifikate",
+            "it": "Le nostre certificazioni"
           },
           "url": "kurumsal/sertifikalarimiz/index.html"
         },
@@ -75,7 +90,9 @@
           "label": {
             "tr": "Medya Merkezi",
             "en": "Media Centre",
-            "ar": "المركز الإعلامي"
+            "ar": "المركز الإعلامي",
+            "de": "Medienzentrum",
+            "it": "Centro stampa"
           },
           "url": "kurumsal/medya-merkezi/index.html"
         }
@@ -86,7 +103,10 @@
       "enabled": true,
       "accordion": true,
       "title": {
-        "tr": "Asırlık Miras"
+        "tr": "Asırlık Miras",
+        "en": "A Century of Heritage",
+        "de": "Ein jahrhundertealtes Erbe",
+        "it": "Un patrimonio secolare"
       },
       "items": [
         {
@@ -95,7 +115,9 @@
           "label": {
             "tr": "Başkanın Mesajı",
             "en": "Message from the President",
-            "ar": "رسالة الرئيس"
+            "ar": "رسالة الرئيس",
+            "de": "Grußwort des Präsidenten",
+            "it": "Messaggio del presidente"
           },
           "url": "asirlik-miras/baskanin-mesaji/index.html"
         },
@@ -105,7 +127,9 @@
           "label": {
             "tr": "Eşsiz Hikâyemiz",
             "en": "Our Distinctive Story",
-            "ar": "حكايتنا الفريدة"
+            "ar": "حكايتنا الفريدة",
+            "de": "Unsere besondere Geschichte",
+            "it": "La nostra storia unica"
           },
           "url": "asirlik-miras/essiz-hikayemiz/index.html"
         },
@@ -115,7 +139,9 @@
           "label": {
             "tr": "Dönüm Noktaları",
             "en": "Milestones",
-            "ar": "محطات فارقة"
+            "ar": "محطات فارقة",
+            "de": "Meilensteine",
+            "it": "Tappe fondamentali"
           },
           "url": "asirlik-miras/donum-noktalari/index.html"
         },
@@ -125,7 +151,9 @@
           "label": {
             "tr": "Başarı ve Ödüllerimiz",
             "en": "Honours and Recognition",
-            "ar": "الإنجازات والتكريمات"
+            "ar": "الإنجازات والتكريمات",
+            "de": "Ehrungen und Auszeichnungen",
+            "it": "Premi e riconoscimenti"
           },
           "url": "asirlik-miras/basari-ve-odullerimiz/index.html"
         },
@@ -135,7 +163,9 @@
           "label": {
             "tr": "Madalyalarımız",
             "en": "Medals and Archive",
-            "ar": "ميدالياتنا والأرشيف"
+            "ar": "ميدالياتنا والأرشيف",
+            "de": "Medaillen und Archiv",
+            "it": "Medaglie e archivio"
           },
           "url": "asirlik-miras/madalyalarimiz/index.html"
         }
@@ -146,14 +176,20 @@
       "enabled": true,
       "accordion": true,
       "title": {
-        "tr": "Lezzetler"
+        "tr": "Lezzetler",
+        "en": "Our Delicacies",
+        "de": "Unsere Spezialitäten",
+        "it": "Le nostre specialità"
       },
       "items": [
         {
           "id": "baklavalar",
           "enabled": true,
           "label": {
-            "tr": "Baklavalar"
+            "tr": "Baklavalar",
+            "en": "Baklava",
+            "de": "Baklava",
+            "it": "Baklava"
           },
           "url": "urunler/baklavalar/index.html"
         },
@@ -161,7 +197,10 @@
           "id": "pastalar",
           "enabled": true,
           "label": {
-            "tr": "Pastalar"
+            "tr": "Pastalar",
+            "en": "Cakes",
+            "de": "Torten",
+            "it": "Torte"
           },
           "url": "urunler/pastalar/index.html"
         },
@@ -169,7 +208,10 @@
           "id": "muhallebiler",
           "enabled": true,
           "label": {
-            "tr": "Muhallebiler"
+            "tr": "Muhallebiler",
+            "en": "Milk Puddings",
+            "de": "Milchpuddings",
+            "it": "Budini al latte"
           },
           "url": "urunler/muhallebiler/index.html"
         },
@@ -177,7 +219,10 @@
           "id": "kadayiflar",
           "enabled": true,
           "label": {
-            "tr": "Kadayıflar"
+            "tr": "Kadayıflar",
+            "en": "Kadayif",
+            "de": "Kadayif",
+            "it": "Kadayif"
           },
           "url": "urunler/kadayiflar/index.html"
         },
@@ -185,7 +230,10 @@
           "id": "trileceler",
           "enabled": true,
           "label": {
-            "tr": "Trileçeler"
+            "tr": "Trileçeler",
+            "en": "Trileçe",
+            "de": "Trileçe",
+            "it": "Trileçe"
           },
           "url": "urunler/trileceler/index.html"
         },
@@ -193,7 +241,10 @@
           "id": "lokumlar",
           "enabled": true,
           "label": {
-            "tr": "Lokumlar"
+            "tr": "Lokumlar",
+            "en": "Turkish Delight",
+            "de": "Lokum",
+            "it": "Lokum"
           },
           "url": "urunler/lokumlar/index.html"
         }
@@ -204,14 +255,20 @@
       "enabled": true,
       "accordion": true,
       "title": {
-        "tr": "Özel Koleksiyonlar"
+        "tr": "Özel Koleksiyonlar",
+        "en": "Special Collections",
+        "de": "Besondere Kollektionen",
+        "it": "Collezioni speciali"
       },
       "items": [
         {
           "id": "collections-1",
           "enabled": true,
           "label": {
-            "tr": "HM 1864 Serisi"
+            "tr": "HM 1864 Serisi",
+            "en": "HM 1864 Series",
+            "de": "HM 1864 Serie",
+            "it": "Serie HM 1864"
           },
           "url": "koleksiyonlar/hm-1864-serisi/index.html"
         },
@@ -219,7 +276,10 @@
           "id": "collections-2",
           "enabled": true,
           "label": {
-            "tr": "Özel Seri 1"
+            "tr": "Özel Seri 1",
+            "en": "Special Series 1",
+            "de": "Sonderserie 1",
+            "it": "Serie speciale 1"
           },
           "url": "koleksiyonlar/ozel-seri-1/index.html"
         },
@@ -227,7 +287,10 @@
           "id": "collections-3",
           "enabled": true,
           "label": {
-            "tr": "Özel Seri 2"
+            "tr": "Özel Seri 2",
+            "en": "Special Series 2",
+            "de": "Sonderserie 2",
+            "it": "Serie speciale 2"
           },
           "url": "koleksiyonlar/ozel-seri-2/index.html"
         },
@@ -235,7 +298,10 @@
           "id": "collections-4",
           "enabled": true,
           "label": {
-            "tr": "Özel Seri 3"
+            "tr": "Özel Seri 3",
+            "en": "Special Series 3",
+            "de": "Sonderserie 3",
+            "it": "Serie speciale 3"
           },
           "url": "koleksiyonlar/ozel-seri-3/index.html"
         }
@@ -248,7 +314,9 @@
       "title": {
         "tr": "Mağazalarımız",
         "en": "Our Stores",
-        "ar": "متاجرنا"
+        "ar": "متاجرنا",
+        "de": "Unsere Filialen",
+        "it": "I nostri negozi"
       },
       "items": [
         {
@@ -257,7 +325,9 @@
           "label": {
             "tr": "Mağazalarımız",
             "en": "Our Stores",
-            "ar": "متاجرنا"
+            "ar": "متاجرنا",
+            "de": "Unsere Filialen",
+            "it": "I nostri negozi"
           },
           "url": "magazalar/index.html"
         },
@@ -265,7 +335,10 @@
           "id": "stores-2",
           "enabled": true,
           "label": {
-            "tr": "Deneyim Alanları"
+            "tr": "Deneyim Alanları",
+            "en": "Experiences",
+            "de": "Erlebniswelten",
+            "it": "Esperienze"
           },
           "url": "deneyim-alanlari/index.html"
         }
@@ -276,14 +349,20 @@
       "enabled": true,
       "accordion": true,
       "title": {
-        "tr": "Destek"
+        "tr": "Destek",
+        "en": "Support",
+        "de": "Hilfe",
+        "it": "Assistenza"
       },
       "items": [
         {
           "id": "support-1",
           "enabled": true,
           "label": {
-            "tr": "Müşteri Hizmetleri"
+            "tr": "Müşteri Hizmetleri",
+            "en": "Customer Service",
+            "de": "Kundenservice",
+            "it": "Servizio clienti"
           },
           "url": "destek/musteri-hizmetleri/index.html"
         },
@@ -291,7 +370,10 @@
           "id": "support-2",
           "enabled": true,
           "label": {
-            "tr": "Çözüm Merkezi"
+            "tr": "Çözüm Merkezi",
+            "en": "Resolution Centre",
+            "de": "Servicezentrum",
+            "it": "Centro assistenza"
           },
           "url": "destek/cozum-merkezi/index.html"
         },
@@ -299,7 +381,10 @@
           "id": "support-3",
           "enabled": true,
           "label": {
-            "tr": "İşlem Rehberi"
+            "tr": "İşlem Rehberi",
+            "en": "Shopping Guide",
+            "de": "Einkaufsleitfaden",
+            "it": "Guida agli acquisti"
           },
           "url": "destek/islem-rehberi/index.html"
         },
@@ -307,7 +392,10 @@
           "id": "support-4",
           "enabled": true,
           "label": {
-            "tr": "Güvenli Alışveriş Kılavuzu"
+            "tr": "Güvenli Alışveriş Kılavuzu",
+            "en": "Safe Shopping Guide",
+            "de": "Leitfaden für sicheres Einkaufen",
+            "it": "Guida agli acquisti sicuri"
           },
           "url": "destek/guvenli-alisveris-kilavuzu/index.html"
         },
@@ -315,7 +403,10 @@
           "id": "support-5",
           "enabled": true,
           "label": {
-            "tr": "Sıkça Sorulan Sorular"
+            "tr": "Sıkça Sorulan Sorular",
+            "en": "Frequently Asked Questions",
+            "de": "Häufig gestellte Fragen",
+            "it": "Domande frequenti"
           },
           "url": "destek/sikca-sorulan-sorular/index.html"
         },
@@ -323,7 +414,10 @@
           "id": "support-6",
           "enabled": true,
           "label": {
-            "tr": "İptal & İade Koşulları"
+            "tr": "İptal & İade Koşulları",
+            "en": "Cancellation & Returns",
+            "de": "Stornierung und Rückgabe",
+            "it": "Annullamenti e resi"
           },
           "url": "destek/iptal-iade-kosullari/index.html"
         },
@@ -331,7 +425,10 @@
           "id": "support-7",
           "enabled": true,
           "label": {
-            "tr": "Teslimat Koşulları"
+            "tr": "Teslimat Koşulları",
+            "en": "Delivery Terms",
+            "de": "Lieferbedingungen",
+            "it": "Condizioni di consegna"
           },
           "url": "destek/teslimat-kosullari/index.html"
         }
@@ -342,14 +439,20 @@
       "enabled": true,
       "accordion": true,
       "title": {
-        "tr": "Sözleşme ve Politikalar"
+        "tr": "Sözleşme ve Politikalar",
+        "en": "Terms & Policies",
+        "de": "Verträge und Richtlinien",
+        "it": "Contratti e politiche"
       },
       "items": [
         {
           "id": "agreements-1",
           "enabled": true,
           "label": {
-            "tr": "Kişisel Verilerin Korunması"
+            "tr": "Kişisel Verilerin Korunması",
+            "en": "Personal Data Protection",
+            "de": "Schutz personenbezogener Daten",
+            "it": "Protezione dei dati personali"
           },
           "url": "sozlesmeler/kisisel-verilerin-korunmasi/index.html"
         },
@@ -357,7 +460,10 @@
           "id": "agreements-2",
           "enabled": true,
           "label": {
-            "tr": "Bilgi Güvenliği Politikası"
+            "tr": "Bilgi Güvenliği Politikası",
+            "en": "Information Security Policy",
+            "de": "Informationssicherheitsrichtlinie",
+            "it": "Politica di sicurezza delle informazioni"
           },
           "url": "sozlesmeler/bilgi-guvenligi-politikasi/index.html"
         },
@@ -365,7 +471,10 @@
           "id": "agreements-3",
           "enabled": true,
           "label": {
-            "tr": "Gizlilik Bildirgesi"
+            "tr": "Gizlilik Bildirgesi",
+            "en": "Privacy Notice",
+            "de": "Datenschutzhinweise",
+            "it": "Informativa sulla privacy"
           },
           "url": "sozlesmeler/gizlilik-bildirgesi/index.html"
         },
@@ -373,7 +482,10 @@
           "id": "agreements-4",
           "enabled": true,
           "label": {
-            "tr": "Satış Sözleşmesi"
+            "tr": "Satış Sözleşmesi",
+            "en": "Sales Agreement",
+            "de": "Kaufvertrag",
+            "it": "Contratto di vendita"
           },
           "url": "sozlesmeler/satis-sozlesmesi/index.html"
         },
@@ -381,7 +493,10 @@
           "id": "agreements-5",
           "enabled": true,
           "label": {
-            "tr": "Üyelik Koşulları"
+            "tr": "Üyelik Koşulları",
+            "en": "Membership Terms",
+            "de": "Mitgliedschaftsbedingungen",
+            "it": "Condizioni di registrazione"
           },
           "url": "sozlesmeler/uyelik-kosullari/index.html"
         },
@@ -389,7 +504,10 @@
           "id": "agreements-6",
           "enabled": true,
           "label": {
-            "tr": "Çerez Politikası"
+            "tr": "Çerez Politikası",
+            "en": "Cookie Policy",
+            "de": "Cookie-Richtlinie",
+            "it": "Informativa sui cookie"
           },
           "url": "sozlesmeler/cerez-politikasi/index.html"
         }
@@ -400,14 +518,20 @@
       "enabled": true,
       "accordion": false,
       "title": {
-        "tr": "İLETİŞİM"
+        "tr": "İLETİŞİM",
+        "en": "CONTACT",
+        "de": "KONTAKT",
+        "it": "CONTATTI"
       },
       "items": [
         {
           "id": "contact-0",
           "enabled": true,
           "label": {
-            "tr": "WhatsApp’dan yazın"
+            "tr": "WhatsApp’dan yazın",
+            "en": "Message us on WhatsApp",
+            "de": "Schreiben Sie uns auf WhatsApp",
+            "it": "Scrivici su WhatsApp"
           },
           "url": "iletisim/index.html"
         },
@@ -417,7 +541,9 @@
           "label": {
             "tr": "İletişim",
             "en": "Contact",
-            "ar": "اتصل بنا"
+            "ar": "اتصل بنا",
+            "de": "Kontakt",
+            "it": "Contatti"
           },
           "url": "iletisim/index.html"
         },
@@ -425,7 +551,10 @@
           "id": "contact-2",
           "enabled": true,
           "label": {
-            "tr": "Site Haritası"
+            "tr": "Site Haritası",
+            "en": "Sitemap",
+            "de": "Sitemap",
+            "it": "Mappa del sito"
           },
           "url": "site-haritasi.html"
         }

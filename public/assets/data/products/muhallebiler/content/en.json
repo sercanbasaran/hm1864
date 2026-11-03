@@ -2,5 +2,741 @@
   "schemaVersion": 1,
   "categoryId": "muhallebiler",
   "language": "en",
-  "products": {}
+  "products": {
+    "usta-1811100": {
+      "name": "Pistachio Kazandibi",
+      "description": "Traditional kazandibi enriched with Antep pistachios.",
+      "ingredients": "buffalo milk, cow’s milk, chicken breast, sugar, rice slurry (rice, water), unsweetened whipped topping, pistachios, salt.",
+      "allergenInfo": "Contains pistachios, dairy products and soya.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 195 kcal / 815.88 kJ; Fat 7.3 g; Saturated fat 2.9 g; Carbohydrate 28.2 g; Sugars 17.1 g; Fibre 1.1 g; Protein 4.1 g; Salt 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1811.10001": {
+          "label": "Plated Serving",
+          "description": "Traditional kazandibi enriched with Antep pistachios.",
+          "weight": "270 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "buffalo milk, cow’s milk, chicken breast, sugar, rice slurry (rice, water), unsweetened whipped topping, pistachios, salt.",
+          "allergenInfo": "Contains pistachios, dairy products and soya.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 195 kcal / 815.88 kJ; Fat 7.3 g; Saturated fat 2.9 g; Carbohydrate 28.2 g; Sugars 17.1 g; Fibre 1.1 g; Protein 4.1 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1811101": {
+      "name": "Saffron Kazandibi",
+      "description": "Special kazandibi blended with the precious saffron of palace cuisine.",
+      "ingredients": "buffalo milk, cow’s milk, sugar, rice slurry (rice, water), unsweetened whipped topping, saffron, salt.",
+      "allergenInfo": "Contains dairy products and soya.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 169.1 kcal / 707.514 kJ; Fat 5.1 g; Saturated fat 4 g; Carbohydrate 28.1 g; Sugars 17.5 g; Fibre 0.2 g; Protein 2.8 g; Salt 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1811.10101": {
+          "label": "Plated Serving",
+          "description": "Special kazandibi blended with the precious saffron of palace cuisine.",
+          "weight": "275 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "buffalo milk, cow’s milk, sugar, rice slurry (rice, water), unsweetened whipped topping, saffron, salt.",
+          "allergenInfo": "Contains dairy products and soya.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 169.1 kcal / 707.514 kJ; Fat 5.1 g; Saturated fat 4 g; Carbohydrate 28.1 g; Sugars 17.5 g; Fibre 0.2 g; Protein 2.8 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1811102": {
+      "name": "Mastic Kazandibi",
+      "description": "Caramelised kazandibi flavoured with traditional mastic.",
+      "ingredients": "buffalo milk, cow’s milk, sugar, rice slurry (rice, water), unsweetened whipped topping, mastic, salt.",
+      "allergenInfo": "Contains dairy products and soya.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 171.1 kcal / 715.882 kJ; Fat 5.1 g; Saturated fat 4 g; Carbohydrate 28.5 g; Sugars 17.7 g; Fibre 0.2 g; Protein 2.9 g; Salt 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1811.10201": {
+          "label": "Plated Serving",
+          "description": "Caramelised kazandibi flavoured with traditional mastic.",
+          "weight": "270 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "buffalo milk, cow’s milk, sugar, rice slurry (rice, water), unsweetened whipped topping, mastic, salt.",
+          "allergenInfo": "Contains dairy products and soya.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 171.1 kcal / 715.882 kJ; Fat 5.1 g; Saturated fat 4 g; Carbohydrate 28.5 g; Sugars 17.7 g; Fibre 0.2 g; Protein 2.9 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1811103": {
+      "name": "Tavukgöğsü Kazandibi",
+      "description": "A caramelised, velvety taste of history, crafted by Hafız Mustafa.",
+      "ingredients": "buffalo milk, cow’s milk, chicken breast, sugar, rice slurry (rice, water), unsweetened whipped topping, salt.",
+      "allergenInfo": "Contains dairy products and soya.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 176 kcal / 736.384 kJ; Fat 5.4 g; Saturated fat 4.1 g; Carbohydrate 28.3 g; Sugars 17.4 g; Fibre 0.2 g; Protein 3.7 g; Salt 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1811.10301": {
+          "label": "Plated Serving",
+          "description": "A caramelised, velvety taste of history, crafted by Hafız Mustafa.",
+          "weight": "260 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "buffalo milk, cow’s milk, chicken breast, sugar, rice slurry (rice, water), unsweetened whipped topping, salt.",
+          "allergenInfo": "Contains dairy products and soya.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 176 kcal / 736.384 kJ; Fat 5.4 g; Saturated fat 4.1 g; Carbohydrate 28.3 g; Sugars 17.4 g; Fibre 0.2 g; Protein 3.7 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1810102": {
+      "name": "Tavukgöğsü",
+      "description": "A velvety taste of history, crafted by Hafız Mustafa.",
+      "ingredients": "buffalo milk, cow’s milk, chicken breast, sugar, rice slurry (rice, water), unsweetened whipped topping, cinnamon, salt.",
+      "allergenInfo": "Contains dairy products and soya.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 164.2 kcal / 687.013 kJ; Fat 4.2 g; Saturated fat 2.9 g; Carbohydrate 28.1 g; Sugars 17.4 g; Fibre 0.3 g; Protein 3.6 g; Salt 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1810.10201": {
+          "label": "Plated Serving",
+          "description": "A velvety taste of history, crafted by Hafız Mustafa.",
+          "weight": "260 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "buffalo milk, cow’s milk, chicken breast, sugar, rice slurry (rice, water), unsweetened whipped topping, cinnamon, salt.",
+          "allergenInfo": "Contains dairy products and soya.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 164.2 kcal / 687.013 kJ; Fat 4.2 g; Saturated fat 2.9 g; Carbohydrate 28.1 g; Sugars 17.4 g; Fibre 0.3 g; Protein 3.6 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1813102": {
+      "name": "Supangle",
+      "description": "A silky texture that takes you back in time.",
+      "ingredients": "Supangle sauce (milk, wheat flour, granulated sugar, milk chocolate, dark chocolate, cocoa powder, milk praline), sponge cake (wheat flour, water, cocoa powder, granulated sugar, eggs, baking powder, vegetable stabiliser, vegetable emulsifier), cream (wheat flour, granulated sugar, eggs, whipped topping, milk, hydrogenated vegetable fat), matte pistachio chocolate, pistachios.",
+      "allergenInfo": "Contains Wheat gluten, pistachios, eggs, soya and dairy products.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 348 kcal / 1456.03 kJ; Fat 24.8 g; Saturated fat 12.9 g; Carbohydrate 25.9 g; Sugars 20.5 g; Fibre 1.2 g; Protein 5.3 g; Salt 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1813.10201": {
+          "label": "Glass Bowl",
+          "description": "A silky texture that takes you back in time.",
+          "weight": "400 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "Supangle sauce (milk, wheat flour, granulated sugar, milk chocolate, dark chocolate, cocoa powder, milk praline), sponge cake (wheat flour, water, cocoa powder, granulated sugar, eggs, baking powder, vegetable stabiliser, vegetable emulsifier), cream (wheat flour, granulated sugar, eggs, whipped topping, milk, hydrogenated vegetable fat), matte pistachio chocolate, pistachios.",
+          "allergenInfo": "Contains Wheat gluten, pistachios, eggs, soya and dairy products.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 348 kcal / 1456.03 kJ; Fat 24.8 g; Saturated fat 12.9 g; Carbohydrate 25.9 g; Sugars 20.5 g; Fibre 1.2 g; Protein 5.3 g; Salt 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1813103": {
+      "name": "Checkmate",
+      "description": "A feast born from the contrast of milk and chocolate.",
+      "ingredients": "milk pudding (whole milk, sugar, milk cream, wheat flour, corn starch, eggs, white chocolate, sweetened whipped topping, vanillin flavouring, salt), milk chocolate hazelnut praline, cocoa powder, dark chocolate, corn starch.",
+      "allergenInfo": "Contains Wheat gluten, hazelnuts, eggs, soya and dairy products.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 379 kcal / 1585.7 kJ; Fat 11.7 g; Saturated fat 1.7 g; Carbohydrate 63.5 g; Sugars 17.2 g; Fibre 1.4 g; Protein 4.5 g; Salt 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1813.10301": {
+          "label": "Glass Bowl",
+          "description": "A feast born from the contrast of milk and chocolate.",
+          "weight": "400 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "milk pudding (whole milk, sugar, milk cream, wheat flour, corn starch, eggs, white chocolate, sweetened whipped topping, vanillin flavouring, salt), milk chocolate hazelnut praline, cocoa powder, dark chocolate, corn starch.",
+          "allergenInfo": "Contains Wheat gluten, hazelnuts, eggs, soya and dairy products.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 379 kcal / 1585.7 kJ; Fat 11.7 g; Saturated fat 1.7 g; Carbohydrate 63.5 g; Sugars 17.2 g; Fibre 1.4 g; Protein 4.5 g; Salt 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1813101": {
+      "name": "Profiterole",
+      "description": "Special cream-filled pastry puffs with chocolate.",
+      "ingredients": "Supangle sauce (milk, wheat flour, granulated sugar, milk chocolate, dark chocolate, cocoa powder, milk praline), profiterole pastry (wheat flour, water, eggs, sunflower oil), cream (wheat flour, granulated sugar, eggs, whipped topping, milk, hydrogenated vegetable fat), matte pistachio chocolate, pistachios, milk chocolate.",
+      "allergenInfo": "Contains Wheat gluten, hazelnuts, pistachios, eggs, milk and soya. May contain traces of almonds, peanuts, sesame and walnuts.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 342.6 kcal / 1433.44 kJ; Fat 24.9 g; Saturated fat 13.2 g; Carbohydrate 24.7 g; Sugars 19.6 g; Fibre 1 g; Protein 5 g; Salt 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1813.10101": {
+          "label": "Glass Bowl",
+          "description": "Special cream-filled pastry puffs with chocolate.",
+          "weight": "380 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "Supangle sauce (milk, wheat flour, granulated sugar, milk chocolate, dark chocolate, cocoa powder, milk praline), profiterole pastry (wheat flour, water, eggs, sunflower oil), cream (wheat flour, granulated sugar, eggs, whipped topping, milk, hydrogenated vegetable fat), matte pistachio chocolate, pistachios, milk chocolate.",
+          "allergenInfo": "Contains Wheat gluten, hazelnuts, pistachios, eggs, milk and soya. May contain traces of almonds, peanuts, sesame and walnuts.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 342.6 kcal / 1433.44 kJ; Fat 24.9 g; Saturated fat 13.2 g; Carbohydrate 24.7 g; Sugars 19.6 g; Fibre 1 g; Protein 5 g; Salt 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1813100": {
+      "name": "Lotus Spoon Cake",
+      "description": "Lotus spoon cake with a distinctive, irresistible flavour.",
+      "ingredients": "",
+      "allergenInfo": "",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 420.8 kcal / 1760.63 kJ; Fat 29.4 g; Saturated fat 15.9 g; Carbohydrate 36.5 g; Sugars 18.9 g; Fibre 0.4 g; Protein 2.5 g; Salt 0.3 g.",
+        "note": ""
+      },
+      "variants": {
+        "1813.10001": {
+          "label": "Glass Bowl",
+          "description": "Lotus spoon cake with a distinctive, irresistible flavour.",
+          "weight": "390 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "",
+          "allergenInfo": "",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 420.8 kcal / 1760.63 kJ; Fat 29.4 g; Saturated fat 15.9 g; Carbohydrate 36.5 g; Sugars 18.9 g; Fibre 0.4 g; Protein 2.5 g; Salt 0.3 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1812105": {
+      "name": "Fig Milk Pudding",
+      "description": "A wonderful combination of figs and milk.",
+      "ingredients": "cow’s milk, buffalo milk, sugar, rice slurry (rice, water), salt, almonds, figs, flavourings (coconut, vanillin, bitter almond).",
+      "allergenInfo": "Contains almonds and dairy products.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 148 kcal / 619.2 kJ; Fat 5.2 g; Saturated fat 3.3 g; Carbohydrate 22.1 g; Sugars 13 g; Fibre 0.5 g; Protein 3.4 g; Salt 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10501": {
+          "label": "Glass Bowl",
+          "description": "A wonderful combination of figs and milk.",
+          "weight": "400 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cow’s milk, buffalo milk, sugar, rice slurry (rice, water), salt, almonds, figs, flavourings (coconut, vanillin, bitter almond).",
+          "allergenInfo": "Contains almonds and dairy products.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 148 kcal / 619.2 kJ; Fat 5.2 g; Saturated fat 3.3 g; Carbohydrate 22.1 g; Sugars 13 g; Fibre 0.5 g; Protein 3.4 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1812104": {
+      "name": "Pistachio Milk Pudding",
+      "description": "An exceptional blend of pistachios and creamy milk.",
+      "ingredients": "cow’s milk, buffalo milk, sugar, rice slurry (rice, water), salt, pistachios, pistachio concentrate.",
+      "allergenInfo": "Contains pistachios, soya and dairy products.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 169 kcal / 707.1 kJ; Fat 8.1 g; Saturated fat 3 g; Carbohydrate 18.9 g; Sugars 11.2 g; Fibre 0.9 g; Protein 5.3 g; Salt 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10401": {
+          "label": "Glass Bowl",
+          "description": "An exceptional blend of pistachios and creamy milk.",
+          "weight": "400 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cow’s milk, buffalo milk, sugar, rice slurry (rice, water), salt, pistachios, pistachio concentrate.",
+          "allergenInfo": "Contains pistachios, soya and dairy products.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 169 kcal / 707.1 kJ; Fat 8.1 g; Saturated fat 3 g; Carbohydrate 18.9 g; Sugars 11.2 g; Fibre 0.9 g; Protein 5.3 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1810101": {
+      "name": "Baked Rice Pudding",
+      "description": "A nostalgic dessert baked until golden.",
+      "ingredients": "cow’s milk, buffalo milk, sugar, rice, rice slurry (rice, water), salt.",
+      "allergenInfo": "Contains dairy products.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 146.8 kcal / 614.211 kJ; Fat 4.7 g; Saturated fat 3.3 g; Carbohydrate 22.9 g; Sugars 13.2 g; Fibre 0.2 g; Protein 3.3 g; Salt 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1810.10101": {
+          "label": "Glass Bowl",
+          "description": "A nostalgic dessert baked until golden.",
+          "weight": "400 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cow’s milk, buffalo milk, sugar, rice, rice slurry (rice, water), salt.",
+          "allergenInfo": "Contains dairy products.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 146.8 kcal / 614.211 kJ; Fat 4.7 g; Saturated fat 3.3 g; Carbohydrate 22.9 g; Sugars 13.2 g; Fibre 0.2 g; Protein 3.3 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1812103": {
+      "name": "Mastic Milk Pudding",
+      "description": "An elegant invitation to Turkish cuisine with mastic flavour.",
+      "ingredients": "cow’s milk, buffalo milk, sugar, rice slurry (rice, water), salt, hazelnuts, mastic.",
+      "allergenInfo": "Contains hazelnuts and dairy products.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 141.1 kcal / 590.4 kJ; Fat 5 g; Saturated fat 3.5 g; Carbohydrate 20.9 g; Sugars 13 g; Fibre 0.1 g; Protein 3.2 g; Salt 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10301": {
+          "label": "Glass Bowl",
+          "description": "An elegant invitation to Turkish cuisine with mastic flavour.",
+          "weight": "270 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cow’s milk, buffalo milk, sugar, rice slurry (rice, water), salt, hazelnuts, mastic.",
+          "allergenInfo": "Contains hazelnuts and dairy products.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 141.1 kcal / 590.4 kJ; Fat 5 g; Saturated fat 3.5 g; Carbohydrate 20.9 g; Sugars 13 g; Fibre 0.1 g; Protein 3.2 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1812101": {
+      "name": "Strawberry & Chocolate Milk Pudding",
+      "description": "Fresh strawberries blended with chocolate.",
+      "ingredients": "chocolate milk pudding (whole milk, sugar, wheat flour, dark chocolate, milk chocolate, cocoa powder, chocolate hazelnut praline), strawberry filling (hot glaze, sugar, gelling agent, raspberry jelly, strawberries).",
+      "allergenInfo": "Contains dairy products, gluten, soya, eggs and sulphites. May contain traces of pistachios, almonds, peanuts, sesame and walnuts.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 174.6 kcal / 730.5 kJ; Fat 5.4 g; Saturated fat 2.9 g; Carbohydrate 27.6 g; Sugars 28.5 g; Fibre 1.3 g; Protein 3.3 g; Salt 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10101": {
+          "label": "Glass Bowl",
+          "description": "Fresh strawberries blended with chocolate.",
+          "weight": "390 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "chocolate milk pudding (whole milk, sugar, wheat flour, dark chocolate, milk chocolate, cocoa powder, chocolate hazelnut praline), strawberry filling (hot glaze, sugar, gelling agent, raspberry jelly, strawberries).",
+          "allergenInfo": "Contains dairy products, gluten, soya, eggs and sulphites. May contain traces of pistachios, almonds, peanuts, sesame and walnuts.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 174.6 kcal / 730.5 kJ; Fat 5.4 g; Saturated fat 2.9 g; Carbohydrate 27.6 g; Sugars 28.5 g; Fibre 1.3 g; Protein 3.3 g; Salt 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1812102": {
+      "name": "Strawberry Milk Pudding",
+      "description": "Milk and strawberry brought together.",
+      "ingredients": "milk pudding (whole milk, sugar, milk cream, wheat flour, corn starch, eggs, white chocolate, sweetened whipped topping, vanillin flavouring, salt), strawberry filling (hot glaze, sugar, gelling agent, raspberry jelly, strawberries).",
+      "allergenInfo": "Contains dairy products, gluten, soya, eggs and sulphites. May contain traces of pistachios, almonds, peanuts, sesame and walnuts.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 270 kcal / 1129.7 kJ; Fat 20.1 g; Saturated fat 12.1 g; Carbohydrate 18 g; Sugars 20.3 g; Fibre 0.3 g; Protein 3.6 g; Salt 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10201": {
+          "label": "Glass Bowl",
+          "description": "Milk and strawberry brought together.",
+          "weight": "395 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "milk pudding (whole milk, sugar, milk cream, wheat flour, corn starch, eggs, white chocolate, sweetened whipped topping, vanillin flavouring, salt), strawberry filling (hot glaze, sugar, gelling agent, raspberry jelly, strawberries).",
+          "allergenInfo": "Contains dairy products, gluten, soya, eggs and sulphites. May contain traces of pistachios, almonds, peanuts, sesame and walnuts.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 270 kcal / 1129.7 kJ; Fat 20.1 g; Saturated fat 12.1 g; Carbohydrate 18 g; Sugars 20.3 g; Fibre 0.3 g; Protein 3.6 g; Salt 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1810103": {
+      "name": "Zerde",
+      "description": "Precious saffron, passed down from Ottoman palace cuisine.",
+      "ingredients": "water, rice, rice slurry (rice, water), saffron, hazelnuts, pistachios, currants, salt, sugar, cinnamon, corn starch, potato starch, cloves, flavourings (vanillin, coconut, rose), colouring (curcumin).",
+      "allergenInfo": "Contains hazelnuts and pistachios.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 119 kcal; Fat 0.1 g; Carbohydrate 29 g; Sugars 15.7 g; Fibre 0.2 g; Protein 0.5 g.",
+        "note": ""
+      },
+      "variants": {
+        "1810.10301": {
+          "label": "Glass Bowl",
+          "description": "Precious saffron, passed down from Ottoman palace cuisine.",
+          "weight": "395 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "water, rice, rice slurry (rice, water), saffron, hazelnuts, pistachios, currants, salt, sugar, cinnamon, corn starch, potato starch, cloves, flavourings (vanillin, coconut, rose), colouring (curcumin).",
+          "allergenInfo": "Contains hazelnuts and pistachios.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 119 kcal; Fat 0.1 g; Carbohydrate 29 g; Sugars 15.7 g; Fibre 0.2 g; Protein 0.5 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1812108": {
+      "name": "Forest Fruit Milk Pudding",
+      "description": "Nature’s distinctive aromas in every spoonful.",
+      "ingredients": "cow’s milk, buffalo milk, sugar, rice slurry (rice, water), potato starch, corn starch, gelling agent, vanillin flavouring, blackberries, blueberries, raspberries, pistachios, salt.",
+      "allergenInfo": "Contains pistachios, sulphites and dairy products.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 136 kcal / 569 kJ; Fat 3.6 g; Saturated fat 2.5 g; Carbohydrate 23.7 g; Sugars 14.6 g; Fibre 0.7 g; Protein 2.4 g; Salt 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10801": {
+          "label": "Glass Bowl",
+          "description": "Nature’s distinctive aromas in every spoonful.",
+          "weight": "395 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cow’s milk, buffalo milk, sugar, rice slurry (rice, water), potato starch, corn starch, gelling agent, vanillin flavouring, blackberries, blueberries, raspberries, pistachios, salt.",
+          "allergenInfo": "Contains pistachios, sulphites and dairy products.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 136 kcal / 569 kJ; Fat 3.6 g; Saturated fat 2.5 g; Carbohydrate 23.7 g; Sugars 14.6 g; Fibre 0.7 g; Protein 2.4 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1812107": {
+      "name": "Keşkül-ü Fukara",
+      "description": "A gourmet flavour carried from Ottoman times to today.",
+      "ingredients": "cow’s milk, buffalo milk, sugar, rice slurry (rice, water), salt, eggs, almonds, flavourings (vanillin, bitter almond, coconut), colouring (curcumin).",
+      "allergenInfo": "Contains almonds, eggs and dairy products.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 142 kcal / 594.1 kJ; Fat 5.4 g; Saturated fat 2.9 g; Carbohydrate 19.1 g; Sugars 11.7 g; Fibre 0.1 g; Protein 4.5 g; Salt 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10701": {
+          "label": "Glass Bowl",
+          "description": "A gourmet flavour carried from Ottoman times to today.",
+          "weight": "400 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cow’s milk, buffalo milk, sugar, rice slurry (rice, water), salt, eggs, almonds, flavourings (vanillin, bitter almond, coconut), colouring (curcumin).",
+          "allergenInfo": "Contains almonds, eggs and dairy products.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 142 kcal / 594.1 kJ; Fat 5.4 g; Saturated fat 2.9 g; Carbohydrate 19.1 g; Sugars 11.7 g; Fibre 0.1 g; Protein 4.5 g; Salt 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1812106": {
+      "name": "Caramel & Hazelnut Milk Pudding",
+      "description": "Toasted caramel sauce meets milk pudding and hazelnuts.",
+      "ingredients": "milk pudding (whole milk, sugar, milk cream, wheat flour, corn starch, eggs, white chocolate, sweetened whipped topping, vanillin flavouring, salt), plain sponge cake (wheat flour, sugar, corn starch, eggs, water, baking powder, vegetable emulsifier, vegetable stabiliser), caramel sauce, hazelnuts.",
+      "allergenInfo": "Contains Wheat gluten, hazelnuts, soya, eggs and dairy products.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 314 kcal / 1313.8 kJ; Fat 18.4 g; Saturated fat 10.5 g; Carbohydrate 31.2 g; Sugars 12.2 g; Fibre 0 g; Protein 5.6 g; Salt 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10601": {
+          "label": "Glass Bowl",
+          "description": "Toasted caramel sauce meets milk pudding and hazelnuts.",
+          "weight": "360 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "milk pudding (whole milk, sugar, milk cream, wheat flour, corn starch, eggs, white chocolate, sweetened whipped topping, vanillin flavouring, salt), plain sponge cake (wheat flour, sugar, corn starch, eggs, water, baking powder, vegetable emulsifier, vegetable stabiliser), caramel sauce, hazelnuts.",
+          "allergenInfo": "Contains Wheat gluten, hazelnuts, soya, eggs and dairy products.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 314 kcal / 1313.8 kJ; Fat 18.4 g; Saturated fat 10.5 g; Carbohydrate 31.2 g; Sugars 12.2 g; Fibre 0 g; Protein 5.6 g; Salt 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1810100": {
+      "name": "Aşure",
+      "description": "A traditional dessert symbolising abundance and sharing.",
+      "ingredients": "water, sugar, wheat for aşure, potato starch, corn starch, boiled chickpeas, apricots, figs, grapes, hazelnuts, walnuts, currants, rice, rice slurry (rice, water), rose flavouring, salt, vanillin flavouring, colouring (curcumin).",
+      "allergenInfo": "Wheat gluten, hazelnuts, walnuts.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 130.7 kcal / 547 kJ; Fat 1.68 g; Saturated fat 0.1 g; Carbohydrate 26.54 g; Sugars 11.24 g; Fibre 2.2 g; Protein 1.34 g.",
+        "note": ""
+      },
+      "variants": {
+        "1810.10001": {
+          "label": "Glass Bowl",
+          "description": "A traditional dessert symbolising abundance and sharing.",
+          "weight": "410 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "water, sugar, wheat for aşure, potato starch, corn starch, boiled chickpeas, apricots, figs, grapes, hazelnuts, walnuts, currants, rice, rice slurry (rice, water), rose flavouring, salt, vanillin flavouring, colouring (curcumin).",
+          "allergenInfo": "Wheat gluten, hazelnuts, walnuts.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 130.7 kcal / 547 kJ; Fat 1.68 g; Saturated fat 0.1 g; Carbohydrate 26.54 g; Sugars 11.24 g; Fibre 2.2 g; Protein 1.34 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    },
+    "usta-1812100": {
+      "name": "Raspberry Milk Pudding",
+      "description": "Refreshing raspberries in harmony with creamy milk pudding.",
+      "ingredients": "milk pudding (whole milk, sugar, milk cream, wheat flour, corn starch, eggs, white chocolate, sweetened whipped topping, vanillin flavouring, salt), raspberry filling (raspberries, gelling agent, hot glaze, raspberry jelly, cold glaze).",
+      "allergenInfo": "Contains dairy products, gluten, soya, eggs and sulphites.",
+      "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 297.5 kcal / 1244.7 kJ; Fat 4.2 g; Saturated fat 1.7 g; Carbohydrate 61.8 g; Sugars 12.8 g; Fibre 0.5 g; Protein 2.8 g; Salt 0.1 g.",
+        "note": ""
+      },
+      "variants": {
+        "1812.10001": {
+          "label": "Glass Bowl",
+          "description": "Refreshing raspberries in harmony with creamy milk pudding.",
+          "weight": "390 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "milk pudding (whole milk, sugar, milk cream, wheat flour, corn starch, eggs, white chocolate, sweetened whipped topping, vanillin flavouring, salt), raspberry filling (raspberries, gelling agent, hot glaze, raspberry jelly, cold glaze).",
+          "allergenInfo": "Contains dairy products, gluten, soya, eggs and sulphites.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 297.5 kcal / 1244.7 kJ; Fat 4.2 g; Saturated fat 1.7 g; Carbohydrate 61.8 g; Sugars 12.8 g; Fibre 0.5 g; Protein 2.8 g; Salt 0.1 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "storage": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "longTermStorage": "Storage: Store in the freezer at -18°.\n\nPreparation: Thaw in a refrigerator at +4° for 8–12 hours before serving.\n\nCaution: Do not refreeze once thawed. \nOnce thawed, keep refrigerated and consume within 2 days.",
+          "packaging": "Glass Bowl"
+        }
+      }
+    }
+  }
 }

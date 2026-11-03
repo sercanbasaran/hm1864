@@ -7,7 +7,9 @@
       "label": {
         "tr": "ONLINE MENÜ",
         "en": "ONLINE MENU",
-        "ar": "القائمة الإلكترونية"
+        "ar": "القائمة الإلكترونية",
+        "de": "ONLINE-MENÜ",
+        "it": "MENU ONLINE"
       },
       "categories": [
         {
@@ -136,7 +138,9 @@
       "label": {
         "tr": "MAĞAZA MENÜ",
         "en": "STORE MENU",
-        "ar": "قائمة المتاجر"
+        "ar": "قائمة المتاجر",
+        "de": "FILIALMENÜ",
+        "it": "MENU IN NEGOZIO"
       },
       "categories": [
         {

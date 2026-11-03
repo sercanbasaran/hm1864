@@ -2,5 +2,960 @@
   "schemaVersion": 1,
   "categoryId": "pastalar",
   "language": "it",
-  "products": {}
+  "products": {
+    "usta-1613100": {
+      "name": "Storia di Istanbul",
+      "description": "Dolci strati di pistacchi di Antep, ispirati all’iconico baklava.",
+      "ingredients": "pan di Spagna, Baklava al pistacchio, sciroppo all’arancia, crema al cioccolato bianco, crema al pistacchio, pistacchi.",
+      "allergenInfo": "Contiene glutine, uova, derivati del latte e pistacchi.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "",
+        "note": ""
+      },
+      "variants": {
+        "1613.10001": {
+          "label": "Fetta",
+          "description": "Dolci strati di pistacchi di Antep, ispirati all’iconico baklava.",
+          "weight": "350 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna, Baklava al pistacchio, sciroppo all’arancia, crema al cioccolato bianco, crema al pistacchio, pistacchi.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e pistacchi.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1613.10002": {
+          "label": "Torta intera",
+          "description": "Dolci strati di pistacchi di Antep, ispirati all’iconico baklava.",
+          "weight": "2100 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna, Baklava al pistacchio, sciroppo all’arancia, crema al cioccolato bianco, crema al pistacchio, pistacchi.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e pistacchi.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1615100": {
+      "name": "Perla bianca",
+      "description": "La ricchezza delle nocciole incontra la freschezza della banana e la morbidezza del caramello.",
+      "ingredients": "pan di Spagna, sciroppo all’arancia, crema al cioccolato bianco, banana, nocciole, ripieno al caramello, salsa al cioccolato bianco.",
+      "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t292 kcal / 1221,7 kJ\r\nGrassi\t18 g\r\nGrassi saturi\t8,7 g\r\nCarboidrati\t27,5 g\r\nZuccheri\t15,1 g\r\nFibre\t1,8 g\r\nProteine\t4,3 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1615.10001": {
+          "label": "Fetta",
+          "description": "La ricchezza delle nocciole incontra la freschezza della banana e la morbidezza del caramello.",
+          "weight": "395 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna, sciroppo all’arancia, crema al cioccolato bianco, banana, nocciole, ripieno al caramello, salsa al cioccolato bianco.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t292 kcal / 1221,7 kJ\r\nGrassi\t18 g\r\nGrassi saturi\t8,7 g\r\nCarboidrati\t27,5 g\r\nZuccheri\t15,1 g\r\nFibre\t1,8 g\r\nProteine\t4,3 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1615.10002": {
+          "label": "Torta intera",
+          "description": "La ricchezza delle nocciole incontra la freschezza della banana e la morbidezza del caramello.",
+          "weight": "2370 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna, sciroppo all’arancia, crema al cioccolato bianco, banana, nocciole, ripieno al caramello, salsa al cioccolato bianco.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t292 kcal / 1221,7 kJ\r\nGrassi\t18 g\r\nGrassi saturi\t8,7 g\r\nCarboidrati\t27,5 g\r\nZuccheri\t15,1 g\r\nFibre\t1,8 g\r\nProteine\t4,3 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1610100": {
+      "name": "Torre Lotus",
+      "description": "Il gusto inconfondibile dei biscotti Lotus in ogni boccone.",
+      "ingredients": "pan di Spagna, sciroppo all’arancia, crema pasticcera, crema Lotus, biscotti Lotus.",
+      "allergenInfo": "Contiene glutine, uova, derivati del latte e soia.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t407,5 kcal / 1705 kJ\r\nGrassi\t26,4 g\r\nGrassi saturi\t12,7 g\r\nCarboidrati\t38,4 g\r\nZuccheri\t14,4 g\r\nFibre\t0,7 g\r\nProteine\t4,1 g\r\nSale\t0,3 g",
+        "note": ""
+      },
+      "variants": {
+        "1610.10001": {
+          "label": "Fetta",
+          "description": "Il gusto inconfondibile dei biscotti Lotus in ogni boccone.",
+          "weight": "390 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna, sciroppo all’arancia, crema pasticcera, crema Lotus, biscotti Lotus.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e soia.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t407,5 kcal / 1705 kJ\r\nGrassi\t26,4 g\r\nGrassi saturi\t12,7 g\r\nCarboidrati\t38,4 g\r\nZuccheri\t14,4 g\r\nFibre\t0,7 g\r\nProteine\t4,1 g\r\nSale\t0,3 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1610.10002": {
+          "label": "Torta intera",
+          "description": "Il gusto inconfondibile dei biscotti Lotus in ogni boccone.",
+          "weight": "2340 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna, sciroppo all’arancia, crema pasticcera, crema Lotus, biscotti Lotus.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e soia.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t407,5 kcal / 1705 kJ\r\nGrassi\t26,4 g\r\nGrassi saturi\t12,7 g\r\nCarboidrati\t38,4 g\r\nZuccheri\t14,4 g\r\nFibre\t0,7 g\r\nProteine\t4,1 g\r\nSale\t0,3 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1616100": {
+      "name": "Magia amazzonica",
+      "description": "Una ricca combinazione di frutti di bosco e cioccolato.",
+      "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema al cioccolato bianco, frutti di bosco (mirtilli, more, corbezzoli, uva nera, lamponi, fragole), ripieno ai frutti di bosco, salsa al cioccolato.",
+      "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t290,1 kcal / 1213,9 kJ\r\nGrassi\t12,8 g\r\nGrassi saturi\t6,2 g\r\nCarboidrati\t39,5 g\r\nZuccheri\t26 g\r\nFibre\t2,4 g\r\nProteine\t4,2 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1616.10001": {
+          "label": "Fetta",
+          "description": "Una ricca combinazione di frutti di bosco e cioccolato.",
+          "weight": "380 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema al cioccolato bianco, frutti di bosco (mirtilli, more, corbezzoli, uva nera, lamponi, fragole), ripieno ai frutti di bosco, salsa al cioccolato.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t290,1 kcal / 1213,9 kJ\r\nGrassi\t12,8 g\r\nGrassi saturi\t6,2 g\r\nCarboidrati\t39,5 g\r\nZuccheri\t26 g\r\nFibre\t2,4 g\r\nProteine\t4,2 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1616.10002": {
+          "label": "Torta intera",
+          "description": "Una ricca combinazione di frutti di bosco e cioccolato.",
+          "weight": "2280 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema al cioccolato bianco, frutti di bosco (mirtilli, more, corbezzoli, uva nera, lamponi, fragole), ripieno ai frutti di bosco, salsa al cioccolato.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t290,1 kcal / 1213,9 kJ\r\nGrassi\t12,8 g\r\nGrassi saturi\t6,2 g\r\nCarboidrati\t39,5 g\r\nZuccheri\t26 g\r\nFibre\t2,4 g\r\nProteine\t4,2 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        }
+      }
+    },
+    "usta-1615102": {
+      "name": "Amore infinito",
+      "description": "Una deliziosa combinazione di intenso cioccolato e banane.",
+      "ingredients": "pan di Spagna al cacao, torta al cacao e nocciole, sciroppo al caffè, crema al cioccolato bianco, crema al cioccolato fondente, banana, pezzi di cioccolato al latte.",
+      "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t275,1 kcal / 1151 kJ\r\nGrassi\t14,8 g\r\nGrassi saturi\t6,9 g\r\nCarboidrati\t30,9 g\r\nZuccheri\t20,5 g\r\nFibre\t1,7 g\r\nProteine\t4,6 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1615.10201": {
+          "label": "Fetta",
+          "description": "Una deliziosa combinazione di intenso cioccolato e banane.",
+          "weight": "355 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna al cacao, torta al cacao e nocciole, sciroppo al caffè, crema al cioccolato bianco, crema al cioccolato fondente, banana, pezzi di cioccolato al latte.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t275,1 kcal / 1151 kJ\r\nGrassi\t14,8 g\r\nGrassi saturi\t6,9 g\r\nCarboidrati\t30,9 g\r\nZuccheri\t20,5 g\r\nFibre\t1,7 g\r\nProteine\t4,6 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1615.10202": {
+          "label": "Torta intera",
+          "description": "Una deliziosa combinazione di intenso cioccolato e banane.",
+          "weight": "2130 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna al cacao, torta al cacao e nocciole, sciroppo al caffè, crema al cioccolato bianco, crema al cioccolato fondente, banana, pezzi di cioccolato al latte.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t275,1 kcal / 1151 kJ\r\nGrassi\t14,8 g\r\nGrassi saturi\t6,9 g\r\nCarboidrati\t30,9 g\r\nZuccheri\t20,5 g\r\nFibre\t1,7 g\r\nProteine\t4,6 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1611100": {
+      "name": "Diplomat",
+      "description": "Torta al cioccolato con la deliziosa croccantezza del croccante caramellato.",
+      "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema ganache al cioccolato, salsa al cioccolato e nocciole, croccante di frutta a guscio (pistacchi, mandorle, nocciole), pezzi di cioccolato al latte.",
+      "allergenInfo": "Contiene glutine, uova, derivati del latte, nocciole, pistacchi e mandorle.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t350,9 kcal / 1468,2 kJ\r\nGrassi\t24,5 g\r\nGrassi saturi\t13,7 g\r\nCarboidrati\t28 g\r\nZuccheri\t20,4 g\r\nFibre\t1,7 g\r\nProteine\t4,7 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10001": {
+          "label": "Fetta",
+          "description": "Torta al cioccolato con la deliziosa croccantezza del croccante caramellato.",
+          "weight": "305 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema ganache al cioccolato, salsa al cioccolato e nocciole, croccante di frutta a guscio (pistacchi, mandorle, nocciole), pezzi di cioccolato al latte.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte, nocciole, pistacchi e mandorle.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t350,9 kcal / 1468,2 kJ\r\nGrassi\t24,5 g\r\nGrassi saturi\t13,7 g\r\nCarboidrati\t28 g\r\nZuccheri\t20,4 g\r\nFibre\t1,7 g\r\nProteine\t4,7 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1611.10002": {
+          "label": "Torta intera",
+          "description": "Torta al cioccolato con la deliziosa croccantezza del croccante caramellato.",
+          "weight": "1830 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema ganache al cioccolato, salsa al cioccolato e nocciole, croccante di frutta a guscio (pistacchi, mandorle, nocciole), pezzi di cioccolato al latte.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte, nocciole, pistacchi e mandorle.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t350,9 kcal / 1468,2 kJ\r\nGrassi\t24,5 g\r\nGrassi saturi\t13,7 g\r\nCarboidrati\t28 g\r\nZuccheri\t20,4 g\r\nFibre\t1,7 g\r\nProteine\t4,7 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1611103": {
+      "name": "Ultimo amore",
+      "description": "Il gusto della fragola incontra la ricchezza del cioccolato al latte.",
+      "ingredients": "pan di Spagna al cacao, torta al cacao e nocciole, sciroppo al caffè, crema al cioccolato bianco, crema al cioccolato fondente, fragole fresche, pezzi di cioccolato al latte.",
+      "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t268,4 kcal / 1122,8 kJ\r\nGrassi\t15,5 g\r\nGrassi saturi\t7,4 g\r\nCarboidrati\t27,5 g\r\nZuccheri\t21,2 g\r\nFibre\t1,8 g\r\nProteine\t4,7 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10301": {
+          "label": "Fetta",
+          "description": "Il gusto della fragola incontra la ricchezza del cioccolato al latte.",
+          "weight": "350 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna al cacao, torta al cacao e nocciole, sciroppo al caffè, crema al cioccolato bianco, crema al cioccolato fondente, fragole fresche, pezzi di cioccolato al latte.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t268,4 kcal / 1122,8 kJ\r\nGrassi\t15,5 g\r\nGrassi saturi\t7,4 g\r\nCarboidrati\t27,5 g\r\nZuccheri\t21,2 g\r\nFibre\t1,8 g\r\nProteine\t4,7 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1611.10302": {
+          "label": "Torta intera",
+          "description": "Il gusto della fragola incontra la ricchezza del cioccolato al latte.",
+          "weight": "2100 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna al cacao, torta al cacao e nocciole, sciroppo al caffè, crema al cioccolato bianco, crema al cioccolato fondente, fragole fresche, pezzi di cioccolato al latte.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t268,4 kcal / 1122,8 kJ\r\nGrassi\t15,5 g\r\nGrassi saturi\t7,4 g\r\nCarboidrati\t27,5 g\r\nZuccheri\t21,2 g\r\nFibre\t1,8 g\r\nProteine\t4,7 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1616101": {
+      "name": "Storia amazzonica",
+      "description": "Il cioccolato bianco incontra i frutti di bosco.",
+      "ingredients": "pan di Spagna, sciroppo all’arancia, crema al cioccolato bianco, frutti di bosco (mirtilli, corbezzoli, uva nera, more, lamponi, fragole), ripieno ai frutti di bosco, salsa al cioccolato bianco.",
+      "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t269,6 kcal / 1128 kJ\r\nGrassi\t18 g\r\nGrassi saturi\t12,7 g\r\nCarboidrati\t23,6 g\r\nZuccheri\t21,7 g\r\nFibre\t1,1 g\r\nProteine\t3,2 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1616.10101": {
+          "label": "Fetta",
+          "description": "Il cioccolato bianco incontra i frutti di bosco.",
+          "weight": "375 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna, sciroppo all’arancia, crema al cioccolato bianco, frutti di bosco (mirtilli, corbezzoli, uva nera, more, lamponi, fragole), ripieno ai frutti di bosco, salsa al cioccolato bianco.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t269,6 kcal / 1128 kJ\r\nGrassi\t18 g\r\nGrassi saturi\t12,7 g\r\nCarboidrati\t23,6 g\r\nZuccheri\t21,7 g\r\nFibre\t1,1 g\r\nProteine\t3,2 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1616.10102": {
+          "label": "Torta intera",
+          "description": "Il cioccolato bianco incontra i frutti di bosco.",
+          "weight": "2250 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna, sciroppo all’arancia, crema al cioccolato bianco, frutti di bosco (mirtilli, corbezzoli, uva nera, more, lamponi, fragole), ripieno ai frutti di bosco, salsa al cioccolato bianco.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t269,6 kcal / 1128 kJ\r\nGrassi\t18 g\r\nGrassi saturi\t12,7 g\r\nCarboidrati\t23,6 g\r\nZuccheri\t21,7 g\r\nFibre\t1,1 g\r\nProteine\t3,2 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1615101": {
+      "name": "Grande amore",
+      "description": "Una dolce scoperta esotica e avvolgente di banana e crema.",
+      "ingredients": "pan di Spagna, torta alle nocciole, sciroppo all’arancia, crema al cioccolato bianco, banana, gelatina al caramello.",
+      "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t278 kcal / 1163,1 kJ\r\nGrassi\t16,1 g\r\nGrassi saturi\t9,3 g\r\nCarboidrati\t29,2 g\r\nZuccheri\t19,2 g\r\nFibre\t1,2 g\r\nProteine\t4,2 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1615.10101": {
+          "label": "Torta intera",
+          "description": "Una dolce scoperta esotica e avvolgente di banana e crema.",
+          "weight": "2100 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna, torta alle nocciole, sciroppo all’arancia, crema al cioccolato bianco, banana, gelatina al caramello.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t278 kcal / 1163,1 kJ\r\nGrassi\t16,1 g\r\nGrassi saturi\t9,3 g\r\nCarboidrati\t29,2 g\r\nZuccheri\t19,2 g\r\nFibre\t1,2 g\r\nProteine\t4,2 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        },
+        "1615.10102": {
+          "label": "Fetta",
+          "description": "Una dolce scoperta esotica e avvolgente di banana e crema.",
+          "weight": "350 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna, torta alle nocciole, sciroppo all’arancia, crema al cioccolato bianco, banana, gelatina al caramello.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t278 kcal / 1163,1 kJ\r\nGrassi\t16,1 g\r\nGrassi saturi\t9,3 g\r\nCarboidrati\t29,2 g\r\nZuccheri\t19,2 g\r\nFibre\t1,2 g\r\nProteine\t4,2 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        }
+      }
+    },
+    "usta-1612101": {
+      "name": "Primo amore",
+      "description": "Un dolce raffinato che valorizza le fragole di stagione.",
+      "ingredients": "pan di Spagna, torta alle nocciole, sciroppo all’arancia, crema al cioccolato bianco, fragole fresche, gelatina per torte.",
+      "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energia 350,3 kcal / 1465,7 kJ; Grassi 21,3 g; Grassi saturi 12,6 g; Carboidrati 34,6 g; Zuccheri 26,2 g; Fibre 1,1 g; Proteine 5,1 g; Sale 0,2 g.",
+        "note": ""
+      },
+      "variants": {
+        "1612.10101": {
+          "label": "Fetta",
+          "description": "Un dolce raffinato che valorizza le fragole di stagione.",
+          "weight": "350 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna, torta alle nocciole, sciroppo all’arancia, crema al cioccolato bianco, fragole fresche, gelatina per torte.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 350,3 kcal / 1465,7 kJ; Grassi 21,3 g; Grassi saturi 12,6 g; Carboidrati 34,6 g; Zuccheri 26,2 g; Fibre 1,1 g; Proteine 5,1 g; Sale 0,2 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1612.10102": {
+          "label": "Torta intera",
+          "description": "Un dolce raffinato che valorizza le fragole di stagione.",
+          "weight": "2100 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna, torta alle nocciole, sciroppo all’arancia, crema al cioccolato bianco, fragole fresche, gelatina per torte.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e nocciole.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energia 350,3 kcal / 1465,7 kJ; Grassi 21,3 g; Grassi saturi 12,6 g; Carboidrati 34,6 g; Zuccheri 26,2 g; Fibre 1,1 g; Proteine 5,1 g; Sale 0,2 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1617101": {
+      "name": "Giardino di frutta",
+      "description": "Una scoperta di sapori tropicali con frutta avvolta nella torta.",
+      "ingredients": "pan di Spagna, sciroppo all’arancia, crema pasticcera, frutta mista (pesche, kiwi, ananas, fragole, uva nera, corbezzoli, melograno, arancia, fichi, melone), gelatina per torte.",
+      "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t241,9 kcal / 1012,1 kJ\r\nGrassi\t15,3 g\r\nGrassi saturi\t10,8 g\r\nCarboidrati\t23,2 g\r\nZuccheri\t13,8 g\r\nFibre\t1,2 g\r\nProteine\t2,8 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1617.10101": {
+          "label": "Fetta",
+          "description": "Una scoperta di sapori tropicali con frutta avvolta nella torta.",
+          "weight": "390 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna, sciroppo all’arancia, crema pasticcera, frutta mista (pesche, kiwi, ananas, fragole, uva nera, corbezzoli, melograno, arancia, fichi, melone), gelatina per torte.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t241,9 kcal / 1012,1 kJ\r\nGrassi\t15,3 g\r\nGrassi saturi\t10,8 g\r\nCarboidrati\t23,2 g\r\nZuccheri\t13,8 g\r\nFibre\t1,2 g\r\nProteine\t2,8 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1617.10102": {
+          "label": "Torta intera",
+          "description": "Una scoperta di sapori tropicali con frutta avvolta nella torta.",
+          "weight": "2340 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna, sciroppo all’arancia, crema pasticcera, frutta mista (pesche, kiwi, ananas, fragole, uva nera, corbezzoli, melograno, arancia, fichi, melone), gelatina per torte.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t241,9 kcal / 1012,1 kJ\r\nGrassi\t15,3 g\r\nGrassi saturi\t10,8 g\r\nCarboidrati\t23,2 g\r\nZuccheri\t13,8 g\r\nFibre\t1,2 g\r\nProteine\t2,8 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1617100": {
+      "name": "Giardino di frutta al cioccolato",
+      "description": "Una festa visiva di frutta colorata.",
+      "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema pasticcera, frutta mista (pesche, kiwi, ananas, fragole, uva nera, corbezzoli, melograno, arancia, fichi, melone), gelatina per torte.",
+      "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t231,3 kcal / 967,6 kJ\r\nGrassi\t13 g\r\nGrassi saturi\t8,5 g\r\nCarboidrati\t25,9 g\r\nZuccheri\t15,2 g\r\nFibre\t1,7 g\r\nProteine\t2,7 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1617.10001": {
+          "label": "Fetta",
+          "description": "Una festa visiva di frutta colorata.",
+          "weight": "390 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema pasticcera, frutta mista (pesche, kiwi, ananas, fragole, uva nera, corbezzoli, melograno, arancia, fichi, melone), gelatina per torte.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t231,3 kcal / 967,6 kJ\r\nGrassi\t13 g\r\nGrassi saturi\t8,5 g\r\nCarboidrati\t25,9 g\r\nZuccheri\t15,2 g\r\nFibre\t1,7 g\r\nProteine\t2,7 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1617.10002": {
+          "label": "Torta intera",
+          "description": "Una festa visiva di frutta colorata.",
+          "weight": "2340 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema pasticcera, frutta mista (pesche, kiwi, ananas, fragole, uva nera, corbezzoli, melograno, arancia, fichi, melone), gelatina per torte.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t231,3 kcal / 967,6 kJ\r\nGrassi\t13 g\r\nGrassi saturi\t8,5 g\r\nCarboidrati\t25,9 g\r\nZuccheri\t15,2 g\r\nFibre\t1,7 g\r\nProteine\t2,7 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1614101": {
+      "name": "Dolce Ahu",
+      "description": "Una deliziosa torta con la dolcezza cremosa del cioccolato bianco.",
+      "ingredients": "pan di Spagna, tartelletta, sciroppo all’arancia, crema al cioccolato bianco, ripieno ai lamponi.",
+      "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t293,1 kcal / 1226,3 kJ\r\nGrassi\t19,5 g\r\nGrassi saturi\t13,8 g\r\nCarboidrati\t26 g\r\nZuccheri\t18,5 g\r\nFibre\t1,3 g\r\nProteine\t3,4 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1614.10101": {
+          "label": "Fetta",
+          "description": "Una deliziosa torta con la dolcezza cremosa del cioccolato bianco.",
+          "weight": "330 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna, tartelletta, sciroppo all’arancia, crema al cioccolato bianco, ripieno ai lamponi.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t293,1 kcal / 1226,3 kJ\r\nGrassi\t19,5 g\r\nGrassi saturi\t13,8 g\r\nCarboidrati\t26 g\r\nZuccheri\t18,5 g\r\nFibre\t1,3 g\r\nProteine\t3,4 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1614.10102": {
+          "label": "Torta intera",
+          "description": "Una deliziosa torta con la dolcezza cremosa del cioccolato bianco.",
+          "weight": "1980 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna, tartelletta, sciroppo all’arancia, crema al cioccolato bianco, ripieno ai lamponi.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t293,1 kcal / 1226,3 kJ\r\nGrassi\t19,5 g\r\nGrassi saturi\t13,8 g\r\nCarboidrati\t26 g\r\nZuccheri\t18,5 g\r\nFibre\t1,3 g\r\nProteine\t3,4 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1612102": {
+      "name": "Sogno rosa",
+      "description": "Un’esperienza irresistibile che riunisce due sapori speciali.",
+      "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema al cioccolato fondente, ripieno alle fragole, salsa al cioccolato fondente.",
+      "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t269,3 kcal / 1126,8 kJ\r\nGrassi\t17,7 g\r\nGrassi saturi\t12,1 g\r\nCarboidrati\t24,3 g\r\nZuccheri\t28,1 g\r\nFibre\t1,7 g\r\nProteine\t3,4 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1612.10201": {
+          "label": "Fetta",
+          "description": "Un’esperienza irresistibile che riunisce due sapori speciali.",
+          "weight": "350 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema al cioccolato fondente, ripieno alle fragole, salsa al cioccolato fondente.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t269,3 kcal / 1126,8 kJ\r\nGrassi\t17,7 g\r\nGrassi saturi\t12,1 g\r\nCarboidrati\t24,3 g\r\nZuccheri\t28,1 g\r\nFibre\t1,7 g\r\nProteine\t3,4 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1612.10202": {
+          "label": "Torta intera",
+          "description": "Un’esperienza irresistibile che riunisce due sapori speciali.",
+          "weight": "2100 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema al cioccolato fondente, ripieno alle fragole, salsa al cioccolato fondente.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t269,3 kcal / 1126,8 kJ\r\nGrassi\t17,7 g\r\nGrassi saturi\t12,1 g\r\nCarboidrati\t24,3 g\r\nZuccheri\t28,1 g\r\nFibre\t1,7 g\r\nProteine\t3,4 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1612100": {
+      "name": "Sogno di fragole",
+      "description": "Il gusto rinfrescante dei pezzi di fragola.",
+      "ingredients": "pan di Spagna, sciroppo all’arancia, crema al cioccolato bianco, fragole fresche, ripieno alle fragole, salsa per torte al cioccolato bianco.",
+      "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t229,8 kcal / 961,5 kJ\r\nGrassi\t11 g\r\nGrassi saturi\t4,6 g\r\nCarboidrati\t28,1 g\r\nZuccheri\t19,2 g\r\nFibre\t1,1 g\r\nProteine\t4,6 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1612.10001": {
+          "label": "Fetta",
+          "description": "Il gusto rinfrescante dei pezzi di fragola.",
+          "weight": "350 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna, sciroppo all’arancia, crema al cioccolato bianco, fragole fresche, ripieno alle fragole, salsa per torte al cioccolato bianco.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t229,8 kcal / 961,5 kJ\r\nGrassi\t11 g\r\nGrassi saturi\t4,6 g\r\nCarboidrati\t28,1 g\r\nZuccheri\t19,2 g\r\nFibre\t1,1 g\r\nProteine\t4,6 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1612.10002": {
+          "label": "Torta intera",
+          "description": "Il gusto rinfrescante dei pezzi di fragola.",
+          "weight": "2100 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna, sciroppo all’arancia, crema al cioccolato bianco, fragole fresche, ripieno alle fragole, salsa per torte al cioccolato bianco.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t229,8 kcal / 961,5 kJ\r\nGrassi\t11 g\r\nGrassi saturi\t4,6 g\r\nCarboidrati\t28,1 g\r\nZuccheri\t19,2 g\r\nFibre\t1,1 g\r\nProteine\t4,6 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1611102": {
+      "name": "Perla nera",
+      "description": "Un dolce speciale che conquista vista e palato.",
+      "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema ganache al cioccolato, pistacchi, pezzi di cioccolato al latte.",
+      "allergenInfo": "Contiene glutine, uova, derivati del latte e pistacchi.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t426,5 kcal / 1784,5 kJ\r\nGrassi\t29,8 g\r\nGrassi saturi\t15,2 g\r\nCarboidrati\t34,3 g\r\nZuccheri\t27,3 g\r\nFibre\t3,4 g\r\nProteine\t5,3 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10201": {
+          "label": "Torta intera",
+          "description": "Un dolce speciale che conquista vista e palato.",
+          "weight": "1950 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema ganache al cioccolato, pistacchi, pezzi di cioccolato al latte.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e pistacchi.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t426,5 kcal / 1784,5 kJ\r\nGrassi\t29,8 g\r\nGrassi saturi\t15,2 g\r\nCarboidrati\t34,3 g\r\nZuccheri\t27,3 g\r\nFibre\t3,4 g\r\nProteine\t5,3 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        },
+        "1611.10202": {
+          "label": "Fetta",
+          "description": "Un dolce speciale che conquista vista e palato.",
+          "weight": "325 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna al cacao, sciroppo al caffè, crema ganache al cioccolato, pistacchi, pezzi di cioccolato al latte.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e pistacchi.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t426,5 kcal / 1784,5 kJ\r\nGrassi\t29,8 g\r\nGrassi saturi\t15,2 g\r\nCarboidrati\t34,3 g\r\nZuccheri\t27,3 g\r\nFibre\t3,4 g\r\nProteine\t5,3 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        }
+      }
+    },
+    "usta-1611101": {
+      "name": "Amore profondo",
+      "description": "Un’esperienza vellutata in ogni boccone.",
+      "ingredients": "torta brownie (con noci, con cioccolato fondente), sciroppo al caffè, crema al tartufo di cioccolato, ganache al cioccolato, pezzi di cioccolato al latte.",
+      "allergenInfo": "Contiene glutine, uova, derivati del latte e noci.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t393,4 kcal / 1646 kJ\r\nGrassi\t25,7 g\r\nGrassi saturi\t10,9 g\r\nCarboidrati\t34,6 g\r\nZuccheri\t31,4 g\r\nFibre\t1 g\r\nProteine\t5,9 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10101": {
+          "label": "Fetta",
+          "description": "Un’esperienza vellutata in ogni boccone.",
+          "weight": "390 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "torta brownie (con noci, con cioccolato fondente), sciroppo al caffè, crema al tartufo di cioccolato, ganache al cioccolato, pezzi di cioccolato al latte.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e noci.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t393,4 kcal / 1646 kJ\r\nGrassi\t25,7 g\r\nGrassi saturi\t10,9 g\r\nCarboidrati\t34,6 g\r\nZuccheri\t31,4 g\r\nFibre\t1 g\r\nProteine\t5,9 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1611.10102": {
+          "label": "Torta intera",
+          "description": "Un’esperienza vellutata in ogni boccone.",
+          "weight": "2340 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "torta brownie (con noci, con cioccolato fondente), sciroppo al caffè, crema al tartufo di cioccolato, ganache al cioccolato, pezzi di cioccolato al latte.",
+          "allergenInfo": "Contiene glutine, uova, derivati del latte e noci.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t393,4 kcal / 1646 kJ\r\nGrassi\t25,7 g\r\nGrassi saturi\t10,9 g\r\nCarboidrati\t34,6 g\r\nZuccheri\t31,4 g\r\nFibre\t1 g\r\nProteine\t5,9 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    },
+    "usta-1614100": {
+      "name": "Ahu al cioccolato",
+      "description": "Il delizioso incontro di lamponi e pan di Spagna.",
+      "ingredients": "pan di Spagna al cacao, tartelletta al cacao, sciroppo al caffè, crema ganache al cioccolato, ripieno ai lamponi, lamponi freschi, pezzi di cioccolato al latte.",
+      "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+      "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+      "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+      "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergia\t296,5 kcal / 1240,6 kJ\r\nGrassi\t19,3 g\r\nGrassi saturi\t13 g\r\nCarboidrati\t26,8 g\r\nZuccheri\t19,7 g\r\nFibre\t1,9 g\r\nProteine\t3,8 g\r\nSale\t0,1 g",
+        "note": ""
+      },
+      "variants": {
+        "1614.10001": {
+          "label": "Fetta",
+          "description": "Il delizioso incontro di lamponi e pan di Spagna.",
+          "weight": "325 g",
+          "portion": "≈ 1 porzione",
+          "ingredients": "pan di Spagna al cacao, tartelletta al cacao, sciroppo al caffè, crema ganache al cioccolato, ripieno ai lamponi, lamponi freschi, pezzi di cioccolato al latte.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t296,5 kcal / 1240,6 kJ\r\nGrassi\t19,3 g\r\nGrassi saturi\t13 g\r\nCarboidrati\t26,8 g\r\nZuccheri\t19,7 g\r\nFibre\t1,9 g\r\nProteine\t3,8 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Servizio al piatto"
+        },
+        "1614.10002": {
+          "label": "Torta intera",
+          "description": "Il delizioso incontro di lamponi e pan di Spagna.",
+          "weight": "1950 g",
+          "portion": "≈ 6 porzioni",
+          "ingredients": "pan di Spagna al cacao, tartelletta al cacao, sciroppo al caffè, crema ganache al cioccolato, ripieno ai lamponi, lamponi freschi, pezzi di cioccolato al latte.",
+          "allergenInfo": "Contiene glutine, uova e derivati del latte.\r\nPuò contenere tracce di frutta a guscio (nocciole, pistacchi, noci, mandorle), soia e sesamo poiché lavorato sulla stessa linea di produzione.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergia\t296,5 kcal / 1240,6 kJ\r\nGrassi\t19,3 g\r\nGrassi saturi\t13 g\r\nCarboidrati\t26,8 g\r\nZuccheri\t19,7 g\r\nFibre\t1,9 g\r\nProteine\t3,8 g\r\nSale\t0,1 g",
+            "note": ""
+          },
+          "servingSuggestion": "Per apprezzare pienamente gusto e consistenza, lasciare riposare il prodotto a temperatura ambiente per 10–15 minuti prima del consumo.",
+          "storage": "Conservare in frigorifero tra +4° e +6°. Proteggere dalla luce solare diretta e non lasciare a temperatura ambiente per periodi prolungati.",
+          "longTermStorage": "Conservazione\r\nConservare in congelatore a -18°.\r\n\r\nPreparazione\r\nPrima del consumo, scongelare in frigorifero a +4° per 8–12 ore.\r\n\r\nAvvertenza\r\nNon ricongelare dopo lo scongelamento. Dopo lo scongelamento, conservare in frigorifero e consumare entro 3 giorni.",
+          "packaging": "Scatola di cartone"
+        }
+      }
+    }
+  }
 }

@@ -85,8 +85,8 @@ test('homepage retains six ordered sections, catalogue cards, carousel controls 
     doc.querySelector('.carousel-controls button:last-child').click();
     doc.querySelector('.carousel-controls button:first-child').click();
     assert.deepEqual(scrolled.map(value => ({ left: value.left, behavior: value.behavior })), [{ left: 400, behavior: 'smooth' }, { left: -400, behavior: 'smooth' }]);
-    assert.equal(sections.heritage.years.length, 23);
-    assert.equal(doc.querySelectorAll('.heritage-tabs [role="tab"]').length, 23);
+    assert.equal(sections.heritage.years.length, 17);
+    assert.equal(doc.querySelectorAll('.heritage-tabs [role="tab"]').length, 17);
     let renderedEvents = 0;
     for (const item of sections.heritage.years) {
       doc.getElementById('year-' + item.year).click(); await wait();
@@ -96,11 +96,11 @@ test('homepage retains six ordered sections, catalogue cards, carousel controls 
       assert.equal(doc.querySelectorAll('.heritage-tabs [aria-selected="true"]').length, 1);
       renderedEvents += events.length;
     }
-    assert.equal(renderedEvents, 26);
-    assert.equal(lastYear, 'today');
-    assert.equal(doc.querySelector('#heritage-content h3').textContent, 'Bugün — Yerelden Küresele');
-    assert.ok(doc.querySelector('#heritage-content p').textContent.endsWith('çağdaş kalite anlayışı ve yenilikçi vizyonla geleceğe taşıyoruz.'));
-    for (const year of ['2019', '2023', '2024']) assert.equal(sections.heritage.years.find(item => item.year === year).events.length, 2);
+    assert.equal(renderedEvents, 17);
+    assert.equal(lastYear, '2023');
+    assert.equal(doc.querySelector('#heritage-content h3').textContent, titleForYear('2023'));
+    for (const year of ['2019', '2023']) assert.equal(sections.heritage.years.find(item => item.year === year).events.length, 1);
+    for (const year of ['1924','1948','1993','2007','2024','today']) assert.equal(doc.getElementById('year-' + year), null);
     assert.ok(doc.getElementById('year-1980s').textContent.includes('1980'));
     doc.getElementById('year-1888').click(); await wait();
     assert.equal(doc.querySelector('#heritage-content h3').textContent, titleForYear('1888'));

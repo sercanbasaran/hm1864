@@ -1,16 +1,14 @@
 {
   "collection": {
-    "logo": "assets/images/medya/964ee.png",
-    "logoAltKey": "template.0117",
-    "image": "assets/images/medya/hm1864koleksiyonu.png",
-    "imageAltKey": "template.0088",
-    "titleKey": "template.0118",
-    "subtitleKey": "template.0119",
+    "image": "assets/images/seckiler/pierre-loti-kutu.jpg",
+    "imageAltKey": "home.pierreLoti.imageAlt",
+    "eyebrowKey": "home.pierreLoti.eyebrow",
+    "titleKey": "home.pierreLoti.title",
+    "subtitleKey": "home.pierreLoti.subtitle",
     "paragraphKeys": [
-      "template.0120",
-      "template.0121"
+      "home.pierreLoti.intro"
     ],
-    "buttonKey": "template.0087",
+    "buttonKey": "home.pierreLoti.button",
     "href": "koleksiyonlar/pierre-loti-seckisi/index.html"
   },
   "featuredProducts": {
@@ -74,115 +72,223 @@
         "year": "1864",
         "labelKey": "home.milestones.y1864.label",
         "titleKey": "home.milestones.y1864.event1.title",
-        "descriptionKey": "home.milestones.y1864.event1.description"
+        "descriptionKey": "home.milestones.y1864.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208290474-ba6f16.webp",
+            "alt": "HACI ISMAIL HAKKIZADE HAFIZ MUSTAFA - 1864",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208290474-ba6f16.webp",
+            "altKey": "home.archive.image00"
+          }
+        ]
       },
       {
         "year": "1888",
         "labelKey": "home.milestones.y1888.label",
         "titleKey": "home.milestones.y1888.event1.title",
-        "descriptionKey": "home.milestones.y1888.event1.description"
+        "descriptionKey": "home.milestones.y1888.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208360476-ef9a90.jpg",
+            "alt": "NEW STORE IN BAHCEKAPI - 1888",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208360476-ef9a90.jpg",
+            "altKey": "home.archive.image01"
+          }
+        ]
       },
       {
         "year": "1923",
         "labelKey": "home.milestones.y1923.label",
         "titleKey": "home.milestones.y1923.event1.title",
-        "descriptionKey": "home.milestones.y1923.event1.description"
-      },
-      {
-        "year": "1924",
-        "labelKey": "home.milestones.y1924.label",
-        "titleKey": "home.milestones.y1924.event1.title",
-        "descriptionKey": "home.milestones.y1924.event1.description"
+        "descriptionKey": "home.milestones.y1923.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208378553-fc93bc.webp",
+            "alt": "Exposition Internationale - Paris - 1923",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208378553-fc93bc.webp",
+            "altKey": "home.archive.image02"
+          }
+        ]
       },
       {
         "year": "1925",
         "labelKey": "home.milestones.y1925.label",
         "titleKey": "home.milestones.y1925.event1.title",
-        "descriptionKey": "home.milestones.y1925.event1.description"
+        "descriptionKey": "home.milestones.y1925.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208383955-22c675.webp",
+            "alt": "Exposition Internationale Du Confort Dans L'Habitation - Liege - 1925",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208383955-22c675.webp",
+            "altKey": "home.archive.image03"
+          }
+        ]
       },
       {
         "year": "1926",
         "labelKey": "home.milestones.y1926.label",
         "titleKey": "home.milestones.y1926.event1.title",
-        "descriptionKey": "home.milestones.y1926.event1.description"
+        "descriptionKey": "home.milestones.y1926.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208390192-aadd62.webp",
+            "alt": "ADVERTISEMENT IN AKBABA MAGAZINE - 1926",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208390192-aadd62.webp",
+            "altKey": "home.archive.image04"
+          }
+        ]
       },
       {
         "year": "1926-1938",
         "labelKey": "home.milestones.y1926_1938.label",
         "titleKey": "home.milestones.y1926_1938.event1.title",
-        "descriptionKey": "home.milestones.y1926_1938.event1.description"
+        "descriptionKey": "home.milestones.y1926_1938.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788270399554-1c6695.webp",
+            "alt": "Medals of Taste from Europe",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788270399554-1c6695.webp",
+            "altKey": "home.archive.image05"
+          }
+        ]
       },
       {
         "year": "1928",
         "labelKey": "home.milestones.y1928.label",
         "titleKey": "home.milestones.y1928.event1.title",
-        "descriptionKey": "home.milestones.y1928.event1.description"
+        "descriptionKey": "home.milestones.y1928.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788269993842-bfe29d.webp",
+            "alt": "EXPOSITION DU CONFORT MODERNE - PARIS - 1928",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788269993842-bfe29d.webp",
+            "altKey": "home.archive.image06"
+          },
+          {
+            "src": "assets/images/history/1788208471920-4e8bcc.webp",
+            "alt": "Internationale Du Confort Dans L'habitation - Liege - 1928",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208471920-4e8bcc.webp",
+            "altKey": "home.archive.image07"
+          }
+        ]
       },
       {
         "year": "1930",
         "labelKey": "home.milestones.y1930.label",
         "titleKey": "home.milestones.y1930.event1.title",
-        "descriptionKey": "home.milestones.y1930.event1.description"
+        "descriptionKey": "home.milestones.y1930.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208431331-9955c5.webp",
+            "alt": "Exposition of 1930 - Liège",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208431331-9955c5.webp",
+            "altKey": "home.archive.image08"
+          }
+        ]
       },
       {
         "year": "1934",
         "labelKey": "home.milestones.y1934.label",
         "titleKey": "home.milestones.y1934.event1.title",
-        "descriptionKey": "home.milestones.y1934.event1.description"
+        "descriptionKey": "home.milestones.y1934.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208438212-44d30d.webp",
+            "alt": "Cumhuriyet Newspaper Advertisement - 1934",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208438212-44d30d.webp",
+            "altKey": "home.archive.image09"
+          }
+        ]
       },
       {
         "year": "1935",
         "labelKey": "home.milestones.y1935.label",
         "titleKey": "home.milestones.y1935.event1.title",
-        "descriptionKey": "home.milestones.y1935.event1.description"
+        "descriptionKey": "home.milestones.y1935.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208482691-868cf1.webp",
+            "alt": "Brussels International Exposition - 1935",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208482691-868cf1.webp",
+            "altKey": "home.archive.image10"
+          }
+        ]
       },
       {
         "year": "1936-1937",
         "labelKey": "home.milestones.y1936_1937.label",
         "titleKey": "home.milestones.y1936_1937.event1.title",
-        "descriptionKey": "home.milestones.y1936_1937.event1.description"
-      },
-      {
-        "year": "1948",
-        "labelKey": "home.milestones.y1948.label",
-        "titleKey": "home.milestones.y1948.event1.title",
-        "descriptionKey": "home.milestones.y1948.event1.description"
+        "descriptionKey": "home.milestones.y1936_1937.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208490005-837861.webp",
+            "alt": "Exposition Du Bien Etre - Paris - 1936",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208490005-837861.webp",
+            "altKey": "home.archive.image11"
+          },
+          {
+            "src": "assets/images/history/1788208498460-c19b19.webp",
+            "alt": "Exposition Universelle de 1937 — Paris",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208498460-c19b19.webp",
+            "altKey": "home.archive.image12"
+          }
+        ]
       },
       {
         "year": "1957",
         "labelKey": "home.milestones.y1957.label",
         "titleKey": "home.milestones.y1957.event1.title",
-        "descriptionKey": "home.milestones.y1957.event1.description"
+        "descriptionKey": "home.milestones.y1957.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208548988-7b36ad.webp",
+            "alt": "“94 Years of Your Confectioner”",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208548988-7b36ad.webp",
+            "altKey": "home.archive.image13"
+          }
+        ]
       },
       {
         "year": "1962",
         "labelKey": "home.milestones.y1962.label",
         "titleKey": "home.milestones.y1962.event1.title",
-        "descriptionKey": "home.milestones.y1962.event1.description"
+        "descriptionKey": "home.milestones.y1962.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208553691-8be303.webp",
+            "alt": "Advertisement in Milliyet Newspaper",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208553691-8be303.webp",
+            "altKey": "home.archive.image14"
+          }
+        ]
       },
       {
         "year": "1972",
         "labelKey": "home.milestones.y1972.label",
         "titleKey": "home.milestones.y1972.event1.title",
-        "descriptionKey": "home.milestones.y1972.event1.description"
+        "descriptionKey": "home.milestones.y1972.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208567777-22c068.webp",
+            "alt": "Snapshot of historic Bahçekapı in 1972",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208567777-22c068.webp",
+            "altKey": "home.archive.image15"
+          }
+        ]
       },
       {
         "year": "1980s",
         "labelKey": "home.milestones.y1980s.label",
         "titleKey": "home.milestones.y1980s.event1.title",
-        "descriptionKey": "home.milestones.y1980s.event1.description"
-      },
-      {
-        "year": "1993",
-        "labelKey": "home.milestones.y1993.label",
-        "titleKey": "home.milestones.y1993.event1.title",
-        "descriptionKey": "home.milestones.y1993.event1.description"
-      },
-      {
-        "year": "2007",
-        "labelKey": "home.milestones.y2007.label",
-        "titleKey": "home.milestones.y2007.event1.title",
-        "descriptionKey": "home.milestones.y2007.event1.description"
+        "descriptionKey": "home.milestones.y1980s.event1.description",
+        "images": [
+          {
+            "src": "assets/images/history/1788208609900-ee76b4.webp",
+            "alt": "Candymaker Hafız Mustafa's sweet offerings in the 80s",
+            "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208609900-ee76b4.webp",
+            "altKey": "home.archive.image16"
+          }
+        ]
       },
       {
         "year": "2019",
@@ -190,11 +296,15 @@
         "events": [
           {
             "titleKey": "home.milestones.y2019.event1.title",
-            "descriptionKey": "home.milestones.y2019.event1.description"
-          },
-          {
-            "titleKey": "home.milestones.y2019.event2.title",
-            "descriptionKey": "home.milestones.y2019.event2.description"
+            "descriptionKey": "home.milestones.y2019.event1.description",
+            "images": [
+              {
+                "src": "assets/images/history/1788208634967-e5a562.webp",
+                "alt": "Superior Taste Award",
+                "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208634967-e5a562.webp",
+                "altKey": "home.archive.image17"
+              }
+            ]
           }
         ]
       },
@@ -203,34 +313,18 @@
         "labelKey": "home.milestones.y2023.label",
         "events": [
           {
-            "titleKey": "home.milestones.y2023.event1.title",
-            "descriptionKey": "home.milestones.y2023.event1.description"
-          },
-          {
             "titleKey": "home.milestones.y2023.event2.title",
-            "descriptionKey": "home.milestones.y2023.event2.description"
+            "descriptionKey": "home.milestones.y2023.event2.description",
+            "images": [
+              {
+                "src": "assets/images/history/1788208641356-92420d.webp",
+                "alt": "BBC Good Food Middle East Magazine Awards",
+                "sourceUrl": "https://api.hm1864.ae/uploads/admin/media/1788208641356-92420d.webp",
+                "altKey": "home.archive.image18"
+              }
+            ]
           }
         ]
-      },
-      {
-        "year": "2024",
-        "labelKey": "home.milestones.y2024.label",
-        "events": [
-          {
-            "titleKey": "home.milestones.y2024.event1.title",
-            "descriptionKey": "home.milestones.y2024.event1.description"
-          },
-          {
-            "titleKey": "home.milestones.y2024.event2.title",
-            "descriptionKey": "home.milestones.y2024.event2.description"
-          }
-        ]
-      },
-      {
-        "year": "today",
-        "labelKey": "home.milestones.today.label",
-        "titleKey": "home.milestones.today.title",
-        "descriptionKey": "home.milestones.today.description"
       }
     ]
   }

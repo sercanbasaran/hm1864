@@ -2,5 +2,960 @@
   "schemaVersion": 1,
   "categoryId": "pastalar",
   "language": "en",
-  "products": {}
+  "products": {
+    "usta-1613100": {
+      "name": "Istanbul Story",
+      "description": "Sweet layers of Antep pistachios, inspired by iconic baklava.",
+      "ingredients": "sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+      "allergenInfo": "Contains Gluten, eggs, dairy products and pistachios.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "",
+        "note": ""
+      },
+      "variants": {
+        "1613.10001": {
+          "label": "Slice",
+          "description": "Sweet layers of Antep pistachios, inspired by iconic baklava.",
+          "weight": "350 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and pistachios.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1613.10002": {
+          "label": "Whole Cake",
+          "description": "Sweet layers of Antep pistachios, inspired by iconic baklava.",
+          "weight": "2100 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "sponge cake, pistachio baklava, orange syrup, white chocolate cream, pistachio cream, pistachios.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and pistachios.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1615100": {
+      "name": "White Pearl",
+      "description": "Rich hazelnuts meet fresh banana and silky caramel.",
+      "ingredients": "sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+      "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t292 kcal / 1221.7 kJ\r\nFat\t18 g\r\nSaturated fat\t8.7 g\r\nCarbohydrate\t27.5 g\r\nSugars\t15.1 g\r\nFibre\t1.8 g\r\nProtein\t4.3 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1615.10001": {
+          "label": "Slice",
+          "description": "Rich hazelnuts meet fresh banana and silky caramel.",
+          "weight": "395 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t292 kcal / 1221.7 kJ\r\nFat\t18 g\r\nSaturated fat\t8.7 g\r\nCarbohydrate\t27.5 g\r\nSugars\t15.1 g\r\nFibre\t1.8 g\r\nProtein\t4.3 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1615.10002": {
+          "label": "Whole Cake",
+          "description": "Rich hazelnuts meet fresh banana and silky caramel.",
+          "weight": "2370 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "sponge cake, orange syrup, white chocolate cream, banana, hazelnuts, caramel filling, white chocolate sauce.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t292 kcal / 1221.7 kJ\r\nFat\t18 g\r\nSaturated fat\t8.7 g\r\nCarbohydrate\t27.5 g\r\nSugars\t15.1 g\r\nFibre\t1.8 g\r\nProtein\t4.3 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1610100": {
+      "name": "Lotus Tower",
+      "description": "The distinctive taste of Lotus biscuits in every bite.",
+      "ingredients": "sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+      "allergenInfo": "Contains Gluten, eggs, dairy products and soya.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t407.5 kcal / 1705 kJ\r\nFat\t26.4 g\r\nSaturated fat\t12.7 g\r\nCarbohydrate\t38.4 g\r\nSugars\t14.4 g\r\nFibre\t0.7 g\r\nProtein\t4.1 g\r\nSalt\t0.3 g",
+        "note": ""
+      },
+      "variants": {
+        "1610.10001": {
+          "label": "Slice",
+          "description": "The distinctive taste of Lotus biscuits in every bite.",
+          "weight": "390 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and soya.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t407.5 kcal / 1705 kJ\r\nFat\t26.4 g\r\nSaturated fat\t12.7 g\r\nCarbohydrate\t38.4 g\r\nSugars\t14.4 g\r\nFibre\t0.7 g\r\nProtein\t4.1 g\r\nSalt\t0.3 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1610.10002": {
+          "label": "Whole Cake",
+          "description": "The distinctive taste of Lotus biscuits in every bite.",
+          "weight": "2340 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "sponge cake, orange syrup, pastry cream, Lotus cream, Lotus biscuits.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and soya.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t407.5 kcal / 1705 kJ\r\nFat\t26.4 g\r\nSaturated fat\t12.7 g\r\nCarbohydrate\t38.4 g\r\nSugars\t14.4 g\r\nFibre\t0.7 g\r\nProtein\t4.1 g\r\nSalt\t0.3 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1616100": {
+      "name": "Amazon Magic",
+      "description": "A rich combination of forest fruits and chocolate.",
+      "ingredients": "cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberries, blackberries, strawberry tree fruit, black grapes, raspberries, strawberries), forest fruit filling, chocolate sauce.",
+      "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t290.1 kcal / 1213.9 kJ\r\nFat\t12.8 g\r\nSaturated fat\t6.2 g\r\nCarbohydrate\t39.5 g\r\nSugars\t26 g\r\nFibre\t2.4 g\r\nProtein\t4.2 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1616.10001": {
+          "label": "Slice",
+          "description": "A rich combination of forest fruits and chocolate.",
+          "weight": "380 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberries, blackberries, strawberry tree fruit, black grapes, raspberries, strawberries), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t290.1 kcal / 1213.9 kJ\r\nFat\t12.8 g\r\nSaturated fat\t6.2 g\r\nCarbohydrate\t39.5 g\r\nSugars\t26 g\r\nFibre\t2.4 g\r\nProtein\t4.2 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1616.10002": {
+          "label": "Whole Cake",
+          "description": "A rich combination of forest fruits and chocolate.",
+          "weight": "2280 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "cocoa sponge cake, coffee syrup, white chocolate cream, forest fruits (blueberries, blackberries, strawberry tree fruit, black grapes, raspberries, strawberries), forest fruit filling, chocolate sauce.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t290.1 kcal / 1213.9 kJ\r\nFat\t12.8 g\r\nSaturated fat\t6.2 g\r\nCarbohydrate\t39.5 g\r\nSugars\t26 g\r\nFibre\t2.4 g\r\nProtein\t4.2 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1615102": {
+      "name": "Endless Love",
+      "description": "A delicious combination of rich chocolate and bananas.",
+      "ingredients": "cocoa sponge cake, cocoa and hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+      "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t275.1 kcal / 1151 kJ\r\nFat\t14.8 g\r\nSaturated fat\t6.9 g\r\nCarbohydrate\t30.9 g\r\nSugars\t20.5 g\r\nFibre\t1.7 g\r\nProtein\t4.6 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1615.10201": {
+          "label": "Slice",
+          "description": "A delicious combination of rich chocolate and bananas.",
+          "weight": "355 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cocoa sponge cake, cocoa and hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t275.1 kcal / 1151 kJ\r\nFat\t14.8 g\r\nSaturated fat\t6.9 g\r\nCarbohydrate\t30.9 g\r\nSugars\t20.5 g\r\nFibre\t1.7 g\r\nProtein\t4.6 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1615.10202": {
+          "label": "Whole Cake",
+          "description": "A delicious combination of rich chocolate and bananas.",
+          "weight": "2130 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "cocoa sponge cake, cocoa and hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, banana, milk chocolate pieces.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t275.1 kcal / 1151 kJ\r\nFat\t14.8 g\r\nSaturated fat\t6.9 g\r\nCarbohydrate\t30.9 g\r\nSugars\t20.5 g\r\nFibre\t1.7 g\r\nProtein\t4.6 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1611100": {
+      "name": "Diplomat",
+      "description": "Chocolate cake with the delightful crunch of caramelised brittle.",
+      "ingredients": "cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut brittle (pistachios, almonds, hazelnuts), milk chocolate pieces.",
+      "allergenInfo": "Contains Gluten, eggs, dairy products, hazelnuts, pistachios and almonds.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t350.9 kcal / 1468.2 kJ\r\nFat\t24.5 g\r\nSaturated fat\t13.7 g\r\nCarbohydrate\t28 g\r\nSugars\t20.4 g\r\nFibre\t1.7 g\r\nProtein\t4.7 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10001": {
+          "label": "Slice",
+          "description": "Chocolate cake with the delightful crunch of caramelised brittle.",
+          "weight": "305 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut brittle (pistachios, almonds, hazelnuts), milk chocolate pieces.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products, hazelnuts, pistachios and almonds.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t350.9 kcal / 1468.2 kJ\r\nFat\t24.5 g\r\nSaturated fat\t13.7 g\r\nCarbohydrate\t28 g\r\nSugars\t20.4 g\r\nFibre\t1.7 g\r\nProtein\t4.7 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1611.10002": {
+          "label": "Whole Cake",
+          "description": "Chocolate cake with the delightful crunch of caramelised brittle.",
+          "weight": "1830 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "cocoa sponge cake, coffee syrup, chocolate ganache cream, hazelnut chocolate sauce, nut brittle (pistachios, almonds, hazelnuts), milk chocolate pieces.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products, hazelnuts, pistachios and almonds.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t350.9 kcal / 1468.2 kJ\r\nFat\t24.5 g\r\nSaturated fat\t13.7 g\r\nCarbohydrate\t28 g\r\nSugars\t20.4 g\r\nFibre\t1.7 g\r\nProtein\t4.7 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1611103": {
+      "name": "Last Love",
+      "description": "Strawberry flavour meets the richness of milk chocolate.",
+      "ingredients": "cocoa sponge cake, cocoa and hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+      "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t268.4 kcal / 1122.8 kJ\r\nFat\t15.5 g\r\nSaturated fat\t7.4 g\r\nCarbohydrate\t27.5 g\r\nSugars\t21.2 g\r\nFibre\t1.8 g\r\nProtein\t4.7 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10301": {
+          "label": "Slice",
+          "description": "Strawberry flavour meets the richness of milk chocolate.",
+          "weight": "350 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cocoa sponge cake, cocoa and hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t268.4 kcal / 1122.8 kJ\r\nFat\t15.5 g\r\nSaturated fat\t7.4 g\r\nCarbohydrate\t27.5 g\r\nSugars\t21.2 g\r\nFibre\t1.8 g\r\nProtein\t4.7 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1611.10302": {
+          "label": "Whole Cake",
+          "description": "Strawberry flavour meets the richness of milk chocolate.",
+          "weight": "2100 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "cocoa sponge cake, cocoa and hazelnut cake, coffee syrup, white chocolate cream, dark chocolate cream, fresh strawberries, milk chocolate pieces.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t268.4 kcal / 1122.8 kJ\r\nFat\t15.5 g\r\nSaturated fat\t7.4 g\r\nCarbohydrate\t27.5 g\r\nSugars\t21.2 g\r\nFibre\t1.8 g\r\nProtein\t4.7 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1616101": {
+      "name": "Amazon Story",
+      "description": "White chocolate meets forest fruits.",
+      "ingredients": "sponge cake, orange syrup, white chocolate cream, forest fruits (blueberries, strawberry tree fruit, black grapes, blackberries, raspberries, strawberries), forest fruit filling, white chocolate sauce.",
+      "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t269.6 kcal / 1128 kJ\r\nFat\t18 g\r\nSaturated fat\t12.7 g\r\nCarbohydrate\t23.6 g\r\nSugars\t21.7 g\r\nFibre\t1.1 g\r\nProtein\t3.2 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1616.10101": {
+          "label": "Slice",
+          "description": "White chocolate meets forest fruits.",
+          "weight": "375 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "sponge cake, orange syrup, white chocolate cream, forest fruits (blueberries, strawberry tree fruit, black grapes, blackberries, raspberries, strawberries), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t269.6 kcal / 1128 kJ\r\nFat\t18 g\r\nSaturated fat\t12.7 g\r\nCarbohydrate\t23.6 g\r\nSugars\t21.7 g\r\nFibre\t1.1 g\r\nProtein\t3.2 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1616.10102": {
+          "label": "Whole Cake",
+          "description": "White chocolate meets forest fruits.",
+          "weight": "2250 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "sponge cake, orange syrup, white chocolate cream, forest fruits (blueberries, strawberry tree fruit, black grapes, blackberries, raspberries, strawberries), forest fruit filling, white chocolate sauce.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t269.6 kcal / 1128 kJ\r\nFat\t18 g\r\nSaturated fat\t12.7 g\r\nCarbohydrate\t23.6 g\r\nSugars\t21.7 g\r\nFibre\t1.1 g\r\nProtein\t3.2 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1615101": {
+      "name": "Great Love",
+      "description": "An exotic, comforting sweet discovery of banana and cream.",
+      "ingredients": "sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel jelly.",
+      "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t278 kcal / 1163.1 kJ\r\nFat\t16.1 g\r\nSaturated fat\t9.3 g\r\nCarbohydrate\t29.2 g\r\nSugars\t19.2 g\r\nFibre\t1.2 g\r\nProtein\t4.2 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1615.10101": {
+          "label": "Whole Cake",
+          "description": "An exotic, comforting sweet discovery of banana and cream.",
+          "weight": "2100 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel jelly.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t278 kcal / 1163.1 kJ\r\nFat\t16.1 g\r\nSaturated fat\t9.3 g\r\nCarbohydrate\t29.2 g\r\nSugars\t19.2 g\r\nFibre\t1.2 g\r\nProtein\t4.2 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        },
+        "1615.10102": {
+          "label": "Slice",
+          "description": "An exotic, comforting sweet discovery of banana and cream.",
+          "weight": "350 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "sponge cake, hazelnut cake, orange syrup, white chocolate cream, banana, caramel jelly.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t278 kcal / 1163.1 kJ\r\nFat\t16.1 g\r\nSaturated fat\t9.3 g\r\nCarbohydrate\t29.2 g\r\nSugars\t19.2 g\r\nFibre\t1.2 g\r\nProtein\t4.2 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1612101": {
+      "name": "First Love",
+      "description": "A refined dessert showcasing seasonal strawberries.",
+      "ingredients": "sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, cake glaze.",
+      "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g: Energy 350.3 kcal / 1465.7 kJ; Fat 21.3 g; Saturated fat 12.6 g; Carbohydrate 34.6 g; Sugars 26.2 g; Fibre 1.1 g; Protein 5.1 g; Salt 0.2 g.",
+        "note": ""
+      },
+      "variants": {
+        "1612.10101": {
+          "label": "Slice",
+          "description": "A refined dessert showcasing seasonal strawberries.",
+          "weight": "350 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, cake glaze.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 350.3 kcal / 1465.7 kJ; Fat 21.3 g; Saturated fat 12.6 g; Carbohydrate 34.6 g; Sugars 26.2 g; Fibre 1.1 g; Protein 5.1 g; Salt 0.2 g.",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1612.10102": {
+          "label": "Whole Cake",
+          "description": "A refined dessert showcasing seasonal strawberries.",
+          "weight": "2100 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "sponge cake, hazelnut cake, orange syrup, white chocolate cream, fresh strawberries, cake glaze.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and hazelnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g: Energy 350.3 kcal / 1465.7 kJ; Fat 21.3 g; Saturated fat 12.6 g; Carbohydrate 34.6 g; Sugars 26.2 g; Fibre 1.1 g; Protein 5.1 g; Salt 0.2 g.",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1617101": {
+      "name": "Fruit Garden",
+      "description": "A discovery of tropical flavours with fruit wrapped in cake.",
+      "ingredients": "sponge cake, orange syrup, pastry cream, mixed fruit (peaches, kiwi, pineapple, strawberries, black grapes, strawberry tree fruit, pomegranate, orange, figs, melon), cake glaze.",
+      "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t241.9 kcal / 1012.1 kJ\r\nFat\t15.3 g\r\nSaturated fat\t10.8 g\r\nCarbohydrate\t23.2 g\r\nSugars\t13.8 g\r\nFibre\t1.2 g\r\nProtein\t2.8 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1617.10101": {
+          "label": "Slice",
+          "description": "A discovery of tropical flavours with fruit wrapped in cake.",
+          "weight": "390 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "sponge cake, orange syrup, pastry cream, mixed fruit (peaches, kiwi, pineapple, strawberries, black grapes, strawberry tree fruit, pomegranate, orange, figs, melon), cake glaze.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t241.9 kcal / 1012.1 kJ\r\nFat\t15.3 g\r\nSaturated fat\t10.8 g\r\nCarbohydrate\t23.2 g\r\nSugars\t13.8 g\r\nFibre\t1.2 g\r\nProtein\t2.8 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1617.10102": {
+          "label": "Whole Cake",
+          "description": "A discovery of tropical flavours with fruit wrapped in cake.",
+          "weight": "2340 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "sponge cake, orange syrup, pastry cream, mixed fruit (peaches, kiwi, pineapple, strawberries, black grapes, strawberry tree fruit, pomegranate, orange, figs, melon), cake glaze.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t241.9 kcal / 1012.1 kJ\r\nFat\t15.3 g\r\nSaturated fat\t10.8 g\r\nCarbohydrate\t23.2 g\r\nSugars\t13.8 g\r\nFibre\t1.2 g\r\nProtein\t2.8 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1617100": {
+      "name": "Chocolate Fruit Garden",
+      "description": "A colourful visual celebration of fruit.",
+      "ingredients": "cocoa sponge cake, coffee syrup, pastry cream, mixed fruit (peaches, kiwi, pineapple, strawberries, black grapes, strawberry tree fruit, pomegranate, orange, figs, melon), cake glaze.",
+      "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t231.3 kcal / 967.6 kJ\r\nFat\t13 g\r\nSaturated fat\t8.5 g\r\nCarbohydrate\t25.9 g\r\nSugars\t15.2 g\r\nFibre\t1.7 g\r\nProtein\t2.7 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1617.10001": {
+          "label": "Slice",
+          "description": "A colourful visual celebration of fruit.",
+          "weight": "390 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cocoa sponge cake, coffee syrup, pastry cream, mixed fruit (peaches, kiwi, pineapple, strawberries, black grapes, strawberry tree fruit, pomegranate, orange, figs, melon), cake glaze.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t231.3 kcal / 967.6 kJ\r\nFat\t13 g\r\nSaturated fat\t8.5 g\r\nCarbohydrate\t25.9 g\r\nSugars\t15.2 g\r\nFibre\t1.7 g\r\nProtein\t2.7 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1617.10002": {
+          "label": "Whole Cake",
+          "description": "A colourful visual celebration of fruit.",
+          "weight": "2340 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "cocoa sponge cake, coffee syrup, pastry cream, mixed fruit (peaches, kiwi, pineapple, strawberries, black grapes, strawberry tree fruit, pomegranate, orange, figs, melon), cake glaze.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t231.3 kcal / 967.6 kJ\r\nFat\t13 g\r\nSaturated fat\t8.5 g\r\nCarbohydrate\t25.9 g\r\nSugars\t15.2 g\r\nFibre\t1.7 g\r\nProtein\t2.7 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1614101": {
+      "name": "Sweet Ahu",
+      "description": "A delightful cake with the creamy sweetness of white chocolate.",
+      "ingredients": "sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+      "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t293.1 kcal / 1226.3 kJ\r\nFat\t19.5 g\r\nSaturated fat\t13.8 g\r\nCarbohydrate\t26 g\r\nSugars\t18.5 g\r\nFibre\t1.3 g\r\nProtein\t3.4 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1614.10101": {
+          "label": "Slice",
+          "description": "A delightful cake with the creamy sweetness of white chocolate.",
+          "weight": "330 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t293.1 kcal / 1226.3 kJ\r\nFat\t19.5 g\r\nSaturated fat\t13.8 g\r\nCarbohydrate\t26 g\r\nSugars\t18.5 g\r\nFibre\t1.3 g\r\nProtein\t3.4 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1614.10102": {
+          "label": "Whole Cake",
+          "description": "A delightful cake with the creamy sweetness of white chocolate.",
+          "weight": "1980 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "sponge cake, tartlet, orange syrup, white chocolate cream, raspberry filling.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t293.1 kcal / 1226.3 kJ\r\nFat\t19.5 g\r\nSaturated fat\t13.8 g\r\nCarbohydrate\t26 g\r\nSugars\t18.5 g\r\nFibre\t1.3 g\r\nProtein\t3.4 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1612102": {
+      "name": "Pink Dream",
+      "description": "An irresistible experience bringing two special flavours together.",
+      "ingredients": "cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+      "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t269.3 kcal / 1126.8 kJ\r\nFat\t17.7 g\r\nSaturated fat\t12.1 g\r\nCarbohydrate\t24.3 g\r\nSugars\t28.1 g\r\nFibre\t1.7 g\r\nProtein\t3.4 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1612.10201": {
+          "label": "Slice",
+          "description": "An irresistible experience bringing two special flavours together.",
+          "weight": "350 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t269.3 kcal / 1126.8 kJ\r\nFat\t17.7 g\r\nSaturated fat\t12.1 g\r\nCarbohydrate\t24.3 g\r\nSugars\t28.1 g\r\nFibre\t1.7 g\r\nProtein\t3.4 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1612.10202": {
+          "label": "Whole Cake",
+          "description": "An irresistible experience bringing two special flavours together.",
+          "weight": "2100 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "cocoa sponge cake, coffee syrup, dark chocolate cream, strawberry filling, dark chocolate sauce.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t269.3 kcal / 1126.8 kJ\r\nFat\t17.7 g\r\nSaturated fat\t12.1 g\r\nCarbohydrate\t24.3 g\r\nSugars\t28.1 g\r\nFibre\t1.7 g\r\nProtein\t3.4 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1612100": {
+      "name": "Strawberry Dream",
+      "description": "The refreshing taste of strawberry pieces.",
+      "ingredients": "sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate cake sauce.",
+      "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t229.8 kcal / 961.5 kJ\r\nFat\t11 g\r\nSaturated fat\t4.6 g\r\nCarbohydrate\t28.1 g\r\nSugars\t19.2 g\r\nFibre\t1.1 g\r\nProtein\t4.6 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1612.10001": {
+          "label": "Slice",
+          "description": "The refreshing taste of strawberry pieces.",
+          "weight": "350 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate cake sauce.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t229.8 kcal / 961.5 kJ\r\nFat\t11 g\r\nSaturated fat\t4.6 g\r\nCarbohydrate\t28.1 g\r\nSugars\t19.2 g\r\nFibre\t1.1 g\r\nProtein\t4.6 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1612.10002": {
+          "label": "Whole Cake",
+          "description": "The refreshing taste of strawberry pieces.",
+          "weight": "2100 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "sponge cake, orange syrup, white chocolate cream, fresh strawberries, strawberry filling, white chocolate cake sauce.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t229.8 kcal / 961.5 kJ\r\nFat\t11 g\r\nSaturated fat\t4.6 g\r\nCarbohydrate\t28.1 g\r\nSugars\t19.2 g\r\nFibre\t1.1 g\r\nProtein\t4.6 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1611102": {
+      "name": "Black Pearl",
+      "description": "A special sweet that appeals to both the eye and the palate.",
+      "ingredients": "cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+      "allergenInfo": "Contains Gluten, eggs, dairy products and pistachios.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t426.5 kcal / 1784.5 kJ\r\nFat\t29.8 g\r\nSaturated fat\t15.2 g\r\nCarbohydrate\t34.3 g\r\nSugars\t27.3 g\r\nFibre\t3.4 g\r\nProtein\t5.3 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10201": {
+          "label": "Whole Cake",
+          "description": "A special sweet that appeals to both the eye and the palate.",
+          "weight": "1950 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and pistachios.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t426.5 kcal / 1784.5 kJ\r\nFat\t29.8 g\r\nSaturated fat\t15.2 g\r\nCarbohydrate\t34.3 g\r\nSugars\t27.3 g\r\nFibre\t3.4 g\r\nProtein\t5.3 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        },
+        "1611.10202": {
+          "label": "Slice",
+          "description": "A special sweet that appeals to both the eye and the palate.",
+          "weight": "325 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cocoa sponge cake, coffee syrup, chocolate ganache cream, pistachios, milk chocolate pieces.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and pistachios.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t426.5 kcal / 1784.5 kJ\r\nFat\t29.8 g\r\nSaturated fat\t15.2 g\r\nCarbohydrate\t34.3 g\r\nSugars\t27.3 g\r\nFibre\t3.4 g\r\nProtein\t5.3 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        }
+      }
+    },
+    "usta-1611101": {
+      "name": "Deep Love",
+      "description": "A velvety experience in every bite.",
+      "ingredients": "brownie cake (with walnuts, with dark chocolate), coffee syrup, chocolate truffle cream, chocolate ganache, milk chocolate pieces.",
+      "allergenInfo": "Contains Gluten, eggs, dairy products and walnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t393.4 kcal / 1646 kJ\r\nFat\t25.7 g\r\nSaturated fat\t10.9 g\r\nCarbohydrate\t34.6 g\r\nSugars\t31.4 g\r\nFibre\t1 g\r\nProtein\t5.9 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1611.10101": {
+          "label": "Slice",
+          "description": "A velvety experience in every bite.",
+          "weight": "390 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "brownie cake (with walnuts, with dark chocolate), coffee syrup, chocolate truffle cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and walnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t393.4 kcal / 1646 kJ\r\nFat\t25.7 g\r\nSaturated fat\t10.9 g\r\nCarbohydrate\t34.6 g\r\nSugars\t31.4 g\r\nFibre\t1 g\r\nProtein\t5.9 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1611.10102": {
+          "label": "Whole Cake",
+          "description": "A velvety experience in every bite.",
+          "weight": "2340 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "brownie cake (with walnuts, with dark chocolate), coffee syrup, chocolate truffle cream, chocolate ganache, milk chocolate pieces.",
+          "allergenInfo": "Contains Gluten, eggs, dairy products and walnuts.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t393.4 kcal / 1646 kJ\r\nFat\t25.7 g\r\nSaturated fat\t10.9 g\r\nCarbohydrate\t34.6 g\r\nSugars\t31.4 g\r\nFibre\t1 g\r\nProtein\t5.9 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    },
+    "usta-1614100": {
+      "name": "Chocolate Ahu",
+      "description": "The delicious pairing of raspberries and sponge cake.",
+      "ingredients": "cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+      "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+      "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+      "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+      "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+      "nutrition": {
+        "basis": "Per 100 g",
+        "values": [],
+        "summary": "Per 100 g\r\n\r\nEnergy\t296.5 kcal / 1240.6 kJ\r\nFat\t19.3 g\r\nSaturated fat\t13 g\r\nCarbohydrate\t26.8 g\r\nSugars\t19.7 g\r\nFibre\t1.9 g\r\nProtein\t3.8 g\r\nSalt\t0.1 g",
+        "note": ""
+      },
+      "variants": {
+        "1614.10001": {
+          "label": "Slice",
+          "description": "The delicious pairing of raspberries and sponge cake.",
+          "weight": "325 g",
+          "portion": "≈ 1 serving",
+          "ingredients": "cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t296.5 kcal / 1240.6 kJ\r\nFat\t19.3 g\r\nSaturated fat\t13 g\r\nCarbohydrate\t26.8 g\r\nSugars\t19.7 g\r\nFibre\t1.9 g\r\nProtein\t3.8 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Plated serving"
+        },
+        "1614.10002": {
+          "label": "Whole Cake",
+          "description": "The delicious pairing of raspberries and sponge cake.",
+          "weight": "1950 g",
+          "portion": "≈ 6 servings",
+          "ingredients": "cocoa sponge cake, cocoa tartlet, coffee syrup, chocolate ganache cream, raspberry filling, fresh raspberries, milk chocolate pieces.",
+          "allergenInfo": "Contains Gluten, eggs and dairy products.\r\nMay contain traces of tree nuts (hazelnuts, pistachios, walnuts, almonds), soya and sesame because it is processed on the same production line.",
+          "nutrition": {
+            "basis": "Per 100 g",
+            "values": [],
+            "summary": "Per 100 g\r\n\r\nEnergy\t296.5 kcal / 1240.6 kJ\r\nFat\t19.3 g\r\nSaturated fat\t13 g\r\nCarbohydrate\t26.8 g\r\nSugars\t19.7 g\r\nFibre\t1.9 g\r\nProtein\t3.8 g\r\nSalt\t0.1 g",
+            "note": ""
+          },
+          "servingSuggestion": "To fully enjoy the flavour and texture, allow the product to rest at room temperature for 10–15 minutes before serving.",
+          "storage": "Refrigerate between +4° and +6°. Keep out of direct sunlight and do not leave at room temperature for extended periods.",
+          "longTermStorage": "Storage\r\nStore in the freezer at -18°.\r\n\r\nPreparation\r\nThaw in a refrigerator at +4° for 8–12 hours before serving.\r\n\r\nCaution\r\nDo not refreeze once thawed. Once thawed, keep refrigerated and consume within 3 days.",
+          "packaging": "Cardboard box"
+        }
+      }
+    }
+  }
 }

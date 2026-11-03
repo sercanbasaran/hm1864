@@ -99,7 +99,7 @@ export default function App() {
     >
       <div onClick={navigate}>
         <Header />
-        <main id="main" key={locationKey}>
+        <main id="main" className={route.kind === "home" ? "home-main" : undefined} key={locationKey}>
           <Breadcrumb items={breadcrumbs} />
           <Page route={route} />
         </main>

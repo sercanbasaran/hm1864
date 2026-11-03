@@ -2,14 +2,16 @@
   "schemaVersion": 1,
   "intervalMs": 5000,
   "label": {
-    "tr": "Hafız Mustafa 1864 seçkileri"
+    "tr": "Hafız Mustafa 1864 seçkileri",
+    "en": "Hafız Mustafa 1864 selections",
+    "de": "Die Auswahlen von Hafız Mustafa 1864",
+    "it": "Le selezioni di Hafız Mustafa 1864"
   },
   "slides": [
     {
       "id": "hero-slide-0",
       "enabled": true,
       "gridScheme": 1,
-      "backgroundColor": "#9A0002",
       "backgroundColor": "#ffffff",
       "image": "assets/images/medya/slider/slide_0.png",
       "backgroundImage": "assets/images/medya/slide_0_bg.png",
