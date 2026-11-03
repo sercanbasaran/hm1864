@@ -45,8 +45,15 @@
           "sourceVariantId": "d18823d9-88d8-47e3-b187-081608058cc8",
           "name": "Cevizli Sarı Burma [XL]",
           "images": [
-            "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
-            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png"
+            "imported/475b34c0-b18e-43fb-923b-92151657cb08.png",
+            "imported/cevizlisarisarma_kutu_xl.png",
+             "imported/cevizlisariburma_1.png",
+            "imported/cevizlisariburma_2.png",
+            "imported/cevizlisariburma_3.png",
+            "imported/cevizlisariburma_4.png",
+            "imported/cevizlisariburma_5.png",
+            "imported/cevizlisariburma_6.png",
+            "imported/cevizlisariburma_7.png"
           ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/2a73bad4-e35d-4205-99a1-84bde58a2979/content"
@@ -111,8 +118,16 @@
           "sourceVariantId": "2d315826-81ed-4d09-8382-81ab448d45f6",
           "name": "Cevizli Sarı Burma [L]",
           "images": [
-            "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
-            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png"
+          
+            "imported/9e104c52-8468-4f9a-afb8-5d7faf8c459c.png",
+            "imported/cevizlisarisarma_kutu_xl.png",
+            "imported/cevizlisariburma_1.png",
+            "imported/cevizlisariburma_2.png",
+            "imported/cevizlisariburma_3.png",
+            "imported/cevizlisariburma_4.png",
+            "imported/cevizlisariburma_5.png",
+            "imported/cevizlisariburma_6.png",
+            "imported/cevizlisariburma_7.png"
           ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/2a73bad4-e35d-4205-99a1-84bde58a2979/content"
@@ -177,8 +192,16 @@
           "sourceVariantId": "9e9bf672-4773-4e46-bfdb-c8426a9532f0",
           "name": "Cevizli Sarı Burma [M]",
           "images": [
-            "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
-            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png"
+           
+            "imported/f1b4161f-5173-42db-98f8-88bb410ebb85.png",
+            "imported/cevizlisarisarma_kutu_xl.png",
+             "imported/cevizlisariburma_1.png",
+            "imported/cevizlisariburma_2.png",
+            "imported/cevizlisariburma_3.png",
+            "imported/cevizlisariburma_4.png",
+            "imported/cevizlisariburma_5.png",
+            "imported/cevizlisariburma_6.png",
+            "imported/cevizlisariburma_7.png"
           ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/2a73bad4-e35d-4205-99a1-84bde58a2979/content"
@@ -243,8 +266,16 @@
           "sourceVariantId": "906978f2-c053-4ba8-9f22-742b1c9f7b10",
           "name": "Cevizli Sarı Burma [S]",
           "images": [
-            "imported/2a73bad4-e35d-4205-99a1-84bde58a2979.webp",
-            "imported/633ca302-dc58-48a1-a472-95776709ba36.png"
+            
+            "imported/633ca302-dc58-48a1-a472-95776709ba36.png",
+            "imported/cevizlisarisarma_kutu_xl.png",
+             "imported/cevizlisariburma_1.png",
+            "imported/cevizlisariburma_2.png",
+            "imported/cevizlisariburma_3.png",
+            "imported/cevizlisariburma_4.png",
+            "imported/cevizlisariburma_5.png",
+            "imported/cevizlisariburma_6.png",
+            "imported/cevizlisariburma_7.png"
           ],
           "sourceImageUrls": [
             "https://1864usta.netlify.app/api/media/2a73bad4-e35d-4205-99a1-84bde58a2979/content"
