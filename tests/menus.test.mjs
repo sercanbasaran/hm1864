@@ -59,3 +59,27 @@ test('old store-menu URL overrides fall back to the matching catalog destination
  assert.equal(result.url,channelUrl(data.categories.find(c=>c.id===entry.categoryId).url,'store'));
  assert.equal(result.children[0].url,channelUrl(data.subcategories.find(s=>s.id===entry.children[0].subcategoryId).url,'store'));
 });
+
+
+test('explicit online denial on category, subcategory or product overrides enabled variants', () => {
+ const source=data.products.find(p=>p.variants.some(v=>v.onlineSale===true && v.storeSale===true));
+ assert.ok(source);
+ for(const level of ['category','subcategory','product']) {
+  for(const flag of (level==='product'?['onlineSale']:['onlineSale','megaMenuOnline'])) {
+   const copy=structuredClone(data);
+   const product=copy.products.find(p=>p.key===source.key);
+   const category=copy.categories.find(c=>c.id===product.categoryId);
+   const sub=copy.subcategories.find(s=>s.id===product.subcategoryId);
+   const target=level==='category'?category:level==='subcategory'?sub:product;
+   assert.ok(target);target[flag]=false;
+   const online=catalogForChannel(copy,'online'),store=catalogForChannel(copy,'store');
+   assert.ok(!online.products.some(p=>p.key===product.key));
+   assert.ok(store.products.some(p=>p.key===product.key));
+   const entries=[{categoryId:category.id,children:[{subcategoryId:sub.id}]}];
+   const onlineMenu=categoryMenu(copy,entries,'tr','online');
+   if(level==='category')assert.equal(onlineMenu.length,0);
+   if(level==='subcategory')assert.ok(!onlineMenu.some(c=>c.children.some(s=>s.id===sub.id)));
+   assert.ok(categoryMenu(copy,entries,'tr','store').some(c=>c.children.some(s=>s.id===sub.id)));
+  }
+ }
+});

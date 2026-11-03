@@ -8,7 +8,13 @@ export function channelUrl(value, channel = 'online') {
 }
 export function catalogForChannel(data, channel = 'online') {
   if (!data?.catalogChannels) return data; // Backwards-compatible for independently reused components.
+  const online = channel === 'online';
+  const permitsOnline = item => item?.onlineSale !== false && item?.megaMenuOnline !== false;
   const products = data.products.flatMap(product => {
+    const category = data.categories.find(c => c.id === product.categoryId);
+    const subcategory = data.subcategories.find(s => s.id === product.subcategoryId);
+    // An explicit denial at any parent level overrides an enabled variant.
+    if (online && (!permitsOnline(product) || !permitsOnline(category) || !permitsOnline(subcategory))) return [];
     const variants = product.variants.filter(variant => variant.active !== false && (channel === 'store' ? variant.storeSale === true : variant.onlineSale === true));
     if (!variants.length) return [];
     const defaultVariant = variants.some(v => v.code === product.defaultVariant) ? product.defaultVariant : variants[0].code;
