@@ -41,3 +41,8 @@ Ortak başlık düzeni `src/components/sections/SectionHeading.jsx`, ürün kayd
 Eski `src/templates/home.json` kaldırılmıştır. Header, footer ve diğer şablonlar kendi mevcut dosyalarında kalır.
 
 Kontrol: `npm run build` ve `node --test tests/home-components.test.mjs tests/home-slider.test.mjs tests/app.test.mjs`.
+
+
+## Tarihçe olayları
+
+`heritage.years` her yıl veya tarih aralığı için tek sekme tanımlar. Aynı yıldaki birden fazla olay, o yılın `events` listesinde ayrı `titleKey` ve `descriptionKey` alanlarıyla tutulur. Tek olaylı yıllarda bu alanlar doğrudan yıl nesnesinde kalabilir. Etiketler, başlıklar ve açıklamalar `public/assets/data/ui/home.json` içindeki `home.milestones.*` anahtarlarından gelir. Yılların sırası JSON sırasıdır; tarih aralıkları ve 1980’ler gibi etiketler desteklenir.

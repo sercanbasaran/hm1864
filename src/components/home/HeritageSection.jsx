@@ -21,6 +21,7 @@ export default function HeritageSection({ config = defaults.heritage, id = "heri
     const next = event.key === "Home" ? 0 : event.key === "End" ? count - 1 : (index + (event.key === "ArrowRight" ? 1 : -1) + count) % count;
     setSelectedYear(config.years[next].year);
     tabs.current[next]?.focus();
+    tabs.current[next]?.scrollIntoView?.({ block: "nearest", inline: "nearest", behavior: "auto" });
   };
   return <section className="heritage-section">
     <SectionHeading title={t(config.titleKey)} description={t(config.descriptionKey)} />
@@ -36,9 +37,11 @@ export default function HeritageSection({ config = defaults.heritage, id = "heri
           </button>)}
         </div>
         {selected && <div id={panelId} role="tabpanel" aria-labelledby={tabId(selected.year)}>
-          <h3>{selected.titleKey ? <RichText value={t(selected.titleKey)} /> : selected.year}</h3>
-          <p><RichText value={t(selected.descriptionKey)} /></p>
-          {selected.href && <a href={local(selected.href)}><RichText value={t(selected.buttonKey)} /></a>}
+          {(selected.events || [selected]).map((event, index) => <article className="heritage-event" key={event.titleKey || index}>
+            <h3>{event.titleKey ? <RichText value={t(event.titleKey)} /> : selected.year}</h3>
+            <p><RichText value={t(event.descriptionKey)} /></p>
+            {event.href && <a href={local(event.href)}><RichText value={t(event.buttonKey)} /></a>}
+          </article>)}
         </div>}
       </div>
     </div>

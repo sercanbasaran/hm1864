@@ -6360,3 +6360,10 @@ details[open]>summary .disclosure-icon {
     width: auto;
   }
 }
+
+/* The timeline grows with content without overflowing the page. */
+.heritage-section .split > div { min-width: 0; }
+.heritage-section .heritage-tabs { max-width: 100%; overflow-x: auto; overscroll-behavior-x: contain; scrollbar-width: thin; scrollbar-color: var(--gold) transparent; }
+.heritage-section .heritage-tabs button { flex: 0 0 auto; min-width: 58px; padding-inline: 10px; white-space: nowrap; }
+.heritage-event + .heritage-event { margin-top: 24px; }
+.heritage-section .heritage-event p { min-height: 0; line-height: 1.7; }
