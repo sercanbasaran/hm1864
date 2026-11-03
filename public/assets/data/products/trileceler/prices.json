@@ -4,51 +4,131 @@
   "products": {
     "usta-1700104": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1700.10401": {
-          "TRY": 400
+          "TRY": 400,
+          "AED": 29,
+          "CNY": 53,
+          "DKK": 53,
+          "EUR": 7,
+          "GBP": 6,
+          "JPY": 1264,
+          "SEK": 78,
+          "USD": 8
         }
       }
     },
     "usta-1700103": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1700.10301": {
-          "TRY": 400
+          "TRY": 400,
+          "AED": 29,
+          "CNY": 53,
+          "DKK": 53,
+          "EUR": 7,
+          "GBP": 6,
+          "JPY": 1264,
+          "SEK": 78,
+          "USD": 8
         }
       }
     },
     "usta-1700102": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1700.10201": {
-          "TRY": 400
+          "TRY": 400,
+          "AED": 29,
+          "CNY": 53,
+          "DKK": 53,
+          "EUR": 7,
+          "GBP": 6,
+          "JPY": 1264,
+          "SEK": 78,
+          "USD": 8
         }
       }
     },
     "usta-1700101": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1700.10101": {
-          "TRY": 400
+          "TRY": 400,
+          "AED": 29,
+          "CNY": 53,
+          "DKK": 53,
+          "EUR": 7,
+          "GBP": 6,
+          "JPY": 1264,
+          "SEK": 78,
+          "USD": 8
         }
       }
     },
     "usta-1700100": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1700.10001": {
-          "TRY": 400
+          "TRY": 400,
+          "AED": 29,
+          "CNY": 53,
+          "DKK": 53,
+          "EUR": 7,
+          "GBP": 6,
+          "JPY": 1264,
+          "SEK": 78,
+          "USD": 8
         }
       }
     }
