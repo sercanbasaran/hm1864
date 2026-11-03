@@ -992,7 +992,8 @@ textarea:focus {
   padding: 80px 30px 100px;
   background-color: #fff;
   background-image: linear-gradient(#f4f4f4 1px, transparent 1px), linear-gradient(90deg, #f4f4f4 1px, transparent 1px);
-  background-size: 90px 90px
+  background-image: url("../public/assets/images/medya/bg.png");
+
 }
 
 .narrow {
