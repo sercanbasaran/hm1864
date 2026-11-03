@@ -7,7 +7,8 @@
     "dev": "vite --host 0.0.0.0",
     "build": "vite build && node scripts/routes.mjs",
     "preview": "vite preview --host 0.0.0.0",
-    "test": "node --test tests/*.test.mjs"
+    "test": "node --test tests/*.test.mjs",
+    "prices:convert": "node scripts/update-exchange-prices.mjs"
   },
   "dependencies": {
     "@phosphor-icons/react": "2.1.10",

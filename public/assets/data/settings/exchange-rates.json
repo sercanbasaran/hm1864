@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "provider": "Frankfurter",
+  "apiVersion": "v2",
+  "sourceUrl": "https://api.frankfurter.dev/v2/rates?base=TRY&quotes=AED%2CCNY%2CDKK%2CEUR%2CGBP%2CJPY%2CSEK%2CUSD",
+  "base": "TRY",
+  "fetchedAt": "2026-11-03T20:17:19.292Z",
+  "rounding": "nearest-whole-unit-half-up",
+  "rates": {
+    "AED": {
+      "rate": 0.073482,
+      "date": "2026-11-03"
+    },
+    "CNY": {
+      "rate": 0.13319,
+      "date": "2026-11-03"
+    },
+    "DKK": {
+      "rate": 0.13357,
+      "date": "2026-11-03"
+    },
+    "EUR": {
+      "rate": 0.017872,
+      "date": "2026-11-03"
+    },
+    "GBP": {
+      "rate": 0.01491,
+      "date": "2026-11-03"
+    },
+    "JPY": {
+      "rate": 3.1612,
+      "date": "2026-11-03"
+    },
+    "SEK": {
+      "rate": 0.19577,
+      "date": "2026-11-03"
+    },
+    "USD": {
+      "rate": 0.020009,
+      "date": "2026-11-03"
+    }
+  }
+}

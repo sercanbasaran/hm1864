@@ -514,12 +514,12 @@
       "pt": ""
     },
     "ui.currencyNote": {
-      "tr": "Fiyatlar yalnızca ürün verisinde tanımlı para birimlerinde gösterilir; otomatik kur dönüşümü yapılmaz.",
-      "en": "Prices are shown only for currencies provided in the product data; no automatic conversion is applied.",
-      "ar": "تُعرض الأسعار فقط للعملات المحددة في بيانات المنتج؛ لا يتم التحويل تلقائياً.",
-      "de": "Preise werden nur in den in den Produktdaten hinterlegten Währungen angezeigt. Es erfolgt keine automatische Umrechnung.",
+      "tr": "Döviz fiyatları, TRY fiyatları ve son içe aktarılan kurlardan hesaplanır; en yakın tam tutara yuvarlanır.",
+      "en": "Foreign-currency prices are calculated from TRY prices and the latest imported rates, rounded to the nearest whole unit.",
+      "ar": "تُحسب الأسعار بالعملات الأجنبية من أسعار الليرة التركية وآخر أسعار الصرف المستوردة، وتُقرّب إلى أقرب وحدة كاملة.",
+      "de": "Fremdwährungspreise werden aus TRY-Preisen und den zuletzt importierten Wechselkursen berechnet und auf ganze Einheiten gerundet.",
       "fr": "",
-      "it": "I prezzi sono mostrati solo nelle valute presenti nei dati del prodotto; non viene applicata alcuna conversione automatica.",
+      "it": "I prezzi in valuta estera sono calcolati dai prezzi in TRY e dagli ultimi tassi importati, arrotondati all’unità intera più vicina.",
       "es": "",
       "ru": "",
       "zh-CN": "",

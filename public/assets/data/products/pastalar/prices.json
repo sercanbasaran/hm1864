@@ -4,235 +4,667 @@
   "products": {
     "usta-1613100": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1613.10001": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1613.10002": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1615100": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1615.10001": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1615.10002": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1610100": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1610.10001": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1610.10002": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1616100": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1616.10001": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1616.10002": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1615102": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1615.10201": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1615.10202": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1611100": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1611.10001": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1611.10002": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1611103": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1611.10301": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1611.10302": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1616101": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1616.10101": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1616.10102": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1615101": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1615.10101": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         },
         "1615.10102": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         }
       }
     },
     "usta-1612101": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1612.10101": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1612.10102": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1617101": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1617.10101": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1617.10102": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1617100": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1617.10001": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1617.10002": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1614101": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1614.10101": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1614.10102": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1612102": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1612.10201": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1612.10202": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1612100": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1612.10001": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1612.10002": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1611102": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1611.10201": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         },
         "1611.10202": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         }
       }
     },
     "usta-1611101": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1611.10101": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1611.10102": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     },
     "usta-1614100": {
       "base": {
-        "TRY": null
+        "TRY": null,
+        "AED": null,
+        "CNY": null,
+        "DKK": null,
+        "EUR": null,
+        "GBP": null,
+        "JPY": null,
+        "SEK": null,
+        "USD": null
       },
       "variants": {
         "1614.10001": {
-          "TRY": 460
+          "TRY": 460,
+          "AED": 34,
+          "CNY": 61,
+          "DKK": 61,
+          "EUR": 8,
+          "GBP": 7,
+          "JPY": 1454,
+          "SEK": 90,
+          "USD": 9
         },
         "1614.10002": {
-          "TRY": 2750
+          "TRY": 2750,
+          "AED": 202,
+          "CNY": 366,
+          "DKK": 367,
+          "EUR": 49,
+          "GBP": 41,
+          "JPY": 8693,
+          "SEK": 538,
+          "USD": 55
         }
       }
     }
