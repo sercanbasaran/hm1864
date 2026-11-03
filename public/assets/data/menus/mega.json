@@ -9,7 +9,16 @@
         "en": "ONLINE MENU",
         "ar": "القائمة الإلكترونية",
         "de": "ONLINE-MENÜ",
-        "it": "MENU ONLINE"
+        "it": "MENU ONLINE",
+        "fr": "MENU EN LIGNE",
+        "es": "MENÚ ONLINE",
+        "ru": "ОНЛАЙН-МЕНЮ",
+        "zh-CN": "线上菜单",
+        "ja": "オンラインメニュー",
+        "hi": "ऑनलाइन मेन्यू",
+        "ur": "آن لائن مینو",
+        "fa": "منوی آنلاین",
+        "pt": "MENU ONLINE"
       },
       "categories": [
         {
@@ -140,7 +149,16 @@
         "en": "STORE MENU",
         "ar": "قائمة المتاجر",
         "de": "FILIALMENÜ",
-        "it": "MENU IN NEGOZIO"
+        "it": "MENU IN NEGOZIO",
+        "fr": "MENU EN BOUTIQUE",
+        "es": "MENÚ EN TIENDA",
+        "ru": "МЕНЮ В МАГАЗИНЕ",
+        "zh-CN": "门店菜单",
+        "ja": "店舗メニュー",
+        "hi": "स्टोर मेन्यू",
+        "ur": "اسٹور مینو",
+        "fa": "منوی فروشگاه",
+        "pt": "MENU DA LOJA"
       },
       "categories": [
         {

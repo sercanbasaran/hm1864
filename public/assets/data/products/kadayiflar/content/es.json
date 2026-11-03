@@ -2,5 +2,967 @@
   "schemaVersion": 1,
   "categoryId": "kadayiflar",
   "language": "es",
-  "products": {}
+  "products": {
+    "usta-1213102": {
+      "name": "Künefe",
+      "description": "Una creación de Hafız Mustafa 1864 que combina kadayif crujiente y queso.",
+      "ingredients": "agua, harina de trigo, azúcar, pistachos, queso, aceite vegetal, zumo de limón.",
+      "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+      "servingSuggestion": "Servir el künefe caliente para conservar el queso elástico y el kadayif crujiente. Si se desea, decorar con pistachos y acompañar con kaymak o helado natural.",
+      "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+      "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energía 298 kcal / 1246.832 kJ; Grasas 6.42 g; Grasas saturadas 3.36 g; Hidratos de carbono 58.43 g; Azúcares 54.34 g; Fibra 0 g; Proteínas 1.59 g; Sal 0.04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10201": {
+          "label": "Servido en plato",
+          "description": "Una creación de Hafız Mustafa 1864 que combina kadayif crujiente y queso.",
+          "weight": "240 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, queso, aceite vegetal, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 298 kcal / 1246.832 kJ; Grasas 6.42 g; Grasas saturadas 3.36 g; Hidratos de carbono 58.43 g; Azúcares 54.34 g; Fibra 0 g; Proteínas 1.59 g; Sal 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Servir el künefe caliente para conservar el queso elástico y el kadayif crujiente. Si se desea, decorar con pistachos y acompañar con kaymak o helado natural.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "Servido en plato"
+        }
+      }
+    },
+    "usta-1213101": {
+      "name": "Künefe — miel",
+      "description": "La miel se une al kadayif y al queso en una deliciosa combinación.",
+      "ingredients": "agua, harina de trigo, azúcar, mantequilla clarificada, pistachos, aceite vegetal, zumo de limón.",
+      "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+      "servingSuggestion": "Servir el künefe caliente para conservar el queso elástico y el kadayif crujiente. Si se desea, decorar con pistachos y acompañar con kaymak o helado natural.",
+      "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+      "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energía 288 kcal / 1204.992 kJ; Grasas 4.61 g; Grasas saturadas 2.66 g; Hidratos de carbono 59.67 g; Azúcares 55.7 g; Fibra 0.23 g; Proteínas 1.78 g; Sal 0.08 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10101": {
+          "label": "Servido en plato",
+          "description": "La miel se une al kadayif y al queso en una deliciosa combinación.",
+          "weight": "240 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "agua, harina de trigo, azúcar, mantequilla clarificada, pistachos, aceite vegetal, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 288 kcal / 1204.992 kJ; Grasas 4.61 g; Grasas saturadas 2.66 g; Hidratos de carbono 59.67 g; Azúcares 55.7 g; Fibra 0.23 g; Proteínas 1.78 g; Sal 0.08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Servir el künefe caliente para conservar el queso elástico y el kadayif crujiente. Si se desea, decorar con pistachos y acompañar con kaymak o helado natural.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "Servido en plato"
+        }
+      }
+    },
+    "usta-1213100": {
+      "name": "Künefe — chocolate",
+      "description": "La armonía singular del chocolate y el künefe.",
+      "ingredients": "agua, harina de trigo, azúcar, pistachos, queso, cacao en polvo, chocolate negro en polvo, aceite vegetal, zumo de limón.",
+      "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+      "servingSuggestion": "Servir el künefe caliente para conservar el queso elástico y el kadayif crujiente. Si se desea, decorar con pistachos y acompañar con kaymak o helado natural.",
+      "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+      "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energía 288 kcal / 1204.992 kJ; Grasas 4.61 g; Grasas saturadas 2.66 g; Hidratos de carbono 59.67 g; Azúcares 55.7 g; Fibra 0.23 g; Proteínas 1.78 g; Sal 0.08 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10001": {
+          "label": "Servido en plato",
+          "description": "La armonía singular del chocolate y el künefe.",
+          "weight": "240 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, queso, cacao en polvo, chocolate negro en polvo, aceite vegetal, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 288 kcal / 1204.992 kJ; Grasas 4.61 g; Grasas saturadas 2.66 g; Hidratos de carbono 59.67 g; Azúcares 55.7 g; Fibra 0.23 g; Proteínas 1.78 g; Sal 0.08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Servir el künefe caliente para conservar el queso elástico y el kadayif crujiente. Si se desea, decorar con pistachos y acompañar con kaymak o helado natural.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "Servido en plato"
+        }
+      }
+    },
+    "usta-1212101": {
+      "name": "Kadayif del Palacio otomano con delicia turca Sultán",
+      "description": "Una combinación premiada de kadayif y delicia turca.",
+      "ingredients": "Delicia turca (agua, azúcar, almidón de maíz, regulador de acidez (ácido cítrico), pistachos (%14), según la variedad vainillina y extracto de saponaria), kadayif bañado en almíbar (harina de trigo, agua, mantequilla clarificada, grasa vegetal hidrogenada, zumo de limón, azúcar).",
+      "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+      "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+      "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+      "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energía 270 kcal / 1129.68 kJ; Grasas 9.51 g; Grasas saturadas 1.36 g; Hidratos de carbono 41.9 g; Azúcares 25.88 g; Fibra 0.9 g; Proteínas 3.61 g; Sal 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10101": {
+          "label": "Servido en plato",
+          "description": "Una combinación premiada de kadayif y delicia turca.",
+          "weight": "100 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "Delicia turca (agua, azúcar, almidón de maíz, regulador de acidez (ácido cítrico), pistachos (%14), según la variedad vainillina y extracto de saponaria), kadayif bañado en almíbar (harina de trigo, agua, mantequilla clarificada, grasa vegetal hidrogenada, zumo de limón, azúcar).",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 270 kcal / 1129.68 kJ; Grasas 9.51 g; Grasas saturadas 1.36 g; Hidratos de carbono 41.9 g; Azúcares 25.88 g; Fibra 0.9 g; Proteínas 3.61 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "Servido en plato"
+        },
+        "1212.10102": {
+          "label": "XL",
+          "description": "Una combinación premiada de kadayif y delicia turca.",
+          "weight": "1200 g",
+          "portion": "≈ 12 raciones",
+          "ingredients": "Delicia turca (agua, azúcar, almidón de maíz, regulador de acidez (ácido cítrico), pistachos (%14), según la variedad vainillina y extracto de saponaria), kadayif bañado en almíbar (harina de trigo, agua, mantequilla clarificada, grasa vegetal hidrogenada, zumo de limón, azúcar).",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 270 kcal / 1129.68 kJ; Grasas 9.51 g; Grasas saturadas 1.36 g; Hidratos de carbono 41.9 g; Azúcares 25.88 g; Fibra 0.9 g; Proteínas 3.61 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "XL Caja metálica de baklava\nDimensiones de la caja: 345 × 225 × 45 mm"
+        },
+        "1212.10103": {
+          "label": "L",
+          "description": "Una combinación premiada de kadayif y delicia turca.",
+          "weight": "800 g",
+          "portion": "≈ 8 raciones",
+          "ingredients": "Delicia turca (agua, azúcar, almidón de maíz, regulador de acidez (ácido cítrico), pistachos (%14), según la variedad vainillina y extracto de saponaria), kadayif bañado en almíbar (harina de trigo, agua, mantequilla clarificada, grasa vegetal hidrogenada, zumo de limón, azúcar).",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 270 kcal / 1129.68 kJ; Grasas 9.51 g; Grasas saturadas 1.36 g; Hidratos de carbono 41.9 g; Azúcares 25.88 g; Fibra 0.9 g; Proteínas 3.61 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "L Caja metálica de baklava\nDimensiones de la caja: 265 × 175 × 45 mm"
+        },
+        "1212.10104": {
+          "label": "M",
+          "description": "Una combinación premiada de kadayif y delicia turca.",
+          "weight": "400 g",
+          "portion": "≈ 4 raciones",
+          "ingredients": "Delicia turca (agua, azúcar, almidón de maíz, regulador de acidez (ácido cítrico), pistachos (%14), según la variedad vainillina y extracto de saponaria), kadayif bañado en almíbar (harina de trigo, agua, mantequilla clarificada, grasa vegetal hidrogenada, zumo de limón, azúcar).",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 270 kcal / 1129.68 kJ; Grasas 9.51 g; Grasas saturadas 1.36 g; Hidratos de carbono 41.9 g; Azúcares 25.88 g; Fibra 0.9 g; Proteínas 3.61 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "M Caja metálica de baklava\nDimensiones de la caja: 270 × 180 × 45 mm"
+        },
+        "1212.10105": {
+          "label": "S",
+          "description": "Una combinación premiada de kadayif y delicia turca.",
+          "weight": "200 g",
+          "portion": "≈ 2 raciones",
+          "ingredients": "Delicia turca (agua, azúcar, almidón de maíz, regulador de acidez (ácido cítrico), pistachos (%14), según la variedad vainillina y extracto de saponaria), kadayif bañado en almíbar (harina de trigo, agua, mantequilla clarificada, grasa vegetal hidrogenada, zumo de limón, azúcar).",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 270 kcal / 1129.68 kJ; Grasas 9.51 g; Grasas saturadas 1.36 g; Hidratos de carbono 41.9 g; Azúcares 25.88 g; Fibra 0.9 g; Proteínas 3.61 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "S Caja metálica de baklava\nDimensiones de la caja: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1212100": {
+      "name": "Kadayif del Palacio otomano con delicia turca de granada",
+      "description": "Una combinación tradicional de pistachos, delicia turca de granada y kadayif.",
+      "ingredients": "Delicia turca (agua, azúcar, almidón de maíz, pistachos (%20), regulador de acidez (ácido cítrico), según la variedad aroma de granada y colorante (antocianina)), kadayif bañado en almíbar (harina de trigo, agua, mantequilla clarificada, grasa vegetal hidrogenada, zumo de limón, azúcar).",
+      "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+      "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+      "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+      "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energía 284.45 kcal / 1190.1388 kJ; Grasas 9.73 g; Grasas saturadas 1.36 g; Hidratos de carbono 44.94 g; Azúcares 30.08 g; Fibra 1.03 g; Proteínas 3.74 g; Sal 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10001": {
+          "label": "Servido en plato",
+          "description": "Una combinación tradicional de pistachos, delicia turca de granada y kadayif.",
+          "weight": "100 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "Delicia turca (agua, azúcar, almidón de maíz, pistachos (%20), regulador de acidez (ácido cítrico), según la variedad aroma de granada y colorante (antocianina)), kadayif bañado en almíbar (harina de trigo, agua, mantequilla clarificada, grasa vegetal hidrogenada, zumo de limón, azúcar).",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 284.45 kcal / 1190.1388 kJ; Grasas 9.73 g; Grasas saturadas 1.36 g; Hidratos de carbono 44.94 g; Azúcares 30.08 g; Fibra 1.03 g; Proteínas 3.74 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "Servido en plato"
+        },
+        "1212.10002": {
+          "label": "XL",
+          "description": "Una combinación tradicional de pistachos, delicia turca de granada y kadayif.",
+          "weight": "1200 g",
+          "portion": "≈ 12 raciones",
+          "ingredients": "Delicia turca (agua, azúcar, almidón de maíz, pistachos (%20), regulador de acidez (ácido cítrico), según la variedad aroma de granada y colorante (antocianina)), kadayif bañado en almíbar (harina de trigo, agua, mantequilla clarificada, grasa vegetal hidrogenada, zumo de limón, azúcar).",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 284.45 kcal / 1190.1388 kJ; Grasas 9.73 g; Grasas saturadas 1.36 g; Hidratos de carbono 44.94 g; Azúcares 30.08 g; Fibra 1.03 g; Proteínas 3.74 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "XL Caja metálica de baklava\nDimensiones de la caja: 345 × 225 × 45 mm"
+        },
+        "1212.10003": {
+          "label": "L",
+          "description": "Una combinación tradicional de pistachos, delicia turca de granada y kadayif.",
+          "weight": "800 g",
+          "portion": "≈ 8 raciones",
+          "ingredients": "Delicia turca (agua, azúcar, almidón de maíz, pistachos (%20), regulador de acidez (ácido cítrico), según la variedad aroma de granada y colorante (antocianina)), kadayif bañado en almíbar (harina de trigo, agua, mantequilla clarificada, grasa vegetal hidrogenada, zumo de limón, azúcar).",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 284.45 kcal / 1190.1388 kJ; Grasas 9.73 g; Grasas saturadas 1.36 g; Hidratos de carbono 44.94 g; Azúcares 30.08 g; Fibra 1.03 g; Proteínas 3.74 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "L Caja metálica de baklava\nDimensiones de la caja: 265 × 175 × 45 mm"
+        },
+        "1212.10004": {
+          "label": "M",
+          "description": "Una combinación tradicional de pistachos, delicia turca de granada y kadayif.",
+          "weight": "400 g",
+          "portion": "≈ 4 raciones",
+          "ingredients": "Delicia turca (agua, azúcar, almidón de maíz, pistachos (%20), regulador de acidez (ácido cítrico), según la variedad aroma de granada y colorante (antocianina)), kadayif bañado en almíbar (harina de trigo, agua, mantequilla clarificada, grasa vegetal hidrogenada, zumo de limón, azúcar).",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 284.45 kcal / 1190.1388 kJ; Grasas 9.73 g; Grasas saturadas 1.36 g; Hidratos de carbono 44.94 g; Azúcares 30.08 g; Fibra 1.03 g; Proteínas 3.74 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "M Caja metálica de baklava\nDimensiones de la caja: 270 × 180 × 45 mm"
+        },
+        "1212.10005": {
+          "label": "S",
+          "description": "Una combinación tradicional de pistachos, delicia turca de granada y kadayif.",
+          "weight": "200 g",
+          "portion": "≈ 2 raciones",
+          "ingredients": "Delicia turca (agua, azúcar, almidón de maíz, pistachos (%20), regulador de acidez (ácido cítrico), según la variedad aroma de granada y colorante (antocianina)), kadayif bañado en almíbar (harina de trigo, agua, mantequilla clarificada, grasa vegetal hidrogenada, zumo de limón, azúcar).",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 284.45 kcal / 1190.1388 kJ; Grasas 9.73 g; Grasas saturadas 1.36 g; Hidratos de carbono 44.94 g; Azúcares 30.08 g; Fibra 1.03 g; Proteínas 3.74 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "S Caja metálica de baklava\nDimensiones de la caja: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1211100": {
+      "name": "Kadayif del Palacio otomano — nuez",
+      "description": "Una combinación gourmet de nueces y kadayif elaborada con maestría.",
+      "ingredients": "agua, harina de trigo, azúcar, nueces, aceite vegetal, mantequilla clarificada, zumo de limón.",
+      "allergenInfo": "gluten (trigo), leche y productos lácteos, nueces. Puede contener trazas de: pistachos, porque en la misma línea se elaboran productos que contienen pistachos.",
+      "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+      "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+      "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energía 423.34 kcal / 1771.25456 kJ; Grasas 26.9 g; Grasas saturadas 3.31 g; Hidratos de carbono 36.4 g; Azúcares 25.52 g; Fibra 2.34 g; Proteínas 7.7 g; Sal 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1211.10001": {
+          "label": "Servido en plato",
+          "description": "Una combinación gourmet de nueces y kadayif elaborada con maestría.",
+          "weight": "100 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "agua, harina de trigo, azúcar, nueces, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, nueces. Puede contener trazas de: pistachos, porque en la misma línea se elaboran productos que contienen pistachos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 423.34 kcal / 1771.25456 kJ; Grasas 26.9 g; Grasas saturadas 3.31 g; Hidratos de carbono 36.4 g; Azúcares 25.52 g; Fibra 2.34 g; Proteínas 7.7 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "Servido en plato"
+        },
+        "1211.10002": {
+          "label": "XL",
+          "description": "Una combinación gourmet de nueces y kadayif elaborada con maestría.",
+          "weight": "1200 g",
+          "portion": "≈ 12 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, nueces, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, nueces. Puede contener trazas de: pistachos, porque en la misma línea se elaboran productos que contienen pistachos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 423.34 kcal / 1771.25456 kJ; Grasas 26.9 g; Grasas saturadas 3.31 g; Hidratos de carbono 36.4 g; Azúcares 25.52 g; Fibra 2.34 g; Proteínas 7.7 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "XL Caja metálica de baklava\nDimensiones de la caja: 345 × 225 × 45 mm"
+        },
+        "1211.10003": {
+          "label": "L",
+          "description": "Una combinación gourmet de nueces y kadayif elaborada con maestría.",
+          "weight": "800 g",
+          "portion": "≈ 8 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, nueces, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, nueces. Puede contener trazas de: pistachos, porque en la misma línea se elaboran productos que contienen pistachos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 423.34 kcal / 1771.25456 kJ; Grasas 26.9 g; Grasas saturadas 3.31 g; Hidratos de carbono 36.4 g; Azúcares 25.52 g; Fibra 2.34 g; Proteínas 7.7 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "L Caja metálica de baklava\nDimensiones de la caja: 265 × 175 × 45 mm"
+        },
+        "1211.10004": {
+          "label": "M",
+          "description": "Una combinación gourmet de nueces y kadayif elaborada con maestría.",
+          "weight": "400 g",
+          "portion": "≈ 4 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, nueces, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, nueces. Puede contener trazas de: pistachos, porque en la misma línea se elaboran productos que contienen pistachos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 423.34 kcal / 1771.25456 kJ; Grasas 26.9 g; Grasas saturadas 3.31 g; Hidratos de carbono 36.4 g; Azúcares 25.52 g; Fibra 2.34 g; Proteínas 7.7 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "M Caja metálica de baklava\nDimensiones de la caja: 270 × 180 × 45 mm"
+        },
+        "1211.10005": {
+          "label": "S",
+          "description": "Una combinación gourmet de nueces y kadayif elaborada con maestría.",
+          "weight": "200 g",
+          "portion": "≈ 2 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, nueces, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, nueces. Puede contener trazas de: pistachos, porque en la misma línea se elaboran productos que contienen pistachos.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 423.34 kcal / 1771.25456 kJ; Grasas 26.9 g; Grasas saturadas 3.31 g; Hidratos de carbono 36.4 g; Azúcares 25.52 g; Fibra 2.34 g; Proteínas 7.7 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "S Caja metálica de baklava\nDimensiones de la caja: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210104": {
+      "name": "Kadayif del Palacio otomano — pistacho",
+      "description": "Un festín de kadayif intenso y abundantes pistachos.",
+      "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+      "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+      "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+      "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+      "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energía 401 kcal / 1677.784 kJ; Grasas 23.34 g; Grasas saturadas 1.2 g; Hidratos de carbono 37.1 g; Azúcares 21.2 g; Fibra 3.89 g; Proteínas 8.5 g; Sal 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10401": {
+          "label": "Servido en plato",
+          "description": "Un festín de kadayif intenso y abundantes pistachos.",
+          "weight": "100 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 401 kcal / 1677.784 kJ; Grasas 23.34 g; Grasas saturadas 1.2 g; Hidratos de carbono 37.1 g; Azúcares 21.2 g; Fibra 3.89 g; Proteínas 8.5 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "Servido en plato"
+        },
+        "1210.10402": {
+          "label": "XL",
+          "description": "Un festín de kadayif intenso y abundantes pistachos.",
+          "weight": "1200 g",
+          "portion": "≈ 12 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 401 kcal / 1677.784 kJ; Grasas 23.34 g; Grasas saturadas 1.2 g; Hidratos de carbono 37.1 g; Azúcares 21.2 g; Fibra 3.89 g; Proteínas 8.5 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "XL Caja metálica de baklava\nDimensiones de la caja: 345 × 225 × 45 mm"
+        },
+        "1210.10403": {
+          "label": "L",
+          "description": "Un festín de kadayif intenso y abundantes pistachos.",
+          "weight": "800 g",
+          "portion": "≈ 8 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 401 kcal / 1677.784 kJ; Grasas 23.34 g; Grasas saturadas 1.2 g; Hidratos de carbono 37.1 g; Azúcares 21.2 g; Fibra 3.89 g; Proteínas 8.5 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "L Caja metálica de baklava\nDimensiones de la caja: 265 × 175 × 45 mm"
+        },
+        "1210.10404": {
+          "label": "M",
+          "description": "Un festín de kadayif intenso y abundantes pistachos.",
+          "weight": "400 g",
+          "portion": "≈ 4 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 401 kcal / 1677.784 kJ; Grasas 23.34 g; Grasas saturadas 1.2 g; Hidratos de carbono 37.1 g; Azúcares 21.2 g; Fibra 3.89 g; Proteínas 8.5 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "M Caja metálica de baklava\nDimensiones de la caja: 270 × 180 × 45 mm"
+        },
+        "1210.10405": {
+          "label": "S",
+          "description": "Un festín de kadayif intenso y abundantes pistachos.",
+          "weight": "200 g",
+          "portion": "≈ 2 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 401 kcal / 1677.784 kJ; Grasas 23.34 g; Grasas saturadas 1.2 g; Hidratos de carbono 37.1 g; Azúcares 21.2 g; Fibra 3.89 g; Proteínas 8.5 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "S Caja metálica de baklava\nDimensiones de la caja: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210103": {
+      "name": "Kadayif Antep Burma — pistacho",
+      "description": "Un viaje de sabor con pistachos especiales envueltos en kadayif.",
+      "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+      "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+      "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+      "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+      "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energía 338.5 kcal / 1416.284 kJ; Grasas 16 g; Grasas saturadas 0.16 g; Hidratos de carbono 41.91 g; Azúcares 24.4 g; Fibra 1.8 g; Proteínas 5.7 g; Sal 0.04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10301": {
+          "label": "Servido en plato",
+          "description": "Un viaje de sabor con pistachos especiales envueltos en kadayif.",
+          "weight": "62.5 g",
+          "portion": "Menos de 1 ración",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 338.5 kcal / 1416.284 kJ; Grasas 16 g; Grasas saturadas 0.16 g; Hidratos de carbono 41.91 g; Azúcares 24.4 g; Fibra 1.8 g; Proteínas 5.7 g; Sal 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "Servido en plato"
+        },
+        "1210.10302": {
+          "label": "XL",
+          "description": "Un viaje de sabor con pistachos especiales envueltos en kadayif.",
+          "weight": "750 g",
+          "portion": "≈ 4 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 338.5 kcal / 1416.284 kJ; Grasas 16 g; Grasas saturadas 0.16 g; Hidratos de carbono 41.91 g; Azúcares 24.4 g; Fibra 1.8 g; Proteínas 5.7 g; Sal 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "XL Caja metálica de baklava\nDimensiones de la caja: 345 × 225 × 45 mm"
+        },
+        "1210.10303": {
+          "label": "L",
+          "description": "Un viaje de sabor con pistachos especiales envueltos en kadayif.",
+          "weight": "500 g",
+          "portion": "≈ 3 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 338.5 kcal / 1416.284 kJ; Grasas 16 g; Grasas saturadas 0.16 g; Hidratos de carbono 41.91 g; Azúcares 24.4 g; Fibra 1.8 g; Proteínas 5.7 g; Sal 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "L Caja metálica de baklava\nDimensiones de la caja: 265 × 175 × 45 mm"
+        },
+        "1210.10304": {
+          "label": "M",
+          "description": "Un viaje de sabor con pistachos especiales envueltos en kadayif.",
+          "weight": "250 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 338.5 kcal / 1416.284 kJ; Grasas 16 g; Grasas saturadas 0.16 g; Hidratos de carbono 41.91 g; Azúcares 24.4 g; Fibra 1.8 g; Proteínas 5.7 g; Sal 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "M Caja metálica de baklava\nDimensiones de la caja: 270 × 180 × 45 mm"
+        },
+        "1210.10305": {
+          "label": "S",
+          "description": "Un viaje de sabor con pistachos especiales envueltos en kadayif.",
+          "weight": "125 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 338.5 kcal / 1416.284 kJ; Grasas 16 g; Grasas saturadas 0.16 g; Hidratos de carbono 41.91 g; Azúcares 24.4 g; Fibra 1.8 g; Proteínas 5.7 g; Sal 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "S Caja metálica de baklava\nDimensiones de la caja: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210102": {
+      "name": "Kadayif Alepo Burma — pistacho",
+      "description": "Pistachos de cosecha especial envueltos en delicioso kadayif.",
+      "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, zumo de limón.",
+      "allergenInfo": "gluten (trigo), pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+      "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+      "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+      "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energía 389.5 kcal / 1629.668 kJ; Grasas 23.2 g; Grasas saturadas 4.79 g; Hidratos de carbono 36.73 g; Azúcares 18.8 g; Fibra 2.69 g; Proteínas 7.06 g; Sal 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10201": {
+          "label": "Servido en plato",
+          "description": "Pistachos de cosecha especial envueltos en delicioso kadayif.",
+          "weight": "170 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, zumo de limón.",
+          "allergenInfo": "gluten (trigo), pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 389.5 kcal / 1629.668 kJ; Grasas 23.2 g; Grasas saturadas 4.79 g; Hidratos de carbono 36.73 g; Azúcares 18.8 g; Fibra 2.69 g; Proteínas 7.06 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "Servido en plato"
+        },
+        "1210.10202": {
+          "label": "XL",
+          "description": "Pistachos de cosecha especial envueltos en delicioso kadayif.",
+          "weight": "2040 g",
+          "portion": "≈ 12 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, zumo de limón.",
+          "allergenInfo": "gluten (trigo), pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 389.5 kcal / 1629.668 kJ; Grasas 23.2 g; Grasas saturadas 4.79 g; Hidratos de carbono 36.73 g; Azúcares 18.8 g; Fibra 2.69 g; Proteínas 7.06 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "XL Caja metálica de baklava\nDimensiones de la caja: 345 × 225 × 45 mm"
+        },
+        "1210.10203": {
+          "label": "L",
+          "description": "Pistachos de cosecha especial envueltos en delicioso kadayif.",
+          "weight": "1360 g",
+          "portion": "≈ 8 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, zumo de limón.",
+          "allergenInfo": "gluten (trigo), pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 389.5 kcal / 1629.668 kJ; Grasas 23.2 g; Grasas saturadas 4.79 g; Hidratos de carbono 36.73 g; Azúcares 18.8 g; Fibra 2.69 g; Proteínas 7.06 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "L Caja metálica de baklava\nDimensiones de la caja: 265 × 175 × 45 mm"
+        },
+        "1210.10204": {
+          "label": "M",
+          "description": "Pistachos de cosecha especial envueltos en delicioso kadayif.",
+          "weight": "680 g",
+          "portion": "≈ 4 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, zumo de limón.",
+          "allergenInfo": "gluten (trigo), pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 389.5 kcal / 1629.668 kJ; Grasas 23.2 g; Grasas saturadas 4.79 g; Hidratos de carbono 36.73 g; Azúcares 18.8 g; Fibra 2.69 g; Proteínas 7.06 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "M Caja metálica de baklava\nDimensiones de la caja: 270 × 180 × 45 mm"
+        },
+        "1210.10205": {
+          "label": "S",
+          "description": "Pistachos de cosecha especial envueltos en delicioso kadayif.",
+          "weight": "340 g",
+          "portion": "≈ 2 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, zumo de limón.",
+          "allergenInfo": "gluten (trigo), pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 389.5 kcal / 1629.668 kJ; Grasas 23.2 g; Grasas saturadas 4.79 g; Hidratos de carbono 36.73 g; Azúcares 18.8 g; Fibra 2.69 g; Proteínas 7.06 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "S Caja metálica de baklava\nDimensiones de la caja: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210101": {
+      "name": "Kadayif Sultaniye — pistacho",
+      "description": "Un sueño de kadayif suave y crujiente recubierto de pistachos.",
+      "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+      "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+      "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+      "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+      "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energía 348.3 kcal / 1457.2872 kJ; Grasas 16.41 g; Grasas saturadas 2.28 g; Hidratos de carbono 44.61 g; Azúcares 31.12 g; Fibra 1.64 g; Proteínas 4.71 g; Sal 0.03 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10101": {
+          "label": "XL",
+          "description": "Un sueño de kadayif suave y crujiente recubierto de pistachos.",
+          "weight": "2400 g",
+          "portion": "≈ 12 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 348.3 kcal / 1457.2872 kJ; Grasas 16.41 g; Grasas saturadas 2.28 g; Hidratos de carbono 44.61 g; Azúcares 31.12 g; Fibra 1.64 g; Proteínas 4.71 g; Sal 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "XL Caja metálica de baklava\nDimensiones de la caja: 345 × 225 × 45 mm"
+        },
+        "1210.10102": {
+          "label": "L",
+          "description": "Un sueño de kadayif suave y crujiente recubierto de pistachos.",
+          "weight": "1600 g",
+          "portion": "≈ 8 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 348.3 kcal / 1457.2872 kJ; Grasas 16.41 g; Grasas saturadas 2.28 g; Hidratos de carbono 44.61 g; Azúcares 31.12 g; Fibra 1.64 g; Proteínas 4.71 g; Sal 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "L Caja metálica de baklava\nDimensiones de la caja: 265 × 175 × 45 mm"
+        },
+        "1210.10103": {
+          "label": "M",
+          "description": "Un sueño de kadayif suave y crujiente recubierto de pistachos.",
+          "weight": "800 g",
+          "portion": "≈ 4 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 348.3 kcal / 1457.2872 kJ; Grasas 16.41 g; Grasas saturadas 2.28 g; Hidratos de carbono 44.61 g; Azúcares 31.12 g; Fibra 1.64 g; Proteínas 4.71 g; Sal 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "M Caja metálica de baklava\nDimensiones de la caja: 270 × 180 × 45 mm"
+        },
+        "1210.10104": {
+          "label": "S",
+          "description": "Un sueño de kadayif suave y crujiente recubierto de pistachos.",
+          "weight": "400 g",
+          "portion": "≈ 2 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 348.3 kcal / 1457.2872 kJ; Grasas 16.41 g; Grasas saturadas 2.28 g; Hidratos de carbono 44.61 g; Azúcares 31.12 g; Fibra 1.64 g; Proteínas 4.71 g; Sal 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "S Caja metálica de baklava\nDimensiones de la caja: 195 × 145 × 45 mm"
+        },
+        "1210.10105": {
+          "label": "Porción",
+          "description": "Un sueño de kadayif suave y crujiente recubierto de pistachos.",
+          "weight": "200 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 348.3 kcal / 1457.2872 kJ; Grasas 16.41 g; Grasas saturadas 2.28 g; Hidratos de carbono 44.61 g; Azúcares 31.12 g; Fibra 1.64 g; Proteínas 4.71 g; Sal 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "Servido en plato"
+        }
+      }
+    },
+    "usta-1210100": {
+      "name": "Kadayif — pistacho",
+      "description": "Una sinfonía de kadayif y pistachos de cosecha temprana.",
+      "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+      "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+      "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+      "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+      "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energía 353.33 kcal / 1478.33272 kJ; Grasas 17.33 g; Grasas saturadas 3.1 g; Hidratos de carbono 44.63 g; Azúcares 30.9 g; Fibra 1.2 g; Proteínas 4 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10001": {
+          "label": "Servido en plato",
+          "description": "Una sinfonía de kadayif y pistachos de cosecha temprana.",
+          "weight": "166.6 g",
+          "portion": "≈ 1 ración",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 353.33 kcal / 1478.33272 kJ; Grasas 17.33 g; Grasas saturadas 3.1 g; Hidratos de carbono 44.63 g; Azúcares 30.9 g; Fibra 1.2 g; Proteínas 4 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "Servido en plato"
+        },
+        "1210.10002": {
+          "label": "XL",
+          "description": "Una sinfonía de kadayif y pistachos de cosecha temprana.",
+          "weight": "1999.2 g",
+          "portion": "≈ 12 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 353.33 kcal / 1478.33272 kJ; Grasas 17.33 g; Grasas saturadas 3.1 g; Hidratos de carbono 44.63 g; Azúcares 30.9 g; Fibra 1.2 g; Proteínas 4 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "XL Caja metálica de baklava\nDimensiones de la caja: 345 × 225 × 45 mm"
+        },
+        "1210.10003": {
+          "label": "L",
+          "description": "Una sinfonía de kadayif y pistachos de cosecha temprana.",
+          "weight": "1332.8 g",
+          "portion": "≈ 8 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 353.33 kcal / 1478.33272 kJ; Grasas 17.33 g; Grasas saturadas 3.1 g; Hidratos de carbono 44.63 g; Azúcares 30.9 g; Fibra 1.2 g; Proteínas 4 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "L Caja metálica de baklava\nDimensiones de la caja: 265 × 175 × 45 mm"
+        },
+        "1210.10004": {
+          "label": "M",
+          "description": "Una sinfonía de kadayif y pistachos de cosecha temprana.",
+          "weight": "666.4 g",
+          "portion": "≈ 4 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 353.33 kcal / 1478.33272 kJ; Grasas 17.33 g; Grasas saturadas 3.1 g; Hidratos de carbono 44.63 g; Azúcares 30.9 g; Fibra 1.2 g; Proteínas 4 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "M Caja metálica de baklava\nDimensiones de la caja: 270 × 180 × 45 mm"
+        },
+        "1210.10005": {
+          "label": "S",
+          "description": "Una sinfonía de kadayif y pistachos de cosecha temprana.",
+          "weight": "333.2 g",
+          "portion": "≈ 2 raciones",
+          "ingredients": "agua, harina de trigo, azúcar, pistachos, aceite vegetal, mantequilla clarificada, zumo de limón.",
+          "allergenInfo": "gluten (trigo), leche y productos lácteos, pistachos. Puede contener trazas de: nueces, porque en la misma línea se elaboran productos que contienen nueces.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energía 353.33 kcal / 1478.33272 kJ; Grasas 17.33 g; Grasas saturadas 3.1 g; Hidratos de carbono 44.63 g; Azúcares 30.9 g; Fibra 1.2 g; Proteínas 4 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar en un lugar fresco y seco, protegido de la luz solar directa.\n\nPara el consumo diario, se recomienda evitar la refrigeración, ya que puede alterar la consistencia del almíbar.",
+          "storage": "Para disfrutar de su sabor, consumir a temperatura ambiente.\n\nTambién se puede calentar suavemente en el horno antes de servir.",
+          "longTermStorage": "Se pueden conservar los productos en el congelador a -18 °C durante un máximo de 30 días.\n\nPara disfrutar de su sabor, descongelar a +4 °C durante 2 horas y dejar reposar a temperatura ambiente durante 30 minutos antes de servir.  Descongelar directamente a temperatura ambiente puede provocar sequedad y pérdida de textura crujiente.\n\nNo volver a congelar los productos descongelados.",
+          "packaging": "S Caja metálica de baklava\nDimensiones de la caja: 195 × 145 × 45 mm"
+        }
+      }
+    }
+  }
 }

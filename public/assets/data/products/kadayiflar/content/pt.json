@@ -2,5 +2,967 @@
   "schemaVersion": 1,
   "categoryId": "kadayiflar",
   "language": "pt",
-  "products": {}
+  "products": {
+    "usta-1213102": {
+      "name": "Künefe",
+      "description": "Uma criação Hafız Mustafa 1864 que combina kadayif crocante e queijo.",
+      "ingredients": "água, farinha de trigo, açúcar, pistácios, queijo, óleo vegetal, sumo de limão.",
+      "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+      "servingSuggestion": "Servir o künefe quente para manter o queijo elástico e o kadayif crocante. Se desejar, decorar com pistácios e acompanhar com kaymak ou gelado simples.",
+      "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+      "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 298 kcal / 1246.832 kJ; Lípidos 6.42 g; Gorduras saturadas 3.36 g; Hidratos de carbono 58.43 g; Açúcares 54.34 g; Fibra 0 g; Proteínas 1.59 g; Sal 0.04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10201": {
+          "label": "Servido em prato",
+          "description": "Uma criação Hafız Mustafa 1864 que combina kadayif crocante e queijo.",
+          "weight": "240 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, queijo, óleo vegetal, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 298 kcal / 1246.832 kJ; Lípidos 6.42 g; Gorduras saturadas 3.36 g; Hidratos de carbono 58.43 g; Açúcares 54.34 g; Fibra 0 g; Proteínas 1.59 g; Sal 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Servir o künefe quente para manter o queijo elástico e o kadayif crocante. Se desejar, decorar com pistácios e acompanhar com kaymak ou gelado simples.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1213101": {
+      "name": "Künefe — mel",
+      "description": "O mel encontra kadayif e queijo numa combinação deliciosa.",
+      "ingredients": "água, farinha de trigo, açúcar, manteiga clarificada, pistácios, óleo vegetal, sumo de limão.",
+      "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+      "servingSuggestion": "Servir o künefe quente para manter o queijo elástico e o kadayif crocante. Se desejar, decorar com pistácios e acompanhar com kaymak ou gelado simples.",
+      "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+      "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 288 kcal / 1204.992 kJ; Lípidos 4.61 g; Gorduras saturadas 2.66 g; Hidratos de carbono 59.67 g; Açúcares 55.7 g; Fibra 0.23 g; Proteínas 1.78 g; Sal 0.08 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10101": {
+          "label": "Servido em prato",
+          "description": "O mel encontra kadayif e queijo numa combinação deliciosa.",
+          "weight": "240 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "água, farinha de trigo, açúcar, manteiga clarificada, pistácios, óleo vegetal, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 288 kcal / 1204.992 kJ; Lípidos 4.61 g; Gorduras saturadas 2.66 g; Hidratos de carbono 59.67 g; Açúcares 55.7 g; Fibra 0.23 g; Proteínas 1.78 g; Sal 0.08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Servir o künefe quente para manter o queijo elástico e o kadayif crocante. Se desejar, decorar com pistácios e acompanhar com kaymak ou gelado simples.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1213100": {
+      "name": "Künefe — chocolate",
+      "description": "A harmonia singular do chocolate e do künefe.",
+      "ingredients": "água, farinha de trigo, açúcar, pistácios, queijo, cacau em pó, chocolate negro em pó, óleo vegetal, sumo de limão.",
+      "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+      "servingSuggestion": "Servir o künefe quente para manter o queijo elástico e o kadayif crocante. Se desejar, decorar com pistácios e acompanhar com kaymak ou gelado simples.",
+      "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+      "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 288 kcal / 1204.992 kJ; Lípidos 4.61 g; Gorduras saturadas 2.66 g; Hidratos de carbono 59.67 g; Açúcares 55.7 g; Fibra 0.23 g; Proteínas 1.78 g; Sal 0.08 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10001": {
+          "label": "Servido em prato",
+          "description": "A harmonia singular do chocolate e do künefe.",
+          "weight": "240 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, queijo, cacau em pó, chocolate negro em pó, óleo vegetal, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 288 kcal / 1204.992 kJ; Lípidos 4.61 g; Gorduras saturadas 2.66 g; Hidratos de carbono 59.67 g; Açúcares 55.7 g; Fibra 0.23 g; Proteínas 1.78 g; Sal 0.08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Servir o künefe quente para manter o queijo elástico e o kadayif crocante. Se desejar, decorar com pistácios e acompanhar com kaymak ou gelado simples.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1212101": {
+      "name": "Kadayif do Palácio Otomano com delícia turca Sultão",
+      "description": "Uma combinação premiada de kadayif e delícia turca.",
+      "ingredients": "Delícia turca (água, açúcar, amido de milho, regulador de acidez (ácido cítrico), pistácios (%14), conforme a variedade vanilina e extrato de saponária), kadayif embebido em calda (farinha de trigo, água, manteiga clarificada, gordura vegetal hidrogenada, sumo de limão, açúcar).",
+      "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+      "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+      "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+      "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 270 kcal / 1129.68 kJ; Lípidos 9.51 g; Gorduras saturadas 1.36 g; Hidratos de carbono 41.9 g; Açúcares 25.88 g; Fibra 0.9 g; Proteínas 3.61 g; Sal 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10101": {
+          "label": "Servido em prato",
+          "description": "Uma combinação premiada de kadayif e delícia turca.",
+          "weight": "100 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "Delícia turca (água, açúcar, amido de milho, regulador de acidez (ácido cítrico), pistácios (%14), conforme a variedade vanilina e extrato de saponária), kadayif embebido em calda (farinha de trigo, água, manteiga clarificada, gordura vegetal hidrogenada, sumo de limão, açúcar).",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 270 kcal / 1129.68 kJ; Lípidos 9.51 g; Gorduras saturadas 1.36 g; Hidratos de carbono 41.9 g; Açúcares 25.88 g; Fibra 0.9 g; Proteínas 3.61 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "Servido em prato"
+        },
+        "1212.10102": {
+          "label": "XL",
+          "description": "Uma combinação premiada de kadayif e delícia turca.",
+          "weight": "1200 g",
+          "portion": "≈ 12 porções",
+          "ingredients": "Delícia turca (água, açúcar, amido de milho, regulador de acidez (ácido cítrico), pistácios (%14), conforme a variedade vanilina e extrato de saponária), kadayif embebido em calda (farinha de trigo, água, manteiga clarificada, gordura vegetal hidrogenada, sumo de limão, açúcar).",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 270 kcal / 1129.68 kJ; Lípidos 9.51 g; Gorduras saturadas 1.36 g; Hidratos de carbono 41.9 g; Açúcares 25.88 g; Fibra 0.9 g; Proteínas 3.61 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "XL Caixa metálica de baklava\nDimensões da caixa: 345 × 225 × 45 mm"
+        },
+        "1212.10103": {
+          "label": "L",
+          "description": "Uma combinação premiada de kadayif e delícia turca.",
+          "weight": "800 g",
+          "portion": "≈ 8 porções",
+          "ingredients": "Delícia turca (água, açúcar, amido de milho, regulador de acidez (ácido cítrico), pistácios (%14), conforme a variedade vanilina e extrato de saponária), kadayif embebido em calda (farinha de trigo, água, manteiga clarificada, gordura vegetal hidrogenada, sumo de limão, açúcar).",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 270 kcal / 1129.68 kJ; Lípidos 9.51 g; Gorduras saturadas 1.36 g; Hidratos de carbono 41.9 g; Açúcares 25.88 g; Fibra 0.9 g; Proteínas 3.61 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "L Caixa metálica de baklava\nDimensões da caixa: 265 × 175 × 45 mm"
+        },
+        "1212.10104": {
+          "label": "M",
+          "description": "Uma combinação premiada de kadayif e delícia turca.",
+          "weight": "400 g",
+          "portion": "≈ 4 porções",
+          "ingredients": "Delícia turca (água, açúcar, amido de milho, regulador de acidez (ácido cítrico), pistácios (%14), conforme a variedade vanilina e extrato de saponária), kadayif embebido em calda (farinha de trigo, água, manteiga clarificada, gordura vegetal hidrogenada, sumo de limão, açúcar).",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 270 kcal / 1129.68 kJ; Lípidos 9.51 g; Gorduras saturadas 1.36 g; Hidratos de carbono 41.9 g; Açúcares 25.88 g; Fibra 0.9 g; Proteínas 3.61 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "M Caixa metálica de baklava\nDimensões da caixa: 270 × 180 × 45 mm"
+        },
+        "1212.10105": {
+          "label": "S",
+          "description": "Uma combinação premiada de kadayif e delícia turca.",
+          "weight": "200 g",
+          "portion": "≈ 2 porções",
+          "ingredients": "Delícia turca (água, açúcar, amido de milho, regulador de acidez (ácido cítrico), pistácios (%14), conforme a variedade vanilina e extrato de saponária), kadayif embebido em calda (farinha de trigo, água, manteiga clarificada, gordura vegetal hidrogenada, sumo de limão, açúcar).",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 270 kcal / 1129.68 kJ; Lípidos 9.51 g; Gorduras saturadas 1.36 g; Hidratos de carbono 41.9 g; Açúcares 25.88 g; Fibra 0.9 g; Proteínas 3.61 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "S Caixa metálica de baklava\nDimensões da caixa: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1212100": {
+      "name": "Kadayif do Palácio Otomano com delícia turca de romã",
+      "description": "Uma combinação tradicional de pistácios, delícia turca de romã e kadayif.",
+      "ingredients": "Delícia turca (água, açúcar, amido de milho, pistácios (%20), regulador de acidez (ácido cítrico), conforme a variedade aroma de romã e corante (antocianina)), kadayif embebido em calda (farinha de trigo, água, manteiga clarificada, gordura vegetal hidrogenada, sumo de limão, açúcar).",
+      "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+      "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+      "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+      "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 284.45 kcal / 1190.1388 kJ; Lípidos 9.73 g; Gorduras saturadas 1.36 g; Hidratos de carbono 44.94 g; Açúcares 30.08 g; Fibra 1.03 g; Proteínas 3.74 g; Sal 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10001": {
+          "label": "Servido em prato",
+          "description": "Uma combinação tradicional de pistácios, delícia turca de romã e kadayif.",
+          "weight": "100 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "Delícia turca (água, açúcar, amido de milho, pistácios (%20), regulador de acidez (ácido cítrico), conforme a variedade aroma de romã e corante (antocianina)), kadayif embebido em calda (farinha de trigo, água, manteiga clarificada, gordura vegetal hidrogenada, sumo de limão, açúcar).",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 284.45 kcal / 1190.1388 kJ; Lípidos 9.73 g; Gorduras saturadas 1.36 g; Hidratos de carbono 44.94 g; Açúcares 30.08 g; Fibra 1.03 g; Proteínas 3.74 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "Servido em prato"
+        },
+        "1212.10002": {
+          "label": "XL",
+          "description": "Uma combinação tradicional de pistácios, delícia turca de romã e kadayif.",
+          "weight": "1200 g",
+          "portion": "≈ 12 porções",
+          "ingredients": "Delícia turca (água, açúcar, amido de milho, pistácios (%20), regulador de acidez (ácido cítrico), conforme a variedade aroma de romã e corante (antocianina)), kadayif embebido em calda (farinha de trigo, água, manteiga clarificada, gordura vegetal hidrogenada, sumo de limão, açúcar).",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 284.45 kcal / 1190.1388 kJ; Lípidos 9.73 g; Gorduras saturadas 1.36 g; Hidratos de carbono 44.94 g; Açúcares 30.08 g; Fibra 1.03 g; Proteínas 3.74 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "XL Caixa metálica de baklava\nDimensões da caixa: 345 × 225 × 45 mm"
+        },
+        "1212.10003": {
+          "label": "L",
+          "description": "Uma combinação tradicional de pistácios, delícia turca de romã e kadayif.",
+          "weight": "800 g",
+          "portion": "≈ 8 porções",
+          "ingredients": "Delícia turca (água, açúcar, amido de milho, pistácios (%20), regulador de acidez (ácido cítrico), conforme a variedade aroma de romã e corante (antocianina)), kadayif embebido em calda (farinha de trigo, água, manteiga clarificada, gordura vegetal hidrogenada, sumo de limão, açúcar).",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 284.45 kcal / 1190.1388 kJ; Lípidos 9.73 g; Gorduras saturadas 1.36 g; Hidratos de carbono 44.94 g; Açúcares 30.08 g; Fibra 1.03 g; Proteínas 3.74 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "L Caixa metálica de baklava\nDimensões da caixa: 265 × 175 × 45 mm"
+        },
+        "1212.10004": {
+          "label": "M",
+          "description": "Uma combinação tradicional de pistácios, delícia turca de romã e kadayif.",
+          "weight": "400 g",
+          "portion": "≈ 4 porções",
+          "ingredients": "Delícia turca (água, açúcar, amido de milho, pistácios (%20), regulador de acidez (ácido cítrico), conforme a variedade aroma de romã e corante (antocianina)), kadayif embebido em calda (farinha de trigo, água, manteiga clarificada, gordura vegetal hidrogenada, sumo de limão, açúcar).",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 284.45 kcal / 1190.1388 kJ; Lípidos 9.73 g; Gorduras saturadas 1.36 g; Hidratos de carbono 44.94 g; Açúcares 30.08 g; Fibra 1.03 g; Proteínas 3.74 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "M Caixa metálica de baklava\nDimensões da caixa: 270 × 180 × 45 mm"
+        },
+        "1212.10005": {
+          "label": "S",
+          "description": "Uma combinação tradicional de pistácios, delícia turca de romã e kadayif.",
+          "weight": "200 g",
+          "portion": "≈ 2 porções",
+          "ingredients": "Delícia turca (água, açúcar, amido de milho, pistácios (%20), regulador de acidez (ácido cítrico), conforme a variedade aroma de romã e corante (antocianina)), kadayif embebido em calda (farinha de trigo, água, manteiga clarificada, gordura vegetal hidrogenada, sumo de limão, açúcar).",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 284.45 kcal / 1190.1388 kJ; Lípidos 9.73 g; Gorduras saturadas 1.36 g; Hidratos de carbono 44.94 g; Açúcares 30.08 g; Fibra 1.03 g; Proteínas 3.74 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "S Caixa metálica de baklava\nDimensões da caixa: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1211100": {
+      "name": "Kadayif do Palácio Otomano — noz",
+      "description": "Uma combinação gourmet de nozes e kadayif, preparada com mestria.",
+      "ingredients": "água, farinha de trigo, açúcar, nozes, óleo vegetal, manteiga clarificada, sumo de limão.",
+      "allergenInfo": "glúten (trigo), leite e produtos lácteos, nozes. Pode conter vestígios de: pistácios, porque na mesma linha se fabricam produtos que contêm pistácios.",
+      "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+      "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+      "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 423.34 kcal / 1771.25456 kJ; Lípidos 26.9 g; Gorduras saturadas 3.31 g; Hidratos de carbono 36.4 g; Açúcares 25.52 g; Fibra 2.34 g; Proteínas 7.7 g; Sal 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1211.10001": {
+          "label": "Servido em prato",
+          "description": "Uma combinação gourmet de nozes e kadayif, preparada com mestria.",
+          "weight": "100 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "água, farinha de trigo, açúcar, nozes, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, nozes. Pode conter vestígios de: pistácios, porque na mesma linha se fabricam produtos que contêm pistácios.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 423.34 kcal / 1771.25456 kJ; Lípidos 26.9 g; Gorduras saturadas 3.31 g; Hidratos de carbono 36.4 g; Açúcares 25.52 g; Fibra 2.34 g; Proteínas 7.7 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "Servido em prato"
+        },
+        "1211.10002": {
+          "label": "XL",
+          "description": "Uma combinação gourmet de nozes e kadayif, preparada com mestria.",
+          "weight": "1200 g",
+          "portion": "≈ 12 porções",
+          "ingredients": "água, farinha de trigo, açúcar, nozes, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, nozes. Pode conter vestígios de: pistácios, porque na mesma linha se fabricam produtos que contêm pistácios.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 423.34 kcal / 1771.25456 kJ; Lípidos 26.9 g; Gorduras saturadas 3.31 g; Hidratos de carbono 36.4 g; Açúcares 25.52 g; Fibra 2.34 g; Proteínas 7.7 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "XL Caixa metálica de baklava\nDimensões da caixa: 345 × 225 × 45 mm"
+        },
+        "1211.10003": {
+          "label": "L",
+          "description": "Uma combinação gourmet de nozes e kadayif, preparada com mestria.",
+          "weight": "800 g",
+          "portion": "≈ 8 porções",
+          "ingredients": "água, farinha de trigo, açúcar, nozes, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, nozes. Pode conter vestígios de: pistácios, porque na mesma linha se fabricam produtos que contêm pistácios.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 423.34 kcal / 1771.25456 kJ; Lípidos 26.9 g; Gorduras saturadas 3.31 g; Hidratos de carbono 36.4 g; Açúcares 25.52 g; Fibra 2.34 g; Proteínas 7.7 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "L Caixa metálica de baklava\nDimensões da caixa: 265 × 175 × 45 mm"
+        },
+        "1211.10004": {
+          "label": "M",
+          "description": "Uma combinação gourmet de nozes e kadayif, preparada com mestria.",
+          "weight": "400 g",
+          "portion": "≈ 4 porções",
+          "ingredients": "água, farinha de trigo, açúcar, nozes, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, nozes. Pode conter vestígios de: pistácios, porque na mesma linha se fabricam produtos que contêm pistácios.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 423.34 kcal / 1771.25456 kJ; Lípidos 26.9 g; Gorduras saturadas 3.31 g; Hidratos de carbono 36.4 g; Açúcares 25.52 g; Fibra 2.34 g; Proteínas 7.7 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "M Caixa metálica de baklava\nDimensões da caixa: 270 × 180 × 45 mm"
+        },
+        "1211.10005": {
+          "label": "S",
+          "description": "Uma combinação gourmet de nozes e kadayif, preparada com mestria.",
+          "weight": "200 g",
+          "portion": "≈ 2 porções",
+          "ingredients": "água, farinha de trigo, açúcar, nozes, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, nozes. Pode conter vestígios de: pistácios, porque na mesma linha se fabricam produtos que contêm pistácios.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 423.34 kcal / 1771.25456 kJ; Lípidos 26.9 g; Gorduras saturadas 3.31 g; Hidratos de carbono 36.4 g; Açúcares 25.52 g; Fibra 2.34 g; Proteínas 7.7 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "S Caixa metálica de baklava\nDimensões da caixa: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210104": {
+      "name": "Kadayif do Palácio Otomano — pistácio",
+      "description": "Um festim de kadayif rico e pistácios generosos.",
+      "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+      "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+      "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+      "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+      "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 401 kcal / 1677.784 kJ; Lípidos 23.34 g; Gorduras saturadas 1.2 g; Hidratos de carbono 37.1 g; Açúcares 21.2 g; Fibra 3.89 g; Proteínas 8.5 g; Sal 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10401": {
+          "label": "Servido em prato",
+          "description": "Um festim de kadayif rico e pistácios generosos.",
+          "weight": "100 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 401 kcal / 1677.784 kJ; Lípidos 23.34 g; Gorduras saturadas 1.2 g; Hidratos de carbono 37.1 g; Açúcares 21.2 g; Fibra 3.89 g; Proteínas 8.5 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "Servido em prato"
+        },
+        "1210.10402": {
+          "label": "XL",
+          "description": "Um festim de kadayif rico e pistácios generosos.",
+          "weight": "1200 g",
+          "portion": "≈ 12 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 401 kcal / 1677.784 kJ; Lípidos 23.34 g; Gorduras saturadas 1.2 g; Hidratos de carbono 37.1 g; Açúcares 21.2 g; Fibra 3.89 g; Proteínas 8.5 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "XL Caixa metálica de baklava\nDimensões da caixa: 345 × 225 × 45 mm"
+        },
+        "1210.10403": {
+          "label": "L",
+          "description": "Um festim de kadayif rico e pistácios generosos.",
+          "weight": "800 g",
+          "portion": "≈ 8 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 401 kcal / 1677.784 kJ; Lípidos 23.34 g; Gorduras saturadas 1.2 g; Hidratos de carbono 37.1 g; Açúcares 21.2 g; Fibra 3.89 g; Proteínas 8.5 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "L Caixa metálica de baklava\nDimensões da caixa: 265 × 175 × 45 mm"
+        },
+        "1210.10404": {
+          "label": "M",
+          "description": "Um festim de kadayif rico e pistácios generosos.",
+          "weight": "400 g",
+          "portion": "≈ 4 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 401 kcal / 1677.784 kJ; Lípidos 23.34 g; Gorduras saturadas 1.2 g; Hidratos de carbono 37.1 g; Açúcares 21.2 g; Fibra 3.89 g; Proteínas 8.5 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "M Caixa metálica de baklava\nDimensões da caixa: 270 × 180 × 45 mm"
+        },
+        "1210.10405": {
+          "label": "S",
+          "description": "Um festim de kadayif rico e pistácios generosos.",
+          "weight": "200 g",
+          "portion": "≈ 2 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 401 kcal / 1677.784 kJ; Lípidos 23.34 g; Gorduras saturadas 1.2 g; Hidratos de carbono 37.1 g; Açúcares 21.2 g; Fibra 3.89 g; Proteínas 8.5 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "S Caixa metálica de baklava\nDimensões da caixa: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210103": {
+      "name": "Kadayif Antep Burma — pistácio",
+      "description": "Uma viagem de sabores com pistácios especiais envolvidos em kadayif.",
+      "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+      "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+      "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+      "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+      "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 338.5 kcal / 1416.284 kJ; Lípidos 16 g; Gorduras saturadas 0.16 g; Hidratos de carbono 41.91 g; Açúcares 24.4 g; Fibra 1.8 g; Proteínas 5.7 g; Sal 0.04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10301": {
+          "label": "Servido em prato",
+          "description": "Uma viagem de sabores com pistácios especiais envolvidos em kadayif.",
+          "weight": "62.5 g",
+          "portion": "Menos de 1 porção",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 338.5 kcal / 1416.284 kJ; Lípidos 16 g; Gorduras saturadas 0.16 g; Hidratos de carbono 41.91 g; Açúcares 24.4 g; Fibra 1.8 g; Proteínas 5.7 g; Sal 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "Servido em prato"
+        },
+        "1210.10302": {
+          "label": "XL",
+          "description": "Uma viagem de sabores com pistácios especiais envolvidos em kadayif.",
+          "weight": "750 g",
+          "portion": "≈ 4 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 338.5 kcal / 1416.284 kJ; Lípidos 16 g; Gorduras saturadas 0.16 g; Hidratos de carbono 41.91 g; Açúcares 24.4 g; Fibra 1.8 g; Proteínas 5.7 g; Sal 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "XL Caixa metálica de baklava\nDimensões da caixa: 345 × 225 × 45 mm"
+        },
+        "1210.10303": {
+          "label": "L",
+          "description": "Uma viagem de sabores com pistácios especiais envolvidos em kadayif.",
+          "weight": "500 g",
+          "portion": "≈ 3 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 338.5 kcal / 1416.284 kJ; Lípidos 16 g; Gorduras saturadas 0.16 g; Hidratos de carbono 41.91 g; Açúcares 24.4 g; Fibra 1.8 g; Proteínas 5.7 g; Sal 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "L Caixa metálica de baklava\nDimensões da caixa: 265 × 175 × 45 mm"
+        },
+        "1210.10304": {
+          "label": "M",
+          "description": "Uma viagem de sabores com pistácios especiais envolvidos em kadayif.",
+          "weight": "250 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 338.5 kcal / 1416.284 kJ; Lípidos 16 g; Gorduras saturadas 0.16 g; Hidratos de carbono 41.91 g; Açúcares 24.4 g; Fibra 1.8 g; Proteínas 5.7 g; Sal 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "M Caixa metálica de baklava\nDimensões da caixa: 270 × 180 × 45 mm"
+        },
+        "1210.10305": {
+          "label": "S",
+          "description": "Uma viagem de sabores com pistácios especiais envolvidos em kadayif.",
+          "weight": "125 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 338.5 kcal / 1416.284 kJ; Lípidos 16 g; Gorduras saturadas 0.16 g; Hidratos de carbono 41.91 g; Açúcares 24.4 g; Fibra 1.8 g; Proteínas 5.7 g; Sal 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "S Caixa metálica de baklava\nDimensões da caixa: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210102": {
+      "name": "Kadayif Alepo Burma — pistácio",
+      "description": "Pistácios de colheita especial envolvidos em delicioso kadayif.",
+      "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, sumo de limão.",
+      "allergenInfo": "glúten (trigo), pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+      "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+      "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+      "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 389.5 kcal / 1629.668 kJ; Lípidos 23.2 g; Gorduras saturadas 4.79 g; Hidratos de carbono 36.73 g; Açúcares 18.8 g; Fibra 2.69 g; Proteínas 7.06 g; Sal 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10201": {
+          "label": "Servido em prato",
+          "description": "Pistácios de colheita especial envolvidos em delicioso kadayif.",
+          "weight": "170 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, sumo de limão.",
+          "allergenInfo": "glúten (trigo), pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 389.5 kcal / 1629.668 kJ; Lípidos 23.2 g; Gorduras saturadas 4.79 g; Hidratos de carbono 36.73 g; Açúcares 18.8 g; Fibra 2.69 g; Proteínas 7.06 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "Servido em prato"
+        },
+        "1210.10202": {
+          "label": "XL",
+          "description": "Pistácios de colheita especial envolvidos em delicioso kadayif.",
+          "weight": "2040 g",
+          "portion": "≈ 12 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, sumo de limão.",
+          "allergenInfo": "glúten (trigo), pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 389.5 kcal / 1629.668 kJ; Lípidos 23.2 g; Gorduras saturadas 4.79 g; Hidratos de carbono 36.73 g; Açúcares 18.8 g; Fibra 2.69 g; Proteínas 7.06 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "XL Caixa metálica de baklava\nDimensões da caixa: 345 × 225 × 45 mm"
+        },
+        "1210.10203": {
+          "label": "L",
+          "description": "Pistácios de colheita especial envolvidos em delicioso kadayif.",
+          "weight": "1360 g",
+          "portion": "≈ 8 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, sumo de limão.",
+          "allergenInfo": "glúten (trigo), pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 389.5 kcal / 1629.668 kJ; Lípidos 23.2 g; Gorduras saturadas 4.79 g; Hidratos de carbono 36.73 g; Açúcares 18.8 g; Fibra 2.69 g; Proteínas 7.06 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "L Caixa metálica de baklava\nDimensões da caixa: 265 × 175 × 45 mm"
+        },
+        "1210.10204": {
+          "label": "M",
+          "description": "Pistácios de colheita especial envolvidos em delicioso kadayif.",
+          "weight": "680 g",
+          "portion": "≈ 4 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, sumo de limão.",
+          "allergenInfo": "glúten (trigo), pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 389.5 kcal / 1629.668 kJ; Lípidos 23.2 g; Gorduras saturadas 4.79 g; Hidratos de carbono 36.73 g; Açúcares 18.8 g; Fibra 2.69 g; Proteínas 7.06 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "M Caixa metálica de baklava\nDimensões da caixa: 270 × 180 × 45 mm"
+        },
+        "1210.10205": {
+          "label": "S",
+          "description": "Pistácios de colheita especial envolvidos em delicioso kadayif.",
+          "weight": "340 g",
+          "portion": "≈ 2 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, sumo de limão.",
+          "allergenInfo": "glúten (trigo), pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 389.5 kcal / 1629.668 kJ; Lípidos 23.2 g; Gorduras saturadas 4.79 g; Hidratos de carbono 36.73 g; Açúcares 18.8 g; Fibra 2.69 g; Proteínas 7.06 g; Sal 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "S Caixa metálica de baklava\nDimensões da caixa: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210101": {
+      "name": "Kadayif Sultaniye — pistácio",
+      "description": "Um sonho de kadayif macio e crocante, coberto de pistácios.",
+      "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+      "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+      "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+      "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+      "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 348.3 kcal / 1457.2872 kJ; Lípidos 16.41 g; Gorduras saturadas 2.28 g; Hidratos de carbono 44.61 g; Açúcares 31.12 g; Fibra 1.64 g; Proteínas 4.71 g; Sal 0.03 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10101": {
+          "label": "XL",
+          "description": "Um sonho de kadayif macio e crocante, coberto de pistácios.",
+          "weight": "2400 g",
+          "portion": "≈ 12 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 348.3 kcal / 1457.2872 kJ; Lípidos 16.41 g; Gorduras saturadas 2.28 g; Hidratos de carbono 44.61 g; Açúcares 31.12 g; Fibra 1.64 g; Proteínas 4.71 g; Sal 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "XL Caixa metálica de baklava\nDimensões da caixa: 345 × 225 × 45 mm"
+        },
+        "1210.10102": {
+          "label": "L",
+          "description": "Um sonho de kadayif macio e crocante, coberto de pistácios.",
+          "weight": "1600 g",
+          "portion": "≈ 8 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 348.3 kcal / 1457.2872 kJ; Lípidos 16.41 g; Gorduras saturadas 2.28 g; Hidratos de carbono 44.61 g; Açúcares 31.12 g; Fibra 1.64 g; Proteínas 4.71 g; Sal 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "L Caixa metálica de baklava\nDimensões da caixa: 265 × 175 × 45 mm"
+        },
+        "1210.10103": {
+          "label": "M",
+          "description": "Um sonho de kadayif macio e crocante, coberto de pistácios.",
+          "weight": "800 g",
+          "portion": "≈ 4 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 348.3 kcal / 1457.2872 kJ; Lípidos 16.41 g; Gorduras saturadas 2.28 g; Hidratos de carbono 44.61 g; Açúcares 31.12 g; Fibra 1.64 g; Proteínas 4.71 g; Sal 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "M Caixa metálica de baklava\nDimensões da caixa: 270 × 180 × 45 mm"
+        },
+        "1210.10104": {
+          "label": "S",
+          "description": "Um sonho de kadayif macio e crocante, coberto de pistácios.",
+          "weight": "400 g",
+          "portion": "≈ 2 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 348.3 kcal / 1457.2872 kJ; Lípidos 16.41 g; Gorduras saturadas 2.28 g; Hidratos de carbono 44.61 g; Açúcares 31.12 g; Fibra 1.64 g; Proteínas 4.71 g; Sal 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "S Caixa metálica de baklava\nDimensões da caixa: 195 × 145 × 45 mm"
+        },
+        "1210.10105": {
+          "label": "Fatia",
+          "description": "Um sonho de kadayif macio e crocante, coberto de pistácios.",
+          "weight": "200 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 348.3 kcal / 1457.2872 kJ; Lípidos 16.41 g; Gorduras saturadas 2.28 g; Hidratos de carbono 44.61 g; Açúcares 31.12 g; Fibra 1.64 g; Proteínas 4.71 g; Sal 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "Servido em prato"
+        }
+      }
+    },
+    "usta-1210100": {
+      "name": "Kadayif — pistácio",
+      "description": "Uma sinfonia de kadayif e pistácios de colheita precoce.",
+      "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+      "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+      "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+      "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+      "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+      "nutrition": {
+        "basis": "Por 100 g",
+        "values": [],
+        "summary": "Por 100 g: Energia 353.33 kcal / 1478.33272 kJ; Lípidos 17.33 g; Gorduras saturadas 3.1 g; Hidratos de carbono 44.63 g; Açúcares 30.9 g; Fibra 1.2 g; Proteínas 4 g; Sal 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10001": {
+          "label": "Servido em prato",
+          "description": "Uma sinfonia de kadayif e pistácios de colheita precoce.",
+          "weight": "166.6 g",
+          "portion": "≈ 1 porção",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 353.33 kcal / 1478.33272 kJ; Lípidos 17.33 g; Gorduras saturadas 3.1 g; Hidratos de carbono 44.63 g; Açúcares 30.9 g; Fibra 1.2 g; Proteínas 4 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "Servido em prato"
+        },
+        "1210.10002": {
+          "label": "XL",
+          "description": "Uma sinfonia de kadayif e pistácios de colheita precoce.",
+          "weight": "1999.2 g",
+          "portion": "≈ 12 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 353.33 kcal / 1478.33272 kJ; Lípidos 17.33 g; Gorduras saturadas 3.1 g; Hidratos de carbono 44.63 g; Açúcares 30.9 g; Fibra 1.2 g; Proteínas 4 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "XL Caixa metálica de baklava\nDimensões da caixa: 345 × 225 × 45 mm"
+        },
+        "1210.10003": {
+          "label": "L",
+          "description": "Uma sinfonia de kadayif e pistácios de colheita precoce.",
+          "weight": "1332.8 g",
+          "portion": "≈ 8 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 353.33 kcal / 1478.33272 kJ; Lípidos 17.33 g; Gorduras saturadas 3.1 g; Hidratos de carbono 44.63 g; Açúcares 30.9 g; Fibra 1.2 g; Proteínas 4 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "L Caixa metálica de baklava\nDimensões da caixa: 265 × 175 × 45 mm"
+        },
+        "1210.10004": {
+          "label": "M",
+          "description": "Uma sinfonia de kadayif e pistácios de colheita precoce.",
+          "weight": "666.4 g",
+          "portion": "≈ 4 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 353.33 kcal / 1478.33272 kJ; Lípidos 17.33 g; Gorduras saturadas 3.1 g; Hidratos de carbono 44.63 g; Açúcares 30.9 g; Fibra 1.2 g; Proteínas 4 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "M Caixa metálica de baklava\nDimensões da caixa: 270 × 180 × 45 mm"
+        },
+        "1210.10005": {
+          "label": "S",
+          "description": "Uma sinfonia de kadayif e pistácios de colheita precoce.",
+          "weight": "333.2 g",
+          "portion": "≈ 2 porções",
+          "ingredients": "água, farinha de trigo, açúcar, pistácios, óleo vegetal, manteiga clarificada, sumo de limão.",
+          "allergenInfo": "glúten (trigo), leite e produtos lácteos, pistácios. Pode conter vestígios de: nozes, porque na mesma linha se fabricam produtos que contêm nozes.",
+          "nutrition": {
+            "basis": "Por 100 g",
+            "values": [],
+            "summary": "Por 100 g: Energia 353.33 kcal / 1478.33272 kJ; Lípidos 17.33 g; Gorduras saturadas 3.1 g; Hidratos de carbono 44.63 g; Açúcares 30.9 g; Fibra 1.2 g; Proteínas 4 g; Sal 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conservar num local fresco e seco, ao abrigo da luz solar direta.\n\nPara consumo diário, recomenda-se evitar a refrigeração, pois pode alterar a consistência da calda.",
+          "storage": "Para o melhor sabor, consumir à temperatura ambiente.\n\nTambém pode aquecer ligeiramente no forno antes de servir.",
+          "longTermStorage": "Pode conservar os produtos no congelador a -18 °C durante um máximo de 30 dias.\n\nPara o melhor sabor, descongelar a +4 °C durante 2 horas e deixar repousar à temperatura ambiente durante 30 minutos antes de servir.  Descongelar diretamente à temperatura ambiente pode causar secura e perda de crocância.\n\nNão voltar a congelar produtos descongelados.",
+          "packaging": "S Caixa metálica de baklava\nDimensões da caixa: 195 × 145 × 45 mm"
+        }
+      }
+    }
+  }
 }

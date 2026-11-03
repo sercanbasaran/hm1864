@@ -5,7 +5,16 @@
     "en": "All {name}",
     "ar": "كل {name}",
     "de": "Alle {name}",
-    "it": "Tutti i prodotti: {name}"
+    "it": "Tutti i prodotti: {name}",
+    "fr": "Tous les produits : {name}",
+    "es": "Todos los productos: {name}",
+    "ru": "Все товары: {name}",
+    "zh-CN": "全部{name}",
+    "ja": "{name}をすべて見る",
+    "hi": "सभी {name}",
+    "ur": "تمام {name}",
+    "fa": "همهٔ {name}",
+    "pt": "Todos os produtos: {name}"
   },
   "categories": [
     {
@@ -149,7 +158,16 @@
         "en": "Our Stores",
         "ar": "متاجرنا",
         "de": "Unsere Filialen",
-        "it": "I nostri negozi"
+        "it": "I nostri negozi",
+        "fr": "Nos boutiques",
+        "es": "Nuestras tiendas",
+        "ru": "Наши магазины",
+        "zh-CN": "我们的门店",
+        "ja": "店舗一覧",
+        "hi": "हमारे स्टोर",
+        "ur": "ہمارے اسٹور",
+        "fa": "فروشگاه‌های ما",
+        "pt": "Nossas lojas"
       },
       "url": "/magazalar/index.html"
     },
@@ -161,7 +179,16 @@
         "en": "Contact",
         "ar": "اتصل بنا",
         "de": "Kontakt",
-        "it": "Contatti"
+        "it": "Contatti",
+        "fr": "Contact",
+        "es": "Contacto",
+        "ru": "Контакты",
+        "zh-CN": "联系我们",
+        "ja": "お問い合わせ",
+        "hi": "संपर्क",
+        "ur": "رابطہ",
+        "fa": "تماس با ما",
+        "pt": "Contato"
       },
       "url": "/iletisim/index.html"
     }

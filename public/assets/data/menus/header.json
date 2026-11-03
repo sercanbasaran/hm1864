@@ -9,7 +9,16 @@
         "en": "Our Stores",
         "ar": "متاجرنا",
         "de": "Unsere Filialen",
-        "it": "I nostri negozi"
+        "it": "I nostri negozi",
+        "fr": "Nos boutiques",
+        "es": "Nuestras tiendas",
+        "ru": "Наши магазины",
+        "zh-CN": "我们的门店",
+        "ja": "店舗一覧",
+        "hi": "हमारे स्टोर",
+        "ur": "ہمارے اسٹور",
+        "fa": "فروشگاه‌های ما",
+        "pt": "Nossas lojas"
       },
       "url": "/magazalar/index.html"
     },
@@ -21,7 +30,16 @@
         "en": "Contact",
         "ar": "اتصل بنا",
         "de": "Kontakt",
-        "it": "Contatti"
+        "it": "Contatti",
+        "fr": "Contact",
+        "es": "Contacto",
+        "ru": "Контакты",
+        "zh-CN": "联系我们",
+        "ja": "お問い合わせ",
+        "hi": "संपर्क",
+        "ur": "رابطہ",
+        "fa": "تماس با ما",
+        "pt": "Contato"
       },
       "url": "/iletisim/index.html",
       "className": "service-contact"
@@ -35,7 +53,17 @@
         "tr": "Menüyü aç",
         "en": "Open menu",
         "de": "Menü öffnen",
-        "it": "Apri il menu"
+        "it": "Apri il menu",
+        "ar": "افتح القائمة",
+        "fr": "Ouvrir le menu",
+        "es": "Abrir menú",
+        "ru": "Открыть меню",
+        "zh-CN": "打开菜单",
+        "ja": "メニューを開く",
+        "hi": "मेन्यू खोलें",
+        "ur": "مینو کھولیں",
+        "fa": "باز کردن منو",
+        "pt": "Abrir menu"
       },
       "action": "mobile",
       "icon": "menu",
@@ -48,7 +76,17 @@
         "tr": "Arama",
         "en": "Search",
         "de": "Suche",
-        "it": "Cerca"
+        "it": "Cerca",
+        "ar": "بحث",
+        "fr": "Rechercher",
+        "es": "Buscar",
+        "ru": "Поиск",
+        "zh-CN": "搜索",
+        "ja": "検索",
+        "hi": "खोजें",
+        "ur": "تلاش",
+        "fa": "جستجو",
+        "pt": "Buscar"
       },
       "action": "search",
       "icon": "search",
@@ -64,7 +102,16 @@
         "en": "My favorites",
         "ar": "المفضلة",
         "de": "Meine Favoriten",
-        "it": "I miei preferiti"
+        "it": "I miei preferiti",
+        "fr": "Mes favoris",
+        "es": "Mis favoritos",
+        "ru": "Избранное",
+        "zh-CN": "我的收藏",
+        "ja": "お気に入り",
+        "hi": "मेरे पसंदीदा",
+        "ur": "میرے پسندیدہ",
+        "fa": "علاقه‌مندی‌های من",
+        "pt": "Meus favoritos"
       },
       "url": "/hesabim/favorilerim.html",
       "icon": "heart",
@@ -77,7 +124,17 @@
         "tr": "Hesabım",
         "en": "My Account",
         "de": "Mein Konto",
-        "it": "Il mio account"
+        "it": "Il mio account",
+        "ar": "حسابي",
+        "fr": "Mon compte",
+        "es": "Mi cuenta",
+        "ru": "Мой аккаунт",
+        "zh-CN": "我的账户",
+        "ja": "マイアカウント",
+        "hi": "मेरा खाता",
+        "ur": "میرا اکاؤنٹ",
+        "fa": "حساب کاربری من",
+        "pt": "Minha conta"
       },
       "action": "profile",
       "icon": "user",
@@ -90,7 +147,17 @@
         "tr": "Sepetim",
         "en": "My Bag",
         "de": "Mein Warenkorb",
-        "it": "Il mio carrello"
+        "it": "Il mio carrello",
+        "ar": "سلتي",
+        "fr": "Mon panier",
+        "es": "Mi cesta",
+        "ru": "Моя корзина",
+        "zh-CN": "我的购物车",
+        "ja": "カート",
+        "hi": "मेरी टोकरी",
+        "ur": "میری ٹوکری",
+        "fa": "سبد خرید من",
+        "pt": "Meu carrinho"
       },
       "action": "cart",
       "icon": "bag",
@@ -106,7 +173,16 @@
         "en": "ALL MENU",
         "ar": "القائمة الكاملة",
         "de": "GESAMTES MENÜ",
-        "it": "MENU COMPLETO"
+        "it": "MENU COMPLETO",
+        "fr": "MENU COMPLET",
+        "es": "MENÚ COMPLETO",
+        "ru": "ВСЁ МЕНЮ",
+        "zh-CN": "完整菜单",
+        "ja": "すべてのメニュー",
+        "hi": "पूरा मेन्यू",
+        "ur": "مکمل مینو",
+        "fa": "منوی کامل",
+        "pt": "MENU COMPLETO"
       }
     },
     {
@@ -133,7 +209,17 @@
         "tr": "PIERRE LOTI SEÇKİSİ",
         "en": "PIERRE LOTI SELECTION",
         "de": "PIERRE-LOTI-AUSWAHL",
-        "it": "SELEZIONE PIERRE LOTI"
+        "it": "SELEZIONE PIERRE LOTI",
+        "ar": "مختارات بيير لوتي",
+        "fr": "SÉLECTION PIERRE LOTI",
+        "es": "SELECCIÓN PIERRE LOTI",
+        "ru": "КОЛЛЕКЦИЯ ПЬЕРА ЛОТИ",
+        "zh-CN": "皮埃尔·洛蒂精选",
+        "ja": "ピエール・ロティ セレクション",
+        "hi": "पियरे लोती चयन",
+        "ur": "پیئر لوٹی کا انتخاب",
+        "fa": "گزیدهٔ پیر لوتی",
+        "pt": "SELEÇÃO PIERRE LOTI"
       },
       "url": "/koleksiyonlar/pierre-loti-seckisi/index.html"
     },
@@ -144,7 +230,17 @@
         "tr": "LALE SEÇKİSİ",
         "en": "TULIP SELECTION",
         "de": "TULPEN-AUSWAHL",
-        "it": "SELEZIONE TULIPANO"
+        "it": "SELEZIONE TULIPANO",
+        "ar": "مختارات التوليب",
+        "fr": "SÉLECTION TULIPE",
+        "es": "SELECCIÓN TULIPÁN",
+        "ru": "КОЛЛЕКЦИЯ «ТЮЛЬПАН»",
+        "zh-CN": "郁金香精选",
+        "ja": "チューリップ セレクション",
+        "hi": "ट्यूलिप चयन",
+        "ur": "لالہ کا انتخاب",
+        "fa": "گزیدهٔ لاله",
+        "pt": "SELEÇÃO TULIPA"
       },
       "url": "/koleksiyonlar/lale-seckisi/index.html"
     },
@@ -155,7 +251,17 @@
         "tr": "HAYDARPAŞA SEÇKİSİ",
         "en": "HAYDARPAŞA SELECTION",
         "de": "HAYDARPAŞA-AUSWAHL",
-        "it": "SELEZIONE HAYDARPAŞA"
+        "it": "SELEZIONE HAYDARPAŞA",
+        "ar": "مختارات حيدر باشا",
+        "fr": "SÉLECTION HAYDARPAŞA",
+        "es": "SELECCIÓN HAYDARPAŞA",
+        "ru": "КОЛЛЕКЦИЯ «ХАЙДАРПАША»",
+        "zh-CN": "海达尔帕夏精选",
+        "ja": "ハイダルパシャ セレクション",
+        "hi": "हैदरपाशा चयन",
+        "ur": "حیدرپاشا کا انتخاب",
+        "fa": "گزیدهٔ حیدرپاشا",
+        "pt": "SELEÇÃO HAYDARPAŞA"
       },
       "url": "/koleksiyonlar/haydarpasa-seckisi/index.html"
     },
@@ -166,7 +272,17 @@
         "tr": "SARAY SEÇKİSİ",
         "en": "PALACE SELECTION",
         "de": "PALAST-AUSWAHL",
-        "it": "SELEZIONE PALAZZO"
+        "it": "SELEZIONE PALAZZO",
+        "ar": "مختارات القصر",
+        "fr": "SÉLECTION PALAIS",
+        "es": "SELECCIÓN PALACIO",
+        "ru": "КОЛЛЕКЦИЯ «ДВОРЕЦ»",
+        "zh-CN": "宫殿精选",
+        "ja": "宮殿セレクション",
+        "hi": "महल चयन",
+        "ur": "محل کا انتخاب",
+        "fa": "گزیدهٔ کاخ",
+        "pt": "SELEÇÃO PALÁCIO"
       },
       "url": "/koleksiyonlar/saray-seckisi/index.html"
     },
@@ -177,7 +293,17 @@
         "tr": "AYASOFYA SEÇKİSİ",
         "en": "HAGIA SOPHIA SELECTION",
         "de": "HAGIA-SOPHIA-AUSWAHL",
-        "it": "SELEZIONE SANTA SOFIA"
+        "it": "SELEZIONE SANTA SOFIA",
+        "ar": "مختارات آيا صوفيا",
+        "fr": "SÉLECTION SAINTE-SOPHIE",
+        "es": "SELECCIÓN SANTA SOFÍA",
+        "ru": "КОЛЛЕКЦИЯ «АЙЯ-СОФИЯ»",
+        "zh-CN": "圣索菲亚精选",
+        "ja": "アヤソフィア セレクション",
+        "hi": "हागिया सोफ़िया चयन",
+        "ur": "آیا صوفیہ کا انتخاب",
+        "fa": "گزیدهٔ ایاصوفیه",
+        "pt": "SELEÇÃO SANTA SOFIA"
       },
       "url": "/koleksiyonlar/ayasofya-seckisi/index.html"
     }

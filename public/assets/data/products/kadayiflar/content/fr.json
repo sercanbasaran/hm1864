@@ -2,5 +2,967 @@
   "schemaVersion": 1,
   "categoryId": "kadayiflar",
   "language": "fr",
-  "products": {}
+  "products": {
+    "usta-1213102": {
+      "name": "Künefe",
+      "description": "Une création Hafız Mustafa 1864 associant kadayif croustillant et fromage.",
+      "ingredients": "eau, farine de blé, sucre, pistaches, fromage, huile végétale, jus de citron.",
+      "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+      "servingSuggestion": "Servir le künefe chaud pour préserver le fromage filant et le croustillant du kadayif. Agrémenter de pistaches et accompagner de kaymak ou de glace nature selon les envies.",
+      "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+      "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 298 kcal / 1246.832 kJ; Lipides 6.42 g; Acides gras saturés 3.36 g; Glucides 58.43 g; Sucres 54.34 g; Fibres 0 g; Protéines 1.59 g; Sel 0.04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10201": {
+          "label": "Service à l’assiette",
+          "description": "Une création Hafız Mustafa 1864 associant kadayif croustillant et fromage.",
+          "weight": "240 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "eau, farine de blé, sucre, pistaches, fromage, huile végétale, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 298 kcal / 1246.832 kJ; Lipides 6.42 g; Acides gras saturés 3.36 g; Glucides 58.43 g; Sucres 54.34 g; Fibres 0 g; Protéines 1.59 g; Sel 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Servir le künefe chaud pour préserver le fromage filant et le croustillant du kadayif. Agrémenter de pistaches et accompagner de kaymak ou de glace nature selon les envies.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1213101": {
+      "name": "Künefe — miel",
+      "description": "Le miel rencontre kadayif et fromage dans une délicieuse association.",
+      "ingredients": "eau, farine de blé, sucre, beurre clarifié, pistaches, huile végétale, jus de citron.",
+      "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+      "servingSuggestion": "Servir le künefe chaud pour préserver le fromage filant et le croustillant du kadayif. Agrémenter de pistaches et accompagner de kaymak ou de glace nature selon les envies.",
+      "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+      "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 288 kcal / 1204.992 kJ; Lipides 4.61 g; Acides gras saturés 2.66 g; Glucides 59.67 g; Sucres 55.7 g; Fibres 0.23 g; Protéines 1.78 g; Sel 0.08 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10101": {
+          "label": "Service à l’assiette",
+          "description": "Le miel rencontre kadayif et fromage dans une délicieuse association.",
+          "weight": "240 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "eau, farine de blé, sucre, beurre clarifié, pistaches, huile végétale, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 288 kcal / 1204.992 kJ; Lipides 4.61 g; Acides gras saturés 2.66 g; Glucides 59.67 g; Sucres 55.7 g; Fibres 0.23 g; Protéines 1.78 g; Sel 0.08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Servir le künefe chaud pour préserver le fromage filant et le croustillant du kadayif. Agrémenter de pistaches et accompagner de kaymak ou de glace nature selon les envies.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1213100": {
+      "name": "Künefe — chocolat",
+      "description": "L’harmonie singulière du chocolat et du künefe.",
+      "ingredients": "eau, farine de blé, sucre, pistaches, fromage, poudre de cacao, poudre de chocolat noir, huile végétale, jus de citron.",
+      "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+      "servingSuggestion": "Servir le künefe chaud pour préserver le fromage filant et le croustillant du kadayif. Agrémenter de pistaches et accompagner de kaymak ou de glace nature selon les envies.",
+      "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+      "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 288 kcal / 1204.992 kJ; Lipides 4.61 g; Acides gras saturés 2.66 g; Glucides 59.67 g; Sucres 55.7 g; Fibres 0.23 g; Protéines 1.78 g; Sel 0.08 g.",
+        "note": ""
+      },
+      "variants": {
+        "1213.10001": {
+          "label": "Service à l’assiette",
+          "description": "L’harmonie singulière du chocolat et du künefe.",
+          "weight": "240 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "eau, farine de blé, sucre, pistaches, fromage, poudre de cacao, poudre de chocolat noir, huile végétale, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 288 kcal / 1204.992 kJ; Lipides 4.61 g; Acides gras saturés 2.66 g; Glucides 59.67 g; Sucres 55.7 g; Fibres 0.23 g; Protéines 1.78 g; Sel 0.08 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Servir le künefe chaud pour préserver le fromage filant et le croustillant du kadayif. Agrémenter de pistaches et accompagner de kaymak ou de glace nature selon les envies.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1212101": {
+      "name": "Kadayif du Palais ottoman au loukoum Sultan",
+      "description": "Une association primée de kadayif et de loukoum.",
+      "ingredients": "Loukoum (eau, sucre, amidon de maïs, correcteur d’acidité (acide citrique), pistaches (%14), selon la variété vanilline et extrait de saponaire), kadayif imbibé de sirop (farine de blé, eau, beurre clarifié, matière grasse végétale hydrogénée, jus de citron, sucre).",
+      "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+      "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+      "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+      "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 270 kcal / 1129.68 kJ; Lipides 9.51 g; Acides gras saturés 1.36 g; Glucides 41.9 g; Sucres 25.88 g; Fibres 0.9 g; Protéines 3.61 g; Sel 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10101": {
+          "label": "Service à l’assiette",
+          "description": "Une association primée de kadayif et de loukoum.",
+          "weight": "100 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "Loukoum (eau, sucre, amidon de maïs, correcteur d’acidité (acide citrique), pistaches (%14), selon la variété vanilline et extrait de saponaire), kadayif imbibé de sirop (farine de blé, eau, beurre clarifié, matière grasse végétale hydrogénée, jus de citron, sucre).",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 270 kcal / 1129.68 kJ; Lipides 9.51 g; Acides gras saturés 1.36 g; Glucides 41.9 g; Sucres 25.88 g; Fibres 0.9 g; Protéines 3.61 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "Service à l’assiette"
+        },
+        "1212.10102": {
+          "label": "XL",
+          "description": "Une association primée de kadayif et de loukoum.",
+          "weight": "1200 g",
+          "portion": "≈ 12 portions",
+          "ingredients": "Loukoum (eau, sucre, amidon de maïs, correcteur d’acidité (acide citrique), pistaches (%14), selon la variété vanilline et extrait de saponaire), kadayif imbibé de sirop (farine de blé, eau, beurre clarifié, matière grasse végétale hydrogénée, jus de citron, sucre).",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 270 kcal / 1129.68 kJ; Lipides 9.51 g; Acides gras saturés 1.36 g; Glucides 41.9 g; Sucres 25.88 g; Fibres 0.9 g; Protéines 3.61 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "XL Boîte métallique de baklavas\nDimensions de la boîte: 345 × 225 × 45 mm"
+        },
+        "1212.10103": {
+          "label": "L",
+          "description": "Une association primée de kadayif et de loukoum.",
+          "weight": "800 g",
+          "portion": "≈ 8 portions",
+          "ingredients": "Loukoum (eau, sucre, amidon de maïs, correcteur d’acidité (acide citrique), pistaches (%14), selon la variété vanilline et extrait de saponaire), kadayif imbibé de sirop (farine de blé, eau, beurre clarifié, matière grasse végétale hydrogénée, jus de citron, sucre).",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 270 kcal / 1129.68 kJ; Lipides 9.51 g; Acides gras saturés 1.36 g; Glucides 41.9 g; Sucres 25.88 g; Fibres 0.9 g; Protéines 3.61 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "L Boîte métallique de baklavas\nDimensions de la boîte: 265 × 175 × 45 mm"
+        },
+        "1212.10104": {
+          "label": "M",
+          "description": "Une association primée de kadayif et de loukoum.",
+          "weight": "400 g",
+          "portion": "≈ 4 portions",
+          "ingredients": "Loukoum (eau, sucre, amidon de maïs, correcteur d’acidité (acide citrique), pistaches (%14), selon la variété vanilline et extrait de saponaire), kadayif imbibé de sirop (farine de blé, eau, beurre clarifié, matière grasse végétale hydrogénée, jus de citron, sucre).",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 270 kcal / 1129.68 kJ; Lipides 9.51 g; Acides gras saturés 1.36 g; Glucides 41.9 g; Sucres 25.88 g; Fibres 0.9 g; Protéines 3.61 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "M Boîte métallique de baklavas\nDimensions de la boîte: 270 × 180 × 45 mm"
+        },
+        "1212.10105": {
+          "label": "S",
+          "description": "Une association primée de kadayif et de loukoum.",
+          "weight": "200 g",
+          "portion": "≈ 2 portions",
+          "ingredients": "Loukoum (eau, sucre, amidon de maïs, correcteur d’acidité (acide citrique), pistaches (%14), selon la variété vanilline et extrait de saponaire), kadayif imbibé de sirop (farine de blé, eau, beurre clarifié, matière grasse végétale hydrogénée, jus de citron, sucre).",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 270 kcal / 1129.68 kJ; Lipides 9.51 g; Acides gras saturés 1.36 g; Glucides 41.9 g; Sucres 25.88 g; Fibres 0.9 g; Protéines 3.61 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "S Boîte métallique de baklavas\nDimensions de la boîte: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1212100": {
+      "name": "Kadayif du Palais ottoman au loukoum à la grenade",
+      "description": "Une association traditionnelle de pistaches, de loukoum à la grenade et de kadayif.",
+      "ingredients": "Loukoum (eau, sucre, amidon de maïs, pistaches (%20), correcteur d’acidité (acide citrique), selon la variété arôme de grenade et colorant (anthocyanine)), kadayif imbibé de sirop (farine de blé, eau, beurre clarifié, matière grasse végétale hydrogénée, jus de citron, sucre).",
+      "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+      "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+      "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+      "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 284.45 kcal / 1190.1388 kJ; Lipides 9.73 g; Acides gras saturés 1.36 g; Glucides 44.94 g; Sucres 30.08 g; Fibres 1.03 g; Protéines 3.74 g; Sel 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1212.10001": {
+          "label": "Service à l’assiette",
+          "description": "Une association traditionnelle de pistaches, de loukoum à la grenade et de kadayif.",
+          "weight": "100 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "Loukoum (eau, sucre, amidon de maïs, pistaches (%20), correcteur d’acidité (acide citrique), selon la variété arôme de grenade et colorant (anthocyanine)), kadayif imbibé de sirop (farine de blé, eau, beurre clarifié, matière grasse végétale hydrogénée, jus de citron, sucre).",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 284.45 kcal / 1190.1388 kJ; Lipides 9.73 g; Acides gras saturés 1.36 g; Glucides 44.94 g; Sucres 30.08 g; Fibres 1.03 g; Protéines 3.74 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "Service à l’assiette"
+        },
+        "1212.10002": {
+          "label": "XL",
+          "description": "Une association traditionnelle de pistaches, de loukoum à la grenade et de kadayif.",
+          "weight": "1200 g",
+          "portion": "≈ 12 portions",
+          "ingredients": "Loukoum (eau, sucre, amidon de maïs, pistaches (%20), correcteur d’acidité (acide citrique), selon la variété arôme de grenade et colorant (anthocyanine)), kadayif imbibé de sirop (farine de blé, eau, beurre clarifié, matière grasse végétale hydrogénée, jus de citron, sucre).",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 284.45 kcal / 1190.1388 kJ; Lipides 9.73 g; Acides gras saturés 1.36 g; Glucides 44.94 g; Sucres 30.08 g; Fibres 1.03 g; Protéines 3.74 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "XL Boîte métallique de baklavas\nDimensions de la boîte: 345 × 225 × 45 mm"
+        },
+        "1212.10003": {
+          "label": "L",
+          "description": "Une association traditionnelle de pistaches, de loukoum à la grenade et de kadayif.",
+          "weight": "800 g",
+          "portion": "≈ 8 portions",
+          "ingredients": "Loukoum (eau, sucre, amidon de maïs, pistaches (%20), correcteur d’acidité (acide citrique), selon la variété arôme de grenade et colorant (anthocyanine)), kadayif imbibé de sirop (farine de blé, eau, beurre clarifié, matière grasse végétale hydrogénée, jus de citron, sucre).",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 284.45 kcal / 1190.1388 kJ; Lipides 9.73 g; Acides gras saturés 1.36 g; Glucides 44.94 g; Sucres 30.08 g; Fibres 1.03 g; Protéines 3.74 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "L Boîte métallique de baklavas\nDimensions de la boîte: 265 × 175 × 45 mm"
+        },
+        "1212.10004": {
+          "label": "M",
+          "description": "Une association traditionnelle de pistaches, de loukoum à la grenade et de kadayif.",
+          "weight": "400 g",
+          "portion": "≈ 4 portions",
+          "ingredients": "Loukoum (eau, sucre, amidon de maïs, pistaches (%20), correcteur d’acidité (acide citrique), selon la variété arôme de grenade et colorant (anthocyanine)), kadayif imbibé de sirop (farine de blé, eau, beurre clarifié, matière grasse végétale hydrogénée, jus de citron, sucre).",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 284.45 kcal / 1190.1388 kJ; Lipides 9.73 g; Acides gras saturés 1.36 g; Glucides 44.94 g; Sucres 30.08 g; Fibres 1.03 g; Protéines 3.74 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "M Boîte métallique de baklavas\nDimensions de la boîte: 270 × 180 × 45 mm"
+        },
+        "1212.10005": {
+          "label": "S",
+          "description": "Une association traditionnelle de pistaches, de loukoum à la grenade et de kadayif.",
+          "weight": "200 g",
+          "portion": "≈ 2 portions",
+          "ingredients": "Loukoum (eau, sucre, amidon de maïs, pistaches (%20), correcteur d’acidité (acide citrique), selon la variété arôme de grenade et colorant (anthocyanine)), kadayif imbibé de sirop (farine de blé, eau, beurre clarifié, matière grasse végétale hydrogénée, jus de citron, sucre).",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 284.45 kcal / 1190.1388 kJ; Lipides 9.73 g; Acides gras saturés 1.36 g; Glucides 44.94 g; Sucres 30.08 g; Fibres 1.03 g; Protéines 3.74 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "S Boîte métallique de baklavas\nDimensions de la boîte: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1211100": {
+      "name": "Kadayif du Palais ottoman — noix",
+      "description": "Une association gastronomique de noix et de kadayif, préparée avec savoir-faire.",
+      "ingredients": "eau, farine de blé, sucre, noix, huile végétale, beurre clarifié, jus de citron.",
+      "allergenInfo": "gluten (blé), lait et produits laitiers, noix. Peut contenir des traces de : pistaches, car des produits contenant pistaches sont fabriqués sur la même ligne.",
+      "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+      "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+      "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 423.34 kcal / 1771.25456 kJ; Lipides 26.9 g; Acides gras saturés 3.31 g; Glucides 36.4 g; Sucres 25.52 g; Fibres 2.34 g; Protéines 7.7 g; Sel 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1211.10001": {
+          "label": "Service à l’assiette",
+          "description": "Une association gastronomique de noix et de kadayif, préparée avec savoir-faire.",
+          "weight": "100 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "eau, farine de blé, sucre, noix, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, noix. Peut contenir des traces de : pistaches, car des produits contenant pistaches sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 423.34 kcal / 1771.25456 kJ; Lipides 26.9 g; Acides gras saturés 3.31 g; Glucides 36.4 g; Sucres 25.52 g; Fibres 2.34 g; Protéines 7.7 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "Service à l’assiette"
+        },
+        "1211.10002": {
+          "label": "XL",
+          "description": "Une association gastronomique de noix et de kadayif, préparée avec savoir-faire.",
+          "weight": "1200 g",
+          "portion": "≈ 12 portions",
+          "ingredients": "eau, farine de blé, sucre, noix, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, noix. Peut contenir des traces de : pistaches, car des produits contenant pistaches sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 423.34 kcal / 1771.25456 kJ; Lipides 26.9 g; Acides gras saturés 3.31 g; Glucides 36.4 g; Sucres 25.52 g; Fibres 2.34 g; Protéines 7.7 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "XL Boîte métallique de baklavas\nDimensions de la boîte: 345 × 225 × 45 mm"
+        },
+        "1211.10003": {
+          "label": "L",
+          "description": "Une association gastronomique de noix et de kadayif, préparée avec savoir-faire.",
+          "weight": "800 g",
+          "portion": "≈ 8 portions",
+          "ingredients": "eau, farine de blé, sucre, noix, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, noix. Peut contenir des traces de : pistaches, car des produits contenant pistaches sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 423.34 kcal / 1771.25456 kJ; Lipides 26.9 g; Acides gras saturés 3.31 g; Glucides 36.4 g; Sucres 25.52 g; Fibres 2.34 g; Protéines 7.7 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "L Boîte métallique de baklavas\nDimensions de la boîte: 265 × 175 × 45 mm"
+        },
+        "1211.10004": {
+          "label": "M",
+          "description": "Une association gastronomique de noix et de kadayif, préparée avec savoir-faire.",
+          "weight": "400 g",
+          "portion": "≈ 4 portions",
+          "ingredients": "eau, farine de blé, sucre, noix, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, noix. Peut contenir des traces de : pistaches, car des produits contenant pistaches sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 423.34 kcal / 1771.25456 kJ; Lipides 26.9 g; Acides gras saturés 3.31 g; Glucides 36.4 g; Sucres 25.52 g; Fibres 2.34 g; Protéines 7.7 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "M Boîte métallique de baklavas\nDimensions de la boîte: 270 × 180 × 45 mm"
+        },
+        "1211.10005": {
+          "label": "S",
+          "description": "Une association gastronomique de noix et de kadayif, préparée avec savoir-faire.",
+          "weight": "200 g",
+          "portion": "≈ 2 portions",
+          "ingredients": "eau, farine de blé, sucre, noix, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, noix. Peut contenir des traces de : pistaches, car des produits contenant pistaches sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 423.34 kcal / 1771.25456 kJ; Lipides 26.9 g; Acides gras saturés 3.31 g; Glucides 36.4 g; Sucres 25.52 g; Fibres 2.34 g; Protéines 7.7 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "S Boîte métallique de baklavas\nDimensions de la boîte: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210104": {
+      "name": "Kadayif du Palais ottoman — pistache",
+      "description": "Un festin de kadayif généreux et de pistaches abondantes.",
+      "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+      "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+      "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+      "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+      "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 401 kcal / 1677.784 kJ; Lipides 23.34 g; Acides gras saturés 1.2 g; Glucides 37.1 g; Sucres 21.2 g; Fibres 3.89 g; Protéines 8.5 g; Sel 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10401": {
+          "label": "Service à l’assiette",
+          "description": "Un festin de kadayif généreux et de pistaches abondantes.",
+          "weight": "100 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 401 kcal / 1677.784 kJ; Lipides 23.34 g; Acides gras saturés 1.2 g; Glucides 37.1 g; Sucres 21.2 g; Fibres 3.89 g; Protéines 8.5 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "Service à l’assiette"
+        },
+        "1210.10402": {
+          "label": "XL",
+          "description": "Un festin de kadayif généreux et de pistaches abondantes.",
+          "weight": "1200 g",
+          "portion": "≈ 12 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 401 kcal / 1677.784 kJ; Lipides 23.34 g; Acides gras saturés 1.2 g; Glucides 37.1 g; Sucres 21.2 g; Fibres 3.89 g; Protéines 8.5 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "XL Boîte métallique de baklavas\nDimensions de la boîte: 345 × 225 × 45 mm"
+        },
+        "1210.10403": {
+          "label": "L",
+          "description": "Un festin de kadayif généreux et de pistaches abondantes.",
+          "weight": "800 g",
+          "portion": "≈ 8 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 401 kcal / 1677.784 kJ; Lipides 23.34 g; Acides gras saturés 1.2 g; Glucides 37.1 g; Sucres 21.2 g; Fibres 3.89 g; Protéines 8.5 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "L Boîte métallique de baklavas\nDimensions de la boîte: 265 × 175 × 45 mm"
+        },
+        "1210.10404": {
+          "label": "M",
+          "description": "Un festin de kadayif généreux et de pistaches abondantes.",
+          "weight": "400 g",
+          "portion": "≈ 4 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 401 kcal / 1677.784 kJ; Lipides 23.34 g; Acides gras saturés 1.2 g; Glucides 37.1 g; Sucres 21.2 g; Fibres 3.89 g; Protéines 8.5 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "M Boîte métallique de baklavas\nDimensions de la boîte: 270 × 180 × 45 mm"
+        },
+        "1210.10405": {
+          "label": "S",
+          "description": "Un festin de kadayif généreux et de pistaches abondantes.",
+          "weight": "200 g",
+          "portion": "≈ 2 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 401 kcal / 1677.784 kJ; Lipides 23.34 g; Acides gras saturés 1.2 g; Glucides 37.1 g; Sucres 21.2 g; Fibres 3.89 g; Protéines 8.5 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "S Boîte métallique de baklavas\nDimensions de la boîte: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210103": {
+      "name": "Kadayif Antep Burma — pistache",
+      "description": "Un voyage gourmand autour de pistaches de choix enveloppées de kadayif.",
+      "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+      "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+      "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+      "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+      "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 338.5 kcal / 1416.284 kJ; Lipides 16 g; Acides gras saturés 0.16 g; Glucides 41.91 g; Sucres 24.4 g; Fibres 1.8 g; Protéines 5.7 g; Sel 0.04 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10301": {
+          "label": "Service à l’assiette",
+          "description": "Un voyage gourmand autour de pistaches de choix enveloppées de kadayif.",
+          "weight": "62.5 g",
+          "portion": "Moins de 1 portion",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 338.5 kcal / 1416.284 kJ; Lipides 16 g; Acides gras saturés 0.16 g; Glucides 41.91 g; Sucres 24.4 g; Fibres 1.8 g; Protéines 5.7 g; Sel 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "Service à l’assiette"
+        },
+        "1210.10302": {
+          "label": "XL",
+          "description": "Un voyage gourmand autour de pistaches de choix enveloppées de kadayif.",
+          "weight": "750 g",
+          "portion": "≈ 4 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 338.5 kcal / 1416.284 kJ; Lipides 16 g; Acides gras saturés 0.16 g; Glucides 41.91 g; Sucres 24.4 g; Fibres 1.8 g; Protéines 5.7 g; Sel 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "XL Boîte métallique de baklavas\nDimensions de la boîte: 345 × 225 × 45 mm"
+        },
+        "1210.10303": {
+          "label": "L",
+          "description": "Un voyage gourmand autour de pistaches de choix enveloppées de kadayif.",
+          "weight": "500 g",
+          "portion": "≈ 3 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 338.5 kcal / 1416.284 kJ; Lipides 16 g; Acides gras saturés 0.16 g; Glucides 41.91 g; Sucres 24.4 g; Fibres 1.8 g; Protéines 5.7 g; Sel 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "L Boîte métallique de baklavas\nDimensions de la boîte: 265 × 175 × 45 mm"
+        },
+        "1210.10304": {
+          "label": "M",
+          "description": "Un voyage gourmand autour de pistaches de choix enveloppées de kadayif.",
+          "weight": "250 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 338.5 kcal / 1416.284 kJ; Lipides 16 g; Acides gras saturés 0.16 g; Glucides 41.91 g; Sucres 24.4 g; Fibres 1.8 g; Protéines 5.7 g; Sel 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "M Boîte métallique de baklavas\nDimensions de la boîte: 270 × 180 × 45 mm"
+        },
+        "1210.10305": {
+          "label": "S",
+          "description": "Un voyage gourmand autour de pistaches de choix enveloppées de kadayif.",
+          "weight": "125 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 338.5 kcal / 1416.284 kJ; Lipides 16 g; Acides gras saturés 0.16 g; Glucides 41.91 g; Sucres 24.4 g; Fibres 1.8 g; Protéines 5.7 g; Sel 0.04 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "S Boîte métallique de baklavas\nDimensions de la boîte: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210102": {
+      "name": "Kadayif Alep Burma — pistache",
+      "description": "Des pistaches de récolte spéciale enveloppées de délicieux kadayif.",
+      "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, jus de citron.",
+      "allergenInfo": "gluten (blé), pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+      "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+      "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+      "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 389.5 kcal / 1629.668 kJ; Lipides 23.2 g; Acides gras saturés 4.79 g; Glucides 36.73 g; Sucres 18.8 g; Fibres 2.69 g; Protéines 7.06 g; Sel 0.02 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10201": {
+          "label": "Service à l’assiette",
+          "description": "Des pistaches de récolte spéciale enveloppées de délicieux kadayif.",
+          "weight": "170 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, jus de citron.",
+          "allergenInfo": "gluten (blé), pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 389.5 kcal / 1629.668 kJ; Lipides 23.2 g; Acides gras saturés 4.79 g; Glucides 36.73 g; Sucres 18.8 g; Fibres 2.69 g; Protéines 7.06 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "Service à l’assiette"
+        },
+        "1210.10202": {
+          "label": "XL",
+          "description": "Des pistaches de récolte spéciale enveloppées de délicieux kadayif.",
+          "weight": "2040 g",
+          "portion": "≈ 12 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, jus de citron.",
+          "allergenInfo": "gluten (blé), pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 389.5 kcal / 1629.668 kJ; Lipides 23.2 g; Acides gras saturés 4.79 g; Glucides 36.73 g; Sucres 18.8 g; Fibres 2.69 g; Protéines 7.06 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "XL Boîte métallique de baklavas\nDimensions de la boîte: 345 × 225 × 45 mm"
+        },
+        "1210.10203": {
+          "label": "L",
+          "description": "Des pistaches de récolte spéciale enveloppées de délicieux kadayif.",
+          "weight": "1360 g",
+          "portion": "≈ 8 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, jus de citron.",
+          "allergenInfo": "gluten (blé), pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 389.5 kcal / 1629.668 kJ; Lipides 23.2 g; Acides gras saturés 4.79 g; Glucides 36.73 g; Sucres 18.8 g; Fibres 2.69 g; Protéines 7.06 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "L Boîte métallique de baklavas\nDimensions de la boîte: 265 × 175 × 45 mm"
+        },
+        "1210.10204": {
+          "label": "M",
+          "description": "Des pistaches de récolte spéciale enveloppées de délicieux kadayif.",
+          "weight": "680 g",
+          "portion": "≈ 4 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, jus de citron.",
+          "allergenInfo": "gluten (blé), pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 389.5 kcal / 1629.668 kJ; Lipides 23.2 g; Acides gras saturés 4.79 g; Glucides 36.73 g; Sucres 18.8 g; Fibres 2.69 g; Protéines 7.06 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "M Boîte métallique de baklavas\nDimensions de la boîte: 270 × 180 × 45 mm"
+        },
+        "1210.10205": {
+          "label": "S",
+          "description": "Des pistaches de récolte spéciale enveloppées de délicieux kadayif.",
+          "weight": "340 g",
+          "portion": "≈ 2 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, jus de citron.",
+          "allergenInfo": "gluten (blé), pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 389.5 kcal / 1629.668 kJ; Lipides 23.2 g; Acides gras saturés 4.79 g; Glucides 36.73 g; Sucres 18.8 g; Fibres 2.69 g; Protéines 7.06 g; Sel 0.02 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "S Boîte métallique de baklavas\nDimensions de la boîte: 195 × 145 × 45 mm"
+        }
+      }
+    },
+    "usta-1210101": {
+      "name": "Kadayif Sultaniye — pistache",
+      "description": "Un rêve de kadayif moelleux et croustillant, enrobé de pistaches.",
+      "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+      "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+      "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+      "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+      "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 348.3 kcal / 1457.2872 kJ; Lipides 16.41 g; Acides gras saturés 2.28 g; Glucides 44.61 g; Sucres 31.12 g; Fibres 1.64 g; Protéines 4.71 g; Sel 0.03 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10101": {
+          "label": "XL",
+          "description": "Un rêve de kadayif moelleux et croustillant, enrobé de pistaches.",
+          "weight": "2400 g",
+          "portion": "≈ 12 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 348.3 kcal / 1457.2872 kJ; Lipides 16.41 g; Acides gras saturés 2.28 g; Glucides 44.61 g; Sucres 31.12 g; Fibres 1.64 g; Protéines 4.71 g; Sel 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "XL Boîte métallique de baklavas\nDimensions de la boîte: 345 × 225 × 45 mm"
+        },
+        "1210.10102": {
+          "label": "L",
+          "description": "Un rêve de kadayif moelleux et croustillant, enrobé de pistaches.",
+          "weight": "1600 g",
+          "portion": "≈ 8 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 348.3 kcal / 1457.2872 kJ; Lipides 16.41 g; Acides gras saturés 2.28 g; Glucides 44.61 g; Sucres 31.12 g; Fibres 1.64 g; Protéines 4.71 g; Sel 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "L Boîte métallique de baklavas\nDimensions de la boîte: 265 × 175 × 45 mm"
+        },
+        "1210.10103": {
+          "label": "M",
+          "description": "Un rêve de kadayif moelleux et croustillant, enrobé de pistaches.",
+          "weight": "800 g",
+          "portion": "≈ 4 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 348.3 kcal / 1457.2872 kJ; Lipides 16.41 g; Acides gras saturés 2.28 g; Glucides 44.61 g; Sucres 31.12 g; Fibres 1.64 g; Protéines 4.71 g; Sel 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "M Boîte métallique de baklavas\nDimensions de la boîte: 270 × 180 × 45 mm"
+        },
+        "1210.10104": {
+          "label": "S",
+          "description": "Un rêve de kadayif moelleux et croustillant, enrobé de pistaches.",
+          "weight": "400 g",
+          "portion": "≈ 2 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 348.3 kcal / 1457.2872 kJ; Lipides 16.41 g; Acides gras saturés 2.28 g; Glucides 44.61 g; Sucres 31.12 g; Fibres 1.64 g; Protéines 4.71 g; Sel 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "S Boîte métallique de baklavas\nDimensions de la boîte: 195 × 145 × 45 mm"
+        },
+        "1210.10105": {
+          "label": "Part",
+          "description": "Un rêve de kadayif moelleux et croustillant, enrobé de pistaches.",
+          "weight": "200 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 348.3 kcal / 1457.2872 kJ; Lipides 16.41 g; Acides gras saturés 2.28 g; Glucides 44.61 g; Sucres 31.12 g; Fibres 1.64 g; Protéines 4.71 g; Sel 0.03 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "Service à l’assiette"
+        }
+      }
+    },
+    "usta-1210100": {
+      "name": "Kadayif — pistache",
+      "description": "Une symphonie de kadayif et de pistaches de récolte précoce.",
+      "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+      "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+      "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+      "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+      "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+      "nutrition": {
+        "basis": "Pour 100 g",
+        "values": [],
+        "summary": "Pour 100 g: Énergie 353.33 kcal / 1478.33272 kJ; Lipides 17.33 g; Acides gras saturés 3.1 g; Glucides 44.63 g; Sucres 30.9 g; Fibres 1.2 g; Protéines 4 g; Sel 0 g.",
+        "note": ""
+      },
+      "variants": {
+        "1210.10001": {
+          "label": "Service à l’assiette",
+          "description": "Une symphonie de kadayif et de pistaches de récolte précoce.",
+          "weight": "166.6 g",
+          "portion": "≈ 1 portion",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 353.33 kcal / 1478.33272 kJ; Lipides 17.33 g; Acides gras saturés 3.1 g; Glucides 44.63 g; Sucres 30.9 g; Fibres 1.2 g; Protéines 4 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "Service à l’assiette"
+        },
+        "1210.10002": {
+          "label": "XL",
+          "description": "Une symphonie de kadayif et de pistaches de récolte précoce.",
+          "weight": "1999.2 g",
+          "portion": "≈ 12 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 353.33 kcal / 1478.33272 kJ; Lipides 17.33 g; Acides gras saturés 3.1 g; Glucides 44.63 g; Sucres 30.9 g; Fibres 1.2 g; Protéines 4 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "XL Boîte métallique de baklavas\nDimensions de la boîte: 345 × 225 × 45 mm"
+        },
+        "1210.10003": {
+          "label": "L",
+          "description": "Une symphonie de kadayif et de pistaches de récolte précoce.",
+          "weight": "1332.8 g",
+          "portion": "≈ 8 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 353.33 kcal / 1478.33272 kJ; Lipides 17.33 g; Acides gras saturés 3.1 g; Glucides 44.63 g; Sucres 30.9 g; Fibres 1.2 g; Protéines 4 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "L Boîte métallique de baklavas\nDimensions de la boîte: 265 × 175 × 45 mm"
+        },
+        "1210.10004": {
+          "label": "M",
+          "description": "Une symphonie de kadayif et de pistaches de récolte précoce.",
+          "weight": "666.4 g",
+          "portion": "≈ 4 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 353.33 kcal / 1478.33272 kJ; Lipides 17.33 g; Acides gras saturés 3.1 g; Glucides 44.63 g; Sucres 30.9 g; Fibres 1.2 g; Protéines 4 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "M Boîte métallique de baklavas\nDimensions de la boîte: 270 × 180 × 45 mm"
+        },
+        "1210.10005": {
+          "label": "S",
+          "description": "Une symphonie de kadayif et de pistaches de récolte précoce.",
+          "weight": "333.2 g",
+          "portion": "≈ 2 portions",
+          "ingredients": "eau, farine de blé, sucre, pistaches, huile végétale, beurre clarifié, jus de citron.",
+          "allergenInfo": "gluten (blé), lait et produits laitiers, pistaches. Peut contenir des traces de : noix, car des produits contenant noix sont fabriqués sur la même ligne.",
+          "nutrition": {
+            "basis": "Pour 100 g",
+            "values": [],
+            "summary": "Pour 100 g: Énergie 353.33 kcal / 1478.33272 kJ; Lipides 17.33 g; Acides gras saturés 3.1 g; Glucides 44.63 g; Sucres 30.9 g; Fibres 1.2 g; Protéines 4 g; Sel 0 g.",
+            "note": ""
+          },
+          "servingSuggestion": "Conserver dans un endroit frais et sec, à l’abri du soleil.\n\nPour une consommation quotidienne, éviter le réfrigérateur, qui peut modifier la consistance du sirop.",
+          "storage": "Pour une saveur optimale, déguster à température ambiante.\n\nIl est également possible de réchauffer légèrement au four avant de servir.",
+          "longTermStorage": "Conserver au congélateur à -18 °C pendant 30 jours maximum.\n\nPour une saveur optimale, décongeler à +4 °C pendant 2 heures, puis laisser reposer 30 minutes à température ambiante avant de servir.  Une décongélation directement à température ambiante peut entraîner un dessèchement et une perte de croustillant.\n\nNe pas recongeler les produits décongelés.",
+          "packaging": "S Boîte métallique de baklavas\nDimensions de la boîte: 195 × 145 × 45 mm"
+        }
+      }
+    }
+  }
 }
