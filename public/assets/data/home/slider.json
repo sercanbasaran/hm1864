@@ -24,6 +24,30 @@
           "buttonLabel": "MİRASI KEŞFEDİN",
           "imageAlt": "Hafız Mustafa 1864",
           "backgroundImageAlt": "Kırmızı doku"
+        },
+        "en": {
+          "eyebrow": "A CENTURY OF CRAFTSMANSHIP SINCE 1864",
+          "title": "Istanbul’s sweet heritage",
+          "description": "Elegance from Istanbul to the World: Share the City’s Sweet Heritage.",
+          "buttonLabel": "DISCOVER THE HERITAGE",
+          "imageAlt": "Hafız Mustafa 1864",
+          "backgroundImageAlt": "Red texture"
+        },
+        "de": {
+          "eyebrow": "EIN JAHRHUNDERT HANDWERKSKUNST SEIT 1864",
+          "title": "Istanbuls süßes Erbe",
+          "description": "Eleganz aus Istanbul für die Welt: Teilen Sie das süße Erbe der Stadt.",
+          "buttonLabel": "DAS ERBE ENTDECKEN",
+          "imageAlt": "Hafız Mustafa 1864",
+          "backgroundImageAlt": "Rote Textur"
+        },
+        "it": {
+          "eyebrow": "UN SECOLO DI MAESTRIA DAL 1864",
+          "title": "il dolce patrimonio di Istanbul",
+          "description": "L’eleganza di Istanbul nel mondo: condividi il dolce patrimonio della città.",
+          "buttonLabel": "SCOPRI IL PATRIMONIO",
+          "imageAlt": "Hafız Mustafa 1864",
+          "backgroundImageAlt": "Trama rossa"
         }
       }
     },
@@ -43,6 +67,30 @@
           "buttonLabel": "HEMEN SİPARİŞ VERİN",
           "imageAlt": "İkonik kırmızı metal kutu",
           "backgroundImageAlt": "Kırmızı doku"
+        },
+        "en": {
+          "eyebrow": "SINCE 1864",
+          "title": "ISTANBUL’S SWEET HERITAGE<br>in every box",
+          "description": "Keeping Istanbul’s confectionery craft alive since 1864.<br>Discover pure craftsmanship and exceptional flavour.",
+          "buttonLabel": "ORDER NOW",
+          "imageAlt": "Iconic red metal box",
+          "backgroundImageAlt": "Red texture"
+        },
+        "de": {
+          "eyebrow": "SEIT 1864",
+          "title": "ISTANBULS SÜSSES ERBE<br>in jeder Box",
+          "description": "Seit 1864 halten wir Istanbuls Konditorkunst lebendig.<br>Entdecken Sie echte Handwerkskunst und einzigartigen Geschmack.",
+          "buttonLabel": "JETZT BESTELLEN",
+          "imageAlt": "Die ikonische rote Metalldose",
+          "backgroundImageAlt": "Rote Textur"
+        },
+        "it": {
+          "eyebrow": "DAL 1864",
+          "title": "IL DOLCE PATRIMONIO DI ISTANBUL<br>in ogni confezione",
+          "description": "Manteniamo viva l’arte dolciaria di Istanbul dal 1864.<br>Scopri la pura maestria artigianale e un gusto unico.",
+          "buttonLabel": "ORDINA ORA",
+          "imageAlt": "L’iconica scatola rossa in metallo",
+          "backgroundImageAlt": "Trama rossa"
         }
       }
     },
@@ -61,6 +109,27 @@
           "description": "İstanbul’un lezzet mirası,<br>özenle hazırlanmış özel kutularda bir araya geliyor.",
           "buttonLabel": "KOLEKSİYONU İNCELE",
           "imageAlt": "HM 1864 koleksiyon kutusu"
+        },
+        "en": {
+          "eyebrow": "THE 1864 SELECTION",
+          "title": "a century of craftsmanship<br>in one box",
+          "description": "Istanbul’s culinary heritage<br>comes together in carefully prepared special boxes.",
+          "buttonLabel": "EXPLORE THE COLLECTION",
+          "imageAlt": "HM 1864 collection box"
+        },
+        "de": {
+          "eyebrow": "DIE 1864 AUSWAHL",
+          "title": "ein Jahrhundert Handwerkskunst<br>in einer Box",
+          "description": "Istanbuls kulinarisches Erbe<br>vereint in sorgfältig zusammengestellten besonderen Boxen.",
+          "buttonLabel": "KOLLEKTION ENTDECKEN",
+          "imageAlt": "HM 1864 Kollektionsbox"
+        },
+        "it": {
+          "eyebrow": "LA SELEZIONE 1864",
+          "title": "un secolo di maestria<br>in un’unica confezione",
+          "description": "Il patrimonio gastronomico di Istanbul<br>si riunisce in confezioni speciali preparate con cura.",
+          "buttonLabel": "SCOPRI LA COLLEZIONE",
+          "imageAlt": "Confezione della collezione HM 1864"
         }
       }
     },
@@ -79,6 +148,27 @@
           "description": "İncecik yufkalar, seçkin Antep fıstığı<br>ve nesiller boyu aktarılan ustalık.",
           "buttonLabel": "FISTIKLI BAKLAVALARI KEŞFET",
           "imageAlt": "Fıstıklı baklavalar"
+        },
+        "en": {
+          "eyebrow": "ISTANBUL’S SWEET HERITAGE",
+          "title": "the finer details of craft and flavour",
+          "description": "Delicate layers of pastry, select Antep pistachios<br>and craftsmanship passed down through generations.",
+          "buttonLabel": "DISCOVER PISTACHIO BAKLAVA",
+          "imageAlt": "Pistachio baklava"
+        },
+        "de": {
+          "eyebrow": "ISTANBULS SÜSSES ERBE",
+          "title": "die Feinheiten von Handwerk und Geschmack",
+          "description": "Hauchdünne Teigschichten, ausgewählte Antep-Pistazien<br>und über Generationen weitergegebene Handwerkskunst.",
+          "buttonLabel": "PISTAZIEN-BAKLAVA ENTDECKEN",
+          "imageAlt": "Pistazien-Baklava"
+        },
+        "it": {
+          "eyebrow": "IL DOLCE PATRIMONIO DI ISTANBUL",
+          "title": "le sfumature della maestria e del gusto",
+          "description": "Sfoglie sottilissime, selezionati pistacchi di Antep<br>e una maestria tramandata di generazione in generazione.",
+          "buttonLabel": "SCOPRI IL BAKLAVA AL PISTACCHIO",
+          "imageAlt": "Baklava al pistacchio"
         }
       }
     },
@@ -97,6 +187,27 @@
           "description": "Özel kutlamalar ve anlamlı teşekkürler için<br>Hafız Mustafa 1864 hediye seçkileri.",
           "buttonLabel": "KURUMSAL ÇÖZÜMLERİ KEŞFET",
           "imageAlt": "Kurumsal hediye kutuları"
+        },
+        "en": {
+          "eyebrow": "CORPORATE GIFTS",
+          "title": "FLAVOURS FOR EVERY SPECIAL MOMENT",
+          "description": "Hafız Mustafa 1864 gift selections<br>for special celebrations and meaningful gestures of thanks.",
+          "buttonLabel": "EXPLORE CORPORATE GIFTING",
+          "imageAlt": "Corporate gift boxes"
+        },
+        "de": {
+          "eyebrow": "FIRMENGESCHENKE",
+          "title": "GENUSS FÜR BESONDERE MOMENTE",
+          "description": "Geschenkauswahlen von Hafız Mustafa 1864<br>für besondere Feiern und bedeutungsvolle Gesten des Dankes.",
+          "buttonLabel": "FIRMENGESCHENKE ENTDECKEN",
+          "imageAlt": "Firmengeschenkboxen"
+        },
+        "it": {
+          "eyebrow": "REGALI AZIENDALI",
+          "title": "SAPORI PER OGNI MOMENTO SPECIALE",
+          "description": "Le selezioni regalo di Hafız Mustafa 1864<br>per celebrazioni speciali e gesti di gratitudine significativi.",
+          "buttonLabel": "SCOPRI I REGALI AZIENDALI",
+          "imageAlt": "Confezioni regalo aziendali"
         }
       }
     }

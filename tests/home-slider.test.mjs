@@ -38,3 +38,20 @@ test('gridScheme accepts both positions and defaults when omitted, rejecting inv
     assert.throws(() => validateHomeSlider(invalid), /gridScheme/);
   }
 });
+
+test('all homepage slides have complete English, German and Italian copy, including accessible image descriptions', () => {
+  for (const language of ['en', 'de', 'it']) {
+    assert.ok(config.label[language]?.trim());
+    for (const slide of config.slides) {
+      const translated = localizedSlide(slide, language);
+      for (const field of Object.keys(slide.content.tr)) {
+        assert.ok(slide.content[language]?.[field]?.trim(), `${slide.id}/${language}/${field}`);
+        assert.equal(translated[field], slide.content[language][field]);
+      }
+      for (const field of ['title','description']) {
+        assert.equal((translated[field].match(/<br\s*\/?\s*>/gi)||[]).length,
+          (slide.content.tr[field].match(/<br\s*\/?\s*>/gi)||[]).length, `${slide.id}/${language}/${field} line breaks`);
+      }
+    }
+  }
+});
