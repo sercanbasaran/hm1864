@@ -100,7 +100,7 @@ test('card adds selected variant to cart and automatically selects lowest purcha
     assert.equal(card().querySelector('.card-box-photo img').getAttribute('src'), '/assets/images/urunler/baklavalar/packaging/hm1864-xl-closed-front-left.webp');
     await select('XS');assert.equal(add().disabled,true);
     assert.equal(card().querySelector('.card-box-photo'), null);
-    await select('porsiyon');assert.equal(add().disabled,true);
+    await select('porsiyon');assert.equal(add(),null);assert.ok(card().querySelector('.card-view-product')); 
     await select('S');assert.equal(add().disabled,false);
     add().click();await ready(()=>window.document.querySelector('.commerce-cart-dialog'));
     assert.deepEqual(JSON.parse(window.localStorage.getItem('hm1864.demo.cart')),[{key:product.key,variant:'S',quantity:1}]);
