@@ -1,9 +1,12 @@
-import React, { useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { useText } from '../../hooks/useText.js';
 
 export default function CareerApplication() {
   const t = useText();
   const [done, setDone] = useState(false);
+  const [selected, setSelected] = useState(null);
+  const formHeading = useRef(null);
+  useEffect(() => { if (selected) formHeading.current?.focus(); }, [selected]);
   const [fileError, setFileError] = useState(false);
   const label = name => t('careers.application.' + name);
   function submit(event) {
@@ -16,11 +19,19 @@ export default function CareerApplication() {
   }
   return <section className="brand-section career-application" id="acik-pozisyonlar" aria-labelledby="career-application-title">
     <div className="brand-section-heading"><h2 id="career-application-title">{label('title')}</h2></div>
-    <p>{label('intro')}</p>
+    <p className="career-demo-notice">{label('sampleNotice')}</p>
+    <div className="career-position-grid" aria-label={label('sampleTitle')}>
+      {['service', 'sales', 'cashier', 'barista', 'kitchen', 'production', 'warehouse', 'general'].map(position => <article className="career-position" key={position}>
+        <h3>{label(position)}</h3>
+        <p>{label('sampleDescription')}</p>
+        <button className="button" type="button" onClick={() => { setSelected(position); setDone(false); setFileError(false); }}>{label('apply')}</button>
+      </article>)}
+    </div>
+    {selected && <div className="career-application-panel">
+    <h3 ref={formHeading} tabIndex={-1}>{label('selected')}: {label(selected)}</h3>
     <p className="career-demo-notice">{label('demo')}</p>
-    <a href="https://www.hafizmustafa.com/i%CC%87%C5%9F-ba%C5%9Fvurusu" target="_blank" rel="noopener noreferrer">{label('official')} ↗</a>
-    <form className="career-form" onSubmit={submit}>
-      <label className="career-wide">{label('position')} *<input name="position" required maxLength="120" /></label>
+    <form key={selected} className="career-form" onSubmit={submit}>
+      <label className="career-wide">{label('position')}<input name="position" value={label(selected)} readOnly /></label>
       <label>{label('first')} *<input name="first" autoComplete="given-name" required /></label>
       <label>{label('last')} *<input name="last" autoComplete="family-name" required /></label>
       <label>{label('birth')}<input name="birth" type="date" /></label>
@@ -37,5 +48,6 @@ export default function CareerApplication() {
       <div className="career-wide"><button className="button" type="submit">{label('submit')}</button></div>
     </form>
     {done && <p className="career-demo-notice" role="status">{label('success')}</p>}
+    </div>}
   </section>;
 }

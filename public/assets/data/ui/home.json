@@ -2530,20 +2530,20 @@
       "pt": "BBC Good Food Middle East Magazine Awards"
     },
     "home.countdown.title": {
-      "tr": "Geri sayım",
-      "en": "Countdown",
-      "ar": "العد التنازلي",
-      "de": "Countdown",
-      "fr": "Compte à rebours",
-      "it": "Conto alla rovescia",
-      "es": "Cuenta atrás",
-      "ru": "Обратный отсчёт",
-      "zh-CN": "倒计时",
-      "ja": "カウントダウン",
-      "hi": "उलटी गिनती",
-      "ur": "الٹی گنتی",
-      "fa": "شمارش معکوس",
-      "pt": "Contagem regressiva"
+      "tr": "Seçkinin yayınlanmasına son",
+      "en": "Time until the collection launches",
+      "ar": "الوقت المتبقي لإطلاق المجموعة",
+      "de": "Noch bis zum Start der Kollektion",
+      "fr": "Temps restant avant le lancement de la collection",
+      "it": "Tempo al lancio della collezione",
+      "es": "Tiempo restante para el lanzamiento de la colección",
+      "ru": "До выхода коллекции осталось",
+      "zh-CN": "距离精选系列发布还有",
+      "ja": "コレクション公開まで",
+      "hi": "संग्रह के लॉन्च होने में शेष समय",
+      "ur": "منتخب مجموعے کے اجرا میں باقی وقت",
+      "fa": "زمان باقی‌مانده تا عرضه مجموعه",
+      "pt": "Tempo restante para o lançamento da coleção"
     },
     "home.countdown.days": {
       "tr": "Gün",
@@ -2608,6 +2608,38 @@
       "ur": "سیکنڈ",
       "fa": "ثانیه",
       "pt": "Segundos"
+    },
+    "home.heritage.scrollLeft": {
+      "tr": "Tarihleri sola kaydır",
+      "en": "Scroll dates left",
+      "ar": "تمرير التواريخ إلى اليسار",
+      "de": "Jahreszahlen nach links scrollen",
+      "fr": "Faire défiler les dates vers la gauche",
+      "it": "Scorri le date a sinistra",
+      "es": "Desplazar fechas a la izquierda",
+      "ru": "Прокрутить даты влево",
+      "zh-CN": "向左滚动日期",
+      "ja": "年表を左にスクロール",
+      "hi": "तिथियाँ बाईं ओर स्क्रॉल करें",
+      "ur": "تاریخیں بائیں جانب اسکرول کریں",
+      "fa": "پیمایش تاریخ‌ها به چپ",
+      "pt": "Rolar datas para a esquerda"
+    },
+    "home.heritage.scrollRight": {
+      "tr": "Tarihleri sağa kaydır",
+      "en": "Scroll dates right",
+      "ar": "تمرير التواريخ إلى اليمين",
+      "de": "Jahreszahlen nach rechts scrollen",
+      "fr": "Faire défiler les dates vers la droite",
+      "it": "Scorri le date a destra",
+      "es": "Desplazar fechas a la derecha",
+      "ru": "Прокрутить даты вправо",
+      "zh-CN": "向右滚动日期",
+      "ja": "年表を右にスクロール",
+      "hi": "तिथियाँ दाईं ओर स्क्रॉल करें",
+      "ur": "تاریخیں دائیں جانب اسکرول کریں",
+      "fa": "پیمایش تاریخ‌ها به راست",
+      "pt": "Rolar datas para a direita"
     }
   }
 }
