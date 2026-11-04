@@ -1,3 +1,5 @@
+import CareerApplication from "../components/brand/CareerApplication.jsx";
+import { useText } from "../hooks/useText.js";
 import {menuText,visibleItems} from '../menus.js';
 import MenuItems from '../components/layout/MenuItems.jsx';
 import Icon from "../components/Icon.jsx";
@@ -7,6 +9,7 @@ import { brandText } from "../brand-content.js";
 import { local } from "../utils/urls.js";
 import BrandSections from "../components/brand/BrandSections.jsx";
 export default function BrandPage({ page }) {
+  const t = useText();
   const { data, preferences, regions } = useApp(),
     language = preferences?.language || regions.defaultLanguage,
     text = (v) => brandText(v, language);
@@ -45,6 +48,7 @@ export default function BrandPage({ page }) {
         <aside className="brand-chapters">
           <p>{menuText(menu.chaptersTitle,language)}</p>
           <nav aria-label={menuText(menu.chaptersTitle,language)}>
+            {page.id === "careers" && <a href="#acik-pozisyonlar">{t("careers.application.title")}</a>}
             {chapters.map((s) => (
               <a key={s.id} href={"#" + s.id}>
                 {text(s.title)}
@@ -56,6 +60,7 @@ export default function BrandPage({ page }) {
           </a>}
         </aside>
         <div className="brand-main-content">
+          {page.id === "careers" && <CareerApplication />}
           <BrandSections page={page} language={language} labels={labels} />
         </div>
       </div>

@@ -6478,3 +6478,20 @@ input:is([type="checkbox"], [type="radio"]) {
 .selection-page .collection-ornament { width: min(100%, 435px); height: auto; margin-inline: auto; }
 .selection-page .collection-ornament-top { width: min(100%, 517px); margin-bottom: 30px; }
 .selection-page .collection-ornament-bottom { margin-top: 30px; }
+
+/* Pierre Loti countdown */
+.selection-countdown { margin: 24px 0; }
+.selection-countdown .selection-countdown-title { color: #806127; font-size: 12px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; margin: 0 0 12px; }
+.selection-countdown-values { display: flex; flex-wrap: wrap; gap: 8px; }
+.selection-countdown-unit { min-width: 66px; padding: 8px 10px; border: 1px solid #d8c49c; text-align: center; }
+.selection-countdown-number { display: block; color: #173e30; font-size: clamp(21px, 3vw, 28px); line-height: 1.15; font-variant-numeric: tabular-nums; }
+.selection-countdown-label { display: block; color: #555; font-size: 11px; margin-top: 4px; }
+
+/* Career application form */
+.career-demo-notice { background: #f8f5ef; border-inline-start: 3px solid var(--gold); padding: 14px 16px; margin: 20px 0; }
+.career-form { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; margin-top: 26px; }
+.career-form label { display: flex; flex-direction: column; gap: 7px; min-width: 0; }
+.career-form input, .career-form textarea { width: 100%; min-width: 0; padding: 12px; border: 1px solid #cfc7bf; border-radius: 3px; background: #fff; color: #161616; font: inherit; }
+.career-form input[type=file] { padding: 10px; }
+.career-wide { grid-column: 1 / -1; }
+@media(max-width: 600px) { .career-form { grid-template-columns: minmax(0, 1fr); } }
