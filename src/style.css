@@ -1073,7 +1073,7 @@ textarea:focus {
 
 .heritage-section {
   padding: 85px 50px 110px;
-  background: #101010;
+  background: #101010 linear-gradient(rgba(0, 0, 0, .28), rgba(0, 0, 0, .28)), url("/assets/images/history/heritage-marble-background.png") center / cover no-repeat;
   color: #fff;
   min-height: 700px
 }
@@ -6414,7 +6414,10 @@ input:is([type="checkbox"], [type="radio"]) {
 .home-main { padding-bottom: 100px; }
 
 /* Homepage Pierre Loti teaser. */
-.collection-section { background: #f8f5ef; padding: 72px 24px; }
+.collection-section { background: #fff; padding: 72px 24px; }
+.collection-ornament { display: block; width: min(100%, 435px); height: auto; margin-inline: auto; }
+.collection-ornament-top { width: min(100%, 517px); margin-bottom: 30px; }
+.collection-ornament-bottom { margin-top: 30px; }
 .collection-content { max-width: 1200px; margin-inline: auto; gap: clamp(24px, 5vw, 72px); }
 .collection-content > .media { height: auto; min-height: 0; aspect-ratio: 560 / 345; background: #fff; }
 .collection-content > .media img { object-fit: contain; }
