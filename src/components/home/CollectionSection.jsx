@@ -8,6 +8,7 @@ import RichText from "../../RichText.jsx";
 export default function CollectionSection({ config = defaults.collection }) {
   const t = useText();
   return <section className="collection-section">
+    <img className="collection-ornament collection-ornament-top" src="/assets/images/seckiler/pierre-loti-ust-kubbe.png" alt="" aria-hidden="true" />
     <div className="split collection-content">
       <Media src={local(config.image)} alt={t(config.imageAltKey)} />
       <div>
@@ -18,5 +19,6 @@ export default function CollectionSection({ config = defaults.collection }) {
         <a className="button button-gold" href={local(config.href)}><RichText value={t(config.buttonKey)} /></a>
       </div>
     </div>
+    <img className="collection-ornament collection-ornament-bottom" src="/assets/images/seckiler/pierre-loti-alt-cizgiler.png" alt="" aria-hidden="true" />
   </section>;
 }
