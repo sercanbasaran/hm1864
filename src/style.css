@@ -586,6 +586,12 @@ textarea:focus {
   margin-bottom: 20px
 }
 
+.mega-head--subcategories {
+  justify-content: flex-end;
+  border-bottom: 0;
+  margin-bottom: 12px;
+}
+
 .mega-head h2 {
   margin: 0;
   font-size: 14px
@@ -6455,3 +6461,12 @@ input:is([type="checkbox"], [type="radio"]) {
 .product-satiety-scale > span { width: 16px; height: 5px; border: 1px solid #b8aa90; border-radius: 2px; }
 .product-satiety-scale > .is-filled { background: #9a711f; border-color: #9a711f; }
 .product-satiety-value { font-size: 13px; line-height: 1.6; overflow-wrap: anywhere; }
+
+/* Mobile navigation alignment and accordion icons */
+@media (max-width: 767px) {
+  .header-gold .header-left .mobile-toggle { position: static; left: auto; flex-shrink: 0; }
+}
+.mobile-menu-content summary { display: flex; align-items: center; justify-content: space-between; gap: 12px; list-style: none; }
+.mobile-menu-content summary::-webkit-details-marker { display: none; }
+.mobile-menu-content summary .icon { flex-shrink: 0; transition: transform .2s ease; }
+.mobile-menu-content details[open] summary .icon { transform: rotate(180deg); }

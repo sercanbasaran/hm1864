@@ -71,10 +71,10 @@ export default function Card({ product: p }) {
         </div>
         <div className="card-actions">
           {cartCode === null && !isOnlineSaleUnavailable(p) && <p className="card-cart-hint"><RichText value={t("commerce.chooseVariant")} /></p>}
-          <button type="button" className="button card-add-to-cart" disabled={!canAdd}
+          {!(selected ? selected.onlineSale === false : isOnlineSaleUnavailable(p)) && <button type="button" className="button card-add-to-cart" disabled={!canAdd}
             onClick={() => { if (canAdd && commerce.addToCart(p, cartCode, 1)) setModal('cart'); }}>
             <RichText value={t("commerce.add")} />
-          </button>
+          </button>}
           <a className="button card-view-product" href={local(channelUrl(p.url, channel))}>
             <RichText value={t("template.0127")} />
           </a>

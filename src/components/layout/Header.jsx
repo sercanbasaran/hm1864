@@ -181,8 +181,8 @@ export default function Header() {
             }}
             aria-label={plainText(t("template.0016"))}
           >
-            <div className="mega-head">
-              <div className="mega-tabs">
+            <div className={"mega-head" + (menu !== "all" ? " mega-head--subcategories" : "")}>
+              {menu === "all" && <div className="mega-tabs">
                 {tabs.map((item) => (
                   <button
                     key={item.id}
@@ -194,7 +194,7 @@ export default function Header() {
                     />
                   </button>
                 ))}
-              </div>
+              </div>}
               <button
                 className="icon-button"
                 onClick={() => setMenu(null)}
@@ -210,14 +210,14 @@ export default function Header() {
             >
               {cats.map((c) => (
                 <div key={c.name} className="mega-category">
-                  <h3>
+                  {menu === "all" && <h3>
                     <a
                       onClick={closeMenu}
                       href={local(c.url)} data-menu-channel={tab}
                     >
                       <RichText value={c.name} />
                     </a>
-                  </h3>
+                  </h3>}
                   <div className="mega-subcategories">
                     {c.children.map((sub) => (
                       <a
