@@ -6473,3 +6473,8 @@ input:is([type="checkbox"], [type="radio"]) {
 .mobile-menu-content summary::-webkit-details-marker { display: none; }
 .mobile-menu-content summary .icon { flex-shrink: 0; transition: transform .2s ease; }
 .mobile-menu-content details[open] summary .icon { transform: rotate(180deg); }
+
+/* Pierre Loti collection page decorative motifs. */
+.selection-page .collection-ornament { width: min(100%, 435px); height: auto; margin-inline: auto; }
+.selection-page .collection-ornament-top { width: min(100%, 517px); margin-bottom: 30px; }
+.selection-page .collection-ornament-bottom { margin-top: 30px; }
