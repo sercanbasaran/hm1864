@@ -1,11 +1,12 @@
 import React from 'react';
+import SelectionCountdown from '../components/selection/SelectionCountdown.jsx';
 import { useText } from '../hooks/useText.js';
 export default function SelectionPage({route}) {
  const t = useText();
  if (route.selection !== 'pierre-loti') return <section className="selection-page"><p className="eyebrow">{t("selection.pierreLoti.text00")}</p><h1>{route.title}</h1><p>{t("selection.pierreLoti.text01")}</p><a className="button" href="/koleksiyonlar/pierre-loti-seckisi/index.html">{t("selection.pierreLoti.text02")}</a></section>;
  return <div className="selection-page">
   <img className="collection-ornament collection-ornament-top" src="/assets/images/seckiler/pierre-loti-ust-kubbe.png" alt="" aria-hidden="true" />
-  <section className="selection-hero"><div><p className="eyebrow">{t("selection.pierreLoti.text03")}</p><h1>Pierre Loti<br/>{t("selection.pierreLoti.text04")}</h1><p>{t("selection.pierreLoti.text05")}</p><a className="button" href="#kutunun-hikayesi">{t("selection.pierreLoti.text06")}</a></div><img src="/assets/images/seckiler/pierre-loti-kutu.jpg" alt={t("selection.pierreLoti.text07")}/></section>
+  <section className="selection-hero"><div><p className="eyebrow">{t("selection.pierreLoti.text03")}</p><h1>Pierre Loti<br/>{t("selection.pierreLoti.text04")}</h1><p>{t("selection.pierreLoti.text05")}</p><SelectionCountdown /><a className="button" href="#kutunun-hikayesi">{t("selection.pierreLoti.text06")}</a></div><img src="/assets/images/seckiler/pierre-loti-kutu.jpg" alt={t("selection.pierreLoti.text07")}/></section>
   <section className="selection-story"><img src="/assets/images/seckiler/pierre-loti-halic.jpg" alt={t("selection.pierreLoti.text08")} loading="lazy"/><p className="eyebrow">{t("selection.pierreLoti.text09")}</p><h2>{t("selection.pierreLoti.text10")}</h2><p>{t("selection.pierreLoti.text11")}</p></section>
   <section id="kutunun-hikayesi"><p className="eyebrow">{t("selection.pierreLoti.text12")}</p><h2>{t("selection.pierreLoti.text13")}</h2><div className="selection-features">{[
    [t("selection.pierreLoti.text14"),t("selection.pierreLoti.text15")],

@@ -1,4 +1,5 @@
 import React from "react";
+import SelectionCountdown from "../selection/SelectionCountdown.jsx";
 import defaults from "./sections.json";
 import { useText } from "../../hooks/useText.js";
 import { local } from "../../utils/urls.js";
@@ -16,6 +17,7 @@ export default function CollectionSection({ config = defaults.collection }) {
         <h2><RichText value={t(config.titleKey)} /></h2>
         <h3><RichText value={t(config.subtitleKey)} /></h3>
         {config.paragraphKeys.map(key => <p key={key}><RichText value={t(key)} /></p>)}
+        <SelectionCountdown />
         <a className="button button-gold" href={local(config.href)}><RichText value={t(config.buttonKey)} /></a>
       </div>
     </div>
